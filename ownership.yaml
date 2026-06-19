@@ -60,6 +60,7 @@ generated:
   - static/nn
   - static/search
   - static/wasm
+  - static/logo
   - static/bg
   - static/favicon.png
   - static/img/clanmap-*.svg

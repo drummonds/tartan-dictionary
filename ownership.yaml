@@ -1,0 +1,74 @@
+# ownership.yaml — the build-workspace ownership contract
+#
+# tartan-dictionary is a BUILD WORKSPACE, not a source repo. Its tree is assembled from
+# two upstreams:
+#   - tartan-dictionary-template   authored content + site machinery (overlaid by `task sync`)
+#   - tartan-weaver                the engine (`task tdb`) — generates the bulk of the content
+#
+# This file is the SINGLE SOURCE OF TRUTH for "who owns what" in the assembled tree.
+# Paths are repo-root-relative. A bare name (no slash) matches that top-level entry;
+# a trailing-glob (e.g. static/img/clanmap-*.svg) matches by shell glob.
+#
+# Two consumers depend on this contract and MUST agree with it:
+#
+#   - THIS repo's `task clean`  keeps `owned` + `preserved`, deletes everything else
+#                               (a full reset to the owned skeleton). It reads the keep
+#                               list straight out of this file.
+#
+#   - the TEMPLATE's `task sync` must EXCLUDE every path in `owned`, `preserved`,
+#                               `generated` and `build_artifact` (so an `rsync --delete`
+#                               overlay never clobbers or deletes them). The template
+#                               pins a copy of this file and `task sync:check` fails if
+#                               the copy has drifted or any path is not excluded.
+#
+# Anything NOT listed here is authored content the template owns and `task sync` pushes.
+
+# Files THIS workspace owns outright. Authoritative here; the template never overwrites them.
+owned:
+  - Taskfile.yml
+  - README.md
+  - CLAUDE.md
+  - .gitignore
+  - ownership.yaml
+  - repo.go
+
+# Local VCS / tool state. Not site content: clean keeps it, sync must never touch it.
+preserved:
+  - .git
+  - .claude
+  - .vscode
+
+# Produced by the tartan-weaver engine (`task tdb` == pages:gen + clanmap + wasm:all +
+# search:export + site:assets). Regenerated, never authored here. `task clean` removes
+# these; the template sync must EXCLUDE them so an overlay never deletes generated pages.
+generated:
+  # content sections the weaver fills (item pages + their _index.md)
+  - content/setts
+  - content/stripes
+  - content/bands
+  - content/clan
+  - content/colour
+  - content/families
+  - content/family
+  - content/type
+  - content/sources
+  # generated data + shortcode
+  - data/base6.json
+  - data/ttd_gallery.json
+  - layouts/shortcodes/pat.html
+  # generated static assets
+  - static/nn
+  - static/search
+  - static/wasm
+  - static/bg
+  - static/favicon.png
+  - static/img/clanmap-*.svg
+
+# Local build output / caches. Regenerable; removed by clean, never synced. Mostly gitignored.
+build_artifact:
+  - public
+  - resources
+  - .hugo_build.lock
+  - .task
+  - test.log
+  - WOW

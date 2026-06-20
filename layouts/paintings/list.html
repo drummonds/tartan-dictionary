@@ -1,0 +1,15 @@
+{{/* The /paintings/ index carries its whole body in generated content — the intro plus a
+     date-ordered table of every painting (genpages' WritePaintingPages) — so render .Content like a
+     single page rather than the _default date archive (which drops the body). Mirrors
+     stripes/list.html; the per-work pages under /paintings/<slug>/ are rendered by
+     _default/single.html (which wraps them in .post-text). */}}
+{{ define "main" }}
+<article class="post">
+  <header class="post-header">
+    <h1 style="text-align: center;">{{ .Title }}</h1>
+  </header>
+  <div class="post-text">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

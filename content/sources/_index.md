@@ -20,7 +20,7 @@ When the same cloth is recorded by more than one source, the records **collapse*
 | [Scottish Tartans Authority](/sources/tartans-authority/) | tartan setts | 5999 | active |
 | [Weddslist](/sources/weddslist/) | tartan setts | 3397 | active |
 | [Ingles Buchan](/sources/inglesbuchan/) | cloth photographs | 519 | pending |
-| [National Galleries of Scotland](/sources/national-galleries/) | cloth photographs | 1 | pending |
+| [Paintings](/sources/paintings/) | cloth photographs | 1 | pending |
 | [Scottish Register of Tartans (site mirror)](/sources/registry/) | cloth photographs | 9505 | pending |
 | [Lochcarron shade card](/sources/lochcarron-colours/) | colour / shade definitions | 1 | scaffold |
 | [Wikipedia](/sources/wikipedia/) | descriptive text | 1 | scaffold |

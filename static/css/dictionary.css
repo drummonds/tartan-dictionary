@@ -33,6 +33,30 @@
   word-break: break-word;
 }
 
+/* A painting's recovered-sett palette (on /paintings/<work>/): the same coloured-block + code idiom
+   as .pat, but each block is paired with its code label inline (block, code, block, code …) rather
+   than all blocks then one sequence. */
+.painting-palette {
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .2em .5em;
+  max-width: 100%;
+}
+.painting-palette .blk {
+  display: inline-block;
+  width: 1.1em;
+  height: 1.1em;
+  border: 1px solid #0003;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+.painting-palette .seq {
+  font-family: monospace;
+  font-size: .85em;
+  margin-left: .15em;
+}
+
 /* External border: a real tartan from the corpus — Drummond of Perth (/setts/s8/…wd0d0d0-yffc800/)
    — tiles behind the centred content column (body.container is max-width 900px, margin auto), so on
    wider screens the plaid shows as a woven frame around the page, like matted artwork. The engine's

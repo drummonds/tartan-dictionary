@@ -51,6 +51,7 @@ generated:
   - content/family
   - content/type
   - content/sources
+  - content/paintings
   # generated data + shortcode
   - data/base6.json
   - data/ttd_gallery.json

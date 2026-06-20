@@ -89,6 +89,12 @@ pagerSize = 20
     name = "Match a logo"
     url = "/logo/"
     weight = 3
+    # Paintings — tartan witnessed in art, the dated /paintings/ gallery (the `paintings` source).
+    [[menu.main]]
+    parent = "tartans"
+    name = "Paintings"
+    url = "/paintings/"
+    weight = 4
 
   # TTD (the tartan navigator) is its own top-level entry.
   [[menu.main]]

@@ -190,7 +190,7 @@
       h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
         info.stripes + '/">' + info.stripes + ' stripes</a></p>');
       h.push('<h2>Thread count</h2>');
-      h.push('<p>' + esc(info.threadcount) + '</p>');
+      h.push(threadEditor(info));
       h.push(scaleControls(info));
       h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
@@ -235,7 +235,12 @@
     var woven = window.weaver.renderWoven(info.slug, 480);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
-    if (ttd) { wireShadeButtons(shell, info); wireScale(shell, info); wireBaseline(shell, info); }
+    if (ttd) {
+      wireThreadEditor(shell, info);
+      wireShadeButtons(shell, info);
+      wireScale(shell, info);
+      wireBaseline(shell, info);
+    }
     var slot = document.getElementById('weaver-print-slot');
     if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));
 
@@ -333,6 +338,114 @@
       next.name = info.name || '';
       setAddress(next, true);
       render(shell, next, true);
+    });
+  }
+
+  /* ---- Stage 2: inline thread-count editing (epic #36) ----
+   * parseStripes turns the canonical thread count back into an ordered [{code,pivot,count,hex}]
+   * list the editor mutates. Count edits keep the colour and only re-factor the ~xN scale when the
+   * GCD changes; Stage 3 (below) reuses this to add/delete/recolour stripes. */
+  function parseStripes(info) {
+    var hex = {};
+    (info.palette || []).forEach(function (p) { hex[p.code] = p.hex; });
+    return String(info.threadcount).split(/\s+/).filter(Boolean).map(function (t) {
+      var m = /^([A-Za-z]+)(\/?)(\d+)$/.exec(t);
+      if (!m) return null;
+      var code = m[1].toUpperCase();
+      return { code: code, pivot: m[2] === '/', count: parseInt(m[3], 10), hex: hex[code] || '#ccc' };
+    }).filter(Boolean);
+  }
+
+  /* ---- Stage 3: add / delete threads, recolour per stripe (epic #36) ----
+   * Rebuild the whole sett from a per-stripe [{hex,count}] list: each distinct colour gets a
+   * transient code, then fromInput re-derives the canonical human-palette codes. This makes a
+   * per-stripe colour picker recolour one stripe (or introduce a brand-new colour) without
+   * touching its neighbours, and lets stripes be inserted/deleted. Pivots are by position (the
+   * reflective half-sett's first and last), so add/delete re-marks them automatically. */
+  function rebuildFromStripes(shell, info, stripes) {
+    var codeOf = {}, pal = [], n = 0;
+    function codeFor(hex) {
+      hex = hex.toUpperCase();
+      if (!(hex in codeOf)) {
+        var c = n < 26 ? String.fromCharCode(65 + n) : 'Z' + n;
+        n++; codeOf[hex] = c; pal.push(c + hex);
+      }
+      return codeOf[hex];
+    }
+    var last = stripes.length - 1;
+    var tc = stripes.map(function (s, i) {
+      return codeFor(s.hex) + ((i === 0 || i === last) ? '/' : '') + s.count;
+    }).join(' ');
+    var next = window.weaver.fromInput(info.name || '', pal.join(' '), tc);
+    if (next.error) { statLine('thread edit failed: ' + next.error); return; }
+    next.name = info.name || '';
+    setAddress(next, true);
+    render(shell, next, true);
+  }
+
+  function threadEditor(info) {
+    var btn = 'width:1.5em;height:1.6em;padding:0;line-height:1.6em;vertical-align:middle;cursor:pointer';
+    var cells = parseStripes(info).map(function (s, i) {
+      return '<span class="thread-stripe" data-i="' + i + '" style="display:inline-flex;align-items:center;' +
+        'gap:1px;margin:0 .6em .45em 0;white-space:nowrap;border:1px solid #eee;border-radius:4px;padding:1px 3px">' +
+        '<input type="color" data-hex value="' + s.hex.toLowerCase() + '" title="recolour this stripe (' +
+        esc(s.code) + ') — pick any shade, or a new colour" aria-label="' + esc(s.code) + ' colour" ' +
+        'style="width:1.7em;height:1.7em;padding:0;border:1px solid #0003;vertical-align:middle;cursor:pointer">' +
+        '<strong style="margin:0 .15em">' + esc(s.code) + (s.pivot ? '/' : '') + '</strong>' +
+        '<button data-step="-1" title="one thread fewer" style="' + btn + '">−</button>' +
+        '<input type="number" min="1" value="' + s.count + '" data-count aria-label="' + esc(s.code) +
+        ' threads" style="width:3.4em;text-align:center;margin:0 1px">' +
+        '<button data-step="1" title="one thread more" style="' + btn + '">＋</button>' +
+        '<button data-ins title="insert a stripe after this one" style="' + btn + ';margin-left:3px">⊕</button>' +
+        '<button data-del title="delete this stripe" style="' + btn + '">✕</button>' +
+        '</span>';
+    });
+    return '<div id="weaver-threads" style="display:flex;flex-wrap:wrap;align-items:center">' +
+      cells.join('') +
+      '<button data-add title="add a stripe at the end" style="margin:0 0 .45em .2em">＋ stripe</button></div>';
+  }
+
+  function wireThreadEditor(shell, info) {
+    var box = document.getElementById('weaver-threads');
+    if (!box) return;
+    // Apply fn to a fresh {hex,count} copy of the stripes; null ⇒ no-op (nothing changed / blocked).
+    function mutate(fn) {
+      var out = fn(parseStripes(info).map(function (s) { return { hex: s.hex, count: s.count }; }));
+      if (out) rebuildFromStripes(shell, info, out);
+    }
+    function idx(el) { var c = el.closest('.thread-stripe'); return c ? +c.dataset.i : -1; }
+    box.addEventListener('click', function (ev) {
+      var b = ev.target.closest('button'); if (!b) return;
+      ev.preventDefault();
+      var i = idx(b);
+      if (b.hasAttribute('data-step')) {
+        mutate(function (s) {
+          var v = Math.max(1, s[i].count + parseInt(b.dataset.step, 10));
+          if (v === s[i].count) return null; s[i].count = v; return s;
+        });
+      } else if (b.hasAttribute('data-ins')) {
+        mutate(function (s) { s.splice(i + 1, 0, { hex: s[i].hex, count: s[i].count }); return s; });
+      } else if (b.hasAttribute('data-del')) {
+        mutate(function (s) {
+          if (s.length <= 2) { statLine('a sett needs at least two stripes'); return null; }
+          s.splice(i, 1); return s;
+        });
+      } else if (b.hasAttribute('data-add')) {
+        mutate(function (s) { s.push({ hex: s[s.length - 1].hex, count: 2 }); return s; });
+      }
+    });
+    box.addEventListener('change', function (ev) {
+      var el = ev.target;
+      if (el.matches && el.matches('input[data-count]')) {
+        var i = idx(el);
+        mutate(function (s) {
+          var v = Math.max(1, parseInt(el.value, 10) || 1);
+          if (v === s[i].count) return null; s[i].count = v; return s;
+        });
+      } else if (el.matches && el.matches('input[data-hex]')) {
+        var j = idx(el);
+        mutate(function (s) { s[j].hex = el.value.toUpperCase(); return s; });
+      }
     });
   }
 

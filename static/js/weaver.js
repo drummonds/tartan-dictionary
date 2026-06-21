@@ -123,6 +123,38 @@
     return URL.createObjectURL(new Blob([bytes], { type: 'image/png' }));
   }
 
+  /* Weave the whole sett tessellated across a page-sized image (at the cloth's real density), open it
+   * in a new tab, and offer it for download. Popup-blocked? fall back to a direct download. */
+  function weaveFullPage(info) {
+    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+    var png = window.weaver.renderWoven(info.slug, 1400, tpcm, 1800);
+    if (!png || png.error) {
+      statLine('full-page weave failed: ' + ((png && png.error) || 'unknown'));
+      return;
+    }
+    var url = pngURL(png);
+    var file = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan') + '.png';
+    var win = window.open('', '_blank');
+    if (win) {
+      win.document.write('<!doctype html><meta charset="utf-8"><title>' + esc(file) + '</title>' +
+        '<body style="margin:0;background:#222;text-align:center;font:14px system-ui">' +
+        '<p style="margin:.5em"><a href="' + url + '" download="' + esc(file) + '" style="color:#9cf">⤓ Download ' + esc(file) + '</a></p>' +
+        '<img src="' + url + '" style="max-width:100%;height:auto">' +
+        '</body>');
+      win.document.close();
+    } else {
+      var a = document.createElement('a');
+      a.href = url;
+      a.download = file;
+      a.click();
+    }
+  }
+
+  function wireFullPage(shell, info) {
+    var btn = document.getElementById('weaver-fullpage');
+    if (btn) btn.addEventListener('click', function () { weaveFullPage(info); });
+  }
+
   /* The TTD entry: #slug=<slug> opens that variant for editing; no fragment starts from a blank
    * form. Re-entered on every fragment change. */
   function bootTTD(shell) {
@@ -203,6 +235,7 @@
       h.push(threadEditor(info));
       h.push(scaleControls(info));
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
+      h.push('<p><button type="button" id="weaver-fullpage">⤢ Weave full page</button> — tessellate the sett across a page (opens a downloadable image)</p>');
       h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
         info.stripes + '/">' + info.stripes + ' stripes</a></p>');
       h.push(baselineSection(info));
@@ -260,6 +293,7 @@
       wireShadeButtons(shell, info);
       wireScale(shell, info);
       wireBaseline(shell, info);
+      wireFullPage(shell, info);
     }
     var slot = document.getElementById('weaver-print-slot');
     if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));

@@ -233,9 +233,12 @@
     }
     var h = [];
     if (ttd) {
+      // The baseline comes first: pinning it sets what every palette row is compared against.
+      h.push(baselineSection(info));
       // The palette list is the working surface: one row per stripe, in sett order — recolour it,
-      // step its thread count, and jog its standard shade, all in one place. Base/ΔE live in
-      // base-tartan comparison (the pinned baseline), not in editing a cloth on its own.
+      // step its thread count, and jog its standard shade, all in one place. When a baseline is
+      // pinned each row leads with the base stripe's colour + threads. Base/ΔE live in base-tartan
+      // comparison, not in editing a cloth on its own.
       h.push('<h2>Palette &amp; thread count</h2>');
       h.push('<div id="weaver-palette">' + paletteEditor(info) + '</div>');
       h.push(scaleControls(info));
@@ -249,7 +252,6 @@
         h.push('<p>On the Tartan Dictionary: <a href="' + info.tartanURL + '">parent tartan</a> · <a href="' +
           info.path + '">this variant</a></p>');
       }
-      h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
       h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
       h.push('<p>ID: <a href="' + info.path + '">' + esc(info.path) + '</a> — this address alone encodes the cloth.</p>');
@@ -446,11 +448,20 @@
     var shadeRows = shadeRowsFor(info);
     var byCode = {};
     (shadeRows || []).forEach(function (r) { byCode[r.code] = r; });
+    // When a baseline is pinned, each row leads with the base stripe it is compared against — its
+    // colour and thread count, read-only — aligned by position (a pinned baseline is usually the same
+    // structure you then jog or step).
+    var baseStripes = null, baseSlug = baseSlugFromHash();
+    if (baseSlug) {
+      var baseInfo = window.weaver.parseSlug(baseSlug);
+      if (!baseInfo.error) baseStripes = parseStripes(baseInfo);
+    }
     var btn = 'width:1.6em;height:1.7em;padding:0;line-height:1.7em;vertical-align:middle;cursor:pointer';
     var rows = parseStripes(info).map(function (s, i) {
       var jog = shadeRows ? shadeCell(s.code, byCode[s.code]) : '';
       return '<div class="thread-stripe" data-i="' + i + '" style="display:flex;align-items:center;' +
         'gap:.3em;flex-wrap:wrap;padding:3px 0;border-top:1px solid #f0f0f0">' +
+        (baseStripes ? baseStripeCell(baseStripes[i]) : '') +
         '<input type="color" data-hex value="' + s.hex.toLowerCase() + '" title="recolour this stripe (' +
         esc(s.code) + ') — pick any shade, or a new colour" aria-label="' + esc(s.code) + ' colour" ' +
         'style="width:1.8em;height:1.8em;padding:0;border:1px solid #0003;cursor:pointer">' +
@@ -469,6 +480,19 @@
       '<button data-add title="add a stripe at the end">＋ stripe</button>' +
       (shadeRows ? ' <span style="color:#888;font-size:smaller">standard shade ' + supplierChooser() + '</span>' : '') +
       '</div>';
+  }
+
+  /* The read-only baseline cell that leads a row when comparing: the pinned base stripe's colour and
+   * thread count, greyed, with a divider before the working controls. A placeholder when the base has
+   * no stripe at this position (the structures diverged in length). */
+  function baseStripeCell(s) {
+    var inner = s
+      ? '<span style="display:inline-block;width:1.1em;height:1.1em;border:1px solid #0003;' +
+        'vertical-align:middle;background:' + esc(s.hex) + '"></span> ' + s.count
+      : '<span style="color:#bbb">—</span>';
+    return '<span class="base-cell" title="pinned baseline" style="display:inline-flex;align-items:center;' +
+      'gap:.25em;min-width:3.5em;color:#666;border-right:1px solid #ddd;padding-right:.5em;margin-right:.15em">' +
+      inner + '</span>';
   }
 
   function wireThreadEditor(shell, info) {

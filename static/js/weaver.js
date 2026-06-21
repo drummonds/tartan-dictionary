@@ -296,7 +296,7 @@
       h.push('<p>' + esc(info.threadcount) + '</p>');
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
       h.push('<h2>Palette</h2>');
-      h.push('<p>Each colour and its ΔE from the base-6 reference it is a variant of.</p>');
+      h.push('<p>Each colour and the base-6 reference it is a variant of.</p>');
       h.push('<div id="weaver-palette">' + paletteTable(info.palette, null) + '</div>');
       h.push('<h1>Sample pattern</h1>');
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
@@ -741,12 +741,11 @@
     var rows = palette.map(function (p) {
       var tr = '<tr><td>' + esc(p.code) + '</td>' +
         '<td>' + swatch(p.hex) + ' <code>' + esc(p.hex) + '</code></td>' +
-        '<td>' + esc(p.baseCode) + ' ' + swatch(p.baseHex) + '</td>' +
-        '<td>' + p.deltaE.toFixed(2) + '</td>';
+        '<td>' + esc(p.baseCode) + ' ' + swatch(p.baseHex) + '</td>';
       if (shadeRows) tr += '<td style="white-space:nowrap">' + shadeCell(p.code, byCode[p.code]) + '</td>';
       return tr + '</tr>';
     });
-    var head = '<tr><th>Colour</th><th>Shade</th><th>Base</th><th>ΔE (OKLab)</th>' +
+    var head = '<tr><th>Colour</th><th>Shade</th><th>Base</th>' +
       (shadeRows ? '<th>Standard shade ' + supplierChooser() + '</th>' : '') + '</tr>';
     return '<table><thead>' + head + '</thead><tbody>' + rows.join('') + '</tbody></table>';
   }

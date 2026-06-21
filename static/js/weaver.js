@@ -238,6 +238,12 @@
       h.push('<p><button type="button" id="weaver-fullpage">⤢ Weave full page</button> — tessellate the sett across a page (opens a downloadable image)</p>');
       h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
         info.stripes + '/">' + info.stripes + ' stripes</a></p>');
+      // For a registered tartan, link out to its Tartan Dictionary pages: the parent tartan (the
+      // /tartans/ identity these variants share) and this variant's own page.
+      if (reg) {
+        h.push('<p>On the Tartan Dictionary: <a href="' + info.tartanURL + '">parent tartan</a> · <a href="' +
+          info.path + '">this variant</a></p>');
+      }
       h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
       h.push('<h2>Palette</h2>');

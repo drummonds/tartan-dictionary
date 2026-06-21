@@ -273,6 +273,8 @@
       h.push('<div id="weaver-palette">' + paletteEditor(info) + '</div>');
       h.push(scaleControls(info));
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
+      h.push('<p style="color:#666;font-size:smaller">' +
+        ((typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16) + ' picks per cm</p>');
       h.push('<p><button type="button" id="weaver-fullpage">⤢ Weave full page</button> — tessellate the sett across a page (opens a downloadable image)</p>');
       h.push('<p><button type="button" id="weaver-pdf">⤓ Download sample sheet</button> ' +
         '<select id="weaver-pdf-paper"><option>A4</option><option>A3</option><option>A2</option></select>' +
@@ -300,6 +302,8 @@
       h.push('<div id="weaver-palette">' + paletteTable(info.palette, null) + '</div>');
       h.push('<h1>Sample pattern</h1>');
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
+      h.push('<p style="color:#666;font-size:smaller">' +
+        ((typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16) + ' picks per cm</p>');
       h.push('<p>ID: ' + esc(info.path) + '</p>');
     }
     h.push('<p id="weaver-print-slot"></p>');
@@ -494,6 +498,9 @@
       var baseInfo = window.weaver.parseSlug(baseSlug);
       if (!baseInfo.error) baseStripes = parseStripes(baseInfo);
     }
+    // The colour's absolute OKLCh reference (CSS oklch()), with sRGB hex secondary, per stripe.
+    var oklchOf = {};
+    (info.palette || []).forEach(function (p) { oklchOf[p.code] = p.oklch; });
     var btn = 'width:1.6em;height:1.7em;padding:0;line-height:1.7em;vertical-align:middle;cursor:pointer';
     var rows = parseStripes(info).map(function (s, i) {
       var jog = shadeRows ? shadeCell(s.code, byCode[s.code]) : '';
@@ -510,6 +517,8 @@
         '<button data-step="1" title="one thread more" style="' + btn + '">＋</button>' +
         '<button data-ins title="insert a stripe after this one" style="' + btn + ';margin-left:2px">⊕</button>' +
         '<button data-del title="delete this stripe" style="' + btn + '">✕</button>' +
+        '<small style="margin-left:.5em;color:#888;white-space:nowrap"><code>' + esc(oklchOf[s.code] || '') +
+        '</code> ' + esc(s.hex) + '</small>' +
         (jog ? '<span style="margin-left:.5em">' + jog + '</span>' : '') +
         '</div>';
     });
@@ -740,7 +749,7 @@
     (shadeRows || []).forEach(function (r) { byCode[r.code] = r; });
     var rows = palette.map(function (p) {
       var tr = '<tr><td>' + esc(p.code) + '</td>' +
-        '<td>' + swatch(p.hex) + ' <code>' + esc(p.hex) + '</code></td>' +
+        '<td>' + swatch(p.hex) + ' <code>' + esc(p.oklch || '') + '</code> <small style="color:#888">' + esc(p.hex) + '</small></td>' +
         '<td>' + esc(p.baseCode) + ' ' + swatch(p.baseHex) + '</td>';
       if (shadeRows) tr += '<td style="white-space:nowrap">' + shadeCell(p.code, byCode[p.code]) + '</td>';
       return tr + '</tr>';

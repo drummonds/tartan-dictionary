@@ -184,6 +184,11 @@
    * variant pages' reading order and links into the editor instead. */
   function render(shell, info, ttd) {
     var tWasm = performance.now();
+    // A known sett opens with its curated name (issue #51): the slug carries no name, so look it up
+    // in the embedded slug→name table. An arbitrary edited cloth has none and stays untitled.
+    if (!info.name && typeof window.weaver.nameOf === 'function') {
+      info.name = window.weaver.nameOf(info.slug) || '';
+    }
     var h = [];
     if (ttd) {
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
@@ -232,7 +237,10 @@
     // cannot decode, while the slug always can be.
     var sett = window.weaver.renderSett(info.slug, 1000, 64);
     if (!sett.error) document.getElementById('weaver-sett').src = pngURL(sett);
-    var woven = window.weaver.renderWoven(info.slug, 480);
+    // Weave the woven sample across the full content width (880px) at the cloth's real thread density
+    // (threads/cm), so it reads life-size — the default ~16, a coarse cloth like Falkirk ~8.
+    var tpcm = (typeof window.weaver.tpcmOf === 'function') ? window.weaver.tpcmOf(info.slug) : 16;
+    var woven = window.weaver.renderWoven(info.slug, 880, tpcm);
     if (!woven.error) document.getElementById('weaver-tartan').src = pngURL(woven);
 
     if (ttd) {
@@ -705,18 +713,24 @@
         var dec = window.weaver.parsePath(hit.url);
         hit.ttdSlug = dec.error ? null : dec.slug;
       });
-      var items = nn.hits.map(function (hit) {
+      var rows = nn.hits.map(function (hit) {
         var name = hit.name || 'Unnamed variant';
-        return '<li>' +
-          (hit.ttdSlug ? '<a href="' + TTD_PATH + '#slug=' + hit.ttdSlug + '">' + esc(name) + '</a>' : esc(name)) +
-          ' — ΔTartan ' + hit.dist.toFixed(2) +
-          ' · <a href="' + hit.url + '">page</a></li>';
+        var nameCell = (hit.ttdSlug ? '<a href="' + TTD_PATH + '#slug=' + hit.ttdSlug + '">' + esc(name) + '</a>' : esc(name)) +
+          ' <a href="' + hit.url + '" title="open its dictionary page">↗</a>';
+        // The full sett colour pattern: the neighbour's own sett bar (static file, or SW-rendered on a
+        // miss via ?s=). Shown whole — width-fit, not cropped — so the colour sequence reads across.
+        var sett = '<img src="' + hit.url + 'sett.png' + (hit.ttdSlug ? '?s=' + encodeURIComponent(hit.ttdSlug) : '') +
+          '" alt="sett" loading="lazy" style="display:block;width:320px;max-width:100%;height:auto;' +
+          'border:1px solid #ddd;border-radius:2px">';
+        return '<tr><td style="text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap">' +
+          hit.dist.toFixed(2) + '</td><td>' + nameCell + '</td><td>' + sett + '</td></tr>';
       });
       var pct = Math.round((loaded.explained[0] + loaded.explained[1]) * 100);
       container.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan ' +
-        'distance. A name opens its neighbour here in the TTD; <em>page</em> steps out to its entry ' +
+        'distance. A name opens its neighbour here in the TTD; <em>↗</em> steps out to its entry ' +
         'in the dictionary.</p>' +
-        '<ol>' + items.join('') + '</ol>' +
+        '<table class="nn-table"><thead><tr><th>ΔTartan</th><th>Tartan</th><th>Sett</th></tr></thead><tbody>' +
+        rows.join('') + '</tbody></table>' +
         '<h2>Neighbour map</h2><p>Every grey dot is one of ' + loaded.count +
         ' existing variants placed by the first two principal components of the ΔTartan feature space (' +
         pct + '% of its variance). Red is this tartan; blue dots are its ten nearest — click one to open it here.</p>';

@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TTD renderer approaches — comparison harness (#47)</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 1100px; margin: 1.5rem auto; padding: 0 1rem; color: #222; }
+  h1 { font-size: 1.4rem; }
+  .panels { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; }
+  .panel { border: 1px solid #ccc; border-radius: 8px; padding: 0 1rem 1rem; }
+  .panel h2 { font-size: 1.05rem; }
+  .panel.b { border-top: 4px solid #2a6; }
+  .panel.c { border-top: 4px solid #46c; }
+  .tag { font-size: .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+  .b .tag { color: #2a6; } .c .tag { color: #46c; }
+  table { border-collapse: collapse; }
+  th, td { border: 1px solid #ddd; padding: 2px 6px; text-align: left; font-size: .9rem; }
+  button { cursor: pointer; }
+  .metrics { background: #f6f6f6; border-radius: 8px; padding: .5rem 1rem; margin: 1rem 0; font-size: .9rem; }
+  .metrics dt { font-weight: 600; } .metrics dl { display: grid; grid-template-columns: max-content 1fr; gap: .1rem 1rem; }
+  code { background: #f0f0f0; padding: 0 .2em; border-radius: 3px; }
+  .controls { margin: 1rem 0; }
+  .controls input { width: 28rem; max-width: 100%; font-family: monospace; }
+  .note { color: #666; font-size: .85rem; }
+  .swatch-img { max-width: 100%; height: auto; image-rendering: pixelated; border: 1px solid #ddd; }
+  .tradeoffs td:first-child { font-weight: 600; }
+</style>
+</head>
+<body>
+<h1>TTD renderer approaches — a comparison harness</h1>
+<p>Issue <strong>#47</strong> asks us to collapse the dual renderer (static pages in Go, dynamic pages
+re-implemented in JS) onto one Go WASM renderer. Two ways to reach that engine in the browser; this page
+renders the <em>same sett</em> both ways so the trade-offs are concrete. Both read the palette from the
+same <code>internal/render</code> code — the point of the exercise.</p>
+
+<div class="controls">
+  <label>Sett slug: <input id="slug" value="g44db2g4db2g6k16m40db2ly11"></label>
+  <button id="load">Load</button>
+  <span id="name" class="note"></span>
+</div>
+
+<div class="panels">
+  <section class="panel b">
+    <h2><span class="tag">Approach B</span><br>Page WASM — Go renders, JS injects</h2>
+    <p class="note">The wasm runs <em>in the page</em>. JS calls <code>renderSett</code>/<code>renderPalette</code>
+       and injects the HTML; a jog calls <code>applyShade</code> and re-renders in place — no network.</p>
+    <img id="b-img" class="swatch-img" alt="sett">
+    <div id="b-pal">…</div>
+    <p class="note" id="b-stat"></p>
+  </section>
+
+  <section class="panel c">
+    <h2><span class="tag">Approach C</span><br>Service worker — Go renders in the SW</h2>
+    <p class="note">The wasm runs <em>in the service worker</em>. The image is an ordinary
+       <code>&lt;img&gt;</code> the SW answers; the palette is <code>fetch('/x/ttd?s=…')</code> the SW
+       renders and the page swaps in. A jog is another request (htmx-style).</p>
+    <img id="c-img" class="swatch-img" alt="sett">
+    <div id="c-pal">…</div>
+    <p class="note" id="c-stat"></p>
+  </section>
+</div>
+
+<div class="metrics">
+  <dl>
+    <dt>weaver.wasm (gzipped)</dt><dd>~1.77 MB — includes the embedded slug→name table (<strong>+364 KB</strong> over un-embedded)</dd>
+    <dt>Service worker</dt><dd id="m-sw">checking…</dd>
+    <dt>Approach B</dt><dd>wasm loaded in page · jogs: <span id="m-b-jogs">0</span> (0 network) · last render <span id="m-b-ms">–</span></dd>
+    <dt>Approach C</dt><dd>wasm loaded in SW · network requests: <span id="m-c-reqs">0</span> · last render <span id="m-c-ms">–</span></dd>
+  </dl>
+</div>
+
+<h2>The trade-off</h2>
+<table class="tradeoffs">
+  <tr><th></th><th>B — page WASM</th><th>C — service worker</th></tr>
+  <tr><td>WASM lives in</td><td>the page</td><td>the service worker</td></tr>
+  <tr><td>Jog latency</td><td>instant (in-process call)</td><td>a fetch (network-first; SW round-trip)</td></tr>
+  <tr><td>Shareable URL</td><td>JS pushes the address</td><td>response header drives the URL push</td></tr>
+  <tr><td>Engine copies</td><td>one per page that loads it</td><td>one, shared by every page</td></tr>
+  <tr><td>No-JS / first visit</td><td>needs JS; works on first load</td><td>inert until the SW is installed &amp; controlling</td></tr>
+  <tr><td>Cost</td><td>engine re-download per tool page</td><td>SW lifecycle: update/cache, stale-wasm-after-deploy</td></tr>
+</table>
+<p class="note">Both panels already exist in production form: approach B is what <code>/ttd/edit/</code> uses;
+approach C's image rendering is the live <code>sw.js</code>, and its palette route (<code>/x/ttd</code>) is the
+experimental next slice of #47 added for this harness.</p>
+
+<script src="/wasm/wasm_exec.js"></script>
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+  var bJogs = 0, cReqs = 0;
+
+  // --- Service worker status (approach C depends on it controlling the page) ---
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.ready.then(function () {
+      $('m-sw').textContent = navigator.serviceWorker.controller
+        ? 'active and controlling this page ✓' : 'registered but not yet controlling — reload once';
+    });
+  } else {
+    $('m-sw').textContent = 'unsupported in this browser (approach C unavailable)';
+  }
+
+  // --- Approach B: load the engine in the page ---
+  var enginePromise = null;
+  function engine() {
+    if (enginePromise) return enginePromise;
+    var go = new Go();
+    enginePromise = WebAssembly.instantiateStreaming(fetch('/wasm/weaver.wasm'), go.importObject)
+      .then(function (r) { go.run(r.instance); return window.weaver; });
+    return enginePromise;
+  }
+
+  function pngURL(bytes) { return URL.createObjectURL(new Blob([bytes], { type: 'image/png' })); }
+
+  function renderB(slug) {
+    var t0 = performance.now();
+    engine().then(function (w) {
+      var name = (typeof w.nameOf === 'function' && w.nameOf(slug)) || '(unnamed sett)';
+      $('name').textContent = '— ' + name;
+      var png = w.renderSett(slug, 1000, 64);
+      if (png && !png.error) $('b-img').src = pngURL(png);
+      var html = w.renderPalette(slug, '');
+      $('b-pal').innerHTML = (typeof html === 'string') ? html : '<p>render failed</p>';
+      $('m-b-ms').textContent = Math.round(performance.now() - t0) + ' ms';
+      $('b-stat').textContent = 'rendered in the page';
+      $('b-pal').dataset.slug = slug;
+    });
+  }
+
+  // In-page jog: applyShade → re-derive → re-render, all without the network.
+  $('b-pal').addEventListener('click', function (ev) {
+    var btn = ev.target.closest('button[data-shade-hex]');
+    if (!btn) return;
+    ev.preventDefault();
+    engine().then(function (w) {
+      var info = w.applyShade($('b-pal').dataset.slug, btn.dataset.shadeCode, btn.dataset.shadeHex);
+      if (info && !info.error) { bJogs++; $('m-b-jogs').textContent = bJogs; renderB(info.slug); }
+    });
+  });
+
+  // --- Approach C: image via the SW <img>, palette via a SW fetch ---
+  function renderC(slug) {
+    // network-first <img> the SW renders on miss (?s= carries the full cloth)
+    $('c-img').src = '/setts/s9/' + encodeURIComponent(slug) + '/sett.png?s=' + encodeURIComponent(slug);
+    fetchPalette('/x/ttd?s=' + encodeURIComponent(slug));
+  }
+
+  function fetchPalette(url) {
+    var t0 = performance.now();
+    cReqs++; $('m-c-reqs').textContent = cReqs;
+    fetch(url).then(function (r) {
+      var newSlug = r.headers.get('X-Sett-Slug');
+      return r.text().then(function (html) {
+        $('c-pal').innerHTML = html;
+        if (newSlug) $('c-pal').dataset.slug = newSlug;
+        $('m-c-ms').textContent = Math.round(performance.now() - t0) + ' ms';
+        $('c-stat').textContent = navigator.serviceWorker && navigator.serviceWorker.controller
+          ? 'rendered in the service worker' : 'no SW controlling — this hit the network and 404’d';
+      });
+    }).catch(function (err) { $('c-pal').innerHTML = '<p>fetch failed: ' + err + '</p>'; });
+  }
+
+  // Jog in approach C: another request; the SW applies the shade and returns the new fragment + slug.
+  $('c-pal').addEventListener('click', function (ev) {
+    var btn = ev.target.closest('button[data-shade-hex]');
+    if (!btn) return;
+    ev.preventDefault();
+    var slug = $('c-pal').dataset.slug;
+    fetchPalette('/x/ttd?s=' + encodeURIComponent(slug) +
+      '&jc=' + encodeURIComponent(btn.dataset.shadeCode) + '&jh=' + encodeURIComponent(btn.dataset.shadeHex));
+    // keep the C image in step with the jogged cloth once the new slug is known
+    setTimeout(function () { $('c-img').src = '/setts/s9/x/sett.png?s=' + encodeURIComponent($('c-pal').dataset.slug); }, 200);
+  });
+
+  function load() {
+    var slug = $('slug').value.trim();
+    if (!slug) return;
+    renderB(slug);
+    renderC(slug);
+  }
+  $('load').addEventListener('click', load);
+  load();
+})();
+</script>
+</body>
+</html>

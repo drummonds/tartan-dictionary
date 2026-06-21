@@ -115,8 +115,25 @@
         .then(function (result) {
           go.run(result.instance); // parks in select{}; do not await
           if (!window.weaver) throw new Error('engine did not install its API');
+          stampBuild(window.weaver);
         });
     });
+  }
+
+  /* Append the engine's link-time build stamp (commit + UTC date) at the foot of the weaver app,
+   * so the tool always says which weaver wove it. buildInfo() is stamped by `task wasm:build`;
+   * an older binary without it (or a dev build) is simply not stamped. Runs once. */
+  function stampBuild(engine) {
+    var shell = document.getElementById('weaver-app');
+    if (!shell || !engine || typeof engine.buildInfo !== 'function') return;
+    if (document.getElementById('weaver-build')) return;
+    var b = engine.buildInfo();
+    if (!b || b.error) return;
+    var el = document.createElement('p');
+    el.id = 'weaver-build';
+    el.className = 'weaver-build';
+    el.textContent = 'weaver ' + b.commit + ' · built ' + b.built;
+    shell.appendChild(el);
   }
 
   function pngURL(bytes) {

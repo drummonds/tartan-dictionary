@@ -222,12 +222,14 @@
    * variant pages' reading order and links into the editor instead. */
   function render(shell, info, ttd) {
     var tWasm = performance.now();
-    // A registered sett carries its name and Scottish Register badge from the embedded lookup, and the
-    // name is not editable. An unregistered cloth carries the name you give it in the fragment
+    // Any KNOWN sett carries its curated name from the embedded lookup — whether or not it is
+    // registered (a registered one also gets the Scottish Register badge). Only a genuinely custom,
+    // edited cloth that the lookup doesn't know falls back to the name you give it in the fragment
     // (&name=…); the slug alone has none.
     var reg = registryRef(info.slug);
-    if (reg) {
-      info.name = (typeof window.weaver.nameOf === 'function' && window.weaver.nameOf(info.slug)) || info.name || '';
+    var known = (typeof window.weaver.nameOf === 'function' && window.weaver.nameOf(info.slug)) || '';
+    if (known) {
+      info.name = known;
     } else if (!info.name) {
       info.name = nameFromHash();
     }
@@ -277,7 +279,11 @@
     h.push('<p id="weaver-stats" style="color:#888;font-size:smaller"></p>');
     shell.querySelector('.post-text').innerHTML = h.join('\n');
     var head1 = shell.querySelector('.post-header h1');
-    head1.textContent = info.name || 'Tartan variant (generated)';
+    // The heading is resolved in Go from the name tables: the exact sett name, else the bare-sett
+    // (proportion) name with a "?", plus any pinned baseline in brackets. A custom/edited cloth the
+    // tables don't know falls back to its fragment name, then a generated label.
+    var t = (typeof window.weaver.title === 'function') ? window.weaver.title(info.slug, baseSlugFromHash() || '') : null;
+    head1.textContent = (t && t.text) || info.name || 'Tartan variant (generated)';
     // The registry badge sits beside the name, linking the tartan's page on the Scottish Register.
     if (reg) head1.insertAdjacentHTML('beforeend', ' ' + regBadge(reg));
     // Render by bare slug, not path: a giant sett's path leaf is a hashed file name the engine
@@ -558,9 +564,11 @@
     return (typeof window.weaver.registryRefOf === 'function') ? (window.weaver.registryRefOf(slug) || '') : '';
   }
 
-  // The editable name applies only to an unregistered cloth; a registered sett's name is the lookup's.
+  // A custom name rides in the fragment (&name=…) only for a cloth the lookup doesn't know — an edited
+  // one-off. A known sett (registered or not) takes its name from the lookup, so it needs none.
   function customName(info) {
-    return (info.name && !registryRef(info.slug)) ? info.name : '';
+    var known = (typeof window.weaver.nameOf === 'function' && window.weaver.nameOf(info.slug)) || '';
+    return (!known && info.name) ? info.name : '';
   }
 
   // The Scottish Register badge: a pill beside the name linking the tartan's page on the register. The

@@ -162,9 +162,12 @@
     status(shell, m ? 'Weaving this tartan in your browser…' : 'Starting the weaver…');
     loadEngine().then(function () {
       if (!m) {
-        shell.querySelector('.post-header h1').textContent = 'Weave a tartan';
-        shell.querySelector('.post-text').innerHTML = '';
-        showForm(shell, { palette: 'K#101010 W#F4F4F0', threadcount: 'K24 W24', name: '' });
+        // No sett chosen: open a plain starter cloth straight in the inline editor (recolour stripes,
+        // change the counts, add or delete stripes) — there is no separate entry form any more.
+        var blank = window.weaver.fromInput('', 'K#101010 W#F4F4F0', 'K24 W24');
+        if (blank.error) { status(shell, 'The weaver could not start: ' + blank.error); return; }
+        setAddress(blank, true);
+        render(shell, blank, true);
         return;
       }
       var info = window.weaver.parseSlug(m[1]);
@@ -230,9 +233,11 @@
     }
     var h = [];
     if (ttd) {
-      // Thread count first — the cloth's structure is what you edit.
-      h.push('<h2>Thread count</h2>');
-      h.push(threadEditor(info));
+      // The palette list is the working surface: one row per stripe, in sett order — recolour it,
+      // step its thread count, and jog its standard shade, all in one place. Base/ΔE live in
+      // base-tartan comparison (the pinned baseline), not in editing a cloth on its own.
+      h.push('<h2>Palette &amp; thread count</h2>');
+      h.push('<div id="weaver-palette">' + paletteEditor(info) + '</div>');
       h.push(scaleControls(info));
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
       h.push('<p><button type="button" id="weaver-fullpage">⤢ Weave full page</button> — tessellate the sett across a page (opens a downloadable image)</p>');
@@ -246,8 +251,6 @@
       }
       h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
-      h.push('<h2>Palette</h2>');
-      h.push('<div id="weaver-palette">' + paletteTable(info.palette, shadeRowsFor(info)) + '</div>');
       h.push('<div id="weaver-nn"><h2>Nearest tartans</h2><p>Measuring ΔTartan distances…</p></div>');
       h.push('<p>ID: <a href="' + info.path + '">' + esc(info.path) + '</a> — this address alone encodes the cloth.</p>');
     } else {
@@ -275,15 +278,6 @@
     head1.textContent = info.name || 'Tartan variant (generated)';
     // The registry badge sits beside the name, linking the tartan's page on the Scottish Register.
     if (reg) head1.insertAdjacentHTML('beforeend', ' ' + regBadge(reg));
-    if (ttd) {
-      showForm(shell, {
-        name: info.name || '',
-        threadcount: info.threadcount,
-        palette: info.palette.map(function (p) { return p.code + p.hex; }).join(' '),
-        registered: !!reg
-      });
-    }
-
     // Render by bare slug, not path: a giant sett's path leaf is a hashed file name the engine
     // cannot decode, while the slug always can be.
     var sett = window.weaver.renderSett(info.slug, 1000, 64);
@@ -362,7 +356,7 @@
       var sel = ev.target.closest('select[data-shade-supplier]');
       if (!sel) return;
       supplierId = sel.value;
-      box.innerHTML = paletteTable(info.palette, shadeRowsFor(info));
+      box.innerHTML = paletteEditor(info);
     });
   }
 
@@ -443,30 +437,42 @@
     render(shell, next, true);
   }
 
-  function threadEditor(info) {
-    var btn = 'width:1.5em;height:1.6em;padding:0;line-height:1.6em;vertical-align:middle;cursor:pointer';
-    var cells = parseStripes(info).map(function (s, i) {
-      return '<span class="thread-stripe" data-i="' + i + '" style="display:inline-flex;align-items:center;' +
-        'gap:1px;margin:0 .6em .45em 0;white-space:nowrap;border:1px solid #eee;border-radius:4px;padding:1px 3px">' +
+  /* The combined palette list (epic #36): one row per stripe in sett order, folding the thread-count
+   * editor and the per-colour shade jog into a single surface — recolour the stripe, step its count,
+   * insert/delete it, and jog its standard shade. Returns the inner HTML for #weaver-palette (the
+   * supplier-change redraw reuses it). Base/ΔE are deliberately absent — they belong to base-tartan
+   * comparison, not to editing a cloth on its own. */
+  function paletteEditor(info) {
+    var shadeRows = shadeRowsFor(info);
+    var byCode = {};
+    (shadeRows || []).forEach(function (r) { byCode[r.code] = r; });
+    var btn = 'width:1.6em;height:1.7em;padding:0;line-height:1.7em;vertical-align:middle;cursor:pointer';
+    var rows = parseStripes(info).map(function (s, i) {
+      var jog = shadeRows ? shadeCell(s.code, byCode[s.code]) : '';
+      return '<div class="thread-stripe" data-i="' + i + '" style="display:flex;align-items:center;' +
+        'gap:.3em;flex-wrap:wrap;padding:3px 0;border-top:1px solid #f0f0f0">' +
         '<input type="color" data-hex value="' + s.hex.toLowerCase() + '" title="recolour this stripe (' +
         esc(s.code) + ') — pick any shade, or a new colour" aria-label="' + esc(s.code) + ' colour" ' +
-        'style="width:1.7em;height:1.7em;padding:0;border:1px solid #0003;vertical-align:middle;cursor:pointer">' +
-        '<strong style="margin:0 .15em">' + esc(s.code) + (s.pivot ? '/' : '') + '</strong>' +
+        'style="width:1.8em;height:1.8em;padding:0;border:1px solid #0003;cursor:pointer">' +
+        '<strong style="min-width:2.2em;text-align:center">' + esc(s.code) + (s.pivot ? '/' : '') + '</strong>' +
         '<button data-step="-1" title="one thread fewer" style="' + btn + '">−</button>' +
         '<input type="number" min="1" value="' + s.count + '" data-count aria-label="' + esc(s.code) +
         ' threads" style="width:3.4em;text-align:center;margin:0 1px">' +
         '<button data-step="1" title="one thread more" style="' + btn + '">＋</button>' +
-        '<button data-ins title="insert a stripe after this one" style="' + btn + ';margin-left:3px">⊕</button>' +
+        '<button data-ins title="insert a stripe after this one" style="' + btn + ';margin-left:2px">⊕</button>' +
         '<button data-del title="delete this stripe" style="' + btn + '">✕</button>' +
-        '</span>';
+        (jog ? '<span style="margin-left:.5em">' + jog + '</span>' : '') +
+        '</div>';
     });
-    return '<div id="weaver-threads" style="display:flex;flex-wrap:wrap;align-items:center">' +
-      cells.join('') +
-      '<button data-add title="add a stripe at the end" style="margin:0 0 .45em .2em">＋ stripe</button></div>';
+    return rows.join('') +
+      '<div style="margin-top:.5em">' +
+      '<button data-add title="add a stripe at the end">＋ stripe</button>' +
+      (shadeRows ? ' <span style="color:#888;font-size:smaller">standard shade ' + supplierChooser() + '</span>' : '') +
+      '</div>';
   }
 
   function wireThreadEditor(shell, info) {
-    var box = document.getElementById('weaver-threads');
+    var box = document.getElementById('weaver-palette');
     if (!box) return;
     // Apply fn to a fresh {hex,count} copy of the stripes; null ⇒ no-op (nothing changed / blocked).
     function mutate(fn) {
@@ -663,44 +669,6 @@
     while (i < n) { out.push('− ' + stripeLabel(a[i], hex)); i++; }
     while (j < m) { out.push('+ ' + stripeLabel(b[j], hex)); j++; }
     return out;
-  }
-
-  /* The entry form, shown above the rendered page in the TTD. Weaving re-renders in place and
-   * moves the address bar to the new variant's TTD address, so the result is shareable. */
-  function showForm(shell, fill) {
-    var old = document.getElementById('weaver-form');
-    if (old) old.remove();
-    var form = document.createElement('form');
-    form.id = 'weaver-form';
-    form.style.cssText = 'border:1px solid #ddd;border-radius:6px;padding:0.8em 1em;margin:1em 0;';
-    // The name is editable only for an unregistered cloth (it then rides in the address as &name=);
-    // a registered sett shows its register name + badge instead, which you don't edit here.
-    var nameField = fill.registered ? '' :
-      '<label style="display:block;margin:0.3em 0">Name (optional)<br>' +
-      '<input name="name" style="width:100%" value="' + esc(fill.name || '') + '"></label>';
-    form.innerHTML = nameField +
-      '<label style="display:block;margin:0.3em 0">Palette — colour codes and shades, e.g. <code>DB#00004C W#F4F4F0</code><br>' +
-      '<input name="palette" style="width:100%" required value="' + esc(fill.palette) + '"></label>' +
-      '<label style="display:block;margin:0.3em 0">Thread count — e.g. <code>DB24 W24</code><br>' +
-      '<input name="threadcount" style="width:100%" required value="' + esc(fill.threadcount) + '"></label>' +
-      '<button type="submit">Weave</button> <span id="weaver-form-err" style="color:#a00"></span>';
-    form.addEventListener('submit', function (ev) {
-      ev.preventDefault();
-      var f = new FormData(form);
-      var info = window.weaver.fromInput(
-        String(f.get('name') || ''), String(f.get('palette')), String(f.get('threadcount')));
-      var errEl = document.getElementById('weaver-form-err');
-      if (info.error) {
-        errEl.textContent = info.error;
-        return;
-      }
-      errEl.textContent = '';
-      info.name = String(f.get('name') || '');
-      setAddress(info, true);
-      render(shell, info, true);
-    });
-    var text = shell.querySelector('.post-text');
-    text.parentNode.insertBefore(form, text);
   }
 
   function paletteTable(palette, shadeRows) {

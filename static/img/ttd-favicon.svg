@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Favicon for the TTD weaver demo: a miniature tartan sett. The two navy bands cross over a green
+     ground (the overlap darkens, mimicking the weave), with a red and a yellow overcheck line. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" shape-rendering="crispEdges"
+     role="img" aria-label="TTD weaver">
+  <rect width="16" height="16" fill="#2f6b3f"/>
+  <g fill="#16306e" opacity="0.72">
+    <rect x="4" width="6" height="16"/>
+    <rect y="4" width="16" height="6"/>
+  </g>
+  <g fill="#c0392b" opacity="0.85">
+    <rect x="12.5" width="1" height="16"/>
+    <rect y="12.5" width="16" height="1"/>
+  </g>
+  <g fill="#f2d24b" opacity="0.9">
+    <rect x="1.5" width="0.9" height="16"/>
+    <rect y="1.5" width="16" height="0.9"/>
+  </g>
+</svg>

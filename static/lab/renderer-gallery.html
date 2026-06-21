@@ -25,8 +25,8 @@
   .name { font-size: 1.2rem; font-weight: 600; }
   .badge { display:inline-block;padding:.05em .55em;border:1px solid #1a4f8b;border-radius:1em;font-size:.8rem;color:#1a4f8b;text-decoration:none;background:#1a4f8b14;vertical-align:middle }
   .badge.dict { border-color:#2a6b3f;color:#2a6b3f;background:#2a6b3f14 }
-  .srt-logo { height:1em;width:auto;vertical-align:-.15em }
-  .name img.srt-logo { display:inline;border:0;border-radius:0;image-rendering:auto }
+  .srt-logo, .dict-logo { height:1em;width:auto;vertical-align:-.15em }
+  .name img.srt-logo, .name img.dict-logo { display:inline;border:0;border-radius:0;image-rendering:auto }
 </style>
 </head>
 <body>
@@ -39,13 +39,23 @@ main pages — which embed the same components <strong>and add story detail</str
 related setts) the slug alone can't carry.</p>
 
 <div class="controls">
-  <label>Sett slug: <input id="slug" value="g44db2g4db2g6k16m40db2ly11"></label>
+  <label>Test case:
+    <select id="sample">
+      <option value="b3k2b8db8g8db2~x2">Variant — Black Watch (Pendleton), registered #5048</option>
+      <option value="b24k4r3g24k4ly3~x2">Sett — Skene (named, unregistered)</option>
+      <option value="b24k4r3g24k4ly3">Bare-sett — Skene proportion (no scale → “Skene?”)</option>
+      <option value="r2k2">Bare-sett — even red/black check (→ “Rob Roy Macgregor?”)</option>
+      <option value="g44db2g4db2g6k16m40db2ly11">Sett — Stewart, modern (named, unregistered)</option>
+    </select>
+  </label>
+  <br>
+  <label>Sett slug: <input id="slug" value="b3k2b8db8g8db2~x2"></label>
   <button id="load">Render</button>
 </div>
 
 <div class="card">
   <h2>Name &amp; identity</h2>
-  <div class="row dyn"><span class="lbl">Go internal renderer<small>nameOf · registryRefOf · tartanURL</small></span><div class="out" id="d-name"></div></div>
+  <div class="row dyn"><span class="lbl">Go internal renderer<small>title · registryRefOf · tartanURL</small></span><div class="out" id="d-name"></div></div>
   <div class="row sta"><span class="lbl">Static site<small>+ story heading</small></span><div class="out note" id="s-name"></div></div>
 </div>
 
@@ -100,7 +110,8 @@ related setts) the slug alone can't carry.</p>
     engine().then(function (w) {
       var info = w.parseSlug(slug);
       if (info.error) { $('d-name').textContent = 'could not read sett: ' + info.error; return; }
-      var name = (typeof w.nameOf === 'function' && w.nameOf(slug)) || '(unnamed)';
+      var t = (typeof w.title === 'function') ? w.title(slug, '') : null;
+      var name = (t && t.text) || '(unnamed)';
       var ref = (typeof w.registryRefOf === 'function' && w.registryRefOf(slug)) || '';
 
       // Name & identity. The SRT badge shows the register's emblem (replacing the letters "SRT")
@@ -112,7 +123,8 @@ related setts) the slug alone can't carry.</p>
           '"><img class="srt-logo" src="/img/srt.svg" alt="Scottish Register of Tartans">&nbsp;#' + esc(ref) + '</a>'
         : '';
       var dictBadge = info.tartanURL
-        ? ' <a class="badge dict" title="Tartan Dictionary entry" href="' + info.tartanURL + '">Tartan&nbsp;Dictionary</a>'
+        ? ' <a class="badge dict" title="Tartan Dictionary entry" href="' + info.tartanURL +
+          '"><img class="dict-logo" src="/img/ttd-favicon.svg" alt="Tartan Dictionary">&nbsp;Tartan&nbsp;Dictionary</a>'
         : '';
       var idHTML = '<div class="name">' + esc(name) + srtBadge + dictBadge + '</div>' +
         '<p class="note">parent <a href="' + info.tartanURL + '">' + esc(info.tartanURL) + '</a> · ' +
@@ -145,6 +157,7 @@ related setts) the slug alone can't carry.</p>
   }
   function load() { var s = $('slug').value.trim(); if (s) render(s); }
   $('load').addEventListener('click', load);
+  $('sample').addEventListener('change', function () { $('slug').value = this.value; load(); });
   load();
 })();
 </script>

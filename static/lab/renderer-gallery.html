@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Go renderer — component gallery</title>
+<style>
+  body { font: 16px/1.5 system-ui, sans-serif; max-width: 980px; margin: 1.5rem auto; padding: 0 1rem; color: #1a1a1a; }
+  h1 { font-size: 1.4rem; }
+  .controls { margin: 1rem 0; }
+  .controls input { width: 26rem; max-width: 100%; font-family: monospace; }
+  .card { border: 1px solid #ccc; border-radius: 8px; padding: .2rem 1rem 1rem; margin: 1rem 0; }
+  .card h2 { font-size: 1.05rem; margin-bottom: .2rem; }
+  .src { font: .8rem/1.4 ui-monospace, monospace; color: #46c; background: #f3f5fb; padding: 0 .3em; border-radius: 3px; }
+  .from { color: #666; font-size: .82rem; margin: 0 0 .6rem; }
+  img { max-width: 100%; height: auto; display: block; border: 1px solid #ddd; border-radius: 3px; image-rendering: pixelated; }
+  code { background: #f0f0f0; padding: 0 .2em; border-radius: 3px; }
+  table { border-collapse: collapse; }
+  th, td { border: 1px solid #ddd; padding: 2px 6px; font-size: .9rem; }
+  /* The threadcount swatch (render.ThreadcountSwatch) emits <span class="ttd-bar"> with flex children;
+     the dictionary styles it inline per page, so the gallery provides the same rule. */
+  .ttd-bar { display: flex; width: 100%; height: 3rem; border: 1px solid #0003; border-radius: .25rem; overflow: hidden; }
+  .name { font-size: 1.2rem; font-weight: 600; }
+</style>
+</head>
+<body>
+<h1>Go renderer — component gallery</h1>
+<p>Every part of a tartan page, rendered by the <strong>one</strong> Go renderer
+(<code>internal/render</code> + <code>internal/weave</code>) reached through the WASM engine. This is the
+test harness for that renderer: change the sett and watch each component redraw <em>from the same place</em>.
+The static dictionary pages and the in-browser tools both consume exactly these.</p>
+
+<div class="controls">
+  <label>Sett slug: <input id="slug" value="g44db2g4db2g6k16m40db2ly11"></label>
+  <button id="load">Render</button>
+</div>
+
+<div class="card">
+  <h2>Name</h2>
+  <p class="from">from <span class="src">weaver.nameOf(slug)</span> — the embedded slug→name table (internal/lookup)</p>
+  <div id="c-name" class="name">…</div>
+</div>
+
+<div class="card">
+  <h2>Thread count + swatch</h2>
+  <p class="from">text from <span class="src">weaver.parseSlug(slug).threadcount</span>; bar from
+     <span class="src">weaver.threadcountSwatch(slug)</span> — render.ThreadcountSwatch</p>
+  <p><code id="c-tc"></code></p>
+  <div id="c-bar"></div>
+</div>
+
+<div class="card">
+  <h2>Sett</h2>
+  <p class="from">from <span class="src">weaver.renderSett(slug, 1000, 64)</span> — internal/weave (PNG)</p>
+  <img id="c-sett" alt="sett">
+</div>
+
+<div class="card">
+  <h2>Woven sample — life-size</h2>
+  <p class="from">from <span class="src">weaver.renderWoven(slug, 880, weaver.tpcmOf(slug))</span> — internal/weave,
+     density <span id="c-tpcm"></span> threads/cm</p>
+  <img id="c-woven" alt="woven sample">
+</div>
+
+<div class="card">
+  <h2>Palette — plain</h2>
+  <p class="from">from <span class="src">weaver.paletteHTML(slug)</span> — render.PaletteHTML (the read-only / print table)</p>
+  <div id="c-pal"></div>
+</div>
+
+<div class="card">
+  <h2>Palette — editor (jog wheel)</h2>
+  <p class="from">from <span class="src">weaver.renderPalette(slug, '')</span> — render.EditorPalette
+     (colour-coded jog buttons + supplier chooser)</p>
+  <div id="c-edit"></div>
+</div>
+
+<script src="/wasm/wasm_exec.js"></script>
+<script>
+(function () {
+  'use strict';
+  var $ = function (id) { return document.getElementById(id); };
+
+  var enginePromise = null;
+  function engine() {
+    if (enginePromise) return enginePromise;
+    var go = new Go();
+    enginePromise = WebAssembly.instantiateStreaming(fetch('/wasm/weaver.wasm'), go.importObject)
+      .then(function (r) { go.run(r.instance); return window.weaver; });
+    return enginePromise;
+  }
+  function pngURL(bytes) { return URL.createObjectURL(new Blob([bytes], { type: 'image/png' })); }
+  function html(el, s) { el.innerHTML = (typeof s === 'string') ? s : '<em>render failed</em>'; }
+
+  function render(slug) {
+    engine().then(function (w) {
+      var info = w.parseSlug(slug);
+      if (info.error) { $('c-name').textContent = 'could not read sett: ' + info.error; return; }
+
+      $('c-name').textContent = (typeof w.nameOf === 'function' && w.nameOf(slug)) || '(unnamed sett)';
+      $('c-tc').textContent = info.threadcount;
+      html($('c-bar'), w.threadcountSwatch(slug));
+
+      var sett = w.renderSett(slug, 1000, 64);
+      if (!sett.error) $('c-sett').src = pngURL(sett);
+
+      var tpcm = (typeof w.tpcmOf === 'function') ? w.tpcmOf(slug) : 16;
+      $('c-tpcm').textContent = tpcm;
+      var woven = w.renderWoven(slug, 880, tpcm);
+      if (!woven.error) $('c-woven').src = pngURL(woven);
+
+      html($('c-pal'), w.paletteHTML(slug));
+      html($('c-edit'), w.renderPalette(slug, ''));
+    });
+  }
+
+  function load() { var s = $('slug').value.trim(); if (s) render(s); }
+  $('load').addEventListener('click', load);
+  load();
+})();
+</script>
+</body>
+</html>

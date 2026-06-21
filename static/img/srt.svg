@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Placeholder emblem for the Scottish Register of Tartans badge: a stylised thistle (Scotland's
+     flower), drawn in currentColor so it takes the badge's colour. Swap for the official register
+     mark when one is licensed. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none"
+     stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+     role="img" aria-label="Scottish Register of Tartans">
+  <!-- spiky crown of the flower head -->
+  <path d="M12 2.2 L12 5.2 M9.3 3 L10.6 5.6 M14.7 3 L13.4 5.6" />
+  <!-- bulb of the thistle, with cross-hatch -->
+  <path d="M8.4 8.2 C8.4 6 10 5.2 12 5.2 C14 5.2 15.6 6 15.6 8.2 C15.6 10.4 14 11.6 12 11.6
+           C10 11.6 8.4 10.4 8.4 8.2 Z" />
+  <path d="M9.6 6.4 L14.4 10 M14.4 6.4 L9.6 10" stroke-width="1" />
+  <!-- stem -->
+  <path d="M12 11.6 L12 21.6" />
+  <!-- leaves -->
+  <path d="M12 15 C9.6 14.4 8 15.6 7.2 17.8 C9.6 18 11.2 17 12 15 Z" />
+  <path d="M12 16.8 C14.4 16.2 16 17.4 16.8 19.6 C14.4 19.8 12.8 18.8 12 16.8 Z" />
+</svg>

@@ -533,12 +533,14 @@
     return (info.name && !registryRef(info.slug)) ? info.name : '';
   }
 
-  // The Scottish Register badge: a pill beside the name linking the tartan's page on the register.
+  // The Scottish Register badge: a pill beside the name linking the tartan's page on the register. The
+  // register's emblem (currentColor, so it takes the pill's blue) stands in for the letters "SRT".
   function regBadge(ref) {
     return '<a href="https://www.tartanregister.gov.uk/tartanDetails?ref=' + encodeURIComponent(ref) +
-      '" target="_blank" rel="noopener" title="View on the Scottish Register of Tartans" ' +
+      '" target="_blank" rel="noopener" title="Scottish Register of Tartans #' + esc(ref) + '" ' +
       'style="display:inline-block;padding:.05em .55em;border:1px solid #1a4f8b;border-radius:1em;' +
-      'font-size:.8rem;font-weight:400;color:#1a4f8b;text-decoration:none;background:#1a4f8b14;vertical-align:middle">SRT&nbsp;#' +
+      'font-size:.8rem;font-weight:400;color:#1a4f8b;text-decoration:none;background:#1a4f8b14;vertical-align:middle">' +
+      '<img src="/img/srt.svg" alt="Scottish Register of Tartans" style="height:1em;width:auto;vertical-align:-.15em">&nbsp;#' +
       esc(ref) + '</a>';
   }
 

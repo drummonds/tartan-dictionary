@@ -155,6 +155,34 @@
     if (btn) btn.addEventListener('click', function () { weaveFullPage(info); });
   }
 
+  /* Build the sample sheet as a PDF (rendered in pure Go via the wasm engine — name, woven sample,
+   * thread count, palette) and download it directly, no server and no browser print dialog. */
+  function downloadSheet(info, paper) {
+    var res = window.weaver.sampleSheet(info.slug, paper || 'A4');
+    if (!res || res.error) {
+      statLine('sample sheet failed: ' + ((res && res.error) || 'unknown'));
+      return;
+    }
+    var base = ((info.name || 'tartan').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'tartan');
+    var url = URL.createObjectURL(new Blob([res], { type: 'application/pdf' }));
+    var a = document.createElement('a');
+    a.href = url;
+    a.download = base + '.pdf';
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(function () { URL.revokeObjectURL(url); }, 1000);
+  }
+
+  function wirePdf(shell, info) {
+    var btn = document.getElementById('weaver-pdf');
+    if (!btn) return;
+    btn.addEventListener('click', function () {
+      var sel = document.getElementById('weaver-pdf-paper');
+      downloadSheet(info, sel ? sel.value : 'A4');
+    });
+  }
+
   /* The TTD entry: #slug=<slug> opens that variant for editing; no fragment starts from a blank
    * form. Re-entered on every fragment change. */
   function bootTTD(shell) {
@@ -246,6 +274,9 @@
       h.push(scaleControls(info));
       h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
       h.push('<p><button type="button" id="weaver-fullpage">⤢ Weave full page</button> — tessellate the sett across a page (opens a downloadable image)</p>');
+      h.push('<p><button type="button" id="weaver-pdf">⤓ Download sample sheet</button> ' +
+        '<select id="weaver-pdf-paper"><option>A4</option><option>A3</option><option>A2</option></select>' +
+        ' — a printable PDF (name, woven sample, thread count, palette), rendered in your browser</p>');
       h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
         info.stripes + '/">' + info.stripes + ' stripes</a></p>');
       // For a registered tartan, link out to its Tartan Dictionary pages: the parent tartan (the
@@ -302,6 +333,7 @@
       wireScale(shell, info);
       wireBaseline(shell, info);
       wireFullPage(shell, info);
+      wirePdf(shell, info);
     }
     var slot = document.getElementById('weaver-print-slot');
     if (slot) slot.replaceWith(printControls(info.slug, info.name || 'Tartan variant'));

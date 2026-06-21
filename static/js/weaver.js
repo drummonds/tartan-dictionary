@@ -12,7 +12,7 @@
 (function () {
   'use strict';
 
-  var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z-]+\/(edit\/)?$/;
+  var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z~-]+\/(edit\/)?$/;
   var NEW_PATH = '/setts/new/';
   var TTD_PATH = '/ttd/edit/';
   var t0 = performance.now();
@@ -54,7 +54,7 @@
       if (/edit\/$/.test(path)) {
         // The old in-place editor: forward to the TTD, carrying the slug (hashed-leaf addresses
         // already carry theirs in the fragment; the leaf serves for everything else).
-        var fm = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
+        var fm = /[#&]slug=([0-9a-z~-]+)/.exec(location.hash);
         var leaf = path.replace(/edit\/$/, '').replace(/\/$/, '').split('/').pop();
         location.replace(TTD_PATH + '#slug=' + (fm ? fm[1] : leaf));
         return;
@@ -74,9 +74,9 @@
   function hydrateStatic() {
     var header = document.querySelector('.post-header h1');
     var text = document.querySelector('.post-text');
-    var m = /^\/setts\/s\d+\/([0-9a-z-]+)\/$/.exec(location.pathname);
+    var m = /^\/setts\/s\d+\/([0-9a-z~-]+)\/$/.exec(location.pathname);
     var edit = document.querySelector('a.weaver-edit');
-    var em = edit && /[#&]slug=([0-9a-z-]+)/.exec(edit.getAttribute('href') || '');
+    var em = edit && /[#&]slug=([0-9a-z~-]+)/.exec(edit.getAttribute('href') || '');
     var slug = (em && em[1]) || (m && m[1]);
     if (!slug || !text) return;
 
@@ -126,7 +126,7 @@
   /* The TTD entry: #slug=<slug> opens that variant for editing; no fragment starts from a blank
    * form. Re-entered on every fragment change. */
   function bootTTD(shell) {
-    var m = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
+    var m = /[#&]slug=([0-9a-z~-]+)/.exec(location.hash);
     status(shell, m ? 'Weaving this tartan in your browser…' : 'Starting the weaver…');
     loadEngine().then(function () {
       if (!m) {
@@ -152,7 +152,7 @@
     return loadEngine().then(function () {
       var info = window.weaver.parsePath(path);
       if (info.error && info.hashed) {
-        var m = /[#&]slug=([0-9a-z-]+)/.exec(location.hash);
+        var m = /[#&]slug=([0-9a-z~-]+)/.exec(location.hash);
         if (m) info = window.weaver.parseSlug(m[1]);
       }
       if (info.error) {
@@ -169,9 +169,12 @@
    * fragment when the URL's leaf is a hashed file name. */
   function setAddress(info, ttd) {
     if (ttd) {
-      // Keep any pinned baseline in the fragment so it survives shade jogs, scale steps and shares.
+      // Keep any pinned baseline AND any custom (unregistered) name in the fragment, so both survive
+      // shade jogs, scale steps and sharing.
       var base = baseSlugFromHash();
-      history.replaceState(null, '', TTD_PATH + '#slug=' + info.slug + (base ? '&base=' + base : ''));
+      var nm = customName(info);
+      history.replaceState(null, '', TTD_PATH + '#slug=' + info.slug +
+        (base ? '&base=' + base : '') + (nm ? '&name=' + encodeURIComponent(nm) : ''));
       return;
     }
     var hashed = info.path.indexOf(info.slug) === -1;
@@ -184,19 +187,24 @@
    * variant pages' reading order and links into the editor instead. */
   function render(shell, info, ttd) {
     var tWasm = performance.now();
-    // A known sett opens with its curated name (issue #51): the slug carries no name, so look it up
-    // in the embedded slug→name table. An arbitrary edited cloth has none and stays untitled.
-    if (!info.name && typeof window.weaver.nameOf === 'function') {
-      info.name = window.weaver.nameOf(info.slug) || '';
+    // A registered sett carries its name and Scottish Register badge from the embedded lookup, and the
+    // name is not editable. An unregistered cloth carries the name you give it in the fragment
+    // (&name=…); the slug alone has none.
+    var reg = registryRef(info.slug);
+    if (reg) {
+      info.name = (typeof window.weaver.nameOf === 'function' && window.weaver.nameOf(info.slug)) || info.name || '';
+    } else if (!info.name) {
+      info.name = nameFromHash();
     }
     var h = [];
     if (ttd) {
-      h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
-      h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
-        info.stripes + '/">' + info.stripes + ' stripes</a></p>');
+      // Thread count first — the cloth's structure is what you edit.
       h.push('<h2>Thread count</h2>');
       h.push(threadEditor(info));
       h.push(scaleControls(info));
+      h.push('<p><img id="weaver-tartan" alt="Tartan detail" title="' + esc(info.threadcount) + ' tartan"></p>');
+      h.push('<p>In pattern <a href="' + info.patternURL + '">' + esc(info.pattern) + '</a> · <a href="/stripes/stripes' +
+        info.stripes + '/">' + info.stripes + ' stripes</a></p>');
       h.push(baselineSection(info));
       h.push('<p><img id="weaver-sett" alt="Sett"></p>');
       h.push('<h2>Palette</h2>');
@@ -224,12 +232,16 @@
     }
     h.push('<p id="weaver-stats" style="color:#888;font-size:smaller"></p>');
     shell.querySelector('.post-text').innerHTML = h.join('\n');
-    shell.querySelector('.post-header h1').textContent = info.name || 'Tartan variant (generated)';
+    var head1 = shell.querySelector('.post-header h1');
+    head1.textContent = info.name || 'Tartan variant (generated)';
+    // The registry badge sits beside the name, linking the tartan's page on the Scottish Register.
+    if (reg) head1.insertAdjacentHTML('beforeend', ' ' + regBadge(reg));
     if (ttd) {
       showForm(shell, {
         name: info.name || '',
         threadcount: info.threadcount,
-        palette: info.palette.map(function (p) { return p.code + p.hex; }).join(' ')
+        palette: info.palette.map(function (p) { return p.code + p.hex; }).join(' '),
+        registered: !!reg
       });
     }
 
@@ -461,12 +473,39 @@
    * The baseline rides in the fragment as &base=<slug> next to the working &slug=, so a comparison
    * is shareable and survives the per-edit re-render. */
   function baseSlugFromHash() {
-    var m = /[#&]base=([0-9a-z-]+)/.exec(location.hash);
+    var m = /[#&]base=([0-9a-z~-]+)/.exec(location.hash);
     return m ? m[1] : null;
   }
 
+  // The custom name an unregistered cloth carries in the fragment (&name=…). Empty for a registered
+  // sett, whose name comes from the lookup instead.
+  function nameFromHash() {
+    var m = /[#&]name=([^&]*)/.exec(location.hash);
+    try { return m ? decodeURIComponent(m[1]) : ''; } catch (e) { return ''; }
+  }
+
+  function registryRef(slug) {
+    return (typeof window.weaver.registryRefOf === 'function') ? (window.weaver.registryRefOf(slug) || '') : '';
+  }
+
+  // The editable name applies only to an unregistered cloth; a registered sett's name is the lookup's.
+  function customName(info) {
+    return (info.name && !registryRef(info.slug)) ? info.name : '';
+  }
+
+  // The Scottish Register badge: a pill beside the name linking the tartan's page on the register.
+  function regBadge(ref) {
+    return '<a href="https://www.tartanregister.gov.uk/tartanDetails?ref=' + encodeURIComponent(ref) +
+      '" target="_blank" rel="noopener" title="View on the Scottish Register of Tartans" ' +
+      'style="display:inline-block;padding:.05em .55em;border:1px solid #1a4f8b;border-radius:1em;' +
+      'font-size:.8rem;font-weight:400;color:#1a4f8b;text-decoration:none;background:#1a4f8b14;vertical-align:middle">SRT&nbsp;#' +
+      esc(ref) + '</a>';
+  }
+
   function setTTDFragment(slug, base) {
-    history.replaceState(null, '', TTD_PATH + '#slug=' + slug + (base ? '&base=' + base : ''));
+    var nm = nameFromHash();
+    history.replaceState(null, '', TTD_PATH + '#slug=' + slug +
+      (base ? '&base=' + base : '') + (nm ? '&name=' + encodeURIComponent(nm) : ''));
   }
 
   /* The baseline card: pin when none is set; once pinned, show the baseline, a reset/re-pin/unpin
@@ -592,9 +631,12 @@
     var form = document.createElement('form');
     form.id = 'weaver-form';
     form.style.cssText = 'border:1px solid #ddd;border-radius:6px;padding:0.8em 1em;margin:1em 0;';
-    form.innerHTML =
+    // The name is editable only for an unregistered cloth (it then rides in the address as &name=);
+    // a registered sett shows its register name + badge instead, which you don't edit here.
+    var nameField = fill.registered ? '' :
       '<label style="display:block;margin:0.3em 0">Name (optional)<br>' +
-      '<input name="name" style="width:100%" value="' + esc(fill.name) + '"></label>' +
+      '<input name="name" style="width:100%" value="' + esc(fill.name || '') + '"></label>';
+    form.innerHTML = nameField +
       '<label style="display:block;margin:0.3em 0">Palette — colour codes and shades, e.g. <code>DB#00004C W#F4F4F0</code><br>' +
       '<input name="palette" style="width:100%" required value="' + esc(fill.palette) + '"></label>' +
       '<label style="display:block;margin:0.3em 0">Thread count — e.g. <code>DB24 W24</code><br>' +

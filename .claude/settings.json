@@ -1,9 +1,0 @@
-{
-  "sandbox": {
-    "enabled": true,
-    "autoAllowBashIfSandboxed": true,
-    "filesystem": {
-      "denyRead": ["~/.ssh", "~/.aws"]
-    }
-  }
-}

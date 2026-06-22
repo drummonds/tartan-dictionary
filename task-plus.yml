@@ -1,6 +1,0 @@
-# Intent: origin -> Codeberg (primary), github -> GitHub (mirror).
-# NOTE: actual git remotes are not yet set up this way (only origin -> GitHub exists).
-# See ROADMAP Phase 7 — needs the Codeberg repo created first.
-remotes:
-  - origin
-  - github

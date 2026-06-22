@@ -1,5 +1,11 @@
 version: '3'
 
+# tartan-dictionary is a derived BUILD WORKSPACE + deploy target, not a source repo. It is
+# assembled by the engine in ../tartan-weaver (the complete builder): `task site:sync` overlays
+# the authored site, `task dictionary:build` generates the rest, and `task dia` does the full
+# clean rebuild (including resetting this workspace via `go run ./cmd/siterepo clean`). This
+# Taskfile keeps only the local Hugo build/preview tasks for this assembled tree.
+
 tasks:
   default:
     desc: List available tasks
@@ -41,21 +47,8 @@ tasks:
     cmds:
       - task: test
 
-  clean:
-    desc: |
-      Reset this build workspace to its owned skeleton — delete everything the template
-      sync + weaver generate re-supply (all generated content AND template-authored files).
-      Only the workspace-owned files survive (the `owned` + `preserved` sets in ownership.yaml).
-      Repopulate with:  cd ../tartan-dictionary-template && task generate
-    prompt: Delete ALL generated + template-synced files, leaving only the workspace-owned skeleton?
-    cmd: go run repo.go clean
-
-  ownership:check:
-    desc: |
-      Validate the ownership contract (ownership.yaml) and audit the sibling template's
-      `task sync` against it — fails if any owned/preserved/generated/build_artifact path
-      is not excluded by the sync (i.e. would be clobbered or --delete'd on overlay).
-    cmd: go run repo.go check
+  # The full-reset (`clean`) and ownership audit (`ownership:check`) moved into the builder:
+  # run `go run ./cmd/siterepo clean` / `go run ./cmd/siterepo check` from ../tartan-weaver.
 
   clean:public:
     desc: Remove just the built site (public/) — the Hugo output, not the source

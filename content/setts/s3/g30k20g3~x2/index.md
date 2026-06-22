@@ -40,18 +40,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Kincaid of Kincaid (Clan)](/setts/s3/k11g16r2~x4/) — ΔT 1.36
-1. [Elphinstone](/setts/s4/g6dp2g1~x4/) — ΔT 1.42
-1. [Elphinstone Check (Clan)](/setts/s4/g6dp2g1~x20/) — ΔT 1.42
-1. [Kincaid of Kincaid](/setts/s4/g16k11g16r2~x4/) — ΔT 1.52
-1. [Ledford](/setts/s3/dg9y4lo1~x8/) — ΔT 1.68
-1. [Montgomery](/setts/s4/g6db2g1~x4/) — ΔT 1.71
-1. [Montgomery - 1842 (VS](/setts/s4/g6db2g1~x8/) — ΔT 1.71
-1. [MacArthur (Highland Society)](/setts/s6/g18ly2g18k4g2k15~x2/) — ΔT 1.78
-1. [Bumbee #1 (Fashion)](/setts/s4/g10k2dp5g1~x8/) — ΔT 1.82
-1. [MacArthur-Fox (Personal)](/setts/s5/k8g3k4g20r4~x2/) — ΔT 1.86
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=g30k20g3~x2">Scotch Tape (Corporate)</a> <a class="nn-out" href="/setts/s3/g30k20g3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s3/g30k20g3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/ttd/edit/#slug=k11g16r2~x4">Kincaid of Kincaid (Clan)</a> <a class="nn-out" href="/setts/s3/k11g16r2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k11g16r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/setts/s4/g6dp2g1~x4/">Elphinstone</a></div><div class="nn-sw"></div><div class="nn-dt">1.42</div><div class="nn-name"><a href="/setts/s4/g6dp2g1~x20/">Elphinstone Check (Clan)</a></div><div class="nn-sw"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=g16k11g16r2~x4">Kincaid of Kincaid</a> <a class="nn-out" href="/setts/s4/g16k11g16r2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/g16k11g16r2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.68</div><div class="nn-name"><a href="/ttd/edit/#slug=dg9y4lo1~x8">Ledford</a> <a class="nn-out" href="/setts/s3/dg9y4lo1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/dg9y4lo1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.71</div><div class="nn-name"><a href="/setts/s4/g6db2g1~x4/">Montgomery</a></div><div class="nn-sw"></div><div class="nn-dt">1.71</div><div class="nn-name"><a href="/setts/s4/g6db2g1~x8/">Montgomery - 1842 (VS</a></div><div class="nn-sw"></div><div class="nn-dt">1.78</div><div class="nn-name"><a href="/ttd/edit/#slug=g18ly2g18k4g2k15~x2">MacArthur (Highland Society)</a> <a class="nn-out" href="/setts/s6/g18ly2g18k4g2k15~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s6/g18ly2g18k4g2k15~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.82</div><div class="nn-name"><a href="/ttd/edit/#slug=g10k2dp5g1~x8">Bumbee #1 (Fashion)</a> <a class="nn-out" href="/setts/s4/g10k2dp5g1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/g10k2dp5g1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.86</div><div class="nn-name"><a href="/ttd/edit/#slug=k8g3k4g20r4~x2">MacArthur-Fox (Personal)</a> <a class="nn-out" href="/setts/s5/k8g3k4g20r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/k8g3k4g20r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

@@ -548,3 +548,78 @@ html.tartan-bg {
   text-align: center;
   font-variant-numeric: tabular-nums;
 }
+
+/* ------- nearest-tartans table -------
+   Rendered once in Go by internal/nntable.Table and shared by the static /setts/ page and the
+   in-browser TTD, so the two never drift (tartan-weaver issue #54). A three-column grid —
+   ΔTartan | Tartan | Sett — led by the page's own cloth (.nn-base), so every neighbour's swatch
+   lines up in one column under it for comparison. Each swatch is the cloth's sett.png stretched
+   to a band-count width (set inline by Go), capped at the column; max-width keeps it inside.
+   On a narrow screen each swatch drops onto its own full-width row under the ΔT + name. */
+.nn-table {
+  display: grid;
+  grid-template-columns: auto auto minmax(0, 1fr);
+  column-gap: .9rem;
+  row-gap: .4rem;
+  align-items: center;
+  margin: .6rem 0 1rem;
+}
+.nn-table > div {
+  min-width: 0;
+}
+.nn-h {
+  font-weight: 600;
+  border-bottom: 2px solid #d8d2c4;
+  padding-bottom: .2rem;
+}
+.nn-dt {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: #555;
+}
+.nn-name {
+  line-height: 1.3;
+}
+.nn-out {
+  text-decoration: none;
+  color: #8a8a8a;
+}
+.nn-swatch {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 2px;
+}
+/* the page's own cloth leads the table, tinted so its swatch heads the column */
+.nn-base {
+  background: #f7f3e9;
+}
+.nn-name.nn-base {
+  font-weight: 600;
+}
+/* de-emphasis by ΔTartan distance band (nntable.farClass): the close neighbours stay full strength,
+   the further ones the wide cutoff admits fade back so they don't compete. Only the ΔT + name text
+   carries these classes — the swatch never fades, so its colours stay true. */
+.nn-far {
+  opacity: .68;
+}
+.nn-far2 {
+  opacity: .42;
+}
+@media screen and (max-width: 600px) {
+  .nn-table {
+    grid-template-columns: auto 1fr;
+    column-gap: .7rem;
+  }
+  .nn-h {
+    display: none;
+  }
+  .nn-sw {
+    grid-column: 1 / -1;
+  }
+  .nn-swatch {
+    width: 100% !important;
+  }
+}

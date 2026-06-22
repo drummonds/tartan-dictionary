@@ -42,18 +42,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 1.46
-1. [Buccleuch, Check](/setts/s8/k1w1k1w1db1~x12/) — ΔT 1.67
-1. [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/) — ΔT 1.70
-1. [Dacre Estate Check](/setts/s3/k1w1r1~x14/) — ΔT 1.83
-1. [Border Bell](/setts/s7/k1r1w1k1w1k1db1~x16/) — ΔT 1.86
-1. [Bell, Border (Name)](/setts/s7/k1r1w1k1w1k1db1~x14/) — ΔT 1.86
-1. [Glen Feshie Check](/setts/s8/r4w4k3w4k4w4k4w4~x2/) — ΔT 1.88
-1. [Coigach Tweed](/setts/s3/k1lb1o1~x6/) — ΔT 1.91
-1. [Glen Moriston Estate Check](/setts/s3/dt1lb1w1~x8/) — ΔT 1.95
-1. [Shepherd (Brown & White)](/setts/s4/dy1lb1~x6/) — ΔT 1.96
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k1w1do1~x8">Hogg</a> <a class="nn-out" href="/setts/s4/k1w1do1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s4/k1w1do1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/setts/s4/k1w1~x6/">Shepherd or Falkirk</a></div><div class="nn-sw"></div><div class="nn-dt">1.67</div><div class="nn-name"><a href="/setts/s8/k1w1k1w1db1~x12/">Buccleuch, Check</a></div><div class="nn-sw"></div><div class="nn-dt">1.70</div><div class="nn-name"><a href="/setts/s8/k1w1k1w1b1~x12/">Haig Check (Estate Check)</a></div><div class="nn-sw"></div><div class="nn-dt">1.83</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1r1~x14">Dacre Estate Check</a> <a class="nn-out" href="/setts/s3/k1w1r1~x14/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k1w1r1~x14/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.86</div><div class="nn-name"><a href="/ttd/edit/#slug=k1r1w1k1w1k1db1~x16">Border Bell</a> <a class="nn-out" href="/setts/s7/k1r1w1k1w1k1db1~x16/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s7/k1r1w1k1w1k1db1~x16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.86</div><div class="nn-name"><a href="/ttd/edit/#slug=k1r1w1k1w1k1db1~x14">Bell, Border (Name)</a> <a class="nn-out" href="/setts/s7/k1r1w1k1w1k1db1~x14/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s7/k1r1w1k1w1k1db1~x14/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.88</div><div class="nn-name"><a href="/ttd/edit/#slug=r4w4k3w4k4w4k4w4~x2">Glen Feshie Check</a> <a class="nn-out" href="/setts/s8/r4w4k3w4k4w4k4w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s8/r4w4k3w4k4w4k4w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.91</div><div class="nn-name"><a href="/ttd/edit/#slug=k1lb1o1~x6">Coigach Tweed</a> <a class="nn-out" href="/setts/s3/k1lb1o1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k1lb1o1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.95</div><div class="nn-name"><a href="/ttd/edit/#slug=dt1lb1w1~x8">Glen Moriston Estate Check</a> <a class="nn-out" href="/setts/s3/dt1lb1w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/dt1lb1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/setts/s4/dy1lb1~x6/">Shepherd (Brown &amp; White)</a></div><div class="nn-sw"></div></div>
 
 ## Neighbour map
 

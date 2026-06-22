@@ -47,18 +47,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Aquascutum](/setts/s3/db1w1r1~x22/) — ΔT 1.78
-1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 1.95
-1. [Algarve](/setts/s4/dg1r1w1db1~x20/) — ΔT 2.10
-1. [Usa](/setts/s3/db1lr1r1~x4/) — ΔT 2.18
-1. [Dacre Estate Check](/setts/s3/k1w1r1~x14/) — ΔT 2.25
-1. [Mothers Pride](/setts/s3/r1db1ly1~x40/) — ΔT 2.37
-1. [Coigach Tweed](/setts/s3/k1lb1o1~x6/) — ΔT 2.43
-1. [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/) — ΔT 2.54
-1. [Sillitoe](/setts/s2/db1w1~x20/) — ΔT 2.60
-1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 2.62
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dt1lb1w1~x8">Glen Moriston Estate Check</a> <a class="nn-out" href="/setts/s3/dt1lb1w1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s3/dt1lb1w1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.78</div><div class="nn-name"><a href="/ttd/edit/#slug=db1w1r1~x22">Aquascutum</a> <a class="nn-out" href="/setts/s3/db1w1r1~x22/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/db1w1r1~x22/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.95</div><div class="nn-name"><a href="/setts/s4/k1w1do1~x8/">Hogg</a></div><div class="nn-sw"></div><div class="nn-dt nn-far">2.10</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=dg1r1w1db1~x20">Algarve</a> <a class="nn-out" href="/setts/s4/dg1r1w1db1~x20/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/dg1r1w1db1~x20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.18</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db1lr1r1~x4">Usa</a> <a class="nn-out" href="/setts/s3/db1lr1r1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/db1lr1r1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.25</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k1w1r1~x14">Dacre Estate Check</a> <a class="nn-out" href="/setts/s3/k1w1r1~x14/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k1w1r1~x14/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.37</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=r1db1ly1~x40">Mothers Pride</a> <a class="nn-out" href="/setts/s3/r1db1ly1~x40/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/r1db1ly1~x40/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.43</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k1lb1o1~x6">Coigach Tweed</a> <a class="nn-out" href="/setts/s3/k1lb1o1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k1lb1o1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.54</div><div class="nn-name nn-far"><a href="/setts/s8/k1w1k1w1b1~x12/">Haig Check (Estate Check)</a></div><div class="nn-sw"></div><div class="nn-dt nn-far">2.60</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=db1w1~x20">Sillitoe</a> <a class="nn-out" href="/setts/s2/db1w1~x20/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/db1w1~x20/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.62</div><div class="nn-name nn-far"><a href="/setts/s4/k1w1~x6/">Shepherd or Falkirk</a></div><div class="nn-sw"></div></div>
 
 ## Neighbour map
 

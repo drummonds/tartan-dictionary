@@ -840,8 +840,9 @@
       ';filter:grayscale(1) invert(1) contrast(100);">' + esc(hex) + '</span></code>';
   }
 
-  /* Fetches the shipped ΔTartan index lazily, then fills container with the ten nearest existing
-   * variants and the neighbour map. Each neighbour can be opened either in the TTD (staying in
+  /* Fetches the shipped ΔTartan index lazily, then fills container with the nearest existing
+   * variants (capped by ΔTartan distance, so up to ten) and the neighbour map. Each neighbour can
+   * be opened either in the TTD (staying in
    * the navigator) or on its own page in the dictionary; hashed-leaf URLs cannot be re-encoded as
    * a fragment slug, so those offer only their page. */
   function renderExtras(container, slug) {
@@ -850,31 +851,20 @@
     loadIndexOnce().then(function (loaded) {
       var nn = window.weaver.neighbours(slug, 10);
       if (nn.error) throw new Error(nn.error);
-      nn.hits.forEach(function (hit) {
-        var dec = window.weaver.parsePath(hit.url);
-        hit.ttdSlug = dec.error ? null : dec.slug;
-      });
-      var rows = nn.hits.map(function (hit) {
-        var name = hit.name || 'Unnamed variant';
-        var nameCell = (hit.ttdSlug ? '<a href="' + TTD_PATH + '#slug=' + hit.ttdSlug + '">' + esc(name) + '</a>' : esc(name)) +
-          ' <a href="' + hit.url + '" title="open its dictionary page">↗</a>';
-        // The full sett colour pattern: the neighbour's own sett bar (static file, or SW-rendered on a
-        // miss via ?s=). Shown whole — width-fit, not cropped — so the colour sequence reads across.
-        var sett = '<img src="' + hit.url + 'sett.png' + (hit.ttdSlug ? '?s=' + encodeURIComponent(hit.ttdSlug) : '') +
-          '" alt="sett" loading="lazy" style="display:block;width:320px;max-width:100%;height:auto;' +
-          'border:1px solid #ddd;border-radius:2px">';
-        return '<tr><td style="text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap">' +
-          hit.dist.toFixed(2) + '</td><td>' + nameCell + '</td><td>' + sett + '</td></tr>';
-      });
       var pct = Math.round((loaded.explained[0] + loaded.explained[1]) * 100);
-      container.innerHTML = '<h2>Nearest tartans</h2><p>The ten nearest existing variants by ΔTartan ' +
-        'distance. A name opens its neighbour here in the TTD; <em>↗</em> steps out to its entry ' +
-        'in the dictionary.</p>' +
-        '<table class="nn-table"><thead><tr><th>ΔTartan</th><th>Tartan</th><th>Sett</th></tr></thead><tbody>' +
-        rows.join('') + '</tbody></table>' +
+      // The table is built in Go by the shared nntable.Table — the SAME builder the static /setts/
+      // page uses — so the page and the TTD render one table from one piece of code (issue #54). It
+      // leads with this tartan so the swatches line up against it. The list is ΔTartan-capped
+      // (nn.ListDistCap), so a sett in a sparse region shows fewer than ten — or none, sitting alone.
+      var listHtml = nn.hits.length
+        ? '<p>The nearest existing variants by ΔTartan distance, with this tartan at the top so the ' +
+          'swatches line up against it. A name opens that neighbour here in the TTD; <em>↗</em> steps ' +
+          'out to its entry in the dictionary.</p>' + nn.html
+        : '<p>No existing variant lies within ΔTartan range — this sett sits on its own.</p>';
+      container.innerHTML = '<h2>Nearest tartans</h2>' + listHtml +
         '<h2>Neighbour map</h2><p>Every grey dot is one of ' + loaded.count +
         ' existing variants placed by the first two principal components of the ΔTartan feature space (' +
-        pct + '% of its variance). Red is this tartan; blue dots are its ten nearest — click one to open it here.</p>';
+        pct + '% of its variance). Red is this tartan; blue dots are its nearest — click one to open it here.</p>';
       var cloud = window.weaver.plotCloud(2500);
       if (!cloud.error) drawPlot(container, cloud, nn);
       statLine('neighbours over ' + loaded.count + ' variants in ' +
@@ -884,7 +874,7 @@
     });
   }
 
-  /* The neighbour map: corpus cloud in grey, the ten nearest in blue (clickable, opening in the
+  /* The neighbour map: corpus cloud in grey, the nearest in blue (clickable, opening in the
    * TTD where the slug allows, else on their page), this tartan in red. Plain canvas — 2,500
    * background points is nothing to draw but plenty of shape. */
   function drawPlot(container, cloud, nn) {

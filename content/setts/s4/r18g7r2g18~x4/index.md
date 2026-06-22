@@ -26,18 +26,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Applecross](/setts/s4/r18g7r2g18~x2/) — ΔT 0.00
-1. [MacGregor of Glenstrae](/setts/s4/r17g9r2~x2/) — ΔT 0.59
-1. [MacGregor of Glenstrae #2](/setts/s4/r17dg9r2~x2/) — ΔT 1.13
-1. [MacGregor of Glen Strae](/setts/s5/g8r2g9r16g1~x2/) — ΔT 1.26
-1. [Middleton](/setts/s4/g16r1g2r11~x8/) — ΔT 1.29
-1. [Lugo (2013)](/setts/s4/r10dg4lo1~x8/) — ΔT 1.36
-1. [Bryce](/setts/s4/r1g7r9ly1~x4/) — ΔT 1.46
-1. [Murray, Lord George (Hose)](/setts/s5/k1r5g10r5g1~x4/) — ΔT 1.48
-1. [MacDonald, Lord of The Isles (Artef)](/setts/s5/g16r5g2r18k2~x2/) — ΔT 1.50
-1. [MacKinnon 11](/setts/s4/r3g20r25w3~x4/) — ΔT 1.52
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=r18g7r2g18~x4">Applecross (District)</a> <a class="nn-out" href="/setts/s4/r18g7r2g18~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s4/r18g7r2g18~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.00</div><div class="nn-name"><a href="/ttd/edit/#slug=r18g7r2g18~x2">Applecross</a> <a class="nn-out" href="/setts/s4/r18g7r2g18~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/r18g7r2g18~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.59</div><div class="nn-name"><a href="/setts/s4/r17g9r2~x2/">MacGregor of Glenstrae</a></div><div class="nn-sw"></div><div class="nn-dt">1.13</div><div class="nn-name"><a href="/setts/s4/r17dg9r2~x2/">MacGregor of Glenstrae #2</a></div><div class="nn-sw"></div><div class="nn-dt">1.26</div><div class="nn-name"><a href="/ttd/edit/#slug=g8r2g9r16g1~x2">MacGregor of Glen Strae</a> <a class="nn-out" href="/setts/s5/g8r2g9r16g1~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/g8r2g9r16g1~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.29</div><div class="nn-name"><a href="/ttd/edit/#slug=g16r1g2r11~x8">Middleton</a> <a class="nn-out" href="/setts/s4/g16r1g2r11~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/g16r1g2r11~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.36</div><div class="nn-name"><a href="/setts/s4/r10dg4lo1~x8/">Lugo (2013)</a></div><div class="nn-sw"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/ttd/edit/#slug=r1g7r9ly1~x4">Bryce</a> <a class="nn-out" href="/setts/s4/r1g7r9ly1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/r1g7r9ly1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/ttd/edit/#slug=k1r5g10r5g1~x4">Murray, Lord George (Hose)</a> <a class="nn-out" href="/setts/s5/k1r5g10r5g1~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/k1r5g10r5g1~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.50</div><div class="nn-name"><a href="/ttd/edit/#slug=g16r5g2r18k2~x2">MacDonald, Lord of The Isles (Artef)</a> <a class="nn-out" href="/setts/s5/g16r5g2r18k2~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/g16r5g2r18k2~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=r3g20r25w3~x4">MacKinnon 11</a> <a class="nn-out" href="/setts/s4/r3g20r25w3~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/r3g20r25w3~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

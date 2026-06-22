@@ -27,6 +27,16 @@
   .badge.dict { border-color:#2a6b3f;color:#2a6b3f;background:#2a6b3f14 }
   .srt-logo, .dict-logo { height:1em;width:auto;vertical-align:-.15em }
   .name img.srt-logo, .name img.dict-logo { display:inline;border:0;border-radius:0;image-rendering:auto }
+  /* nearest-tartans table — mirrors dictionary.css .nn-table so the gallery shows it as the site does */
+  .nn-table { display:grid; grid-template-columns:auto auto minmax(0,1fr); column-gap:.9rem; row-gap:.4rem; align-items:center; margin:.4rem 0; }
+  .nn-table > div { min-width:0; }
+  .nn-h { font-weight:600; border-bottom:2px solid #d8d2c4; padding-bottom:.2rem; }
+  .nn-dt { text-align:right; font-variant-numeric:tabular-nums; white-space:nowrap; color:#555; }
+  .nn-out { text-decoration:none; color:#8a8a8a; }
+  .nn-swatch { display:block; height:auto; max-width:100%; border:1px solid #ddd; border-radius:2px; }
+  .nn-base { background:#f7f3e9; } .nn-name.nn-base { font-weight:600; }
+  .nn-far { opacity:.68; } .nn-far2 { opacity:.42; }
+  @media screen and (max-width:600px){ .nn-table{grid-template-columns:auto 1fr;} .nn-h{display:none;} .nn-sw{grid-column:1 / -1;} .nn-swatch{width:100%!important;} }
 </style>
 </head>
 <body>
@@ -84,6 +94,12 @@ related setts) the slug alone can't carry.</p>
 </div>
 
 <div class="card">
+  <h2>Nearest tartans</h2>
+  <div class="row dyn"><span class="lbl">Go internal renderer<small>neighbours() — nntable.Table</small></span><div class="out" id="d-nn"></div></div>
+  <div class="row sta"><span class="lbl">Static site<small>identical — same nntable.Table</small></span><div class="out note" id="s-nn"></div></div>
+</div>
+
+<div class="card">
   <h2>Story detail <span class="note">(static-site only)</span></h2>
   <div class="row dyn"><span class="lbl">Go internal renderer<small>—</small></span><div class="out note">The dynamic tools have only the slug, which carries no story — so none of the below is rendered here.</div></div>
   <div class="row sta"><span class="lbl">Static site<small>from the corpus</small></span><div class="out note" id="s-story"></div></div>
@@ -105,6 +121,22 @@ related setts) the slug alone can't carry.</p>
   function pngURL(bytes) { return URL.createObjectURL(new Blob([bytes], { type: 'image/png' })); }
   function esc(s) { var d = document.createElement('div'); d.textContent = String(s); return d.innerHTML; }
   function html(el, s) { el.innerHTML = (typeof s === 'string') ? s : '<em>render failed</em>'; }
+
+  // The ΔTartan index (index.v1.json + vecs.v1.bin) backs the nearest-tartans table; fetch + hydrate
+  // it once, the same way weaver.js does, so neighbours() can run here.
+  var indexPromise = null;
+  function loadIndexOnce(w) {
+    if (indexPromise) return indexPromise;
+    indexPromise = Promise.all([
+      fetch('/nn/index.v1.json').then(function (r) { if (!r.ok) throw new Error('index.v1.json: HTTP ' + r.status); return r.text(); }),
+      fetch('/nn/vecs.v1.bin').then(function (r) { if (!r.ok) throw new Error('vecs.v1.bin: HTTP ' + r.status); return r.arrayBuffer(); })
+    ]).then(function (parts) {
+      var loaded = w.loadIndex(parts[0], new Uint8Array(parts[1]));
+      if (loaded.error) throw new Error(loaded.error);
+      return loaded;
+    }).catch(function (err) { indexPromise = null; throw err; });
+    return indexPromise;
+  }
 
   function render(slug) {
     engine().then(function (w) {
@@ -147,6 +179,19 @@ related setts) the slug alone can't carry.</p>
       // Palette — dynamic editor (jog) vs static plain table
       html($('d-pal'), w.renderPalette(slug, ''));
       html($('s-pal'), w.paletteHTML(slug));
+
+      // Nearest tartans — the shared nntable.Table; the same HTML the static /setts/ page embeds.
+      // Needs the ΔTartan index, fetched lazily on first render.
+      $('d-nn').innerHTML = '<p class="note">Measuring ΔTartan distances…</p>';
+      loadIndexOnce(w).then(function () {
+        var nn = w.neighbours(slug, 10);
+        if (nn.error) { html($('d-nn'), '<em>' + esc(nn.error) + '</em>'); return; }
+        $('d-nn').innerHTML = (nn.hits && nn.hits.length)
+          ? nn.html
+          : '<p class="note">No existing variant lies within ΔTartan range — this sett sits on its own.</p>';
+      }).catch(function (err) { $('d-nn').innerHTML = '<em>index unavailable: ' + esc(err.message || err) + '</em>'; });
+      $('s-nn').innerHTML = 'Identical — internal/dictionary embeds the same nntable.Table HTML (base row + capped, ' +
+        'distance-faded neighbours) on the /setts/ page.';
 
       // Story detail — static only; the harness can't run the corpus, so link to the live page.
       $('s-story').innerHTML = 'Prose <strong>story / provenance</strong>, <strong>attestations</strong> ' +

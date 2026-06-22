@@ -41,18 +41,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Shepherd Check (Universal)](/setts/s2/k1w1~x6/) — ΔT 1.44
-1. [Falkirk Tartan](/setts/s2/k1w1~x24/) — ΔT 1.45
-1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 1.46
-1. [Shepherd (Brown & White)](/setts/s4/dy1lb1~x6/) — ΔT 1.48
-1. [Shepherd](/setts/s2/k1w1~x15/) — ΔT 1.68
-1. [Shepherd Check](/setts/s2/k1w1~x28/) — ΔT 1.68
-1. [Northumberland](/setts/s3/k1w1k1~x10/) — ΔT 1.82
-1. [Buccleuch, Check](/setts/s8/k1w1k1w1db1~x12/) — ΔT 1.99
-1. [Shepherd Brown & White (Fashion?)](/setts/s2/dy1lb1~x6/) — ΔT 2.04
-1. [Haig Check (Estate Check)](/setts/s8/k1w1k1w1b1~x12/) — ΔT 2.05
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k1w1~x6">Shepherd or Falkirk</a> <a class="nn-out" href="/setts/s4/k1w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s4/k1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.44</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1~x6">Shepherd Check (Universal)</a> <a class="nn-out" href="/setts/s2/k1w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.45</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1~x24">Falkirk Tartan</a> <a class="nn-out" href="/setts/s2/k1w1~x24/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x24/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.46</div><div class="nn-name"><a href="/setts/s4/k1w1do1~x8/">Hogg</a></div><div class="nn-sw"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/setts/s4/dy1lb1~x6/">Shepherd (Brown &amp; White)</a></div><div class="nn-sw"></div><div class="nn-dt">1.68</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1~x15">Shepherd</a> <a class="nn-out" href="/setts/s2/k1w1~x15/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x15/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.68</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1~x28">Shepherd Check</a> <a class="nn-out" href="/setts/s2/k1w1~x28/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x28/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.82</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1k1~x10">Northumberland</a> <a class="nn-out" href="/setts/s3/k1w1k1~x10/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/k1w1k1~x10/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.99</div><div class="nn-name"><a href="/setts/s8/k1w1k1w1db1~x12/">Buccleuch, Check</a></div><div class="nn-sw"></div><div class="nn-dt nn-far">2.04</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=dy1lb1~x6">Shepherd Brown &amp; White (Fashion?)</a> <a class="nn-out" href="/setts/s2/dy1lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/dy1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.05</div><div class="nn-name nn-far"><a href="/setts/s8/k1w1k1w1b1~x12/">Haig Check (Estate Check)</a></div><div class="nn-sw"></div></div>
 
 ## Neighbour map
 

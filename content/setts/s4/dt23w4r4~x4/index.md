@@ -27,18 +27,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Auchmaliddie Samkoma](/setts/s4/dp23w4r4~x4/) — ΔT 0.95
-1. [Turnbull Dress, Bruce (Personal)](/setts/s5/db10g4w27db40r4~x2/) — ΔT 1.52
-1. [Juchter (Personal)](/setts/s4/dg20w5r3~x2/) — ΔT 1.58
-1. [Lords of Skye (Fashion?)](/setts/s4/k46dy7k8w20~x2/) — ΔT 1.58
-1. [UEFA (Glasgow)](/setts/s6/b30ly5b4r12~x4/) — ΔT 1.64
-1. [Barbie's Moss Plaid (Blue & White)](/setts/s6/w20dt20w3dt3~x2/) — ΔT 1.66
-1. [Cairn (Marton Mills)](/setts/s5/k2w1k8w8k1~x8/) — ΔT 1.71
-1. [Shembe Zulu Church](/setts/s5/k5w25r6k45w4~x2/) — ΔT 1.74
-1. [Rea](/setts/s6/t12ly2t1k5t4k2~x4/) — ΔT 1.77
-1. [Ochterlonie](/setts/s6/dt30w7dt18w11dt6ly3~x2/) — ΔT 1.79
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dt23w4r4~x4">Auchmaliddie Samkoma (Personal)</a> <a class="nn-out" href="/setts/s4/dt23w4r4~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s4/dt23w4r4~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">0.95</div><div class="nn-name"><a href="/setts/s4/dp23w4r4~x4/">Auchmaliddie Samkoma</a></div><div class="nn-sw"></div><div class="nn-dt">1.52</div><div class="nn-name"><a href="/ttd/edit/#slug=db10g4w27db40r4~x2">Turnbull Dress, Bruce (Personal)</a> <a class="nn-out" href="/setts/s5/db10g4w27db40r4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/db10g4w27db40r4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.58</div><div class="nn-name"><a href="/setts/s4/dg20w5r3~x2/">Juchter (Personal)</a></div><div class="nn-sw"></div><div class="nn-dt">1.58</div><div class="nn-name"><a href="/ttd/edit/#slug=k46dy7k8w20~x2">Lords of Skye (Fashion?)</a> <a class="nn-out" href="/setts/s4/k46dy7k8w20~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s4/k46dy7k8w20~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.64</div><div class="nn-name"><a href="/setts/s6/b30ly5b4r12~x4/">UEFA (Glasgow)</a></div><div class="nn-sw"></div><div class="nn-dt">1.66</div><div class="nn-name"><a href="/setts/s6/w20dt20w3dt3~x2/">Barbie's Moss Plaid (Blue &amp; White)</a></div><div class="nn-sw"></div><div class="nn-dt">1.71</div><div class="nn-name"><a href="/ttd/edit/#slug=k2w1k8w8k1~x8">Cairn (Marton Mills)</a> <a class="nn-out" href="/setts/s5/k2w1k8w8k1~x8/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/k2w1k8w8k1~x8/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.74</div><div class="nn-name"><a href="/ttd/edit/#slug=k5w25r6k45w4~x2">Shembe Zulu Church</a> <a class="nn-out" href="/setts/s5/k5w25r6k45w4~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s5/k5w25r6k45w4~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.77</div><div class="nn-name"><a href="/ttd/edit/#slug=t12ly2t1k5t4k2~x4">Rea</a> <a class="nn-out" href="/setts/s6/t12ly2t1k5t4k2~x4/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s6/t12ly2t1k5t4k2~x4/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.79</div><div class="nn-name"><a href="/ttd/edit/#slug=dt30w7dt18w11dt6ly3~x2">Ochterlonie</a> <a class="nn-out" href="/setts/s6/dt30w7dt18w11dt6ly3~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s6/dt30w7dt18w11dt6ly3~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 

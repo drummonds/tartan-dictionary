@@ -45,18 +45,9 @@ Each colour and the base-6 reference it is a variant of.
 
 ## Nearest tartans
 
-The nearest existing variants by ΔTartan distance.
+The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-1. [Shepherd Brown & White (Fashion?)](/setts/s2/dy1lb1~x6/) — ΔT 1.41
-1. [Shepherd or Falkirk](/setts/s4/k1w1~x6/) — ΔT 1.48
-1. [Falkirk Tartan](/setts/s2/k1w1~x24/) — ΔT 1.90
-1. [Hogg](/setts/s4/k1w1do1~x8/) — ΔT 1.96
-1. [Wilson's, No 116](/setts/s2/g1p1~x16/) — ΔT 1.98
-1. [Shepherd Check (Universal)](/setts/s2/k1w1~x6/) — ΔT 2.14
-1. [Justus Check (Personal)](/setts/s2/k1ly1~x40/) — ΔT 2.23
-1. [Justus Check (Personal)](/setts/s2/k1ly1~x50/) — ΔT 2.23
-1. [Glenlyon (District)](/setts/s2/dg1r1~x80/) — ΔT 2.34
-1. [Wilson's No.187](/setts/s4/k1g1r1~x8/) — ΔT 2.43
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=dy1lb1~x6">Shepherd (Brown &amp; White)</a> <a class="nn-out" href="/setts/s4/dy1lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s4/dy1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.41</div><div class="nn-name"><a href="/ttd/edit/#slug=dy1lb1~x6">Shepherd Brown &amp; White (Fashion?)</a> <a class="nn-out" href="/setts/s2/dy1lb1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/dy1lb1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.48</div><div class="nn-name"><a href="/setts/s4/k1w1~x6/">Shepherd or Falkirk</a></div><div class="nn-sw"></div><div class="nn-dt">1.90</div><div class="nn-name"><a href="/ttd/edit/#slug=k1w1~x24">Falkirk Tartan</a> <a class="nn-out" href="/setts/s2/k1w1~x24/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x24/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt">1.96</div><div class="nn-name"><a href="/setts/s4/k1w1do1~x8/">Hogg</a></div><div class="nn-sw"></div><div class="nn-dt">1.98</div><div class="nn-name"><a href="/ttd/edit/#slug=g1p1~x16">Wilson's, No 116</a> <a class="nn-out" href="/setts/s2/g1p1~x16/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/g1p1~x16/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.14</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k1w1~x6">Shepherd Check (Universal)</a> <a class="nn-out" href="/setts/s2/k1w1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1w1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.23</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k1ly1~x40">Justus Check (Personal)</a> <a class="nn-out" href="/setts/s2/k1ly1~x40/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1ly1~x40/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.23</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=k1ly1~x50">Justus Check (Personal)</a> <a class="nn-out" href="/setts/s2/k1ly1~x50/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k1ly1~x50/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.34</div><div class="nn-name nn-far"><a href="/ttd/edit/#slug=dg1r1~x80">Glenlyon (District)</a> <a class="nn-out" href="/setts/s2/dg1r1~x80/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/dg1r1~x80/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far">2.43</div><div class="nn-name nn-far"><a href="/setts/s4/k1g1r1~x8/">Wilson's No.187</a></div><div class="nn-sw"></div></div>
 
 ## Neighbour map
 

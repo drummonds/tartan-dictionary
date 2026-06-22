@@ -2,9 +2,10 @@
 title: "Blue Ridge (District)"
 date: 2023-03-18
 ---
-In pattern [BGBGBYBRBG](/stripes/bgbgbybrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6b8o2b2y2b16g18b4g4b3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBYBRBG](/stripes/bgbgbybrbg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3708/
 

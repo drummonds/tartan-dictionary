@@ -2,9 +2,10 @@
 title: "Healy (Suspect)"
 date: 2023-03-18
 ---
-In pattern [BWBRYBBWBBBWBBYRBWBY](/stripes/bwbrybbwbbbwbbyrbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2lb2bb7r4y8db4bb10lb2db2bb9db2lb2bb10db4y8r4bb7lb2db2y2/)
+(the same proportion at any scale), whose colour order is pattern [BWBRYBBWBBBWBBYRBWBY](/stripes/bwbrybbwbbbwbbyrbwby/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1640
 

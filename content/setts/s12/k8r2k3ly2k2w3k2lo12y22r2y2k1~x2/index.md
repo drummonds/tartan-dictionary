@@ -2,9 +2,10 @@
 title: "O'Keefe (Name)"
 date: 2023-03-18
 ---
-In pattern [KGRGYKWKYKRK](/stripes/kgrgykwkykrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r2k3y2k2ln3k2lt12lta22r2lta2k1/)
+(the same proportion at any scale), whose colour order is pattern [KGRGYKWKYKRK](/stripes/kgrgykwkykrk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1176/
 

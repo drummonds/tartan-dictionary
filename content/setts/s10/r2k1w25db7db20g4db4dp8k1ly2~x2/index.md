@@ -2,9 +2,10 @@
 title: "Guardian of Scotland Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKWBBGBBKY](/stripes/rkwbbgbbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k1ln25dba7db20g4db4p8k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RKWBBGBBKY](/stripes/rkwbbgbbky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7952/
 

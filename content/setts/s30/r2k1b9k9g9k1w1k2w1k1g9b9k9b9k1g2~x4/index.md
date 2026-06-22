@@ -2,9 +2,10 @@
 title: "Stephenson Hunting #2"
 date: 2023-03-18
 ---
-In pattern [GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK](/stripes/gkbkbgkwkwkgkbkrkbkgkwkwkgbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k1b9k9g9k1w1k2w1k1g9b9k9b9k1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBGKWKWKGKBKRKBKGKWKWKGBKBK](/stripes/gkbkbgkwkwkgkbkrkbkgkwkwkgbkbk/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3919
 

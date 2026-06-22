@@ -2,18 +2,20 @@
 title: "Brave for Men"
 date: 2023-03-18
 ---
-In pattern [BBKBRKRK](/stripes/bbkbrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5lt5k5lt34na33k6na5n2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBRKRK](/stripes/bbkbrkrk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10666
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 28/06/2012 — Brave for Men (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10666))
-- undated — Brave for Men Fashion Tartan Tartan Number: 10666. Earliest known date: 28/06/2012 A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10666))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/06/2012 — Brave for Men (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10666">record</a>)</li>
+<li>undated — Brave for Men Fashion Tartan Tartan Number: 10666. Earliest known date: 28/06/2012 A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10666">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

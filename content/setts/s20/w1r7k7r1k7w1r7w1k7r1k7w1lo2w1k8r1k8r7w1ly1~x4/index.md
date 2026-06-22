@@ -2,9 +2,10 @@
 title: "Order of the Holy Sepulchre (Corp)"
 date: 2023-03-18
 ---
-In pattern [WRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwrwkrkwywkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1ln1r7k8r1k8ln1dy2ln1k7r1k7ln1r7ln1k7r1k7r7ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwrwkrkwywkrkrwy/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2161/
 

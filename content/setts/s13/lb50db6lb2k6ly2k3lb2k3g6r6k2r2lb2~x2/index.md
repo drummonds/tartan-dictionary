@@ -2,9 +2,10 @@
 title: "Stewart Dress (Artefact)"
 date: 2023-03-18
 ---
-In pattern [WBWKYKWKGRKRW](/stripes/wbwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr50db6lr2k6y2k3lr2k3g6r6k2r2lr2/)
+(the same proportion at any scale), whose colour order is pattern [WBWKYKWKGRKRW](/stripes/wbwkykwkgrkrw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8958/
 

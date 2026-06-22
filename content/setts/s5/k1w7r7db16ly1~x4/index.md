@@ -2,9 +2,10 @@
 title: "Prehospital EMS Tartan (USA)"
 date: 2023-03-18
 ---
-In pattern [KWRBY](/stripes/kwrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1w7o7db16y1/)
+(the same proportion at any scale), whose colour order is pattern [KWRBY](/stripes/kwrby/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10182
 

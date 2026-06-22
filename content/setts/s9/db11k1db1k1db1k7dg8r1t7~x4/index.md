@@ -2,9 +2,10 @@
 title: "Damm, Alexander (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRB](/stripes/bkbkbkgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k1db1k1db1k7g8r1b7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRB](/stripes/bkbkbkgrb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11258
 

@@ -2,9 +2,10 @@
 title: "Campbell 'Camel'"
 date: 2023-03-18
 ---
-In pattern [BYKBKRKRKR](/stripes/bykbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt1k1lt10k1lt4k1ka3k5n2ka1/)
+(the same proportion at any scale), whose colour order is pattern [BYKBKRKRKR](/stripes/bykbkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell, 'Camel'
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Campbell 'Camel' (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505))
-- 1988 — Campbell, 'Camel' (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4427/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Campbell 'Camel' (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=505">record</a>)</li>
+<li>1988 — Campbell, 'Camel' (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4427/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

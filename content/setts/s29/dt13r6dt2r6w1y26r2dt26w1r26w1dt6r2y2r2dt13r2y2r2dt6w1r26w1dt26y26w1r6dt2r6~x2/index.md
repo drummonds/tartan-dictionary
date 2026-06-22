@@ -2,9 +2,10 @@
 title: "Unnamed C18/19th - Antigonish (A) #2"
 date: 2023-03-18
 ---
-In pattern [BRBRWGRBWRWBRGRBRGRBWRWBGWRBR](/stripes/brbrwgrbwrwbrgrbrgrbwrwbgwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13r6k2r6ln1g26r2k26ln1r26ln1k6r2g2r2k13r2g2r2k6ln1r26ln1k26g26ln1r6k2r6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWGRBWRWBRGRBRGRBWRWBGWRBR](/stripes/brbrwgrbwrwbrgrbrgrbwrwbgwrbr/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4413
 

@@ -2,9 +2,10 @@
 title: "Lynch Family Tartan Tartan Number: 2163. Earliest known date: 1994 Information from Dr. Phil Smith, Narvon, USA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBRBR](/stripes/bgbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r19db6r14db101g7db7/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBR](/stripes/bgbrbr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2163
 

@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bgk/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">BGK</span></div>
+
 It is a 3 stripe tartan.
 
-![Woven sample](/setts/s3/k8dg7db8~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BGK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

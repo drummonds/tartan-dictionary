@@ -2,9 +2,10 @@
 title: "Shaw of Tordarroch Green (Htg) (Clan"
 date: 2023-03-18
 ---
-In pattern [BKGBRGRB](/stripes/bkgbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1g30db15r8g30r8db2/)
+(the same proportion at any scale), whose colour order is pattern [BKGBRGRB](/stripes/bkgbrgrb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/318/
 

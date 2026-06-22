@@ -2,9 +2,10 @@
 title: "Bird Family (Wales) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGWGKWBYKY](/stripes/kgwgkwbyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k28y2n7w3m9lg2w4lg2k2/)
+(the same proportion at any scale), whose colour order is pattern [KGWGKWBYKY](/stripes/kgwgkwbyky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10350
 

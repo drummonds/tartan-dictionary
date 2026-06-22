@@ -2,9 +2,10 @@
 title: "Mangles, Peter and Annette Family/Personal Tartan Tartan Number: 10844. Earliest known date: 02/05/2013 The colours were chosen to represent the organisation and the location where Peter and Annette first met in Liverpool. In addition the red is representative of the city of Aberdeen (Scotland) and the black and grey is representative of the granite used extensively throughout Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYWRGKR](/stripes/gywrgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20k5g5r5w5n3g3/)
+(the same proportion at any scale), whose colour order is pattern [GYWRGKR](/stripes/gywrgkr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10844
 

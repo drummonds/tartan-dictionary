@@ -2,18 +2,20 @@
 title: "Blue Blas Alba"
 date: 2023-03-18
 ---
-In pattern [GYGBRBRBW](/stripes/gygbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg4y2lg39dn10n4dn4dr4dn25w3/)
+(the same proportion at any scale), whose colour order is pattern [GYGBRBRBW](/stripes/gygbrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=302
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — Blue Blas Alba (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=302))
-- 2004 — Blue Blas Alba (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6892/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Blue Blas Alba (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=302">record</a>)</li>
+<li>2004 — Blue Blas Alba (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6892/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Ledford Family Tartan Tartan Number: 835. Earliest known date: 1987 A quantity of this cloth was woven in 1998 for a Ledford family in the USA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRY](/stripes/gry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9n4y1/)
+(the same proportion at any scale), whose colour order is pattern [GRY](/stripes/gry/).
 
-This was sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=835
 

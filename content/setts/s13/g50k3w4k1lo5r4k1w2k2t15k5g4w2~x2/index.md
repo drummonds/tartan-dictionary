@@ -2,9 +2,10 @@
 title: "Abbotsford, City of"
 date: 2023-03-18
 ---
-In pattern [GKWKYRKWKBKGW](/stripes/gkwkyrkwkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg50k3w4k1y5dr4k1w2k2b15k5lg4w2/)
+(the same proportion at any scale), whose colour order is pattern [GKWKYRKWKBKGW](/stripes/gkwkyrkwkbkgw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10387
 

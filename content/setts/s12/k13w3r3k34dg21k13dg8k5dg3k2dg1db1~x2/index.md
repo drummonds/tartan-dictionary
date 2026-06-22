@@ -2,9 +2,10 @@
 title: "Alamudi (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGKGKGKGKRWK](/stripes/bgkgkgkgkrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13ln3dr3k34g21k13g8k5g3k2g1db1/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKGKGKRWK](/stripes/bgkgkgkgkrwk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8129/
 

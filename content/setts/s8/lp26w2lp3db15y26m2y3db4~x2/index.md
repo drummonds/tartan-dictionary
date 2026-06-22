@@ -2,9 +2,10 @@
 title: "Scottish Highlander, dress"
 date: 2023-03-18
 ---
-In pattern [BGRGBWWW](/stripes/bgrgbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp26ln2lp3db15n26dr2n3db4/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBWWW](/stripes/bgrgbwww/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

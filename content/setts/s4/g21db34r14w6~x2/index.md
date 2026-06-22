@@ -2,9 +2,10 @@
 title: "Harbison (2015)"
 date: 2023-03-18
 ---
-In pattern [GBRW](/stripes/gbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21db34r14w6/)
+(the same proportion at any scale), whose colour order is pattern [GBRW](/stripes/gbrw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11268
 

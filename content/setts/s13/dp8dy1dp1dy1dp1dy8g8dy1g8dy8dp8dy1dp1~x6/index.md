@@ -2,9 +2,10 @@
 title: "Tyneside Scottish Purple (Mil/Distr)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p8t1p1t1p1t8g8t1g8t8p8t1p1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGGGBGB](/stripes/bgbgbgggggbgb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5085/
 

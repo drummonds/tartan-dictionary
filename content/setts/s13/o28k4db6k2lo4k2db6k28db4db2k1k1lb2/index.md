@@ -2,9 +2,10 @@
 title: "McFly School"
 date: 2023-03-18
 ---
-In pattern [RKBKYKBKBBKKW](/stripes/rkbkykbkbbkkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n28k4db6k2dy4k2db6k28db4db2k1k1na2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKYKBKBBKKW](/stripes/rkbkykbkbbkkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2882
 

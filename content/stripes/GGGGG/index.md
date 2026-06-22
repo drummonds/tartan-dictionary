@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/ggggg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GGGGG</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/g40dg15g4dg4g4~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GGGGG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

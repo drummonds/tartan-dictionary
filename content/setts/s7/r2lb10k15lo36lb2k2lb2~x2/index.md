@@ -2,9 +2,10 @@
 title: "Unidentified (ex Tony Murray)"
 date: 2023-03-18
 ---
-In pattern [RWKYWKW](/stripes/rwkywkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2lr10k15lt36lr2k2lr2/)
+(the same proportion at any scale), whose colour order is pattern [RWKYWKW](/stripes/rwkywkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8885/
 

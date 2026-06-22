@@ -2,18 +2,20 @@
 title: "Crawford (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGRGRWR](/stripes/rgrgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2r30g12r3g12r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRWR](/stripes/rgrgrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1515/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1842 — Crawford (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1515/))
-- undated — Crawford Clan Tartan Tartan Number: 1515. Earliest known date: 1842 From a story about the early days of the Black Watch, in 1739, we know that there was no Crawford tartan at that time. The first record is in the Vestiarium Scoticum of 1842. It would appear that the tartan was designed sometime between these dates possibly by the Sobieski Stuart brothers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1515))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1842 — Crawford (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1515/">record</a>)</li>
+<li>undated — Crawford Clan Tartan Tartan Number: 1515. Earliest known date: 1842 From a story about the early days of the Black Watch, in 1739, we know that there was no Crawford tartan at that time. The first record is in the Vestiarium Scoticum of 1842. It would appear that the tartan was designed sometime between these dates possibly by the Sobieski Stuart brothers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1515">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 LN4 R60 G24 R6 G24 R/6

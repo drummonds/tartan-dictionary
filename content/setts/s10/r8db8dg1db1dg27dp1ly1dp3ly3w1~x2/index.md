@@ -2,9 +2,10 @@
 title: "Holyoke St. Patrick's"
 date: 2023-03-18
 ---
-In pattern [RBGBGBYBYW](/stripes/rbgbgbybyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8db8g1db1g27p1y1p3y3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBGBGBYBYW](/stripes/rbgbgbybyw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Holyoke St. Patrick's
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 17/03/2002 — Holyoke St. Patrick's (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764))
-- 2002 — Holyoke St Patrick's (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10764/))
-- undated — Holyoke St Patrick's Corporate Tartan Tartan Number: 5780. Earliest known date: 2002 Designed in 2002 by Gerald D Healy (2002 President) & Ralf L Hartwell Jnr for the Holyoke St Patrick's Committee in Holyoke Massachusetts which is home to the second largest St Patrick's parade in the USA. Colours chosen: red, white & blue from the US flag; green white and gold from the Irish flag and the Parade Committee; green & white from the Holyoke Community College; purple & white from the Holyoke Catholic High School and black & gold from the Dean Vocational High School. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5780))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>17/03/2002 — Holyoke St. Patrick's (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10764">record</a>)</li>
+<li>2002 — Holyoke St Patrick's (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10764/">record</a>)</li>
+<li>undated — Holyoke St Patrick's Corporate Tartan Tartan Number: 5780. Earliest known date: 2002 Designed in 2002 by Gerald D Healy (2002 President) & Ralf L Hartwell Jnr for the Holyoke St Patrick's Committee in Holyoke Massachusetts which is home to the second largest St Patrick's parade in the USA. Colours chosen: red, white & blue from the US flag; green white and gold from the Irish flag and the Parade Committee; green & white from the Holyoke Community College; purple & white from the Holyoke Catholic High School and black & gold from the Dean Vocational High School. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5780">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

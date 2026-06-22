@@ -2,9 +2,10 @@
 title: "Tenmaya"
 date: 2023-03-18
 ---
-In pattern [WGWBWBWW](/stripes/wgwbwbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3n36lp6b6lp6b12lp32ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGWBWBWW](/stripes/wgwbwbww/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Platt"
 date: 2023-03-18
 ---
-In pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/)
+(the same proportion at any scale), whose colour order is pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3346
 

@@ -2,9 +2,10 @@
 title: "State Seal of Iowa (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBWBRGY](/stripes/bbbwbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy5t25dr5b6lr4db18b43db5/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBRGY](/stripes/bbbwbrgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8629/
 

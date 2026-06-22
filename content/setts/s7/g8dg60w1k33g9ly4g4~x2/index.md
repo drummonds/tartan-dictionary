@@ -2,18 +2,20 @@
 title: "Duffy"
 date: 2023-03-18
 ---
-In pattern [GGWKGYG](/stripes/ggwkgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga8g60w1k33ga9y4ga4/)
+(the same proportion at any scale), whose colour order is pattern [GGWKGYG](/stripes/ggwkgyg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Duffy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008))
-- Feb. 1995 — Duffy (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2172/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Duffy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1008">record</a>)</li>
+<li>Feb. 1995 — Duffy (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2172/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

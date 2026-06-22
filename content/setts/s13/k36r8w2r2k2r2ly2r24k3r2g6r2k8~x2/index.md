@@ -2,9 +2,10 @@
 title: "MacKeever (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRGRKRYRKRWRK](/stripes/krgrkryrkrwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36r8w2r2k2r2y2r24k3r2g6r2k8/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKRYRKRWRK](/stripes/krgrkryrkrwrk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8426/
 

@@ -2,9 +2,10 @@
 title: "St. Andrew Quebec City"
 date: 2023-03-18
 ---
-In pattern [BGYGRWRWRGYGBY](/stripes/bgygrwrwrgygby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba40g10o1g5r5ln1r2ln1r5g5o1g10dba40y2/)
+(the same proportion at any scale), whose colour order is pattern [BGYGRWRWRGYGBY](/stripes/bgygrwrwrgygby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3872
 

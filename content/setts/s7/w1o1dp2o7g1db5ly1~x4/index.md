@@ -2,9 +2,10 @@
 title: "Deeside District Tartan Tartan Number: 1833. Earliest known date: 1963 The name Deas is described as an 'alias' for Davidson in historic records, and is a recognised sept of Clan Dhai (Davidson). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WRBRGBY](/stripes/wrbrgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1db5g1n7p2n1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRBRGBY](/stripes/wrbrgby/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1833
 

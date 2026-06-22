@@ -2,9 +2,10 @@
 title: "Holyrood Corporate Tartan Tartan Number: 98. Earliest known date: 1980 Holyrood is the Scottish equivalent of Buckingham Palace, the Queens official residence in Scotland. She is guarded by 'The Royal Company of Archers', a non military force provided by the chiefs of the clans. A sample of the Holyrood tartan was presented to the Scottish Tartans Society by Lochcarron Weavers in 1980. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYBWBGBBBW](/stripes/bbybwbgbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba54db14y3db3ln3db3g9dr7db2dr9ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBYBWBGBBBW](/stripes/bbybwbgbbbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=98
 

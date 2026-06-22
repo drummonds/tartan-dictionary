@@ -2,9 +2,10 @@
 title: "Denovan, The Lairdship of.."
 date: 2023-03-18
 ---
-In pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10p2g3r4g14k14r2b14r4b3p2b10/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

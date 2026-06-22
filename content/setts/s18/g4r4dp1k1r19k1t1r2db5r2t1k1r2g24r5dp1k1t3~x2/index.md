@@ -2,9 +2,10 @@
 title: "Dundas, (Red)"
 date: 2023-03-18
 ---
-In pattern [BKBRGRKBRBRBKRKBRG](/stripes/bkbrgrkbrbrbkrkbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r4p1k1r19k1ba1r2b5r2ba1k1r2g24r5p1k1ba3/)
+(the same proportion at any scale), whose colour order is pattern [BKBRGRKBRBRBKRKBRG](/stripes/bkbrgrkbrbrbkrkbrg/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Bartlett from Winnetka, Illinois"
 date: 2023-03-18
 ---
-In pattern [KGYGKGKGBYBGR](/stripes/kgygkgkgbybgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g40db12dy2db12g30k2g4k2g4dy2g3k3/)
+(the same proportion at any scale), whose colour order is pattern [KGYGKGKGBYBGR](/stripes/kgygkgkgbybgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bartlett from Winnetka, Illinois
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/1999 — Bartlett from Winnetka, Illinois (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224))
-- Oct. 1999 — Bartlett (Name #1) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2640/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1999 — Bartlett from Winnetka, Illinois (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=224">record</a>)</li>
+<li>Oct. 1999 — Bartlett (Name #1) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2640/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

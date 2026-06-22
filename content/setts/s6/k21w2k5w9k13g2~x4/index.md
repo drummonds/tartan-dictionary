@@ -2,9 +2,10 @@
 title: "New Zealand District Tartan Tartan Number: 3250. Earliest known date: 2000 Designed as a District sett by Timely Marketing Promotions, Christchurch, New Zealand See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKWKWK](/stripes/gkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k21ln2k5ln9k13g2/)
+(the same proportion at any scale), whose colour order is pattern [GKWKWK](/stripes/gkwkwk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3250
 

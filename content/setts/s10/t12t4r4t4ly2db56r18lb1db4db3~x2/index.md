@@ -2,9 +2,10 @@
 title: "Union Memorial Tartan"
 date: 2023-03-18
 ---
-In pattern [BBRBYBRWBB](/stripes/bbrbybrwbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12b4dr4b4y2db56dr18n1db4db3/)
+(the same proportion at any scale), whose colour order is pattern [BBRBYBRWBB](/stripes/bbrbybrwbb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4396
 

@@ -2,9 +2,10 @@
 title: "Canadian Centennial #3"
 date: 2023-03-18
 ---
-In pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g52k4t6db14t1db1t1db1t1db1t1db1t1db1t1db1t8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKGKGBGBGBGBGBGBGBGKGKBKBKBKBKBKBKBKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkgkgbgbgbgbgbgbgbgkgkbkbkbkbkbkbkbkg/).
 
-This was sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
+Sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=544
 

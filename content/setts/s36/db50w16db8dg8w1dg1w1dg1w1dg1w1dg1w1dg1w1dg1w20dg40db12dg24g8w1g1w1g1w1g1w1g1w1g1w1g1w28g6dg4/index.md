@@ -2,9 +2,10 @@
 title: "British Columbia (CIDD 28107)"
 date: 2023-03-18
 ---
-In pattern [BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG](/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db50ln16db8dg8ln1dg1ln1dg1ln1dg1ln1dg1ln1dg1ln1dg1ln20dg40db12dg24ga8ln1ga1ln1ga1ln1ga1ln1ga1ln1ga1ln1ga1ln28ga6dg4/)
+(the same proportion at any scale), whose colour order is pattern [BWBGWGWGWGWGWGWGWGBGGWGWGWGWGWGWGWGG](/stripes/bwbgwgwgwgwgwgwgwgbggwgwgwgwgwgwgwgg/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5705
 

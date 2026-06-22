@@ -2,9 +2,10 @@
 title: "Caithness"
 date: 2023-03-18
 ---
-In pattern [BRBWBRBRGRBGBRR](/stripes/brbwbrbrgrbgbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta28r3dr2n2dr2r3n8lt2dr8lt5dr3ln2dr2lt3dr1/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBRBRGRBGBRR](/stripes/brbwbrbrgrbgbrr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

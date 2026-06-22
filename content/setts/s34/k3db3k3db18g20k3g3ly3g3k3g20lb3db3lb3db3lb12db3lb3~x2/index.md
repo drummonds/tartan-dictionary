@@ -2,9 +2,10 @@
 title: "Johnston Dress (Dalgleish)"
 date: 2023-03-18
 ---
-In pattern [BKBGKGYGKGWBWBWBWBWBWBWGKGYGKGBKBK](/stripes/bkbgkgygkgwbwbwbwbwbwbwgkgygkgbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dba3k3dba18ga20k3ga3y3ga3k3ga20n3dba3n3dba3n12dba3n3/)
+(the same proportion at any scale), whose colour order is pattern [BKBGKGYGKGWBWBWBWBWBWBWGKGYGKGBKBK](/stripes/bkbgkgygkgwbwbwbwbwbwbwgkgygkgbkbk/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1897
 

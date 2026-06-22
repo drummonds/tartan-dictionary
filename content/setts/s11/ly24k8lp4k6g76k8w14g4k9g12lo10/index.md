@@ -2,9 +2,10 @@
 title: "Offally County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [YGKGWKGKWKY](/stripes/ygkgwkgkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y24k8lr4k6g76k8ln14g4k9g12dy10/)
+(the same proportion at any scale), whose colour order is pattern [YGKGWKGKWKY](/stripes/ygkgwkgkwky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7456/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Offaly County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Offally County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7456/))
-- 01/05/2005 — Offaly County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Offally County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7456/">record</a>)</li>
+<li>01/05/2005 — Offaly County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5058">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

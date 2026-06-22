@@ -2,9 +2,10 @@
 title: "Buschke (Skye) (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBRKGBY](/stripes/wbrkgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2dr4dg11k30r2db16w1/)
+(the same proportion at any scale), whose colour order is pattern [WBRKGBY](/stripes/wbrkgby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10899/
 

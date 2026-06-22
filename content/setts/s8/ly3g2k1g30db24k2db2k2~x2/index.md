@@ -2,9 +2,10 @@
 title: "Johnston / Johnstone"
 date: 2023-03-18
 ---
-In pattern [KBKBGKGY](/stripes/kbkbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g2k1g30b24k2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Johnston / Johnstone
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Johnston / Johnstone (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Johnston Clan Tartan Tartan Number: 1063. Earliest known date: 1842 A powerful Border Clan who pursued a deadly feud with the Maxwells. Their stronghold was Lochwood Tower, near Beattock, which was burned down by the Maxwells in 1593. The tartan was first published in the Vestiarium Scoticum in 1842. Before that time Border tartans were generally un-named. More likely the tartan came from the Aberdeenshire Johnstons, whose family seat is at Caskieben, Blackburn. (Ref: The Setts.. No. 82. D.C.Stewart.) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1063))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Johnston / Johnstone (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Johnston Clan Tartan Tartan Number: 1063. Earliest known date: 1842 A powerful Border Clan who pursued a deadly feud with the Maxwells. Their stronghold was Lochwood Tower, near Beattock, which was burned down by the Maxwells in 1593. The tartan was first published in the Vestiarium Scoticum in 1842. Before that time Border tartans were generally un-named. More likely the tartan came from the Aberdeenshire Johnstons, whose family seat is at Caskieben, Blackburn. (Ref: The Setts.. No. 82. D.C.Stewart.) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1063">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/6 G4 K2 G60 B48 K4 B4 K/4

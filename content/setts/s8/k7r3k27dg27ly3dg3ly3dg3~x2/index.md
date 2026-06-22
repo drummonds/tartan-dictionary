@@ -2,9 +2,10 @@
 title: "Brunton (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGYGKRK](/stripes/gygygkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7r3k27dg27lg3dg3lg3dg3/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGKRK](/stripes/gygygkrk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=406
 

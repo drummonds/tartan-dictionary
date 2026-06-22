@@ -2,9 +2,10 @@
 title: "University of Delaware Fightin' Blue Hen"
 date: 2023-03-18
 ---
-In pattern [BWBYBYBYB](/stripes/bwbybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b43y5b1y4b1y2b7w1b2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBYBYB](/stripes/bwbybybyb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10518
 

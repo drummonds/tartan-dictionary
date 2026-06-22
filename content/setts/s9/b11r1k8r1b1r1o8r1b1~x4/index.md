@@ -2,9 +2,10 @@
 title: "MacPherson Hunting"
 date: 2023-03-18
 ---
-In pattern [BRKRBRRRB](/stripes/brkrbrrrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11r1k8r1b1r1n8r1b1/)
+(the same proportion at any scale), whose colour order is pattern [BRKRBRRRB](/stripes/brkrbrrrb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2722
 

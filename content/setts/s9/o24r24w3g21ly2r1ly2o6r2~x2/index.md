@@ -2,9 +2,10 @@
 title: "Henry, W.A."
 date: 2023-03-18
 ---
-In pattern [RRWGYRYRR](/stripes/rrwgyryrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt24r24ln3g21y2r1y2lt6r2/)
+(the same proportion at any scale), whose colour order is pattern [RRWGYRYRR](/stripes/rrwgyryrr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

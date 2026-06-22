@@ -2,9 +2,10 @@
 title: "Hamilton Red Clan Tartan Tartan Number: 477. Earliest known date: 1842 First recorded in the Vestiarium Scoticum which was supposedly based on an ancient manuscript now known to have been forged. The original illustration shows the four main stripes in a very dark shade of blue. There is no evidence of a Hamilton tartan prior to the publication of this spectacular work. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry of the period and it is probable that the design can be attributed to Charles Edward Stuart (Allan Hay) who prepared the illustrations for the book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRW](/stripes/brbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r1db6r9ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRW](/stripes/brbrw/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=477
 

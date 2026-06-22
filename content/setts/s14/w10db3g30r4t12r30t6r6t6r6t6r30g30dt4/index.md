@@ -2,9 +2,10 @@
 title: "MacGuire Irish Family Tartan Tartan Number: 2427. Earliest known date: 1985 MacGuire is an Irish Family tartan See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRBRBRBRBRGBW](/stripes/bgrbrbrbrbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln10db3g30r4b12r30b6r6b6r6b6r30g30dba4/)
+(the same proportion at any scale), whose colour order is pattern [BGRBRBRBRBRGBW](/stripes/bgrbrbrbrbrgbw/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2427
 

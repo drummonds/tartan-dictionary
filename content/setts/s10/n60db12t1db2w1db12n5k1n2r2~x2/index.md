@@ -2,18 +2,20 @@
 title: "Kervegant (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBWBBKBR](/stripes/bbbbwbbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n60db12b1db2ln1db12n5k1n2r2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBBKBR](/stripes/bbbbwbbkbr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7680/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Jan 2008 — Kervegant (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7680/))
-- undated — Kervegant (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5682))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Jan 2008 — Kervegant (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7680/">record</a>)</li>
+<li>undated — Kervegant (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5682">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

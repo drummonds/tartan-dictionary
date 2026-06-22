@@ -2,9 +2,10 @@
 title: "Hawick"
 date: 2023-03-18
 ---
-In pattern [KGKYKWKGGGGGGKWKYKGKYKWKGGGGGKWKY](/stripes/kgkykwkggggggkwkykgkykwkgggggkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db3ln2db2dg12g2dg12g2dg12db2ln2db3y2db3g4db3y2db3ln2db2ga12g2ga12g12g2g12db2ln2db3y2db3g4db3/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKWKGGGGGGKWKYKGKYKWKGGGGGKWKY](/stripes/kgkykwkggggggkwkykgkykwkgggggkwky/).
 
-This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

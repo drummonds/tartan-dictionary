@@ -2,18 +2,20 @@
 title: "Rafferty (Estimated threadcount)"
 date: 2023-03-18
 ---
-In pattern [RBYBWBWBY](/stripes/rbybwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr15b2lt1b10w1b2w1b2lt1/)
+(the same proportion at any scale), whose colour order is pattern [RBYBWBWBY](/stripes/rbybwbwby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Rafferty (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439))
-- pre 2005 — Rafferty (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6749/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Rafferty (Estimated threadcount) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3439">record</a>)</li>
+<li>pre 2005 — Rafferty (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6749/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

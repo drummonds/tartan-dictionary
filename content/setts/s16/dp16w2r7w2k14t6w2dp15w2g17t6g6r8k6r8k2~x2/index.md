@@ -2,9 +2,10 @@
 title: "Gordon Red.. Family Tartan Tartan Number: 652. Earliest known date: pre 1819 Sample from the Telfer-Dunbar collection. Also known as 'Old Huntly' and frequently used as the Huntly District tartan. Not to be confused with the 'usual' Huntly District tartan which is based on the MacRae, Ross, Grant group with which it does not appear to be related. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRWKBWBWGBGRKRK](/stripes/bwrwkbwbwgbgrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p16ln2do7ln2k14b6ln2p15ln2g17b6g6r8k6r8k2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWKBWBWGBGRKRK](/stripes/bwrwkbwbwgbgrkrk/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=652
 

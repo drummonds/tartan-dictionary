@@ -2,9 +2,10 @@
 title: "MacGlynn"
 date: 2023-03-18
 ---
-In pattern [KGWGBGBGBKBKBKBGR](/stripes/kgwgbgbgbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dg3w3dg3p3dg3p3dg15dp3k3dp3k3dp3k3dp3dg19r3/)
+(the same proportion at any scale), whose colour order is pattern [KGWGBGBGBKBKBKBGR](/stripes/kgwgbgbgbkbkbkbgr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2447
 

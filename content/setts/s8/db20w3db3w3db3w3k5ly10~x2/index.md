@@ -2,19 +2,21 @@
 title: "Kile (No red line) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWKY](/stripes/bwbwbwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20w3db3w3db3w3k5y10/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWKY](/stripes/bwbwbwky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1320/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1983 — Kile (No red line) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1320/))
-- undated — Kile (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Kile Family Tartan Tartan Number: 1320. Earliest known date: January, 1983 This sett was recorded by Peter MacDonald on the 17th of January, 1983. MacDonald was engaged in research work for the Scottish Tartans Society at the time but the correspondence up until 1985 does not indicate whether the design was ever finalised or even woven. There is a similarity in structure with the Kyle tartan recorded in 1984. Interest in the Kile tartan was revived in 1995. (Scottish Tartans Society correspondence) The name, Kyle or Kile, is associated with the Carrick District. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1320))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1983 — Kile (No red line) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1320/">record</a>)</li>
+<li>undated — Kile (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Kile Family Tartan Tartan Number: 1320. Earliest known date: January, 1983 This sett was recorded by Peter MacDonald on the 17th of January, 1983. MacDonald was engaged in research work for the Scottish Tartans Society at the time but the correspondence up until 1985 does not indicate whether the design was ever finalised or even woven. There is a similarity in structure with the Kyle tartan recorded in 1984. Interest in the Kile tartan was revived in 1995. (Scottish Tartans Society correspondence) The name, Kyle or Kile, is associated with the Carrick District. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1320">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/40 W6 DB6 W6 DB6 W6 K10 Y/20

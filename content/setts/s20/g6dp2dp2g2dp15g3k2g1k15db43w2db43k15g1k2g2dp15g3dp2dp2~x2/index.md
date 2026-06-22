@@ -2,9 +2,10 @@
 title: "Scottish Pride"
 date: 2023-03-18
 ---
-In pattern [BBGBGKGKBWBKGKGBGBBG](/stripes/bbgbgkgkbwbkgkgbgbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6p2dp2g2dp15g3k2g1k15db43ln2db43k15g1k2g2dp15g3dp2p2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGKGKBWBKGKGBGBBG](/stripes/bbgbgkgkbwbkgkgbgbbg/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3740
 

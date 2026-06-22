@@ -2,9 +2,10 @@
 title: "Unidentified Plaid #6"
 date: 2023-03-18
 ---
-In pattern [KWKWKYKWKYKWKW](/stripes/kwkwkykwkykwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln100k15ln2k4y2k6ln10k4y2k13ln4k100ln3k2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKYKWKYKWKW](/stripes/kwkwkykwkykwkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified Plaid #6
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified Plaid #6 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353))
-- undated — Unidentified Plaid 13 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified Plaid #6 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4353">record</a>)</li>
+<li>undated — Unidentified Plaid 13 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

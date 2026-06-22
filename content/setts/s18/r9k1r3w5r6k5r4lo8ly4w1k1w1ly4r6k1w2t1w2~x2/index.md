@@ -2,9 +2,10 @@
 title: "Jacobite Old Sett"
 date: 2023-03-18
 ---
-In pattern [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9k1r3ln5r6k5r4dy8y4ln1k1ln1y4r6k1ln2b1ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1877
 

@@ -2,9 +2,10 @@
 title: "Wcwm 1399"
 date: 2023-03-18
 ---
-In pattern [GKGYWYWYWK](/stripes/gkgywywywk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k44lr3dy16lr2dy2lr2dy2lt10k3lt8/)
+(the same proportion at any scale), whose colour order is pattern [GKGYWYWYWK](/stripes/gkgywywywk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4521
 

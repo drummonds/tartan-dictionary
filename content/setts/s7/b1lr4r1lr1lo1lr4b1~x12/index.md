@@ -2,9 +2,10 @@
 title: "Justus Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYRYYYB](/stripes/byryyyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1n4dr1n1dy1n4b1/)
+(the same proportion at any scale), whose colour order is pattern [BYRYYYB](/stripes/byryyyb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2500/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Justus Dress Personal
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1986 — Justus Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2500/))
-- 01/01/1990 — Justus Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1920))
-- undated — Justus Dress Personal Tartan Tartan Number: 2500. Earliest known date: 1986 One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although it is said to have been adopted by the Justus Family Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2500))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1986 — Justus Dress (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2500/">record</a>)</li>
+<li>01/01/1990 — Justus Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1920">record</a>)</li>
+<li>undated — Justus Dress Personal Tartan Tartan Number: 2500. Earliest known date: 1986 One of 7 tartans created by Christopher Carlisle Justus in Hendersonville NC - 1986. Status not known and no evidence of actual commercial weaving although it is said to have been adopted by the Justus Family Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2500">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

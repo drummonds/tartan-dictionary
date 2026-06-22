@@ -2,9 +2,10 @@
 title: "O'Doherty (Name)"
 date: 2023-03-18
 ---
-In pattern [WBGBGKGYGYGKY](/stripes/wbgbgkgygygky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2g2y2g3y1g10k18g3db2g3db10ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGKGYGYGKY](/stripes/wbgbgkgygygky/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10566/
 

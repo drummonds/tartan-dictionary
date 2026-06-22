@@ -2,18 +2,20 @@
 title: "Trost"
 date: 2023-03-18
 ---
-In pattern [GRRRWRWRGRBRBRGRWRWRRRG](/stripes/grrrwrwrgrbrbrgrwrwrrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r2dr2r24ln2r3ln3r3g10dr10b2dr4b2dr10g10r3ln3r2ln2r24dr2r2g4/)
+(the same proportion at any scale), whose colour order is pattern [GRRRWRWRGRBRBRGRWRWRRRG](/stripes/grrrwrwrgrbrbrgrwrwrrrg/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5343
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Trost (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5343))
-- 2002 — Trost (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3811/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Trost (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5343">record</a>)</li>
+<li>2002 — Trost (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3811/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

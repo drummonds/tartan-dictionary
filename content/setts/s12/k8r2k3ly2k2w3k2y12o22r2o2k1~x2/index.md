@@ -2,9 +2,10 @@
 title: "O'Keefe"
 date: 2023-03-18
 ---
-In pattern [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r2k3y2k2ln3k2lg12lt22r2lt2k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKWKGRRRK](/stripes/krkykwkgrrrk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

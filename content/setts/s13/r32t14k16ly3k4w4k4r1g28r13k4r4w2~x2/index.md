@@ -2,18 +2,20 @@
 title: "Carolina"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKRGRKRW](/stripes/rbkykwkrgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r32b14k16y3k4ln4k4r1g28r13k4r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKRGRKRW](/stripes/rbkykwkrgrkrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Carolina (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Carolina District Tartan Tartan Number: 1377. Earliest known date: 1980 Based on a fragment of a coat of the Royal Company of Archers dated c.1730, believed to be the same sett as was used for the wedding ribbons of Charles II in 1661. The tartan commemorates the historic link. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1377))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Carolina (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Carolina District Tartan Tartan Number: 1377. Earliest known date: 1980 Based on a fragment of a coat of the Royal Company of Archers dated c.1730, believed to be the same sett as was used for the wedding ribbons of Charles II in 1661. The tartan commemorates the historic link. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1377">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/64 B28 K32 Y6 K8 LN8 K8 R2 G56 R26 K8 R8 LN/4

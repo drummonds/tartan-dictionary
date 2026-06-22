@@ -2,9 +2,10 @@
 title: "New York City American District Tartan Tartan Number: 3812. Earliest known date: 2002 Created to celebrate Tartan Day 6th April 2002 in New York City on the occasion of the greatest parade of Pipes and Drums ever seen. Colourings are for the streets and buildings of New York: green is Central Park; blue the rivers (Hudson, Harlem & East) that surround Manhattan; the two black stripes are to honour the memory of the twin towers of the World Trade centre destroyed in \"911\" (The American way of signifying September 11th). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKBBGRGBBKB](/stripes/bbkbbgrgbbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k1db3n3g4dr1g4n3db3k1db3dba2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBBGRGBBKB](/stripes/bbkbbgrgbbkb/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3812
 

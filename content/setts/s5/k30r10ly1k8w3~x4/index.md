@@ -2,9 +2,10 @@
 title: "Union Fire Club Pipes and Drums"
 date: 2023-03-18
 ---
-In pattern [KRYKW](/stripes/krykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30r10y1k8ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRYKW](/stripes/krykw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Union Fire Club Pipes & Drums (Corp.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2006 — Union Fire Club Pipes and Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831))
-- April 2006 — Union Fire Club Pipes & Drums (Corp. (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7149/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2006 — Union Fire Club Pipes and Drums (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5831">record</a>)</li>
+<li>April 2006 — Union Fire Club Pipes & Drums (Corp. (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7149/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

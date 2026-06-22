@@ -2,9 +2,10 @@
 title: "Manitoba District Tartan Tartan Number: 144. Earliest known date: 1962 The official recording of the sett shows the letter G for the dark green stripe. In heraldic terms this means 'Gules' - red. The designer, Hugh Kirkwood Rankine, clearly intended dark green and this is reproduced here.It was given Royal Assent in 1962. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGGGRY](/stripes/bgbgggry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2dr6g1dg2g12b1g1b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGGRY](/stripes/bgbgggry/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=144
 

@@ -2,9 +2,10 @@
 title: "Black Watch"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k1db1k1db1k8g8k1g8k8db8k1db1g6k1g6k3db4k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

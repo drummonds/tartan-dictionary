@@ -2,9 +2,10 @@
 title: "Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2p3do2r15p3g19p20r15p3do2r2/)
+(the same proportion at any scale), whose colour order is pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1414
 

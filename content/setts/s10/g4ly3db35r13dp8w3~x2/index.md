@@ -2,18 +2,20 @@
 title: "Kilsyth"
 date: 2023-03-18
 ---
-In pattern [GYBRBWBRBY](/stripes/gybrbwbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4y3db35r13p8ln3/)
+(the same proportion at any scale), whose colour order is pattern [GYBRBWBRBY](/stripes/gybrbwbrby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Kilsyth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977))
-- undated — Kilsyth District Tartan Tartan Number: 4073. Earliest known date: January 2002 Kilsyth in Scotland, Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4073))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Kilsyth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1977">record</a>)</li>
+<li>undated — Kilsyth District Tartan Tartan Number: 4073. Earliest known date: January 2002 Kilsyth in Scotland, Canada, Australia, New Zealand and America. Designed by William & Colin Chalmers of Howe Rd, Kilsyth, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4073">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "MacLeod of Gesto Clan Tartan Tartan Number: 1258. Earliest known date: pre 1850 Very similar to the sett recorded by Rhuriah MacLeod from a sample in a collection made for the Great Exhibition in London in 1851, now held by the Smith Institute in Stirling. The samples, made by Wilson's of Bannockburn, were donated to the institute anonymously in 1930. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWRKYWYKGWKRYGWGYRKWBWR](/stripes/kwrkywykgwkrygwgyrkwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r88ln2b8ln2k2r2y2t3ln4t3y2r6k2ln2g32k2y2ln2y2k4r6ln2k3/)
+(the same proportion at any scale), whose colour order is pattern [KWRKYWYKGWKRYGWGYRKWBWR](/stripes/kwrkywykgwkrygwgyrkwbwr/).
 
-This was sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1258
 

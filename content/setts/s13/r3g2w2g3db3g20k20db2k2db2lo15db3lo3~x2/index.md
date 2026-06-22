@@ -2,9 +2,10 @@
 title: "U.S. Ancient Order of Hibernians (Co"
 date: 2023-03-18
 ---
-In pattern [RGWGBGKBKBYBY](/stripes/rgwgbgkbkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3db3dy15db2k2db2k20g20db3g3ln2g2r3/)
+(the same proportion at any scale), whose colour order is pattern [RGWGBGKBKBYBY](/stripes/rgwgbgkbkbyby/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6507/
 

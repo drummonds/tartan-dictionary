@@ -2,9 +2,10 @@
 title: "MacLean, dress Burgundy"
 date: 2023-03-18
 ---
-In pattern [BBKYKRKRWBWK](/stripes/bbkykrkrwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba12b2k4y2k3dr3k3dr19ln31b2ln4k2/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKRKRWBWK](/stripes/bbkykrkrwbwk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

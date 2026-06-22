@@ -2,9 +2,10 @@
 title: "Ross Wedding Dress"
 date: 2023-03-18
 ---
-In pattern [BBWBBRWBBGWGBBWGWGRBWKWK](/stripes/bbwbbrwbbgwgbbwgwgrbwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln2k2ln1b6r6g6ln1g27ln1db4b4t3ln1t3b4db4ln1r36db3b2ln1b2db3/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBRWBBGWGBBWGWGRBWKWK](/stripes/bbwbbrwbbgwgbbwgwgrbwkwk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unnamed C18th
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1766 — Ross Wedding Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564))
-- 1766 — Unnamed C18th - Wedding Dress/Shawl (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/90/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1766 — Ross Wedding Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3564">record</a>)</li>
+<li>1766 — Unnamed C18th - Wedding Dress/Shawl (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/90/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

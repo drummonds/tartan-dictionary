@@ -2,9 +2,10 @@
 title: "MacScott Family (America) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGBGBWBGGG](/stripes/ggbgbwbggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g23t5b13g5b5w3b5g5t9g9/)
+(the same proportion at any scale), whose colour order is pattern [GGBGBWBGGG](/stripes/ggbgbwbggg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacScott Family
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 12/01/2010 — MacScott Family (America) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408))
-- 12th Jan. 2010 — MacScott (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10408/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>12/01/2010 — MacScott Family (America) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10408">record</a>)</li>
+<li>12th Jan. 2010 — MacScott (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10408/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

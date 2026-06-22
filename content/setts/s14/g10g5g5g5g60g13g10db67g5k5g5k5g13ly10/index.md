@@ -2,9 +2,10 @@
 title: "Beatrice, Princess.. (hunting)"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGBGKGKGY](/stripes/gggggggbgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y10ga13k5ga5k5ga5db67ga10g13ga60g5ga5g5g10/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGBGKGKGY](/stripes/gggggggbgkgkgy/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Pilette of Kinnear (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRKGKGKGRBRYRGKGKGKRK](/stripes/krkgkgkgrbryrgkgkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dr2k10g3k10g30k8g3dr4dy2dr4b2dr4g3k8g30k10g3k10dr2k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKGKGRBRYRGKGKGKRK](/stripes/krkgkgkgrbryrgkgkgkrk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3338
 

@@ -2,9 +2,10 @@
 title: "Holmston Primary (School)"
 date: 2023-03-18
 ---
-In pattern [BGBGYGRGWG](/stripes/bgbgygrgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14ln2g14r1g14y2g30b2g2b4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGYGRGWG](/stripes/bgbgygrgwg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7535/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Holmston Primary School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- circa 1999 — Holmston Primary (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7535/))
-- undated — Holmston Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5570))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>circa 1999 — Holmston Primary (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7535/">record</a>)</li>
+<li>undated — Holmston Primary School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5570">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

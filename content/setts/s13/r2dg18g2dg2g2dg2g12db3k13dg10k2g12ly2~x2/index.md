@@ -2,9 +2,10 @@
 title: "McHeadley Society"
 date: 2023-03-18
 ---
-In pattern [RGGGGGGBKGKGY](/stripes/rggggggbkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2dg18g2dg2g2dg2g12db3k13dg10k2g12y2/)
+(the same proportion at any scale), whose colour order is pattern [RGGGGGGBKGKGY](/stripes/rggggggbkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10450
 

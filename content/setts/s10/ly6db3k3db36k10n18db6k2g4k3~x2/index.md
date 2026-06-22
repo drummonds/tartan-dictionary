@@ -2,9 +2,10 @@
 title: "Dinwiddie Hunting"
 date: 2023-03-18
 ---
-In pattern [KGKBBKBKBY](/stripes/kgkbbkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6b3k3b36k10n18b6k2g4k3/)
+(the same proportion at any scale), whose colour order is pattern [KGKBBKBKBY](/stripes/kgkbbkbkby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5336
 

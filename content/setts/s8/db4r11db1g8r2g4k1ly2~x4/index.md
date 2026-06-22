@@ -2,9 +2,10 @@
 title: "Craik, of Assington"
 date: 2023-03-18
 ---
-In pattern [BRBGRGKY](/stripes/brbgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r11b1g8r2g4k1y2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGKY](/stripes/brbgrgky/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Craik, of Assington
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Craik, of Assington (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Craik of Assington Personal Tartan Tartan Number: 494. Earliest known date: 1981 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=494))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Craik, of Assington (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Craik of Assington Personal Tartan Tartan Number: 494. Earliest known date: 1981 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=494">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/16 R44 B4 G32 R8 G16 K4 Y/8

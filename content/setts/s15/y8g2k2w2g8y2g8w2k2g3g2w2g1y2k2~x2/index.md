@@ -2,9 +2,10 @@
 title: "Gayre Dress"
 date: 2023-03-18
 ---
-In pattern [GGKWGGGWKGGWGGK](/stripes/ggkwgggwkggwggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg8g2k2w2g8lg2g8w2k2ga3g2w2g1lg2k2/)
+(the same proportion at any scale), whose colour order is pattern [GGKWGGGWKGGWGGK](/stripes/ggkwgggwkggwggk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1323
 

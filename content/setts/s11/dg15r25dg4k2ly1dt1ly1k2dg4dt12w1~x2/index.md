@@ -2,9 +2,10 @@
 title: "Livingstone (Australia) Dress"
 date: 2023-03-18
 ---
-In pattern [GRGKYBYKGBW](/stripes/grgkybykgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg15r25dg4k2y1dn1y1k2dg4dn12ln1/)
+(the same proportion at any scale), whose colour order is pattern [GRGKYBYKGBW](/stripes/grgkybykgbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10612
 

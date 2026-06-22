@@ -2,9 +2,10 @@
 title: "Brady 60th (Personal)"
 date: 2023-03-18
 ---
-In pattern [RRRKRKRKBY](/stripes/rrrkrkrkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1lr1n7k3n1k1n1k1db9y1/)
+(the same proportion at any scale), whose colour order is pattern [RRRKRKRKBY](/stripes/rrrkrkrkby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10404/
 

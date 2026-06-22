@@ -2,9 +2,10 @@
 title: "Bartlam (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBBRBBBBBBBBBYB](/stripes/bbbbbbbbbbbbrbbbbbbbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12db2dr2db2dr2db12dr2db2dr2db2dr12n12dra2n12dr12db11dr2db2dr2db11dr12n12dy2n12/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBRBBBBBBBBBYB](/stripes/bbbbbbbbbbbbrbbbbbbbbbyb/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3122/
 

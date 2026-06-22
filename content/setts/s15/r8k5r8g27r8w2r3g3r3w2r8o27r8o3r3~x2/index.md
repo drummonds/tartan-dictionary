@@ -2,9 +2,10 @@
 title: "McCall (Name)"
 date: 2023-03-18
 ---
-In pattern [RKRGRWRGRWRRRRR](/stripes/rkrgrwrgrwrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr8k5dr8g27dr8ln2dr3g3dr3ln2dr8t27dr8t3dr3/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRWRGRWRRRRR](/stripes/rkrgrwrgrwrrrrr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2238/
 

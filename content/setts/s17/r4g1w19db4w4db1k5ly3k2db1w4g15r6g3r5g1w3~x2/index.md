@@ -2,9 +2,10 @@
 title: "Victoria"
 date: 2023-03-18
 ---
-In pattern [RGWBWBKYKBWGRGRGW](/stripes/rgwbwbkykbwgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g1ln19b4ln4b1k5y3k2b1ln4g15r6g3r5g1ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGWBWBKYKBWGRGRGW](/stripes/rgwbwbkykbwgrgrgw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

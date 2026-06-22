@@ -2,9 +2,10 @@
 title: "St. Piran Dress"
 date: 2023-03-18
 ---
-In pattern [RWGWGWKW](/stripes/rwgwgwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln19dg2ln8dg2ln8k38ln4/)
+(the same proportion at any scale), whose colour order is pattern [RWGWGWKW](/stripes/rwgwgwkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - St Piran, Cornish dress
 - St. Piran Dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1985 — St. Piran Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904))
-- pre 1985 — St. Piran Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1685/))
-- undated — St Piran, Cornish dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — St Piran Dress District Tartan Tartan Number: 1685. Earliest known date: 1984 Padstow, Cornwall See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1685))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — St. Piran Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3904">record</a>)</li>
+<li>pre 1985 — St. Piran Dress (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1685/">record</a>)</li>
+<li>undated — St Piran, Cornish dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — St Piran Dress District Tartan Tartan Number: 1685. Earliest known date: 1984 Padstow, Cornwall See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1685">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

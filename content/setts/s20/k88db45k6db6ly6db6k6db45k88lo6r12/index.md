@@ -2,9 +2,10 @@
 title: "City of Rome Italian Corporate Tartan Tartan Number: 6697. Earliest known date: 2005 The background of black and navy blue are the colours of the Italian national football team. Gold for the Vatican and orange & maroon are the official colours of Rome. The City of Rome Pipe Band was formed in October 2000 and has grown by 2005 to 11 pipers and 7 drummers. It is the first Pipe Band in Italy and is very popular at various events in the country. The City of Rome authorities have agreed that the tartan be regarded as the Citys official tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBYBKBKYRYKBKBYBKBK](/stripes/bkbybkbkyrykbkbybkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k88db45k6db6y6db6k6db45k88o6dr12/)
+(the same proportion at any scale), whose colour order is pattern [BKBYBKBKYRYKBKBYBKBK](/stripes/bkbybkbkyrykbkbybkbk/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6697
 

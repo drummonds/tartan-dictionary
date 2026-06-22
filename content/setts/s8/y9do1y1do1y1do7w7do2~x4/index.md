@@ -2,9 +2,10 @@
 title: "Grey Watch, Dress"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBG](/stripes/bwbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na9n1na1n1na1n7ln7n2/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBG](/stripes/bwbgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1544
 

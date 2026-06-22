@@ -2,19 +2,21 @@
 title: "Ogilvy Hunting"
 date: 2023-03-18
 ---
-In pattern [BYKGKGKGR](/stripes/bykgkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24y2k8g16k1g3k1g3r4/)
+(the same proportion at any scale), whose colour order is pattern [BYKGKGKGR](/stripes/bykgkgkgr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Ogilvy Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Ogilvy Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Ogilvy Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvy Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Ogilvy Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Ogilvy Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/48 Y4 K16 G32 K2 G6 K2 G6 R/8

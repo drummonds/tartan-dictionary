@@ -2,9 +2,10 @@
 title: "Meiji Rugby 1923"
 date: 2023-03-18
 ---
-In pattern [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2w2p23db1w3db7w1db2w1db1p5db12w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBBWBWBWBBBW](/stripes/bwbbwbwbwbbbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10037
 

@@ -2,9 +2,10 @@
 title: "Barclay Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGR](/stripes/gbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1dg16db16dg1/)
+(the same proportion at any scale), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

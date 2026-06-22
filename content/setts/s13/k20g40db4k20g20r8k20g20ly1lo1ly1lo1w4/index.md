@@ -2,9 +2,10 @@
 title: "Mississippi"
 date: 2023-03-18
 ---
-In pattern [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20g40db4k20g20r8k20g20y1dy1y1dy1w4/)
+(the same proportion at any scale), whose colour order is pattern [KGBKGRKGYYYYW](/stripes/kgbkgrkgyyyyw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2965
 

@@ -2,18 +2,20 @@
 title: "Westwood MacStone (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYKWKYRYKW](/stripes/rykwkyrykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k13lt13dr2lt13k13ln2k6lt6dr1/)
+(the same proportion at any scale), whose colour order is pattern [RYKWKYRYKW](/stripes/rykwkyrykw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7486/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Nov 1996 — Westwood MacStone (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7486/))
-- undated — Westwood MacStone (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5527))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Nov 1996 — Westwood MacStone (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7486/">record</a>)</li>
+<li>undated — Westwood MacStone (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5527">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

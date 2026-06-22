@@ -2,9 +2,10 @@
 title: "Holmes (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGBKBKBGY](/stripes/rgygrgrgbkbkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGBKBKBGY](/stripes/rgygrgrgbkbkbgy/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5729/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kennedy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1830 — Holmes (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5729/))
-- undated — Kennedy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1830 — Holmes (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5729/">record</a>)</li>
+<li>undated — Kennedy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/8 G78 DB18 K6 DB10 K6 DB18 G64 R4 G6 R4 G10 Y4 G6 R/6

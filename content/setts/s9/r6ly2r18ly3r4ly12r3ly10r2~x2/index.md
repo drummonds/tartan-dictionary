@@ -2,9 +2,10 @@
 title: "MacMillan Dress Clan Tartan Tartan Number: 1723. Earliest known date: 1906 The modern Dress MacMillan incorporates red and yellow stripes from the ancient design but omits the greens and blues of the Vestiarium version. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RYRYRYRYR](/stripes/ryryryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6y2r18y3r4y12r3y10r2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYRYR](/stripes/ryryryryr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1723
 

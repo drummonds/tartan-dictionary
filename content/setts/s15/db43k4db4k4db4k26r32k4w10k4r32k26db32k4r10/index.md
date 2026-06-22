@@ -2,9 +2,10 @@
 title: "Clan Pipers Frankfurt and District Pipe Band"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db43k4db4k4db4k26r32k4w10k4r32k26db32k4r10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10447
 

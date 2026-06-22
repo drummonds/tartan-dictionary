@@ -2,9 +2,10 @@
 title: "Clark"
 date: 2023-03-18
 ---
-In pattern [RKGKW](/stripes/rkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k1g1k1r3/)
+(the same proportion at any scale), whose colour order is pattern [RKGKW](/stripes/rkgkw/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

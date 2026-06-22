@@ -2,9 +2,10 @@
 title: "MacLeroy & Troine"
 date: 2023-03-18
 ---
-In pattern [KYWYBYRBRY](/stripes/kywybyrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b3ln2b3n4b19na6n23r3y2/)
+(the same proportion at any scale), whose colour order is pattern [KYWYBYRBRY](/stripes/kywybyrbry/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10709/
 

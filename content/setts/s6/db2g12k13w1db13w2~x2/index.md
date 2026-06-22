@@ -2,9 +2,10 @@
 title: "Herd Family Tartan Tartan Number: 170. Earliest known date: 1978 Woven for the wedding of William Hurd to Heather Petit. From JCT: STS monitoring committee recorded 1978. In march 2005. STS Record has the application being made by Councillor R J Herd, C.Eng, M.I.C.E., A.M.B.I.M. who had been granted arms by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKWBW](/stripes/bgkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2g12k13ln1db13ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGKWBW](/stripes/bgkwbw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=170
 

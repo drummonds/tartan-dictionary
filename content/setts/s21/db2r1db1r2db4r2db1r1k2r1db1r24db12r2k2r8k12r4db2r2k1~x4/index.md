@@ -2,9 +2,10 @@
 title: "Murray (Bed hanging)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRBRBRKRKRBRK](/stripes/brbrbrbrkrbrbrkrkrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r1db1r2db4r2db1r1k2r1db1r24db12r2k2r8k12r4db2r2k1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRBRBRKRKRBRK](/stripes/brbrbrbrkrbrbrkrkrbrk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3059
 

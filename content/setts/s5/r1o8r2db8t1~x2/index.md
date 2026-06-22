@@ -2,9 +2,10 @@
 title: "Unamed, Riding cloak 1745"
 date: 2023-03-18
 ---
-In pattern [BBRRR](/stripes/bbrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1lt8r2b8ba1/)
+(the same proportion at any scale), whose colour order is pattern [BBRRR](/stripes/bbrrr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

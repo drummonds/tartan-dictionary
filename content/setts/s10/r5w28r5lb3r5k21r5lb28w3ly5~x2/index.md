@@ -2,9 +2,10 @@
 title: "Stirling & Bannockburn Dress (Dist)"
 date: 2023-03-18
 ---
-In pattern [RWRWRKRWWY](/stripes/rwrwrkrwwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5ln28r5lb3r5k21r5lb28ln3y5/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKRWWY](/stripes/rwrwrkrwwy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1705/
 

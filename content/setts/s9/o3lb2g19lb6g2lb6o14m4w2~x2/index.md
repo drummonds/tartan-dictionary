@@ -2,9 +2,10 @@
 title: "Royal Pharmaceutical, Society"
 date: 2023-03-18
 ---
-In pattern [RWGWGWRRW](/stripes/rwgwgwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta3n2g19n6g2n6lt14dr4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWGWGWRRW](/stripes/rwgwgwrrw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

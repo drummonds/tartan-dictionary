@@ -2,9 +2,10 @@
 title: "Unidentified Plaid arisaid"
 date: 2023-03-18
 ---
-In pattern [RBRKWKRWRBRBKYKYKBRBRWRKWKRWBRWRBRWR](/stripes/rbrkwkrwrbrbkykykbrbrwrkwkrwbrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln16r6b1r6ln16r6b9ln140r55k2ln4k2r16ln20r16b6r2b27k4y4k6y4k4b27r2b6r16ln20r16k2ln4k2r55b1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRKWKRWRBRBKYKYKBRBRWRKWKRWBRWRBRWR](/stripes/rbrkwkrwrbrbkykykbrbrwrkwkrwbrwrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4357
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified, Plaid arisaid
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified Plaid arisaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4357))
-- undated — Unidentified, Plaid arisaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified Plaid arisaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4357">record</a>)</li>
+<li>undated — Unidentified, Plaid arisaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

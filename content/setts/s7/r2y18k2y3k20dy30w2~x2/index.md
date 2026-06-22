@@ -2,9 +2,10 @@
 title: "Bennett, J P. (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGKGKGW](/stripes/rgkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2n18k2n3k20t30ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGW](/stripes/rgkgkgw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10222/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bennett, J P.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1st June 2009 — Bennett, J P. (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10222/))
-- undated — Bennett, John Paul Personal Tartan Tartan Number: 10222. Earliest known date: 1st June 2009 Woven sample from Lochcarron - ordered through Kilt Pin Ltd. in early 2008. Eventually registered with National Archives in June 2010. Designed for John Paul Bennett in Edinburgh for his wedding and thereafter for his family. The use of this tartan must be approved by JP Bennett ACMA, Finance Director, J & E Shepherd or his immediate family. jpbennett@shepherd.co.uk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10222))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1st June 2009 — Bennett, J P. (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10222/">record</a>)</li>
+<li>undated — Bennett, John Paul Personal Tartan Tartan Number: 10222. Earliest known date: 1st June 2009 Woven sample from Lochcarron - ordered through Kilt Pin Ltd. in early 2008. Eventually registered with National Archives in June 2010. Designed for John Paul Bennett in Edinburgh for his wedding and thereafter for his family. The use of this tartan must be approved by JP Bennett ACMA, Finance Director, J & E Shepherd or his immediate family. jpbennett@shepherd.co.uk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10222">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 N36 K4 N6 K40 T60 LN/4

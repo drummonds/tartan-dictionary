@@ -2,9 +2,10 @@
 title: "Robieson Kith & Kin (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1n1b8o1n1o8k1w8k1n1b8r1w1/)
+(the same proportion at any scale), whose colour order is pattern [WRBWKWKYWYBWY](/stripes/wrbwkwkywybwy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5104
 

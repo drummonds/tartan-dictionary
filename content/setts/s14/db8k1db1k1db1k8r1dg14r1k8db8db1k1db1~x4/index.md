@@ -2,9 +2,10 @@
 title: "Riddoch"
 date: 2023-03-18
 ---
-In pattern [BKBBKRGRKBKBKB](/stripes/bkbbkrgrkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1db1k1db1k8r1t14r1k8db8db1k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKRGRKBKBKB](/stripes/bkbbkrgrkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4900
 

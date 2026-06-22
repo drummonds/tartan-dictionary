@@ -2,9 +2,10 @@
 title: "MacNab"
 date: 2023-03-18
 ---
-In pattern [GRGRRRRRGRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrgrrrrrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1g6dr6r6dr1r6dr6g1dr1g1dr1g1dr1g6dr1g1dr1g1dr6r6dr1r6dr6g6dr1g1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRRRRRGRGRGRGRGRGRRRRRGR](/stripes/grgrrrrrgrgrgrgrgrgrrrrrgr/).
 
-This was sourced from logan-1831.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from logan-1831.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link /posts/logans-scottish-gael/
 

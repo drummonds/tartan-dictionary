@@ -2,9 +2,10 @@
 title: "Kennewell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRRBBYKBBRBBBKY](/stripes/bbbrrbbykbbrbbbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25b15dn6o3dr2db10b5n5k2b15db25o5dn2b25db15k6n3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRRBBYKBBRBBBKY](/stripes/bbbrrbbykbbrbbbky/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10039
 

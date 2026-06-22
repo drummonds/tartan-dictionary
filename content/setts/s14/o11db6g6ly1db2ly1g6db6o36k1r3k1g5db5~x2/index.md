@@ -2,9 +2,10 @@
 title: "Penman Clan Tartan Tartan Number: 166. Earliest known date: 1984 From design by the late William Penman. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11db6g6y1db2y1g6db6n36k1r3k1g5db5/)
+(the same proportion at any scale), whose colour order is pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=166
 

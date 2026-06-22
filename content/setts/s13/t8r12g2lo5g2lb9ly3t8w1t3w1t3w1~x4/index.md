@@ -2,9 +2,10 @@
 title: "Saint Joseph de Sorel #2"
 date: 2023-03-18
 ---
-In pattern [BRGYGWYBWBWBW](/stripes/brgygwybwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8r12g2lt5g2n9y3b8w1b3w1b3w1/)
+(the same proportion at any scale), whose colour order is pattern [BRGYGWYBWBWBW](/stripes/brgygwybwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3639
 

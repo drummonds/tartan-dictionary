@@ -2,9 +2,10 @@
 title: "Huaumé, Patrick Antoine (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBRRRGKWGBK](/stripes/gbrrrgkwgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10b9lp4dr2lp4g6k10ln4g24b60k4/)
+(the same proportion at any scale), whose colour order is pattern [GBRRRGKWGBK](/stripes/gbrrrgkwgbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11152
 

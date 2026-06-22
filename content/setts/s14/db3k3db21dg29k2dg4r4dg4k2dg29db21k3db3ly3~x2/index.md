@@ -2,9 +2,10 @@
 title: "Peter of Lee (Chief) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBGKGRGKGBKBY](/stripes/bkbgkgrgkgbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3y3/)
+(the same proportion at any scale), whose colour order is pattern [BKBGKGRGKGBKBY](/stripes/bkbgkgrgkgbkby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3329
 

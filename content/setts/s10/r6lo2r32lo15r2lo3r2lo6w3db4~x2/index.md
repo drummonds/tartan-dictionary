@@ -2,9 +2,10 @@
 title: "Virginia Tech"
 date: 2023-03-18
 ---
-In pattern [BWYRYRYRYR](/stripes/bwyryryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6o2dr32o15dr2o3dr2o6ln3db4/)
+(the same proportion at any scale), whose colour order is pattern [BWYRYRYRYR](/stripes/bwyryryryr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5668
 

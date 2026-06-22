@@ -2,9 +2,10 @@
 title: "Deeside Plaid (Taobh Dhi)"
 date: 2023-03-18
 ---
-In pattern [BGRBRWRBRGBY](/stripes/bgrbrwrbrgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22g4n24p6n4w3n4p6n24g4b22y4/)
+(the same proportion at any scale), whose colour order is pattern [BGRBRWRBRGBY](/stripes/bgrbrwrbrgby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=905
 

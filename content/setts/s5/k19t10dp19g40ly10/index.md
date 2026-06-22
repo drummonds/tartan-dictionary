@@ -2,9 +2,10 @@
 title: "Gallowater Old District Tartan Tartan Number: 1025. Earliest known date: 1819 Both 'Old' and 'New' appear in Wilson's 1819 pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBBGY](/stripes/kbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19b10p19g40y10/)
+(the same proportion at any scale), whose colour order is pattern [KBBGY](/stripes/kbbgy/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1025
 

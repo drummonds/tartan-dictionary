@@ -2,9 +2,10 @@
 title: "Women's Wear Daily Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKYKRKBKRKGKRKWKGKRKBKRKYKRW](/stripes/rkykrkbkrkgkrkwkgkrkbkrkykrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k1y2k1r1k1b2k1r1k1g2k1r2k1ln12k1g2k1r1k1b2k1r1k1y2k1r30ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKYKRKBKRKGKRKWKGKRKBKRKYKRW](/stripes/rkykrkbkrkgkrkwkgkrkbkrkykrw/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8566/
 

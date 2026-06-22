@@ -2,9 +2,10 @@
 title: "Payeur, François (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRWBBBBBBYBY](/stripes/wrwbbbbbbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6dr2w24db12b3db2b2db2b12y1b1y3/)
+(the same proportion at any scale), whose colour order is pattern [WRWBBBBBBYBY](/stripes/wrwbbbbbbyby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10245
 

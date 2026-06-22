@@ -2,9 +2,10 @@
 title: "Edinburgh Bus Tours"
 date: 2023-03-18
 ---
-In pattern [BYBKBRBBBBBW](/stripes/bybkbrbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6db20b5db5b5db20dr14db4k18db30y4db4/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBRBBBBBW](/stripes/bybkbrbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11157
 

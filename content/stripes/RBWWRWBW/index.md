@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rbwwrwbw/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RBWWRWBW</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/lb70b5lb3r5lb3w5b3r5~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RBWWRWBW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

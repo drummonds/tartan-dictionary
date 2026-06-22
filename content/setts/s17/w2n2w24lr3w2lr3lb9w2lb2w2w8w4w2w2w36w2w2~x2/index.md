@@ -2,9 +2,10 @@
 title: "Weston-McCue (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2n2w24na3w2na3nb9ln2nb2ln2w8ln4w2ln2w36ln2w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWYWYWWWWWWWWWWW](/stripes/wbwywywwwwwwwwwww/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11553
 

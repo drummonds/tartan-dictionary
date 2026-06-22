@@ -2,9 +2,10 @@
 title: "Edzell, U.S. Navy"
 date: 2023-03-18
 ---
-In pattern [BBWBRB](/stripes/bbwbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db45b7ln3b27r1b7/)
+(the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

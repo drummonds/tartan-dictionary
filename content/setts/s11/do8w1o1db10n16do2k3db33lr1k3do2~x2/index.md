@@ -2,9 +2,10 @@
 title: "Arran Mist"
 date: 2023-03-18
 ---
-In pattern [BKYBKBBBRWB](/stripes/bkybkbbbrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8w1na1db10n16t2k3db33nb1ka3t2/)
+(the same proportion at any scale), whose colour order is pattern [BKYBKBBBRWB](/stripes/bkybkbbbrwb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11544
 

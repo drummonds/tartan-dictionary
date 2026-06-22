@@ -2,18 +2,20 @@
 title: "Ross Anderson (Fashion) #2"
 date: 2023-03-18
 ---
-In pattern [GRBRBYKYKWKRRK](/stripes/grbrbykykwkrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4dr2db3dr1db3dy1k2dy1k2na2k2n11dr1k1/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBYKYKWKRRK](/stripes/grbrbykykwkrrk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1936 — Ross Anderson (Fashion) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126))
-- 1936 — Ross Anderson (Fashion) #2 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3173/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1936 — Ross Anderson (Fashion) #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5126">record</a>)</li>
+<li>1936 — Ross Anderson (Fashion) #2 (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3173/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

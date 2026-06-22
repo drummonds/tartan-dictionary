@@ -2,9 +2,10 @@
 title: "Scottish H & I Film Com (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBRBBBRGGBW](/stripes/bbrbbbrggbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16db8na2n2db2n2lr1g4dg4n4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBRBBBRGGBW](/stripes/bbrbbbrggbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7547/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scottish Highlands & Islands Film Company
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2007 — Scottish H & I Film Com (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7547/))
-- undated — Scottish Highlands & Islands Film Company (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5579))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2007 — Scottish H & I Film Com (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7547/">record</a>)</li>
+<li>undated — Scottish Highlands & Islands Film Company (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5579">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

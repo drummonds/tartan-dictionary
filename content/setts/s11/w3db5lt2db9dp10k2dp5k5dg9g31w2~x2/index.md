@@ -2,9 +2,10 @@
 title: "Carnegie of Skibo Corporate Tartan Tartan Number: 8314. Earliest known date: December 2001 Only available from Robert Mathieson, The Kilt Centre, 1 Campbell Lane, Hamilton. ML3 6DB. Scotland. Tel: +44 (0)1698 200 234. e-mail: kiltcentre@btconnect.com Lochcarron swatch. A corporate tartan for use in kilt hire. The name was chosen to imbue the tartan with some relevant provenance - Andrew Carnegie's retirement residence. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBWBBKBKGGW](/stripes/wbwbbkbkggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3db5lb2db9p10k2p5k5dg9g31ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBBKBKGGW](/stripes/wbwbbkbkggw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8314
 

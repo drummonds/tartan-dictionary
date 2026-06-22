@@ -2,9 +2,10 @@
 title: "Stewart"
 date: 2023-03-18
 ---
-In pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r3k2r8g16k2ln2k2y1k10b6r32b6k10y1k2ln2k2g16r8k2r3ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBRBKYKWKGRKRW](/stripes/wrkrgkwkykbrbkykwkgrkrw/).
 
-This was sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link /posts/logans-scottish-gael/
 

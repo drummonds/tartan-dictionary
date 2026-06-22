@@ -2,9 +2,10 @@
 title: "Hatfield & Mize (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWKYBR](/stripes/gwkybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10w2k10y10db35r6/)
+(the same proportion at any scale), whose colour order is pattern [GWKYBR](/stripes/gwkybr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10956/
 

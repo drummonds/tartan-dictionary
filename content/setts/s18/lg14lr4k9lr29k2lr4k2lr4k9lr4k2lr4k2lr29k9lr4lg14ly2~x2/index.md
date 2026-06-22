@@ -2,9 +2,10 @@
 title: "Hannay Dress"
 date: 2023-03-18
 ---
-In pattern [YYKYKYKYKYKYKYKYYY](/stripes/yykykykykykykykyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14lra4k9lra29k2lra4k2lra4k9lra4k2lra4k2lra29k9lra4b14y2/)
+(the same proportion at any scale), whose colour order is pattern [YYKYKYKYKYKYKYKYYY](/stripes/yykykykykykykykyyy/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1589
 

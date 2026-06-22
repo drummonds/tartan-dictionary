@@ -2,9 +2,10 @@
 title: "Salich-Plaja of St. Genis (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBKBKBKYRGWRWGRYKBKBKBW](/stripes/bwbkbkbkyrgwrwgrykbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13ln3db13k3db3k8db3k15y3r3g3ln3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKBKYRGWRWGRYKBKBKBW](/stripes/bwbkbkbkyrgwrwgrykbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5068
 

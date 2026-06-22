@@ -2,9 +2,10 @@
 title: "Drummond of Perth"
 date: 2023-03-18
 ---
-In pattern [RWBYGRBBW](/stripes/rwbygrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36ln1b3y1g16r8b3ba2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWBYGRBBW](/stripes/rwbygrbbw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Perthshire
 - Perthshire District
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Drummond of Perth (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Perthshire District (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Drummond of Perth (Logan) Clan Tartan Tartan Number: 1669. Earliest known date: 1831 D.C.Stewart says, "The uncertainty attending the attribution of tartans to clans is well exemplified when we come to the tartans of Drummond, Fraser and Grant. Logan gives a distinctive pattern for each." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1669))
-- undated — Perthshire District Tartan Tartan Number: 2060. Earliest known date: pre 1831 This is the sett woven today. It differs slightly in proportion to Wilson's original pattern, recorded in his accounts c.1831, which was known as Perthshire Rock and Wheel. Rock and Wheel was an early type of soft tartan. The sett is similar to the Drummond tartan. (The Wilson papers, Scottish Tartans Museum Collection) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2060))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond of Perth (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Perthshire District (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Drummond of Perth (Logan) Clan Tartan Tartan Number: 1669. Earliest known date: 1831 D.C.Stewart says, "The uncertainty attending the attribution of tartans to clans is well exemplified when we come to the tartans of Drummond, Fraser and Grant. Logan gives a distinctive pattern for each." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1669">record</a>)</li>
+<li>undated — Perthshire District Tartan Tartan Number: 2060. Earliest known date: pre 1831 This is the sett woven today. It differs slightly in proportion to Wilson's original pattern, recorded in his accounts c.1831, which was known as Perthshire Rock and Wheel. Rock and Wheel was an early type of soft tartan. The sett is similar to the Drummond tartan. (The Wilson papers, Scottish Tartans Museum Collection) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2060">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/72 LN2 B6 Y2 G32 R16 B6 Ba4 LN/2

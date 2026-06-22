@@ -2,9 +2,10 @@
 title: "Gayre, dress"
 date: 2023-03-18
 ---
-In pattern [BGKWGBGWKRGWGBK](/stripes/bgkwgbgwkrgwgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14g4k4ln4g12b4g12ln4k4r6g4ln4g3b4k4/)
+(the same proportion at any scale), whose colour order is pattern [BGKWGBGWKRGWGBK](/stripes/bgkwgbgwkrgwgbk/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gayre, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gayre, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gayre Dress Clan Tartan Tartan Number: 161. Earliest known date: pre 2003 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=161))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gayre, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gayre Dress Clan Tartan Tartan Number: 161. Earliest known date: pre 2003 Five versions of Gayre tartan are recorded. Hunting, Dress, Bodyguard, Arisaidh and the version recorded by Lord Lyon, the Clan sett. This can be found in the Public Register of All Arms and Bearings in Scotland. (1992) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=161">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/28 G8 K8 LN8 G24 B8 G24 LN8 K8 R12 G8 LN8 G6 B8 K/8

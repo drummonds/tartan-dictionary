@@ -2,9 +2,10 @@
 title: "Pendleton hunting"
 date: 2023-03-18
 ---
-In pattern [BKGRGKGYGKB](/stripes/bkgrgkgygkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2db16dg14r3dg14k3dg14o3dg14db16b2/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKGYGKB](/stripes/bkgrgkgygkb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

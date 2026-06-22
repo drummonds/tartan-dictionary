@@ -2,9 +2,10 @@
 title: "Lloyd of Dolobran (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10g4w1g4k1g4r1g4k5db5k1db5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1970/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lloyd of, Dolobran
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1950 — Lloyd of Dolobran (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1970/))
-- undated — Lloyd of, Dolobran (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1950 — Lloyd of Dolobran (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1970/">record</a>)</li>
+<li>undated — Lloyd of, Dolobran (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/40 G16 W4 G16 K4 G16 R4 G16 K20 DB20 K4 DB/20

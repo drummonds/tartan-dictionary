@@ -2,9 +2,10 @@
 title: "King Edward VII"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGBKBKBKBGY](/stripes/rgygrgrgbkbkbkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5r6/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGBKBKBKBGY](/stripes/rgygrgrgbkbkbkbgy/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - King Edward VII Royal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — King Edward VII (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — King Edward VII Royal Family Tartan Tartan Number: 1559. Earliest known date: pre 1992 Reputed to be a tartan specifically woven for King Edward VII. In the possession of Miss K Roberts of Torquay. See Kennedy See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1559))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — King Edward VII (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — King Edward VII Royal Family Tartan Tartan Number: 1559. Earliest known date: pre 1992 Reputed to be a tartan specifically woven for King Edward VII. In the possession of Miss K Roberts of Torquay. See Kennedy See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1559">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/16 G168 B42 K20 B20 K20 B20 K20 B42 G124 R6 G12 R6 G20 Y6 G10 R/12

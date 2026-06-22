@@ -2,9 +2,10 @@
 title: "Simon and Friends (Hamburg) (Persona"
 date: 2023-03-18
 ---
-In pattern [GKGKWKBYBKGKGK](/stripes/gkgkwkbybkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6dg5k6dg12k23dr13y6db13k12w2k23dg12k6dg5/)
+(the same proportion at any scale), whose colour order is pattern [GKGKWKBYBKGKGK](/stripes/gkgkwkbybkgkgk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10848/
 

@@ -2,9 +2,10 @@
 title: "Atlantic Ancient Trade Tartan Tartan Number: 1781. Earliest known date: 1968 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBGBGY](/stripes/wbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3db17t16dba2dg17y2/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGY](/stripes/wbgbgy/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1781
 

@@ -2,9 +2,10 @@
 title: "West of Wells (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKBKBKBBY](/stripes/gkbkbkbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg28k2dba3k11dba3k2dba17db4n2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBBY](/stripes/gkbkbkbby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10012/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - West of Wells Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — West of Wells (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10012/))
-- undated — West of Wells Personal Tartan Tartan Number: 10012. Earliest known date: Mar. 2009 This sett is based on the Roxburghshire tartan because the Barony of Wells based in Jedburgh now belongs to Mr Bryce L. West.The chosen colours are the traditional navy and green often seen in tartans such as the Black Watch with the addition of a second blue for extra depth. The silver grey was a special request from Mr West. Exclusively designed by Kinloch Anderson. Restricted availability. Please contact Kinloch Anderson regarding use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10012))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — West of Wells (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10012/">record</a>)</li>
+<li>undated — West of Wells Personal Tartan Tartan Number: 10012. Earliest known date: Mar. 2009 This sett is based on the Roxburghshire tartan because the Barony of Wells based in Jedburgh now belongs to Mr Bryce L. West.The chosen colours are the traditional navy and green often seen in tartans such as the Black Watch with the addition of a second blue for extra depth. The silver grey was a special request from Mr West. Exclusively designed by Kinloch Anderson. Restricted availability. Please contact Kinloch Anderson regarding use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10012">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/56 K4 DBa6 K22 DBa6 K4 DBa34 DB8 N/4

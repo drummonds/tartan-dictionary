@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Hunting Plaid"
 date: 2023-03-18
 ---
-In pattern [BGBKGRGKGKGKGKGYGK](/stripes/bgbkgrgkgkgkgkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9g3b9k4g10r4g10k6g2k7g2k7g2k6g10y4g10k8/)
+(the same proportion at any scale), whose colour order is pattern [BGBKGRGKGKGKGKGYGK](/stripes/bgbkgrgkgkgkgkgygk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4008
 

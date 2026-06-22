@@ -2,9 +2,10 @@
 title: "Erskine (Black and White)"
 date: 2023-03-18
 ---
-In pattern [KWKWKW](/stripes/kwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w1k9w9k1w2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKW](/stripes/kwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Erskine Black & White
 - Erskine, or Ramsay
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1980 — Erskine (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122))
-- 1980 — Erskine Black & White (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1246/))
-- undated — Erskine, or Ramsay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Erskine BW or Ramsay Clan Tartan Tartan Number: 1246. Earliest known date: pre 2003 Possibly a dress tartan based on the sett recorded in the Vestiarium Scoticum in 1842. The tartan is manufactured by Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1246))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — Erskine (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1122">record</a>)</li>
+<li>1980 — Erskine Black & White (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1246/">record</a>)</li>
+<li>undated — Erskine, or Ramsay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Erskine BW or Ramsay Clan Tartan Tartan Number: 1246. Earliest known date: pre 2003 Possibly a dress tartan based on the sett recorded in the Vestiarium Scoticum in 1842. The tartan is manufactured by Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1246">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

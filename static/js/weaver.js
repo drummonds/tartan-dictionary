@@ -13,6 +13,9 @@
   'use strict';
 
   var SETT_PATH = /^\/setts\/s\d+\/[0-9a-z~-]+\/(edit\/)?$/;
+  // A /tartans/<bare-sett>/ URL with no page is a singleton tartan (one sett) — the id IS a valid
+  // unit slug, so the shell opens it straight in the TTD (tartan-weaver issue follow-up).
+  var TARTAN_PATH = /^\/tartans\/([0-9a-z!~-]+)\/$/;
   var NEW_PATH = '/setts/new/';
   var TTD_PATH = '/ttd/edit/';
   var t0 = performance.now();
@@ -48,6 +51,11 @@
       var path = location.pathname;
       if (path === NEW_PATH) { // the old blank-form address — the TTD took the job
         location.replace(TTD_PATH);
+        return;
+      }
+      var tm = TARTAN_PATH.exec(path); // a singleton tartan's /tartans/ URL: open the bare sett in the TTD
+      if (tm) {
+        location.replace(TTD_PATH + '#slug=' + tm[1]);
         return;
       }
       if (!SETT_PATH.test(path)) return; // a genuinely unknown page: leave the 404 text

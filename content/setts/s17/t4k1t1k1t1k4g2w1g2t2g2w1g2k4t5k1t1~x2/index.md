@@ -2,9 +2,10 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4k1b1k1b1k4g2ln1g2b2g2ln1g2k4b5k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=106
 

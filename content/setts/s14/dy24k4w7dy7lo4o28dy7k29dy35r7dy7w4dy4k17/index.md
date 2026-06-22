@@ -2,9 +2,10 @@
 title: "Mauchline"
 date: 2023-03-18
 ---
-In pattern [GKWGYRGKGRGWGK](/stripes/gkwgyrgkgrgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t24k4ln7t7dy4n28t7k29t35r7t7ln4t4k17/)
+(the same proportion at any scale), whose colour order is pattern [GKWGYRGKGRGWGK](/stripes/gkwgyrgkgrgwgk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8384/
 

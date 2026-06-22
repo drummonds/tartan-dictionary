@@ -2,18 +2,20 @@
 title: "Labrador (District)"
 date: 2023-03-18
 ---
-In pattern [WKGRGKYKWKW](/stripes/wkgrgkykwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb11k2lb2k2dy2k11dg30dr2dg3k1ln5/)
+(the same proportion at any scale), whose colour order is pattern [WKGRGKYKWKW](/stripes/wkgrgkykwkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10004/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb. 2009 — Labrador (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10004/))
-- undated — Labrador District Tartan Tartan Number: 10004. Earliest known date: Feb. 2009 Officially adopted by the combined Councils of Labrador in February 2010. This tartan has been designed to celebrate the Labrador Scottish Heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10004))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb. 2009 — Labrador (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10004/">record</a>)</li>
+<li>undated — Labrador District Tartan Tartan Number: 10004. Earliest known date: Feb. 2009 Officially adopted by the combined Councils of Labrador in February 2010. This tartan has been designed to celebrate the Labrador Scottish Heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10004">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LB/22 K4 LB4 K4 DY4 K22 DG60 DR4 DG6 K2 LN/10

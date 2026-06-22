@@ -2,9 +2,10 @@
 title: "Kilkenny County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KYKGWKRY](/stripes/kykgwkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy6dr8k4ln6g16k13n19k5/)
+(the same proportion at any scale), whose colour order is pattern [KYKGWKRY](/stripes/kykgwkry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7405/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kilkenny County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Kilkenny County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7405/))
-- 01/05/2005 — Kilkenny County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Kilkenny County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7405/">record</a>)</li>
+<li>01/05/2005 — Kilkenny County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5363">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

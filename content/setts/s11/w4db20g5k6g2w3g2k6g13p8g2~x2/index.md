@@ -2,9 +2,10 @@
 title: "Bowlers"
 date: 2023-03-18
 ---
-In pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b20g5k6g2ln3g2k6g13p8g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

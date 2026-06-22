@@ -2,9 +2,10 @@
 title: "Coalfields Regeneration Trust, The"
 date: 2023-03-18
 ---
-In pattern [BGKGYRK](/stripes/bgkgyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r1y1g8k15g2p1/)
+(the same proportion at any scale), whose colour order is pattern [BGKGYRK](/stripes/bgkgyrk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11015
 

@@ -2,9 +2,10 @@
 title: "St Columba"
 date: 2023-03-18
 ---
-In pattern [BBBGRWBB](/stripes/bbbgrwbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60b5ln4lt12g42p12b5p12/)
+(the same proportion at any scale), whose colour order is pattern [BBBGRWBB](/stripes/bbbgrwbb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Canfor"
 date: 2023-03-18
 ---
-In pattern [RRRRGKRWGWGW](/stripes/rrrrgkrwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r62dr1r6dr9n2k2dr9w6n1w6n20w2/)
+(the same proportion at any scale), whose colour order is pattern [RRRRGKRWGWGW](/stripes/rrrrgkrwgwgw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10786
 

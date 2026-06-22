@@ -2,9 +2,10 @@
 title: "Stewart from Cairnie"
 date: 2023-03-18
 ---
-In pattern [GKGKRKGY](/stripes/gkgkrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g83k6g3k9r2k5g2y2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKRKGY](/stripes/gkgkrkgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5053
 

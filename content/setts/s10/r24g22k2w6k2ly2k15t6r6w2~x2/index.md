@@ -2,18 +2,20 @@
 title: "Bruce of Kinnaird"
 date: 2023-03-18
 ---
-In pattern [RGKWKYKBRW](/stripes/rgkwkykbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra24g22k2ln6k2y2k15b6r6ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKYKBRW](/stripes/rgkwkykbrw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Bruce of Kinnaird (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1483))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Bruce of Kinnaird (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1483">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Ra/48 G44 K4 LN12 K4 Y4 K30 B12 R12 LN/4

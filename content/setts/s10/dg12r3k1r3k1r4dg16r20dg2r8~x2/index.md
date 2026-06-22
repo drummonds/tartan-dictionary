@@ -2,9 +2,10 @@
 title: "Livingston"
 date: 2023-03-18
 ---
-In pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r3k1r3k1r4g16r20g2r8/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

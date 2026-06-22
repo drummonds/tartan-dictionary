@@ -2,9 +2,10 @@
 title: "International College of Dentists (Canadian Section)"
 date: 2023-03-18
 ---
-In pattern [GYGKGKGGGKGGGKGGGKGGGK](/stripes/gygkgkgggkgggkgggkgggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6y6g1k15g2k2lt2g2lt2k2lt2g2lt2k2lt2g2lt2k2g2dg15g1k2/)
+(the same proportion at any scale), whose colour order is pattern [GYGKGKGGGKGGGKGGGKGGGK](/stripes/gygkgkgggkgggkgggkgggk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10482
 

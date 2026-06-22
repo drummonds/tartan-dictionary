@@ -2,9 +2,10 @@
 title: "MacDougal"
 date: 2023-03-18
 ---
-In pattern [GRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/grbrbrwrbrbrgrgbrbbrgrgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10r2db2r30p3r2w1r2p3r30db2r2g10r10g10p4r2p4db10r4g2r4g30r2p3w1/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/grbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2390
 

@@ -2,9 +2,10 @@
 title: "Kilkenny, County"
 date: 2023-03-18
 ---
-In pattern [BGRBYGRGYBRG](/stripes/bgrbygrgybrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg27do2db25dy5dg3do3dg3dy5db25do2dg27dr4/)
+(the same proportion at any scale), whose colour order is pattern [BGRBYGRGYBRG](/stripes/bgrbygrgybrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1970
 

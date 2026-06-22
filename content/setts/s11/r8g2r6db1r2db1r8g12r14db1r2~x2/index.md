@@ -2,9 +2,10 @@
 title: "MacDonell of Keppoch"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRBRGR](/stripes/rbrgrbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g2r6b1r2b1r8g12r14b1r2/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRBRGR](/stripes/rbrgrbrbrgr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDonell of Keppoch #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonell of Keppoch (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonell of Keppoch Clan Tartan Tartan Number: 1401. Earliest known date: 1893 'Old and Rare Scottish Tartans' (1893), contains a selection of forty five setts, woven in silk, of special interest or antiquity. Many of the illustrated tartans owe their present day popularity to the publication of this work. The author was D. W. Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1401))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonell of Keppoch (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonell of Keppoch Clan Tartan Tartan Number: 1401. Earliest known date: 1893 'Old and Rare Scottish Tartans' (1893), contains a selection of forty five setts, woven in silk, of special interest or antiquity. Many of the illustrated tartans owe their present day popularity to the publication of this work. The author was D. W. Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1401">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/16 G4 R12 B2 R4 B2 R16 G24 R28 B2 R/4

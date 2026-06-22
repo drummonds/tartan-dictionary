@@ -2,9 +2,10 @@
 title: "Majewski-White (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5lr7db4lr2db2lr3db4dp6db3dp6db34lr2db4lr2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBBBBBWBW](/stripes/bwbwbwbbbbbwbw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10823/
 

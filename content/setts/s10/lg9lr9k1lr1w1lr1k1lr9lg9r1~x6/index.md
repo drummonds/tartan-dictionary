@@ -2,9 +2,10 @@
 title: "Irving of Glentulchan (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYYKYWYKYY](/stripes/ryykywykyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg9ba9k1ba1ln1ba1k1ba9lg9r1/)
+(the same proportion at any scale), whose colour order is pattern [RYYKYWYKYY](/stripes/ryykywykyy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1861
 

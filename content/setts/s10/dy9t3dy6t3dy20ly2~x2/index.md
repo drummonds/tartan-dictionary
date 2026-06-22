@@ -2,9 +2,10 @@
 title: "Oman, Sultanate of / Oliver dress"
 date: 2023-03-18
 ---
-In pattern [BGBGYGBGBG](/stripes/bgbgygbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t9b3t6b3t20y2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGYGBGBG](/stripes/bgbgygbgbg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3245
 

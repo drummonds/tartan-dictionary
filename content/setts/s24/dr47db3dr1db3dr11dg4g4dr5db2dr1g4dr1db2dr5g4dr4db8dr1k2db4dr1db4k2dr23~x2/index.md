@@ -2,9 +2,10 @@
 title: "Hebrides Inner"
 date: 2023-03-18
 ---
-In pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr47b3dr1b3dr11dg4g4dr5b2dr1g4dr1b2dr5g4dr4db8dr1k2b4dr1b4k2dr23/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBGGBBBGBBBGBBBKBBBKB](/stripes/bbbbbggbbbgbbbgbbbkbbbkb/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

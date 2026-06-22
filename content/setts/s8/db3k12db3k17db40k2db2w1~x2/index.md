@@ -2,9 +2,10 @@
 title: "Blue Spirit Fashion Tartan Tartan Number: 7001. Earliest known date: 01/08/2006 Designed by Kirsty Anderson of The House of Edgar for ACS Clothing of Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBW](/stripes/bkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k12db3k17db40k2db2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBW](/stripes/bkbkbkbw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7001
 

@@ -2,9 +2,10 @@
 title: "St. Petersburg City (District)"
 date: 2023-03-18
 ---
-In pattern [BGBWYBRW](/stripes/bgbwybrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b60g10b3lb6y2b9r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGBWYBRW](/stripes/bgbwybrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8359/
 

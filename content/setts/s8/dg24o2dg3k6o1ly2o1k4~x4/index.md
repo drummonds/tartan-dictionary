@@ -2,9 +2,10 @@
 title: "Green Ridge"
 date: 2023-03-18
 ---
-In pattern [GRGKRYRK](/stripes/grgkryrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg24dr2dg3k6dr1dy2dr1k4/)
+(the same proportion at any scale), whose colour order is pattern [GRGKRYRK](/stripes/grgkryrk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1525
 

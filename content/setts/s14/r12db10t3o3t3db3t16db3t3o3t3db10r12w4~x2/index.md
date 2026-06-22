@@ -2,9 +2,10 @@
 title: "Greer"
 date: 2023-03-18
 ---
-In pattern [RBBRBBBBBRBBRW](/stripes/rbbrbbbbbrbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra12db10ba3nb3ba3db3ba16db3ba3nb3ba3db10dra12w4/)
+(the same proportion at any scale), whose colour order is pattern [RBBRBBBBBRBBRW](/stripes/rbbrbbbbbrbbrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1533
 

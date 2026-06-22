@@ -2,9 +2,10 @@
 title: "Indiana 'Cardinal'"
 date: 2023-03-18
 ---
-In pattern [BYGRGRGRGRGRGY](/stripes/bygrgrgrgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8dy1g12dr10lt2dr6lt2dr4/)
+(the same proportion at any scale), whose colour order is pattern [BYGRGRGRGRGRGY](/stripes/bygrgrgrgrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5393
 

@@ -2,9 +2,10 @@
 title: "Scottish Lion Name Tartan Tartan Number: 3184. Earliest known date: Not Specified Designed by Arthur Mackie of Strathmore Woollen Co. to celebrate the long working relationship with the Scottish Lion Import Shop and Mail Order Catalogue. Personal to the Scottish Lion Shop. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRGBRBWBK](/stripes/bgrgbrbwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/wr4db16n2db16dra4p7dg21dra3dg4dr3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBRBWBK](/stripes/bgrgbrbwbk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3184
 

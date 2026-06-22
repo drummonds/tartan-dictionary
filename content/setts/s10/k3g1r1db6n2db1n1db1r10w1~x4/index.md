@@ -2,9 +2,10 @@
 title: "Crieff Primary School"
 date: 2023-03-18
 ---
-In pattern [KGRBBBBBRW](/stripes/kgrbbbbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g1r1db6n2db1n1db1r10w1/)
+(the same proportion at any scale), whose colour order is pattern [KGRBBBBBRW](/stripes/kgrbbbbbrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11011/
 

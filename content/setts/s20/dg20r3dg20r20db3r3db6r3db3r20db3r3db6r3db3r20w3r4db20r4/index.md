@@ -2,9 +2,10 @@
 title: "MacRae of Conchra"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRWRBR](/stripes/grgrbrbrbrbrbrbrwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg20r3dg20r20db3r3db6r3db3r20db3r3db6r3db3r20ln3r4db20r4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRWRBR](/stripes/grgrbrbrbrbrbrbrwrbr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2748
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - MacRae of Conchra
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — MacRae of Conchra (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2748))
-- undated — MacRae of Conchra (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacRae Red Clan Tartan Tartan Number: 885. Earliest known date: pre 2003 Paton's 'Red MacRae' Alexander Macrae received the lands of Conchra and Ardachy in 1677 and became progenitor of the Macraes of Conchra. The Conchra tartan is blue and white. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=885))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacRae of Conchra (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2748">record</a>)</li>
+<li>undated — MacRae of Conchra (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacRae Red Clan Tartan Tartan Number: 885. Earliest known date: pre 2003 Paton's 'Red MacRae' Alexander Macrae received the lands of Conchra and Ardachy in 1677 and became progenitor of the Macraes of Conchra. The Conchra tartan is blue and white. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=885">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

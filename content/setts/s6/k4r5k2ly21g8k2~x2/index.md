@@ -2,9 +2,10 @@
 title: "MacDuck (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGYKRK](/stripes/kgykrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r5k2y21g8k2/)
+(the same proportion at any scale), whose colour order is pattern [KGYKRK](/stripes/kgykrk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1121/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - MacDuck Final version
 - MacDuck, Final version
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1942 — MacDuck (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1121/))
-- undated — MacDuck, Final version (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDuck Final version Corporate Tartan Tartan Number: 1121. Earliest known date: 1942 Ancient MacDuck, old colours, as worn by Scrooge MacDuck, uncle to the famous cartoon character Donald Duck and great uncle to Huey, Duey and Luey. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1121))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1942 — MacDuck (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1121/">record</a>)</li>
+<li>undated — MacDuck, Final version (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDuck Final version Corporate Tartan Tartan Number: 1121. Earliest known date: 1942 Ancient MacDuck, old colours, as worn by Scrooge MacDuck, uncle to the famous cartoon character Donald Duck and great uncle to Huey, Duey and Luey. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1121">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 R10 K4 Y42 G16 K/4

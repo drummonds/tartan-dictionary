@@ -2,9 +2,10 @@
 title: "St Patrick Trade or Fancy Tartan Tartan Number: 945. Earliest known date: 1977 An alternative source gives this sett as having been produced by Thomas Gordon of Glasgow around 1973. There is (c.1982) a pipe band in New York that wears this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGY](/stripes/gwgwgwgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4g2ln3g40ln3g3ln4g3ln13g4/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGY](/stripes/gwgwgwgwgy/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=945
 

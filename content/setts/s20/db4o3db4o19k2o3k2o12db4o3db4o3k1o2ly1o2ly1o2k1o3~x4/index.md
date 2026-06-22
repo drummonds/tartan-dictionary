@@ -2,9 +2,10 @@
 title: "Washington Stockmens (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBRKRKRBRBRKRYRYRKR](/stripes/brbrkrkrbrbrkryryrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKRKRBRBRKRYRYRKR](/stripes/brbrkrkrbrbrkryryrkr/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1995/
 

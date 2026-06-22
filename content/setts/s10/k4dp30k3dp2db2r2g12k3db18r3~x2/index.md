@@ -2,19 +2,21 @@
 title: "Wardlaw"
 date: 2023-03-18
 ---
-In pattern [KBKBBRGKBR](/stripes/kbkbbrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4p30k3p2db2r2g12k3db18r3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBBRGKBR](/stripes/kbkbbrgkbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4902
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/08/2005 — Wardlaw (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4902))
-- August 2005 — Wardlaw (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6600/))
-- undated — Wardlaw Clan Tartan Tartan Number: 6600. Earliest known date: May 2005 A new design for the Clan Wardlaw. A darker more muted version of this tartan is woven for kilts. The pattern remains the same. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6600))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2005 — Wardlaw (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4902">record</a>)</li>
+<li>August 2005 — Wardlaw (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6600/">record</a>)</li>
+<li>undated — Wardlaw Clan Tartan Tartan Number: 6600. Earliest known date: May 2005 A new design for the Clan Wardlaw. A darker more muted version of this tartan is woven for kilts. The pattern remains the same. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6600">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

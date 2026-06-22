@@ -2,9 +2,10 @@
 title: "Hebridean 4"
 date: 2023-03-18
 ---
-In pattern [BBRGR](/stripes/bbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g7r3b7ba1/)
+(the same proportion at any scale), whose colour order is pattern [BBRGR](/stripes/bbrgr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

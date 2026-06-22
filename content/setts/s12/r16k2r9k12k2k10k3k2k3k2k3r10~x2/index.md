@@ -2,9 +2,10 @@
 title: "Highland Spring (1985) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKKKKKKKKRKR](/stripes/rkkkkkkkkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2r9bag12y2bag10azb3k2azb3k2azb3r10/)
+(the same proportion at any scale), whose colour order is pattern [RKKKKKKKKRKR](/stripes/rkkkkkkkkrkr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5193/
 

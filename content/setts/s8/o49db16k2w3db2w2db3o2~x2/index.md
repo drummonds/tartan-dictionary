@@ -2,9 +2,10 @@
 title: "Irn Bru (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBKWBWBR](/stripes/rbkwbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o49db16k2w3db2w2db3o2/)
+(the same proportion at any scale), whose colour order is pattern [RBKWBWBR](/stripes/rbkwbwbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2395/
 

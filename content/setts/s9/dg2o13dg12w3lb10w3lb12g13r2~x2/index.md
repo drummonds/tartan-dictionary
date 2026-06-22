@@ -2,9 +2,10 @@
 title: "Mounth The.. Corporate Tartan Tartan Number: 120. Earliest known date: 1988 Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGWWWWGR](/stripes/grgwwwwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2g13lp12ln3lp10ln3dg12n13dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGWWWWGR](/stripes/grgwwwwgr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=120
 

@@ -2,9 +2,10 @@
 title: "Lanark (Fashion #1)"
 date: 2023-03-18
 ---
-In pattern [RBBGBW](/stripes/rbbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1db3dra1g3dra5lp1/)
+(the same proportion at any scale), whose colour order is pattern [RBBGBW](/stripes/rbbgbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4975
 

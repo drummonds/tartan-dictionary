@@ -2,9 +2,10 @@
 title: "Capercaillie Corporate Tartan Tartan Number: 6857. Earliest known date: 2005 RSPB Scotland will receive a 7% royalty on all products made from the new tartan, created in the colours of the world's largest woodland grouse, in a deal struck with the leading tartan weavers Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4t3n4t2n4nb8n30k4nb4k36n4r2k4w2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBBBKBKBRKW](/stripes/brbrbbbkbkbrkw/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6857
 

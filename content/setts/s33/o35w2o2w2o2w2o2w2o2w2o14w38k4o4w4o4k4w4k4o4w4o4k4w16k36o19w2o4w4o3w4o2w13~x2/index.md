@@ -2,9 +2,10 @@
 title: "Miss Peffer's Plaid Artifact Tartan Tartan Number: 1313. Earliest known date: pre 2003 First grey is N270. Shortened for display. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRW](/stripes/rwrwrwrwrwrwkrwrkwkrwrkwkrwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n35ln2n2ln2n2ln2n2ln2n2ln2n14ln38k4n4ln4n4k4ln4k4n4ln4n4k4ln16k36n19ln2n4ln4n3ln4n2ln13/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRW](/stripes/rwrwrwrwrwrwkrwrkwkrwrkwkrwrwrwrw/).
 
-This was sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1313
 

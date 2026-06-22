@@ -2,9 +2,10 @@
 title: "Brydon (2013)"
 date: 2023-03-18
 ---
-In pattern [BGKBKBKBBY](/stripes/bgkbkbkbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db3dba15k2dba2k2dba2k16dg16p2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKBKBBY](/stripes/bgkbkbkbby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10953/
 

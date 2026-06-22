@@ -2,9 +2,10 @@
 title: "MacLeod, Californian"
 date: 2023-03-18
 ---
-In pattern [RKWGKGKGBY](/stripes/rkwgkgkgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4b25g3k3g3k3g13ln24k2r3/)
+(the same proportion at any scale), whose colour order is pattern [RKWGKGKGBY](/stripes/rkwgkgkgby/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "MacNiven"
 date: 2023-03-18
 ---
-In pattern [GGBRBBBRW](/stripes/ggbrbbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga18g2db5r45b3db18b3r5ln2/)
+(the same proportion at any scale), whose colour order is pattern [GGBRBBBRW](/stripes/ggbrbbbrw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNiven (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacNiven Family Tartan Tartan Number: 752. Earliest known date: 1986 Based in part on the MacNaughton of which the MacNivens are a Sept. The name in Mr Cannonito's family was spelt, MacKniffen. Other members of the family have dropped the 'Mac' since arriving in America in 1650. This clan tartan was accredited by the Scottish Tartans Society in 1988. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=752))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNiven (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacNiven Family Tartan Tartan Number: 752. Earliest known date: 1986 Based in part on the MacNaughton of which the MacNivens are a Sept. The name in Mr Cannonito's family was spelt, MacKniffen. Other members of the family have dropped the 'Mac' since arriving in America in 1650. This clan tartan was accredited by the Scottish Tartans Society in 1988. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=752">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Ga/18 G2 DB5 R45 B3 DB18 B3 R5 LN/2

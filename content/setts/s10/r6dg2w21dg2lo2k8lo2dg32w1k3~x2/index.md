@@ -2,9 +2,10 @@
 title: "Fiander, Julian (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWGYKYGWGR](/stripes/kwgykygwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6dn2w21dn2dy2k8dy2dn32w1k3/)
+(the same proportion at any scale), whose colour order is pattern [KWGYKYGWGR](/stripes/kwgykygwgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10935
 

@@ -2,9 +2,10 @@
 title: "Murray of Abercairney"
 date: 2023-03-18
 ---
-In pattern [BGKRRGRGB](/stripes/bgkrrgrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3n1k1ra12r1g9r1n1b3/)
+(the same proportion at any scale), whose colour order is pattern [BGKRRGRGB](/stripes/bgkrrgrgb/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

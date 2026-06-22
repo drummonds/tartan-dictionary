@@ -2,9 +2,10 @@
 title: "Bhoyrub (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGYBRGBKBKBW](/stripes/bgybrgbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b20g3y3b3r7g6b3k12b3k3b24ln3/)
+(the same proportion at any scale), whose colour order is pattern [BGYBRGBKBKBW](/stripes/bgybrgbkbkbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6953/
 

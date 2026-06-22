@@ -2,18 +2,20 @@
 title: "Deloughery, Paul"
 date: 2023-03-18
 ---
-In pattern [BKRBKGW](/stripes/bkrbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20k6lt4db3k16g20ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKGW](/stripes/bkrbkgw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10658
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/07/2012 — Deloughery, Paul (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10658))
-- undated — Deloughery, Paul Name Tartan Tartan Number: 10658. Earliest known date: 09/07/2012 Registration notes: Created by the designer for his family. Colours: saffron, green and blue represent their Irish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10658))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/07/2012 — Deloughery, Paul (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10658">record</a>)</li>
+<li>undated — Deloughery, Paul Name Tartan Tartan Number: 10658. Earliest known date: 09/07/2012 Registration notes: Created by the designer for his family. Colours: saffron, green and blue represent their Irish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10658">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

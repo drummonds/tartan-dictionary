@@ -2,9 +2,10 @@
 title: "Selkirk Corporate District Tartan Tartan Number: 2304. Earliest known date: 1996 . See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBKWKRKBKRKWKRGB](/stripes/bgbkwkrkbkrkwkrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24g2r12k2ln2k3p2k3db4k3p2k3ln2k2dba12g2dba24/)
+(the same proportion at any scale), whose colour order is pattern [BGBKWKRKBKRKWKRGB](/stripes/bgbkwkrkbkrkwkrgb/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2304
 

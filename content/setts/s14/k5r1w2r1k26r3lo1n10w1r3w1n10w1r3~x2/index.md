@@ -2,9 +2,10 @@
 title: "El Dorado Hills P & D (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5r1w2r1k26r3dy1n10w1r3w1n10w1r3/)
+(the same proportion at any scale), whose colour order is pattern [KRWRKRYBWRWBWR](/stripes/krwrkrybwrwbwr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10633/
 

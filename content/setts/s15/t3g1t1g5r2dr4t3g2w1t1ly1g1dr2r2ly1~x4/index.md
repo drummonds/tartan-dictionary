@@ -2,9 +2,10 @@
 title: "Haliburton, Highlands of..."
 date: 2023-03-18
 ---
-In pattern [BGBGRBBGWBYGBRY](/stripes/bgbgrbbgwbygbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3g1b1g5r2dr4b3g2ln1b1y1g1dr2r2y1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRBBGWBYGBRY](/stripes/bgbgrbbgwbygbry/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

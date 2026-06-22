@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbbbb/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBBBB</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/do14db14do14db40do3db2~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BBBBBB" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

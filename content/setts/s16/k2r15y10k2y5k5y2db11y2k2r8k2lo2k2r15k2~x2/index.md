@@ -2,9 +2,10 @@
 title: "Large (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRGKGKGBGKRKYKRK](/stripes/krgkgkgbgkrkykrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr15g10k2g5k5g2db11g2k2dr8k2dy2k2dr15k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGKGKGBGKRKYKRK](/stripes/krgkgkgbgkrkykrk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10016
 

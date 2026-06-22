@@ -2,9 +2,10 @@
 title: "Club World"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGKGRWRKRGRKRKR](/stripes/gkgkgkgkgrwrkrgrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14k7g21k2g2k2g2k4g7r25ln2r2k3r16g9r2k4r2k4r2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGKGRWRKRGRKRKR](/stripes/gkgkgkgkgrwrkrgrkrkr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

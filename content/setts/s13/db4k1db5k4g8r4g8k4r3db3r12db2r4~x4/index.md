@@ -2,9 +2,10 @@
 title: "Murray of Atholl, Red Dress"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1db5k4g8r4g8k4r3db3r12db2r4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKRBRBR](/stripes/bkbkgrgkrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3065
 

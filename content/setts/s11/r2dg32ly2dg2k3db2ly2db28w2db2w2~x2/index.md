@@ -2,9 +2,10 @@
 title: "Pringle Personal Tartan Tartan Number: 5447. Earliest known date: c.1998 Dalgleish of Selkirk designed and wove this circa 1998 as a personal tartan for someone of the name, Pringle. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra2g32y2g2k3dba2y2dba28ln2dba2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5447
 

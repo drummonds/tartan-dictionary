@@ -2,18 +2,20 @@
 title: "Musselburgh"
 date: 2023-03-18
 ---
-In pattern [BWBYBWBBR](/stripes/bwbybwbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba14ln1ba3y2ba3ln1ba4b24r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBWBBR](/stripes/bwbybwbbr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Musselburgh (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Musselburgh District Tartan Tartan Number: 620. Earliest known date: 1958 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=620))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Musselburgh (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Musselburgh District Tartan Tartan Number: 620. Earliest known date: 1958 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=620">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Ba/28 LN2 Ba6 Y4 Ba6 LN2 Ba8 B48 R/6

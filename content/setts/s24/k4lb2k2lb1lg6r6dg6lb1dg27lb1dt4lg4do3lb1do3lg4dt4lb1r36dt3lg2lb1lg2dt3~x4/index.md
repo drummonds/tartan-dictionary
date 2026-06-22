@@ -2,9 +2,10 @@
 title: "Wedding Dress:1766"
 date: 2023-03-18
 ---
-In pattern [BYWYBRWBYBWBYBWGWGRYWKWK](/stripes/bywybrwbybwbybwgwgrywkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n2k2n1b6r6dg6n1dg27n1db4b4dr3n1dr3b4db4n1r36db3b2n1b2db3/)
+(the same proportion at any scale), whose colour order is pattern [BYWYBRWBYBWBYBWGWGRYWKWK](/stripes/bywybrwbybwbybwgwgrywkwk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4583
 

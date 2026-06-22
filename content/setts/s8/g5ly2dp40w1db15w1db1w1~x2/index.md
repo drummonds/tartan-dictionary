@@ -2,18 +2,20 @@
 title: "Jackson (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYBWBWBW](/stripes/gybwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5y2p40w1db15w1db1w1/)
+(the same proportion at any scale), whose colour order is pattern [GYBWBWBW](/stripes/gybwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4894
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/02/2004 — Jackson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4894))
-- July 2004 — Jackson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6317/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/02/2004 — Jackson (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4894">record</a>)</li>
+<li>July 2004 — Jackson (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6317/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

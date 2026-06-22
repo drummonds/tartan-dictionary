@@ -2,9 +2,10 @@
 title: "Sheboom"
 date: 2023-03-18
 ---
-In pattern [BGWGBKRK](/stripes/bgwgbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k35lp2k3p13g8w4g8p8/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBKRK](/stripes/bgwgbkrk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11031/
 

@@ -2,9 +2,10 @@
 title: "Allen, Christopher Holler"
 date: 2023-03-18
 ---
-In pattern [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r2g12k4b11r2b11k4b2k9b2k9b2k4b11y2b11k4g12r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

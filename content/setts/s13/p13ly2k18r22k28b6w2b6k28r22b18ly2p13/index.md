@@ -2,9 +2,10 @@
 title: "European Congress of Immunology 2012"
 date: 2023-03-18
 ---
-In pattern [BYBRKBWBKRKYB](/stripes/bybrkbwbkrkyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p13y2k18r22k28b6w2b6k28r22b18y2p13/)
+(the same proportion at any scale), whose colour order is pattern [BYBRKBWBKRKYB](/stripes/bybrkbwbkrkyb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10683
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - European Congress of Immunology
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/08/2012 — European Congress of Immunology 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10683))
-- undated — European Congress of Immunology Corporate Tartan Tartan Number: 10683. Earliest known date: Created to commemorate the 3rd European Congress of Immunology, held in Glasgow in September 2012. The inspiration for this tartan comes from the City of Glasgow tartan, first woven in 1790 by Wilsons of Bannockburn. This modern interpretation incorporates the Congress colours of purple and lime green, and also features the white on blue of the Scottish Saltire. The width of the blue band is 12 threads to mark the year 2012. The colours of the tartan also embrace those of the EFIS (European Federation of Immunological Societies) and the BSI (British Society for Immunology). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10683))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/08/2012 — European Congress of Immunology 2012 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10683">record</a>)</li>
+<li>undated — European Congress of Immunology Corporate Tartan Tartan Number: 10683. Earliest known date: Created to commemorate the 3rd European Congress of Immunology, held in Glasgow in September 2012. The inspiration for this tartan comes from the City of Glasgow tartan, first woven in 1790 by Wilsons of Bannockburn. This modern interpretation incorporates the Congress colours of purple and lime green, and also features the white on blue of the Scottish Saltire. The width of the blue band is 12 threads to mark the year 2012. The colours of the tartan also embrace those of the EFIS (European Federation of Immunological Societies) and the BSI (British Society for Immunology). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10683">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

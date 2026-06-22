@@ -2,9 +2,10 @@
 title: "Southwell (Australian) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGWBRWRG](/stripes/ggwbrwrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga39r2w1r2db14w14ga2g10/)
+(the same proportion at any scale), whose colour order is pattern [GGWBRWRG](/stripes/ggwbrwrg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6744/
 

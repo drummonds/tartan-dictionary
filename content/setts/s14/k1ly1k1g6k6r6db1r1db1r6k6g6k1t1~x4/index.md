@@ -2,18 +2,20 @@
 title: "Rossi (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKRBRBRKGKYK](/stripes/bkgkrbrbrkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1y1k1g6k6r6db1r1db1r6k6g6k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRBRBRKGKYK](/stripes/bkgkrbrbrkgkyk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2006 — Rossi (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568))
-- 2006 March — Rossi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6897/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2006 — Rossi (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3568">record</a>)</li>
+<li>2006 March — Rossi (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6897/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

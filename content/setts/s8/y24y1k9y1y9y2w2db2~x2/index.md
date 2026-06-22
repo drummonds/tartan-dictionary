@@ -2,9 +2,10 @@
 title: "Gairloch"
 date: 2023-03-18
 ---
-In pattern [BWGGGKGG](/stripes/bwgggkgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n24n1k9n1n9n2ln2db2/)
+(the same proportion at any scale), whose colour order is pattern [BWGGGKGG](/stripes/bwgggkgg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5102
 

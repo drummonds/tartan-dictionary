@@ -2,9 +2,10 @@
 title: "Logan #7"
 date: 2023-03-18
 ---
-In pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db3r2db2r2db16k12g16r1k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2187
 
@@ -18,15 +19,16 @@ This cloth is also recorded under:
 - MacLennan
 - MacLennan,
 
-## Attestations
-
-This cloth appears in 5 source records; the oldest owns this page.
-
-- 01/01/1831 — Logan #7 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2187))
-- 1831 — Logan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/490/))
-- undated — MacLennan, (or Logan) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Logan or MacLennan Clan Tartan Tartan Number: 1429. Earliest known date: 1831 This sett is also recorded under MacLennan. Logans have another tartan also known as Skene or Rose. There is no conclusive explanation for the Logan - MacLennan connection, but it has been suggested that Logan or Lobban is an 'alias' for MacLennan, a common feature of early Scottish surnames. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1429))
-- undated — MacLennan (or Logan) Clan Tartan Tartan Number: 2143. Earliest known date: 1831 This sett is also listed under Logan. D C Stewart says, "The group of five red lines is often seen with the lines equally spaced, and even equal width. The earlier arrangement here shown is preferable." Dr. Micheil MacDonald suggests that Logan (possibly Lobban) was an alternative name for MacLennan rather than a separate clan. Alternative names or aliases are not uncommon in early Scottish records. ('The Clans of Scotland', M. MacDonald, 1991) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2143))
+<details class="attestations">
+<summary>5 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1831 — Logan #7 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2187">record</a>)</li>
+<li>1831 — Logan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/490/">record</a>)</li>
+<li>undated — MacLennan, (or Logan) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Logan or MacLennan Clan Tartan Tartan Number: 1429. Earliest known date: 1831 This sett is also recorded under MacLennan. Logans have another tartan also known as Skene or Rose. There is no conclusive explanation for the Logan - MacLennan connection, but it has been suggested that Logan or Lobban is an 'alias' for MacLennan, a common feature of early Scottish surnames. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1429">record</a>)</li>
+<li>undated — MacLennan (or Logan) Clan Tartan Tartan Number: 2143. Earliest known date: 1831 This sett is also listed under Logan. D C Stewart says, "The group of five red lines is often seen with the lines equally spaced, and even equal width. The earlier arrangement here shown is preferable." Dr. Micheil MacDonald suggests that Logan (possibly Lobban) was an alternative name for MacLennan rather than a separate clan. Alternative names or aliases are not uncommon in early Scottish records. ('The Clans of Scotland', M. MacDonald, 1991) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2143">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

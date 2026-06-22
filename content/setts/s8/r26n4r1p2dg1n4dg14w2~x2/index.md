@@ -2,9 +2,10 @@
 title: "Redpath, Robert A (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRBGBGW](/stripes/rbrbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr26n4dr1p2g1n4g14ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGBGW](/stripes/rbrbgbgw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11435
 

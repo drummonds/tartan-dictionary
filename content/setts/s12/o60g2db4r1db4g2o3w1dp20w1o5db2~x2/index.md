@@ -2,18 +2,20 @@
 title: "Scottish Parliament Official (Corp)"
 date: 2023-03-18
 ---
-In pattern [BRWBWRGBRBGR](/stripes/brwbwrgbrbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n60g2db4r1db4g2n3ln1p20ln1n5db2/)
+(the same proportion at any scale), whose colour order is pattern [BRWBWRGBRBGR](/stripes/brwbwrgbrbgr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10001/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1st July 2009 — Scottish Parliament Official (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10001/))
-- undated — Scottish Parliament Official Corporate Tartan Tartan Number: 10001. Earliest known date: 1st July 2009 This tartan was selected by the Scottish Parliamentary Corporate Body following a competition in 2009 which invited Scottish students to design a tartan to mark 10 years of Devolution. The design was inspired by the Scottish landscape using hints of traditional colours which have been used in tartans for centuries. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10001))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1st July 2009 — Scottish Parliament Official (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10001/">record</a>)</li>
+<li>undated — Scottish Parliament Official Corporate Tartan Tartan Number: 10001. Earliest known date: 1st July 2009 This tartan was selected by the Scottish Parliamentary Corporate Body following a competition in 2009 which invited Scottish students to design a tartan to mark 10 years of Devolution. The design was inspired by the Scottish landscape using hints of traditional colours which have been used in tartans for centuries. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10001">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/120 G4 DB8 R2 DB8 G4 N6 LN2 P40 LN2 N10 DB/4

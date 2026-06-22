@@ -2,9 +2,10 @@
 title: "Pride of Scotland Platinum Fashion Tartan Tartan Number: 6850. Earliest known date: 01/01/2006 ONLY FOR DISPLAY PURPOSE. Design owned by McCalls of Aberdeen and woven exclusively by Lochcarron of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBYBKBKYBKW](/stripes/kbybkbkybkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7n2na2n2k13n2k2na2n13k26lp2/)
+(the same proportion at any scale), whose colour order is pattern [KBYBKBKYBKW](/stripes/kbybkbkybkw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6850
 

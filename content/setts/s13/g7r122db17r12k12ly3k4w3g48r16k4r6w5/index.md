@@ -2,9 +2,10 @@
 title: "Stewart of Rothesay"
 date: 2023-03-18
 ---
-In pattern [GRBRKYKWGRKRW](/stripes/grbrkykwgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7r122b17r12k12y3k4ln3g48r16k4r6ln5/)
+(the same proportion at any scale), whose colour order is pattern [GRBRKYKWGRKRW](/stripes/grbrkykwgrkrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

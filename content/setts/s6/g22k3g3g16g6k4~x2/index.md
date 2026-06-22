@@ -2,9 +2,10 @@
 title: "Campbell Simpson (Dalgliesh)"
 date: 2023-03-18
 ---
-In pattern [GKGGGK](/stripes/gkgggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/gb22k3gb3g16gb6k4/)
+(the same proportion at any scale), whose colour order is pattern [GKGGGK](/stripes/gkgggk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell, Simpson
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/1974 — Campbell Simpson (Dalgliesh) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530))
-- undated — Campbell, Simpson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/1974 — Campbell Simpson (Dalgliesh) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=530">record</a>)</li>
+<li>undated — Campbell, Simpson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

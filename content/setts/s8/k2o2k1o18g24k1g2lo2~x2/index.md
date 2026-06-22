@@ -2,19 +2,21 @@
 title: "Gleneil (Spoof)"
 date: 2023-03-18
 ---
-In pattern [KRKRGKGY](/stripes/krkrgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r2k1r18g24k1g2dy2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRGKGY](/stripes/krkrgkgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1414
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1996 — Gleneil (Spoof) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1414))
-- 1996 — Gleneil (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2545/))
-- undated — Gleneil Corporate Tartan Tartan Number: 2545. Earliest known date: 1996 The STS calls this a spoof tartan. Designed by J B Renwick of Lochcarron for Gleneil Publishers to accompany their fictional book by Michael Brander on the bogus Gleneil clan. The tartan is Johnston with blue changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2545))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Gleneil (Spoof) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1414">record</a>)</li>
+<li>1996 — Gleneil (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2545/">record</a>)</li>
+<li>undated — Gleneil Corporate Tartan Tartan Number: 2545. Earliest known date: 1996 The STS calls this a spoof tartan. Designed by J B Renwick of Lochcarron for Gleneil Publishers to accompany their fictional book by Michael Brander on the bogus Gleneil clan. The tartan is Johnston with blue changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2545">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

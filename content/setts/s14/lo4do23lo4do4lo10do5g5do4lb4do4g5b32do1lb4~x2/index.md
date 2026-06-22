@@ -2,9 +2,10 @@
 title: "State Seal of Oklahoma (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBBGBWBGBYBYBY](/stripes/wbbgbwbgbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr4dr1b32g5dr4lr4dr4g5dr5lt10dr4lt4dr23lt4/)
+(the same proportion at any scale), whose colour order is pattern [WBBGBWBGBYBYBY](/stripes/wbbgbwbgbybyby/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8650/
 

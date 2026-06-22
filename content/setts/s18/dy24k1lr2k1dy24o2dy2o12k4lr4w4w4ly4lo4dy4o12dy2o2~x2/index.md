@@ -2,9 +2,10 @@
 title: "Bear"
 date: 2023-03-18
 ---
-In pattern [GKYKGRGRKYWWYYGRGR](/stripes/gkykgrgrkywwyygrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ta24k1n2k1ta24lt2ta2lt12k4n4wa4w4y4o4ta4lt12ta2lt2/)
+(the same proportion at any scale), whose colour order is pattern [GKYKGRGRKYWWYYGRGR](/stripes/gkykgrgrkywwyygrgr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=235
 

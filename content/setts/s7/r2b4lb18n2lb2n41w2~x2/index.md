@@ -2,9 +2,10 @@
 title: "Haddrell (2013)"
 date: 2023-03-18
 ---
-In pattern [RBWBWBW](/stripes/rbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b4n18na2n2na41w2/)
+(the same proportion at any scale), whose colour order is pattern [RBWBWBW](/stripes/rbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10938/
 

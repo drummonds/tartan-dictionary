@@ -2,9 +2,10 @@
 title: "Hawick Corporate District Tartan Tartan Number: 2220. Earliest known date: 1996 Designed by Andrew Elliot of Andrew Elliot Ltd, Forest Mill, Galashiels, Scotland. Appears to be a variation on Cockburn. Launched at a civic reception in Hawick as the offocial district tartan in February (14th) 1996. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGBWBYBWBYBWBGRGWRWBWBYBWBYBWBGR](/stripes/grgbwbybwbybwbgrgwrwbwbybwbybwbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg24r2dg12db2ln2db3y2db3lp4db3y2db3ln2db2g12r2g12lp12r2lp12db2ln2db3y2db3lp4db3y2db3ln2db2dg12r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGBWBYBWBYBWBGRGWRWBWBYBWBYBWBGR](/stripes/grgbwbybwbybwbgrgwrwbwbybwbybwbgr/).
 
-This was sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2220
 

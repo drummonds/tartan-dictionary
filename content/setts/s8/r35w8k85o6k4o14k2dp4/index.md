@@ -2,18 +2,20 @@
 title: "MacEvil (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKRKRKWR](/stripes/bkrkrkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr35ln8k85n6k4n14k2p4/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKWR](/stripes/bkrkrkwr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10139/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 7th Jan. 2010 — MacEvil (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10139/))
-- undated — MacEvil Corporate Tartan Tartan Number: 10139. Earliest known date: 7th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts for Clan MacEvil, a loosely knit group of friends and relatives who, while not all blood related, consider themselves a 'clan' through their strong bonds of friendship. The 'Chief' of Clan MacEvil is Joel Noecker. The colours used in the tartan represent the following: black represents the 'Dark Side' in each of us; purple represents royalty; grey represents the 'Grey area' in which we live our lives; white represents the charitable actions and donations of the group; dark red is for the bloodline of the loosely knit clan. This tartan may only be woven with the written permission of Joel Noecker. Please contact Joel at: (US) phone: 717.598.8040 or email: JoelNoecker@gmail.com See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10139))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>7th Jan. 2010 — MacEvil (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10139/">record</a>)</li>
+<li>undated — MacEvil Corporate Tartan Tartan Number: 10139. Earliest known date: 7th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts for Clan MacEvil, a loosely knit group of friends and relatives who, while not all blood related, consider themselves a 'clan' through their strong bonds of friendship. The 'Chief' of Clan MacEvil is Joel Noecker. The colours used in the tartan represent the following: black represents the 'Dark Side' in each of us; purple represents royalty; grey represents the 'Grey area' in which we live our lives; white represents the charitable actions and donations of the group; dark red is for the bloodline of the loosely knit clan. This tartan may only be woven with the written permission of Joel Noecker. Please contact Joel at: (US) phone: 717.598.8040 or email: JoelNoecker@gmail.com See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10139">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/35 LN8 K85 N6 K4 N14 K2 P/4

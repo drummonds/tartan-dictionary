@@ -2,9 +2,10 @@
 title: "Anderson, Old"
 date: 2023-03-18
 ---
-In pattern [RBKRKBWKYKYKRBGKRKGR](/stripes/rbkrkbwkykykrbgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g16k1r4k1g16b14r2k14y2k4y2k1ln8b52k1r4k1b16r8/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBWKYKYKRBGKRKGR](/stripes/rbkrkbwkykykrbgkrkgr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Anderson, Old
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Anderson, Old (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Anderson Old Tartan Tartan Number: 1347. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1347))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Anderson, Old (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Anderson Old Tartan Tartan Number: 1347. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1347">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/16 G32 K2 R8 K2 G32 B28 R4 K28 Y4 K8 Y4 K2 LN16 B104 K2 R8 K2 B32 R/16

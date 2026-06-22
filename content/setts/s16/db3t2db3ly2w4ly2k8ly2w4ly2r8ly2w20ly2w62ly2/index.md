@@ -2,9 +2,10 @@
 title: "Druid"
 date: 2023-03-18
 ---
-In pattern [BBBYWYKYWYRYWYWY](/stripes/bbbywykywyrywywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3n2db3y2w4y2g8y2w4y2dr8y2w20y2w62y2/)
+(the same proportion at any scale), whose colour order is pattern [BBBYWYKYWYRYWYWY](/stripes/bbbywykywyrywywy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10102
 

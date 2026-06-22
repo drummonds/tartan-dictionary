@@ -2,9 +2,10 @@
 title: "Chestico"
 date: 2023-03-18
 ---
-In pattern [BRBRGKW](/stripes/brbrgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20t1db1t1g8k1w3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGKW](/stripes/brbrgkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10867
 

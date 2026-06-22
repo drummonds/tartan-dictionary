@@ -2,9 +2,10 @@
 title: "Young Family Tartan Tartan Number: 2048. Earliest known date: 1991 Based on the Christina Young blanket dating from 1726 and preserved at the Scottish Tartans Society museum in Keith, Banffshire. The design retains the unusual purple - yellow - orange box check of the original blanket and changes only the ground colour to the greens and blues of the Douglas tartan. There are 7 colours. Black is normally replaced by dark blue in commercial weaving. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBGBRYYR](/stripes/kbgbryyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db3g15dba15p5o3y2p1/)
+(the same proportion at any scale), whose colour order is pattern [KBGBRYYR](/stripes/kbgbryyr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2048
 

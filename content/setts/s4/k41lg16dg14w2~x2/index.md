@@ -2,9 +2,10 @@
 title: "Hamworthy Association"
 date: 2023-03-18
 ---
-In pattern [KYGW](/stripes/kygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k41b16dg14ln2/)
+(the same proportion at any scale), whose colour order is pattern [KYGW](/stripes/kygw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11365
 

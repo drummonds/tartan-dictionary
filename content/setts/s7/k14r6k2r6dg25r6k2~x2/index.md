@@ -2,9 +2,10 @@
 title: "Logan - 1810 (Cockburn Collection)"
 date: 2023-03-18
 ---
-In pattern [KRGRKRK](/stripes/krgrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14r6db2r6g25r6db2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKRK](/stripes/krgrkrk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/398/
 

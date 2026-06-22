@@ -2,9 +2,10 @@
 title: "Currie"
 date: 2023-03-18
 ---
-In pattern [BRGRGRGYBWB](/stripes/brgrgrgybwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16ln3b1y4g24r1g3r4g3r1ba8/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGYBWB](/stripes/brgrgrgybwb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

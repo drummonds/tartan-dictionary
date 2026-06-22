@@ -2,9 +2,10 @@
 title: "Southwick"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR](/stripes/kwkwkwkwkwkrkgwgkrkgwgkrkwkwkwkwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k12g2w5g2k2r2k5n10k2n4k2n4k2n4k10w2k1r2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKRKGWGKRKGWGKRKWKWKWKWKWKR](/stripes/kwkwkwkwkwkrkgwgkrkgwgkrkwkwkwkwkwkr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3848
 

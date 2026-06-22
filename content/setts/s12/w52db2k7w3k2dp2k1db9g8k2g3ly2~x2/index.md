@@ -2,18 +2,20 @@
 title: "Canmore Highland Games Dress (Corp)"
 date: 2023-03-18
 ---
-In pattern [WBKWKBKBGKGY](/stripes/wbkwkbkbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln52db2k7ln3k2p2k1db9g8k2g3y2/)
+(the same proportion at any scale), whose colour order is pattern [WBKWKBKBGKGY](/stripes/wbkwkbkbgkgy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10009/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- May 2000 — Canmore Highland Games Dress (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10009/))
-- undated — Canmore Highland Games Dress Corporate Tartan Tartan Number: 10009. Earliest known date: May 2000 Tartan available through the Three Sisters Scottish Festival Society who organise the Canmore Highland Games. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10009))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>May 2000 — Canmore Highland Games Dress (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10009/">record</a>)</li>
+<li>undated — Canmore Highland Games Dress Corporate Tartan Tartan Number: 10009. Earliest known date: May 2000 Tartan available through the Three Sisters Scottish Festival Society who organise the Canmore Highland Games. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10009">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/104 DB4 K14 LN6 K4 P4 K2 DB18 G16 K4 G6 Y/4

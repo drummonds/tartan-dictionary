@@ -2,9 +2,10 @@
 title: "Dundee #2"
 date: 2023-03-18
 ---
-In pattern [RRKRGYWKWYBWKW](/stripes/rrkrgywkwybwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra30r2k6r2g17y7ln2k2ln2y4b7ln2k6ln6/)
+(the same proportion at any scale), whose colour order is pattern [RRKRGYWKWYBWKW](/stripes/rrkrgywkwybwkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1030
 

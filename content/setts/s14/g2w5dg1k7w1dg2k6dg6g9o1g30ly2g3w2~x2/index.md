@@ -2,9 +2,10 @@
 title: "Reilly fae the Mearns"
 date: 2023-03-18
 ---
-In pattern [GWGKWGKGGRGYGW](/stripes/gwgkwgkggrgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2w5ga1k7w1ga2k6ga6g9r1g30ly2g3w2/)
+(the same proportion at any scale), whose colour order is pattern [GWGKWGKGGRGYGW](/stripes/gwgkwgkggrgygw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10692
 

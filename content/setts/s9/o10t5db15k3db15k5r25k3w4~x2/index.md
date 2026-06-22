@@ -2,9 +2,10 @@
 title: "Galway County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBBKBKRKW](/stripes/rbbkbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10b5db15k3db15k5dr25k3ln4/)
+(the same proportion at any scale), whose colour order is pattern [RBBKBKRKW](/stripes/rbbkbkrkw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7438/
 

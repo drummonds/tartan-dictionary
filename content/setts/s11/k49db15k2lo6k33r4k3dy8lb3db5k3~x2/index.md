@@ -2,9 +2,10 @@
 title: "State Seal of Wisconsin (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKYKRKGWBK](/stripes/kbkykrkgwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k49db15k2dy6k33dr4k3t8lr3db5k3/)
+(the same proportion at any scale), whose colour order is pattern [KBKYKRKGWBK](/stripes/kbkykrkgwbk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8664/
 

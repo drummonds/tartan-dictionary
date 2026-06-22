@@ -2,9 +2,10 @@
 title: "Equorian Olympic Commemorative Tartan Tartan Number: 1996. Earliest known date: 1986 Edinburgh Woollen Mills design to commemorate Britains participation in the 1988 Olympic Games in Korea and to raise money for the British Equestrian Olympic Appeal Fund. The full sett is not shown here for technical reasons. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRYGYYGYRBRYGYYGYRBRYGYYGYYGYYGYR](/stripes/brygyygyrbrygyygyrbrygyygyygyygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2n1lt1dg6na3lt3t6lt1n1db2n1lt1dg6na3lt3t6lt1n1db2n1lt1dg6na3lt3t6lt3na3dg6na3lt3t6lt1n1/)
+(the same proportion at any scale), whose colour order is pattern [BRYGYYGYRBRYGYYGYRBRYGYYGYYGYYGYR](/stripes/brygyygyrbrygyygyrbrygyygyygyygyr/).
 
-This was sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from house-of-tartan.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1996
 

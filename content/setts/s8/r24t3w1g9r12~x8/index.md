@@ -2,9 +2,10 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-In pattern [GWBRBWGR](/stripes/gwbrbwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24b3ln1g9r12/)
+(the same proportion at any scale), whose colour order is pattern [GWBRBWGR](/stripes/gwbrbwgr/).
 
-This was sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link /posts/logans-scottish-gael/
 

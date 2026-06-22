@@ -2,9 +2,10 @@
 title: "Scott Red Clan Tartan Tartan Number: 4. Earliest known date: 1930-50 The Red Scott tartan is the sett most often seen today. The earliest recording appears to come from a sample in the MacKinlay collection at the Scottish Tartans Society. Sir Walter Scott, despite his assertion that Lowlanders never wore plaids, was largely responsible for the wide spread introduction of tartans to the Lowland families. There is also a Green Scott tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRKRGRGWGR](/stripes/grkrgrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g4ln3g4r4g14r28k2r2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRGWGR](/stripes/grkrgrgwgr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4
 

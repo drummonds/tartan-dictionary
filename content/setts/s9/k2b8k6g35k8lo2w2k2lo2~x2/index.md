@@ -2,9 +2,10 @@
 title: "160th SOAR(A) Night Stalkers (Mil.)"
 date: 2023-03-18
 ---
-In pattern [KBKGKYWKY](/stripes/kbkgkywky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b8k6g35k8dy2w2k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [KBKGKYWKY](/stripes/kbkgkywky/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10541/
 

@@ -2,9 +2,10 @@
 title: "Salem Scottish Dancers (Dance) #2"
 date: 2023-03-18
 ---
-In pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba5dn30w4dn4ba18w3dn3w3ba18dn4w4dn30ba5dn5/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBBWBWBBWBB](/stripes/bbbwbbwbwbbwbb/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Salem Scottish Dancers #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2000 — Salem Scottish Dancers (Dance) #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641))
-- 26/02/2001 — Salem Scottish Dancers (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3640))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Salem Scottish Dancers (Dance) #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3641">record</a>)</li>
+<li>26/02/2001 — Salem Scottish Dancers (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3640">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

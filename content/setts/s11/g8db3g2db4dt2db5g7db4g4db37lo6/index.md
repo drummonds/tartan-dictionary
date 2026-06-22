@@ -2,9 +2,10 @@
 title: "Jenkins (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [GBGBBBGBGBY](/stripes/gbgbbbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8dba3g2dba4db2dba5g7dba4g4dba37dya6/)
+(the same proportion at any scale), whose colour order is pattern [GBGBBBGBGBY](/stripes/gbgbbbgbgby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5757/
 

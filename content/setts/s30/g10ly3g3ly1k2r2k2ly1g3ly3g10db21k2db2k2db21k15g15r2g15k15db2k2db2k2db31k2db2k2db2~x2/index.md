@@ -2,9 +2,10 @@
 title: "Dundee Discovery"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGRGKBKBKBGYGYKRKYGYG](/stripes/bkbkbkbkbkgrgkbkbkbgygykrkygyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10y3g3y1k2r2k2y1g3y3g10b21k2b2k2b21k15g15r2g15k15b2k2b2k2b31k2b2k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGRGKBKBKBGYGYKRKYGYG](/stripes/bkbkbkbkbkgrgkbkbkbgygykrkygyg/).
 
-This was sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

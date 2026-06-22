@@ -2,9 +2,10 @@
 title: "Glen Lyon, or Mull (No.53)"
 date: 2023-03-18
 ---
-In pattern [BGK](/stripes/bgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g3b2/)
+(the same proportion at any scale), whose colour order is pattern [BGK](/stripes/bgk/).
 
-This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Glen Lyon, or Mull
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Glen Lyon, or Mull (No.53) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Glen Lyon or Mull (No.53) District Tartan Tartan Number: 24. Earliest known date: 1820 Appears to be No 185 in Wilson's '1819' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=24))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Glen Lyon, or Mull (No.53) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Glen Lyon or Mull (No.53) District Tartan Tartan Number: 24. Earliest known date: 1820 Appears to be No 185 in Wilson's '1819' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=24">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/10 G6 B/4

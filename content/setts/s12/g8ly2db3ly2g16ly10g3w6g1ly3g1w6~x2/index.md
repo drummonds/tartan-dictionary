@@ -2,9 +2,10 @@
 title: "Green Bay, Wisconsin (District)"
 date: 2023-03-18
 ---
-In pattern [GYBYGYGWGYGW](/stripes/gybygygwgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8ya2db3ya2g16y10g3ln6g1ya3g1ln6/)
+(the same proportion at any scale), whose colour order is pattern [GYBYGYGWGYGW](/stripes/gybygygwgygw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8089/
 

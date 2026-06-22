@@ -2,9 +2,10 @@
 title: "Sydney (Nova Scotia)"
 date: 2023-03-18
 ---
-In pattern [KWKRRRRRRRKWKR](/stripes/kwkrrrrrrrkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6na1r6na3k2w1k2na6/)
+(the same proportion at any scale), whose colour order is pattern [KWKRRRRRRRKWKR](/stripes/kwkrrrrrrrkwkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4057
 

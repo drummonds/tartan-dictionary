@@ -2,9 +2,10 @@
 title: "Royal Navy"
 date: 2023-03-18
 ---
-In pattern [BBBBBBRBBBWR](/stripes/bbbbbbrbbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4p8db3p2db64b24r4dba3b4dba3ln8r4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBRBBBWR](/stripes/bbbbbbrbbbwr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3104
 

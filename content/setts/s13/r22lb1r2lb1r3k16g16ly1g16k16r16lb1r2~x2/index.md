@@ -2,18 +2,20 @@
 title: "Beartrap (Military)"
 date: 2023-03-18
 ---
-In pattern [RWRKGYGKRWRWR](/stripes/rwrkgygkrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr22n1dr2n1dr3k16g16y1g16k16dr16n1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RWRKGYGKRWRWR](/stripes/rwrkgygkrwrwr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7624/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- April 2008 — Beartrap (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7624/))
-- undated — Beartrap (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5643))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>April 2008 — Beartrap (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7624/">record</a>)</li>
+<li>undated — Beartrap (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5643">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

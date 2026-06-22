@@ -2,9 +2,10 @@
 title: "Grand Lodge of Scotland"
 date: 2023-03-18
 ---
-In pattern [GKGKBKBKBKBKGKGY](/stripes/gkgkbkbkbkbkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18k6g1k1db1k6db1k2db1k6db1k1g1k6g21y1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBKBKBKBKGKGY](/stripes/gkgkbkbkbkbkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1492
 

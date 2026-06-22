@@ -2,9 +2,10 @@
 title: "Hebridean Cairn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBR](/stripes/brbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2na3n3na3n10na2n18na1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6822/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Hebridean Mist
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 2005 December — Hebridean Cairn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6822/))
-- 2005 December — Hebridean Mist (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6823/))
-- undated — Hebridean Mist Fashion Tartan Tartan Number: 6823. Earliest known date: 2005 For a new House of Edgar Collection in wedding gray. This is the same sett and colours as 6822 but as in Dark Island, the sett has been highlighted in the weaving process by with parts of the patern being woven 'face up' and the remainder 'back up'. To further accentuate the sett, the weft is slightly darker than the warp. Theoretically only one of these setts should be included but we have stretched a point to provide dated documentation for the weaver. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6823))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2005 December — Hebridean Cairn (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6822/">record</a>)</li>
+<li>2005 December — Hebridean Mist (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6823/">record</a>)</li>
+<li>undated — Hebridean Mist Fashion Tartan Tartan Number: 6823. Earliest known date: 2005 For a new House of Edgar Collection in wedding gray. This is the same sett and colours as 6822 but as in Dark Island, the sett has been highlighted in the weaving process by with parts of the patern being woven 'face up' and the remainder 'back up'. To further accentuate the sett, the weft is slightly darker than the warp. Theoretically only one of these setts should be included but we have stretched a point to provide dated documentation for the weaver. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6823">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/8 Na12 N12 Na12 N40 Na8 N72 Na/4

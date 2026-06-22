@@ -2,9 +2,10 @@
 title: "Irish National District Tartan Tartan Number: 2245. Earliest known date: 1992 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar in association with John and Joan (Jo) Nisbet of Piper's Cove in New Jersey USA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGYGKWGGGYGGGWKGYGG](/stripes/ggygkwgggygggwkgygg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g36dg5y5dg9k5ln5dg2g7dg1y2dg1g7dg2ln5k5dg9y5dg5g17/)
+(the same proportion at any scale), whose colour order is pattern [GGYGKWGGGYGGGWKGYGG](/stripes/ggygkwgggygggwkgygg/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2245
 

@@ -2,9 +2,10 @@
 title: "Michie"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBKBGBGBGBGBBRBRB](/stripes/bgbgbgbgbkbgbgbgbgbbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35b27r4b4ra4b27/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBKBGBGBGBGBBRBRB](/stripes/bgbgbgbgbkbgbgbgbgbbrbrb/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10042
 

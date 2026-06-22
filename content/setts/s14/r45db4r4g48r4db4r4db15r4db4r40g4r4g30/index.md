@@ -2,9 +2,10 @@
 title: "Bruce, Old"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r45b4r4g48r4b4r4b15r4b4r40g4r4g30/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

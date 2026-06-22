@@ -2,9 +2,10 @@
 title: "Italian (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKWKKRKRKKWKBRWGBKWKKRKRKKWK](/stripes/bkbkwkkrkrkkwkbrwgbkwkkrkrkkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2db24k1n1k1k12dr2k2dr2k12k1n1k1db24dr2n2g2db24k1n1k1k12dr2k2dr2k12k1n1k1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKKRKRKKWKBRWGBKWKKRKRKKWK](/stripes/bkbkwkkrkrkkwkbrwgbkwkkrkrkkwk/).
 
-This was sourced from tartans-authority.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from tartans-authority.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5285/
 

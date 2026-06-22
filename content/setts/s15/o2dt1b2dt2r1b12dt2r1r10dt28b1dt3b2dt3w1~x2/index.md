@@ -2,9 +2,10 @@
 title: "Northfield Academy"
 date: 2023-03-18
 ---
-In pattern [RBBBRBBRRBBBBBW](/stripes/rbbbrbbrrbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dn1b2dn2r1b12dn2r1dr10dn28b1dn3b2dn3w1/)
+(the same proportion at any scale), whose colour order is pattern [RBBBRBBRRBBBBBW](/stripes/rbbbrbbrrbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11490
 

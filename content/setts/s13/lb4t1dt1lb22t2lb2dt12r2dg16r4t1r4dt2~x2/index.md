@@ -2,9 +2,10 @@
 title: "MacGillivray Dress, Janice (Personal"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBWBWBBW](/stripes/brbrgrbwbwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr4b1db1lr22b2lr2db12r2g16r4b1r4db2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBWBWBBW](/stripes/brbrgrbwbwbbw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10811/
 

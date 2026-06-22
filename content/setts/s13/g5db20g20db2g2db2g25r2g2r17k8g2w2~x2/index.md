@@ -2,9 +2,10 @@
 title: "Boyle, Cameron (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGRGRKGW](/stripes/gbgbgbgrgrkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5db20g20db2g2db2g25dr2g2dr17k8g2ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGRGRKGW](/stripes/gbgbgbgrgrkgw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10252/
 

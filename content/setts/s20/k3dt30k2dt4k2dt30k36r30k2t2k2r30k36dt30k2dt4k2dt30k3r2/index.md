@@ -2,9 +2,10 @@
 title: "Evans of Wales"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKRKBKRKBKBKBKR](/stripes/kbkbkbkrkbkrkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db30k2db4k2db30k36dr30k2b2k2dr30k36db30k2db4k2db30k3r2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKRKBKRKBKBKBKR](/stripes/kbkbkbkrkbkrkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4842
 

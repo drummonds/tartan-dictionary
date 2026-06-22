@@ -2,9 +2,10 @@
 title: "Southdown Tartan Tartan Number: 1194. Earliest known date: pre 2003 Designed for the Glasgow conference in 2002 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKWKWKBR](/stripes/krkwkwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r1k3ln5k5ln3k5dr23r3/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKWKBR](/stripes/krkwkwkbr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1194
 

@@ -2,9 +2,10 @@
 title: "Bruce"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRY](/stripes/rgrgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g2r2g6r1g6r2g2r8y1/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRY](/stripes/rgrgrgrgry/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,9 +2,10 @@
 title: "Lochcarron Mill"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBBKBRBR](/stripes/bkbkbkbkbbkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2n2dr2n19k4n2n4k4n2k1na2k1na2k6n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBBKBRBR](/stripes/bkbkbkbkbbkbrbr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2171
 

@@ -2,9 +2,10 @@
 title: "Hanna Personal Tartan Tartan Number: 619. Earliest known date: 1987 Found in a the Hanna family bible of a civil war veteran by Charles Milton Hanna, Freeport, PA, USA, who sent information to the Scottish Tartan Society in 1987. The STS records the blue square as blue 4 and white 2, which gives a tweed like pattern to that section. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8ln13db2ln1db2ln1db2ln1db2ln1db2ln1db2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBWK](/stripes/bwbwbwbwbwbwk/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=619
 

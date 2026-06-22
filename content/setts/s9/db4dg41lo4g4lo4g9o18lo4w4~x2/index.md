@@ -2,9 +2,10 @@
 title: "Gallagher Irish Fashion Tartan Tartan Number: 4053. Earliest known date: 2001 February See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGYGYGRYW](/stripes/bgygygryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ga41lt4g4lt4g9o18lt4ln4/)
+(the same proportion at any scale), whose colour order is pattern [BGYGYGRYW](/stripes/bgygygryw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4053
 

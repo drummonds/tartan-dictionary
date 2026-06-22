@@ -2,9 +2,10 @@
 title: "Rosie O'Grady (P&D) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRBRKBRKR](/stripes/krbrkbrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k35r6db6r6k16db48r36k6r6/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKBRKR](/stripes/krbrkbrkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10459/
 

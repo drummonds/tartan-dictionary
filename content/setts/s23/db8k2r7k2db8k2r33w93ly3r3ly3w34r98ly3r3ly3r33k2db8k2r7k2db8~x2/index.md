@@ -2,9 +2,10 @@
 title: "Unidentified #13"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRWYRYWRYRYRKBKRKB](/stripes/bkrkbkrwyrywryryrkbkrkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k2r7k2b8k2r33ln93y3r3y3ln34r98y3r3y3r33k2b8k2r7k2b8/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRWYRYWRYRYRKBKRKB](/stripes/bkrkbkrwyrywryryrkbkrkb/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4214
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Unidentified
 - Unidentified #13
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Unidentified #13 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4214))
-- undated — Unidentified 28 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Unidentified Tartan Tartan Number: 351. Earliest known date: Elgin Sent from Canada. See file. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=351))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified #13 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4214">record</a>)</li>
+<li>undated — Unidentified 28 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Unidentified Tartan Tartan Number: 351. Earliest known date: Elgin Sent from Canada. See file. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=351">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

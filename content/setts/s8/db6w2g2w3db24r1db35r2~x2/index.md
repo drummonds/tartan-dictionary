@@ -2,9 +2,10 @@
 title: "Raith Rovers F.C."
 date: 2023-03-18
 ---
-In pattern [BWGWBRBR](/stripes/bwgwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6ln2g2ln3db24r1b35r2/)
+(the same proportion at any scale), whose colour order is pattern [BWGWBRBR](/stripes/bwgwbrbr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

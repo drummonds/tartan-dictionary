@@ -2,9 +2,10 @@
 title: "Stewart of Athol"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g22k1g2k1g3k8r20k1r6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart of Athol
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart of Athol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart of Athol Clan Tartan Tartan Number: 802. Earliest known date: pre 1842 (1745) Prepared for the Vestiarium Scoticum but not included in the published version. It was claimed to be the sett of a 'relic from the '45' and published as such by D.W.Stewart in his book 'Old and Rare Scottish Tartans' in 1893. It has become more widely known in recent times. There is also an Atholl district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=802))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart of Athol (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart of Athol Clan Tartan Tartan Number: 802. Earliest known date: pre 1842 (1745) Prepared for the Vestiarium Scoticum but not included in the published version. It was claimed to be the sett of a 'relic from the '45' and published as such by D.W.Stewart in his book 'Old and Rare Scottish Tartans' in 1893. It has become more widely known in recent times. There is also an Atholl district tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=802">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/44 K2 G4 K2 G6 K16 R40 K2 R/12

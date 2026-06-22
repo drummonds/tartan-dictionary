@@ -2,9 +2,10 @@
 title: "Callum Scotch House Trade Tartan Tartan Number: 1319. Earliest known date: pre 2003 Sett identical to Vestiarium Scoticum No 196 'Menzies' See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWGWGBBBBBBR](/stripes/gwgwgbbbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t4ln2t2ln3t20db6b3db2b2db2b16r3/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGBBBBBBR](/stripes/gwgwgbbbbbbr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1319
 

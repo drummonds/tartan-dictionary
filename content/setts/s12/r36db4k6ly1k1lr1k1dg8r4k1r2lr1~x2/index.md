@@ -2,9 +2,10 @@
 title: "Stewart Royal"
 date: 2023-03-18
 ---
-In pattern [RBKYKYKGRKRY](/stripes/rbkykykgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr36db4k6lg1k1n1k1dg8dr4k1dr2n1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKYKGRKRY](/stripes/rbkykykgrkry/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

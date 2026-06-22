@@ -2,9 +2,10 @@
 title: "Scottish Borderland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WGBGBBGBY](/stripes/wgbgbbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2g2na1g30nb10na20g1na2dy1/)
+(the same proportion at any scale), whose colour order is pattern [WGBGBBGBY](/stripes/wgbgbbgby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5359/
 

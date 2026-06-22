@@ -2,9 +2,10 @@
 title: "Stewart of Appin"
 date: 2023-03-18
 ---
-In pattern [GRWBRGRBRGRGRWBR](/stripes/grwbrgrbrgrgrwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db2n1r2g24r4g2r2db8r2g2r24db2n1r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRWBRGRBRGRGRWBR](/stripes/grwbrgrbrgrgrwbr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,9 +2,10 @@
 title: "Strathisla"
 date: 2023-03-18
 ---
-In pattern [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8dba12r3p20g3dba20dbb3dba20n2dba20dbb3dba20g3p20r3dba12g8dbb8/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBGBBBWBBBGBRBG](/stripes/bgbrbgbbbwbbbgbrbg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3986
 

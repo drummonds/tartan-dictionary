@@ -2,9 +2,10 @@
 title: "MacGlashan"
 date: 2023-03-18
 ---
-In pattern [BWRBBWYRBRYWRWBR](/stripes/bwrbbwyrbrywrwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25dr3ln2lt25ln3y5r4dr2r4y5ln3b4dr5r6ln1b1/)
+(the same proportion at any scale), whose colour order is pattern [BWRBBWYRBRYWRWBR](/stripes/bwrbbwyrbrywrwbr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

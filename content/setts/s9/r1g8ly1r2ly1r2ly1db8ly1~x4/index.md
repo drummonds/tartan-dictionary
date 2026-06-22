@@ -2,9 +2,10 @@
 title: "Stevenson Family Tartan Tartan Number: 1558. Earliest known date: 1980 Charles Stevenson of Glasgow emigrated to America in 1861. The Monitoring Committee of the Scottish Tartans Society operated until 1984 when the present system of accreditation was introduced for the 'Register of All Publicly Known Tartans'. The original count has been proportionately increased from the 1980 recording. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGYRYRYBY](/stripes/rgyryryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g8y1r2y1r2y1db8y1/)
+(the same proportion at any scale), whose colour order is pattern [RGYRYRYBY](/stripes/rgyryryby/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1558
 

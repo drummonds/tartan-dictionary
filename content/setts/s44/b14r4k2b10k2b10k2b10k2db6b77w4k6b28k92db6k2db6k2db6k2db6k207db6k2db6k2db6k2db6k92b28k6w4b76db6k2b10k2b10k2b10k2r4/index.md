@@ -2,9 +2,10 @@
 title: "Unidentified (Miss Paterson)"
 date: 2023-03-18
 ---
-In pattern [BRKBKBKBKBBWKBKBKBKBKBKBKBKBKBKBKWBBKBKBKBKR](/stripes/brkbkbkbkbbwkbkbkbkbkbkbkbkbkbkbkwbbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14r4k2b10k2b10k2b10k2db6b77w4k6b28k92db6k2db6k2db6k2db6k207db6k2db6k2db6k2db6k92b28k6w4b76db6k2b10k2b10k2b10k2r4/)
+(the same proportion at any scale), whose colour order is pattern [BRKBKBKBKBBWKBKBKBKBKBKBKBKBKBKBKWBBKBKBKBKR](/stripes/brkbkbkbkbbwkbkbkbkbkbkbkbkbkbkbkwbbkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4267
 

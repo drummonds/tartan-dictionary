@@ -2,18 +2,20 @@
 title: "MacDonell of Glengarry"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGW](/stripes/brbrbrkgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8r1b2r3b12r1k12g12r3g2r1g4ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGW](/stripes/brbrbrkgrgrgw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonell of Glengarry (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonell of Glengarry Clan Tartan Tartan Number: 471. Earliest known date: 1906 The Setts No: 112. W & A K Johnston (1906). There is a sample certified by 'Glengarry' in the collection of the Highland Society of London from the period 1815-16 but it is not known whether the threadcount corresponds to MacKays record illustrated here. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=471))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonell of Glengarry (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonell of Glengarry Clan Tartan Tartan Number: 471. Earliest known date: 1906 The Setts No: 112. W & A K Johnston (1906). There is a sample certified by 'Glengarry' in the collection of the Highland Society of London from the period 1815-16 but it is not known whether the threadcount corresponds to MacKays record illustrated here. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=471">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/16 R2 B4 R6 B24 R2 K24 G24 R6 G4 R2 G8 LN/2

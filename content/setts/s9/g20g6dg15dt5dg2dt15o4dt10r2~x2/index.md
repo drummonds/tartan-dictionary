@@ -2,18 +2,20 @@
 title: "Copar a'Beannichte (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGBGBRBR](/stripes/gggbgbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20b6dg15db5dg2db15n4db10r2/)
+(the same proportion at any scale), whose colour order is pattern [GGGBGBRBR](/stripes/gggbgbrbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6483/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Copar a'Beannichte (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6483/))
-- 01/06/2005 — Copar a'Beannichte (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=757))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Copar a'Beannichte (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6483/">record</a>)</li>
+<li>01/06/2005 — Copar a'Beannichte (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=757">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

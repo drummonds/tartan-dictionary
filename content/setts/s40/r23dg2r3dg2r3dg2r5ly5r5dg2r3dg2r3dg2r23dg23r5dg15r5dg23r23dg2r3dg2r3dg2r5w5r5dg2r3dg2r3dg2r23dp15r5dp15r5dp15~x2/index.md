@@ -2,9 +2,10 @@
 title: "MacRae of Inverinate"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgryrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r23dg2r3dg2r3dg2r5y5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5w5r5dg2r3dg2r3dg2r23dp15r5dp15r5dp15/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgryrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2751
 

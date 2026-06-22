@@ -2,9 +2,10 @@
 title: "Commonwealth Games 1986 (Corp)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3w1db1w1db2w3db15b2db2b22r2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1892/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Commonwealth Games 1986 #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Sept 1985 — Commonwealth Games 1986 (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1892/))
-- 01/01/1986 — Commonwealth Games 1986 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=724))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Sept 1985 — Commonwealth Games 1986 (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1892/">record</a>)</li>
+<li>01/01/1986 — Commonwealth Games 1986 #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=724">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Clergy 3"
 date: 2023-03-18
 ---
-In pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g4b18k19g4k19g4b7g4b12g2/)
+(the same proportion at any scale), whose colour order is pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

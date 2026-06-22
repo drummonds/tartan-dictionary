@@ -2,9 +2,10 @@
 title: "Alister Grant 'Mohr', the Laird's Champion"
 date: 2023-03-18
 ---
-In pattern [GKYKRYR](/stripes/gkykryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt30k4lg10k4r5lg5r15/)
+(the same proportion at any scale), whose colour order is pattern [GKYKRYR](/stripes/gkykryr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1498
 

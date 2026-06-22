@@ -2,9 +2,10 @@
 title: "de Baseggio (Golden Bones)"
 date: 2023-03-18
 ---
-In pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4db6lg1w1r1db6b4db2y1db1y1db1y1db2y3db3/)
+(the same proportion at any scale), whose colour order is pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10628
 

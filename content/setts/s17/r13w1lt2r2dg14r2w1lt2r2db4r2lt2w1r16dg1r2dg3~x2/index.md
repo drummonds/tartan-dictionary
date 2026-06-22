@@ -2,18 +2,20 @@
 title: "MacDonald of Lochmaddy"
 date: 2023-03-18
 ---
-In pattern [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r13w1lb2r2dg14r2w1lb2r2db4r2lb2w1r16dg1r2dg3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRWWRBRWWRGRWWR](/stripes/grgrwwrbrwwrgrwwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1950 — MacDonald of Lochmaddy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365))
-- 1950? — MacDonald of Lochmaddy (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/971/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — MacDonald of Lochmaddy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2365">record</a>)</li>
+<li>1950? — MacDonald of Lochmaddy (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/971/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

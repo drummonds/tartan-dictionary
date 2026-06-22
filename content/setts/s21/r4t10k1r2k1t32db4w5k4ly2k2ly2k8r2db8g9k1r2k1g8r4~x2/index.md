@@ -2,9 +2,10 @@
 title: "Anderson 9"
 date: 2023-03-18
 ---
-In pattern [RBKRKBBWKYKYKRBGKRKGR](/stripes/rbkrkbbwkykykrbgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ba10k1r2k1ba32b4ln5k4y2k2y2k8r2b8g9k1r2k1g8r4/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBBWKYKYKRBGKRKGR](/stripes/rbkrkbbwkykykrbgkrkgr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Hunter (Wilsons)"
 date: 2023-03-18
 ---
-In pattern [WRWKGWBWGWRWGGYRWRYGGGGWBWKWRW](/stripes/wrwkgwbwgwrwggyrwryggggwbwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r8ln2k15ga4ln2b5ln2g20ln2r32ln2g20ga3y3r2ln2r2y3ga3g20ga2g20ln2b5ln2k15ln2r8ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRWKGWBWGWRWGGYRWRYGGGGWBWKWRW](/stripes/wrwkgwbwgwrwggyrwryggggwbwkwrw/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1791
 

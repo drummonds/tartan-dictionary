@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Riding Cloak"
 date: 2023-03-18
 ---
-In pattern [WBGRWRWRGBW](/stripes/wbgrwrwrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1b4t8r4ln1r4ln1r4g16b2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBGRWRWRGBW](/stripes/wbgrwrwrgbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4024
 

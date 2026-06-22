@@ -2,9 +2,10 @@
 title: "Herbage Family Tartan Tartan Number: 811. Earliest known date: 1983 Designed by the Scottish Tartans Society for Mr Herbage, Laggan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKRRR](/stripes/gkrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g25k8n10r1n3/)
+(the same proportion at any scale), whose colour order is pattern [GKRRR](/stripes/gkrrr/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=811
 

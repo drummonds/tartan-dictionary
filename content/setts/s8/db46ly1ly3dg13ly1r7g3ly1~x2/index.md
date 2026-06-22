@@ -2,9 +2,10 @@
 title: "Victorian Highland Pipe Band Assoc"
 date: 2023-03-18
 ---
-In pattern [BYYGYRGY](/stripes/byygyrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db46y1ya3dg13y1dr7g3y1/)
+(the same proportion at any scale), whose colour order is pattern [BYYGYRGY](/stripes/byygyrgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11050/
 

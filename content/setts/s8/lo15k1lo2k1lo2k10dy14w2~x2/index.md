@@ -2,9 +2,10 @@
 title: "Buccleuch Weavers Tartan Tartan Number: 6009. Earliest known date: pre 2003 A Fashion tartan from Marton Mills See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGKYKYKY](/stripes/wgkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt15k1lt2k1lt2k10g14ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGKYKYKY](/stripes/wgkykyky/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6009
 

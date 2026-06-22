@@ -2,9 +2,10 @@
 title: "East Tennessee State University"
 date: 2023-03-18
 ---
-In pattern [YBWBWYBY](/stripes/ybwbwyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2db2w1dba6w1y2db17y1/)
+(the same proportion at any scale), whose colour order is pattern [YBWBWYBY](/stripes/ybwbwyby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10861
 

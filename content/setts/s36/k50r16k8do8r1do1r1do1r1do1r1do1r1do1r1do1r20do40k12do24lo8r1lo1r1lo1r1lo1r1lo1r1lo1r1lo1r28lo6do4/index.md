@@ -2,9 +2,10 @@
 title: "Newfoundland (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BYRYRYRYRYRYRYRYBKBRBRBRBRBRBRBRBKRK](/stripes/byryryryryryryrybkbrbrbrbrbrbrbrbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50r16k8dr8r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r20dr40k12dr24dy8r1dy1r1dy1r1dy1r1dy1r1dy1r1dy1r28dy6dr4/)
+(the same proportion at any scale), whose colour order is pattern [BYRYRYRYRYRYRYRYBKBRBRBRBRBRBRBRBKRK](/stripes/byryryryryryryrybkbrbrbrbrbrbrbrbkrk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7708/
 

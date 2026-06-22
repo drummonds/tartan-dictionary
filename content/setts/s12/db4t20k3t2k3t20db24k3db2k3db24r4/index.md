@@ -2,18 +2,20 @@
 title: "Roberts (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [BBKBKBBKBKBR](/stripes/bbkbkbbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b20k3b2k3b20db24k3db2k3db24r4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBBKBKBR](/stripes/bbkbkbbkbkbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5762/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Roberts (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5762/))
-- undated — Roberts Welsh Name Tartan Tartan Number: 5762. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Probart, Probert, Probyn, Prodger, Propert, Prophet, Robert, Roberts, Robin, Roblin, Roppert, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5762))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Roberts (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5762/">record</a>)</li>
+<li>undated — Roberts Welsh Name Tartan Tartan Number: 5762. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Probart, Probert, Probyn, Prodger, Propert, Prophet, Robert, Roberts, Robin, Roblin, Roppert, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5762">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 B20 K3 B2 K3 B20 DB24 K3 DB2 K3 DB24 R/4

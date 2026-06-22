@@ -2,18 +2,20 @@
 title: "Tune Hotels"
 date: 2023-03-18
 ---
-In pattern [RRRRRRRRW](/stripes/rrrrrrrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3dr18dra6r15dr4r3dr4r7w2/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRRRRW](/stripes/rrrrrrrrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10742
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 04/09/2012 — Tune Hotels (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10742))
-- 04/09/2012 — Tune Hotels (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10742/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>04/09/2012 — Tune Hotels (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10742">record</a>)</li>
+<li>04/09/2012 — Tune Hotels (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10742/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

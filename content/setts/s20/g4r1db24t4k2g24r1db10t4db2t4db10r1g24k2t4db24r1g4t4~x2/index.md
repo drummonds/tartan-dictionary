@@ -2,9 +2,10 @@
 title: "Coopers & Lybrand Corporate Commem. Tartan Tartan Number: 2303. Earliest known date: 1996 Designed by Deirdre Nicholls of Celtic Silks. May 1996. Swatch in STA's Johnston Collection. Dark green, red and blue called for but lighter shades used here to display sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRBBKGRBBBBBRGKBBRG](/stripes/bgrbbkgrbbbbbrgkbbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r1db24b4k2g24r1db10b4db2b4db10r1g24k2b4db24r1g4b4/)
+(the same proportion at any scale), whose colour order is pattern [BGRBBKGRBBBBBRGKBBRG](/stripes/bgrbbkgrbbbbbrgkbbrg/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2303
 

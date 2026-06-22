@@ -2,9 +2,10 @@
 title: "Lendrum (Black & Red) or MacFarlane"
 date: 2023-03-18
 ---
-In pattern [KRKR](/stripes/krkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12dr7k1dr9/)
+(the same proportion at any scale), whose colour order is pattern [KRKR](/stripes/krkr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lendrum or MacFarlane
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Lendrum (Black & Red) or MacFarlane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094))
-- pre 2002 — Lendrum (Black & Red) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1190/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Lendrum (Black & Red) or MacFarlane (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2094">record</a>)</li>
+<li>pre 2002 — Lendrum (Black & Red) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1190/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

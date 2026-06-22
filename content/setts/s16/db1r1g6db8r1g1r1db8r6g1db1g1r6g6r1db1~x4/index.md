@@ -2,18 +2,20 @@
 title: "Crieff Hydro Hotel"
 date: 2023-03-18
 ---
-In pattern [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1r1g6db8r1g1r1db8r6g1db1g1r6g6r1db1/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRGRBRGBGRGRB](/stripes/brgbrgrbrgbgrgrb/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1990 — Crieff Hydro Hotel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805))
-- pre 1990 — Crieff Hydro Hotel (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5166/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1990 — Crieff Hydro Hotel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=805">record</a>)</li>
+<li>pre 1990 — Crieff Hydro Hotel (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5166/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

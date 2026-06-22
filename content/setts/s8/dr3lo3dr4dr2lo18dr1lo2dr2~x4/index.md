@@ -2,9 +2,10 @@
 title: "Loughheed (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBBYBYB](/stripes/bybbybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3o3dr4dr2o18dr1o2dr2/)
+(the same proportion at any scale), whose colour order is pattern [BYBBYBYB](/stripes/bybbybyb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4112/
 

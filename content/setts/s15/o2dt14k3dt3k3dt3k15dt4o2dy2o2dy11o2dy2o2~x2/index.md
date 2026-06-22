@@ -2,18 +2,20 @@
 title: "Homecoming (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKBRGRGRGR](/stripes/rbkbkbkbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2t2dr2t11dr2t2dr2dn4k15dn3k3dn3k3dn14n2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKBRGRGRGR](/stripes/rbkbkbkbrgrgrgr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7823/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec. 2008 — Homecoming (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7823/))
-- undated — Homecoming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec. 2008 — Homecoming (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7823/">record</a>)</li>
+<li>undated — Homecoming (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5779">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

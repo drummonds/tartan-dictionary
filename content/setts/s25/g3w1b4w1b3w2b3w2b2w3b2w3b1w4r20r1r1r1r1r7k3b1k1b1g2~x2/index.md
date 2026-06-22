@@ -2,9 +2,10 @@
 title: "A J Gallacher"
 date: 2023-03-18
 ---
-In pattern [GBKBKRRRRRRWBWBWBWBWBWBWG](/stripes/gbkbkrrrrrrwbwbwbwbwbwbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3w1b4w1b3w2b3w2b2w3b2w3b1w4r20ra1r1ra1r1ra7k3b1k1b1g2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKRRRRRRWBWBWBWBWBWBWG](/stripes/gbkbkrrrrrrwbwbwbwbwbwbwg/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10053
 

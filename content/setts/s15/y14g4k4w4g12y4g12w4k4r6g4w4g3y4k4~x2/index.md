@@ -2,9 +2,10 @@
 title: "Gayre Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [GGKWGGGWKRGWGGK](/stripes/ggkwgggwkrgwggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg14g4k4w4g12lg4g12w4k4r6g4w4g3lg4k4/)
+(the same proportion at any scale), whose colour order is pattern [GGKWGGGWKRGWGGK](/stripes/ggkwgggwkrgwggk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/161/
 

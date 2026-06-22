@@ -2,18 +2,20 @@
 title: "MacAlister CC"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr32dg8dr4dg8dr8db8dr12b1dr1dg18dr1b1dr32b1dr1dg18dr1b1dr12dg6dr1b1dr4/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/).
 
-This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacAlister CC (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacAlister CC (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacAlister CC (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacAlister CC (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/64 DG16 DR8 DG16 DR16 DB16 DR24 B2 DR2 DG36 DR2 B2 DR64 B2 DR2 DG36 DR2 B2 DR24 DG12 DR2 B2 DR/8

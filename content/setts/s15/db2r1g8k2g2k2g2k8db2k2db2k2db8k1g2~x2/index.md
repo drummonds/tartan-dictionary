@@ -2,9 +2,10 @@
 title: "Lorne, Louise of"
 date: 2023-03-18
 ---
-In pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r1g8k2g2k2g2k8db2k2db2k2db8k1g2/)
+(the same proportion at any scale), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2221
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Lorne, Louise of
 - Louise Commemorative
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1871 — Lorne, Louise of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2221))
-- undated — Louise (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Louise Commemorative Tartan Tartan Number: 7. Earliest known date: 1871 Brought out for the wedding of the Marquis of Lorne to Her Royal Highness the Princess Louise in 1871. Published in 'Campbell Tartan' by Alastair Campbell of Airds, yr, in 1985, where he quotes, "brought out by Mr M'Kissock, of Girvan" and approved by the Marquis of Lorne. There is a companion to this sett in which the red stripe is replaced with black. They are collectively known as Lorne and Louise tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1871 — Lorne, Louise of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2221">record</a>)</li>
+<li>undated — Louise (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Louise Commemorative Tartan Tartan Number: 7. Earliest known date: 1871 Brought out for the wedding of the Marquis of Lorne to Her Royal Highness the Princess Louise in 1871. Published in 'Campbell Tartan' by Alastair Campbell of Airds, yr, in 1985, where he quotes, "brought out by Mr M'Kissock, of Girvan" and approved by the Marquis of Lorne. There is a companion to this sett in which the red stripe is replaced with black. They are collectively known as Lorne and Louise tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

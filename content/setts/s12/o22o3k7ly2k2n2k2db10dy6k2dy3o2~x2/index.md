@@ -2,9 +2,10 @@
 title: "Daks - Chino Check - B.11155"
 date: 2023-03-18
 ---
-In pattern [RGKGBKBKYKRR](/stripes/rgkgbkbkykrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt22lta3k7y2k2n2k2b10t6k2t3lt2/)
+(the same proportion at any scale), whose colour order is pattern [RGKGBKBKYKRR](/stripes/rgkgbkbkykrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

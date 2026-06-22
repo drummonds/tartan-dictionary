@@ -2,18 +2,20 @@
 title: "Semple"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKGW](/stripes/rbkbkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b11k3b3k3b4k15g36ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKGW](/stripes/rbkbkbkgw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Semple (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Semple Family Tartan Tartan Number: 2292. Earliest known date: 1996 Designed by Iain Semple of Tamworth for anyone of the name. Very similar design to Sempill # 2420. See the Semple Family website (www.semple.org). Clan/Family Chief is Lord Semple who lives in Leith, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2292))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Semple (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Semple Family Tartan Tartan Number: 2292. Earliest known date: 1996 Designed by Iain Semple of Tamworth for anyone of the name. Very similar design to Sempill # 2420. See the Semple Family website (www.semple.org). Clan/Family Chief is Lord Semple who lives in Leith, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2292">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 B22 K6 B6 K6 B8 K30 G72 LN/6

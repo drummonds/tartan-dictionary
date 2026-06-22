@@ -2,9 +2,10 @@
 title: "Scotch, House Cailean"
 date: 2023-03-18
 ---
-In pattern [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4ln2lt2r3lt19b6ba3b2ba2b2ba15lt3/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBBBRRRWR](/stripes/rbbbbbbrrrwr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

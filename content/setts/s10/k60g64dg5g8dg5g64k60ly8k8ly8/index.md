@@ -2,9 +2,10 @@
 title: "Sin-Cos (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGGGGGKYKY](/stripes/kgggggkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k60ga64g5ga8g5ga64k60y8k8y8/)
+(the same proportion at any scale), whose colour order is pattern [KGGGGGKYKY](/stripes/kgggggkyky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10094/
 

@@ -2,9 +2,10 @@
 title: "Holy Sepulchre Corporate Tartan Tartan Number: 2161. Earliest known date: pre 2003 Information from Mr Scot Wilson, McCalls of Aberdeen. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwrwkrkwywkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2ln2r13k17r2k17ln2y4ln2k17r2k17ln2r13ln2k17r2k17r13ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwrwkrkwywkrkrwy/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2161
 

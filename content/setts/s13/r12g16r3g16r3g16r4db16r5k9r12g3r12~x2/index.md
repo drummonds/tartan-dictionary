@@ -2,18 +2,20 @@
 title: "Grant of Monymusk"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRBRKRGR](/stripes/rgrgrgrbrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g16r3g16r3g16r4b16r5k9r12g3r12/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRBRKRGR](/stripes/rgrgrgrbrkrgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Grant of Monymusk (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Grant of Monymusk Clan Tartan Tartan Number: 1497. Earliest known date: 1810-15 An old tartan in the Cockburn Collection housed in the Mitchell Library in Glasgow. D.C.Stewart comments that it is made up of elements of the Huntly group of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1497))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Grant of Monymusk (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Grant of Monymusk Clan Tartan Tartan Number: 1497. Earliest known date: 1810-15 An old tartan in the Cockburn Collection housed in the Mitchell Library in Glasgow. D.C.Stewart comments that it is made up of elements of the Huntly group of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1497">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/24 G32 R6 G32 R6 G32 R8 B32 R10 K18 R24 G6 R/24

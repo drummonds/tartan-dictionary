@@ -2,9 +2,10 @@
 title: "Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGKGKGKYKGKYKGKYKGKGKGG](/stripes/gggkgkgkykgkykgkykgkgkgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6g3dg22k2dg4k14g5k3lg5k3g20k4dy4/)
+(the same proportion at any scale), whose colour order is pattern [GGGKGKGKYKGKYKGKYKGKGKGG](/stripes/gggkgkgkykgkykgkykgkgkgg/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6496
 

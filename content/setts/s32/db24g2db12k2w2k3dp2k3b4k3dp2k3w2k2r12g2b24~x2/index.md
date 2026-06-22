@@ -2,9 +2,10 @@
 title: "Selkirk, New"
 date: 2023-03-18
 ---
-In pattern [BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG](/stripes/bgrkwkbkbkbkwkbgbgbkwkbkbkbkwkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24g2r12k2ln2k3p2k3b4k3p2k3ln2k2dbb12g2dbb24/)
+(the same proportion at any scale), whose colour order is pattern [BGRKWKBKBKBKWKBGBGBKWKBKBKBKWKRG](/stripes/bgrkwkbkbkbkwkbgbgbkwkbkbkbkwkrg/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3761
 

@@ -2,18 +2,20 @@
 title: "K9"
 date: 2023-03-18
 ---
-In pattern [RKWRBRKWKYWKR](/stripes/rkwrbrkwkywkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r40k2ln1lt40k3ln2k3r5db22r3ln1k3r7/)
+(the same proportion at any scale), whose colour order is pattern [RKWRBRKWKYWKR](/stripes/rkwrbrkwkywkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1924
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1977 — K9 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1924))
-- pre 1977 — K9 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7187/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1977 — K9 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1924">record</a>)</li>
+<li>pre 1977 — K9 (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7187/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

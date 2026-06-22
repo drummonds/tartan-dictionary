@@ -2,9 +2,10 @@
 title: "All Irish Blue Irish District Tartan Tartan Number: 4066. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW](/stripes/bwbbgbygygygywbybwygygygybgbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba6lb2db2ba30gb2ba2dy2ga4dy2gb2dy1gb18dy1lb2db2dy4/)
+(the same proportion at any scale), whose colour order is pattern [BWBBGBYGYGYGYWBYBWYGYGYGYBGBBW](/stripes/bwbbgbygygygywbybwygygygybgbbw/).
 
-This was sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4066
 

@@ -2,9 +2,10 @@
 title: "Sons of Scotland (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBYBRBRGBW](/stripes/bwbybrbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2w2db21dy3db4ra3db3r4g18b4w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBRBRGBW](/stripes/bwbybrbrgbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5794/
 

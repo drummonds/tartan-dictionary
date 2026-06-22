@@ -2,9 +2,10 @@
 title: "Alexander-Johnstone (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKGRGKBKBKBKBY](/stripes/wkgrgkbkbkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db2k1db24k2db2k2db2k2dg8lp2dg8k1w2/)
+(the same proportion at any scale), whose colour order is pattern [WKGRGKBKBKBKBY](/stripes/wkgrgkbkbkbkby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10907
 

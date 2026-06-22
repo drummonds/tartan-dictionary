@@ -2,9 +2,10 @@
 title: "Culloden, House Bed Hangings"
 date: 2023-03-18
 ---
-In pattern [WBWGYGWBWRRWRRWRBWYWBWYWBRWRWRBRW](/stripes/wbwgygwbwrrwrrwrbwywbwywbrwrwrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4ba5ln2g2y3g2ln2p12ln2r8ra8ln2ra8r8ln2r10b4ln2y3ln2b4ln2y3ln2b4r10ln2ra20ln6ra4b2ra4ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWGYGWBWRRWRRWRBWYWBWYWBRWRWRBRW](/stripes/wbwgygwbwrrwrrwrbwywbwywbrwrwrbrw/).
 
-This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

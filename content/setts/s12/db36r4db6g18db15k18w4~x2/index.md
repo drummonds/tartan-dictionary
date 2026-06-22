@@ -2,9 +2,10 @@
 title: "Grainger"
 date: 2023-03-18
 ---
-In pattern [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db36r4db6g18db15k18w4/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBKWKBGBR](/stripes/brbgbkwkbgbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1488
 

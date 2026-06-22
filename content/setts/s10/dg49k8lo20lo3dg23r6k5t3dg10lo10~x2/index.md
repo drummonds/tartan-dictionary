@@ -2,9 +2,10 @@
 title: "State Seal of Maine (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKYYGRKBGY](/stripes/gkyygrkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg49k8lt20dy3dg23r6k5b3dg10lt10/)
+(the same proportion at any scale), whose colour order is pattern [GKYYGRKBGY](/stripes/gkyygrkbgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8633/
 

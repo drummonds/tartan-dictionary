@@ -2,9 +2,10 @@
 title: "Blackdown Hills Corporate Tartan Tartan Number: 6711. Earliest known date: 1991 The Blackdown Hills on the Devon/Somerset border were designated as an Area of Outstanding Natural Beauty (AONB) in 1991 and this tartan was designed to celebrate that occasion. Designed at Coldharbour Mill at Cullompton in Devon. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBYBRBW](/stripes/kbybrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4b4o1b4do4db4w1/)
+(the same proportion at any scale), whose colour order is pattern [KBYBRBW](/stripes/kbybrbw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6711
 

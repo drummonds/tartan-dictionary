@@ -2,9 +2,10 @@
 title: "Estonian National Tartan (District)"
 date: 2023-03-18
 ---
-In pattern [KBKWKBKBYR](/stripes/kbkwkbkbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k53b3k2w1k2b3k5b32y1r3/)
+(the same proportion at any scale), whose colour order is pattern [KBKWKBKBYR](/stripes/kbkwkbkbyr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6777/
 

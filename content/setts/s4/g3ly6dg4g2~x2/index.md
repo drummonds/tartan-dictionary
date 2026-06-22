@@ -2,9 +2,10 @@
 title: "Pilgrims (Bedford)"
 date: 2023-03-18
 ---
-In pattern [GGYG](/stripes/ggyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3y6g4ga2/)
+(the same proportion at any scale), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pilgrims School, Bedford
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1999 — Pilgrims (Bedford) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339))
-- 1999 — Pilgrims School, Bedford (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5503/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Pilgrims (Bedford) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3339">record</a>)</li>
+<li>1999 — Pilgrims School, Bedford (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5503/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Innes Dress, Red (Dance)"
 date: 2023-03-18
 ---
-In pattern [BKYRYRYRYRBRKGKRY](/stripes/bkyryryryrbrkgkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3dr2k3g6k2dr2db4dr2dy3dr4n3dr2n3dr2n20k2b3/)
+(the same proportion at any scale), whose colour order is pattern [BKYRYRYRYRBRKGKRY](/stripes/bkyryryryrbrkgkry/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3384/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Innes Red, Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Innes Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3384/))
-- undated — Innes Red, Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5173))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Innes Dress, Red (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3384/">record</a>)</li>
+<li>undated — Innes Red, Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5173">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Isle of Gigha"
 date: 2023-03-18
 ---
-In pattern [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4r1dg4k4db4dy1db4k4dg4r1dg4db2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGKBYBKGRG](/stripes/bgrgkbybkgrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5111
 

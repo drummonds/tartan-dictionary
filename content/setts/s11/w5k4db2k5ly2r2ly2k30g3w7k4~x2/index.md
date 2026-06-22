@@ -2,9 +2,10 @@
 title: "Braddock Family (Northumberland) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWGKYRYKBKW](/stripes/kwgkyrykbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k4db2k5y2r2y2k30lg3ln7k4/)
+(the same proportion at any scale), whose colour order is pattern [KWGKYRYKBKW](/stripes/kwgkyrykbkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10278
 

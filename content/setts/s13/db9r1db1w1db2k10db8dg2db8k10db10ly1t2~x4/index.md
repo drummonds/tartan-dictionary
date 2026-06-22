@@ -2,9 +2,10 @@
 title: "Ontario Provincial Police (Corporate"
 date: 2023-03-18
 ---
-In pattern [BRBWBKBGBKBYB](/stripes/brbwbkbgbkbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9r1db1ln1db2k10db8dg2db8k10db10y1b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBKBGBKBYB](/stripes/brbwbkbgbkbyb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10019/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ontario Provincial Police
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb. 2009 — Ontario Provincial Police (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10019/))
-- undated — Ontario Provincial Police Canadian Corporate Tartan Tartan Number: 10019. Earliest known date: Feb. 2009 Designed by Davd Brown and Fiona Hall (Lochcarron) for the Ontario Provincial Police Force. Subject to an exclusive contract between Lochcarron's Canadian company (Burnetts & Struth) and the police force. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10019))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb. 2009 — Ontario Provincial Police (Corporate (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10019/">record</a>)</li>
+<li>undated — Ontario Provincial Police Canadian Corporate Tartan Tartan Number: 10019. Earliest known date: Feb. 2009 Designed by Davd Brown and Fiona Hall (Lochcarron) for the Ontario Provincial Police Force. Subject to an exclusive contract between Lochcarron's Canadian company (Burnetts & Struth) and the police force. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10019">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/36 R4 DB4 LN4 DB8 K40 DB32 DG8 DB32 K40 DB40 Y4 B/8

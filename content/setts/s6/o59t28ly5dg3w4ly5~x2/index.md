@@ -2,9 +2,10 @@
 title: "Dundhuin Gold"
 date: 2023-03-18
 ---
-In pattern [RBYGWY](/stripes/rbygwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt59b28ly5k3w4ly5/)
+(the same proportion at any scale), whose colour order is pattern [RBYGWY](/stripes/rbygwy/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10234
 

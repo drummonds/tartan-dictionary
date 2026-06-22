@@ -2,9 +2,10 @@
 title: "Cornish Hunting District Tartan Tartan Number: 1568. Earliest known date: 1984 The Cornish Hunting tartan was first produced in 1984, and was marketed by the firm, Cornovi Creations, Cornwall. It is based on the Cornish National tartan designed by E.E. Morton-Nance, who regarded tartan as the heritage of all Celts, not Scots alone. (P Smith and G Teall, District Tartans, 1992) The hunting sett replaces the 'National' yellow with dark green and the azure with a darker shade of blue. Cornish Hunting is a registered design (No. 514267). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKBGYKW](/stripes/rkbgykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k26y2dg24db7k3r3/)
+(the same proportion at any scale), whose colour order is pattern [RKBGYKW](/stripes/rkbgykw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1568
 

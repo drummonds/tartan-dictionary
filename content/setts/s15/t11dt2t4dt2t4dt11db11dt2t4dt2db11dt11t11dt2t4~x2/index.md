@@ -2,9 +2,10 @@
 title: "William Murdoch (Scottish Gas) Corporate Tartan Tartan Number: 29. Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba11dba2ba4dba2ba4dba11db11dba2b4dba2db11dba11ba11dba2ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbb/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=29
 

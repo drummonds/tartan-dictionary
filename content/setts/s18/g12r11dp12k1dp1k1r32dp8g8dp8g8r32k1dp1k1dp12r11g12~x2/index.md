@@ -2,9 +2,10 @@
 title: "Fiddes #3"
 date: 2023-03-18
 ---
-In pattern [GRBKBKRBGBGRKBKBRG](/stripes/grbkbkrbgbgrkbkbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r11p12k1p1k1r32g8p8g8p8r32k1p1k1p12r11g12/)
+(the same proportion at any scale), whose colour order is pattern [GRBKBKRBGBGRKBKBRG](/stripes/grbkbkrbgbgrkbkbrg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1176
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Fiddes #3
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1790 — Fiddes #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1176))
-- 1790s — Fiddes - 1790 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/836/))
-- undated — Fiddes Family Tartan Tartan Number: 836. Earliest known date: 1800 Unusual sett from Wilsons of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=836))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1790 — Fiddes #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1176">record</a>)</li>
+<li>1790s — Fiddes - 1790 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/836/">record</a>)</li>
+<li>undated — Fiddes Family Tartan Tartan Number: 836. Earliest known date: 1800 Unusual sett from Wilsons of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=836">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

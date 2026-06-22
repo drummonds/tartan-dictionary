@@ -2,9 +2,10 @@
 title: "Matchpoint Hunting"
 date: 2023-03-18
 ---
-In pattern [BYGBGBGBGBBBRBW](/stripes/bygbgbgbgbbbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y2g24db4g8db6g6db8g3db10n14db4r3db34na4/)
+(the same proportion at any scale), whose colour order is pattern [BYGBGBGBGBBBRBW](/stripes/bygbgbgbgbbbrbw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10909/
 

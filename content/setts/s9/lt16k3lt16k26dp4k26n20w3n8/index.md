@@ -2,9 +2,10 @@
 title: "Scotsburn Croft"
 date: 2023-03-18
 ---
-In pattern [BWBKBKWKW](/stripes/bwbkbkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb16k3lb16k26p4k26n20w3n8/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKWKW](/stripes/bwbkbkwkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11208
 

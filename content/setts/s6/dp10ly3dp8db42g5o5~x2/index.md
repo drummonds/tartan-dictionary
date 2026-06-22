@@ -2,9 +2,10 @@
 title: "Cheadle (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBBGR](/stripes/bybbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p10y3p8db42g5n5/)
+(the same proportion at any scale), whose colour order is pattern [BYBBGR](/stripes/bybbgr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8045/
 

@@ -2,9 +2,10 @@
 title: "Stewart/Stuart of Appin #2"
 date: 2023-03-18
 ---
-In pattern [GRBBRGRBRGRGRBBRBBRGRGRBRGRBBR](/stripes/grbbrgrbrgrgrbbrbbrgrgrbrgrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b1db2r24g2r2db8r2g2r4g24r2b1db2r3db2b1r2g24r4g2r2db8r2g2r24db2b1r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRBBRGRBRGRGRBBRBBRGRGRBRGRBBR](/stripes/grbbrgrbrgrgrbbrbbrgrgrbrgrbbr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3949
 

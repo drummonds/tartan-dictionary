@@ -2,9 +2,10 @@
 title: "Douglas Variation"
 date: 2023-03-18
 ---
-In pattern [WBBBBW](/stripes/wbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db25b25db2b5ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBW](/stripes/wbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=962
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Douglas, Variation
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Douglas Variation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=962))
-- undated — Douglas, Variation (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Douglas Variation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=962">record</a>)</li>
+<li>undated — Douglas, Variation (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

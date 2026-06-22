@@ -2,18 +2,20 @@
 title: "Spirit of de Jong"
 date: 2023-03-18
 ---
-In pattern [BKBGBBKWRWKBBRB](/stripes/bkbgbbkwrwkbbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba103ra12dba20db7k5w5r5w5k5db7dba5dg32dp14k5dp22/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBBKWRWKBBRB](/stripes/bkbgbbkwrwkbbrb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10611
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2012 — Spirit of de Jong (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10611))
-- undated — Spirit of de Jong Name Tartan Tartan Number: 10611. Earliest known date: 3 May 2012 Designed by Marno and Mickey de Jong as a tribute to time spent in Scotland where their eldest son was born. This tartan is based on Spirit of Scotland tartan (STR ref #3865) with added colours red, white, blue and orange representing the national colours of the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10611))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2012 — Spirit of de Jong (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10611">record</a>)</li>
+<li>undated — Spirit of de Jong Name Tartan Tartan Number: 10611. Earliest known date: 3 May 2012 Designed by Marno and Mickey de Jong as a tribute to time spent in Scotland where their eldest son was born. This tartan is based on Spirit of Scotland tartan (STR ref #3865) with added colours red, white, blue and orange representing the national colours of the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10611">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

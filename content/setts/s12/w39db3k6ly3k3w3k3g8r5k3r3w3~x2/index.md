@@ -2,9 +2,10 @@
 title: "Stewart Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly39db3k6y3k3ly3k3g8r5k3r3ly3/)
+(the same proportion at any scale), whose colour order is pattern [WBKYKWKGRKRW](/stripes/wbkykwkgrkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1765/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- circa 1750 — Stewart Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1765/))
-- undated — Stewart dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>circa 1750 — Stewart Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1765/">record</a>)</li>
+<li>undated — Stewart dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LY/78 DB6 K12 Y6 K6 LY6 K6 G16 R10 K6 R6 LY/6

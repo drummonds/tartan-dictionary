@@ -2,9 +2,10 @@
 title: "Kelvin Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBRGBBGBK](/stripes/bkbkbrgbbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9k2b4k2dr6lt3t2b2dr11t23ba1k8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBRGBBGBK](/stripes/bkbkbrgbbgbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11318
 

@@ -2,9 +2,10 @@
 title: "Beck Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBWBKBWRWBK](/stripes/kbkbkbwbkbwrwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4b2ln15r6ln25b2k4b2ln15b4k2b4k2b4k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBWBKBWRWBK](/stripes/kbkbkbwbkbwrwbk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5436
 

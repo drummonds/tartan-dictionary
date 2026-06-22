@@ -2,9 +2,10 @@
 title: "MacLean, Donald Personal Tartan Tartan Number: 3440. Earliest known date: pre 2002 From Pendleton Woolen Mills of Oregon, owners of the only copy of Clans Originaux. EBW 8.11.02. This is the same as MacTaggart #408 and #409!!! See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWGKBRK](/stripes/gwgkbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16lp3g3k10db12dr2b3/)
+(the same proportion at any scale), whose colour order is pattern [GWGKBRK](/stripes/gwgkbrk/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3440
 

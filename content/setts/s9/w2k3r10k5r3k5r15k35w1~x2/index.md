@@ -2,18 +2,20 @@
 title: "Bertea, A H (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKRKRKRKW](/stripes/wkrkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2k3r10k5r3k5r15k35w1/)
+(the same proportion at any scale), whose colour order is pattern [WKRKRKRKW](/stripes/wkrkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 03/08/2013 — Bertea, A H (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880))
-- 2013 — Bertea, A H (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10880/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>03/08/2013 — Bertea, A H (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10880">record</a>)</li>
+<li>2013 — Bertea, A H (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10880/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

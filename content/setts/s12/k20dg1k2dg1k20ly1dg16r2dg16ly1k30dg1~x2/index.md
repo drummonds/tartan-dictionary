@@ -2,9 +2,10 @@
 title: "Milne of Corstorphine #1 (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKYGRGYKGKGK](/stripes/gkygrgykgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20g1k2g1k20y1g16r2g16y1k30g1/)
+(the same proportion at any scale), whose colour order is pattern [GKYGRGYKGKGK](/stripes/gkygrgykgkgk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5991
 

@@ -2,9 +2,10 @@
 title: "Stanners (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRBRBWGWGKBKY](/stripes/wrbrbwgwgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4k4b4k4g4ln1g4ln1b3r4b3r4ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRBRBWGWGKBKY](/stripes/wrbrbwgwgkbky/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10096/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stanners Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2nd Nov. 2009 — Stanners (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10096/))
-- undated — Stanners Personal Tartan Tartan Number: 10096. Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10096))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2nd Nov. 2009 — Stanners (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10096/">record</a>)</li>
+<li>undated — Stanners Personal Tartan Tartan Number: 10096. Earliest known date: 2nd Nov. 2009 This tartan is for the use of the Stanners family who lived in Grangepans, Bo'ness, West Lothian, for 200 years. It is for family members, relatives and anyone linked to the family by marriage. Developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10096">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/16 K16 B16 K16 G16 LN4 G16 LN4 B12 R16 B12 R16 LN/4

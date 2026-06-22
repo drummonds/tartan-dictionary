@@ -2,18 +2,20 @@
 title: "Bicentenary (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BKYKBBGKR](/stripes/bkykbbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra6k1dy1k2db2dra4g8k1dr2/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBBGKR](/stripes/bkykbbgkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4198/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1975 — Bicentenary (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4198/))
-- 01/01/1999 — Bicentenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=259))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1975 — Bicentenary (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4198/">record</a>)</li>
+<li>01/01/1999 — Bicentenary (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=259">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

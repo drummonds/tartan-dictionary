@@ -2,18 +2,20 @@
 title: "McPartlin (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKWR](/stripes/kwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k27ly29k5ly14r2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWR](/stripes/kwkwr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2007 — McPartlin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901))
-- June 2007 — McPartlin (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7244/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2007 — McPartlin (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2901">record</a>)</li>
+<li>June 2007 — McPartlin (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7244/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

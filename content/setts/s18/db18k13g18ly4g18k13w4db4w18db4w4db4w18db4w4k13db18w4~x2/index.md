@@ -2,9 +2,10 @@
 title: "MacNeil dress"
 date: 2023-03-18
 ---
-In pattern [BKGYGKWBWBWBWBWKBW](/stripes/bkgygkwbwbwbwbwkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18k13g18y4g18k13ln4b4ln18b4ln4b4ln18b4ln4k13b18ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKGYGKWBWBWBWBWKBW](/stripes/bkgygkwbwbwbwbwkbw/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacNeil dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNeil dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacNeil Dress Clan Tartan Tartan Number: 1974. Earliest known date: 1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1974))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNeil dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacNeil Dress Clan Tartan Tartan Number: 1974. Earliest known date: 1830 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1974">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/36 K26 G36 Y8 G36 K26 LN8 B8 LN36 B8 LN8 B8 LN36 B8 LN8 K26 B36 LN/8

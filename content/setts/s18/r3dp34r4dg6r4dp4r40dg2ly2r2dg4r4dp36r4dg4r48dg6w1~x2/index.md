@@ -2,9 +2,10 @@
 title: "Unnamed C18th - S.Uist"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3dp34dr4g6dr4dp4dr40g2y2dr2g4dr4dp36dr4g4dr48g6ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRGYRGRBRGRGW](/stripes/rbrgrbrgyrgrbrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5308
 

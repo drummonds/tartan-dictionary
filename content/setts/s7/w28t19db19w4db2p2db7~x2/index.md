@@ -2,9 +2,10 @@
 title: "St. Andrews Dress, Earl of (Danc"
 date: 2023-03-18
 ---
-In pattern [BBBWBBW](/stripes/bbbwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln28b19db19ln4dba2p2db7/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBBW](/stripes/bbbwbbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/45/
 

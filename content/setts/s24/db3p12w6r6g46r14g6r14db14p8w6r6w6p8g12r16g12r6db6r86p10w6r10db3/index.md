@@ -2,9 +2,10 @@
 title: "MacDougall, Plaid"
 date: 2023-03-18
 ---
-In pattern [BBWRGRGRBBWRWBGRGRBRBWRB](/stripes/bbwrgrgrbbwrwbgrgrbrbwrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3p12ln6r6g46r14g6r14b14p8ln6r6ln6p8g12r16g12r6b6r86p10ln6r10b3/)
+(the same proportion at any scale), whose colour order is pattern [BBWRGRGRBBWRWBGRGRBRBWRB](/stripes/bbwrgrgrbbwrwbgrgrbrbwrb/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

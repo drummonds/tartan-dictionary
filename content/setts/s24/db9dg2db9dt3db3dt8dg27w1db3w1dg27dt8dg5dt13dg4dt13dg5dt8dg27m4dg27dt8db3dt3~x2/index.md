@@ -2,9 +2,10 @@
 title: "Barony of Gartly (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBGRGBGBGBGBGWBWGBBBBGB](/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9dg2db9k3db3k8dg27w1db3w1dg27k8dg5k13dg4k13dg5k8dg27lp4dg27k8db3k3/)
+(the same proportion at any scale), whose colour order is pattern [BBBGRGBGBGBGBGWBWGBBBBGB](/stripes/bbbgrgbgbgbgbgwbwgbbbbgb/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8410/
 

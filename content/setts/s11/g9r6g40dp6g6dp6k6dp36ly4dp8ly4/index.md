@@ -2,9 +2,10 @@
 title: "Boyle Family, Susan (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGBGBKBYBY](/stripes/grgbgbkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r6g40dp6g6dp6k6dp36y4dp8y4/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGBKBYBY](/stripes/grgbgbkbyby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8915/
 

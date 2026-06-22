@@ -2,9 +2,10 @@
 title: "Brown Watch Trade Tartan Tartan Number: 1739. Earliest known date: pre 1986 Product of J & D Paton of Tillicoultry, one of many samples presented to the Scottish Tartan Society sometime before 1986 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t11k1t1k1t1k8g8k1g8k8t8k1t1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGKG](/stripes/gkgkgkgkgkgkg/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1739
 

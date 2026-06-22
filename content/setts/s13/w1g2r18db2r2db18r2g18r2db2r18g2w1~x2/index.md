@@ -2,9 +2,10 @@
 title: "Robertson 1820 - White line"
 date: 2023-03-18
 ---
-In pattern [WGRBRBRGRBRGW](/stripes/wgrbrbrgrbrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1g2r18db2r2db18r2g18r2db2r18g2w1/)
+(the same proportion at any scale), whose colour order is pattern [WGRBRBRGRBRGW](/stripes/wgrbrbrgrbrgw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Robertson 1820
 - Robertson 7
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1820 — Robertson 1820 - White line (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528))
-- 1820 — Robertson - 1820 (White line) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1803/))
-- undated — Robertson 7 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1820 — Robertson 1820 - White line (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3528">record</a>)</li>
+<li>1820 — Robertson - 1820 (White line) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1803/">record</a>)</li>
+<li>undated — Robertson 7 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

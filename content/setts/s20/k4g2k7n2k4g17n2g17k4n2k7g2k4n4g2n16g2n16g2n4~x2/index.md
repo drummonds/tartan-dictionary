@@ -2,9 +2,10 @@
 title: "Blackwater (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ga2k7g2k4ga17g2ga17k4g2k7ga2k4g4ga2g16ga2g16ga2g4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBKGKBKGBGKBKGK](/stripes/bgbgbgbkgkbkgbgkbkgk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=290
 

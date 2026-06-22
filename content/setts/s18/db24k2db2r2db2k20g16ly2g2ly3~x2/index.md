@@ -2,9 +2,10 @@
 title: "Watson"
 date: 2023-03-18
 ---
-In pattern [BKBRBKGYGYGYGKBRBK](/stripes/bkbrbkgygygygkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba24k2dba2r2dba2k20g16y2g2y3/)
+(the same proportion at any scale), whose colour order is pattern [BKBRBKGYGYGYGKBRBK](/stripes/bkbrbkgygygygkbrbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4503
 

@@ -2,9 +2,10 @@
 title: "Allen (1998)"
 date: 2023-03-18
 ---
-In pattern [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r2g12k4b11r2b11k4b2k9b2k9b2k4b11y2b11k4g12r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBRBKBKBKBKBYBKGRG](/stripes/grgkbrbkbkbkbkbybkgrg/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Allen, Christopher Holler
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Allen (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56))
-- pre 1998 — Allen (1998) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2482/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Allen (1998) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=56">record</a>)</li>
+<li>pre 1998 — Allen (1998) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2482/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

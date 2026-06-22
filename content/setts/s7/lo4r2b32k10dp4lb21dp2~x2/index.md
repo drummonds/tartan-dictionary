@@ -2,9 +2,10 @@
 title: "Dignan School of Dancing"
 date: 2023-03-18
 ---
-In pattern [BWBKBRY](/stripes/bwbkbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4dr2b32k10p4n21p2/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBRY](/stripes/bwbkbry/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Dignan School of Dancing
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1997 — Dignan School of Dancing (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938))
-- 1997 — Dignan School of Dancing (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2358/))
-- undated — Dignan Corporate School Tartan Tartan Number: 2358. Earliest known date: 1997 For a Mrs Pam Dignan who owns the Dignan School of Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2358))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Dignan School of Dancing (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=938">record</a>)</li>
+<li>1997 — Dignan School of Dancing (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2358/">record</a>)</li>
+<li>undated — Dignan Corporate School Tartan Tartan Number: 2358. Earliest known date: 1997 For a Mrs Pam Dignan who owns the Dignan School of Dancing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2358">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

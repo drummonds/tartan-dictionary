@@ -2,9 +2,10 @@
 title: "Edinburgh, dress"
 date: 2023-03-18
 ---
-In pattern [RGBBGBGWKW](/stripes/rgbbgbgwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k2ln30g3p3g3p7b14g3r3/)
+(the same proportion at any scale), whose colour order is pattern [RGBBGBGWKW](/stripes/rgbbgbgwkw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

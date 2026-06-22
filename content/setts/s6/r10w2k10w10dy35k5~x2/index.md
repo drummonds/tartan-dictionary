@@ -2,18 +2,20 @@
 title: "Loch Ness"
 date: 2023-03-18
 ---
-In pattern [KGWKWR](/stripes/kgwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10ln2k10ln10t35k5/)
+(the same proportion at any scale), whose colour order is pattern [KGWKWR](/stripes/kgwkwr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2155
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Loch Ness (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2155))
-- undated — Loch Ness Trade Tartan Tartan Number: 1219. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1219))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Loch Ness (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2155">record</a>)</li>
+<li>undated — Loch Ness Trade Tartan Tartan Number: 1219. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1219">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

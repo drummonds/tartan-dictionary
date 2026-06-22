@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gbkbkrk/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GBKBKRK</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/k4o2k46db20k6db3g4~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GBKBKRK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "Redgate (Connecticut) Hunting #2"
 date: 2023-03-18
 ---
-In pattern [BKBWBKBKGKBGBKG](/stripes/bkbwbkbkgkbgbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t5k2n6lr1n6k2t7k16na7k2dr4na2dr4k2na4/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBKBKGKBGBKG](/stripes/bkbwbkbkgkbgbkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10794
 

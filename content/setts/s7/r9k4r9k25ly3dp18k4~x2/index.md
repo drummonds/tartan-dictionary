@@ -2,9 +2,10 @@
 title: "Wounded Warriors Canada"
 date: 2023-03-18
 ---
-In pattern [KBYKRKR](/stripes/kbykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9k4r9k25y3p18k4/)
+(the same proportion at any scale), whose colour order is pattern [KBYKRKR](/stripes/kbykrkr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11215/
 

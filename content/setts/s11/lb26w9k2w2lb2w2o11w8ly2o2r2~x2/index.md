@@ -2,9 +2,10 @@
 title: "Manchester Blues Modern"
 date: 2023-03-18
 ---
-In pattern [RRYWRWWWKWW](/stripes/rrywrwwwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb26w9k2w2lb2w2n11w8y2n2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RRYWRWWWKWW](/stripes/rrywrwwwkww/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10332/
 

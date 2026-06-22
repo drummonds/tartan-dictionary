@@ -2,9 +2,10 @@
 title: "MacDonald from Rawtenstall (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWWWRWW](/stripes/rkwwwrww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb7ln2dr7ln4lb50ln2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWWWRWW](/stripes/rkwwwrww/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2346
 

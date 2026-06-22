@@ -2,18 +2,20 @@
 title: "Lord Laird"
 date: 2023-03-18
 ---
-In pattern [KWKYKYKRW](/stripes/kwkykykrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln26k10dy8k3dy8k10r26ln4/)
+(the same proportion at any scale), whose colour order is pattern [KWKYKYKRW](/stripes/kwkykykrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1973 — Lord Laird (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216))
-- pre 1973 — Lord Laird (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5491/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1973 — Lord Laird (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2216">record</a>)</li>
+<li>pre 1973 — Lord Laird (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5491/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

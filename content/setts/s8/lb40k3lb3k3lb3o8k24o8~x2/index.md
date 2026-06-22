@@ -2,9 +2,10 @@
 title: "O'Sullivan-Beare (Family)"
 date: 2023-03-18
 ---
-In pattern [RKRWKWKW](/stripes/rkrwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n40k3n3k3n3na8k24na8/)
+(the same proportion at any scale), whose colour order is pattern [RKRWKWKW](/stripes/rkrwkwkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5883/
 

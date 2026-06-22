@@ -2,9 +2,10 @@
 title: "Duchess of Fife #2"
 date: 2023-03-18
 ---
-In pattern [GKGKBK](/stripes/gkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g70k26g12k14db3k16/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBK](/stripes/gkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Duchess of Fife #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Duchess of Fife #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003))
-- pre 2002 — Duchess of Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4730/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Duchess of Fife #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1003">record</a>)</li>
+<li>pre 2002 — Duchess of Fife (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4730/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

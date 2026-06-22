@@ -2,18 +2,20 @@
 title: "Hosey"
 date: 2023-03-18
 ---
-In pattern [RBBBGGYGGBBBW](/stripes/rbbbggyggbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5dbb3b20dbb3dg5g20y3g20dg5dbb3b20dbb3ln5/)
+(the same proportion at any scale), whose colour order is pattern [RBBBGGYGGBBBW](/stripes/rbbbggyggbbbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2006 — Hosey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770))
-- November 2006 — Hosey (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7040/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2006 — Hosey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1770">record</a>)</li>
+<li>November 2006 — Hosey (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7040/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

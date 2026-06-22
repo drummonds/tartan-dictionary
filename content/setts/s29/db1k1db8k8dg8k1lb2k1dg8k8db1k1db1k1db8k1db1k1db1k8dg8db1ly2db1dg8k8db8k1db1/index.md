@@ -2,9 +2,10 @@
 title: "Campbell Argyll"
 date: 2023-03-18
 ---
-In pattern [BKBKGBYBGKBKBKBKBKBKGKWKGKBKB](/stripes/bkbkgbybgkbkbkbkbkbkgkwkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k1db8k8g8k1n2k1g8k8db1k1db1k1db8k1db1k1db1k8g8db1y2db1g8k8db8k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGBYBGKBKBKBKBKBKGKWKGKBKB](/stripes/bkbkgbybgkbkbkbkbkbkgkwkgkbkb/).
 
-This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,9 +2,10 @@
 title: "Skene N"
 date: 2023-03-18
 ---
-In pattern [KBKRKGKGKGRK](/stripes/kbkrkgkgkgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4db24k4dr3k4dg24k4t3k4dg24dr3k4/)
+(the same proportion at any scale), whose colour order is pattern [KBKRKGKGKGRK](/stripes/kbkrkgkgkgrk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

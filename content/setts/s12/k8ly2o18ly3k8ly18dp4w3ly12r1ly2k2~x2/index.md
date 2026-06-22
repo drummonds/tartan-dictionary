@@ -2,9 +2,10 @@
 title: "McMillen Memorial, Hugh E. (Personal"
 date: 2023-03-18
 ---
-In pattern [KYRYKYBWYRYK](/stripes/kyrykybwyryk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8y2n18y3k8y18p4w3y12lr1y2k2/)
+(the same proportion at any scale), whose colour order is pattern [KYRYKYBWYRYK](/stripes/kyrykybwyryk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6064/
 

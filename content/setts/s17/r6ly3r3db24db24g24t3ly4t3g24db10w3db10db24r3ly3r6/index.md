@@ -2,9 +2,10 @@
 title: "Stevens (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYRBBGBYBGBWBBRYR](/stripes/ryrbbgbybgbwbbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6y3r3dba24db24g24b3y4b3g24db10w3db10dba24r3y3r6/)
+(the same proportion at any scale), whose colour order is pattern [RYRBBGBYBGBWBBRYR](/stripes/ryrbbgbybgbwbbryr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6664/
 

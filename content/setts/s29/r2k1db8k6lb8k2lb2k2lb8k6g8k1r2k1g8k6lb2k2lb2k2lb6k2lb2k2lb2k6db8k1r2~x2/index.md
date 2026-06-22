@@ -2,18 +2,20 @@
 title: "MacKinlay Dress"
 date: 2023-03-18
 ---
-In pattern [RKBKWKWKWKGKRKGKWKWKWKWKWKBKR](/stripes/rkbkwkwkwkgkrkgkwkwkwkwkwkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k1db8k6n8k2n2k2n8k6g8k1dr2k1g8k6n2k2n2k2n6k2n2k2n2k6db8k1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKWKWKWKGKRKGKWKWKWKWKWKBKR](/stripes/rkbkwkwkwkgkrkgkwkwkwkwkwkbkr/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacKinlay Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541))
-- pre 2002 — MacKinlay Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4564/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacKinlay Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2541">record</a>)</li>
+<li>pre 2002 — MacKinlay Dress (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4564/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

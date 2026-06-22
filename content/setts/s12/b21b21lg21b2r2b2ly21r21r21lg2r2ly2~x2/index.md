@@ -2,9 +2,10 @@
 title: "Rainbow #2"
 date: 2023-03-18
 ---
-In pattern [BBYBRBYRRYRY](/stripes/bbybrbyrryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b21ba21lg21b2r2ba2y21ra21r21lg2ra2y2/)
+(the same proportion at any scale), whose colour order is pattern [BBYBRBYRRYRY](/stripes/bbybrbyrryry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3442
 

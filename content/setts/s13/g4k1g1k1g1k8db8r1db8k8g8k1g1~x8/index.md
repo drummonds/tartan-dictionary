@@ -2,9 +2,10 @@
 title: "Urquhart"
 date: 2023-03-18
 ---
-In pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k1g1k1g1k8db8r1db8k8g8k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBRBKGKGKG](/stripes/gkgkbrbkgkgkg/).
 
-This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 

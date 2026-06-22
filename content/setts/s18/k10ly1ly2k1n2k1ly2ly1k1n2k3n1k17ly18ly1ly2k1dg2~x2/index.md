@@ -2,9 +2,10 @@
 title: "Raznotravie (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKYYYKBKBKYYKBKYYK](/stripes/gkyyykbkbkyykbkyyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10y1lg2k1n2k1lg2y1k1n2k3n1k17lg18y1lg2k1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKYYYKBKBKYYKBKYYK](/stripes/gkyyykbkbkyykbkyyk/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10771/
 

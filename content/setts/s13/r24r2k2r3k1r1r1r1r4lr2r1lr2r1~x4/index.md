@@ -2,9 +2,10 @@
 title: "Princess Mary (Royal)"
 date: 2023-03-18
 ---
-In pattern [RRKRKRRRRYRYR](/stripes/rrkrkrrrryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24dr2k2drb3ka1drb1dra1drb1dr4n2drb1n2dra1/)
+(the same proportion at any scale), whose colour order is pattern [RRKRKRRRRYRYR](/stripes/rrkrkrrrryryr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5449/
 

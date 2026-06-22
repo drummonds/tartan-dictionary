@@ -2,9 +2,10 @@
 title: "Dickie (Glasgow)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5db1k1n1k3n1k1db1k3db1k1g1k16g1k1n1k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKBKGKGKBK](/stripes/kbkbkbkbkbkgkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10367
 

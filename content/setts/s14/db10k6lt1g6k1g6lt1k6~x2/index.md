@@ -2,9 +2,10 @@
 title: "Norwich No.115"
 date: 2023-03-18
 ---
-In pattern [KWGKGWKBKWGKGW](/stripes/kwgkgwkbkwgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba10k6lb1g6k1g6lb1k6/)
+(the same proportion at any scale), whose colour order is pattern [KWGKGWKBKWGKGW](/stripes/kwgkgwkbkwgkgw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3197
 

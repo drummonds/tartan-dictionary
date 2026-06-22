@@ -2,19 +2,21 @@
 title: "Edwards"
 date: 2023-03-18
 ---
-In pattern [RBBBRBRBR](/stripes/rbbbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n37db4n7db4n9db40b2db4n2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBRBRBR](/stripes/rbbbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1088
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2000 — Edwards (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1088))
-- 2002 — Edwards (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5731/))
-- undated — Edwards Welsh Name Tartan Tartan Number: 5731. Earliest known date: 2002 The tartan for this Welsh surname and its variations, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5731))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Edwards (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1088">record</a>)</li>
+<li>2002 — Edwards (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5731/">record</a>)</li>
+<li>undated — Edwards Welsh Name Tartan Tartan Number: 5731. Earliest known date: 2002 The tartan for this Welsh surname and its variations, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5731">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

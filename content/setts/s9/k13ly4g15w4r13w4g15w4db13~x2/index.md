@@ -2,18 +2,20 @@
 title: "Spirit of 1994"
 date: 2023-03-18
 ---
-In pattern [BWGWRWGYK](/stripes/bwgwrwgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13y4g15w4r13w4g15w4b13/)
+(the same proportion at any scale), whose colour order is pattern [BWGWRWGYK](/stripes/bwgwrwgyk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10465
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 12/07/2011 — Spirit of 1994 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10465))
-- 12th July 2011 — Spirit of 1994 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10465/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>12/07/2011 — Spirit of 1994 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10465">record</a>)</li>
+<li>12th July 2011 — Spirit of 1994 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10465/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

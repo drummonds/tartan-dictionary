@@ -2,18 +2,20 @@
 title: "McCamley (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGKRYGGRKGG](/stripes/gggkryggrkgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg29g16k8r4dg16g16y4r4k16ga4g28dg16/)
+(the same proportion at any scale), whose colour order is pattern [GGGKRYGGRKGG](/stripes/gggkryggrkgg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2872
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — McCamley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2872))
-- 2007 — McCamley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7241/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — McCamley (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2872">record</a>)</li>
+<li>2007 — McCamley (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7241/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

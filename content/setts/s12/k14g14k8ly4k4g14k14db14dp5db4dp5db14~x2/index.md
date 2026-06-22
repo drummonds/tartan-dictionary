@@ -2,9 +2,10 @@
 title: "Price-Powell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBKGKYKGK](/stripes/bbbbbkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14g14k8y4k4g14k14db14dp5db4dp5db14/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKGKYKGK](/stripes/bbbbbkgkykgk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10295/
 

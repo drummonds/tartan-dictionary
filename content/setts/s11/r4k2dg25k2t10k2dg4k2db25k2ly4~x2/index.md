@@ -2,9 +2,10 @@
 title: "Ayrton (amended)"
 date: 2023-03-18
 ---
-In pattern [RKGKBKGKBKY](/stripes/rkgkbkgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2g25k2b10k2g4k2ba25k2y4/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBKGKBKY](/stripes/rkgkbkgkbky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=155
 

@@ -2,9 +2,10 @@
 title: "Polaris Military"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYKBKYGKBKB](/stripes/bkbkbkgykbkygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1b1k1b1k7g6dy1k1db1k1dy1g6k7b7k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYKBKYGKBKB](/stripes/bkbkbkgykbkygkbkb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3350
 

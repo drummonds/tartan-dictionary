@@ -2,9 +2,10 @@
 title: "Heather Isle (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBBBGYBR](/stripes/gbbbgybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g80db16dp8p10g8dy1db6n1/)
+(the same proportion at any scale), whose colour order is pattern [GBBBGYBR](/stripes/gbbbgybr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6902/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Heather Isle Weavers
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2006 Sept. — Heather Isle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6902/))
-- undated — Heather Isle Weavers Tartan Tartan Number: 6902. Earliest known date: 2006 Designed in September 2005 for Lochcarron's new range and woven in several different qualities for kilts, ladies' skirts and scarves. The original count from Lochcarron stipulated light blue in place of this green but the woven sample used green so the count has been changed. It may be that the green version is meant to be 'weathered.' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6902))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2006 Sept. — Heather Isle (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6902/">record</a>)</li>
+<li>undated — Heather Isle Weavers Tartan Tartan Number: 6902. Earliest known date: 2006 Designed in September 2005 for Lochcarron's new range and woven in several different qualities for kilts, ladies' skirts and scarves. The original count from Lochcarron stipulated light blue in place of this green but the woven sample used green so the count has been changed. It may be that the green version is meant to be 'weathered.' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6902">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/160 DB32 DP16 P20 G16 DY2 DB12 N/2

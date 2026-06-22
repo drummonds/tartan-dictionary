@@ -2,9 +2,10 @@
 title: "Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKYK](/stripes/bkbkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b50t4b12t23y4t4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYK](/stripes/bkbkyk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2256
 

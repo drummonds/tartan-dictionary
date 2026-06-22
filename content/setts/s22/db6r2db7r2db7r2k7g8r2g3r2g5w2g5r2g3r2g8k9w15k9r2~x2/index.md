@@ -2,9 +2,10 @@
 title: "MacDonell of Glengarry, dress"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6r2b7r2b7r2k7g8r2g3r2g5ln2g5r2g3r2g8k9ln15k9r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

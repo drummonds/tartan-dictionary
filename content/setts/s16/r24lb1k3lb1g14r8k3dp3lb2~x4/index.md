@@ -2,9 +2,10 @@
 title: "Leach Family Tartan Tartan Number: 2356. Earliest known date: pre 1997 Originally the name given to physicians and has been in Scotland for centuries. Can be worn by all people with all spellings of the name Leach. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWKWGRKBWBKRGWKW](/stripes/rwkwgrkbwbkrgwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24n1k3n1g14dr8k3p3n2/)
+(the same proportion at any scale), whose colour order is pattern [RWKWGRKBWBKRGWKW](/stripes/rwkwgrkbwbkrgwkw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2356
 

@@ -2,9 +2,10 @@
 title: "Russell, Ralph T. (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKWRKRW](/stripes/wkwrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1ln2r10k4r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKWRKRW](/stripes/wkwrkrw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7950/
 

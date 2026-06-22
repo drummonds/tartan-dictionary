@@ -2,9 +2,10 @@
 title: "Rogues, The (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBKY](/stripes/rbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b12k50y3/)
+(the same proportion at any scale), whose colour order is pattern [RBKY](/stripes/rbky/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10749/
 

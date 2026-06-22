@@ -2,9 +2,10 @@
 title: "All Ireland Red"
 date: 2023-03-18
 ---
-In pattern [RBGRGRGRGRGRBGR](/stripes/rbgrgrgrgrgrbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6lg2dba2r30g2r2ga4r2g2r1g20r1lg2dba2r4/)
+(the same proportion at any scale), whose colour order is pattern [RBGRGRGRGRGRBGR](/stripes/rbgrgrgrgrgrbgr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=54
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - All Irish Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — All Ireland Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=54))
-- 1997 — All Ireland Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4067/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — All Ireland Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=54">record</a>)</li>
+<li>1997 — All Ireland Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4067/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

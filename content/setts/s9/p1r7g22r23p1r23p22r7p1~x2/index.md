@@ -2,9 +2,10 @@
 title: "Lovat, or Fraser"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p1r7g22r23p1r23p22r7p1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "First"
 date: 2023-03-18
 ---
-In pattern [BRBRBKBW](/stripes/brbrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p1r4p1r1p12k6db16ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKBW](/stripes/brbrbkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1191
 

@@ -2,9 +2,10 @@
 title: "Murray of Tullibardine - Artefact"
 date: 2023-03-18
 ---
-In pattern [GRKRGRGRKRKRGRKRKRKRK](/stripes/grkrgrgrkrkrgrkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r3db3r4db22r4db3r3dg4r3db3r44db30r10dg10r40dg30r27db10r14dg3/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRGRKRKRGRKRKRKRK](/stripes/grkrgrgrkrkrgrkrkrkrk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3071
 

@@ -2,9 +2,10 @@
 title: "Livingstone"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14r4g2r2g2r4g19r30g2r9/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2134
 

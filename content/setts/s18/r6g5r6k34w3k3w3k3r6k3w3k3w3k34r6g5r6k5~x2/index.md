@@ -2,9 +2,10 @@
 title: "Woodberry Forest School"
 date: 2023-03-18
 ---
-In pattern [KRGRKWKWKRKWKWKRGR](/stripes/krgrkwkwkrkwkwkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g5r6k34w3k3w3k3r6k3w3k3w3k34r6g5r6k5/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKWKWKRKWKWKRGR](/stripes/krgrkwkwkrkwkwkrgr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4780
 

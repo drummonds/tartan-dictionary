@@ -2,9 +2,10 @@
 title: "Lovat or Fraser Clan Tartan Tartan Number: 400. Earliest known date: 1820 The Scottish Tartans Society archives contain several queries on this name. J. Scarlett lists this sett under Fraser (Frasers of Lovat) with the comment. \"The pattern is reputed to have been woven by Wilson's c.1820.\" (STS archive). 18 year old Simon Fraser became 25th chief of the Frasers of Lovat in March 1995, on the death of his grandfather, Lord Lovat, the famous war veteran. (Scotsman 17 March 1995) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p1r7g22r23p1r23p22r7p1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRB](/stripes/brbrbrgrb/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=400
 

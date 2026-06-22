@@ -2,9 +2,10 @@
 title: "Henkel"
 date: 2023-03-18
 ---
-In pattern [GKRKWKRKGK](/stripes/gkrkwkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n28k3r22k8w3k8r22k3n28k3/)
+(the same proportion at any scale), whose colour order is pattern [GKRKWKRKGK](/stripes/gkrkwkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1686
 

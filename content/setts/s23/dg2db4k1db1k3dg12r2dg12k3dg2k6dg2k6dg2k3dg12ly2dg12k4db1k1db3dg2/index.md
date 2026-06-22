@@ -2,9 +2,10 @@
 title: "Stewart Hunting Early"
 date: 2023-03-18
 ---
-In pattern [GBKBKGRGKGKGKGKGYGKBKBG](/stripes/gbkbkgrgkgkgkgkgygkbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2db4k1db1k3g12r2g12k3g2k6g2k6g2k3g12y2g12k4db1k1db3g2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKGRGKGKGKGKGYGKBKBG](/stripes/gbkbkgrgkgkgkgkgygkbkbg/).
 
-This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

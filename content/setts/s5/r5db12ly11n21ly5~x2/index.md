@@ -2,9 +2,10 @@
 title: "Inspiration"
 date: 2023-03-18
 ---
-In pattern [RBYBY](/stripes/rbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db12y11n21ya5/)
+(the same proportion at any scale), whose colour order is pattern [RBYBY](/stripes/rbyby/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10893/
 

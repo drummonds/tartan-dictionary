@@ -3,9 +3,10 @@ title: "Unnamed C18th - Cf 4445"
 date: 2023-03-18
 slug_full: "r2k2r16dp6w1dp2t2w1t2dp2w1g10lg3w1dp3t2w1r3w1t2dp4w1lg3g10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1r10m5w1m5r10w1dp2t2w1t2dp2w1dp24w1dp7w1dp7w1dp24w1dp2t2w1t2dp2w1g10lg3w1dp4t2w1r3w1t2dp3w1~x2"
 ---
-In pattern [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k2r16dp6w1dp2b2w1b2dp2w1ga10g3w1dp3b2w1r3w1b2dp4w1g3ga10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1r10lr5w1lr5r10w1dp2b2w1b2dp2w1dp24w1dp7w1dp7w1dp24w1dp2b2w1b2dp2w1ga10g3w1dp4b2w1r3w1b2dp3w1/)
+(the same proportion at any scale), whose colour order is pattern [RKRBWBBWBBWGYWBBWRWBBWYGWBBWBBWBWBWBWBWBBWBBWRRWRRWBBWBBWBWBWBWBWBBWBBWGYWBBWRWBBW](/stripes/rkrbwbbwbbwgywbbwrwbbwygwbbwbbwbwbwbwbwbbwbbwrrwrrwbbwbbwbwbwbwbwbbwbbwgywbbwrwbbw/).
 
-This was sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
+Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4415
 

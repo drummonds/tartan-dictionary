@@ -2,18 +2,20 @@
 title: "Seton"
 date: 2023-03-18
 ---
-In pattern [GYGRBRKRGR](/stripes/gygrbrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6n1dg12dr4db4dr2k4dr32dg1dr2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBRKRGR](/stripes/gygrbrkrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Seton (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Seton (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Seton (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Seton (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/12 N2 DG24 DR8 DB8 DR4 K8 DR64 DG2 DR/4

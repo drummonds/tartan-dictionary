@@ -2,9 +2,10 @@
 title: "MacCord (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRBRBBW](/stripes/grbrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6r2db1r3db16n20ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBBW](/stripes/grbrbbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4048/
 

@@ -2,9 +2,10 @@
 title: "York Puppet"
 date: 2023-03-18
 ---
-In pattern [BKYRYRYWKYKRWRBRW](/stripes/bkyryrywkykrwrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p11k1o4r1o1r1o3ln2k2y2k3lt2ln3lt3b3lt2ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKYRYRYWKYKRWRBRW](/stripes/bkyryrywkykrwrbrw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

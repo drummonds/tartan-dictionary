@@ -2,9 +2,10 @@
 title: "Etienne, Paschal Tache Sir..."
 date: 2023-03-18
 ---
-In pattern [WRRRGBGY](/stripes/wrrrgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3lt1r29lt16g23b3g3y2/)
+(the same proportion at any scale), whose colour order is pattern [WRRRGBGY](/stripes/wrrrgbgy/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

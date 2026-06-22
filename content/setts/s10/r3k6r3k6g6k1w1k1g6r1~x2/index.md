@@ -2,9 +2,10 @@
 title: "MacDiarmid"
 date: 2023-03-18
 ---
-In pattern [RGKWKGKRKR](/stripes/rgkwkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k6r3k6g6k1ln1k1g6r1/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKGKRKR](/stripes/rgkwkgkrkr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

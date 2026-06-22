@@ -2,9 +2,10 @@
 title: "Campbell of Breadalbane"
 date: 2023-03-18
 ---
-In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k2db2k2db2k14y1g22y1k14db12k2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 

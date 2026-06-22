@@ -2,9 +2,10 @@
 title: "Unidentified #60"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRRRR](/stripes/grgrbrbrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr50lt3dr4lt4db1lt1db1lt7g7lt1g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRRRR](/stripes/grgrbrbrrrr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4261
 

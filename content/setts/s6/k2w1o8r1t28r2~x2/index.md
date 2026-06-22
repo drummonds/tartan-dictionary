@@ -2,9 +2,10 @@
 title: "Norris Hunting"
 date: 2023-03-18
 ---
-In pattern [KWRRBR](/stripes/kwrrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ln1n8dr1b28dr2/)
+(the same proportion at any scale), whose colour order is pattern [KWRRBR](/stripes/kwrrbr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Norris Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1999 — Norris Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151))
-- 1999 — Norris Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5944/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Norris Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3151">record</a>)</li>
+<li>1999 — Norris Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5944/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

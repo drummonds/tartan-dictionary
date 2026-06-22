@@ -2,9 +2,10 @@
 title: "Menzies Dress Blue & White"
 date: 2023-03-18
 ---
-In pattern [WBBBBBBWBWBW](/stripes/wbbbbbbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b1ln2b3ln23ba5b3ba1b1ba1b19ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBBBWBWBW](/stripes/wbbbbbbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2927
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Menzies, dress Blue & White
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Menzies Dress Blue & White (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2927))
-- undated — Menzies, dress Blue & White (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Menzies Dress Blue & White (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2927">record</a>)</li>
+<li>undated — Menzies, dress Blue & White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

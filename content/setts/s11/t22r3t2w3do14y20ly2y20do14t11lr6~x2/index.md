@@ -2,9 +2,10 @@
 title: "Wisconsin"
 date: 2023-03-18
 ---
-In pattern [BRBWBGYGBBY](/stripes/brbwbgygbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22lr3b2w3t14g20ly2g20t14b11n6/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBGYGBBY](/stripes/brbwbgygbby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4765
 

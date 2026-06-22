@@ -2,9 +2,10 @@
 title: "Kapasi (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKGKGKGKWKRGY](/stripes/wkgkgkgkwkrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2g6r12k3w3k3g16k2g2k2g2k12lp2/)
+(the same proportion at any scale), whose colour order is pattern [WKGKGKGKWKRGY](/stripes/wkgkgkgkwkrgy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6200/
 

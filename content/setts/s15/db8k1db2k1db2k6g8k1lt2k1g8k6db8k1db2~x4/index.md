@@ -2,9 +2,10 @@
 title: "Rogers Family (Kilkeel) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1db2k1db2k6g8k1lb2k1g8k6db8k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10757
 

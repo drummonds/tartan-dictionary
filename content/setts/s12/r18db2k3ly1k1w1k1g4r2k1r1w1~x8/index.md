@@ -2,9 +2,10 @@
 title: "Stewart/Stuart, Royal #2"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18dba2k3y1k1w1k1g4r2k1r1w1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3958
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart/Stuart, Royal #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1800 — Stewart/Stuart, Royal #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3958))
-- circa 1800 — Royal Stewart (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1370/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Stewart/Stuart, Royal #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3958">record</a>)</li>
+<li>circa 1800 — Royal Stewart (Universal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1370/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gwgggyg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GWGGGYG</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/g14ly7g14dg50g64w6g7/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GWGGGYG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

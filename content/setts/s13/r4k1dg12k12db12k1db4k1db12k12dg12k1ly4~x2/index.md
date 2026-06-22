@@ -2,9 +2,10 @@
 title: "MacEwan"
 date: 2023-03-18
 ---
-In pattern [RKGKBKBKBKGKY](/stripes/rkgkbkbkbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k1dg12k12db12k1db4k1db12k12dg12k1lg4/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBKBKBKGKY](/stripes/rkgkbkbkbkgky/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

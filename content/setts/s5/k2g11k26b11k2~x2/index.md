@@ -2,9 +2,10 @@
 title: "Campbell of Loch Awe"
 date: 2023-03-18
 ---
-In pattern [KBKGK](/stripes/kbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g11k26b11k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKGK](/stripes/kbkgk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=521
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell of Loch Awe
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1770 — Campbell of Loch Awe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=521))
-- 1770 — Campbell of Loch Awe (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/13/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1770 — Campbell of Loch Awe (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=521">record</a>)</li>
+<li>1770 — Campbell of Loch Awe (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/13/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

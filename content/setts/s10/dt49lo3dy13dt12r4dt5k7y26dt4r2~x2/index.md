@@ -2,9 +2,10 @@
 title: "State Seal of Arkansas (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BYGBRBKGBR](/stripes/bygbrbkgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db49dy3t13db12r4db5k7g26db4r2/)
+(the same proportion at any scale), whose colour order is pattern [BYGBRBKGBR](/stripes/bygbrbkgbr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8618/
 

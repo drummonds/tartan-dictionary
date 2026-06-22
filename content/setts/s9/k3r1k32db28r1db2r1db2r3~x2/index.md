@@ -2,18 +2,20 @@
 title: "Angus"
 date: 2023-03-18
 ---
-In pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1k32b28r1b2r1b2r3/)
+(the same proportion at any scale), whose colour order is pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Angus (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Angus District Tartan Tartan Number: 1179. Earliest known date: pre 1906 It is not clear whether Angus tartan was intended as a District or a Family tartan and as a consequence it has been used as both. It is now firmly established as a tartan for all those people having a connection with the area. The name means 'The Only One', possibly refering to the Angus King of Dalriada in western Scotland in the ninth century. The name is associated with Clan MacInnes, who also claim descent from the Dalriada Scots. The Earldom of Angus was held by the Stewarts and Douglases and is now vested in the Dukedom of Hamilton. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1179))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Angus (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Angus District Tartan Tartan Number: 1179. Earliest known date: pre 1906 It is not clear whether Angus tartan was intended as a District or a Family tartan and as a consequence it has been used as both. It is now firmly established as a tartan for all those people having a connection with the area. The name means 'The Only One', possibly refering to the Angus King of Dalriada in western Scotland in the ninth century. The name is associated with Clan MacInnes, who also claim descent from the Dalriada Scots. The Earldom of Angus was held by the Stewarts and Douglases and is now vested in the Dukedom of Hamilton. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1179">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 R2 K64 B56 R2 B4 R2 B4 R/6

@@ -2,19 +2,21 @@
 title: "Grey Pride of Scotland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8n2k2n2k14n2k2n1k14n26k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7519/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2008 — Grey Pride of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7519/))
-- undated — Grey Pride of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557))
-- undated — Grey Pride of Scotland Fashion Tartan Tartan Number: 7519. Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Grey Pride of Scotland (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7519/">record</a>)</li>
+<li>undated — Grey Pride of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5557">record</a>)</li>
+<li>undated — Grey Pride of Scotland Fashion Tartan Tartan Number: 7519. Earliest known date: pre 2008 Count and sample from Lochcarron. Grey is in fact a grey/black mixture (marl) which can't be replicated with this software. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7519">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

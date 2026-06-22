@@ -2,18 +2,20 @@
 title: "Glendale"
 date: 2023-03-18
 ---
-In pattern [GWGWGYKYWR](/stripes/gwgwgykywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t5ln1t5ln1g6y1k1y1lb8r1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGYKYWR](/stripes/gwgwgykywr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/08/2002 — Glendale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408))
-- 2006 October — Glendale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7020/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/08/2002 — Glendale (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1408">record</a>)</li>
+<li>2006 October — Glendale (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7020/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

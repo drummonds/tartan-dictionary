@@ -2,9 +2,10 @@
 title: "Angus, Red (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k27r13k27r2k2r2k2r2k2r2k2r2k2r2k2n6k3n6k3n6k3n6k3n6/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRKRKRKWKWKWKWKW](/stripes/krkrkrkrkrkrkrkwkwkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1199/
 

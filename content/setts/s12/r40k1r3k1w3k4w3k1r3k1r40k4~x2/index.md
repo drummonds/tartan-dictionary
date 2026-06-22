@@ -2,18 +2,20 @@
 title: "Salt Lake County"
 date: 2023-03-18
 ---
-In pattern [KRKRKWKWKRKR](/stripes/krkrkwkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra40k1dra3k1ln3k4ln3k1dra3k1dra40k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKWKWKRKR](/stripes/krkrkwkwkrkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/1996 — Salt Lake County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643))
-- undated — Salt Lake County District Tartan Tartan Number: 2394. Earliest known date: April 1996 Salt Lake County was founded in 1850 and this tartan was publicly accepted on 18th Setpember 1996. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2394))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/1996 — Salt Lake County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3643">record</a>)</li>
+<li>undated — Salt Lake County District Tartan Tartan Number: 2394. Earliest known date: April 1996 Salt Lake County was founded in 1850 and this tartan was publicly accepted on 18th Setpember 1996. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2394">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

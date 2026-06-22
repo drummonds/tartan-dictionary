@@ -2,9 +2,10 @@
 title: "Morddyn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5b13n6ln1lg5n5b24n5ln2r1ln2g9lg18g9b2n4b2ln2r3ln2n12lg6g24lg6b2/)
+(the same proportion at any scale), whose colour order is pattern [BYGYWWRWBWBGYGWRWWBWYWWBW](/stripes/bygywwrwbwbgygwrwwbwywwbw/).
 
-This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10317/
 

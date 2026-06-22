@@ -2,9 +2,10 @@
 title: "Drymen"
 date: 2023-03-18
 ---
-In pattern [GRWRWWWRGRGRGKGKGKR](/stripes/grwrwwwrgrgrgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8lt3n3lt3w28n4w8lt12g3lt3g3lt3g8k3g3k3g3k12r4/)
+(the same proportion at any scale), whose colour order is pattern [GRWRWWWRGRGRGKGKGKR](/stripes/grwrwwwrgrgrgkgkgkr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=997
 

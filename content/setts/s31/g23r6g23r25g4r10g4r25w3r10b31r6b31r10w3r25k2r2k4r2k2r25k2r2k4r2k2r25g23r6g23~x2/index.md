@@ -2,9 +2,10 @@
 title: "Kinnoull"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRWRBRBRWRKRKRKRKRKRKRGRG](/stripes/grgrgrgrwrbrbrwrkrkrkrkrkrkrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g23r6g23r25g4r10g4r25ln3r10b31r6b31r10ln3r25k2r2k4r2k2r25k2r2k4r2k2r25g23r6g23/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRWRBRBRWRKRKRKRKRKRKRGRG](/stripes/grgrgrgrwrbrbrwrkrkrkrkrkrkrgrg/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

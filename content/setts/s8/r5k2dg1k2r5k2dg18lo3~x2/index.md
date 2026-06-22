@@ -2,9 +2,10 @@
 title: "Midpac Tissue (non woven)"
 date: 2023-03-18
 ---
-In pattern [RKGKRKGY](/stripes/rkgkrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k2g1k2r5k2g18dy3/)
+(the same proportion at any scale), whose colour order is pattern [RKGKRKGY](/stripes/rkgkrkgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6957/
 

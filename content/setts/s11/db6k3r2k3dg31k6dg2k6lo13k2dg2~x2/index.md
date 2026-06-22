@@ -2,9 +2,10 @@
 title: "Rourke-Frew Hunting"
 date: 2023-03-18
 ---
-In pattern [BKRKGKGKYKG](/stripes/bkrkgkgkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k3r2k3dg31k6dg2k6dy13k2dg2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKGKGKYKG](/stripes/bkrkgkgkykg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10982/
 

@@ -2,9 +2,10 @@
 title: "Wombles Corporate Tartan Tartan Number: 1783. Earliest known date: pre 2003 Wombles International, of Jacob's Well Mews, London, patented this design which is a variant of the Jacobite tartan. Wombles are television puppet characters. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5db2ln1o8ln1db2r2ln1r2db2ln1g8ln1db2ln5/)
+(the same proportion at any scale), whose colour order is pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1783
 

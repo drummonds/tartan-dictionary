@@ -2,9 +2,10 @@
 title: "Nike Golf Dark"
 date: 2023-03-18
 ---
-In pattern [RKBKBKBKBRBRBRBRW](/stripes/rkbkbkbkbrbrbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k20n1k2n1k2n2k2n5na2n2na2n2na3n2na10w3/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKBKBRBRBRBRW](/stripes/rkbkbkbkbrbrbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10569
 

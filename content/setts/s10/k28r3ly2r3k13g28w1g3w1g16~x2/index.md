@@ -2,9 +2,10 @@
 title: "Bomb Disposal"
 date: 2023-03-18
 ---
-In pattern [GWGWGKRYRK](/stripes/gwgwgkryrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k28dr3y2dr3k13g28ln1g3ln1g16/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGKRYRK](/stripes/gwgwgkryrk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11225/
 

@@ -2,9 +2,10 @@
 title: "Birrell (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dpa34k2dp4lb2k2lb2dp4k2hg16k2dpa5drr2dp2drr2dpa5k2dp8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKKKBKKKBKB](/stripes/bkbkbkbkkkbkkkbkb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3692/
 

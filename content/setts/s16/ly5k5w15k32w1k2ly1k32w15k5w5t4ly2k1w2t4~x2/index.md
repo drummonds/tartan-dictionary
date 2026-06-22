@@ -2,9 +2,10 @@
 title: "Deudon (2015)"
 date: 2023-03-18
 ---
-In pattern [BWKYBWKWKYKWKWKY](/stripes/bwkybwkwkykwkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5k5w15k32w1k2y1k32w15k5w5b4y2k1w2b4/)
+(the same proportion at any scale), whose colour order is pattern [BWKYBWKWKYKWKWKY](/stripes/bwkybwkwkykwkwky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11392
 

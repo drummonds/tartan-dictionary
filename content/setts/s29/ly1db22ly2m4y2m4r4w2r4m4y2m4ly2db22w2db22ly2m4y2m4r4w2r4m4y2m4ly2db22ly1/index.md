@@ -2,9 +2,10 @@
 title: "Wisconsin in Scotland"
 date: 2023-03-18
 ---
-In pattern [YBYRGRRWRRGRYBWBYRGRRWRRGRYBY](/stripes/ybyrgrrwrrgrybwbyrgrrwrrgryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1b22y2dr4n2dr4r4ln2r4dr4n2dr4y2b22ln2b22y2dr4n2dr4r4ln2r4dr4n2dr4y2b22y1/)
+(the same proportion at any scale), whose colour order is pattern [YBYRGRRWRRGRYBWBYRGRRWRRGRYBY](/stripes/ybyrgrrwrrgrybwbyrgrrwrrgryby/).
 
-This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

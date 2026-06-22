@@ -2,9 +2,10 @@
 title: "Aurora House Check"
 date: 2023-03-18
 ---
-In pattern [BYBKGKBWYKY](/stripes/bybkgkbwyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40b3db11k7lg22k7db3w3n10k32y13/)
+(the same proportion at any scale), whose colour order is pattern [BYBKGKBWYKY](/stripes/bybkgkbwyky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11514
 

@@ -2,9 +2,10 @@
 title: "Princess Beatrice, dress"
 date: 2023-03-18
 ---
-In pattern [KRKRWBWRGRGRKGKGKGY](/stripes/krkrwbwrgrgrkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r1k1r2ln24b2ln3r8g2r2g2r2k8g2k2g2k2g8y2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRWBWRGRGRKGKGKGY](/stripes/krkrwbwrgrgrkgkgkgy/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Princess Beatrice, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Princess Beatrice, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Princess Beatrice Dress Royal Family Tartan Tartan Number: 1206. Earliest known date: c.1885 Possibly designed for the wedding of Princess Beatrice, youngest daughter of Queen Victoria, to Prince Henry of Battenburg in 1885 or as a commemorative tartan of that occasion. Records of the sett first appeared in the lists of Ross and Johnston, c.1930. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1206))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Princess Beatrice, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Princess Beatrice Dress Royal Family Tartan Tartan Number: 1206. Earliest known date: c.1885 Possibly designed for the wedding of Princess Beatrice, youngest daughter of Queen Victoria, to Prince Henry of Battenburg in 1885 or as a commemorative tartan of that occasion. Records of the sett first appeared in the lists of Ross and Johnston, c.1930. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1206">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 R2 K2 R4 LN48 B4 LN6 R16 G4 R4 G4 R4 K16 G4 K4 G4 K4 G16 Y/4

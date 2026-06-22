@@ -2,9 +2,10 @@
 title: "Ryukoku University Heian Junior High School"
 date: 2023-03-18
 ---
-In pattern [KBBYBYBYKW](/stripes/kbbybybykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp4k16n5na8n2p2n2p2na8k3/)
+(the same proportion at any scale), whose colour order is pattern [KBBYBYBYKW](/stripes/kbbybybykw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10716
 

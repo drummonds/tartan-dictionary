@@ -2,9 +2,10 @@
 title: "Tartan Army"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWKWKRYRKWKWKBKB](/stripes/bkbkbkwkwkryrkwkwkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22db2b4db2b4db8ln2db2ln2db10r5y2r5db10ln2db2ln2db8b18db2b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWKWKRYRKWKWKBKB](/stripes/bkbkbkwkwkryrkwkwkbkb/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

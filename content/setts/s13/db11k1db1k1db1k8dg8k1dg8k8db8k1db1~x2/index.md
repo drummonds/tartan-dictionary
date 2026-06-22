@@ -2,9 +2,10 @@
 title: "Campbell"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k1db1k1db1k8dg8k1dg8k8db8k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBKB](/stripes/bkbkbkgkgkbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Black Watch Regimental Tartan Tartan Number: 207. Earliest known date: 1739 This sett is based on Logans 'Sutherland' tartan. Various thread counts appear in Wilsons pattern books of roughly the same proportions. Documents show that this was the tartan appointed for the Highland Companies in 1725 and later for the Black Watch in 1739. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=207))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Black Watch Regimental Tartan Tartan Number: 207. Earliest known date: 1739 This sett is based on Logans 'Sutherland' tartan. Various thread counts appear in Wilsons pattern books of roughly the same proportions. Documents show that this was the tartan appointed for the Highland Companies in 1725 and later for the Black Watch in 1739. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=207">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/22 K2 DB2 K2 DB2 K16 DG16 K2 DG16 K16 DB16 K2 DB/2

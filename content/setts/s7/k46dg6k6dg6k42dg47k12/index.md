@@ -2,9 +2,10 @@
 title: "Taiheiyo Club, Inc."
 date: 2023-03-18
 ---
-In pattern [KGKGKGK](/stripes/kgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k46dg6k6dg6k42dg47k12/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGK](/stripes/kgkgkgk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Taiheiyo Club, Inc.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/12/2014 — Taiheiyo Club, Inc. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210))
-- 2015 — Taiheiyo Club, Inc (warp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11210/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/12/2014 — Taiheiyo Club, Inc. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11210">record</a>)</li>
+<li>2015 — Taiheiyo Club, Inc (warp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11210/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

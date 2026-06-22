@@ -2,9 +2,10 @@
 title: "Allen, Nicholas (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBKR](/stripes/kbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k24b10k5b10k5/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKR](/stripes/kbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11230
 

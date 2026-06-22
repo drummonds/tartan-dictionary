@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kyky/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KYKY</span></div>
+
 It is a 4 stripe tartan.
 
-![Woven sample](/setts/s4/k34ly3k34ly26~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KYKY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

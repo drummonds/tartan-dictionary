@@ -2,18 +2,20 @@
 title: "Tommy"
 date: 2023-03-18
 ---
-In pattern [RKRKBWBKWRWKW](/stripes/rkrkbwbkwrwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do4k1do5k4db11ln2db11k4ln2do2ln15k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKBWBKWRWKW](/stripes/rkrkbwbkwrwkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2001 — Tommy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137))
-- pre 2002 — Tommy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3973/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2001 — Tommy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4137">record</a>)</li>
+<li>pre 2002 — Tommy (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3973/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Miyuki"
 date: 2023-03-18
 ---
-In pattern [BYBRBYBYBR](/stripes/bybrbybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40dy1db1r9db1dy1db6dy1db1r9/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBYBYBR](/stripes/bybrbybybr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2967
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Miyuki #1
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Miyuki (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2967))
-- 1998 — Miyuki #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2587/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Miyuki (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2967">record</a>)</li>
+<li>1998 — Miyuki #1 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2587/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

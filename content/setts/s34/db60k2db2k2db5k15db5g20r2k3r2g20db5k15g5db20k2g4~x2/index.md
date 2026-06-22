@@ -2,9 +2,10 @@
 title: "Whitworth (2003)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK](/stripes/bkbkbkbgrkrgbkgbkgkbgkbgrkrgbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60yy2db2yy2db5k15db5g20r2k3r2g20db5k15g5db20yy2g4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBGRKRGBKGBKGKBGKBGRKRGBKBKBK](/stripes/bkbkbkbgrkrgbkgbkgkbgkbgrkrgbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4620
 

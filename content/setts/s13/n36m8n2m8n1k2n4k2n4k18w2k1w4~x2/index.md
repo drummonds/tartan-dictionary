@@ -2,9 +2,10 @@
 title: "Diamond Jubilee"
 date: 2023-03-18
 ---
-In pattern [BRBRBKBKBKWKW](/stripes/brbrbkbkbkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n36lr8n2lr8n1g2n4g2n4g18w2g1w4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKBKBKWKW](/stripes/brbrbkbkbkwkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10426
 

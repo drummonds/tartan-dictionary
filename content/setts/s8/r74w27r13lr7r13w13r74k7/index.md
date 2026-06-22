@@ -2,9 +2,10 @@
 title: "Cornell (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRWRYRWR](/stripes/krwryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr74ln27dr13n7dr13ln13dr74k7/)
+(the same proportion at any scale), whose colour order is pattern [KRWRYRWR](/stripes/krwryrwr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7829/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cornell #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Cornell (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7829/))
-- undated — Cornell #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5783))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Cornell (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7829/">record</a>)</li>
+<li>undated — Cornell #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5783">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

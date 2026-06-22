@@ -2,9 +2,10 @@
 title: "Wupper"
 date: 2023-03-18
 ---
-In pattern [BYBYBKBGBKWKRKWKBGBKBYBYBY](/stripes/bybybkbgbkwkrkwkbgbkbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2y1db2y1db3k6db18g1db18k4w1k4r2k4w1k4db18g1db18k6db3y1db2y1db2y2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBKBGBKWKRKWKBGBKBYBYBY](/stripes/bybybkbgbkwkrkwkbgbkbybyby/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4786
 

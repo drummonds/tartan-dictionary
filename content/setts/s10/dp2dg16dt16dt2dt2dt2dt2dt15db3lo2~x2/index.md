@@ -2,9 +2,10 @@
 title: "Brydon (Scottish Borders)"
 date: 2023-03-18
 ---
-In pattern [BGBBBBBBBY](/stripes/bgbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2db3dn15k2dn2k2dn2k16dg16p2/)
+(the same proportion at any scale), whose colour order is pattern [BGBBBBBBBY](/stripes/bgbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10953
 

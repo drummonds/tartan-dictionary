@@ -2,9 +2,10 @@
 title: "Buchanan #3"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2g12k1b2k1y3k1y3k1b2k1r12ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=416
 

@@ -2,9 +2,10 @@
 title: "Cox"
 date: 2023-03-18
 ---
-In pattern [GYGYWYWGGGWGGGGGWYWYGW](/stripes/gygywywgggwgggggwywygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb3dg12dy3lp3dy3lp4dg12n3dg3n3dg28ln3dg3n3dg12lp4dy3lp3dy3dg12dy4dg2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYWYWGGGWGGGGGWYWYGW](/stripes/gygywywgggwgggggwywygw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5941
 

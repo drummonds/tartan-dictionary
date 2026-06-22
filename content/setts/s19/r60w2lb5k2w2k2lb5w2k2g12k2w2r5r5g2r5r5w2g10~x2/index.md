@@ -2,9 +2,10 @@
 title: "MacBean (Lord Lyon version)"
 date: 2023-03-18
 ---
-In pattern [GWRRGRRWKGKWWKWKWWR](/stripes/gwrrgrrwkgkwwkwkwwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr60w2lp5k2w2k2lp5w2k2g12k2w2dr5r5g2r5dr5w2g10/)
+(the same proportion at any scale), whose colour order is pattern [GWRRGRRWKGKWWKWKWWR](/stripes/gwrrgrrwkgkwwkwkwwr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/951/
 

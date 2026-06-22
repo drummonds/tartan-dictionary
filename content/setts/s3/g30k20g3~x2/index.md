@@ -2,18 +2,20 @@
 title: "Scotch Tape (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKG](/stripes/gkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30k20g3/)
+(the same proportion at any scale), whose colour order is pattern [GKG](/stripes/gkg/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7782/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Scotch Tape (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7782/))
-- undated — Scotch Tape (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5751))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Scotch Tape (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7782/">record</a>)</li>
+<li>undated — Scotch Tape (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5751">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

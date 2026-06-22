@@ -2,9 +2,10 @@
 title: "Morag"
 date: 2023-03-18
 ---
-In pattern [YBWYWYWBYYYBY](/stripes/ybwywywbyyyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b64n4b4lt4b4n26lr4lt1lr2lt1lr32n2lt4/)
+(the same proportion at any scale), whose colour order is pattern [YBWYWYWBYYYBY](/stripes/ybwywywbyyyby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4883
 

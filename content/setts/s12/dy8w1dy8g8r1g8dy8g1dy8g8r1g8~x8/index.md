@@ -2,9 +2,10 @@
 title: "MacKinnon Hunting #3"
 date: 2023-03-18
 ---
-In pattern [GRGGGGGRGGWG](/stripes/grgggggrggwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1g8t8g1t8g8r1g8t8ln1t8/)
+(the same proportion at any scale), whose colour order is pattern [GRGGGGGRGGWG](/stripes/grgggggrggwg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2557
 

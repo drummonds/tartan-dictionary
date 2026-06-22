@@ -2,9 +2,10 @@
 title: "Glasgow District Tartan Tartan Number: 534. Earliest known date: pre 1992 Originally from the Sindex cards and now woven by House of Edgar in their Old and Rare collection. Need to check if it actually appears in the Old and Rare book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRGRBRGR](/stripes/brgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr10g14lr3db14lr10g14lr3db4/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRGR](/stripes/brgrbrgr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=534
 

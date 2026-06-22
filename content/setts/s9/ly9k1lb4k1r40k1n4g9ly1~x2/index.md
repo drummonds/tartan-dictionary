@@ -2,9 +2,10 @@
 title: "Kings Mountain 1780 (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [YGBKRKWKY](/stripes/ygbkrkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y9k1lb4k1r40k1n4g9y1/)
+(the same proportion at any scale), whose colour order is pattern [YGBKRKWKY](/stripes/ygbkrkwky/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10285/
 

@@ -2,9 +2,10 @@
 title: "Cunningham D"
 date: 2023-03-18
 ---
-In pattern [KRKRKRW](/stripes/krkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1k30r28k1r1n3/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRW](/stripes/krkrkrw/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

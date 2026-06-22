@@ -2,9 +2,10 @@
 title: "Skye"
 date: 2023-03-18
 ---
-In pattern [BKRKWKRBKWKBRKWKRK](/stripes/bkrkwkrbkwkbrkwkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na50k12nb2k2w2k2nb12na7k7w2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKWKRBKWKBRKWKRK](/stripes/bkrkwkrbkwkbrkwkrk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3811
 

@@ -2,9 +2,10 @@
 title: "Prince Charles Cloak"
 date: 2023-03-18
 ---
-In pattern [RBYGRBBY](/stripes/rbygrbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr48db3lg1dg14dr8db3b4n1/)
+(the same proportion at any scale), whose colour order is pattern [RBYGRBBY](/stripes/rbygrbby/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

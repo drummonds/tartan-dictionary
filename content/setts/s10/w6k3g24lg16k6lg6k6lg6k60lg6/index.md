@@ -2,9 +2,10 @@
 title: "Scruffy Wallace"
 date: 2023-03-18
 ---
-In pattern [WKGYKYKYKY](/stripes/wkgykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k60b6k6b6k6b16g24k3w6/)
+(the same proportion at any scale), whose colour order is pattern [WKGYKYKYKY](/stripes/wkgykykyky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10407/
 

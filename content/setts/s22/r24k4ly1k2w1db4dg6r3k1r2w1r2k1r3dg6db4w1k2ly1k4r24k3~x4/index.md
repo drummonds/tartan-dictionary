@@ -2,9 +2,10 @@
 title: "Stewart/Stuart of Galloway (VS)"
 date: 2023-03-18
 ---
-In pattern [KRKYKWBGRKRWRKRGBWKYKR](/stripes/krkykwbgrkrwrkrgbwkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24k4y1k2w1db4g6r3k1r2w1r2k1r3g6db4w1k2y1k4r24k3/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKWBGRKRWRKRGBWKYKR](/stripes/krkykwbgrkrwrkrgbwkykr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3952
 

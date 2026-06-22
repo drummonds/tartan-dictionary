@@ -2,9 +2,10 @@
 title: "Kerby, from the Tennessee Cumberland Basin"
 date: 2023-03-18
 ---
-In pattern [BWBKGKGKGYGR](/stripes/bwbkgkgkgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg2y2dg24k2dg3k3dg3k10dp10ln2dp4/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGKGKGYGR](/stripes/bwbkgkgkgygr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

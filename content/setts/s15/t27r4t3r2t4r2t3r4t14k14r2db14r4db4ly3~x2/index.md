@@ -2,9 +2,10 @@
 title: "Cochrane Azure"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBKRBRBY](/stripes/brbrbrbrbkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b27r4b3r2b4r2b3r4b14k14r2ba14r4ba4y3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBKRBRBY](/stripes/brbrbrbrbkrbrby/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=698
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cochrane Azure
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cochrane Azure (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=698))
-- undated — Cochrane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cochrane Azure (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=698">record</a>)</li>
+<li>undated — Cochrane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

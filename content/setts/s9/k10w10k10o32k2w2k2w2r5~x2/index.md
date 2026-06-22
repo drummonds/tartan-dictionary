@@ -2,9 +2,10 @@
 title: "Burberry (Counterfeit #4)"
 date: 2023-03-18
 ---
-In pattern [KWKRKWKWR](/stripes/kwkrkwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10ln10k10lt32k2ln2k2ln2dr5/)
+(the same proportion at any scale), whose colour order is pattern [KWKRKWKWR](/stripes/kwkrkwkwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5297
 

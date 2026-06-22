@@ -2,9 +2,10 @@
 title: "Duke of Sussex (Earl of Inverness)"
 date: 2023-03-18
 ---
-In pattern [RGWGYGYR](/stripes/rgwgygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r114g10ln3g16y3g3y3r28/)
+(the same proportion at any scale), whose colour order is pattern [RGWGYGYR](/stripes/rgwgygyr/).
 
-This was sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from logan-1831.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link /posts/logans-scottish-gael/
 

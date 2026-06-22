@@ -2,18 +2,20 @@
 title: "Fulton (1999) (Name)"
 date: 2023-03-18
 ---
-In pattern [BKRGRGRKR](/stripes/bkrgrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k5r2g2r3g12r6k1r3/)
+(the same proportion at any scale), whose colour order is pattern [BKRGRGRKR](/stripes/bkrgrgrkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3952/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1993 — Fulton (1999) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3952/))
-- undated — Fulton (1999) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1993 — Fulton (1999) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3952/">record</a>)</li>
+<li>undated — Fulton (1999) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5097">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

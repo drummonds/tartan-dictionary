@@ -2,9 +2,10 @@
 title: "Carleton College Rugby"
 date: 2023-03-18
 ---
-In pattern [RBWGYR](/stripes/rbwgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt5db30w3g15y8r4/)
+(the same proportion at any scale), whose colour order is pattern [RBWGYR](/stripes/rbwgyr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11555
 

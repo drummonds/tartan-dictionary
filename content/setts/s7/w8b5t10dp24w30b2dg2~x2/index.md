@@ -2,18 +2,20 @@
 title: "Shiel, Magenta (Dance)"
 date: 2023-03-18
 ---
-In pattern [GBWBBBW](/stripes/gbwbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w8ba5b10n24w30ba2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBWBBBW](/stripes/gbwbbbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7580/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Shiel, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7580/))
-- undated — Shiel Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5604))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Shiel, Magenta (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7580/">record</a>)</li>
+<li>undated — Shiel Magenta (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5604">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

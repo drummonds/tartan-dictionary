@@ -2,9 +2,10 @@
 title: "Etihad Airways"
 date: 2023-03-18
 ---
-In pattern [RKRKRBKBKBKBY](/stripes/rkrkrbkbkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6k28t4k4t12dp32k4dp3k4dp3k4dp14y4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRBKBKBKBY](/stripes/rkrkrbkbkbkby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11290
 

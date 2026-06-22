@@ -2,9 +2,10 @@
 title: "Hood (Artefact)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRBKWKRKBRKRW](/stripes/krkrkrkrkrbkwkrkbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8n2k8n2k8n2k8n2k8n46db8k11ln2k2n2k2db8n8k2n2ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRBKWKRKBRKRW](/stripes/krkrkrkrkrbkwkrkbrkrw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6480/
 

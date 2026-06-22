@@ -2,19 +2,21 @@
 title: "Samye Sangha #2"
 date: 2023-03-18
 ---
-In pattern [RRRRRR](/stripes/rrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr32r3dr3r2dr3r23/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRR](/stripes/rrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5917
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/07/2006 — Samye Sangha #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5917))
-- 01/03/2007 — Samye Sangha (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5347))
-- March 2007 — Samye Sangha (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7129/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2006 — Samye Sangha #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5917">record</a>)</li>
+<li>01/03/2007 — Samye Sangha (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5347">record</a>)</li>
+<li>March 2007 — Samye Sangha (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7129/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

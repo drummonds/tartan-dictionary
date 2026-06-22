@@ -2,9 +2,10 @@
 title: "Edinburgh Zoo Panda, The"
 date: 2023-03-18
 ---
-In pattern [GWYWKYBBKRKR](/stripes/gwywkybbkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4w28n3w3k16n4na10nb4k14r2k2r3/)
+(the same proportion at any scale), whose colour order is pattern [GWYWKYBBKRKR](/stripes/gwywkybbkrkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10505
 

@@ -2,18 +2,20 @@
 title: "Carbon"
 date: 2023-03-18
 ---
-In pattern [BKBBKWKYY](/stripes/bkbbkwkyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t68k4t18nb20k3n3k10na8o4/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKWKYY](/stripes/bkbbkwkyy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/05/2012 — Carbon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710))
-- undated — Carbon Corporate Tartan Tartan Number: 10710. Earliest known date: 2 October 2012 This exclusive tartan was designed by Kinloch Anderson on behalf of Carbon Financial Partners Ltd, to reflect their corporate branding and identity. The Company was originally founded in Perth in 1999 and therefore the Perthshire District tartan has been chosen as the initial starting point for the Carbon Tartan design. Carbon is among the most stable of all the elements and encapsulates much of what the company stands for. A tonal range of Carbon Greys sit alongside Black to form the base of the design, while the other corporate colours of Orange and White are used as highlights. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10710))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/05/2012 — Carbon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10710">record</a>)</li>
+<li>undated — Carbon Corporate Tartan Tartan Number: 10710. Earliest known date: 2 October 2012 This exclusive tartan was designed by Kinloch Anderson on behalf of Carbon Financial Partners Ltd, to reflect their corporate branding and identity. The Company was originally founded in Perth in 1999 and therefore the Perthshire District tartan has been chosen as the initial starting point for the Carbon Tartan design. Carbon is among the most stable of all the elements and encapsulates much of what the company stands for. A tonal range of Carbon Greys sit alongside Black to form the base of the design, while the other corporate colours of Orange and White are used as highlights. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10710">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

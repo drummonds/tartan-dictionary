@@ -2,9 +2,10 @@
 title: "Swansea City AFC"
 date: 2023-03-18
 ---
-In pattern [KBWBWBKBW](/stripes/kbwbwbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2n2ln4n6ln27n15k42n2ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBWBWBKBW](/stripes/kbwbwbkbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8461/
 

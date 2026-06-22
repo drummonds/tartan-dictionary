@@ -2,9 +2,10 @@
 title: "Scotland 1782"
 date: 2023-03-18
 ---
-In pattern [BBKGBBBBKBKBGBKBKBBBBGKB](/stripes/bbkgbbbbkbkbgbkbkbbbbgkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba30k4g3pa2p2pa2p10k2p2k4p2g3p2k4p2k2p10pa2p2pa2g3k4dba30b3/)
+(the same proportion at any scale), whose colour order is pattern [BBKGBBBBKBKBGBKBKBBBBGKB](/stripes/bbkgbbbbkbkbgbkbkbbbbgkb/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3675
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scotland 1782 #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 28/03/2001 — Scotland 1782 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3675))
-- 01/01/2001 — Scotland 1782 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/03/2001 — Scotland 1782 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3675">record</a>)</li>
+<li>01/01/2001 — Scotland 1782 #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3676">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

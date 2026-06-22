@@ -2,9 +2,10 @@
 title: "Gammell"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGR](/stripes/bbbbbbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db32dra3db3dra3db3dra10g24dr3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGR](/stripes/bbbbbbgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

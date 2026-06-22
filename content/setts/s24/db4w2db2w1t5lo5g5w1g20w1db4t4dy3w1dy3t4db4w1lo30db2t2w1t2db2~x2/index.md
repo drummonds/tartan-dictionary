@@ -2,9 +2,10 @@
 title: "Stewart (Silk Fragment)"
 date: 2023-03-18
 ---
-In pattern [BBWBBYWBBGWGBBWGWGYBWBWB](/stripes/bbwbbywbbgwgbbwgwgybwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln2db2ln1b5o5g5ln1g20ln1db4b4t3ln1t3b4db4ln1o30db2b2ln1b2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBYWBBGWGBBWGWGYBWBWB](/stripes/bbwbbywbbgwgbbwgwgybwbwb/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3931
 

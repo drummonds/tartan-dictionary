@@ -2,18 +2,20 @@
 title: "Blackburn Appalachian Hunting"
 date: 2023-03-18
 ---
-In pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7k2g7lg1k2lg1k10lg3r10lg3k10lg1g11k2g3k2/)
+(the same proportion at any scale), whose colour order is pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/09/2012 — Blackburn Appalachian Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703))
-- undated — Blackburn Appalachian Hunting Name Tartan Tartan Number: 10703. Earliest known date: 21 September 2012 Jean-Louis Blackburn designed this tartan for his extended Blackburn relatives spread throughout the Appalachian region. The colours black, yellow and scarlet represent the coral snake, one of the dangers faced by generations of Blackburns, living in and migrating through green wilderness in the New World. The snake also alludes to "Don't tread on me," which refers to the overcoming of dangers faced in both nature and war. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10703))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/09/2012 — Blackburn Appalachian Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10703">record</a>)</li>
+<li>undated — Blackburn Appalachian Hunting Name Tartan Tartan Number: 10703. Earliest known date: 21 September 2012 Jean-Louis Blackburn designed this tartan for his extended Blackburn relatives spread throughout the Appalachian region. The colours black, yellow and scarlet represent the coral snake, one of the dangers faced by generations of Blackburns, living in and migrating through green wilderness in the New World. The snake also alludes to "Don't tread on me," which refers to the overcoming of dangers faced in both nature and war. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10703">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

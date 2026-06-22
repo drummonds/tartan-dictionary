@@ -2,9 +2,10 @@
 title: "New Brunswick, variation"
 date: 2023-03-18
 ---
-In pattern [YBGGGGGGGBYBGRRRYRRRBYGYRGBYBGGGGGGGBY](/stripes/ybgggggggbybgrrryrrrbygyrgbybgggggggby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2b2ga1g2ga2g2ga2g2ga2b2y2b2ga28r24y1n2y3b4r10lt16r4y2r14lt5r10ga28b2y2b2ga1g2ga2g2ga2g2ga1b2y2/)
+(the same proportion at any scale), whose colour order is pattern [YBGGGGGGGBYBGRRRYRRRBYGYRGBYBGGGGGGGBY](/stripes/ybgggggggbybgrrryrrrbygyrgbybgggggggby/).
 
-This was sourced from weddslist.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from weddslist.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

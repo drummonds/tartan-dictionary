@@ -2,9 +2,10 @@
 title: "All Irish Red Irish District Tartan Tartan Number: 4067. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. Lochcarron sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBRGRGRGRGRGBRBGRGRGRGRGRBGR](/stripes/gbrgrgrgrgrgbrbgrgrgrgrgrbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6lg2dba2r30g2r2ga4r2g2r1g20r1lg2dba2r4/)
+(the same proportion at any scale), whose colour order is pattern [GBRGRGRGRGRGBRBGRGRGRGRGRBGR](/stripes/gbrgrgrgrgrgbrbgrgrgrgrgrbgr/).
 
-This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4067
 

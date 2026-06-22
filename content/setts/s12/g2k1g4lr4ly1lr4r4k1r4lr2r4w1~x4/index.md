@@ -2,18 +2,20 @@
 title: "British Columbia"
 date: 2023-03-18
 ---
-In pattern [GKGYYYRKRYRW](/stripes/gkgyyyrkryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga2k1ga4n4y1n4dr4k1dr4n2dr4ln1/)
+(the same proportion at any scale), whose colour order is pattern [GKGYYYRKRYRW](/stripes/gkgyyyrkryrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=361
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1967 — British Columbia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=361))
-- 1967 — British Columbia (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/808/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1967 — British Columbia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=361">record</a>)</li>
+<li>1967 — British Columbia (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/808/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Mayo, County (District)"
 date: 2023-03-18
 ---
-In pattern [BYGRBGK](/stripes/bygrbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dg16db11dr16dg25dy2b3/)
+(the same proportion at any scale), whose colour order is pattern [BYGRBGK](/stripes/bygrbgk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2270/
 

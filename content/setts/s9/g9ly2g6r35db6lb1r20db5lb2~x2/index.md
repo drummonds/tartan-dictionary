@@ -2,18 +2,20 @@
 title: "Telfer (Name)"
 date: 2023-03-18
 ---
-In pattern [GYGRBWRBW](/stripes/gygrbwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9y2g6r35db6lp1dr20db5lp2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBWRBW](/stripes/gygrbwrbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10083/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2009 — Telfer (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10083/))
-- undated — Telfer Name Tartan Tartan Number: 10083. Earliest known date: 2009 As a child the designer went to church in a kilt of Royal Stewart tartan, a gift from his parents. The Duncan Telfer tartan, although different in design to the Stewart tartan, echoes it in its structure. But here the predominance of red and its opposition to the green symbolises how the ancestors of the Telfers arrived in Britain on the tide of battle during the Norman invasion. This affinity is augmented by the clash of steel blue stripes. This strife is also silently witnessed by the sky (blue), trees (green) and the sun (gold). The designer would like to dedicate this tartan to the memory of his parents, James and Margaret Telfer. This tartan is for the use of all of the name of Telfer. Although there are no restrictions, anyone intending to manufacture or use this tartan is encouraged to contact the designer (or his direct descendants) and a choice of preferred charities will be offered for a suggested donation. Copyright of this design belongs to Duncan Telfer. It was developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10083))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2009 — Telfer (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10083/">record</a>)</li>
+<li>undated — Telfer Name Tartan Tartan Number: 10083. Earliest known date: 2009 As a child the designer went to church in a kilt of Royal Stewart tartan, a gift from his parents. The Duncan Telfer tartan, although different in design to the Stewart tartan, echoes it in its structure. But here the predominance of red and its opposition to the green symbolises how the ancestors of the Telfers arrived in Britain on the tide of battle during the Norman invasion. This affinity is augmented by the clash of steel blue stripes. This strife is also silently witnessed by the sky (blue), trees (green) and the sun (gold). The designer would like to dedicate this tartan to the memory of his parents, James and Margaret Telfer. This tartan is for the use of all of the name of Telfer. Although there are no restrictions, anyone intending to manufacture or use this tartan is encouraged to contact the designer (or his direct descendants) and a choice of preferred charities will be offered for a suggested donation. Copyright of this design belongs to Duncan Telfer. It was developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10083">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/18 Y4 G12 R70 DB12 LP2 DR40 DB10 LP/4

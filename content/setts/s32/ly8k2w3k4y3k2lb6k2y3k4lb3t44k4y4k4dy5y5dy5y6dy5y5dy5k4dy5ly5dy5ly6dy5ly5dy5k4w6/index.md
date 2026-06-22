@@ -2,9 +2,10 @@
 title: "Whiskey & Bourbon"
 date: 2023-03-18
 ---
-In pattern [WKGYGYGYGKGGGGGGGKGKBWKGKWKGKWKY](/stripes/wkgygygygkgggggggkgkbwkgkwkgkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8k2w3k4lt3k2lb6k2lt3k4lb3b44k4lt4k4t5lt5t5lt6t5lt5t5k4t5y5t5y6t5y5t5k4w6/)
+(the same proportion at any scale), whose colour order is pattern [WKGYGYGYGKGGGGGGGKGKBWKGKWKGKWKY](/stripes/wkgygygygkgggggggkgkbwkgkwkgkwky/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10544
 

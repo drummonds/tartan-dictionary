@@ -2,9 +2,10 @@
 title: "Gamba Tuscany Fife"
 date: 2023-03-18
 ---
-In pattern [GRGBW](/stripes/grgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg5r3g30b30ln3/)
+(the same proportion at any scale), whose colour order is pattern [GRGBW](/stripes/grgbw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10664
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Gamba Tuscany Fife
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 02/08/2012 — Gamba Tuscany Fife (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10664))
-- 02/08/2012 — Gamba (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10664/))
-- undated — Gamba Tuscany Fife Name Tartan Tartan Number: 10664. Earliest known date: 02/08/2012 Designed by Catherine Gamba to commemorate the golden wedding of Joseph and Catherine Gamba, whose roots are in Tuscany and Fife. The colours are taken from the Scottish and Italian flags. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10664))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>02/08/2012 — Gamba Tuscany Fife (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10664">record</a>)</li>
+<li>02/08/2012 — Gamba (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10664/">record</a>)</li>
+<li>undated — Gamba Tuscany Fife Name Tartan Tartan Number: 10664. Earliest known date: 02/08/2012 Designed by Catherine Gamba to commemorate the golden wedding of Joseph and Catherine Gamba, whose roots are in Tuscany and Fife. The colours are taken from the Scottish and Italian flags. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10664">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

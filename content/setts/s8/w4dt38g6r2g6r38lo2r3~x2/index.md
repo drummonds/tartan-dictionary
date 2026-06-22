@@ -2,9 +2,10 @@
 title: "21st Century (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYRGRGBW](/stripes/ryrgrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db38g6dr2g6dr38dy2dr3/)
+(the same proportion at any scale), whose colour order is pattern [RYRGRGBW](/stripes/ryrgrgbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6410/
 

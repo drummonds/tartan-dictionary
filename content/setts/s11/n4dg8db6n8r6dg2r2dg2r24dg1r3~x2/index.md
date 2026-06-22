@@ -2,9 +2,10 @@
 title: "MacDougall VS"
 date: 2023-03-18
 ---
-In pattern [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dg8db6n8dr6dg2dr2dg2dr24dg1dr3/)
+(the same proportion at any scale), whose colour order is pattern [BGBBRGRGRGR](/stripes/bgbbrgrgrgr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

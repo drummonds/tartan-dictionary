@@ -2,9 +2,10 @@
 title: "Hunnisett/Edinchip (Name)"
 date: 2023-03-18
 ---
-In pattern [BWBKGYGKRKR](/stripes/bwbkgygkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db38ln2db2k10g2y2g22k3r3k3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGYGKRKR](/stripes/bwbkgygkrkr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/624/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Hunnisett, /Edinchip
 - Hunnisett/Edinchip
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1986 April — Hunnisett/Edinchip (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/624/))
-- undated — Hunnisett, /Edinchip (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hunnisett /Edinchip Corporate Tartan Tartan Number: 624. Earliest known date: 1986 Accredited 86004 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=624))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1986 April — Hunnisett/Edinchip (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/624/">record</a>)</li>
+<li>undated — Hunnisett, /Edinchip (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hunnisett /Edinchip Corporate Tartan Tartan Number: 624. Earliest known date: 1986 Accredited 86004 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=624">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/76 LN4 DB4 K20 G4 Y4 G44 K6 R6 K6 R/6

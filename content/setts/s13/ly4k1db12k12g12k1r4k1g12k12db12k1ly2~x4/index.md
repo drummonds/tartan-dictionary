@@ -2,9 +2,10 @@
 title: "MacLeod"
 date: 2023-03-18
 ---
-In pattern [YKBKGKRKGKBKY](/stripes/ykbkgkrkgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k1db12k12g12k1r4k1g12k12db12k1y2/)
+(the same proportion at any scale), whose colour order is pattern [YKBKGKRKGKBKY](/stripes/ykbkgkrkgkbky/).
 
-This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 

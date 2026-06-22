@@ -2,18 +2,20 @@
 title: "Princess Beatrice Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dr1g2dr2w20db3w3dr7k2dr2k2dr2k7g2k2g2k2g8y3/)
+(the same proportion at any scale), whose colour order is pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1980 — Princess Beatrice Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398))
-- pre 1980 — Princess Beatrice Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1169/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — Princess Beatrice Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3398">record</a>)</li>
+<li>pre 1980 — Princess Beatrice Dress (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1169/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

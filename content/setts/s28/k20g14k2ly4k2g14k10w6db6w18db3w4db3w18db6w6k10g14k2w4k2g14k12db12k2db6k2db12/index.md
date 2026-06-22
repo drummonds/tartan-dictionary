@@ -2,9 +2,10 @@
 title: "Campbell of Loch Neil, dress"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKWBWBWBWBWKGKYKGK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20g14k2y4k2g14k10ln6b6ln18b3ln4b3ln18b6ln6k10g14k2ln4k2g14k12b12k2b6k2b12/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKWBWBWBWBWKGKYKGK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkykgk/).
 
-This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

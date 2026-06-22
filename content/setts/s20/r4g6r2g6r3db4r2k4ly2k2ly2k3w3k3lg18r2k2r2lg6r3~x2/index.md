@@ -2,18 +2,20 @@
 title: "Anderson"
 date: 2023-03-18
 ---
-In pattern [RGRGRBRKYKYKWKYRKRYR](/stripes/rgrgrbrkykykwkyrkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g6r2g6r3dba4r2k4y2k2y2k3ln3k3b18r2k2r2b6r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRBRKYKYKWKYRKRYR](/stripes/rgrgrbrkykykwkyrkryr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=82
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1900 — Anderson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=82))
-- pre 1900 — Anderson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1394/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1900 — Anderson (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=82">record</a>)</li>
+<li>pre 1900 — Anderson (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1394/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

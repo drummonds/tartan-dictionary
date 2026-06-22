@@ -2,18 +2,20 @@
 title: "Inverness"
 date: 2023-03-18
 ---
-In pattern [RBWBGKGR](/stripes/rbwbgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36b3ln1b6g1k1g1r9/)
+(the same proportion at any scale), whose colour order is pattern [RBWBGKGR](/stripes/rbwbgkgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Inverness (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Inverness District Tartan Tartan Number: 1438. Earliest known date: 1822 Made for Augustus, Earl of Inverness, sometime prior to 1822. Logan used this sett to illustrate his method of recording tartans in his book, 'The Scottish Gael..', published in 1831. The territorial designation of this Royal tartan makes it appropriate for use as a district tartan in the town and county of Inverness. The white stripe is sometimes rendered in yellow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1438))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Inverness (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Inverness District Tartan Tartan Number: 1438. Earliest known date: 1822 Made for Augustus, Earl of Inverness, sometime prior to 1822. Logan used this sett to illustrate his method of recording tartans in his book, 'The Scottish Gael..', published in 1831. The territorial designation of this Royal tartan makes it appropriate for use as a district tartan in the town and county of Inverness. The white stripe is sometimes rendered in yellow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1438">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/72 B6 LN2 B12 G2 K2 G2 R/18

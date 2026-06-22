@@ -2,9 +2,10 @@
 title: "Universal Ancient International Tartan Tartan Number: 136. Earliest known date: Canada This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGG](/stripes/bgbgbggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12g2b2g2b2t8ga8t1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGG](/stripes/bgbgbggg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=136
 

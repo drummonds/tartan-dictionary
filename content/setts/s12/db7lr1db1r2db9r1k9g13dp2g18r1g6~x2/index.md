@@ -2,9 +2,10 @@
 title: "West Highland Way (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYBRBRKGBGRG](/stripes/bybrbrkgbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7n1db1r2db9r1k9g13p2g18r1g6/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBRKGBGRG](/stripes/bybrbrkgbgrg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6837/
 

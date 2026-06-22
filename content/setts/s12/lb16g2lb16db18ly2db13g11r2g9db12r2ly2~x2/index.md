@@ -2,9 +2,10 @@
 title: "E.C.R. (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WGWBYBGRGBRY](/stripes/wgwbybgrgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb16ga2lb16db18y2db13g11r2ga9db12r2y2/)
+(the same proportion at any scale), whose colour order is pattern [WGWBYBGRGBRY](/stripes/wgwbybgrgbry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8224/
 

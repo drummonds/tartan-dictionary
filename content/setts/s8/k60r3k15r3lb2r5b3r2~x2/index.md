@@ -2,9 +2,10 @@
 title: "Whitaker (2014)"
 date: 2023-03-18
 ---
-In pattern [KRKRWRBR](/stripes/krkrwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k60r3k15r3n2r5b3r2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRWRBR](/stripes/krkrwrbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11073
 

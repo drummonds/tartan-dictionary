@@ -2,9 +2,10 @@
 title: "Murray"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k1db6k6g6r2g6k6db1k1db1k1db6k1db1k1db1k6g6r2g6k6db6k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKBKBKBKBKBKGRGKBKB](/stripes/bkbkgrgkbkbkbkbkbkgrgkbkb/).
 
-This was sourced from logan-1831.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from logan-1831.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link /posts/logans-scottish-gael/
 

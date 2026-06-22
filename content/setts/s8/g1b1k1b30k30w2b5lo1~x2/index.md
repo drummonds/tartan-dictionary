@@ -2,9 +2,10 @@
 title: "Binder Wedding (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKBKWBY](/stripes/gbkbkwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1b5ln2k30b30k1b1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKWBY](/stripes/gbkbkwby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10728/
 

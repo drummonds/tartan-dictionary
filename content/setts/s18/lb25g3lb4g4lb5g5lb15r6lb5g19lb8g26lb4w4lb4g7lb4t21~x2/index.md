@@ -2,9 +2,10 @@
 title: "Shedor (2013)"
 date: 2023-03-18
 ---
-In pattern [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp25lg3lp4lg4lp5lg5lp15r6lp5lg19lp8lg26lp4w4lp4lg7lp4b21/)
+(the same proportion at any scale), whose colour order is pattern [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10898
 

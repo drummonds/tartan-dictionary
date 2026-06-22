@@ -2,9 +2,10 @@
 title: "McClurg"
 date: 2023-03-18
 ---
-In pattern [KYGYGWGBW](/stripes/kygygwgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y1g2y1g32lb1g3b32lb3/)
+(the same proportion at any scale), whose colour order is pattern [KYGYGWGBW](/stripes/kygygwgbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6015
 

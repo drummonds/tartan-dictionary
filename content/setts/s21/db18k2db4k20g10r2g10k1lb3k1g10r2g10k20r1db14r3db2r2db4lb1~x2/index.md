@@ -2,9 +2,10 @@
 title: "Rankin (Dalgliesh) #1"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKWKGRGKRBRBRBW](/stripes/bkbkgrgkwkgrgkrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18k2db4k20g10dr2g10k1n3k1g10dr2g10k20dr1db14dr3db2dr2db4n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKWKGRGKRBRBRBW](/stripes/bkbkgrgkwkgrgkrbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5440/
 

@@ -2,9 +2,10 @@
 title: "Crookdake-Cheng (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGKGKGKWBR](/stripes/kgkgkgkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2db24n6k6g6yy4g2yy2g2yy1/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGKWBR](/stripes/kgkgkgkwbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=812
 

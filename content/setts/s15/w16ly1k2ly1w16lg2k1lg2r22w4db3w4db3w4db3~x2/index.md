@@ -2,9 +2,10 @@
 title: "Salaberry-de-Valleyfield Ceremonial"
 date: 2023-03-18
 ---
-In pattern [BWBWBWRYKYWYKYW](/stripes/bwbwbwrykywykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w16y1k2y1w16lg2k1lg2r22w4b3w4b3w4b3/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWRYKYWYKYW](/stripes/bwbwbwrykywykyw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10415
 

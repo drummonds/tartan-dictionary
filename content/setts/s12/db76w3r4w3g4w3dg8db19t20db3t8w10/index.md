@@ -2,9 +2,10 @@
 title: "Summerwood (School)"
 date: 2023-03-18
 ---
-In pattern [BWRWGWGBBBBW](/stripes/bwrwgwgbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db76ln3r4ln3g4ln3dg8db19b20db3b8ln10/)
+(the same proportion at any scale), whose colour order is pattern [BWRWGWGBBBBW](/stripes/bwrwgwgbbbbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7148/
 

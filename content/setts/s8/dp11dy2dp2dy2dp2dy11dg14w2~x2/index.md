@@ -2,9 +2,10 @@
 title: "Lamont #2"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGW](/stripes/bgbgbggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p11t2p2t2p2t11g14ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGW](/stripes/bgbgbggw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2034
 

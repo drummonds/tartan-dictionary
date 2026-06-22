@@ -2,9 +2,10 @@
 title: "Guthrie"
 date: 2023-03-18
 ---
-In pattern [GKRKRKBRBKRKRKGK](/stripes/gkrkrkbrbkrkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12k12r1k1r1k12b12r1b12k12r1k1r1k12g12k1/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKBRBKRKRKGK](/stripes/gkrkrkbrbkrkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1562
 

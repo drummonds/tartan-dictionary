@@ -2,9 +2,10 @@
 title: "Glen Flesk Fashion Restricted Tartan Tartan Number: 2369. Earliest known date: 1997 Designed in May 1997 by Lochcarron for The Check Trading Co, Tokyo, Japan. Based on the Burns Check. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWGWKWKWKWYWYWYWKWKWKWGW](/stripes/gwgwkwkwkwywywywkwkwkwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg1n1dg1n2k2n2k2n2k2n2lt1n1lt1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWKWKWKWYWYWYWKWKWKWGW](/stripes/gwgwkwkwkwywywywkwkwkwgw/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2369
 

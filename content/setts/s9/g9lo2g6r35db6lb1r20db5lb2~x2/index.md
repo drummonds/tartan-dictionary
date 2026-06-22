@@ -2,9 +2,10 @@
 title: "Telfer"
 date: 2023-03-18
 ---
-In pattern [GYGRBWRBW](/stripes/gygrbwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9dy2g6r35db6lp1dr20db5lp2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBWRBW](/stripes/gygrbwrbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10083
 

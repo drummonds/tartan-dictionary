@@ -2,18 +2,20 @@
 title: "Scottish Ambulance Service"
 date: 2023-03-18
 ---
-In pattern [BKGKGBGWGBGKGKBR](/stripes/bkgkgbgwgbgkgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16k12ga2k2g32ba2g2n3g2ba2g32k2ga2k12b16dr3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGBGWGBGKGKBR](/stripes/bkgkgbgwgbgkgkbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3706
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Scottish Ambulance Service (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3706))
-- undated — Scottish Ambulance Service Corporate Tartan Tartan Number: 5360. Earliest known date: 1996 Designed in 1996 by Lochcaron and first woven 20th January 1997. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5360))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Scottish Ambulance Service (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3706">record</a>)</li>
+<li>undated — Scottish Ambulance Service Corporate Tartan Tartan Number: 5360. Earliest known date: 1996 Designed in 1996 by Lochcaron and first woven 20th January 1997. Sample in STA Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5360">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

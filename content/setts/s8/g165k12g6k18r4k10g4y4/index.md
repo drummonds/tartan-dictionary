@@ -2,9 +2,10 @@
 title: "Crane of Clunie"
 date: 2023-03-18
 ---
-In pattern [GGKRKGKG](/stripes/ggkrkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g165k12g6k18r4k10g4lg4/)
+(the same proportion at any scale), whose colour order is pattern [GGKRKGKG](/stripes/ggkrkgkg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

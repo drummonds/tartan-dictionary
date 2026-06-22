@@ -2,9 +2,10 @@
 title: "MacFarlane Dress Clan Tartan Tartan Number: 659. Earliest known date: 1930-40 MacKinlay was a collector of tartans from the period between the wars. He drew out the patterns on strips of paper defining the warp with colouring pencils. Originally listed as MacFadzean MacPhedran. Threadcount corrected in 2005. The B2 in the red was restored. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRKBGWRBRWGRWR](/stripes/bwrkbgwrbrwgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln2r6k1db12g4ln2r6db1r6ln2g8r2ln16r4/)
+(the same proportion at any scale), whose colour order is pattern [BWRKBGWRBRWGRWR](/stripes/bwrkbgwrbrwgrwr/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=659
 

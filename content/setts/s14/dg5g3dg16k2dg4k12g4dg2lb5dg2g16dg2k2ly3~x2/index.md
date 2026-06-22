@@ -2,9 +2,10 @@
 title: "Celtic Football Club (1996)"
 date: 2023-03-18
 ---
-In pattern [GGGKGKGGWGGGKY](/stripes/gggkgkggwgggky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg5g3dg16k2dg4k12g4dg2n5dg2g16dg2k2y3/)
+(the same proportion at any scale), whose colour order is pattern [GGGKGKGGWGGGKY](/stripes/gggkgkggwgggky/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=606
 

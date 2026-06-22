@@ -2,9 +2,10 @@
 title: "Scottish Heritage Society (Corporate"
 date: 2023-03-18
 ---
-In pattern [BBKBGKRKGBKW](/stripes/bbkbgkrkgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db76p6k6db24g17k4r10k4g17db4k2ln6/)
+(the same proportion at any scale), whose colour order is pattern [BBKBGKRKGBKW](/stripes/bbkbgkrkgbkw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7395/
 

@@ -2,9 +2,10 @@
 title: "Thousand Islands Int. Council (Corp)"
 date: 2023-03-18
 ---
-In pattern [RWBYBRBW](/stripes/rwbybrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr22ln2db11y4db11r6db2ln10/)
+(the same proportion at any scale), whose colour order is pattern [RWBYBRBW](/stripes/rwbybrbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8027/
 

@@ -2,9 +2,10 @@
 title: "MacKean Hunting Family Tartan Tartan Number: 985. Earliest known date: 1987 1987 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGKGKGKGKGKBKW](/stripes/grgkgkgkgkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r4g2k16g4k16g4k2g2k2g4k4db8k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGKGKGKGKBKW](/stripes/grgkgkgkgkgkbkw/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=985
 

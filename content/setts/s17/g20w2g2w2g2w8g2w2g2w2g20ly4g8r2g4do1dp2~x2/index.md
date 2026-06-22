@@ -2,9 +2,10 @@
 title: "Bryant (Name)"
 date: 2023-03-18
 ---
-In pattern [BBGRGYGWGWGWGWGWG](/stripes/bbgrgygwgwgwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20ln2g2ln2g2ln8g2ln2g2ln2g20lg4g8dra2g4dr1p2/)
+(the same proportion at any scale), whose colour order is pattern [BBGRGYGWGWGWGWGWG](/stripes/bbgrgygwgwgwgwgwg/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3745/
 

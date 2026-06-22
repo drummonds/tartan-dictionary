@@ -2,9 +2,10 @@
 title: "Hawes (2014)"
 date: 2023-03-18
 ---
-In pattern [WBGKGBWBKY](/stripes/wbgkgbwbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2b3w2dr3g4k50g5dr3w2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKGBWBKY](/stripes/wbgkgbwbky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11169
 

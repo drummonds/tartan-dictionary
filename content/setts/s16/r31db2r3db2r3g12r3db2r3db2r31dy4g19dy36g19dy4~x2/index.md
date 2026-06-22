@@ -2,9 +2,10 @@
 title: "O'Brian #1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr31db2dr3db2dr3g12dr3db2dr3db2dr31t4g19t36g19t4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGRBRBRGRBRBR](/stripes/gggggrbrbrgrbrbr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4047/
 

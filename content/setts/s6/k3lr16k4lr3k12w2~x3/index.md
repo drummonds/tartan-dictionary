@@ -2,9 +2,10 @@
 title: "MacMugen"
 date: 2023-03-18
 ---
-In pattern [KYKYKW](/stripes/kykykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3n16db4n3db12ln2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKW](/stripes/kykykw/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

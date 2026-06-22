@@ -2,9 +2,10 @@
 title: "Harrods"
 date: 2023-03-18
 ---
-In pattern [GBYBYWGWGWKWGWKWGWGWYBYBGR](/stripes/gbybywgwgwkwgwkwgwgwybybgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t3dr9lt2dr5lt4ln1t1ln1t1ln12k2ln2t2ln2k2ln12t1ln1t1ln1lt4dr5lt2dr9t3r2/)
+(the same proportion at any scale), whose colour order is pattern [GBYBYWGWGWKWGWKWGWGWYBYBGR](/stripes/gbybywgwgwkwgwkwgwgwybybgr/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1618
 

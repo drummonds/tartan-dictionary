@@ -2,9 +2,10 @@
 title: "Maple Leaf Dress"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRRRGRGRGRWRWGWRW](/stripes/rgrgrgrgrrrgrgrgrwrwgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6g5dr6dg1dr1dg9t3g3t3dr9dr1dg1dr6g5dr6dg1dr1w1dr1w12g1w12dr1w1/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRRRGRGRGRWRWGWRW](/stripes/rgrgrgrgrrrgrgrgrwrwgwrw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2826
 

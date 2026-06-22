@@ -2,9 +2,10 @@
 title: "Glasgow, University of Corporate Tartan Tartan Number: 2680. Earliest known date: 2002 The official livery and promotional university tartan (STS). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWKYKGBKBGKYKW](/stripes/bwkykgbkbgkykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db22g4k7dy2k2ln2db2/)
+(the same proportion at any scale), whose colour order is pattern [BWKYKGBKBGKYKW](/stripes/bwkykgbkbgkykw/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2680
 

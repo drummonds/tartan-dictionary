@@ -2,9 +2,10 @@
 title: "Welsh Assembly"
 date: 2023-03-18
 ---
-In pattern [GGGWGRGR](/stripes/gggwgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5n9g4ln5g30r2g4r2/)
+(the same proportion at any scale), whose colour order is pattern [GGGWGRGR](/stripes/gggwgrgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

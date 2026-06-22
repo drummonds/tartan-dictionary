@@ -2,18 +2,20 @@
 title: "Irvine"
 date: 2023-03-18
 ---
-In pattern [GBKBW](/stripes/gbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18b9k1b1ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBKBW](/stripes/gbkbw/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Irvine (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Irvine Clan Tartan Tartan Number: 733. Earliest known date: c.1889 Scottish Tartans Society notes say that this tartan was 'first made by Peter MacArthur and Co, Hamilton'. MacKinlay, a tartan collector between 1930 and 1950, gives the earliest date as 1889 but it is not known upon what evidence. The name Irvine derives from an old parish name in Dumfries-shire, and from Irvine in Ayrshire. William de Irwyne obtained the forest of Drum in 1324, and is thus the ancestor of the Irvines of Drum. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=733))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Irvine (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Irvine Clan Tartan Tartan Number: 733. Earliest known date: c.1889 Scottish Tartans Society notes say that this tartan was 'first made by Peter MacArthur and Co, Hamilton'. MacKinlay, a tartan collector between 1930 and 1950, gives the earliest date as 1889 but it is not known upon what evidence. The name Irvine derives from an old parish name in Dumfries-shire, and from Irvine in Ayrshire. William de Irwyne obtained the forest of Drum in 1324, and is thus the ancestor of the Irvines of Drum. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=733">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/72 B36 K4 B4 LN/4

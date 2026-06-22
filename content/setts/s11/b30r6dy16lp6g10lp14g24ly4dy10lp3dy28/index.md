@@ -2,9 +2,10 @@
 title: "Greyfriars (District)"
 date: 2023-03-18
 ---
-In pattern [BRGWGWGYGWG](/stripes/brgwgwgygwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30r6t16lp6g10lp14g24y4t10lp3t28/)
+(the same proportion at any scale), whose colour order is pattern [BRGWGWGYGWG](/stripes/brgwgwgygwg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10337/
 

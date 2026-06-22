@@ -2,9 +2,10 @@
 title: "Lomond (1983)"
 date: 2023-03-18
 ---
-In pattern [GKGKGWKWKWGYK](/stripes/gkgkgwkwkwgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt30k2g2k2g2n3k1n2k1n1g12dy2k6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGWKWKWGYK](/stripes/gkgkgwkwkwgyk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2192
 

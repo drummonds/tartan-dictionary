@@ -2,9 +2,10 @@
 title: "Wine Watch (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRKRKBKB](/stripes/bkbkbkrkrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k1db1k1db1k8dr8k1dr8k8db8k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRKRKBKB](/stripes/bkbkbkrkrkbkb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3075/
 

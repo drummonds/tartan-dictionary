@@ -2,9 +2,10 @@
 title: "Portree Check (District) Tartan Tartan Number: 1280. Earliest known date: pre 2003 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRGRWRRBRBW](/stripes/rwrgrwrrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na38lp4na8t2na4ln3na4dr14n7na2n4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGRWRRBRBW](/stripes/rwrgrwrrbrbw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1280
 

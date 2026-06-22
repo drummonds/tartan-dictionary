@@ -2,9 +2,10 @@
 title: "Colquhoun, dress"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWGRGWKWBWBRBWBWK](/stripes/bkbkbkwgrgwkwbwbrbwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15ln3b3ln18b2r2b2ln19b3ln3k15ln2g13r2g14ln2k15b10k2b2k2b10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWGRGWKWBWBRBWBWK](/stripes/bkbkbkwgrgwkwbwbrbwbwk/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Colquhoun, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Colquhoun, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Colquhoun Dress Clan Tartan Tartan Number: 1960. Earliest known date: 1960 A more recent design and one of the very few asymmetrical setts. The actual thread count has been reduced by half for display. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1960))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Colquhoun, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Colquhoun Dress Clan Tartan Tartan Number: 1960. Earliest known date: 1960 A more recent design and one of the very few asymmetrical setts. The actual thread count has been reduced by half for display. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1960">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/15 LN3 B3 LN18 B2 R2 B2 LN19 B3 LN3 K15 LN2 G13 R2 G14 LN2 K15 B10 K2 B2 K2 B/10

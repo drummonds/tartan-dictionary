@@ -2,9 +2,10 @@
 title: "Sidney (Nova Scotia) Canadian Tartan Tartan Number: 1291. Earliest known date: 1986 The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKWKRRRR](/stripes/rkwkrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16k4ln2k4n6r11n2r16/)
+(the same proportion at any scale), whose colour order is pattern [RKWKRRRR](/stripes/rkwkrrrr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1291
 

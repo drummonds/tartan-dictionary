@@ -2,9 +2,10 @@
 title: "Cumbernauld"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17k3db3k3db3k17g17k2ln2k2g17k17db17k2dr3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=833
 

@@ -2,9 +2,10 @@
 title: "Redgate Dress (Name)"
 date: 2023-03-18
 ---
-In pattern [WBWBRBKWKYBYGY](/stripes/wbwbrbkwkybygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr7db4lr2db7r2db7k6lr1k6lt5db3lt3g13lt4/)
+(the same proportion at any scale), whose colour order is pattern [WBWBRBKWKYBYGY](/stripes/wbwbrbkwkybygy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10779/
 

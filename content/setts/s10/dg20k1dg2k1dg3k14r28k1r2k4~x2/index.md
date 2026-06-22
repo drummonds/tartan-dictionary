@@ -2,19 +2,21 @@
 title: "Kerr"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRKRK](/stripes/gkgkgkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20k1g2k1g3k14r28k1r2k4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRKRK](/stripes/gkgkgkrkrk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Kerr (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Kerr (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Kerr (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Kerr (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Kerr (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Kerr (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/40 K2 G4 K2 G6 K28 R56 K2 R4 K/8

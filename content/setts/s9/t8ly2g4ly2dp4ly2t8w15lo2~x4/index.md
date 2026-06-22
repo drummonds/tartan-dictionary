@@ -2,9 +2,10 @@
 title: "Edmonton, City of"
 date: 2023-03-18
 ---
-In pattern [BYGYBYBWY](/stripes/bygybybwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8y2g4y2p4y2b8ly15dy2/)
+(the same proportion at any scale), whose colour order is pattern [BYGYBYBWY](/stripes/bygybybwy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Edmonton, City of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1977 — Edmonton, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087))
-- May 1977 — City of Edmonton (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7262/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1977 — Edmonton, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1087">record</a>)</li>
+<li>May 1977 — City of Edmonton (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7262/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

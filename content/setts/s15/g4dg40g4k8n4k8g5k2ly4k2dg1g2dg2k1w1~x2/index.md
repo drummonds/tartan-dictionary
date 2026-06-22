@@ -2,9 +2,10 @@
 title: "Eastern Shore Police Emerald Society"
 date: 2023-03-18
 ---
-In pattern [GGGKBKGKYKGGGKW](/stripes/gggkbkgkykgggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga4g40ga4k8b4k8ga5k2y4k2g1ga2g2k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [GGGKBKGKYKGGGKW](/stripes/gggkbkgkykgggkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10672
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Eastern Shore Police Emerald Society
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/01/2012 — Eastern Shore Police Emerald Society (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10672))
-- undated — Eastern Shore Police Emerald So Corporate Tartan Tartan Number: 10672. Earliest known date: 13 August 2012 The Eastern Shore Police Emerald Society was founded in March of 2011. It is a non-profit making Irish/Gaelic cultural organization that supports law enforcement officers and organizations on the Delmarva Peninsula of Maryland. The Eastern Shore Police Emerald Society's mission is to develop the spirit of fraternalism and fellowship amongst members, to encourage active participation in community activities, to encourage and enhance professionalism within the law enforcement profession to better serve the community and to promote shared Irish heritage and customs. This tartan was designed to represent these goals. The tartan begins with four fields of emerald green at the centre that represent the four provinces of Ireland. The black, blue and black striping surrounding the four fields of dark green symbolises the thin blue line that is the internationally recognized phrase for the police profession and those whom they protect. The black, gold and black striping surrounding the edge of the tartan is representative of the family coat of arms of the Calvert family, as Maryland was founded by Cecilius Calvert, the second Baron of Baltimore. The small stripe of silver at the centre of this border represents the silver badges associated with the rank and file of law enforcement. Members and supporters of the Eastern Shore Police Emerald Society are permitted and encouraged to wear the Eastern Shore Police Emerald Society Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10672))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/01/2012 — Eastern Shore Police Emerald Society (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10672">record</a>)</li>
+<li>undated — Eastern Shore Police Emerald So Corporate Tartan Tartan Number: 10672. Earliest known date: 13 August 2012 The Eastern Shore Police Emerald Society was founded in March of 2011. It is a non-profit making Irish/Gaelic cultural organization that supports law enforcement officers and organizations on the Delmarva Peninsula of Maryland. The Eastern Shore Police Emerald Society's mission is to develop the spirit of fraternalism and fellowship amongst members, to encourage active participation in community activities, to encourage and enhance professionalism within the law enforcement profession to better serve the community and to promote shared Irish heritage and customs. This tartan was designed to represent these goals. The tartan begins with four fields of emerald green at the centre that represent the four provinces of Ireland. The black, blue and black striping surrounding the four fields of dark green symbolises the thin blue line that is the internationally recognized phrase for the police profession and those whom they protect. The black, gold and black striping surrounding the edge of the tartan is representative of the family coat of arms of the Calvert family, as Maryland was founded by Cecilius Calvert, the second Baron of Baltimore. The small stripe of silver at the centre of this border represents the silver badges associated with the rank and file of law enforcement. Members and supporters of the Eastern Shore Police Emerald Society are permitted and encouraged to wear the Eastern Shore Police Emerald Society Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10672">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

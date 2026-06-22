@@ -2,9 +2,10 @@
 title: "Ailsa, Gold (Dance)"
 date: 2023-03-18
 ---
-In pattern [WBWYWY](/stripes/wbwywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8w3y28w32p3w4/)
+(the same proportion at any scale), whose colour order is pattern [WBWYWY](/stripes/wbwywy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7605/
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Ailsa Yellow
 - Ailsa, Gold
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- March 2008 — Ailsa, Gold (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7605/))
-- undated — Ailsa Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629))
-- undated — Ailsa Yellow Fashion Tartan Tartan Number: 7604. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7604))
-- undated — Ailsa Gold Fashion Tartan Tartan Number: 7605. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Ailsa, Gold (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7605/">record</a>)</li>
+<li>undated — Ailsa Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5629">record</a>)</li>
+<li>undated — Ailsa Yellow Fashion Tartan Tartan Number: 7604. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7604">record</a>)</li>
+<li>undated — Ailsa Gold Fashion Tartan Tartan Number: 7605. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7605">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

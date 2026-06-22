@@ -2,9 +2,10 @@
 title: "MacFarlane Hunting Clan Tartan Tartan Number: 779. Earliest known date: 1930-50 This sett comes from the MacGregor-Hastie collection in the Scottish Tartans Museum. The collection dates between 1930-50 and forms the major part of the cloth archive. The Hunting MacFarlane is based on Logans count (1831) with red changed to green. The MacFarlanes came originally from the lands about Arrochar in the West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k3g20ln2r3k2r3ln2g2db18k2r4ln2g3/)
+(the same proportion at any scale), whose colour order is pattern [GKGWRKRWGBKRWG](/stripes/gkgwrkrwgbkrwg/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=779
 

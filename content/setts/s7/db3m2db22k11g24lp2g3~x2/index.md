@@ -2,9 +2,10 @@
 title: "MacThomas Clan Tartan Tartan Number: 407. Earliest known date: 1975 Designed by David Thomas - former director of the Strathmore Woollen Co. in Forfar who still (in 2011) weave this tartan. Adopted by Clan Society in 1975, and registered with Lord Lyon in 1979. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBKGWG](/stripes/brbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3r2db22k11g24lp2g3/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGWG](/stripes/brbkgwg/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=407
 

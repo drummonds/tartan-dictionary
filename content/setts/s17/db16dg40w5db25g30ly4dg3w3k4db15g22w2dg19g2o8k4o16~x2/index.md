@@ -2,9 +2,10 @@
 title: "Les Cercles de Fermieres du Quebec"
 date: 2023-03-18
 ---
-In pattern [BGWBGYGWKBGWGGRKR](/stripes/bgwbgygwkbgwggrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16dg40ln5b25g30y4dg3ln3k4b15g22ln2dg19g2lt8k4lt16/)
+(the same proportion at any scale), whose colour order is pattern [BGWBGYGWKBGWGGRKR](/stripes/bgwbgygwkbgwggrkr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

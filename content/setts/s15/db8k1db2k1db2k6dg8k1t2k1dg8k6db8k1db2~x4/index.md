@@ -2,9 +2,10 @@
 title: "Rogers (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKBKGKBKB](/stripes/bkbkbkgkbkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1db2k1db2k6dg8k1b2k1dg8k6db8k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKBKGKBKB](/stripes/bkbkbkgkbkgkbkb/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10757/
 

@@ -2,9 +2,10 @@
 title: "Abergavenny"
 date: 2023-03-18
 ---
-In pattern [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr36k41lr4n6k8lt24lr12n4lt4k6n4lr4k48lt4lr8k22lr18/)
+(the same proportion at any scale), whose colour order is pattern [WKWRKWWKRWWRKWWKW](/stripes/wkwrkwwkrwwrkwwkw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4885
 

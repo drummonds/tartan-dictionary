@@ -2,9 +2,10 @@
 title: "Scottish Register of Tartans (Corp)"
 date: 2023-03-18
 ---
-In pattern [KRYRKGKGYGRGRWR](/stripes/kryrkgkgygrgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r11ln4r8t1r1t28lt2t28k2t2k23r3dy6r3k5/)
+(the same proportion at any scale), whose colour order is pattern [KRYRKGKGYGRGRWR](/stripes/kryrkgkgygrgrwr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10000/
 

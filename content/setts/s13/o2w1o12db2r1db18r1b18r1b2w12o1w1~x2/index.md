@@ -2,9 +2,10 @@
 title: "International Council for Commercial Arbitration"
 date: 2023-03-18
 ---
-In pattern [RWRBRBRBRBWRW](/stripes/rwrbrbrbrbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2w1o12db2r1db18r1b18r1b2w12o1w1/)
+(the same proportion at any scale), whose colour order is pattern [RWRBRBRBRBWRW](/stripes/rwrbrbrbrbwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11554
 

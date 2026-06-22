@@ -2,9 +2,10 @@
 title: "Dunn (Scotland) (Name)"
 date: 2023-03-18
 ---
-In pattern [BYBYBWBWBWBW](/stripes/bybybwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b45y6b3y6b3ln3db5ln3db5ln20b2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBWBWBWBW](/stripes/bybybwbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6481/
 

@@ -2,9 +2,10 @@
 title: "Andover (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBKYBR](/stripes/rbkybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1n12k6y1t10r1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYBR](/stripes/rbkybr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3019/
 

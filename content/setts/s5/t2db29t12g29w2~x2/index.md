@@ -2,9 +2,10 @@
 title: "Wallace Blue (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBGW](/stripes/bbbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2db29b12g29w2/)
+(the same proportion at any scale), whose colour order is pattern [BBBGW](/stripes/bbbgw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/46/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Wallace, Blue Wallace
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1985 — Wallace Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/46/))
-- undated — Wallace, Blue Wallace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Wallace Blue Clan Tartan Tartan Number: 46. Earliest known date: pre 2003 The design is based on the sett from the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=46))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1985 — Wallace Blue (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/46/">record</a>)</li>
+<li>undated — Wallace, Blue Wallace (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Wallace Blue Clan Tartan Tartan Number: 46. Earliest known date: pre 2003 The design is based on the sett from the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=46">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/4 DB58 B24 G58 W/4

@@ -2,9 +2,10 @@
 title: "MacDougall Clan Tartan Tartan Number: 1519. Earliest known date: 1815-16 The earliest reference to the MacDougall tartan is in the collection of the Highland Society of London where a sample exists, signed and sealed by the Clan Chief around 1815. The sett is a complex one and the nearest count to the present day day tartan comes from a sample in Paton's collection housed at the Scottish Tartans Museum, and dating to about 1830. The Highland Society also have a sample certified by the Chief MacDougall of MacDougall dated 1906, in their archives store at the Royal Caledonian School near London. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGRBRYRWRYRBRGRGYRYBRGRGRYW](/stripes/rgrbryrwryrbrgrgyrybrgrgryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g10r2db2r30n3r2ln1r2n3r30db2r2g10r10g10n4r2n4db10r4g2r4g30r2n3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRYRWRYRBRGRGYRYBRGRGRYW](/stripes/rgrbryrwryrbrgrgyrybrgrgryw/).
 
-This was sourced from house-of-tartan.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from house-of-tartan.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1519
 

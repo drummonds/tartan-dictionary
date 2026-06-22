@@ -2,9 +2,10 @@
 title: "Highland Green"
 date: 2023-03-18
 ---
-In pattern [BGBYBYBBGWGBBYBYBG](/stripes/bgbybybbgwgbbybybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13db5y3b6y3db5n6g28w2g28n6db5y3b6y3db5g13p4/)
+(the same proportion at any scale), whose colour order is pattern [BGBYBYBBGWGBBYBYBG](/stripes/bgbybybbgwgbbybybg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1710
 

@@ -2,9 +2,10 @@
 title: "Manx Centenary"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGG](/stripes/bgbgbgggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22g3b3g3b3g9n28g3n6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGG](/stripes/bgbgbgggg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

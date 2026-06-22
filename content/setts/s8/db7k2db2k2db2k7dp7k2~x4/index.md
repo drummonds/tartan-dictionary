@@ -2,18 +2,20 @@
 title: "Glasgow Academy"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBK](/stripes/bkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7k2db2k2db2k7p7k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBK](/stripes/bkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1992 — Glasgow Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351))
-- 1996 — Glasgow Academy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2052/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1992 — Glasgow Academy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1351">record</a>)</li>
+<li>1996 — Glasgow Academy (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2052/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

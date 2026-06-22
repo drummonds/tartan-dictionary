@@ -2,9 +2,10 @@
 title: "Hawick (Trade Sett)"
 date: 2023-03-18
 ---
-In pattern [RWKWGRKYKBRBKYKRGWKW](/stripes/rwkwgrkykbrbkykrgwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2k2w3g4r2k2y2k3b2r32b2k3y2k2r2g4w3k2w2r1/)
+(the same proportion at any scale), whose colour order is pattern [RWKWGRKYKBRBKYKRGWKW](/stripes/rwkwgrkykbrbkykrgwkw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1628
 

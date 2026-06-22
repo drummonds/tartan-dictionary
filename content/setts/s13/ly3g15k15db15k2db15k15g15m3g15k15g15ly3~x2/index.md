@@ -2,9 +2,10 @@
 title: "MacBride Family Tartan Tartan Number: 2153. Earliest known date: 1992 The family of MacBride, (from SaintBride or Brigid) are known to have been a sept of the MacDonalds. Head of the family, Mr Stuart C. MacBride, commissioned Mr Harry Lindley to create a MacBride tartan from the Ensigns Armorial recently granted by Lord Lyon. Mr MacBride is a member of the Weaver Incorporation of Aberdeen. Traditionally members of the family, as a courtesy, ask permission of the chief or head of the family before wearing his tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YGKBKBKGRGKGY](/stripes/ygkbkbkgrgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g15k15db15k2db15k15g15p3g15k15g15y3/)
+(the same proportion at any scale), whose colour order is pattern [YGKBKBKGRGKGY](/stripes/ygkbkbkgrgkgy/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2153
 

@@ -2,9 +2,10 @@
 title: "Waipu"
 date: 2023-03-18
 ---
-In pattern [GBKYBYKBRBGBRBKYBYKBGW](/stripes/gbkybykbrbgbrbkybykbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8db16k5y2p1y2k5db7r2db7g16db7r2db7k5y2p1y2k5db16g8ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBKYBYKBRBGBRBKYBYKBGW](/stripes/gbkybykbrbgbrbkybykbgw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4476
 

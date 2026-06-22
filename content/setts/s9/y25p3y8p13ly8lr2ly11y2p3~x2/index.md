@@ -2,9 +2,10 @@
 title: "Organic"
 date: 2023-03-18
 ---
-In pattern [BGYYYBGBG](/stripes/bgyyybgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b25p3b8p13dy8n2lg11b2p3/)
+(the same proportion at any scale), whose colour order is pattern [BGYYYBGBG](/stripes/bgyyybgbg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11379
 

@@ -2,9 +2,10 @@
 title: "Innes"
 date: 2023-03-18
 ---
-In pattern [BKBGKG](/stripes/bkbgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7k1g7b1k6b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBGKG](/stripes/bkbgkg/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

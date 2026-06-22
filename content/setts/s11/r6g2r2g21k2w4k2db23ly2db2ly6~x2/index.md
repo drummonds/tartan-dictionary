@@ -2,9 +2,10 @@
 title: "Glasgow, City of Culture"
 date: 2023-03-18
 ---
-In pattern [RGRGKWKBYBY](/stripes/rgrgkwkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g2r2g21k2w4k2db23y2db2y6/)
+(the same proportion at any scale), whose colour order is pattern [RGRGKWKBYBY](/stripes/rgrgkwkbyby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Culture, The...
 - Glasgow, City of Culture
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1989 — Glasgow, City of Culture (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359))
-- 1990? — Culture, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1534/))
-- undated — Culture, The... (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Culture The... Corporate Tartan Tartan Number: 1534. Earliest known date: 1989 Colours chosen to reflect a European essence that will endure beyond the 1990 'Year of Culture'. Supply and manufacture only at MacDonald MacKay (Kiltmakers) Ltd., Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1534))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — Glasgow, City of Culture (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1359">record</a>)</li>
+<li>1990? — Culture, The (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1534/">record</a>)</li>
+<li>undated — Culture, The... (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Culture The... Corporate Tartan Tartan Number: 1534. Earliest known date: 1989 Colours chosen to reflect a European essence that will endure beyond the 1990 'Year of Culture'. Supply and manufacture only at MacDonald MacKay (Kiltmakers) Ltd., Glasgow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1534">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

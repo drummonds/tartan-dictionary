@@ -2,9 +2,10 @@
 title: "Eastern Shore Police (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGGKBKGKYKGGGKR](/stripes/gggkbkgkykgggkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dg40g4k8db4k8g5k2dy4k2dg1g2dg2k1n1/)
+(the same proportion at any scale), whose colour order is pattern [GGGKBKGKYKGGGKR](/stripes/gggkbkgkykgggkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10672/
 

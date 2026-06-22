@@ -2,9 +2,10 @@
 title: "Bouguet, Adrian Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWYGYWGWYGYW](/stripes/rwygywgwygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb15lr6g15lr4n3g3n3lr4dg15lr2w3dr1/)
+(the same proportion at any scale), whose colour order is pattern [RWYGYWGWYGYW](/stripes/rwygywgwygyw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11264
 

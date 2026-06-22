@@ -2,9 +2,10 @@
 title: "Suzugamine (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGGBGKGBY](/stripes/bggbgkgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4t5g19p5t5k5t5db36ly3/)
+(the same proportion at any scale), whose colour order is pattern [BGGBGKGBY](/stripes/bggbgkgby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4217/
 

@@ -2,9 +2,10 @@
 title: "MacKellar Dress, Green (Dance)"
 date: 2023-03-18
 ---
-In pattern [GWGYGWGKYWY](/stripes/gwgygwgkywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg27ln2dg3dy4dg3ln2dg5k13b2ln26b3/)
+(the same proportion at any scale), whose colour order is pattern [GWGYGWGKYWY](/stripes/gwgygwgkywy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8877/
 

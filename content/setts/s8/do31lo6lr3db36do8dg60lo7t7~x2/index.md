@@ -2,9 +2,10 @@
 title: "Little-Dowse Wedding"
 date: 2023-03-18
 ---
-In pattern [BYGBBYYB](/stripes/bygbbyyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t31lt6n3db36t8g60lt7b7/)
+(the same proportion at any scale), whose colour order is pattern [BYGBBYYB](/stripes/bygbbyyb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11075
 

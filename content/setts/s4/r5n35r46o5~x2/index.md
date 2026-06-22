@@ -2,18 +2,20 @@
 title: "Bryce"
 date: 2023-03-18
 ---
-In pattern [RBRR](/stripes/rbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5n35dr46dy5/)
+(the same proportion at any scale), whose colour order is pattern [RBRR](/stripes/rbrr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1953 — Bryce (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408))
-- 1953 — Bryce (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1537/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1953 — Bryce (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=408">record</a>)</li>
+<li>1953 — Bryce (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1537/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

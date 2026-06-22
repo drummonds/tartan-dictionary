@@ -2,9 +2,10 @@
 title: "Sturrock"
 date: 2023-03-18
 ---
-In pattern [RKGRYR](/stripes/rkgryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52k32g22r16y3r16/)
+(the same proportion at any scale), whose colour order is pattern [RKGRYR](/stripes/rkgryr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

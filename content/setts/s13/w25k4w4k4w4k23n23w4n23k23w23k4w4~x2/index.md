@@ -2,9 +2,10 @@
 title: "Poulter, Grey (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WKWKBWBKWKWKW](/stripes/wkwkbwbkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln25k4ln4k4ln4k23n23ln4n23k23ln23k4ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKWKBWBKWKWKW](/stripes/wkwkbwbkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7512/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Poulter, Grey
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2008 — Poulter, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7512/))
-- undated — Poulter Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5550))
-- undated — Poulter Grey Corporate Tartan Tartan Number: 7512. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7512))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Poulter, Grey (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7512/">record</a>)</li>
+<li>undated — Poulter Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5550">record</a>)</li>
+<li>undated — Poulter Grey Corporate Tartan Tartan Number: 7512. Earliest known date: 2008 One of four colourways for corporate tartans for professional golfer Ian Poulter's fashion range. Woven in polyster/viscose. Count and sample from Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7512">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

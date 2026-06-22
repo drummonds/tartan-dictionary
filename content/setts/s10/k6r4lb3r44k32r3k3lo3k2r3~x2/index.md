@@ -2,9 +2,10 @@
 title: "Smeaton 1985 (Name)"
 date: 2023-03-18
 ---
-In pattern [KRWRKRKYKR](/stripes/krwrkrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r4n3r44k32r3k3dy3k2r3/)
+(the same proportion at any scale), whose colour order is pattern [KRWRKRKYKR](/stripes/krwrkrkykr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3213/
 

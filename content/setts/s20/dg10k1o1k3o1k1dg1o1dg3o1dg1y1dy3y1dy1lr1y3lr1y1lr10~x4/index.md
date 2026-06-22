@@ -2,9 +2,10 @@
 title: "Spice of Life"
 date: 2023-03-18
 ---
-In pattern [GKRKRKGRGRGGGGGYGYGY](/stripes/gkrkrkgrgrgggggygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10na1n1na3n1t1na1t3na1dn1ta1dn3ta1dn1k1ta1k3ta1k1dn10/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKGRGRGGGGGYGYGY](/stripes/gkrkrkgrgrgggggygygy/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10165
 

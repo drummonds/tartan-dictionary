@@ -2,9 +2,10 @@
 title: "MacKellar Dress Red Fashion Tartan Tartan Number: 6563. Earliest known date: 01/01/2002 The Mackellar Dress sett was originally designed by AA Bottomley of Peter MacArthur's. The colours of this version have been changed (presumably by DC Dalgliesh of Selkirk) to produce a Dancers' tartan./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r23ln2r3p4r3ln2r5k11do2ln23k3/)
+(the same proportion at any scale), whose colour order is pattern [KWRKRWRBRWR](/stripes/kwrkrwrbrwr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6563
 

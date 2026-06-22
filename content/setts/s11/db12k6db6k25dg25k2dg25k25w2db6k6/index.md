@@ -2,9 +2,10 @@
 title: "Wacker"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKWBK](/stripes/bkbkgkgkwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k6b6db25dg25k2dg25db25ln2b6k6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKWBK](/stripes/bkbkgkgkwbk/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

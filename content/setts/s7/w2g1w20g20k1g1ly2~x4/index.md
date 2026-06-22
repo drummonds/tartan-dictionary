@@ -2,9 +2,10 @@
 title: "Cunningham Dress Green (Dance) Fashion Tartan Tartan Number: 6532. Earliest known date: 01/01/1988 A dancers' tartan now woven by D C Dalgliesh of Selkirk /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGWGKGY](/stripes/wgwgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g1k1g20ln20g1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGWGKGY](/stripes/wgwgkgy/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6532
 

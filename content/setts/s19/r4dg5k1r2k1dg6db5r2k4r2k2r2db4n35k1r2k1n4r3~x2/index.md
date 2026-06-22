@@ -2,9 +2,10 @@
 title: "Taggart (Name)"
 date: 2023-03-18
 ---
-In pattern [RBKRKBBRKRKRBGKRKGR](/stripes/rbkrkbbrkrkrbgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg5k1dr2k1dg6db5dr2k4dr2k2dr2db4n35k1dr2k1n4dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBBRKRKRBGKRKGR](/stripes/rbkrkbbrkrkrbgkrkgr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10003/
 

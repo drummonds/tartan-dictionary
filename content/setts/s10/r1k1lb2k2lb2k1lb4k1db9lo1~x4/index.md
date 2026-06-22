@@ -2,9 +2,10 @@
 title: "Thompson Variant"
 date: 2023-03-18
 ---
-In pattern [RKWKWKWKBY](/stripes/rkwkwkwkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy1db9k1n4k1n2k2n2k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKWKWKWKBY](/stripes/rkwkwkwkby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4112
 

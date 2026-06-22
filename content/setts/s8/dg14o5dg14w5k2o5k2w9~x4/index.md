@@ -2,9 +2,10 @@
 title: "Unnamed (Hip Flask)"
 date: 2023-03-18
 ---
-In pattern [GRGWKRKW](/stripes/grgwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg14r5dg14ln5k2r5k2ln9/)
+(the same proportion at any scale), whose colour order is pattern [GRGWKRKW](/stripes/grgwkrkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4410
 

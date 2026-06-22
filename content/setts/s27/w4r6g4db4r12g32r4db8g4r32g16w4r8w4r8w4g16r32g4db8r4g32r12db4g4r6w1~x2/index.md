@@ -2,9 +2,10 @@
 title: "MacKinnon"
 date: 2023-03-18
 ---
-In pattern [WRGBRGRBGRGWRWRWGRGBRGRBGRW](/stripes/wrgbrgrbgrgwrwrwgrgbrgrbgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4r6g4db4r12g32r4db8g4r32g16ln4r8ln4r8ln4g16r32g4db8r4g32r12db4g4r6ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGBRGRBGRGWRWRWGRGBRGRBGRW](/stripes/wrgbrgrbgrgwrwrwgrgbrgrbgrw/).
 
-This was sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link /posts/logans-scottish-gael/
 

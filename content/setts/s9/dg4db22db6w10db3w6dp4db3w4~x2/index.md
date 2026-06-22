@@ -2,9 +2,10 @@
 title: "Sibbald Blue (2014)"
 date: 2023-03-18
 ---
-In pattern [GBBWBWBBW](/stripes/gbbwbwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4dba22db6w10dba3w6p4db3w4/)
+(the same proportion at any scale), whose colour order is pattern [GBBWBWBBW](/stripes/gbbwbwbbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11024/
 

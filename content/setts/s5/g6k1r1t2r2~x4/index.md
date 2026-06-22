@@ -2,9 +2,10 @@
 title: "Wilson's, No 193"
 date: 2023-03-18
 ---
-In pattern [GKRBR](/stripes/gkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k1r1b2r2/)
+(the same proportion at any scale), whose colour order is pattern [GKRBR](/stripes/gkrbr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Arnold (Name)"
 date: 2023-03-18
 ---
-In pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1dy2k1db5k1db2k2db2k4db2k2db2k1db5r1db4k20p3k4db4k1ln2k1db4k4p3k20db4r1db5k1db2k2db2k4db2k2db2k1db5k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [KKYKKKKKKKKKKKKRKKBKKKWKKKBKKRKKKKKKKKKKKKY](/stripes/kkykkkkkkkkkkkkrkkbkkkwkkkbkkrkkkkkkkkkkkky/).
 
-This was sourced from tartans-authority.  It is a [43 stripe tartan](/stripes/stripes43/).
+Sourced from tartans-authority.  It is a [43 stripe tartan](/stripes/stripes43/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10751/
 

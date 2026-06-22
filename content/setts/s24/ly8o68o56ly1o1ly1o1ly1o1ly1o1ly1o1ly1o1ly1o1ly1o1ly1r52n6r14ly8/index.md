@@ -2,9 +2,10 @@
 title: "Lehbrink No. 1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [YRBRYRYRYRYRYRYRYRYRYRRY](/stripes/yrbryryryryryryryryryrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8lt68do56lg1do1lg1do1lg1do1lg1do1lg1do1lg1do1lg1do1lg1do1lg1dr52n6dr14y8/)
+(the same proportion at any scale), whose colour order is pattern [YRBRYRYRYRYRYRYRYRYRYRRY](/stripes/yrbryryryryryryryryryrry/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8240/
 

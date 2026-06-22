@@ -2,18 +2,20 @@
 title: "Malcolm"
 date: 2023-03-18
 ---
-In pattern [BKGKBRBRBKGKYK](/stripes/bkgkbrbrbkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1y1k1g6k6b6r1b1r1b6k6g6k1ba1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBRBRBKGKYK](/stripes/bkgkbrbrbkgkyk/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Malcolm (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Malcolm Clan Tartan Tartan Number: 1976. Earliest known date: 1850 (1847) There is an error in D.C.Stewarts, 'The Setts..' (1950 1st Edition) corrected in the 2nd edition (1974). The name Malcolm was established, as distinct from MacCallum, in 1770 when the 9th Chief of Poltalloch changed the family name to Malcolm. This may well be the sett on which the MacCallum was based "from the recollection of old people in Argyllshire" and which D.W. Stewart illustrated in silk in his book, 'Old and Rare..'. Wilson's of Bannockburn produced a symetrical version of the Malcolm tartan which was recorded in their 1847 pattern book. The Gold and Azure of the additional stripes can be found in the armourial bearings of the Malcolm family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1976))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Malcolm (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Malcolm Clan Tartan Tartan Number: 1976. Earliest known date: 1850 (1847) There is an error in D.C.Stewarts, 'The Setts..' (1950 1st Edition) corrected in the 2nd edition (1974). The name Malcolm was established, as distinct from MacCallum, in 1770 when the 9th Chief of Poltalloch changed the family name to Malcolm. This may well be the sett on which the MacCallum was based "from the recollection of old people in Argyllshire" and which D.W. Stewart illustrated in silk in his book, 'Old and Rare..'. Wilson's of Bannockburn produced a symetrical version of the Malcolm tartan which was recorded in their 1847 pattern book. The Gold and Azure of the additional stripes can be found in the armourial bearings of the Malcolm family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1976">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 Y4 K4 G24 K24 B24 R4 B4 R4 B24 K24 G24 K4 Ba/4

@@ -2,9 +2,10 @@
 title: "Johnston Orange/Black"
 date: 2023-03-18
 ---
-In pattern [KYKYKYWYKYKYKY](/stripes/kykykywykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1o1k12o12k1o1w1o1k1o12k12o1k1o1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYWYKYKYKY](/stripes/kykykywykykyky/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1898
 

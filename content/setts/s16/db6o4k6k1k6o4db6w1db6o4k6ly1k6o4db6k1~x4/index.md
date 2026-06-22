@@ -2,9 +2,10 @@
 title: "Amnesty International Corporate Tartan Tartan Number: 3016. Earliest known date: 2002 Bill Scobie of Amnesty International Dumbarton and Lomond Group in Scotland, asked James Scarlett to design a celebratory tartan for their 40th year. The colours describe the multi-racial and international compass of AI's work. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKKKRBWBRKYKRBK](/stripes/brkkkrbwbrkykrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6lt4lg6wr1lg6lt4db6ln1db6lt4lg6y1lg6lt4db6k1/)
+(the same proportion at any scale), whose colour order is pattern [BRKKKRBWBRKYKRBK](/stripes/brkkkrbwbrkykrbk/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3016
 

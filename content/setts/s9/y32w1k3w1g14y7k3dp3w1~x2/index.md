@@ -2,9 +2,10 @@
 title: "Leach Htg #2 (Name)"
 date: 2023-03-18
 ---
-In pattern [GWKWGGKBW](/stripes/gwkwggkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32ln1k3ln1ga14g7k3p3ln1/)
+(the same proportion at any scale), whose colour order is pattern [GWKWGGKBW](/stripes/gwkwggkbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5402/
 

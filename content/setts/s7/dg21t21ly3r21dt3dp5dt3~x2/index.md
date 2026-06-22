@@ -2,9 +2,10 @@
 title: "Falardeau-Murphy (Canada) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRYBG](/stripes/bbbrybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21b21y3dr21dn3p5dn3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRYBG](/stripes/bbbrybg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11033
 

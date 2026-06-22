@@ -2,18 +2,20 @@
 title: "Ivanka Trump (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWKWKWRWRWBWRKW](/stripes/rwkwkwrwrwbwrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w12k2lp3w1b1w2lr2w2lr2w24k1w4k4w2lr12/)
+(the same proportion at any scale), whose colour order is pattern [RWKWKWRWRWBWRKW](/stripes/rwkwkwrwrwbwrkw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7843/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec. 2008 — Ivanka Trump (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7843/))
-- undated — Ivanka Trump (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec. 2008 — Ivanka Trump (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7843/">record</a>)</li>
+<li>undated — Ivanka Trump (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5795">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

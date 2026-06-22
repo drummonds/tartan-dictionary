@@ -2,9 +2,10 @@
 title: "Milne Dress Family Tartan Tartan Number: 634. Earliest known date: pre 2003 Milnes are usually regarded as being a Sept of the Gordons or of the Ogilvys. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBWRWBW](/stripes/bwbwrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln18db4ln18r30ln18db4ln9p4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRWBW](/stripes/bwbwrwbw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=634
 

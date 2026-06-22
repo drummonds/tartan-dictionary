@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/wbkbby/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WBKBBY</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/w4dt54k53dp4b8lo4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WBKBBY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

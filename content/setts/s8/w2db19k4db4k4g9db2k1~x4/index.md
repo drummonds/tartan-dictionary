@@ -2,9 +2,10 @@
 title: "Dollar Academy (1999) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBGKBKBW](/stripes/kbgkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2dba19k4dba4k4g9db2k1/)
+(the same proportion at any scale), whose colour order is pattern [KBGKBKBW](/stripes/kbgkbkbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2668/
 

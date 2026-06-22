@@ -2,9 +2,10 @@
 title: "Oliver Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [GRGRBRWKWRBRGRGW](/stripes/grgrbrwkwrbrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1dr1g1dr1db7dr6w7k1w7dr6db7dr1g1dr1g1w1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRWKWRBRGRGW](/stripes/grgrbrwkwrbrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3238
 

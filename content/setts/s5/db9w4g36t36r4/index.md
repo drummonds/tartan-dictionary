@@ -2,9 +2,10 @@
 title: "Alvis of Lee (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWGBR](/stripes/bwgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9ln4g36b36r4/)
+(the same proportion at any scale), whose colour order is pattern [BWGBR](/stripes/bwgbr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2081
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Alvis of Lee Personal
 - Alvis, of Lee
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/04/1985 — Alvis of Lee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2081))
-- undated — Alvis, of Lee (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Alvis of Lee Personal Tartan Tartan Number: 643. Earliest known date: 1985 Designed for the Baron of Lee See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=643))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/1985 — Alvis of Lee (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2081">record</a>)</li>
+<li>undated — Alvis, of Lee (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Alvis of Lee Personal Tartan Tartan Number: 643. Earliest known date: 1985 Designed for the Baron of Lee See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=643">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

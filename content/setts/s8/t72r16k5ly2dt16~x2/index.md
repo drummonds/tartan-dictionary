@@ -2,9 +2,10 @@
 title: "Thomas Jean Marc Personal Tartan Tartan Number: 6990. Earliest known date: 2005 A personal tartan for Jean Marc Thomas, Paris. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKYBYKR](/stripes/brkybykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b72r16k5y2db16/)
+(the same proportion at any scale), whose colour order is pattern [BRKYBYKR](/stripes/brkybykr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6990
 

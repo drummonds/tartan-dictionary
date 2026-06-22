@@ -2,9 +2,10 @@
 title: "Cockburn #4"
 date: 2023-03-18
 ---
-In pattern [KGKBKWKBKGKGKGKGKGKBKWKBKYKGKRKGKYKBKWKBKGKGKGKGKGKBKWKBKGKR](/stripes/kgkbkwkbkgkgkgkgkgkbkwkbkykgkrkgkykbkwkbkgkgkgkgkgkbkwkbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k2g30k2y5k2db31k2ln5k2db31k6g2k2g2k2g86k2g2k2g2k6db31k2ln5k2db31k6g25k2r5/)
+(the same proportion at any scale), whose colour order is pattern [KGKBKWKBKGKGKGKGKGKBKWKBKYKGKRKGKYKBKWKBKGKGKGKGKGKBKWKBKGKR](/stripes/kgkbkwkbkgkgkgkgkgkbkwkbkykgkrkgkykbkwkbkgkgkgkgkgkbkwkbkgkr/).
 
-This was sourced from register-of-tartans.  It is a [60 stripe tartan](/stripes/stripes60/).
+Sourced from register-of-tartans.  It is a [60 stripe tartan](/stripes/stripes60/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=702
 

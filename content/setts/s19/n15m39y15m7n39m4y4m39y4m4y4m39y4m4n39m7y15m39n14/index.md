@@ -2,9 +2,10 @@
 title: "Na Fir Dileas"
 date: 2023-03-18
 ---
-In pattern [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b15dr39n15dr7b39dr4n4dr39n4dr4n4dr39n4dr4b39dr7n15dr39b14/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRGRGRGRGRBRGRB](/stripes/brgrbrgrgrgrgrbrgrb/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10435
 

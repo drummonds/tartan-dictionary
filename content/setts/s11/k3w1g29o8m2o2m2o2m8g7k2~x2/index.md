@@ -2,9 +2,10 @@
 title: "Gray Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [KGRRRRRRGWK](/stripes/kgrrrrrrgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ln1g29n8p2n2p2n2p8g7k2/)
+(the same proportion at any scale), whose colour order is pattern [KGRRRRRRGWK](/stripes/kgrrrrrrgwk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1079/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gray Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1990 — Gray Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1079/))
-- undated — Gray Hunting Family Tartan Tartan Number: 1079. Earliest known date: 1990 There is also a Gray tartan designed by Mrs G. Gray some years earlier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1079))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1990 — Gray Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1079/">record</a>)</li>
+<li>undated — Gray Hunting Family Tartan Tartan Number: 1079. Earliest known date: 1990 There is also a Gray tartan designed by Mrs G. Gray some years earlier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1079">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 LN2 G58 N16 P4 N4 P4 N4 P16 G14 K/4

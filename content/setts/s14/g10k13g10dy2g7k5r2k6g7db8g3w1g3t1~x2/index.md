@@ -2,9 +2,10 @@
 title: "Williams Arbutus (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGWGBGKRKGGGKG](/stripes/bgwgbgkrkgggkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k13g10t2g7k5r2k6g7db8g3ln1g3b1/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBGKRKGGGKG](/stripes/bgwgbgkrkgggkg/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10588/
 

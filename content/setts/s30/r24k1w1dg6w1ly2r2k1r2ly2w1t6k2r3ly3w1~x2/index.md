@@ -2,9 +2,10 @@
 title: "Hong Kong Police Pipe Band"
 date: 2023-03-18
 ---
-In pattern [KWGWYRKRYWBKRYWYRKBWYRKRYWGWKR](/stripes/kwgwyrkrywbkrywyrkbwyrkrywgwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24k1ln1g6ln1y2r2k1r2y2ln1b6k2r3y3ln1/)
+(the same proportion at any scale), whose colour order is pattern [KWGWYRKRYWBKRYWYRKBWYRKRYWGWKR](/stripes/kwgwyrkrywbkrywyrkbwyrkrywgwkr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1759
 

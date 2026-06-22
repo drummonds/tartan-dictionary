@@ -2,9 +2,10 @@
 title: "Annan (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBBGRGRGRG](/stripes/gbbgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt16na2lt2do2lt2na2lt2dr6n10lt3/)
+(the same proportion at any scale), whose colour order is pattern [GBBGRGRGRG](/stripes/gbbgrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1742/
 

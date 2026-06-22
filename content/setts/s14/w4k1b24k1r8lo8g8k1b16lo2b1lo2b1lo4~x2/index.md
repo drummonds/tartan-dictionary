@@ -2,9 +2,10 @@
 title: "Ethiopia"
 date: 2023-03-18
 ---
-In pattern [WKBKRYGKBYBYBY](/stripes/wkbkrygkbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4b1dy2b1dy2b16k1g8dy8r8k1b24k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKBKRYGKBYBYBY](/stripes/wkbkrygkbybyby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5977
 

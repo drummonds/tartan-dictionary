@@ -2,9 +2,10 @@
 title: "Wojtek Memorial Trust"
 date: 2023-03-18
 ---
-In pattern [WBRBRBGGGGW](/stripes/wbrbrbggggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3db15r6db3r3db4dg11g3dg3g28lr3/)
+(the same proportion at any scale), whose colour order is pattern [WBRBRBGGGGW](/stripes/wbrbrbggggw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10921/
 

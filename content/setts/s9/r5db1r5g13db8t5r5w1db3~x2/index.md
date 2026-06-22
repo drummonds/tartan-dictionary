@@ -2,9 +2,10 @@
 title: "Unidentified #27"
 date: 2023-03-18
 ---
-In pattern [BWRBBGRBR](/stripes/bwrbbgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db1r5g13db8b5r5ln1db3/)
+(the same proportion at any scale), whose colour order is pattern [BWRBBGRBR](/stripes/bwrbbgrbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4228
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified #27
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified #27 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4228))
-- undated — Unnamed 2 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified #27 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4228">record</a>)</li>
+<li>undated — Unnamed 2 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

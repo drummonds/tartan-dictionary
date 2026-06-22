@@ -2,9 +2,10 @@
 title: "Highland Spring (1985)"
 date: 2023-03-18
 ---
-In pattern [RBKBKBGYGRKR](/stripes/rbkbkbgygrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2r9g12dy2g10b3k2b3k2b3r10/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBGYGRKR](/stripes/rbkbkbgygrkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1719
 

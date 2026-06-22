@@ -2,9 +2,10 @@
 title: "Selkirk"
 date: 2023-03-18
 ---
-In pattern [BGBKWKBKBKBKWKRGB](/stripes/bgbkwkbkbkbkwkrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24g2db12k2ln2k3p2k3b4k3p2k3ln2k2r12g2b24/)
+(the same proportion at any scale), whose colour order is pattern [BGBKWKBKBKBKWKRGB](/stripes/bgbkwkbkbkbkwkrgb/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

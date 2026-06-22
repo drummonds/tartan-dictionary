@@ -2,9 +2,10 @@
 title: "Miller Hargreaves (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYWGBWBW](/stripes/rywgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n40db4n4p5g5n3y6r3/)
+(the same proportion at any scale), whose colour order is pattern [RYWGBWBW](/stripes/rywgbwbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11252/
 

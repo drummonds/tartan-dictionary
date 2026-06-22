@@ -2,18 +2,20 @@
 title: "Oliphant Dress"
 date: 2023-03-18
 ---
-In pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln25b2ln2b2ln2b10k2b4k2b10ga23ln2ga4/)
+(the same proportion at any scale), whose colour order is pattern [GWGBKBKBWBWBW](/stripes/gwgbkbkbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 05/05/2010 — Oliphant Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227))
-- undated — Oliphant Dress Clan Tartan Tartan Number: 9227. Earliest known date: 2010 Intended as the officially recognised dress tartan for the Oliphant clan. The design proposal has the clan chief's approval. Chief Richard Oliphant said, "I am more than happy with the design and glad to have it." The main elements of the Oliphant tartan have been preserved in the new design and woven in the brightest ancient colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9227))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>05/05/2010 — Oliphant Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10227">record</a>)</li>
+<li>undated — Oliphant Dress Clan Tartan Tartan Number: 9227. Earliest known date: 2010 Intended as the officially recognised dress tartan for the Oliphant clan. The design proposal has the clan chief's approval. Chief Richard Oliphant said, "I am more than happy with the design and glad to have it." The main elements of the Oliphant tartan have been preserved in the new design and woven in the brightest ancient colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9227">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

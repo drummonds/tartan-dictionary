@@ -2,19 +2,21 @@
 title: "MacKellar"
 date: 2023-03-18
 ---
-In pattern [GWGYGWGKBKBW](/stripes/gwgygwgkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30w3g4y5g4w3g6k14b3k14db18w4/)
+(the same proportion at any scale), whose colour order is pattern [GWGYGWGKBKBW](/stripes/gwgygwgkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2514
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1964 — MacKellar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2514))
-- pre 1964 — MacKellar (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/939/))
-- undated — MacKellar (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1964 — MacKellar (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2514">record</a>)</li>
+<li>pre 1964 — MacKellar (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/939/">record</a>)</li>
+<li>undated — MacKellar (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

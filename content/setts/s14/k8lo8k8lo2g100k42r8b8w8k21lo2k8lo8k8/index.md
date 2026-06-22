@@ -2,9 +2,10 @@
 title: "Tarassow Russian Scouts Corporate Tartan Tartan Number: 7614. Earliest known date: 2008 In Germany our scout association stands under the patronage of the Russian orthodox parish in Frankfurt, which has the status of charitable organisation. We also have in France the status of Association Loi de 1901 - which is a non profit association based on benevolate : Sergei Tarassow is the elected president of this association, named Scouts Russes Saint Georges 1909. In USA they have the same status under the name of Saint George Pathfinders of America. The yellow stripes in the design represent the ribbon of the Order of St George See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYKYGKRBWKYKYK](/stripes/kykygkrbwkykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dy8k8dy2g100k42r8b8ln8k21dy2k8dy8k8/)
+(the same proportion at any scale), whose colour order is pattern [KYKYGKRBWKYKYK](/stripes/kykygkrbwkykyk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7614
 

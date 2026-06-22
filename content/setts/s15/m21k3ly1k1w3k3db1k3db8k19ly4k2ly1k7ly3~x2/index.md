@@ -2,9 +2,10 @@
 title: "Ruxton"
 date: 2023-03-18
 ---
-In pattern [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr21k3y1k1ln3k3b1k3b8k19y4k2y1k7y3/)
+(the same proportion at any scale), whose colour order is pattern [RKYKWKBKBKYKYKY](/stripes/rkykwkbkbkykyky/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

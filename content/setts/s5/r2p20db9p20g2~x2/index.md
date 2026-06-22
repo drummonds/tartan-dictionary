@@ -2,9 +2,10 @@
 title: "Scottish Netball Association"
 date: 2023-03-18
 ---
-In pattern [GBBBR](/stripes/gbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2p20b9p20g2/)
+(the same proportion at any scale), whose colour order is pattern [GBBBR](/stripes/gbbbr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

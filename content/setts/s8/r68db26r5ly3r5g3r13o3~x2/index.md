@@ -2,9 +2,10 @@
 title: "De Nardi (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRYRGRR](/stripes/rbryrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r68db26r5y3r5g3r13n3/)
+(the same proportion at any scale), whose colour order is pattern [RBRYRGRR](/stripes/rbryrgrr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=900
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - de Nardi
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2001 — De Nardi (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=900))
-- pre 2004 — de Nardi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6187/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2001 — De Nardi (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=900">record</a>)</li>
+<li>pre 2004 — de Nardi (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6187/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

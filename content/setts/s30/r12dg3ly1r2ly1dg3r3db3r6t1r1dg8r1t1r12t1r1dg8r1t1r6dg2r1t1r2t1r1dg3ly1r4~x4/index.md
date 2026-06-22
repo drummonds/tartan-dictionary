@@ -2,9 +2,10 @@
 title: "MacAlister (Gourlay Steele Collection)"
 date: 2023-03-18
 ---
-In pattern [RGYRYGRBRBRGRBRBRGRBRGRBRBRGYR](/stripes/rgyrygrbrbrgrbrbrgrbrgrbrbrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g3y1r2y1g3r3b3r6ba1r1g8r1ba1r12ba1r1g8r1ba1r6g2r1ba1r2ba1r1g3y1r4/)
+(the same proportion at any scale), whose colour order is pattern [RGYRYGRBRBRGRBRBRGRBRGRBRBRGYR](/stripes/rgyrygrbrbrgrbrbrgrbrgrbrbrgyr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2266
 

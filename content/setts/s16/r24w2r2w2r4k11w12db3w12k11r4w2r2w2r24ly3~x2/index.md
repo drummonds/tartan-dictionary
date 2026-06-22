@@ -2,9 +2,10 @@
 title: "Heart of Midlothian Football Club"
 date: 2023-03-18
 ---
-In pattern [RWRWRKWBWKRWRWRY](/stripes/rwrwrkwbwkrwrwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24ln2dr2ln2dr4k11ln12db3ln12k11dr4ln2dr2ln2dr24y3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKWBWKRWRWRY](/stripes/rwrwrkwbwkrwrwry/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1641
 

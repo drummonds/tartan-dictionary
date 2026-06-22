@@ -2,9 +2,10 @@
 title: "European"
 date: 2023-03-18
 ---
-In pattern [BYBYBKBR](/stripes/bybybkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n70y4n3y4n7k2n2r7/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBKBR](/stripes/bybybkbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1138
 

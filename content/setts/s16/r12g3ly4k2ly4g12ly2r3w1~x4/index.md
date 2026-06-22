@@ -2,9 +2,10 @@
 title: "Unnamed C18th - Prince Charles Edward #4"
 date: 2023-03-18
 ---
-In pattern [GYKYGYRWRYGYKYGR](/stripes/gykygyrwrygykygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g3y4k2y4g12y2r3ln1/)
+(the same proportion at any scale), whose colour order is pattern [GYKYGYRWRYGYKYGR](/stripes/gykygyrwrygykygr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4423
 

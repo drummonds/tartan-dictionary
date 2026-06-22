@@ -2,18 +2,20 @@
 title: "Brunnbauer (2015)"
 date: 2023-03-18
 ---
-In pattern [WBWKRYRW](/stripes/wbwkryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4b32w12k5r9y8r4w4/)
+(the same proportion at any scale), whose colour order is pattern [WBWKRYRW](/stripes/wbwkryrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11253
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 02/02/2015 — Brunnbauer (2015) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11253))
-- 2015 — Brunnbauer (2015) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11253/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>02/02/2015 — Brunnbauer (2015) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11253">record</a>)</li>
+<li>2015 — Brunnbauer (2015) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11253/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

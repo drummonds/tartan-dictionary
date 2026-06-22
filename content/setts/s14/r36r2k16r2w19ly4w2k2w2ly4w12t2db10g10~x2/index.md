@@ -2,9 +2,10 @@
 title: "Dundee Dress"
 date: 2023-03-18
 ---
-In pattern [GBBWYWKWYWRKRR](/stripes/gbbwywkwywrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36lr2k16lr2ln19y4ln2k2ln2y4ln12b2db10g10/)
+(the same proportion at any scale), whose colour order is pattern [GBBWYWKWYWRKRR](/stripes/gbbwywkwywrkrr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Dundee Dress #1
 - Dundee, dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Dundee Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034))
-- pre 2002 — Dundee Dress #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/691/))
-- undated — Dundee, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Dundee Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1034">record</a>)</li>
+<li>pre 2002 — Dundee Dress #1 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/691/">record</a>)</li>
+<li>undated — Dundee, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

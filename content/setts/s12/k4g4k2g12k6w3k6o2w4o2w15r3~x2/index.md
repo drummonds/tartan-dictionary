@@ -2,9 +2,10 @@
 title: "Hayama Shirt Honten, The"
 date: 2023-03-18
 ---
-In pattern [KGKGKWKRWRWR](/stripes/kgkgkwkrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g4k2g12k6w3k6n2w4n2w15r3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKWKRWRWR](/stripes/kgkgkwkrwrwr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10916/
 

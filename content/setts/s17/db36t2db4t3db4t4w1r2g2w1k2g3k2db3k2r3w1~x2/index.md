@@ -2,9 +2,10 @@
 title: "Reeves (2015)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBWRGWKGKBKRW](/stripes/bbbbbbwrgwkgkbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b36ba2b4ba3b4ba4w1r2g2w1k2g3k2b3k2r3w1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBWRGWKGKBKRW](/stripes/bbbbbbwrgwkgkbkrw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11341
 

@@ -2,9 +2,10 @@
 title: "Ottawa"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGWGWGWGBGBGBGWGWGR](/stripes/gbgbgbgwgwgwgbgbgbgwgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg7b4lg1b4lg1b4lg7ln2lg6ln1lg1ln1lg1db2lg1db3lg1db2lg1ln1lg1ln1lg6r1/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGWGWGWGBGBGBGWGWGR](/stripes/gbgbgbgwgwgwgbgbgbgwgwgr/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

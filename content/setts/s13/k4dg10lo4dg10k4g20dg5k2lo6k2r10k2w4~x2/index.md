@@ -2,9 +2,10 @@
 title: "Donegal County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dg10dy4dg10k4g20dg5k2dy6k2r10k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [KGYGKGGKYKRKW](/stripes/kgygkggkykrkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7450/
 

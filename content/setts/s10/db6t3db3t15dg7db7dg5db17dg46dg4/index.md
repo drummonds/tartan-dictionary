@@ -2,18 +2,20 @@
 title: "Jones (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [BBBBGBGBGG](/stripes/bbbbgbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6b3db3b15dg7db7dg5db17dg46g4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGBGBGG](/stripes/bbbbgbgbgg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5764/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Jones (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5764/))
-- undated — Jones Welsh Name Tartan Tartan Number: 5764. Earliest known date: 2002 The tartan for this Welsh surname and its variations, John, Jone, Jones, Shone, Sion, Ieuan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5764))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Jones (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5764/">record</a>)</li>
+<li>undated — Jones Welsh Name Tartan Tartan Number: 5764. Earliest known date: 2002 The tartan for this Welsh surname and its variations, John, Jone, Jones, Shone, Sion, Ieuan, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5764">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/6 B3 DB3 B15 DG7 DB7 DG5 DB17 DG46 G/4

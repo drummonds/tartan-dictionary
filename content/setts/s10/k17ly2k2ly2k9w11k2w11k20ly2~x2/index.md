@@ -2,9 +2,10 @@
 title: "Coppa Romana (Switzerland)"
 date: 2023-03-18
 ---
-In pattern [KYKYKWKWKY](/stripes/kykykwkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k17y2k2y2k9w11k2w11k20y2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKWKWKY](/stripes/kykykwkwky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10804
 

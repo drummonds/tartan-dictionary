@@ -2,9 +2,10 @@
 title: "Strathtummel"
 date: 2023-03-18
 ---
-In pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db37ka2db2ka3k13ka10w2ka10t1ka2t2ka2t9ka13/)
+(the same proportion at any scale), whose colour order is pattern [BKBKKKWKGKGKGK](/stripes/bkbkkkwkgkgkgk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10116
 

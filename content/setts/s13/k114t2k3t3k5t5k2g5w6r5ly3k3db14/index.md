@@ -2,9 +2,10 @@
 title: "Western Australia-Pending (District)"
 date: 2023-03-18
 ---
-In pattern [BKYRWGKBKBKBK](/stripes/bkyrwgkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k114b2k3b3k5b5k2g5ln6r5y3k3db14/)
+(the same proportion at any scale), whose colour order is pattern [BKYRWGKBKBKBK](/stripes/bkyrwgkbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10513/
 

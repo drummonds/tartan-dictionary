@@ -2,9 +2,10 @@
 title: "Sandbaggers (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYRRRBRBRBRBY](/stripes/byrrrbrbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na6n3nb7n2nb5n8nb5n15nb18r2nb2y2b3/)
+(the same proportion at any scale), whose colour order is pattern [BYRRRBRBRBRBY](/stripes/byrrrbrbrbrby/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8130/
 

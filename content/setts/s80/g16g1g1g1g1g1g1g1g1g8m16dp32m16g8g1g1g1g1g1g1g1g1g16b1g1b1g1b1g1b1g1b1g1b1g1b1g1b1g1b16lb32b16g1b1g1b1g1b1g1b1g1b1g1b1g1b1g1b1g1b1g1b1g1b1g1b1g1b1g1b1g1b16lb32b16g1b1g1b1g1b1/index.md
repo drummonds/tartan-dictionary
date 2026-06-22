@@ -2,9 +2,10 @@
 title: "Virginia (USA)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG](/stripes/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga16g1ga1g1ga1g1ga1g1ga1g8lpa16p32lpa16g8ga1g1ga1g1ga1g1ga1g1ga16bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb16lp32bb16ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb1ga1bb16lp32bb16ga1bb1ga1bb1ga1bb1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBWBGBGBGBGBGBGBGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBGBGGGGGGGGGGRBRGGGGGGGGGG](/stripes/bgbgbgbwbgbgbgbgbgbgbgbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbgbggggggggggrbrgggggggggg/).
 
-This was sourced from register-of-tartans.  It is a [80 stripe tartan](/stripes/stripes80/).
+Sourced from register-of-tartans.  It is a [80 stripe tartan](/stripes/stripes80/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4466
 

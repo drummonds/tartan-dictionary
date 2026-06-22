@@ -2,9 +2,10 @@
 title: "City of Pointe-Claire"
 date: 2023-03-18
 ---
-In pattern [BWRKBRWRWR](/stripes/bwrkbrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4w1lt1k2b4lt2w1lt1w1lt1/)
+(the same proportion at any scale), whose colour order is pattern [BWRKBRWRWR](/stripes/bwrkbrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10509
 

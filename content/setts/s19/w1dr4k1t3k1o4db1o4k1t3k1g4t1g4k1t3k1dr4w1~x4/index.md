@@ -2,18 +2,20 @@
 title: "Caribou (District)"
 date: 2023-03-18
 ---
-In pattern [WBKBKGBGKBKRBRKBKBW](/stripes/wbkbkgbgkbkrbrkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1dr4k1b3k1n4db1n4k1b3k1g4b1g4k1b3k1dr4ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBKBKGBGKBKRBRKBKBW](/stripes/wbkbkgbgkbkrbrkbkbw/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2056/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1982 — Caribou (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2056/))
-- 01/01/1990 — Caribou (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=561))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1982 — Caribou (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2056/">record</a>)</li>
+<li>01/01/1990 — Caribou (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=561">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

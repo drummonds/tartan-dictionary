@@ -2,9 +2,10 @@
 title: "Dunbar Ancient"
 date: 2023-03-18
 ---
-In pattern [KWKRKW](/stripes/kwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28k4ln2k13/)
+(the same proportion at any scale), whose colour order is pattern [KWKRKW](/stripes/kwkrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1016
 

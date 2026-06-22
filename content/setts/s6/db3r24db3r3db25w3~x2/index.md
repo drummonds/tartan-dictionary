@@ -2,19 +2,21 @@
 title: "Matthews (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBW](/stripes/brbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3r24db3r3db25ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBW](/stripes/brbrbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/09/2006 — Matthews (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914))
-- 2006 September — Matthews (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7003/))
-- undated — Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2006 — Matthews (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4914">record</a>)</li>
+<li>2006 September — Matthews (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7003/">record</a>)</li>
+<li>undated — Matthews Clan Tartan Tartan Number: 7003. Earliest known date: 2006 September A variant of the Donnachaidh (Robertson) tartan and reflects the Matthews family membership of that clan. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7003">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

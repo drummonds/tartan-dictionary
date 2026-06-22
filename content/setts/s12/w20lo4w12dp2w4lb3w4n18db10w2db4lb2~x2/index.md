@@ -2,9 +2,10 @@
 title: "Portree, Blue (Dance)"
 date: 2023-03-18
 ---
-In pattern [WBWBBWWWBWYW](/stripes/wbwbbwwwbwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly20dy4ly12p2ly4lb3ly4b18db10ly2db4lb2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBBWWWBWYW](/stripes/wbwbbwwwbwyw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5488/
 

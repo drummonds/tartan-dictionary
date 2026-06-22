@@ -2,9 +2,10 @@
 title: "Lochcarron Hunting Corporate Tartan Tartan Number: 5464. Earliest known date: 01/01/2002 Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBKBKBGKGKGRGR](/stripes/gbkbkbgkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3db10wwb3db2wwb2db2g3k5g2k5g22dr2g3dr2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBGKGKGRGR](/stripes/gbkbkbgkgkgrgr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5464
 

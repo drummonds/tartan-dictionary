@@ -2,9 +2,10 @@
 title: "Militello (Palermo) Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKGBWR](/stripes/rkgbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3w3b36g36k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKGBWR](/stripes/rkgbwr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10309
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Militello, Massimiliano
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 02/11/2010 — Militello (Palermo) Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10309))
-- 2nd Nov.2010 — Militello, Massimiliano (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10309/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>02/11/2010 — Militello (Palermo) Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10309">record</a>)</li>
+<li>2nd Nov.2010 — Militello, Massimiliano (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10309/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

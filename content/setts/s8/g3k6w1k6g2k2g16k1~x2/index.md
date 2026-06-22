@@ -2,9 +2,10 @@
 title: "MacLean of Duart, hunting"
 date: 2023-03-18
 ---
-In pattern [GKWKGKGK](/stripes/gkwkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3k6ln1k6g2k2g16k1/)
+(the same proportion at any scale), whose colour order is pattern [GKWKGKGK](/stripes/gkwkgkgk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLean of Duart, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLean of Duart, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacLean of Duart Hunting Clan Tartan Tartan Number: 824. Earliest known date: 1842 (1587) Perhaps dating back as far as 1587 but there is some debate as to the validity of the historical evidence. A charter granted to Hector MacLean, Heir of Duart, in the lands of Islay, the feu duty to be payable in the form of 60 ells cloth of white, black and green colours. This may well account for the colours, the proportions being the invention of the Sobieski Stuarts. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=824))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLean of Duart, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacLean of Duart Hunting Clan Tartan Tartan Number: 824. Earliest known date: 1842 (1587) Perhaps dating back as far as 1587 but there is some debate as to the validity of the historical evidence. A charter granted to Hector MacLean, Heir of Duart, in the lands of Islay, the feu duty to be payable in the form of 60 ells cloth of white, black and green colours. This may well account for the colours, the proportions being the invention of the Sobieski Stuarts. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=824">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/6 K12 LN2 K12 G4 K4 G32 K/2

@@ -2,9 +2,10 @@
 title: "78th Regiment (Highlanders) (Mil.)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30k5b5k5b5k31g31k3ln7k3g31k31b31k3r7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3600/
 

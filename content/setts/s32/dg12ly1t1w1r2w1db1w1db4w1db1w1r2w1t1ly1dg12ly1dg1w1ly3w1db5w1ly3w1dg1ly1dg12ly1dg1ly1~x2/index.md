@@ -2,9 +2,10 @@
 title: "Henry (2016)"
 date: 2023-03-18
 ---
-In pattern [GYBWRWBWBWBWRWBYGYGWYWBWYWGYGYGY](/stripes/gybwrwbwbwbwrwbygygwywbwywgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12y1ba1w1r2w1b1w1b4w1b1w1r2w1ba1y1g12y1g1w1y3w1b5w1y3w1g1y1g12y1g1y1/)
+(the same proportion at any scale), whose colour order is pattern [GYBWRWBWBWBWRWBYGYGWYWBWYWGYGYGY](/stripes/gybwrwbwbwbwrwbygygwywbwywgygygy/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11437
 

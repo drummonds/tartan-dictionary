@@ -2,9 +2,10 @@
 title: "Niagara Falls"
 date: 2023-03-18
 ---
-In pattern [BGBGRGBGBYRR](/stripes/bgbgrgbgbyrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22g4b4g17lt17g17b4g4b22y8lt8r8/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRGBGBYRR](/stripes/bgbgrgbgbyrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

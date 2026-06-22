@@ -2,18 +2,20 @@
 title: "Scott"
 date: 2023-03-18
 ---
-In pattern [GRKRGRGYGR](/stripes/grkrgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg4n3dg4dr4dg14dr28k1dr3dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRGYGR](/stripes/grkrgrgygr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scott (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Scott (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scott (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Scott (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/8 DG8 N6 DG8 DR8 DG28 DR56 K2 DR6 DG/8

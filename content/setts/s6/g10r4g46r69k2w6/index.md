@@ -2,9 +2,10 @@
 title: "Colchester & District Pipes & Drums"
 date: 2023-03-18
 ---
-In pattern [GRGRKW](/stripes/grgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10r4g46r69k2w6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKW](/stripes/grgrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10181
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Colchester & District Pipes & Drums
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2010 — Colchester & District Pipes & Drums (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10181))
-- 1st Jan. 2010 — Colchester & District P&D (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10181/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2010 — Colchester & District Pipes & Drums (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10181">record</a>)</li>
+<li>1st Jan. 2010 — Colchester & District P&D (Corporate (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10181/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

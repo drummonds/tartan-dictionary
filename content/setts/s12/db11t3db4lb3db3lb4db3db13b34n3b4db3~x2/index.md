@@ -2,9 +2,10 @@
 title: "Harmony"
 date: 2023-03-18
 ---
-In pattern [BBBBBBWBWBBB](/stripes/bbbbbbwbwbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11bb3db4na3db3na4db3ba13b34n3b4db3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBWBWBBB](/stripes/bbbbbbwbwbbb/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Oban Mist"
 date: 2023-03-18
 ---
-In pattern [KWGBGWKBWBW](/stripes/kwgbgwkbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8lb1n1t10n16na2k3nb33lb1nb3w2/)
+(the same proportion at any scale), whose colour order is pattern [KWGBGWKBWBW](/stripes/kwgbgwkbwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11010
 

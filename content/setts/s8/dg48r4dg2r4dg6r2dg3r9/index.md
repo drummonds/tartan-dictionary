@@ -2,9 +2,10 @@
 title: "Menzies Hunting"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGR](/stripes/grgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g48r4g2r4g6r2g3r9/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGR](/stripes/grgrgrgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Menzies
 - Menzies, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Menzies Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Menzies Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Menzies Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Menzies Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/48 R4 G2 R4 G6 R2 G3 R/9

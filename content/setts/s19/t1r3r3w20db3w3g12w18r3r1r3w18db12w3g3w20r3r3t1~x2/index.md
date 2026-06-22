@@ -2,9 +2,10 @@
 title: "MacLeod, Arisaid"
 date: 2023-03-18
 ---
-In pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba1dr3r3ln20g3ln3b12ln18r3dr1r3ln18g12ln3b3ln20r3dr3ba1/)
+(the same proportion at any scale), whose colour order is pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

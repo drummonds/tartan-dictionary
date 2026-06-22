@@ -2,9 +2,10 @@
 title: "Choinka Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKBKGKGKYKG](/stripes/gkbkgkgkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k2b3k2g20k9t7k2o3k2t4/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKGKYKG](/stripes/gkbkgkgkykg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10624/
 

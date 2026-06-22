@@ -2,9 +2,10 @@
 title: "Prince Albert"
 date: 2023-03-18
 ---
-In pattern [BRBKYKWKGRKRW](/stripes/brbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b23r6b6k10y3k2ln2k2g11r12k2r10ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBKYKWKGRKRW](/stripes/brbkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3384
 

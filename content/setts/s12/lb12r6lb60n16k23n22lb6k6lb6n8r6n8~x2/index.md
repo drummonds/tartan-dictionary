@@ -2,9 +2,10 @@
 title: "Balmoral Variant (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBWKWBKBWRW](/stripes/brbwkwbkbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12r6n60na16k23na22n6k6n6na8r6na8/)
+(the same proportion at any scale), whose colour order is pattern [BRBWKWBKBWRW](/stripes/brbwkwbkbwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8519/
 

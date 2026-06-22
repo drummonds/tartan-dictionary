@@ -2,9 +2,10 @@
 title: "Ithilien Heather (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRKBGRG](/stripes/bbbrkbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20lr2ga3db12k20lr2b3db4b3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRKBGRG](/stripes/bbbrkbgrg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10026/
 

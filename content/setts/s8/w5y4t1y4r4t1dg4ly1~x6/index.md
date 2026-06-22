@@ -2,18 +2,20 @@
 title: "Devon Rural Skills Trust"
 date: 2023-03-18
 ---
-In pattern [WGBGRBGY](/stripes/wgbgrbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5g4b1g4r4b1ga4y1/)
+(the same proportion at any scale), whose colour order is pattern [WGBGRBGY](/stripes/wgbgrbgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1990 — Devon Rural Skills Trust (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923))
-- pre 1990 — Devon Rural Skills Trust (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2182/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1990 — Devon Rural Skills Trust (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=923">record</a>)</li>
+<li>pre 1990 — Devon Rural Skills Trust (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2182/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

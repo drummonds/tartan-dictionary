@@ -2,9 +2,10 @@
 title: "Hill"
 date: 2023-03-18
 ---
-In pattern [KRKBYBYBW](/stripes/krkbybybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r2k28b31y1b2y1b2w3/)
+(the same proportion at any scale), whose colour order is pattern [KRKBYBYBW](/stripes/krkbybybw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10013
 

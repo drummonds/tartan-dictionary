@@ -2,9 +2,10 @@
 title: "Alexander of Menstry Dress"
 date: 2023-03-18
 ---
-In pattern [BWYKBGBG](/stripes/bwykbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5w30n9k9p9g2p2g5/)
+(the same proportion at any scale), whose colour order is pattern [BWYKBGBG](/stripes/bwykbgbg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Alexander of Menstry Dress (Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Alexander of Menstry Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48))
-- pre 2005 — Alexander of Menstry Dress (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6716/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Alexander of Menstry Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=48">record</a>)</li>
+<li>pre 2005 — Alexander of Menstry Dress (Personal (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6716/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

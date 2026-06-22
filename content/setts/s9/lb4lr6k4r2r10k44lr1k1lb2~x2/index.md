@@ -2,9 +2,10 @@
 title: "Calgary HOG"
 date: 2023-03-18
 ---
-In pattern [WKYKRRKYW](/stripes/wkykrrkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4na6k4r2do10k44na1k1n2/)
+(the same proportion at any scale), whose colour order is pattern [WKYKRRKYW](/stripes/wkykrrkyw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10396
 

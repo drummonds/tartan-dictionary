@@ -2,9 +2,10 @@
 title: "Strathisla District Tartan Tartan Number: 4101. Earliest known date: 2002 Designed by David Cowley and Arther MacKie of the Strathmore Woollen Company to reflect the colours of the Angus glen. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBBBGBBBW](/stripes/bgbbbgbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3dg8dn12dra3dp20dg3dn20dba3dn20n2/)
+(the same proportion at any scale), whose colour order is pattern [BGBBBGBBBW](/stripes/bgbbbgbbbw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4101
 

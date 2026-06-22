@@ -2,9 +2,10 @@
 title: "Hannigan of Dirleton"
 date: 2023-03-18
 ---
-In pattern [BGGWGGYR](/stripes/bggwggyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4g4t2ln3g27t30y1r3/)
+(the same proportion at any scale), whose colour order is pattern [BGGWGGYR](/stripes/bggwggyr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

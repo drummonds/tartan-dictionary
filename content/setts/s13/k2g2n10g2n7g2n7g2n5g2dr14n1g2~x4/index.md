@@ -2,9 +2,10 @@
 title: "Glen Affric (Artefact)"
 date: 2023-03-18
 ---
-In pattern [GBBGBGBGBGBGK](/stripes/gbbgbgbgbgbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2n10g2n7g2n7g2n5g2dr14n1g2/)
+(the same proportion at any scale), whose colour order is pattern [GBBGBGBGBGBGK](/stripes/gbbgbgbgbgbgk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2090/
 

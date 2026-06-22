@@ -2,19 +2,21 @@
 title: "Davidson"
 date: 2023-03-18
 ---
-In pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k6g1k1g8k1g8db1g1db6r1/)
+(the same proportion at any scale), whose colour order is pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Davidson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Davidson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Davidson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Davidson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Davidson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Davidson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/2 K12 G2 K2 G16 K2 G16 DB2 G2 DB12 R/2

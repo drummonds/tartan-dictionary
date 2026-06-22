@@ -2,9 +2,10 @@
 title: "MacArthur-Fox Green"
 date: 2023-03-18
 ---
-In pattern [KGKGYKGKGR](/stripes/kgkgykgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g4k2g31k10y3g5k11g6k3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGYKGKGR](/stripes/kgkgykgkgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10927
 

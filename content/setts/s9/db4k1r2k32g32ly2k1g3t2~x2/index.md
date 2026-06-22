@@ -2,9 +2,10 @@
 title: "Roderick, Dhu"
 date: 2023-03-18
 ---
-In pattern [BGKYGKRKB](/stripes/bgkygkrkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4k1r2k32g32y2k1g3ba2/)
+(the same proportion at any scale), whose colour order is pattern [BGKYGKRKB](/stripes/bgkygkrkb/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Roderick, Dhu
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Roderick, Dhu (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Roderick Dhu Canada Tartan Tartan Number: 153. Earliest known date: 1967 Roderick Dhu is linked to the MacNeil Clan. There is also a whisky of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=153))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Roderick, Dhu (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Roderick Dhu Canada Tartan Tartan Number: 153. Earliest known date: 1967 Roderick Dhu is linked to the MacNeil Clan. There is also a whisky of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=153">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 K2 R4 K64 G64 Y4 K2 G6 Ba/4

@@ -2,9 +2,10 @@
 title: "PSN Test"
 date: 2023-03-18
 ---
-In pattern [BYBBBWBW](/stripes/bybbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/bb25o1bb6b1bb6lb4ba3ln1/)
+(the same proportion at any scale), whose colour order is pattern [BYBBBWBW](/stripes/bybbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3418
 

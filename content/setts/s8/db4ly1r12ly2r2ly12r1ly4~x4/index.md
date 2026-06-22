@@ -2,9 +2,10 @@
 title: "Glassary #3"
 date: 2023-03-18
 ---
-In pattern [BYRYRYRY](/stripes/byryryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4y1r12y2r2y12r1y4/)
+(the same proportion at any scale), whose colour order is pattern [BYRYRYRY](/stripes/byryryry/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1363
 

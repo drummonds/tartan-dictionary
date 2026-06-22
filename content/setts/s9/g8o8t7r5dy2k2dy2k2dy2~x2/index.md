@@ -2,9 +2,10 @@
 title: "Somerset District Tartan Tartan Number: 831. Earliest known date: 1984 Blue is the river at Chatworthy, brown is the withies at Rhines, black is the peat on Sedgemoor. Grey shows the colour of Glastonbury Abbey and Wells Cathedral and pink represents the Cheddar Pinks which grow in the Cheddar Gorge, favourite of Victorian visitors. Green portrays the Quantock hills and the wilderness of Exmoor. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGRBRG](/stripes/gkgkgrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8n8b7do5t2k2t2k2t2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGRBRG](/stripes/gkgkgrbrg/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=831
 

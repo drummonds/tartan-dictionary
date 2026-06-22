@@ -2,9 +2,10 @@
 title: "Spirit of Glyndwr Gold (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKR](/stripes/kbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k24n18k11n4k11n18k53r4/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKR](/stripes/kbkbkbkr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8351/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Spirit of Glyndwr Red
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 25th May 2010 — Spirit of Glyndwr Gold (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8351/))
-- 20th May 2010 — Spirit of Glyndwr Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8352/))
-- undated — Spirit of Glyndwr Red Welsh Fashion Tartan Tartan Number: 8352. Earliest known date: 20th May 2010 Ysbryd yr coch Glyndwr, a modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland, with the added Scarlet Red yarn representing the predominant colour in his standard (flag). Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8352))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25th May 2010 — Spirit of Glyndwr Gold (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8351/">record</a>)</li>
+<li>20th May 2010 — Spirit of Glyndwr Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8352/">record</a>)</li>
+<li>undated — Spirit of Glyndwr Red Welsh Fashion Tartan Tartan Number: 8352. Earliest known date: 20th May 2010 Ysbryd yr coch Glyndwr, a modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland, with the added Scarlet Red yarn representing the predominant colour in his standard (flag). Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8352">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/24 N18 K11 N4 K11 N18 K53 R/4

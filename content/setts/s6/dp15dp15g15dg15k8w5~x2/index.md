@@ -2,9 +2,10 @@
 title: "Williams, Edmund (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGGKW](/stripes/bbggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp15p15g15dg15k8w5/)
+(the same proportion at any scale), whose colour order is pattern [BBGGKW](/stripes/bbggkw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10872/
 

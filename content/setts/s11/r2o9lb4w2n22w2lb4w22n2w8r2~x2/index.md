@@ -2,9 +2,10 @@
 title: "MacRae Grey (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RRWWBWWWBWR](/stripes/rrwwbwwwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2nb9n4w2na22w2n4w22na2w8dr2/)
+(the same proportion at any scale), whose colour order is pattern [RRWWBWWWBWR](/stripes/rrwwbwwwbwr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8830/
 

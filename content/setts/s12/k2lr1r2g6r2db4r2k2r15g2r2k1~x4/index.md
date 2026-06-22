@@ -2,9 +2,10 @@
 title: "MacClure Clan/Family Tartan Tartan Number: 3330. Earliest known date: pre 2002 Designed by Phil Smith for all MacClures. (note by Phil Smith Sept 2004) and originally woven by D C Dalgliesh. MacClures and MacLures are a sept of MacLeod. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRGRKRBRGRYK](/stripes/krgrkrbrgryk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2n1dr2g6dr2db4dr2k2dr15g2dr2k1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKRBRGRYK](/stripes/krgrkrbrgryk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3330
 

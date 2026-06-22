@@ -2,9 +2,10 @@
 title: "Buchanan #5"
 date: 2023-03-18
 ---
-In pattern [KWRWRW](/stripes/kwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ln28dr13ln2dr13ln2/)
+(the same proportion at any scale), whose colour order is pattern [KWRWRW](/stripes/kwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=418
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Buchanan #5
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Buchanan #5 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=418))
-- undated — Buchanan 4 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Buchanan #5 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=418">record</a>)</li>
+<li>undated — Buchanan 4 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

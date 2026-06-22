@@ -2,9 +2,10 @@
 title: "UPS No.2"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWBWBWYW](/stripes/bwbwbwbwbwbwbwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2lya8k4ly1k2ly2k2ly1k4lya60k2lya15k2lya2y2lya2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBWBWYW](/stripes/bwbwbwbwbwbwbwyw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10024
 

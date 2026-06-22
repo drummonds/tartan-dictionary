@@ -2,9 +2,10 @@
 title: "Lashbrooke of Barrowfield (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBBRBGRWRWB](/stripes/brbbrbgrwrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3ly2dr2ly24lt4t6db4dr2db14b12lt2db3/)
+(the same proportion at any scale), whose colour order is pattern [BRBBRBGRWRWB](/stripes/brbbrbgrwrwb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10947
 

@@ -2,9 +2,10 @@
 title: "Redgate (Connecticut) #2"
 date: 2023-03-18
 ---
-In pattern [BKBBBKWKGBGKG](/stripes/bkbbbkwkgbgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1t5n9dr3n9k10lr1k10na6dr3na6t4na1/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBKWKGBGKG](/stripes/bkbbbkwkgbgkg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10791
 

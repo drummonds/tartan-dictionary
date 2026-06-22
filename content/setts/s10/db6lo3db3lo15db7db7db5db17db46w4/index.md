@@ -2,9 +2,10 @@
 title: "Rhys Welsh Name Tartan Tartan Number: 5753. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Rees, Preece, Reese, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBYBBBBBW](/stripes/bybybbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6lt3dba3lt15dbb7dba7dbb5dba17dbb46ln4/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBBBBBW](/stripes/bybybbbbbw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5753
 

@@ -2,9 +2,10 @@
 title: "Lawson, Robin (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRBBBBGRGYGRGBBWBBGWGYGWRBYBYBYBYBYBYBYBYBBRGBWBGB](/stripes/bbbrbbbbgrgygrgbbwbbgwgygwrbybybybybybybybybbrgbwbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g10k4ly1k4g10r1k4b3dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy1k5r20ly2g3dy3g3ly2g20k4b4ly2b4k4g10r3g3dy2g3r3g10k1b1k1b7r2b7k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBBBBGRGYGRGBBWBBGWGYGWRBYBYBYBYBYBYBYBYBBRGBWBGB](/stripes/bbbrbbbbgrgygrgbbwbbgwgygwrbybybybybybybybybbrgbwbgb/).
 
-This was sourced from register-of-tartans.  It is a [52 stripe tartan](/stripes/stripes52/).
+Sourced from register-of-tartans.  It is a [52 stripe tartan](/stripes/stripes52/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11043
 

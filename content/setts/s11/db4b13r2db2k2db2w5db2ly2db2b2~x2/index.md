@@ -2,9 +2,10 @@
 title: "Manchester City Football Club \"Blue"
 date: 2023-03-18
 ---
-In pattern [BBRBKBWBYBB](/stripes/bbrbkbwbybb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b13dr2db2k2db2w5db2y2db2b2/)
+(the same proportion at any scale), whose colour order is pattern [BBRBKBWBYBB](/stripes/bbrbkbwbybb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11119/
 

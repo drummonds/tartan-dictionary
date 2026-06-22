@@ -2,18 +2,20 @@
 title: "Romsdal"
 date: 2023-03-18
 ---
-In pattern [GKRKR](/stripes/gkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40k10r7k10r7/)
+(the same proportion at any scale), whose colour order is pattern [GKRKR](/stripes/gkrkr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Romsdal (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Romsdal District Tartan Tartan Number: 2087. Earliest known date: 1850-1900 Romsdal is where the Scottish army landed in 1612 under the command of Captain Sinclair and in the pay of the Swedes. They marched through half of Norway until defeated at Kringen. Sinclair was killed by a silver button used as a 'bullitt' (sic). Many Scots settled in Norway after the battle leaving place names such as Skottlia and Skotte. Romsdal is the only place on the west coast of Norway where there is a tradition of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2087))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Romsdal (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Romsdal District Tartan Tartan Number: 2087. Earliest known date: 1850-1900 Romsdal is where the Scottish army landed in 1612 under the command of Captain Sinclair and in the pay of the Swedes. They marched through half of Norway until defeated at Kringen. Sinclair was killed by a silver button used as a 'bullitt' (sic). Many Scots settled in Norway after the battle leaving place names such as Skottlia and Skotte. Romsdal is the only place on the west coast of Norway where there is a tradition of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2087">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/40 K10 R7 K10 R/7

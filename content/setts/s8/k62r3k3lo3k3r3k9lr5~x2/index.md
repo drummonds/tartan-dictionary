@@ -2,9 +2,10 @@
 title: "Auld Bernensis"
 date: 2023-03-18
 ---
-In pattern [KRKYKRKY](/stripes/krkykrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k62r3k3y3k3r3k9n5/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKRKY](/stripes/krkykrky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10964
 

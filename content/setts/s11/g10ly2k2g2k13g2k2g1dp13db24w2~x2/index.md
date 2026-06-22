@@ -2,9 +2,10 @@
 title: "Lang of Sherbrooke (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYKGKGKGBBW](/stripes/gykgkgkgbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10y2k2g2k13g2k2g1p13db24w2/)
+(the same proportion at any scale), whose colour order is pattern [GYKGKGKGBBW](/stripes/gykgkgkgbbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2043
 

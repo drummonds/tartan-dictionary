@@ -2,9 +2,10 @@
 title: "Phillips (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [GGKGKGKGKGK](/stripes/ggkgkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dga2dg35ka30dg3k30dg2k4dg2k30dg20kb2/)
+(the same proportion at any scale), whose colour order is pattern [GGKGKGKGKGK](/stripes/ggkgkgkgkgk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5751/
 

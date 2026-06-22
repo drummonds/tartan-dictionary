@@ -2,18 +2,20 @@
 title: "MacDonald of Staffa"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRBRBRKRYRGYGRBRBRY](/stripes/rbrbrbrbrgrbrbrkryrgygrbrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr15db1dr1db1dr1db1dr1db1dr3dg4dr1db1dr3db1dr1k2dr3lg1dr3dg2n1dg2dr1db1dr3db1dr6lg1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRBRBRKRYRGYGRBRBRY](/stripes/rbrbrbrbrgrbrbrkryrgygrbrbry/).
 
-This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald of Staffa (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacDonald of Staffa (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald of Staffa (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacDonald of Staffa (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/30 DB2 DR2 DB2 DR2 DB2 DR2 DB2 DR6 DG8 DR2 DB2 DR6 DB2 DR2 K4 DR6 LG2 DR6 DG4 N2 DG4 DR2 DB2 DR6 DB2 DR12 LG/2

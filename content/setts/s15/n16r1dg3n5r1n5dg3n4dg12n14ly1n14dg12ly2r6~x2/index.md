@@ -2,9 +2,10 @@
 title: "Howells"
 date: 2023-03-18
 ---
-In pattern [BRGBRBGBGBYBGYR](/stripes/brgbrbgbgbybgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16r1g3n5r1n5g3n4g12n14y1n14g12y2r6/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRBGBGBYBGYR](/stripes/brgbrbgbgbybgyr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5859
 

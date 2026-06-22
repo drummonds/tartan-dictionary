@@ -2,18 +2,20 @@
 title: "Simple Technology (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RGBGW](/stripes/rgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g28db9dg18ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGBGW](/stripes/rgbgw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2320/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1996 — Simple Technology (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2320/))
-- undated — Simple Technology (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1996 — Simple Technology (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2320/">record</a>)</li>
+<li>undated — Simple Technology (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 G56 DB18 DG36 LN/6

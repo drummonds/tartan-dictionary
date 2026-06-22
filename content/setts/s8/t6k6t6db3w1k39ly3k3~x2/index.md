@@ -2,9 +2,10 @@
 title: "Washington County Sheriff’s Office (Oregon)"
 date: 2023-03-18
 ---
-In pattern [BKBBWKYK](/stripes/bkbbwkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k6n6b3w1k39y3k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBBWKYK](/stripes/bkbbwkyk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10361
 

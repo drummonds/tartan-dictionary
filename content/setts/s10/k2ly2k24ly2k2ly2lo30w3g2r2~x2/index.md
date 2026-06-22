@@ -2,9 +2,10 @@
 title: "Spotsylvania County Sheriff's Office"
 date: 2023-03-18
 ---
-In pattern [KYKYKYYWGR](/stripes/kykykyywgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2y2k24y2k2y2lt30ln3g2r2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYYWGR](/stripes/kykykyywgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5353
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Spotsylvania County Sheriff's Office
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Spotsylvania County Sheriff's Office (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5353))
-- pre 2007 — Spotsylvania County Sheriff (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7146/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Spotsylvania County Sheriff's Office (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5353">record</a>)</li>
+<li>pre 2007 — Spotsylvania County Sheriff (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7146/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

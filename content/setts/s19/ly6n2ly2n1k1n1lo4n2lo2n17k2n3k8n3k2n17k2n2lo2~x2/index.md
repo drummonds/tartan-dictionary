@@ -2,9 +2,10 @@
 title: "Ferrari (Coldrerio)"
 date: 2023-03-18
 ---
-In pattern [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg6ba2dy2ba1k1ba1y4b2y2ba17k2b3k8b3k2b17k2b2y2/)
+(the same proportion at any scale), whose colour order is pattern [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10790
 

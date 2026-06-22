@@ -2,9 +2,10 @@
 title: "Bannockbane Navy Fashion Tartan Tartan Number: 3653. Earliest known date: Not Specified. This is a variation on a trade sett which originated in the early 1970s. Other variants of the design (in different colourways) are included in the Register. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRBRKRRR](/stripes/krbrkrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3r2db30r1w18lt30r2lt3/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKRRR](/stripes/krbrkrrr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3653
 

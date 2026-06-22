@@ -2,19 +2,21 @@
 title: "Toshach"
 date: 2023-03-18
 ---
-In pattern [BGGGWGGGGRGWGWGGGGWGGG](/stripes/bgggwggggrgwgwggggwggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/gb10g4gb10ln2gb10g2gb2g20ln4g4ln4g4r4g20gb2g2gb10ln2gb10g4gb5b4/)
+(the same proportion at any scale), whose colour order is pattern [BGGGWGGGGRGWGWGGGGWGGG](/stripes/bgggwggggrgwgwggggwggg/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4140
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1996 — Toshach (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4140))
-- pre 2002 — Toshach (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2344/))
-- undated — Toshach Family Tartan Tartan Number: 2344. Earliest known date: pre 2002 Toshach is an early Celtic title given to minor territorial chiefs in Scotland (note Eire Prime Minister's official title is this). This sett was taken from a rug in the possession for many generations of a family whose forebear was reputed to be Sir Walter Scott's librarian. Green lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2344))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Toshach (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4140">record</a>)</li>
+<li>pre 2002 — Toshach (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2344/">record</a>)</li>
+<li>undated — Toshach Family Tartan Tartan Number: 2344. Earliest known date: pre 2002 Toshach is an early Celtic title given to minor territorial chiefs in Scotland (note Eire Prime Minister's official title is this). This sett was taken from a rug in the possession for many generations of a family whose forebear was reputed to be Sir Walter Scott's librarian. Green lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2344">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

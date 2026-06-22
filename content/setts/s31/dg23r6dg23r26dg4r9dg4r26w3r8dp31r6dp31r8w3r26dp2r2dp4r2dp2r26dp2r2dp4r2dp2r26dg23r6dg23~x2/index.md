@@ -2,9 +2,10 @@
 title: "Ross #3"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g23r6g23r26g4r9g4r26ln3r8p31r6p31r8ln3r26p2r2p4r2p2r26p2r2p4r2p2r26g23r6g23/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3554
 

@@ -2,9 +2,10 @@
 title: "MacLeod of Gesto"
 date: 2023-03-18
 ---
-In pattern [KWRKYWYKGWKRYRWRYKWBWR](/stripes/kwrkywykgwkryrwrykwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r88ln2b8ln2k2y2lt3ln4lt3y2r6k2ln2g32k2y2ln2y2k4r6ln2k3/)
+(the same proportion at any scale), whose colour order is pattern [KWRKYWYKGWKRYRWRYKWBWR](/stripes/kwrkywykgwkryrwrykwbwr/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Coldstream"
 date: 2023-03-18
 ---
-In pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6bb1b35r6ba8r6db8bb5db4bb48ra2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

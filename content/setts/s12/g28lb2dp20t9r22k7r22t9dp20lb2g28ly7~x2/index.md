@@ -2,9 +2,10 @@
 title: "Jefferson (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWBBRKRBBWGY](/stripes/gwbbrkrbbwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28n2dp20b9r22k7r22b9dp20n2g28y7/)
+(the same proportion at any scale), whose colour order is pattern [GWBBRKRBBWGY](/stripes/gwbbrkrbbwgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1889
 

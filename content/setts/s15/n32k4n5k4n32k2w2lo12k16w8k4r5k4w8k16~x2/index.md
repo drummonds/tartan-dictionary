@@ -2,9 +2,10 @@
 title: "Unidentified Fashion"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWYKWKRKWK](/stripes/bkbkbkwykwkrkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n32k4n5k4n32k2ln2y12k16ln8k4r5k4ln8k16/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWYKWKRKWK](/stripes/bkbkbkwykwkrkwk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5298
 

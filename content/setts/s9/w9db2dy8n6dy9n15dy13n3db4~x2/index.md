@@ -2,18 +2,20 @@
 title: "Tamer of Wolves"
 date: 2023-03-18
 ---
-In pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w9b2t8n6t9n15t13n3b4/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBGBW](/stripes/bbgbgbgbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10762
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 17/12/2012 — Tamer of Wolves (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10762))
-- 17/12/2012 — Tamer of Wolves (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10762/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>17/12/2012 — Tamer of Wolves (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10762">record</a>)</li>
+<li>17/12/2012 — Tamer of Wolves (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10762/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

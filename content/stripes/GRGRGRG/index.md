@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/grgrgrg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">GRGRGRG</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/dg2r1dg8r5y5r1y2~x4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GRGRGRG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "Nova Scotia Dress #2"
 date: 2023-03-18
 ---
-In pattern [RYGBGBGYGYGBGBGY](/stripes/rygbgbgygygbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5g16db8g4db4g4n38g4n38g4db4g4db8g16y5r3/)
+(the same proportion at any scale), whose colour order is pattern [RYGBGBGYGYGBGBGY](/stripes/rygbgbgygygbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3204
 

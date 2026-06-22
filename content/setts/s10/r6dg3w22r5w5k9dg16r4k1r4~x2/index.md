@@ -2,9 +2,10 @@
 title: "MacDuff Dress #3"
 date: 2023-03-18
 ---
-In pattern [RGWRWKGRKR](/stripes/rgwrwkgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g3ln22r5ln5k9g16r4k1r4/)
+(the same proportion at any scale), whose colour order is pattern [RGWRWKGRKR](/stripes/rgwrwkgrkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2421
 

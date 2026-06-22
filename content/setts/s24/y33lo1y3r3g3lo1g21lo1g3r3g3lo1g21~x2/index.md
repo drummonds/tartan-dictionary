@@ -2,9 +2,10 @@
 title: "Terry Clan/Family Weavers Tartan Tartan Number: 2204. Earliest known date: 1993 Designed by Thomas Terry of Geneseo, IL, USA. Registered with the Scottish Tartans Society 9-15-93. Info from Sue Miller, April 1995. With no evidence to the contrary it is assumed that all of the name 'Terry' can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGRGYGYGRGYGYGRGYGYGRGY](/stripes/gygrgygygrgygygrgygygrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga33dy1ga3r3g3dy1g21dy1g3r3g3dy1g21/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGYGYGRGYGYGRGYGYGRGY](/stripes/gygrgygygrgygygrgygygrgy/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2204
 

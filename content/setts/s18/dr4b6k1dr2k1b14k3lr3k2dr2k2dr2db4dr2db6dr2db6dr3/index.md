@@ -2,18 +2,20 @@
 title: "Royal Canadian Air Force"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBKBKYKBKBKBB](/stripes/bbbbbbbkbkykbkbkbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4b6k1dr2k1b14k3n3k2dr2k2dr2db4dr2db6dr2db6dr3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBKBKYKBKBKBB](/stripes/bbbbbbbkbkykbkbkbb/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Royal Canadian Air Force (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Royal Canadian Air Force (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Royal Canadian Air Force (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Royal Canadian Air Force (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/4 B6 K1 DR2 K1 B14 K3 N3 K2 DR2 K2 DR2 DB4 DR2 DB6 DR2 DB6 DR/3

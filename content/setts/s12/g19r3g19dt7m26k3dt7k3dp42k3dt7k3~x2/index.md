@@ -2,9 +2,10 @@
 title: "Tartan Spirit"
 date: 2023-03-18
 ---
-In pattern [GRGBRKBKBKBK](/stripes/grgbrkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g19lr3g19db7r26k3db7k3p42k3db7k3/)
+(the same proportion at any scale), whose colour order is pattern [GRGBRKBKBKBK](/stripes/grgbrkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6017
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Tartan Spirit
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2008 — Tartan Spirit (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6017))
-- pre 2008 — By Storm (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7685/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2008 — Tartan Spirit (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6017">record</a>)</li>
+<li>pre 2008 — By Storm (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7685/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

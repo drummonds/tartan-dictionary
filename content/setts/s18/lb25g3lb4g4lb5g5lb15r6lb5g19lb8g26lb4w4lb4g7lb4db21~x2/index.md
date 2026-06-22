@@ -2,9 +2,10 @@
 title: "Shedor (2013)"
 date: 2023-03-18
 ---
-In pattern [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb25g3lb4g4lb5g5lb15r6lb5g19lb8g26lb4w4lb4g7lb4db21/)
+(the same proportion at any scale), whose colour order is pattern [BWGWWWGWGWRWGWGWGW](/stripes/bwgwwwgwgwrwgwgwgw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10898/
 

@@ -2,18 +2,20 @@
 title: "Maryville College"
 date: 2023-03-18
 ---
-In pattern [KRRR](/stripes/krrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13dr40o13n8/)
+(the same proportion at any scale), whose colour order is pattern [KRRR](/stripes/krrr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — Maryville College (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848))
-- pre 2004 — Maryville College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6154/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Maryville College (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2848">record</a>)</li>
+<li>pre 2004 — Maryville College (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6154/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

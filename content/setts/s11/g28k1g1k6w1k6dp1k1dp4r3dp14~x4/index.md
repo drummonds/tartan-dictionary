@@ -2,18 +2,20 @@
 title: "New Hampshire"
 date: 2023-03-18
 ---
-In pattern [BRBKBKWKGKG](/stripes/brbkbkwkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28k1g1k6ln1k6p1k1p4r3p14/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBKWKGKG](/stripes/brbkbkwkgkg/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3112
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1994 — New Hampshire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3112))
-- 1994 — New Hampshire (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5624/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1994 — New Hampshire (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3112">record</a>)</li>
+<li>1994 — New Hampshire (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5624/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

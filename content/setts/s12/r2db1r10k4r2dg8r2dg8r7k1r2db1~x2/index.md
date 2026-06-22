@@ -2,9 +2,10 @@
 title: "MacQuarrie Ancient"
 date: 2023-03-18
 ---
-In pattern [BRKRGRGRKRBR](/stripes/brkrgrgrkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b1r10k4r2g8r2g8r7k1r2b1/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGRGRKRBR](/stripes/brkrgrgrkrbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2735
 

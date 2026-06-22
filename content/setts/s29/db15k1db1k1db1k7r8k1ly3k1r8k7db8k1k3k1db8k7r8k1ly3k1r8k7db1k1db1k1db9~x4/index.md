@@ -2,9 +2,10 @@
 title: "Dryer"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRKYKRKBKKKBKRKYKRKBKBKB](/stripes/bkbkbkrkykrkbkkkbkrkykrkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba15k1dba1k1dba1k7dr8k1y3k1dr8k7dba8k1g3k1dba8k7dr8k1y3k1dr8k7dba1k1dba1k1dba9/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRKYKRKBKKKBKRKYKRKBKBKB](/stripes/bkbkbkrkykrkbkkkbkrkykrkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10099
 

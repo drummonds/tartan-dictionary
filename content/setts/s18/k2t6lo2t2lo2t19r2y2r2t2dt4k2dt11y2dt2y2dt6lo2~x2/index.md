@@ -2,9 +2,10 @@
 title: "Harmon of Plenderleith Personal Tartan Tartan Number: 10021. Earliest known date: Mar. 2009 A personal tartan for the Baron of Plenderleith, his family and members of his household. Developed with the help of the House of Tartan, Comrie, Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBYBYBRGRBBKBGBGBY](/stripes/kbybybrgrbbkbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b6dy2b2dy2b19r2g2r2b2db4k2db11g2db2g2db6dy2/)
+(the same proportion at any scale), whose colour order is pattern [KBYBYBRGRBBKBGBGBY](/stripes/kbybybrgrbbkbgbgby/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10021
 

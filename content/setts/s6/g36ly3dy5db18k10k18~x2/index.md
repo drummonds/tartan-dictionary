@@ -2,9 +2,10 @@
 title: "Dobson Name Tartan Tartan Number: 10943. Earliest known date: 2013 Designed by Kelly Dobson Matson for the personal use of the Dobson Family, Palm Bay, Florida, a family of bagpipers, who wish to wear their own tartan while they play. The colours are favoured colours chosen by the majority of the family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGBKK](/stripes/gygbkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g36ly3t5db18k10og18/)
+(the same proportion at any scale), whose colour order is pattern [GYGBKK](/stripes/gygbkk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10943
 

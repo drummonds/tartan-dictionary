@@ -2,9 +2,10 @@
 title: "Hirter Karo (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3y3db18t15b16w3b16t15b18y3r3y3b18t15b16w3/)
+(the same proportion at any scale), whose colour order is pattern [RYBGBWBGBYRYBGBW](/stripes/rybgbwbgbyrybgbw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3907/
 

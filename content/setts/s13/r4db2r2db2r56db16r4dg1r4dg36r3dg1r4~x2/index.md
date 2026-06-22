@@ -2,9 +2,10 @@
 title: "Grant (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRGRGRGR](/stripes/rbrbrbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b2r2b2r56b16r4g1r4g36r3g1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRGRGRGR](/stripes/rbrbrbrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1510
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Grant VS
 - Grant of Rothiemurchus
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1842 — Grant (Vestiarium Scoticum) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1510))
-- undated — Grant VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Grant (Vestiarium Scoticum) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1510">record</a>)</li>
+<li>undated — Grant VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

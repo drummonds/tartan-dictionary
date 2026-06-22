@@ -2,18 +2,20 @@
 title: "Glen Esk"
 date: 2023-03-18
 ---
-In pattern [GRGRGBGY](/stripes/grgrgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10dr1g1dr2g8b10g1y1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBGY](/stripes/grgrgbgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Glen Esk (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376))
-- pre 2002 — Glen Esk (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5006/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Glen Esk (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1376">record</a>)</li>
+<li>pre 2002 — Glen Esk (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5006/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

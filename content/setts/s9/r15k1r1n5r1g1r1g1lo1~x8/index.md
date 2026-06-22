@@ -2,9 +2,10 @@
 title: "Oliver Dress (Red)"
 date: 2023-03-18
 ---
-In pattern [RKRBRGRGY](/stripes/rkrbrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t15k1t1ga5t1g1t1g1dy1/)
+(the same proportion at any scale), whose colour order is pattern [RKRBRGRGY](/stripes/rkrbrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Oliver, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1973 — Oliver Dress (Red) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239))
-- 1973 — Oliver, Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1606/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1973 — Oliver Dress (Red) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3239">record</a>)</li>
+<li>1973 — Oliver, Red (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1606/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

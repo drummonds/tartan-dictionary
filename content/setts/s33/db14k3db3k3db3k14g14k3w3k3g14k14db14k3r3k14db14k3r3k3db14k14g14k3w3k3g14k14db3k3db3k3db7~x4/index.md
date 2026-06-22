@@ -2,9 +2,10 @@
 title: "MacKenzie"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKRKBKRKBKGKWKGKBKBKB](/stripes/bkbkbkgkwkgkbkrkbkrkbkgkwkgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14k3db3k3db3k14g14k3ln3k3g14k14db14k3r3k14db14k3r3k3db14k14g14k3ln3k3g14k14db3k3db3k3db7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKRKBKRKBKGKWKGKBKBKB](/stripes/bkbkbkgkwkgkbkrkbkrkbkgkwkgkbkbkb/).
 
-This was sourced from logan-1831.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from logan-1831.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link /posts/logans-scottish-gael/
 

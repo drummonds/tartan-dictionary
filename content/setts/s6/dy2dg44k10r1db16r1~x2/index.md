@@ -2,9 +2,10 @@
 title: "MacWilliam Hunting"
 date: 2023-03-18
 ---
-In pattern [GGKRBR](/stripes/ggkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t2g44k10r1db16r1/)
+(the same proportion at any scale), whose colour order is pattern [GGKRBR](/stripes/ggkrbr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2777
 

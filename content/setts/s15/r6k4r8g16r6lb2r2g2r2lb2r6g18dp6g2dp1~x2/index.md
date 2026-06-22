@@ -2,9 +2,10 @@
 title: "MacCall Family Tartan Tartan Number: 2238. Earliest known date: 2000 Originally designed for a wedding in the McCall family in Aberdeen, and permission was given for anyone of the name to wear it. It was designed by John C McCall & M McCall who are related to Nancy McCall the former owner of McCall's of Aberdeen (01224 405300). MacCall Chieftain is a Peter J.D. MacCall of Birkenshaw who is believed to be elderly and living with a daughter in Lockerbie (October 2002). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGRWRGRWRGRKR](/stripes/bgbgrwrgrwrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6k4dr8g16dr6n2dr2g2dr2n2dr6g18p6g2p1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRWRGRWRGRKR](/stripes/bgbgrwrgrwrgrkr/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2238
 

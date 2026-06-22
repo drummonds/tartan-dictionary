@@ -2,9 +2,10 @@
 title: "Same Sex Marriage"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGKGKGKKKKKKKRKRKRKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkrkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k2r1k14ra1k2ra2k2ra1k14y1k2y2k2y1k14g1k2g2k2g1k14b1k2b2k2b1k14p1k2p2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGKGKGKKKKKKKRKRKRKRKR](/stripes/bkbkbkbkbkgkgkgkkkkkkkrkrkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11452
 

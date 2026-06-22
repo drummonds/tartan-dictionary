@@ -2,9 +2,10 @@
 title: "Official Glasgow 2014, The"
 date: 2023-03-18
 ---
-In pattern [KGBYRW](/stripes/kgbyrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g44b27y6r10w3/)
+(the same proportion at any scale), whose colour order is pattern [KGBYRW](/stripes/kgbyrw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10600
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Official Glasgow 2014, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/02/2012 — Official Glasgow 2014, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10600))
-- 14/02/2012 — Shawlands International (Commem.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10600/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/02/2012 — Official Glasgow 2014, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10600">record</a>)</li>
+<li>14/02/2012 — Shawlands International (Commem.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10600/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

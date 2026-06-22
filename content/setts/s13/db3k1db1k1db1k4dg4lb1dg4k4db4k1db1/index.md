@@ -2,9 +2,10 @@
 title: "Lamont"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k1db1k1db1k4g4n1g4k4db4k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

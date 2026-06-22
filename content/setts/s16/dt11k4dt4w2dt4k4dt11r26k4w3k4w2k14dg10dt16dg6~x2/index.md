@@ -2,9 +2,10 @@
 title: "Stuart-Houghton Family Tartan Tartan Number: 5843. Earliest known date: 2001 Andrew Stuart-Houghton wrote, I have included a design for which I would like as my personal tartan. it should be called: Stuart-Houghton, Andrew Terlach Eideard Seumas. I would also like to have it restricted, if possible. I would like to have it produced in heavyweight in order to make a kilt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBWBKBRKWKWKGBG](/stripes/bkbwbkbrkwkwkgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k4db4ln2db4k4db11dr26k4ln3k4ln2k14dg10db16dg6/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBKBRKWKWKGBG](/stripes/bkbwbkbrkwkwkgbg/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5843
 

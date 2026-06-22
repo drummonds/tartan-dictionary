@@ -2,9 +2,10 @@
 title: "Hastings-Stephenson (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGW](/stripes/gbgbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44db11g5b3g4db8g4w1/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGW](/stripes/gbgbgbgw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11398
 

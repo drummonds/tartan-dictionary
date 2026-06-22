@@ -2,9 +2,10 @@
 title: "Ramsay (Orange)"
 date: 2023-03-18
 ---
-In pattern [KYKGYGW](/stripes/kykgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4o9k13g6o3g9ln4/)
+(the same proportion at any scale), whose colour order is pattern [KYKGYGW](/stripes/kykgygw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3452
 

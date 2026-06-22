@@ -2,18 +2,20 @@
 title: "Pride of Kinross"
 date: 2023-03-18
 ---
-In pattern [BWBKBKBK](/stripes/bwbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20db2k6db2k4db27w2db8/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKBK](/stripes/bwbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/10/2014 — Pride of Kinross (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282))
-- 2015 — Pride of Kinross (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11282/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/10/2014 — Pride of Kinross (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11282">record</a>)</li>
+<li>2015 — Pride of Kinross (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11282/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

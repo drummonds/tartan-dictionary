@@ -2,18 +2,20 @@
 title: "Salt Lake Scots"
 date: 2023-03-18
 ---
-In pattern [KRBRRBWBR](/stripes/krbrrbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr17b2w2b2dr20n18db3n6k2/)
+(the same proportion at any scale), whose colour order is pattern [KRBRRBWBR](/stripes/krbrrbwbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Salt Lake Scots (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644))
-- pre 2002 — Salt Lake Scots (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5384/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Salt Lake Scots (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3644">record</a>)</li>
+<li>pre 2002 — Salt Lake Scots (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5384/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

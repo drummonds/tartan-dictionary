@@ -2,9 +2,10 @@
 title: "Shepherd, (Name)"
 date: 2023-03-18
 ---
-In pattern [GGKYGYGGGGGYGYGKYGY](/stripes/ggkygygggggygygkygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40t5k40n8g1n1g1t2g1t2g1n1g1n7g1k15n5g1n10/)
+(the same proportion at any scale), whose colour order is pattern [GGKYGYGGGGGYGYGKYGY](/stripes/ggkygygggggygygkygy/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10142/
 

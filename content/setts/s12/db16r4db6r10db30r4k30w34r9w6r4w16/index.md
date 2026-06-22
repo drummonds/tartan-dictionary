@@ -2,9 +2,10 @@
 title: "MacDonald Pattern of Plaids"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16r4b6r10b30r4k30ln34r9ln6r4ln16/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKWRWRW](/stripes/brbrbrkwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2375
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDonald, Pattern of Plaids
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald Pattern of Plaids (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2375))
-- undated — MacDonald, Pattern of Plaids (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald Pattern of Plaids (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2375">record</a>)</li>
+<li>undated — MacDonald, Pattern of Plaids (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

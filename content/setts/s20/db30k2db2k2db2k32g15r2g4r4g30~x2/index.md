@@ -2,9 +2,10 @@
 title: "Scottish Tourist Board (1981)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGRGRGRGKBKBK](/stripes/bkbkbkgrgrgrgrgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30r4g4r2g15k32dba2k2dba2k2dba30/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGRGRGRGKBKBK](/stripes/bkbkbkgrgrgrgrgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3747
 

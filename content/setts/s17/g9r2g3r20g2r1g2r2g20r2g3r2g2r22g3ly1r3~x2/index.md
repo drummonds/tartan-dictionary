@@ -2,9 +2,10 @@
 title: "Hebrides Outer"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGRGYR](/stripes/grgrgrgrgrgrgrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r2g3r20g2r1g2r2g20r2g3r2g2r22g3y1r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGRGYR](/stripes/grgrgrgrgrgrgrgyr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

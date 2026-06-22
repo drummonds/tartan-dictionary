@@ -2,9 +2,10 @@
 title: "Pincock Name Tartan Tartan Number: 10323. Earliest known date: 1st Sept. 2010 For Dougie Pincock, first and present Director of Sgoil Chiuil Na Gaidheltachd The National Centre of Excellence in Traditional Music. Based on the Anderson tartan, his mother's maiden name. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KKGBWWR](/stripes/kkgbwwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln1lb50ba24g12k1yy1/)
+(the same proportion at any scale), whose colour order is pattern [KKGBWWR](/stripes/kkgbwwr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10323
 

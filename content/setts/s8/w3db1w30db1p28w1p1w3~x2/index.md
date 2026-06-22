@@ -2,9 +2,10 @@
 title: "Dunlop, dress"
 date: 2023-03-18
 ---
-In pattern [WBWBBWBW](/stripes/wbwbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b1ln30b1p28ln1p1ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBWBBWBW](/stripes/wbwbbwbw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

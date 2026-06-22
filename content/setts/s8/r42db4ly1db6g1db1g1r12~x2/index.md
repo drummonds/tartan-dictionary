@@ -2,9 +2,10 @@
 title: "Inverness, Earl of"
 date: 2023-03-18
 ---
-In pattern [RBYBGBGR](/stripes/rbybgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r42b4y1b6g1b1g1r12/)
+(the same proportion at any scale), whose colour order is pattern [RBYBGBGR](/stripes/rbybgbgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Inverness Earl of...
 - Inverness, Earl of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Inverness, Earl of (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Inverness Earl of... District Tartan Tartan Number: 1446. Earliest known date: 1831 The sett used by James Logan to illustrate his method of recording the threads and colours of tartan patterns. It appears in the first edition of 'The Scottish Gael' and is therefore the first published illustration of a tartan sett. The problems of printing tartan were very much apparent and the illustration showed differences in each volume produced. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1446))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Inverness, Earl of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Inverness Earl of... District Tartan Tartan Number: 1446. Earliest known date: 1831 The sett used by James Logan to illustrate his method of recording the threads and colours of tartan patterns. It appears in the first edition of 'The Scottish Gael' and is therefore the first published illustration of a tartan sett. The problems of printing tartan were very much apparent and the illustration showed differences in each volume produced. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1446">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/84 B8 Y2 B12 G2 B2 G2 R/24

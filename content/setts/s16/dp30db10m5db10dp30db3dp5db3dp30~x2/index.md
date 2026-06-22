@@ -2,9 +2,10 @@
 title: "Meanwood McMain Personal Tartan Tartan Number: 6813. Earliest known date: 2005 December This was a gift from her colleagues to Dr. McMain from the meanwood Group Practice in Leeds on the occasion of her relocation to Australia after 16 years in Leeds. Designed by Maxine Scott of the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBRBBBBBBBBBBBRB](/stripes/bbrbbbbbbbbbbbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp30db10p5db10dp30db3pa5db3dp30/)
+(the same proportion at any scale), whose colour order is pattern [BBRBBBBBBBBBBBRB](/stripes/bbrbbbbbbbbbbbrb/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6813
 

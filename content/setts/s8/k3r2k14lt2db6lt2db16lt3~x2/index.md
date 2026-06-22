@@ -2,9 +2,10 @@
 title: "Immanuel Presbyterian Church (Milwaukee)"
 date: 2023-03-18
 ---
-In pattern [KRKWBWBW](/stripes/krkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r2k14lb2b6lb2b16lb3/)
+(the same proportion at any scale), whose colour order is pattern [KRKWBWBW](/stripes/krkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10297
 

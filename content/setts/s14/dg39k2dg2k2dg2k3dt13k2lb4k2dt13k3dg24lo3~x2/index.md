@@ -2,18 +2,20 @@
 title: "Proctor (Name)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBKGY](/stripes/gkgkgkbkwkbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g39k2g2k2g2k3n13k2na4k2n13k3g24o3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBKGY](/stripes/gkgkgkbkwkbkgy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10015/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Proctor (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10015/))
-- undated — Proctor Name Tartan Tartan Number: 10015. Earliest known date: Mar. 2009 A modern family tartan designed in 2009 for Alan Proctor, Forfar, Angus by Strathmore Woollen Co Ltd, to give this family name a tartan. The tartan can be worn by anybody with a connection to the name of Proctor (or variant) or whoever likes the look of it. If you would like to wear this tartan, a courtesy email (to collect statistics on the number of people wearing the tartan) to proctortartan@yahoo.co.uk would be appreciated. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10015))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Proctor (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10015/">record</a>)</li>
+<li>undated — Proctor Name Tartan Tartan Number: 10015. Earliest known date: Mar. 2009 A modern family tartan designed in 2009 for Alan Proctor, Forfar, Angus by Strathmore Woollen Co Ltd, to give this family name a tartan. The tartan can be worn by anybody with a connection to the name of Proctor (or variant) or whoever likes the look of it. If you would like to wear this tartan, a courtesy email (to collect statistics on the number of people wearing the tartan) to proctortartan@yahoo.co.uk would be appreciated. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10015">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/78 K4 G4 K4 G4 K6 N26 K4 Na8 K4 N26 K6 G48 O/6

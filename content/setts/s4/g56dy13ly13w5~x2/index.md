@@ -2,9 +2,10 @@
 title: "Colonial Marine (Aliens Legacy)"
 date: 2023-03-18
 ---
-In pattern [GGYW](/stripes/ggyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g56t13y13w5/)
+(the same proportion at any scale), whose colour order is pattern [GGYW](/stripes/ggyw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10487
 

@@ -2,9 +2,10 @@
 title: "Kutztown (Berks County, PA)"
 date: 2023-03-18
 ---
-In pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2dr10k2db6dg5dr5dy5dr4ln2dr4dy5dr5dg5db6k2dg8db2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5739
 

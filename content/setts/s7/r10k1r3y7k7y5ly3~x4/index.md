@@ -2,9 +2,10 @@
 title: "Wcwm 1651"
 date: 2023-03-18
 ---
-In pattern [RKRGKGY](/stripes/rkrgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr10k1dr3g7k7g5dy3/)
+(the same proportion at any scale), whose colour order is pattern [RKRGKGY](/stripes/rkrgkgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4537
 

@@ -2,9 +2,10 @@
 title: "Citadel Military Academy Regimental Tartan Tartan Number: 1572. Earliest known date: 1980 Submitted to STS Monitoring Committee March 1982. South Carolina Military School. Ludovic Grant-Alexander possibly designer (Bob Marton) at that time, head of the Citadel Piping School. Woven by Dalgleish, 1980. Changed background to azure in 2007 following advice from C Adams. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKBBWBWBWBWBBKY](/stripes/rkbbwbwbwbwbbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k2b18dba11ln3dba2ln2dba5ln2dba2ln3dba11b18k2y3/)
+(the same proportion at any scale), whose colour order is pattern [RKBBWBWBWBWBBKY](/stripes/rkbbwbwbwbwbbky/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1572
 

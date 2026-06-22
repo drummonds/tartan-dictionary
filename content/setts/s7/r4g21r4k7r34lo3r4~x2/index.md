@@ -2,9 +2,10 @@
 title: "Kirk (Name)"
 date: 2023-03-18
 ---
-In pattern [RGRKRYR](/stripes/rgrkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g21dr4k7dr34dy3dr4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRYR](/stripes/rgrkryr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4229/
 

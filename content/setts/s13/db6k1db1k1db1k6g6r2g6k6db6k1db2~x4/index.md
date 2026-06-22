@@ -2,9 +2,10 @@
 title: "Murray #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k1db1k1db1k6g6r2g6k6db6k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBKB](/stripes/bkbkbkgrgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057
 
@@ -18,12 +19,13 @@ This cloth is also recorded under:
 - New South Wales Scottish Rifles
 - New South Wales, Scottish Rifles
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1831 — Murray #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057))
-- 1885 — NSW Scottish Rifles (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/226/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1831 — Murray #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3057">record</a>)</li>
+<li>1885 — NSW Scottish Rifles (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/226/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

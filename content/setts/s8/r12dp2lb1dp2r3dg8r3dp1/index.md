@@ -2,9 +2,10 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-In pattern [BRGRBWBR](/stripes/brgrbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12p2n1p2r3g8r3p1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBWBR](/stripes/brgrbwbr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

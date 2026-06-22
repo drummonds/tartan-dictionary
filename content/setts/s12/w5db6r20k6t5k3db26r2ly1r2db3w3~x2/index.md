@@ -2,9 +2,10 @@
 title: "Clinton Wedding (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5db6r20k6b5k3db26r2lg1r2db3ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10052/
 

@@ -2,9 +2,10 @@
 title: "Lanarkshire"
 date: 2023-03-18
 ---
-In pattern [BBKGYG](/stripes/bbkgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g31y4g6k19db18b9/)
+(the same proportion at any scale), whose colour order is pattern [BBKGYG](/stripes/bbkgyg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2039
 

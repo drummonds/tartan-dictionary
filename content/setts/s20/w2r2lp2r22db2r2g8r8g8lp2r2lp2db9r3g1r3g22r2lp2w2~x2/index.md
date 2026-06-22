@@ -2,9 +2,10 @@
 title: "MacDougall Clan Tartan Tartan Number: 1776. Earliest known date: 1977 Matched to a sample by B Urquhart in 2004, from Lochcarron reiver cloth. The purple colour was lightened considerably to a pale mauve, giving an almost equal prominence to the white. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WRWRBRGRGWRWBRGRGRWW](/stripes/wrwrbrgrgwrwbrgrgrww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r2lp2r22db2r2g8r8g8lp2r2lp2db9r3g1r3g22r2lp2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRWRBRGRGWRWBRGRGRWW](/stripes/wrwrbrgrgwrwbrgrgrww/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1776
 

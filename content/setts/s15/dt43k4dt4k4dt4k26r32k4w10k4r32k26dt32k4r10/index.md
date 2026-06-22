@@ -2,9 +2,10 @@
 title: "Frankfurt & Disttrict P & D (Corpora"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db43k4db4k4db4k26r32k4ln10k4r32k26db32k4r10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRKWKRKBKR](/stripes/bkbkbkrkwkrkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10447/
 

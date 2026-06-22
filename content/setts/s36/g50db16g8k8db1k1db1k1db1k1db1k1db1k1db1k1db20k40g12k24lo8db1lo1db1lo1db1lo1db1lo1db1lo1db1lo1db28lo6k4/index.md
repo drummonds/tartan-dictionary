@@ -2,9 +2,10 @@
 title: "Manitoba (CIDD 28104)"
 date: 2023-03-18
 ---
-In pattern [GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK](/stripes/gbgkbkbkbkbkbkbkbkgkybybybybybybybyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g50db16g8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40g12k24dy8db1dy1db1dy1db1dy1db1dy1db1dy1db1dy1db28dy6k4/)
+(the same proportion at any scale), whose colour order is pattern [GBGKBKBKBKBKBKBKBKGKYBYBYBYBYBYBYBYK](/stripes/gbgkbkbkbkbkbkbkbkgkybybybybybybybyk/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5712
 

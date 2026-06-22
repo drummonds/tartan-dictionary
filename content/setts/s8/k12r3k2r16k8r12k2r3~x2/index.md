@@ -2,9 +2,10 @@
 title: "MacLeod #2"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKR](/stripes/krkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12r3k2r16k8r12k2r3/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2627
 

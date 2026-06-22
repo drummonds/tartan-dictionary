@@ -2,9 +2,10 @@
 title: "Stone, Alan (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWKBRY](/stripes/rwkbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln6k12n36na12y1/)
+(the same proportion at any scale), whose colour order is pattern [RWKBRY](/stripes/rwkbry/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10133/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stone, Alan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 12th Jan. 2010 — Stone, Alan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10133/))
-- undated — Stone Family Name Tartan Tartan Number: 10133. Earliest known date: 12th Jan. 2010 The Stone family tartan has been created for the family of Alan Stone to commemorate the diverse and wonderful Stone family history from their origins within the British Isles to their accomplishments in American history. The royal blue background represents both the family from Great Bromley who carried the title of Knight, and those family members who fought on the Union side of the American Civil War. The black background with a white cross symbolizes Cornwall, the earliest known origin of the Stone family. A red cross on a white background represents family throughout England. The grey stripe represents those of the Stone family who fought for the Confederacy during the American Civil War. The gold/yellow stripe running throughout represents the line of the Stone family from Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10133))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>12th Jan. 2010 — Stone, Alan (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10133/">record</a>)</li>
+<li>undated — Stone Family Name Tartan Tartan Number: 10133. Earliest known date: 12th Jan. 2010 The Stone family tartan has been created for the family of Alan Stone to commemorate the diverse and wonderful Stone family history from their origins within the British Isles to their accomplishments in American history. The royal blue background represents both the family from Great Bromley who carried the title of Knight, and those family members who fought on the Union side of the American Civil War. The black background with a white cross symbolizes Cornwall, the earliest known origin of the Stone family. A red cross on a white background represents family throughout England. The grey stripe represents those of the Stone family who fought for the Confederacy during the American Civil War. The gold/yellow stripe running throughout represents the line of the Stone family from Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10133">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 LN12 K24 N72 Na24 Y/2

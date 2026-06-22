@@ -2,9 +2,10 @@
 title: "Help for Heroes (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBBBBBBBBBR](/stripes/bwbbbbbbbbbbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b25db10dba1db5dba2db4dba3db3dba3db2dba4db1dba16n6dba3/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBBBBBBBBBR](/stripes/bwbbbbbbbbbbbbbr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10561/
 

@@ -2,9 +2,10 @@
 title: "Lawrence of Broughty Ferry (Corporat"
 date: 2023-03-18
 ---
-In pattern [BWBGKG](/stripes/bwbgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20k2g20p25ln2b3/)
+(the same proportion at any scale), whose colour order is pattern [BWBGKG](/stripes/bwbgkg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10375/
 

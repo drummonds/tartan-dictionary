@@ -2,9 +2,10 @@
 title: "Elgin - Landshut"
 date: 2023-03-18
 ---
-In pattern [RKGKGKGKBKKKGW](/stripes/rkgkgkgkbkkkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1db6g1k1g1k1g6k1b1k1db3k3g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKGKBKKKGW](/stripes/rkgkgkgkbkkkgw/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

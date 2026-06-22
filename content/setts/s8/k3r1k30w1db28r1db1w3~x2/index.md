@@ -2,20 +2,22 @@
 title: "Dunlop"
 date: 2023-03-18
 ---
-In pattern [KRKWBRBW](/stripes/krkwbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1k30ln1db28r1db1ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRKWBRBW](/stripes/krkwbrbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1982 — Dunlop (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045))
-- 1982 — Dunlop (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1197/))
-- undated — Dunlop (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Dunlop Clan Tartan Tartan Number: 1197. Earliest known date: 1982 Revised version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1197))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1982 — Dunlop (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1045">record</a>)</li>
+<li>1982 — Dunlop (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1197/">record</a>)</li>
+<li>undated — Dunlop (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Dunlop Clan Tartan Tartan Number: 1197. Earliest known date: 1982 Revised version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1197">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

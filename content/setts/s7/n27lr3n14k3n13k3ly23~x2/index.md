@@ -2,18 +2,20 @@
 title: "Grange School"
 date: 2023-03-18
 ---
-In pattern [BYBKBKY](/stripes/bybkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n27na3n14k3n13k3dy23/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKY](/stripes/bybkbky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/1988 — Grange School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494))
-- pre 2002 — Grange School (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5094/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/1988 — Grange School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1494">record</a>)</li>
+<li>pre 2002 — Grange School (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5094/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

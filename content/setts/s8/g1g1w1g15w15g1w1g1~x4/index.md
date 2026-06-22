@@ -2,9 +2,10 @@
 title: "Bundy, Dress Black Personal)"
 date: 2023-03-18
 ---
-In pattern [GGWGWGWG](/stripes/ggwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga1g1w1g15w15g1w1ga1/)
+(the same proportion at any scale), whose colour order is pattern [GGWGWGWG](/stripes/ggwgwgwg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/9000/
 

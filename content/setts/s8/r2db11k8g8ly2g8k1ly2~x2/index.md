@@ -2,9 +2,10 @@
 title: "Scout Mapping Service #2 (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBKGYGKY](/stripes/rbkgygky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2db11k8ga8y2g8k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGYGKY](/stripes/rbkgygky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3823/
 

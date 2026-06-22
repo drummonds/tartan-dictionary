@@ -2,9 +2,10 @@
 title: "Cochrane, -1974"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g22r4g2r2g2r4g12k12r2b10r4b4y3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGKRBRBY](/stripes/grgrgrgkrbrby/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

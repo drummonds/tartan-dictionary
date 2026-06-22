@@ -2,9 +2,10 @@
 title: "Un-named C19th Plaid"
 date: 2023-03-18
 ---
-In pattern [GBKYKWKGRKRKRKRKRKGKGKGKGKGRGKW](/stripes/gbkykwkgrkrkrkrkrkgkgkgkgkgrgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g105db9k16y6k8ln3k8g16r24k1r4k2r3k3r2k4r1k9g1k4g2k3g3k2g4k1g40r9g10k3ln5/)
+(the same proportion at any scale), whose colour order is pattern [GBKYKWKGRKRKRKRKRKGKGKGKGKGRGKW](/stripes/gbkykwkgrkrkrkrkrkgkgkgkgkgrgkw/).
 
-This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8538/
 

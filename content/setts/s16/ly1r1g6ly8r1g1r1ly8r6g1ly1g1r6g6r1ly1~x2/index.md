@@ -2,18 +2,20 @@
 title: "Strathearn"
 date: 2023-03-18
 ---
-In pattern [YRGRGYGRYRGRYGRY](/stripes/yrgrgygryrgrygry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1r1g6y8r1g1r1y8r6g1y1g1r6g6r1y1/)
+(the same proportion at any scale), whose colour order is pattern [YRGRGYGRYRGRYGRY](/stripes/yrgrgygryrgrygry/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Strathearn (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Strathearn District Tartan Tartan Number: 1890. Earliest known date: 1812 Ref: The Setts No. 244 The Strathearn tartan is said to have been worn by the father of Queen Victoria H.R.H. Edward, Duke of Kent, who was also Duke of Strathearn. As Colonel of the Royal Scots Regiment 1801-1821, he apparently sent a sample to Wilson's of Bannockburn with a view to 'dressing the gallant corps'. It it also the adopted tartan of the Comrie Pipe Band who regularly march past the Scottish Tartans Museum in village main street. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1890))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Strathearn (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Strathearn District Tartan Tartan Number: 1890. Earliest known date: 1812 Ref: The Setts No. 244 The Strathearn tartan is said to have been worn by the father of Queen Victoria H.R.H. Edward, Duke of Kent, who was also Duke of Strathearn. As Colonel of the Royal Scots Regiment 1801-1821, he apparently sent a sample to Wilson's of Bannockburn with a view to 'dressing the gallant corps'. It it also the adopted tartan of the Comrie Pipe Band who regularly march past the Scottish Tartans Museum in village main street. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1890">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/2 R2 G12 Y16 R2 G2 R2 Y16 R12 G2 Y2 G2 R12 G12 R2 Y/2

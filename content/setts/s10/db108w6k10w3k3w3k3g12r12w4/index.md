@@ -2,18 +2,20 @@
 title: "Racing Stewart"
 date: 2023-03-18
 ---
-In pattern [BWKWKWKGRW](/stripes/bwkwkwkgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db108ln6k10ln3k3ln3k3g12r12ln4/)
+(the same proportion at any scale), whose colour order is pattern [BWKWKWKGRW](/stripes/bwkwkwkgrw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Racing Stewart (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Racing Stewart Corporate Tartan Tartan Number: 2306. Earliest known date: 1990 The tartan that appears on the Jackie Stewart formula one racing car. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2306))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Racing Stewart (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Racing Stewart Corporate Tartan Tartan Number: 2306. Earliest known date: 1990 The tartan that appears on the Jackie Stewart formula one racing car. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2306">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/108 LN6 K10 LN3 K3 LN3 K3 G12 R12 LN/4

@@ -2,9 +2,10 @@
 title: "MacDuff Clan Tartan Tartan Number: 2141. Earliest known date: 1831 According to D.C.Stewart, \"It will be observed that the MacDuff tartan is substantially the Royal Stuart with the white and yellow lines removed. Whether this indicates it as a source of the Stuart, or the association of the Earls of Fife with the Crown, remains to be determined.\" James Logan published this sett in his book, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKGRKR](/stripes/rbkgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8db3k4g6r4k1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBKGRKR](/stripes/rbkgrkr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2141
 

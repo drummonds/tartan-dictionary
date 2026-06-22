@@ -2,9 +2,10 @@
 title: "Wilson, Janet (1780 Original)"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp30ln2b3g3b3g3b3g16r3g3r3g3r3g3r3g25r15g4b4r8ln2r15/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/625/
 

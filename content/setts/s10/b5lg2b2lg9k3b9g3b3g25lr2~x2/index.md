@@ -2,9 +2,10 @@
 title: "Un-named (D C Dalgliesh) #2"
 date: 2023-03-18
 ---
-In pattern [BYBYKBGBGY](/stripes/bybykbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5ba2b2ba9k3b9g3b3g25n2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYKBGBGY](/stripes/bybykbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4408
 

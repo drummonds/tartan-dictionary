@@ -2,9 +2,10 @@
 title: "Royal Canadian Air Force"
 date: 2023-03-18
 ---
-In pattern [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b6k1r2k1b14k3ln3k2r2k2r2db4r2db6r2db6r2/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3591
 

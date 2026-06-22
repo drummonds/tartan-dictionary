@@ -2,9 +2,10 @@
 title: "Tricor (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRGGGWG](/stripes/grgggwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt23ta4t6g6lt4n1lt4/)
+(the same proportion at any scale), whose colour order is pattern [GRGGGWG](/stripes/grgggwg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5823/
 

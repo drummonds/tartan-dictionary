@@ -2,9 +2,10 @@
 title: "Wyckoff, Ann Grainger Phillips Commemorative Tartan Tartan Number: 10610. Earliest known date: 2 May 2012 Created to commemorate the 85th birthday of the designer's mother, with a field of blue to match her eyes and with one line for each of her four children in the colour of his or her birth stone (sapphire, pearl, diamond, garnet). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBWBWBK](/stripes/bbbwbwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b70ba5b3w5b3wa5b3r5/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBWBK](/stripes/bbbwbwbk/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10610
 

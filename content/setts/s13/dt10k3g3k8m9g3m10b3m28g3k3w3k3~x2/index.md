@@ -2,9 +2,10 @@
 title: "Clifford"
 date: 2023-03-18
 ---
-In pattern [BKGKRGRBRGKWK](/stripes/bkgkrgrbrgkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k3g3k8dr9g3dr10b3dr28g3k3ln3k3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRGRBRGKWK](/stripes/bkgkrgrbrgkwk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

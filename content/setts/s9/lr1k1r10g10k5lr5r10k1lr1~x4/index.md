@@ -2,9 +2,10 @@
 title: "Graham Red"
 date: 2023-03-18
 ---
-In pattern [YKRGKYRKY](/stripes/ykrgkyrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1k1r10g10k5n5r10k1n1/)
+(the same proportion at any scale), whose colour order is pattern [YKRGKYRKY](/stripes/ykrgkyrky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1487
 

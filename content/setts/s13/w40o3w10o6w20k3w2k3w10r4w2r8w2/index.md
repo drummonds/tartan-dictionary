@@ -2,9 +2,10 @@
 title: "Virginia Quadricentennial"
 date: 2023-03-18
 ---
-In pattern [WRWRWKWKWRWRW](/stripes/wrwrwkwkwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly40do3ly10do6ly20k3ly2k3ly10dr4ly2dr8ly2/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWKWKWRWRW](/stripes/wrwrwkwkwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4468
 

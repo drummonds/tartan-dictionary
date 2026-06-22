@@ -2,9 +2,10 @@
 title: "Matheson Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2855
 

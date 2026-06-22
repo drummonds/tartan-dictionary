@@ -2,9 +2,10 @@
 title: "Hebridean, (Old..)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRG](/stripes/brbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10r1b10r2b10r1g2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRG](/stripes/brbrbrg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hebridean,
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hebridean, (Old..) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hebridean (Old..) District Tartan Tartan Number: 414. Earliest known date: pre 2003 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=414))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hebridean, (Old..) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hebridean (Old..) District Tartan Tartan Number: 414. Earliest known date: pre 2003 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=414">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/20 R2 B20 R4 B20 R2 G/4

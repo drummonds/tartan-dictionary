@@ -2,9 +2,10 @@
 title: "Hunter Portrait/Artefact Tartan Tartan Number: 5873. Earliest known date: 1775 Presented to the Tartans Authority in Canada in 2003 by a Jean Hunter from Huntsville Ontario who had been given it by her Father the Rev. George W. Hunter - a minister in Aberdeen. The piece is a shawl 6ft 6inches long by 19inches wide and is what is known as a hard, superfine tartan using typical Wilson of Bannockburn colours. The sett is selvedge to selvedge full repeat and the weave is 52epi. The sett is complex with 8 colours and 67 colour changes. Embroidered into the end of the shawl is \"Donnald 1775\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRGYRRYRYYBGYYYYYGBYYRRGRRYGYGYGYGYGYGYGYGYRRGRRYGYYYGYGYBYBYGYRRY](/stripes/rrgyrryryybgyyyyygbyyrrgrrygygygygygygygygyrrgrrygyyygygybybygyrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30do4lg6lt4do4r16n2do4n2lt4db18lg6y3n2lt4n2y3lg6db18lt4n2do4r12lg2r12do3n2g10n2g2y4g2n2lg8n4lg8n2g2y4g2n2g10n2do4r12lg2r12do4n2g10lt4n4lt4g10n2lg6n2db12n2db12n2lg6n2do4r12n2/)
+(the same proportion at any scale), whose colour order is pattern [RRGYRRYRYYBGYYYYYGBYYRRGRRYGYGYGYGYGYGYGYGYRRGRRYGYYYGYGYBYBYGYRRY](/stripes/rrgyrryryybgyyyyygbyyrrgrrygygygygygygygygyrrgrrygyyygygybybygyrry/).
 
-This was sourced from house-of-tartan.  It is a [66 stripe tartan](/stripes/stripes66/).
+Sourced from house-of-tartan.  It is a [66 stripe tartan](/stripes/stripes66/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5873
 

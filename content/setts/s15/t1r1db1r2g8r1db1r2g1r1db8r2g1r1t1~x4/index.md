@@ -2,9 +2,10 @@
 title: "MacIntyre of Glenorchy Clan Tartan Tartan Number: 402. Earliest known date: 1850 Smiths' version is also known as MacIntyre of Whitehouse. Though different from the sett recorded by Lord Lyon it is the one most often available in modern times. Before moving to Badenoch to take protection for Clan Chattan, the MacIntyres were listed as followers of Stewart of Appin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1r1db1r2g8r1db1r2g1r1db8r2g1r1b1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=402
 

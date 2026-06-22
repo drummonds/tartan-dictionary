@@ -2,9 +2,10 @@
 title: "Clergy"
 date: 2023-03-18
 ---
-In pattern [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k10ln2n8ln1k52ln2k20n10k4n10k20ln2n8ln2k10ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKWRWKRKRKWKWRWKW](/stripes/wkwrwkrkrkwkwrwkw/).
 
-This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

@@ -2,9 +2,10 @@
 title: "Baird Clan Tartan Tartan Number: 104. Earliest known date: 1906 This tartan is first recorded in Johnston's work of 1906, and the sample from the Highland Society of London probably dates from the same period. In both these early references the triple stripes are rendered in red. Today, however, they are generally woven in purple. The name originates from 'bard' meaning poet. The Bairds owned estates in Aberdeenshire which were later purchased by the Gordons. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGKBKB](/stripes/bgbgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k2db8k8g8p1g1p3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKBKB](/stripes/bgbgkbkb/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=104
 

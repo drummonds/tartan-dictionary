@@ -2,9 +2,10 @@
 title: "Glaz"
 date: 2023-03-18
 ---
-In pattern [RYGBGBGBGBYBBBBBBY](/stripes/rygbgbgbgbybbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2y1n7b1n4b2n3b3n1b15na1b4db2b2db4b1db9na2/)
+(the same proportion at any scale), whose colour order is pattern [RYGBGBGBGBYBBBBBBY](/stripes/rygbgbgbgbybbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10774
 

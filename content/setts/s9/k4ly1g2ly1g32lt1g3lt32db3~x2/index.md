@@ -2,9 +2,10 @@
 title: "McClurg, William Thomas (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWGWGYGYK](/stripes/bwgwgygyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y1g2y1g32lb1g3lb32b3/)
+(the same proportion at any scale), whose colour order is pattern [BWGWGYGYK](/stripes/bwgwgygyk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6016
 

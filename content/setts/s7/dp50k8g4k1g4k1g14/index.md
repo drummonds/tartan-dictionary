@@ -2,9 +2,10 @@
 title: "Ahmlaigh (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKG](/stripes/bkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p50k8g4k1g4k1g14/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKG](/stripes/bkgkgkg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8049/
 

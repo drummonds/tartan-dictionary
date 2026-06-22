@@ -2,9 +2,10 @@
 title: "Clauweart"
 date: 2023-03-18
 ---
-In pattern [BYBBWKBWKBRKRKBWR](/stripes/bybbwkbwkbrkrkbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln2b6k8do3k4do3n13k2ln2n6k2ln2n6b4dy2b4/)
+(the same proportion at any scale), whose colour order is pattern [BYBBWKBWKBRKRKBWR](/stripes/bybbwkbwkbrkrkbwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=669
 

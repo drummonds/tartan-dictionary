@@ -2,9 +2,10 @@
 title: "Unnamed C18th - Duke of Perth"
 date: 2023-03-18
 ---
-In pattern [BRBRGWGWGRBRBRBRBRGWGWGRBR](/stripes/brbrgwgwgrbrbrbrbrgwgwgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30r14db2r14g20ln1g2ln1g20r44db4r10b1r4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGWGWGRBRBRBRBRGWGWGRBR](/stripes/brbrgwgwgrbrbrbrbrgwgwgrbr/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4417
 

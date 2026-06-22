@@ -2,9 +2,10 @@
 title: "Brown, Barnaby (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db10g1db2g1db2g8r1g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=394
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Brown, Barnaby
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1999 — Brown, Barnaby (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=394))
-- 1999 — Brown, Barnaby (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7345/))
-- pre 2002 — Brown, Barnaby (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2683/))
-- undated — Barnaby Brown Pibroch (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5460))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Brown, Barnaby (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=394">record</a>)</li>
+<li>1999 — Brown, Barnaby (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7345/">record</a>)</li>
+<li>pre 2002 — Brown, Barnaby (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2683/">record</a>)</li>
+<li>undated — Barnaby Brown Pibroch (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5460">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

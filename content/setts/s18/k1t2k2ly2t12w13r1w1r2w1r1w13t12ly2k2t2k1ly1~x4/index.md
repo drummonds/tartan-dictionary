@@ -2,9 +2,10 @@
 title: "Jong Nederland Born Union, Dress"
 date: 2023-03-18
 ---
-In pattern [KBKYBWRWRWRWBYKBKY](/stripes/kbkybwrwrwrwbykbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1b2k2lg2b12ln13dr1ln1dr2ln1dr1ln13b12lg2k2b2k1y1/)
+(the same proportion at any scale), whose colour order is pattern [KBKYBWRWRWRWBYKBKY](/stripes/kbkybwrwrwrwbykbky/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1907
 

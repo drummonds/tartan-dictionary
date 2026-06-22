@@ -2,9 +2,10 @@
 title: "Hebrides South Uist #4"
 date: 2023-03-18
 ---
-In pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbrbrbrbrbrbrgrbrbrbrbrbwbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db24r2db1r8db1r3db24r3db2r2g7r2db2r3db24r2db1r8db1r2db24ln1db2r2db2r2g2db2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBRBRBRBRBRBRGRBRBRBRBRBWBRBRG](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbrbrbrbrbrbrgrbrbrbrbrbwbrbrg/).
 
-This was sourced from register-of-tartans.  It is a [56 stripe tartan](/stripes/stripes56/).
+Sourced from register-of-tartans.  It is a [56 stripe tartan](/stripes/stripes56/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1671
 

@@ -2,9 +2,10 @@
 title: "Mungall Family Tartan Tartan Number: 4070. Earliest known date: 2001 This tartan was first produced in ancient colours. It is a personal tartan to commemorate the signing of the Ragman's Roll by William de Mungall See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRKYKRGBRBRBRB](/stripes/bgrkykrgbrbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30g8r2k8y2k8r2g8db11r2b10r3b2r2db3/)
+(the same proportion at any scale), whose colour order is pattern [BGRKYKRGBRBRBRB](/stripes/bgrkykrgbrbrbrb/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4070
 

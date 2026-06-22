@@ -2,9 +2,10 @@
 title: "Baillie of Polkemmet Red"
 date: 2023-03-18
 ---
-In pattern [GRKBW](/stripes/grkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b12k12r20g2/)
+(the same proportion at any scale), whose colour order is pattern [GRKBW](/stripes/grkbw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=166
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Baillie of Polkemett
 - Baillie of Polkemett, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1937 — Baillie of Polkemmet Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=166))
-- 1937 — Baillie of Polkemett, Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1008/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1937 — Baillie of Polkemmet Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=166">record</a>)</li>
+<li>1937 — Baillie of Polkemett, Red (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1008/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

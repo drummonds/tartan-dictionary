@@ -2,9 +2,10 @@
 title: "Clackson Arisaid (Name?)"
 date: 2023-03-18
 ---
-In pattern [WGWBYBY](/stripes/wgwbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln24g2ln8db5y4db5y4/)
+(the same proportion at any scale), whose colour order is pattern [WGWBYBY](/stripes/wgwbyby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6002/
 

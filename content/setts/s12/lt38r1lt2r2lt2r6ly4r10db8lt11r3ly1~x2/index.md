@@ -2,9 +2,10 @@
 title: "Spirit of Dunkeld"
 date: 2023-03-18
 ---
-In pattern [WRWRWRYRBWRY](/stripes/wrwrwryrbwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb38r1lb2r2lb2r6y4r10b8lb11r3y1/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWRYRBWRY](/stripes/wrwrwryrbwry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10564
 

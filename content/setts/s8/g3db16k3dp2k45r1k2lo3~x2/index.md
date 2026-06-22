@@ -2,18 +2,20 @@
 title: "Cumnock (District)"
 date: 2023-03-18
 ---
-In pattern [GBKBKRKY](/stripes/gbkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3db16k3p2k45r1k2lg3/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKRKY](/stripes/gbkbkrky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10436/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2011 — Cumnock (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10436/))
-- undated — Cumnock District Tartan Tartan Number: 10436. Earliest known date: March 2011 Based on the MacMillan hunting tartan in honour of the founder of the Cumnock Games, Councillor James McMillan. The blue is from the lion rampant in the Cumnock coat of arms. The orange and red commemorate the great iron ore blast furnaces at Lugar and the surrounding black is for the coal mines that fed those furnaces and formed the heart of the Cumnock community. Approved by Cumnock Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10436))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2011 — Cumnock (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10436/">record</a>)</li>
+<li>undated — Cumnock District Tartan Tartan Number: 10436. Earliest known date: March 2011 Based on the MacMillan hunting tartan in honour of the founder of the Cumnock Games, Councillor James McMillan. The blue is from the lion rampant in the Cumnock coat of arms. The orange and red commemorate the great iron ore blast furnaces at Lugar and the surrounding black is for the coal mines that fed those furnaces and formed the heart of the Cumnock community. Approved by Cumnock Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10436">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/6 DB32 K6 P4 K90 R2 K4 LG/6

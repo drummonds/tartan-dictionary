@@ -2,9 +2,10 @@
 title: "Dunfermline"
 date: 2023-03-18
 ---
-In pattern [RBRKBW](/stripes/rbrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr11n3dr12k11b11w1/)
+(the same proportion at any scale), whose colour order is pattern [RBRKBW](/stripes/rbrkbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1043
 

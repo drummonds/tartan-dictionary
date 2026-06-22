@@ -2,18 +2,20 @@
 title: "Blue Ridge Highlands Heritage"
 date: 2023-03-18
 ---
-In pattern [BBWGBWBY](/stripes/bbwgbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b27dba9lp3g6dba33lp3dr3y2/)
+(the same proportion at any scale), whose colour order is pattern [BBWGBWBY](/stripes/bbwgbwby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=304
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/2005 — Blue Ridge Highlands Heritage (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=304))
-- 2005 April — Blue Ridge Highlands Heritage (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6637/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2005 — Blue Ridge Highlands Heritage (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=304">record</a>)</li>
+<li>2005 April — Blue Ridge Highlands Heritage (Dist) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6637/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

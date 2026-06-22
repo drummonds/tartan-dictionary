@@ -2,9 +2,10 @@
 title: "MacDonell of Glengarry D"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8dr1db2dr3db12dr1k12dg12dr3dg2dr1dg4n1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

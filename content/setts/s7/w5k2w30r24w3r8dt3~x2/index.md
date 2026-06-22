@@ -2,9 +2,10 @@
 title: "Arduaine, Red (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRWRWKW](/stripes/brwrwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5k2w30r24w3r8db3/)
+(the same proportion at any scale), whose colour order is pattern [BRWRWKW](/stripes/brwrwkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7572/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Arduaine, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Arduaine, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7572/))
-- undated — Arduaine Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5596))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Arduaine, Red (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7572/">record</a>)</li>
+<li>undated — Arduaine Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5596">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

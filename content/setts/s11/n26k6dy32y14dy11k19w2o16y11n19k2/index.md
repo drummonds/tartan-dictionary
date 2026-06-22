@@ -2,9 +2,10 @@
 title: "Teddy Bear 111th Anniversary"
 date: 2023-03-18
 ---
-In pattern [BKGGGKWRGBK](/stripes/bkgggkwrgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n26k6t32g14t11k19w2lt16g11n19k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGGGKWRGBK](/stripes/bkgggkwrgbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10940
 

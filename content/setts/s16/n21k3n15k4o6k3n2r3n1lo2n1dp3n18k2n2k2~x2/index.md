@@ -2,18 +2,20 @@
 title: "Pounds (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n21k3n15k4na6k3n2dr3n1dy2n1p3n18k2n2k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10070/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 5th August 2009 — Pounds (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10070/))
-- undated — Pounds Name Tartan Tartan Number: 10070. Earliest known date: 5th August 2009 For anyone of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10070))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>5th August 2009 — Pounds (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10070/">record</a>)</li>
+<li>undated — Pounds Name Tartan Tartan Number: 10070. Earliest known date: 5th August 2009 For anyone of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10070">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/42 K6 N30 K8 Na12 K6 N4 DR6 N2 DY4 N2 P6 N36 K4 N4 K/4

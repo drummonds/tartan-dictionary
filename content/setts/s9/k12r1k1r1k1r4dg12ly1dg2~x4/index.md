@@ -2,9 +2,10 @@
 title: "Durie"
 date: 2023-03-18
 ---
-In pattern [GYGRKRKRK](/stripes/gygrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12dr1db1dr1db1dr4dg12y1dg2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRKRKRK](/stripes/gygrkrkrk/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

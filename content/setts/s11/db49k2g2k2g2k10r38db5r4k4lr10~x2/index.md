@@ -2,9 +2,10 @@
 title: "Porsche Bank Austria"
 date: 2023-03-18
 ---
-In pattern [BKGKGKRBRKY](/stripes/bkgkgkrbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db49k2b2k2b2k10r38db5r4k4n10/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKRBRKY](/stripes/bkgkgkrbrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11597
 

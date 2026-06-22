@@ -2,9 +2,10 @@
 title: "Historic Scotland"
 date: 2023-03-18
 ---
-In pattern [BWBWBGKGK](/stripes/bwbwbgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln1db1ln3db24n9k1n9k3/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBGKGK](/stripes/bwbwbgkgk/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

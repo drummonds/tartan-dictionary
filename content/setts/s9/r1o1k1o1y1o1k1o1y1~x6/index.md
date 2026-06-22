@@ -2,9 +2,10 @@
 title: "Seaforth Estate Check Estate Check Weavers Tartan Tartan Number: 5344. Earliest known date: pre 1990 No details. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRKRGRKRR](/stripes/grkrgrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1lt1k1lt1t1lt1k1lt1t1/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRKRR](/stripes/grkrgrkrr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5344
 

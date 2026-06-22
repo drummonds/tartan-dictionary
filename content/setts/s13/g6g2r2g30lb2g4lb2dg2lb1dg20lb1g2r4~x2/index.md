@@ -2,9 +2,10 @@
 title: "All Ireland Green"
 date: 2023-03-18
 ---
-In pattern [GGRGWGWGWGWGR](/stripes/ggrgwgwgwgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6ga2dr2g30n2ga4n2dg2n1dg20n1ga2dr4/)
+(the same proportion at any scale), whose colour order is pattern [GGRGWGWGWGWGR](/stripes/ggrgwgwgwgwgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=53
 

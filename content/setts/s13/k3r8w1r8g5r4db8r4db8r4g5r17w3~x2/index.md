@@ -2,9 +2,10 @@
 title: "Bruce, William"
 date: 2023-03-18
 ---
-In pattern [KRWRGRBRBRGRW](/stripes/krwrgrbrbrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r8ly1r8g5r4b8r4b8r4g5r17w3/)
+(the same proportion at any scale), whose colour order is pattern [KRWRGRBRBRGRW](/stripes/krwrgrbrbrgrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10212
 

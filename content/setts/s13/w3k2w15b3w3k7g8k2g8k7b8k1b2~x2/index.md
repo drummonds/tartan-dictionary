@@ -2,18 +2,20 @@
 title: "Campbell, 42nd Dress (Balhousie)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3k2ln15b3ln3k7ga8k2ga8k7b8k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKWBWKW](/stripes/bkbkgkgkwbwkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Campbell, 42nd Dress (Balhousie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531))
-- pre 2002 — Campbell, 42nd Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/20/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Campbell, 42nd Dress (Balhousie) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=531">record</a>)</li>
+<li>pre 2002 — Campbell, 42nd Dress (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/20/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

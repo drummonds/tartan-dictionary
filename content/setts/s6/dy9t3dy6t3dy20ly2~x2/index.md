@@ -2,9 +2,10 @@
 title: "Oman RAF, Sultanate of (Military)"
 date: 2023-03-18
 ---
-In pattern [GBGBGY](/stripes/gbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t9b3t6b3t20y2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGY](/stripes/gbgbgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/717/
 
@@ -16,13 +17,14 @@ This cloth is also recorded under:
 - Oman, Sultanate of / Oliver dress
 - Oman, Sultanate of..
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1960s — Oman RAF, Sultanate of (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/717/))
-- undated — Oman, Sultanate of.. (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Oman Sultanate of.. Regimental Tartan Tartan Number: 717. Earliest known date: pre 2003 Air Force (Juniors) Pipe Band regimental tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=717))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1960s — Oman RAF, Sultanate of (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/717/">record</a>)</li>
+<li>undated — Oman, Sultanate of.. (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Oman Sultanate of.. Regimental Tartan Tartan Number: 717. Earliest known date: pre 2003 Air Force (Juniors) Pipe Band regimental tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=717">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 T/18 B6 T12 B6 T40 Y/4

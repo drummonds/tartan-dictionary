@@ -2,9 +2,10 @@
 title: "Fraser, Wedding dress"
 date: 2023-03-18
 ---
-In pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r3b2r48g60r21g2r21b60r48b2r3g2/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBRGRGRBRG](/stripes/grbrbrgrgrbrg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

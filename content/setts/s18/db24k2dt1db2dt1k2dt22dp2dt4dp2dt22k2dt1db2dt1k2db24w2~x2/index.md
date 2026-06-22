@@ -2,9 +2,10 @@
 title: "Spirit of Wales"
 date: 2023-03-18
 ---
-In pattern [BKBBBKBBBBBKBBBKBW](/stripes/bkbbbkbbbbbkbbbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2dn1db2dn1k2dn22p2dn4p2dn22k2dn1db2dn1k2db24ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBKBBBBBKBBBKBW](/stripes/bkbbbkbbbbbkbbbkbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3867
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Spirit of Wales Fancy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Spirit of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3867))
-- undated — Spirit of Wales Fancy Tartan Tartan Number: 6495. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Dyfed Menswear, Llanelli, Carmarthenshire, Wales. For the sole use of Dyfed Menswear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6495))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Spirit of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3867">record</a>)</li>
+<li>undated — Spirit of Wales Fancy Tartan Tartan Number: 6495. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Dyfed Menswear, Llanelli, Carmarthenshire, Wales. For the sole use of Dyfed Menswear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6495">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

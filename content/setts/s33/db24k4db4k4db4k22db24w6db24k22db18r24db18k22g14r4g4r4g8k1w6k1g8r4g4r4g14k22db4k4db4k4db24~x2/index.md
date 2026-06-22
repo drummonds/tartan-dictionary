@@ -2,9 +2,10 @@
 title: "Flora, MacDonald Plaid"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24k4b4k4b4k22b24ln6b24k22b18r24b18k22g14r4g4r4g8k1ln6k1g8r4g4r4g14k22b4k4b4k4b24/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/).
 
-This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Flora, MacDonald Plaid
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Flora, MacDonald Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Flora MacDonald Plaid Artifact Tartan Tartan Number: 217. Earliest known date: 18th C Count from a Wilson sample in the STS collection where it is called a 'plaid Belonging to Flora MacDonald' . STS notes query 2nd White stripe. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=217))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Flora, MacDonald Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Flora MacDonald Plaid Artifact Tartan Tartan Number: 217. Earliest known date: 18th C Count from a Wilson sample in the STS collection where it is called a 'plaid Belonging to Flora MacDonald' . STS notes query 2nd White stripe. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=217">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/48 K8 B8 K8 B8 K44 B48 LN12 B48 K44 B36 R48 B36 K44 G28 R8 G8 R8 G16 K2 LN12 K2 G16 R8 G8 R8 G28 K44 B8 K8 B8 K8 B/48

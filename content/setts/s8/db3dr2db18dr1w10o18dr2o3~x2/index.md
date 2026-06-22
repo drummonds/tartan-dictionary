@@ -2,9 +2,10 @@
 title: "Bannockbane Silver"
 date: 2023-03-18
 ---
-In pattern [BBBBWRBR](/stripes/bbbbwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3dr2db18dr1ln10n18dr2n3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWRBR](/stripes/bbbbwrbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=205
 

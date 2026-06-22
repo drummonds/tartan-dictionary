@@ -2,9 +2,10 @@
 title: "Lumsden"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r3g9r8g1r1g3r1g1r8g1r1g3r1g1r8w1r4db10r3db10r4w1r8g2r4g2r8g5r3g5r3g5y1g5r5g8w1g8/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/).
 
-This was sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6023
 

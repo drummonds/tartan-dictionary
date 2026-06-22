@@ -2,9 +2,10 @@
 title: "Stone of Destiny, The (Commemorative"
 date: 2023-03-18
 ---
-In pattern [BBBBRBBYB](/stripes/bbbbrbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dy2db20dn2dr4dn2db3dn12db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBRBBYB](/stripes/bbbbrbbyb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2291/
 

@@ -2,18 +2,20 @@
 title: "Coopers & Lybrand"
 date: 2023-03-18
 ---
-In pattern [BBBRGKBBRGB](/stripes/bbbrgkbbrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g4r1db24b4k2g24r1db10b4db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBRGKBBRGB](/stripes/bbbrgkbbrgb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Coopers & Lybrand (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756))
-- 1996 — Coopers & Lybrand (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2303/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Coopers & Lybrand (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=756">record</a>)</li>
+<li>1996 — Coopers & Lybrand (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2303/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

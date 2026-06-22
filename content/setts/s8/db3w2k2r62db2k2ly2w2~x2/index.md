@@ -2,9 +2,10 @@
 title: "Singer Sewing Machine Company"
 date: 2023-03-18
 ---
-In pattern [BWKRBKYW](/stripes/bwkrbkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3w2k2dr62b2k2y2w2/)
+(the same proportion at any scale), whose colour order is pattern [BWKRBKYW](/stripes/bwkrbkyw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11652
 

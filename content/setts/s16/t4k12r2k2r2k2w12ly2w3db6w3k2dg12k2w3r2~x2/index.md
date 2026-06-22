@@ -2,9 +2,10 @@
 title: "Innes Dress"
 date: 2023-03-18
 ---
-In pattern [BKRKRKWYWBWKGKWR](/stripes/bkrkrkwywbwkgkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4k12r2k2r2k2ln12y2ln3ba6ln3k2g12k2ln3r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKWYWBWKGKWR](/stripes/bkrkrkwywbwkgkwr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1830
 

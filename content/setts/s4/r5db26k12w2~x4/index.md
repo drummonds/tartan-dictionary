@@ -2,18 +2,20 @@
 title: "Mirror (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBKW](/stripes/rbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db26k12w2/)
+(the same proportion at any scale), whose colour order is pattern [RBKW](/stripes/rbkw/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6218/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1999 — Mirror (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6218/))
-- 01/05/2002 — Mirror (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1999 — Mirror (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6218/">record</a>)</li>
+<li>01/05/2002 — Mirror (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2963">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

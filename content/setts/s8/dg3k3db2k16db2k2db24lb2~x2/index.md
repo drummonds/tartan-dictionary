@@ -2,9 +2,10 @@
 title: "Auckland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKBKBKBW](/stripes/gkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3k3db2k16db2k2db24n2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBW](/stripes/gkbkbkbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3043/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Auckland New Zealand
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1999 — Auckland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3043/))
-- 01/01/2000 — Auckland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087))
-- undated — Auckland New Zealand District Tartan Tartan Number: 3043. Earliest known date: 1999 Designed by the House of Tartan for Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. This company appears to have gone out of business without ever promoting the tartan. Copyright remains with the designers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3043))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1999 — Auckland (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3043/">record</a>)</li>
+<li>01/01/2000 — Auckland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5087">record</a>)</li>
+<li>undated — Auckland New Zealand District Tartan Tartan Number: 3043. Earliest known date: 1999 Designed by the House of Tartan for Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. This company appears to have gone out of business without ever promoting the tartan. Copyright remains with the designers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3043">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

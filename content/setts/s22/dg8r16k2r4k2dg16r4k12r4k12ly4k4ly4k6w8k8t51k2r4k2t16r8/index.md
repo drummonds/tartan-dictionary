@@ -2,9 +2,10 @@
 title: "Anderson (MacGregor-Hastie #1)"
 date: 2023-03-18
 ---
-In pattern [GRKRKGRKRKYKYKWKBKRKBR](/stripes/grkrkgrkrkykykwkbkrkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8b16k2r4k2b51k8ln8k6y4k4y4k12r4k12r4g16k2r4k2r16g8/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKGRKRKYKYKWKBKRKBR](/stripes/grkrkgrkrkykykwkbkrkbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=77
 

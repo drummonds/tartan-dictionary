@@ -2,19 +2,21 @@
 title: "Cameron"
 date: 2023-03-18
 ---
-In pattern [RGRGRY](/stripes/rgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g6r2g6r16y1/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRY](/stripes/rgrgry/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Cameron (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Cameron (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Cameron (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cameron (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Cameron (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Cameron (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 G12 R4 G12 R32 Y/2

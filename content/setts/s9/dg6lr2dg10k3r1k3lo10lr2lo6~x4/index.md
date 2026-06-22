@@ -2,9 +2,10 @@
 title: "Eire"
 date: 2023-03-18
 ---
-In pattern [GYGKRKYYY](/stripes/gygkrkyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o6n2o10k3dr1k3g10n2g6/)
+(the same proportion at any scale), whose colour order is pattern [GYGKRKYYY](/stripes/gygkrkyyy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1094
 

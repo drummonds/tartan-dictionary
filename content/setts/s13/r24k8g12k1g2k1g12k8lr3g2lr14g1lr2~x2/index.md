@@ -2,18 +2,20 @@
 title: "Hohenzollern Staff"
 date: 2023-03-18
 ---
-In pattern [RKGKGKGKYGYGY](/stripes/rkgkgkgkygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24k8g12k1ga2k1g12k8lr3ga2lr14ga1lr2/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKGKYGYGY](/stripes/rkgkgkgkygygy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2007 — Hohenzollern Staff (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748))
-- March 2007 — Hohenzollern Staff (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7154/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2007 — Hohenzollern Staff (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1748">record</a>)</li>
+<li>March 2007 — Hohenzollern Staff (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7154/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Miramichi"
 date: 2023-03-18
 ---
-In pattern [GYGBR](/stripes/gygbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg31dy1dg18db18dr1/)
+(the same proportion at any scale), whose colour order is pattern [GYGBR](/stripes/gygbr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Miramichi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962))
-- 1996 — Miramichi (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5678/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Miramichi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2962">record</a>)</li>
+<li>1996 — Miramichi (P&D) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5678/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

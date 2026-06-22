@@ -2,9 +2,10 @@
 title: "Maxwell"
 date: 2023-03-18
 ---
-In pattern [RGRKRGR](/stripes/rgrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g16r4k6r28g1r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRGR](/stripes/rgrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2861
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Maxwell Ancient
 - Maxwell; Maxwell Ancient
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1842 — Maxwell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2861))
-- 1842 — Maxwell (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1500/))
-- undated — Maxwell; Maxwell Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Maxwell Clan Tartan Tartan Number: 1500. Earliest known date: 1842 Tartans of the Lowland families were not named until the publication the 'Vestiarium Scoticum' in 1842. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartans. The Maxwells have, nevertheless, a tartan of at least 150 years antiquity, probably designed by persons of great imagination and flair. The Maxwells come from Glasgow and the S.W. of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1500))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Maxwell (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2861">record</a>)</li>
+<li>1842 — Maxwell (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1500/">record</a>)</li>
+<li>undated — Maxwell; Maxwell Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Maxwell Clan Tartan Tartan Number: 1500. Earliest known date: 1842 Tartans of the Lowland families were not named until the publication the 'Vestiarium Scoticum' in 1842. The authors, the Sobieski Stuart brothers, enjoyed a popular following amongst the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartans. The Maxwells have, nevertheless, a tartan of at least 150 years antiquity, probably designed by persons of great imagination and flair. The Maxwells come from Glasgow and the S.W. of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1500">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

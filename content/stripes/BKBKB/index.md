@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bkbkb/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BKBKB</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/n2k13n31k1n1~x4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BKBKB" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "Innes Hunting Clan Tartan Tartan Number: 367. Earliest known date: pre 1992 Supposedly worn by Innes of Learney. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGYGBGBGKGW](/stripes/bkgkgkgygbgbgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k18t3k4t3k3t18y3t3db8t3db3g15k3t3ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGYGBGBGKGW](/stripes/bkgkgkgygbgbgkgw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=367
 

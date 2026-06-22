@@ -2,9 +2,10 @@
 title: "Macan of Lurgyvallan"
 date: 2023-03-18
 ---
-In pattern [KRGRGKWKYKBBBKYKWKGRGRGR](/stripes/krgrgkwkykbbbkykwkgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16g1r1g1r1g4k1n1k1y1k1b6db4b6k1y1k1n1k1g4r12g1r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGKWKYKBBBKYKWKGRGRGR](/stripes/krgrgkwkykbbbkykwkgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Macan of Lurgyvallan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1831 — Macan of Lurgyvallan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276))
-- 1831? — MacAn of Lurgyvallan (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1155/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1831 — Macan of Lurgyvallan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2276">record</a>)</li>
+<li>1831? — MacAn of Lurgyvallan (Portrait) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1155/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

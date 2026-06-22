@@ -2,18 +2,20 @@
 title: "Process Safety Solutions Ltd"
 date: 2023-03-18
 ---
-In pattern [KRKGKBGBKR](/stripes/krkgkbgbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k11n8dg2n8k13dg2k13dr5k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKBGBKR](/stripes/krkgkbgbkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10878
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 31/05/2013 — Process Safety Solutions Ltd (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10878))
-- 2013 — Process Safety Solutions Ltd (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10878/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>31/05/2013 — Process Safety Solutions Ltd (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10878">record</a>)</li>
+<li>2013 — Process Safety Solutions Ltd (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10878/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

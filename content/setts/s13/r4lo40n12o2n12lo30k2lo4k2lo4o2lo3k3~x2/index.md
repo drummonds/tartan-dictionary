@@ -2,9 +2,10 @@
 title: "Bartlett (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYRYKYKYBRBYR](/stripes/kyrykykybrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4lt40n12na2n12lt30k2lt4k2lt4na2lt3k3/)
+(the same proportion at any scale), whose colour order is pattern [KYRYKYKYBRBYR](/stripes/kyrykykybrbyr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10553/
 

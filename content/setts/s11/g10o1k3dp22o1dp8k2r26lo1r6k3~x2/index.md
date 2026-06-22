@@ -2,9 +2,10 @@
 title: "Faulkner (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRKBRBKRYRK](/stripes/grkbrbkryrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10n1k3p22n1p8k2dr26dy1dr6k3/)
+(the same proportion at any scale), whose colour order is pattern [GRKBRBKRYRK](/stripes/grkbrbkryrk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10080/
 

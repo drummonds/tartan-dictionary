@@ -2,9 +2,10 @@
 title: "Riley-Utter Union (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRYRYRBWBWGRGR](/stripes/brbryryrbwbwgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b13r2b9r4y1r4y2r5t3w5t6w2g7r2g13r7/)
+(the same proportion at any scale), whose colour order is pattern [BRBRYRYRBWBWGRGR](/stripes/brbryryrbwbwgrgr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10842
 

@@ -2,9 +2,10 @@
 title: "Devon Original District Tartan Tartan Number: 1284. Earliest known date: 1984 The Devon Original and Devon Companion owe their origin to the success of the Cornish St Piran sett, which was woven by Coldharbour Mill in the early 1980's. The accreditation certificate was presented to the Mayor of Barnstaple in 1991. In a poem describing the tartan, Miss M. Miles says, \"So, in the mind, Devon's beauty is retrieved By contemplating Devon's tartan's weave.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YGRGWGY](/stripes/ygrgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5g4ln1g4t4dg4y1/)
+(the same proportion at any scale), whose colour order is pattern [YGRGWGY](/stripes/ygrgwgy/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1284
 

@@ -2,18 +2,20 @@
 title: "Macallan Distillery"
 date: 2023-03-18
 ---
-In pattern [BRBRBYKGRGRG](/stripes/brbrbykgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1g2r3g12k12y1b12r3b2r1b8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBYKGRGRG](/stripes/brbrbykgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1980 — Macallan Distillery (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272))
-- mid 1980's — Macallan Distillery (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5836/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — Macallan Distillery (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2272">record</a>)</li>
+<li>mid 1980's — Macallan Distillery (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5836/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

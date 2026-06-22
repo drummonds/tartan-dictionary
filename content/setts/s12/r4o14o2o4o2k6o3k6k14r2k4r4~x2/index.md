@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Limited"
 date: 2023-03-18
 ---
-In pattern [RKRKKRKRRRRR](/stripes/rkrkkrkrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4lt14o2lt4o2k6lt3k6db14r2db4r4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKKRKRRRRR](/stripes/rkrkkrkrrrrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

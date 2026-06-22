@@ -2,9 +2,10 @@
 title: "McNair (2016)"
 date: 2023-03-18
 ---
-In pattern [RKRGRKRYGYGYGGRRRKRGRGRR](/stripes/rkrgrkrygygyggrrrkrgrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2r1g1r1ga1r1k2r2dr2r1g2ga1y1ga1y1ga1y1dr2k8r1ga1r1k3r1/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRKRYGYGYGGRRRKRGRGRR](/stripes/rkrgrkrygygyggrrrkrgrgrr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11575
 

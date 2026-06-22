@@ -2,9 +2,10 @@
 title: "Serenade (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBYBBBBBWB](/stripes/bbybbbbbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6p12ba3p12b6db2b26p16n2p6/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBBBBWB](/stripes/bbybbbbbwb/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5341/
 

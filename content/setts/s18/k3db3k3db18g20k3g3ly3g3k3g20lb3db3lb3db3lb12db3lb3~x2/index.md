@@ -2,9 +2,10 @@
 title: "Johnston Dress (Clan?)"
 date: 2023-03-18
 ---
-In pattern [KBKBGKGYGKGWBWBWBW](/stripes/kbkbgkgygkgwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db3k3db18g20k3g3y3g3k3g20n3db3n3db3n12db3n3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKGYGKGWBWBWBW](/stripes/kbkbgkgygkgwbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5308/
 

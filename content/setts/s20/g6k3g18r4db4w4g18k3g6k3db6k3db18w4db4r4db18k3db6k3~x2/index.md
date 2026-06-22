@@ -2,18 +2,20 @@
 title: "Shaw of Carolina (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGRBWGKGKBKBWBRBKBK](/stripes/gkgrbwgkgkbkbwbrbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k3g18r4dba4w4g18k3g6k3dba6k3dba18w4dba4r4dba18k3dba6k3/)
+(the same proportion at any scale), whose colour order is pattern [GKGRBWGKGKBKBWBRBKBK](/stripes/gkgrbwgkgkbkbwbrbkbk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/2005 — Shaw of Carolina (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777))
-- undated — Shaw of Carolina Clan Tartan Tartan Number: 6803. Earliest known date: 2005 Based on a cloth fragment and a description of a tartan blanket worn by Mary Irvine for her husband, John Shaw c.1800. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6803))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/2005 — Shaw of Carolina (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3777">record</a>)</li>
+<li>undated — Shaw of Carolina Clan Tartan Tartan Number: 6803. Earliest known date: 2005 Based on a cloth fragment and a description of a tartan blanket worn by Mary Irvine for her husband, John Shaw c.1800. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6803">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

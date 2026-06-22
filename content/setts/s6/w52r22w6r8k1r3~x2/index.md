@@ -2,9 +2,10 @@
 title: "MacGregor Dress Burgundy (Dance)"
 date: 2023-03-18
 ---
-In pattern [RKRWRW](/stripes/rkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w52dr22w6dr8k1lr3/)
+(the same proportion at any scale), whose colour order is pattern [RKRWRW](/stripes/rkrwrw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacGregor
 - MacGregor Dress Burgundy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1975 — MacGregor Dress Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452))
-- 1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1577/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — MacGregor Dress Burgundy (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2452">record</a>)</li>
+<li>1975 — MacGregor - 1975 (Dance, Burgundy) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1577/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

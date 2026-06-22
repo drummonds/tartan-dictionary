@@ -2,9 +2,10 @@
 title: "Hutchesons' Grammar School"
 date: 2023-03-18
 ---
-In pattern [BRBBRBRBBR](/stripes/brbbrbrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/bb8n4dba30dn30r3dn4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBRBRBBR](/stripes/brbbrbrbbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1799
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hutchesons' Grammar School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2005 — Hutchesons' Grammar School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1799))
-- undated — Hutchesons Schools Tartan Tartan Number: 6518. Earliest known date: 2005 Hutchesons' Grammar School in Glasgow was thought to have been founded by the forebears of Colin Hutcheson - a Governor of the Scottish Tartans Authority and the designer of the Hutcheson tartan (#3808). George and Thomas Hutcheson were both Glasgow merchants and in 1641 set aside money for a school for orphans. Colin Hutcheson has taken the pattern of the Hutcheson tartan and changed the colours to tie in the the school colours. The new tartan was launched at the school in March 2005. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6518))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2005 — Hutchesons' Grammar School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1799">record</a>)</li>
+<li>undated — Hutchesons Schools Tartan Tartan Number: 6518. Earliest known date: 2005 Hutchesons' Grammar School in Glasgow was thought to have been founded by the forebears of Colin Hutcheson - a Governor of the Scottish Tartans Authority and the designer of the Hutcheson tartan (#3808). George and Thomas Hutcheson were both Glasgow merchants and in 1641 set aside money for a school for orphans. Colin Hutcheson has taken the pattern of the Hutcheson tartan and changed the colours to tie in the the school colours. The new tartan was launched at the school in March 2005. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6518">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

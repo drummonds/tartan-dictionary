@@ -2,9 +2,10 @@
 title: "Gillies"
 date: 2023-03-18
 ---
-In pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b88k15g9r12g20k3y8k3g20r12g9k15b24k36/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Yukon District Tartan Tartan Number: 1907. Earliest known date: 1984 Lord Lyon records a symetrical version. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYBYBYGWR](/stripes/bbybybygwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln4g4y4db4y1db2y1db20p4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYBYGWR](/stripes/bbybybygwr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1907
 

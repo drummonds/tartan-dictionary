@@ -2,9 +2,10 @@
 title: "Stirling, University of"
 date: 2023-03-18
 ---
-In pattern [GRKWKGRBY](/stripes/grkwkgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g90r1k10ln6k4g6r10b62y8/)
+(the same proportion at any scale), whose colour order is pattern [GRKWKGRBY](/stripes/grkwkgrby/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

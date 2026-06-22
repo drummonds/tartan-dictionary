@@ -2,9 +2,10 @@
 title: "Walterstrm (2014))"
 date: 2023-03-18
 ---
-In pattern [GBYRYGBY](/stripes/gbyrygby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g78db13y6r3y5g6db9y6/)
+(the same proportion at any scale), whose colour order is pattern [GBYRYGBY](/stripes/gbyrygby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11080/
 

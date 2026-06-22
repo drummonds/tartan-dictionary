@@ -2,9 +2,10 @@
 title: "Robertson of Kindeace"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2db2k12g16k1r3k1g16k12db12k1n3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

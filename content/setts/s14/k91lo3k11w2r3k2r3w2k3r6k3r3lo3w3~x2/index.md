@@ -2,18 +2,20 @@
 title: "Firefighters"
 date: 2023-03-18
 ---
-In pattern [KYKWRKRWKRKRYW](/stripes/kykwrkrwkrkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k91dy3k11w2r3k2r3w2k3r6k3r3dy3w3/)
+(the same proportion at any scale), whose colour order is pattern [KYKWRKRWKRKRYW](/stripes/kykwrkrwkrkryw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1188
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2005 — Firefighters (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1188))
-- 2005 July — Firefighters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6684/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2005 — Firefighters (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1188">record</a>)</li>
+<li>2005 July — Firefighters (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6684/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

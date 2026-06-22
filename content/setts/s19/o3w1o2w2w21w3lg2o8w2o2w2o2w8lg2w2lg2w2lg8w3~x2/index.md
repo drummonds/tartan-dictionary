@@ -2,9 +2,10 @@
 title: "Beaufort (Name)"
 date: 2023-03-18
 ---
-In pattern [RWRWWWYRWRWRWYWYWYW](/stripes/rwrwwwyrwrwrwywywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly3b8lya2b2lya2b2lya8lt2lya2lt2lya2lt8b2ly3ly21lya2lt2lya1lt3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWWWYRWRWRWYWYWYW](/stripes/rwrwwwyrwrwrwywywyw/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3669/
 

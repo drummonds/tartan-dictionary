@@ -2,18 +2,20 @@
 title: "Leitrem County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBBGBYBYBY](/stripes/wbbgbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy10dba24dy5dba13dy24dba5g52dba5db18ln8/)
+(the same proportion at any scale), whose colour order is pattern [WBBGBYBYBY](/stripes/wbbgbybyby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7406/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Leitrem County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7406/))
-- undated — Leitrem County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5487))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Leitrem County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7406/">record</a>)</li>
+<li>undated — Leitrem County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5487">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

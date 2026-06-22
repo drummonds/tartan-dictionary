@@ -2,9 +2,10 @@
 title: "Donegal Irish County Tartan Tartan Number: 2247. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBRBKBGBGY](/stripes/rbrbkbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3ga17b3ga3b3wb5b18dr2b8dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKBGBGY](/stripes/rbrbkbgbgy/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2247
 

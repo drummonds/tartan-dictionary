@@ -2,9 +2,10 @@
 title: "Maine Acadia"
 date: 2023-03-18
 ---
-In pattern [GGYKGKYKG](/stripes/ggykgkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1lg2k1b19k15lg2n20b3/)
+(the same proportion at any scale), whose colour order is pattern [GGYKGKYKG](/stripes/ggykgkykg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10292
 

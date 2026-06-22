@@ -2,9 +2,10 @@
 title: "Jolley (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGGYRYG](/stripes/gbggyryg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4n2ga24t10lg12r1lg12ga2/)
+(the same proportion at any scale), whose colour order is pattern [GBGGYRYG](/stripes/gbggyryg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10503/
 

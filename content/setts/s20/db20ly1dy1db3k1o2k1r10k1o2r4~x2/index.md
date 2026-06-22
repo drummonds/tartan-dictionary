@@ -2,9 +2,10 @@
 title: "Blais Family Tartan Tartan Number: 2321. Earliest known date: 1997 For Francine Paquet Blais's Canadian family with a direct line of descent from 1669. (STS) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKRKRKBGYBYGBKRKRKRR](/stripes/rkrkrkbgybygbkrkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20y1t1db3k1n2k1r10k1n2r4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKBGYBYGBKRKRKRR](/stripes/rkrkrkbgybygbkrkrkrr/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2321
 

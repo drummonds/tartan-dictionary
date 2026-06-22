@@ -2,9 +2,10 @@
 title: "Ontario Centennial"
 date: 2023-03-18
 ---
-In pattern [GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG](/stripes/gryryryryryryryrgggygygygygygygyggyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg50dy16dg8t8dy1t1dy1t1dy1t1dy1t1dy1t1dy1t1dy20t40dg12t24r8dy1r1dy1r1dy1r1dy1r1dy1r1dy1r1dy28r6t4/)
+(the same proportion at any scale), whose colour order is pattern [GRYRYRYRYRYRYRYRGGGYGYGYGYGYGYGYGGYG](/stripes/gryryryryryryryrgggygygygygygygyggyg/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3254
 

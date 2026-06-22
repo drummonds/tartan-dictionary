@@ -2,9 +2,10 @@
 title: "O'Neill (District)"
 date: 2023-03-18
 ---
-In pattern [WGKRKRKRW](/stripes/wgkrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dr12k4dr2k2dr2k6g5n2/)
+(the same proportion at any scale), whose colour order is pattern [WGKRKRKRW](/stripes/wgkrkrkrw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5534/
 

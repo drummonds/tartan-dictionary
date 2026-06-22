@@ -2,18 +2,20 @@
 title: "Arizona"
 date: 2023-03-18
 ---
-In pattern [YGBGRGKYRWGY](/stripes/ygbgrgkyrwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt3g2w2r2lt12k2g12r2g2b2g2y2/)
+(the same proportion at any scale), whose colour order is pattern [YGBGRGKYRWGY](/stripes/ygbgrgkyrwgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=111
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Arizona (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=111))
-- 1995 — Arizona (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5706/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Arizona (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=111">record</a>)</li>
+<li>1995 — Arizona (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5706/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

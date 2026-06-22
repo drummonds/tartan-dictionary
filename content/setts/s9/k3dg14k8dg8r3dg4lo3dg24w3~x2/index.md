@@ -2,9 +2,10 @@
 title: "MacStumer Hunting"
 date: 2023-03-18
 ---
-In pattern [KGKGRGYGW](/stripes/kgkgrgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dg14k8dg8dr3dg4dy3dg24w3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGRGYGW](/stripes/kgkgrgygw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5179
 

@@ -2,18 +2,20 @@
 title: "Vipont (Yellow line)"
 date: 2023-03-18
 ---
-In pattern [RGKBGKY](/stripes/rgkbgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g14k2p2g14k36y3/)
+(the same proportion at any scale), whose colour order is pattern [RGKBGKY](/stripes/rgkbgky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1930 — Vipont (Yellow line) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464))
-- 1930 — Vipont (Yellow line) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1491/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Vipont (Yellow line) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4464">record</a>)</li>
+<li>1930 — Vipont (Yellow line) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1491/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

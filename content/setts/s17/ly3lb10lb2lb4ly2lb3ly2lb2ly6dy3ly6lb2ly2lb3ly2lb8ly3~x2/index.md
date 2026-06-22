@@ -2,9 +2,10 @@
 title: "Clanedin (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [YWWWYWYWYGYWYWYWY](/stripes/ywwwywywygywywywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3n10na2n4dy2n3dy2n2dy6t3dy6n2dy2n3dy2n8dya3/)
+(the same proportion at any scale), whose colour order is pattern [YWWWYWYWYGYWYWYWY](/stripes/ywwwywywygywywywy/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1619/
 

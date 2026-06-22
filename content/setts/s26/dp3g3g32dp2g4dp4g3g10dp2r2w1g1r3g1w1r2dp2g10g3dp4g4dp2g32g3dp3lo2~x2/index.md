@@ -2,9 +2,10 @@
 title: "McGran (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGBGBGGBRWGRGWRBGGBGBGGBY](/stripes/bggbgbggbrwgrgwrbggbgbggby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3g3ga32p2ga4p4ga3g10p2r2ln1g1r3g1ln1r2p2g10ga3p4ga4p2ga32g3p3dy2/)
+(the same proportion at any scale), whose colour order is pattern [BGGBGBGGBRWGRGWRBGGBGBGGBY](/stripes/bggbgbggbrwgrgwrbggbgbggby/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2886
 

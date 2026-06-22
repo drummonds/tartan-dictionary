@@ -2,9 +2,10 @@
 title: "Blairmore House (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBRBBGY](/stripes/bwbrbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17n2db2dr2db2k12g16dy3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBBGY](/stripes/bwbrbbgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2221/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Blairmore House
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Blairmore House (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2221/))
-- undated — Blairmore Corporate School Tartan Tartan Number: 2221. Earliest known date: 2002 Designed by John B Gillespie (Johnsons of Elgin) and Monique Baumann for Blairmore School at Glass in Aberdeenshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2221))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Blairmore House (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2221/">record</a>)</li>
+<li>undated — Blairmore Corporate School Tartan Tartan Number: 2221. Earliest known date: 2002 Designed by John B Gillespie (Johnsons of Elgin) and Monique Baumann for Blairmore School at Glass in Aberdeenshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2221">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/68 N8 DB8 DR8 DB8 K48 G64 DY/12

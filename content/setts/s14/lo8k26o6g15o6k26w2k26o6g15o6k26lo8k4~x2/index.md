@@ -2,9 +2,10 @@
 title: "Holestone"
 date: 2023-03-18
 ---
-In pattern [KYKRGRKWKRGRKY](/stripes/kykrgrkwkrgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy8k26do6g15do6k26w2k26do6g15do6k26dy8k4/)
+(the same proportion at any scale), whose colour order is pattern [KYKRGRKWKRGRKY](/stripes/kykrgrkwkrgrky/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5073
 

@@ -2,9 +2,10 @@
 title: "MacInnes"
 date: 2023-03-18
 ---
-In pattern [BGRGRGRYRBRKGKRW](/stripes/bgrgrgryrbrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba1g6r1g1r1g1r6y1r1b2r1k1g4k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGRYRBRKGKRW](/stripes/bgrgrgryrbrkgkrw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

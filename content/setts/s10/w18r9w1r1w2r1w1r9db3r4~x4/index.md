@@ -2,18 +2,20 @@
 title: "Swiss Red"
 date: 2023-03-18
 ---
-In pattern [RBRWRWRWRW](/stripes/rbrwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln18r9ln1r1ln2r1ln1r9db3r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRWRWRWRW](/stripes/rbrwrwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5413
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2006 — Swiss Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5413))
-- June 2006 — Swiss Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6951/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2006 — Swiss Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5413">record</a>)</li>
+<li>June 2006 — Swiss Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6951/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

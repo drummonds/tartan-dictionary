@@ -2,18 +2,20 @@
 title: "MacDonell of Keppoch"
 date: 2023-03-18
 ---
-In pattern [BRGRBBRBRG](/stripes/brgrbbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r2db1r24b1db6r3g12r4db1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBBRBRG](/stripes/brgrbbrbrg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2386
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1746 — MacDonell of Keppoch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2386))
-- pre 1746 — MacDonell of Keppoch - 1800 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/511/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1746 — MacDonell of Keppoch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2386">record</a>)</li>
+<li>pre 1746 — MacDonell of Keppoch - 1800 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/511/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

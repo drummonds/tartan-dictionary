@@ -2,19 +2,21 @@
 title: "Moulin"
 date: 2023-03-18
 ---
-In pattern [RKGRGKRGKR](/stripes/rkgrgkrgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra36k3t3dr1t3k3dra4t6k1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKGRGKRGKR](/stripes/rkgrgkrgkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1970 — Moulin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029))
-- 1970 — Moulin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5655/))
-- undated — Moulin Fashion Tartan Tartan Number: 5655. Earliest known date: 1970 From Reis of New Haven, 1970 Same sett as #4490. Ref to Reis reads: ""Our exclusive English hand-blocked silk foulards are created by Reis craftsmen of only the purest unweighted silks, hand-sewn and fully lined. When you tie one on, you'll know it's a Reis." Reis were based in New Haven, Connecticut. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5655))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1970 — Moulin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3029">record</a>)</li>
+<li>1970 — Moulin (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5655/">record</a>)</li>
+<li>undated — Moulin Fashion Tartan Tartan Number: 5655. Earliest known date: 1970 From Reis of New Haven, 1970 Same sett as #4490. Ref to Reis reads: ""Our exclusive English hand-blocked silk foulards are created by Reis craftsmen of only the purest unweighted silks, hand-sewn and fully lined. When you tie one on, you'll know it's a Reis." Reis were based in New Haven, Connecticut. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5655">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

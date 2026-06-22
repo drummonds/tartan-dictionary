@@ -2,9 +2,10 @@
 title: "Currie of Balilone Family Tartan Tartan Number: 778. Earliest known date: 1822 Granted by charter in 1822 to Currie of Balilone, by MacDonald, Lord of the Isles. The sett is based on the Lord of the Isles and the design is attributed to the Chief. The tartan is available to all members of the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGYGWGWGWGWG](/stripes/gkgygwgwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k1g2y2dg2ln1dg12ln1dg2ln2dg2ln1dg12/)
+(the same proportion at any scale), whose colour order is pattern [GKGYGWGWGWGWG](/stripes/gkgygwgwgwgwg/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=778
 

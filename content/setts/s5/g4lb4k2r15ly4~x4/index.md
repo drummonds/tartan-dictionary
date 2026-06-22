@@ -2,9 +2,10 @@
 title: "Benedict (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWKRY](/stripes/gwkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4r15k2n4g4/)
+(the same proportion at any scale), whose colour order is pattern [GWKRY](/stripes/gwkry/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4099/
 

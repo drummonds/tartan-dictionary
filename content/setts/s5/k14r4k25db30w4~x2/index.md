@@ -2,9 +2,10 @@
 title: "Britannia"
 date: 2023-03-18
 ---
-In pattern [KRKBW](/stripes/krkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14r4k25db30ln4/)
+(the same proportion at any scale), whose colour order is pattern [KRKBW](/stripes/krkbw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=357
 

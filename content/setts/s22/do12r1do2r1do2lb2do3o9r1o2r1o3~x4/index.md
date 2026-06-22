@@ -2,9 +2,10 @@
 title: "Shieldhall"
 date: 2023-03-18
 ---
-In pattern [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t12r1t2r1t2na2t3nb9r1nb2r1nb3/)
+(the same proportion at any scale), whose colour order is pattern [RRRRBWBRBRBRBRBWBRRRRR](/stripes/rrrrbwbrbrbrbrbwbrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5005
 

@@ -2,9 +2,10 @@
 title: "Londonderry, County (District)"
 date: 2023-03-18
 ---
-In pattern [GKRYGKR](/stripes/gkrygkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do6k2g12dy8do5k2g3/)
+(the same proportion at any scale), whose colour order is pattern [GKRYGKR](/stripes/gkrygkr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2279/
 

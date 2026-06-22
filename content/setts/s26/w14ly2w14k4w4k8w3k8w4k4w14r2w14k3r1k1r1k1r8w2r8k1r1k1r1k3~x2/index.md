@@ -2,9 +2,10 @@
 title: "Casey (Dress) Fashion Tartan Tartan Number: 6751. Earliest known date: 01/01/2005 One of a series of Irish name tartans designed by Scotch Corner of Gateshead, England. Estimated threadcount. n asymmetric tartan woven by Marton Mills (JR554T) for Naxos Fashion & Schoolwear of Wood Green, London. This tartan comes from Scotch Corner of Gateshead who have produced various Irish surname tartans over the years . See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln14y2ln14k4ln4k8ln3k8ln4k4ln14r2ln14k3r1k1r1k1r8ln2r8k1r1k1r1k3/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6751
 

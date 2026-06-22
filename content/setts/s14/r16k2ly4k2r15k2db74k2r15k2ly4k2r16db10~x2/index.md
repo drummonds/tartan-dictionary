@@ -2,9 +2,10 @@
 title: "Salvation Army Dress"
 date: 2023-03-18
 ---
-In pattern [BRKYKRKBKRKYKR](/stripes/brkykrkbkrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2y4k2r15k2dba74k2r15k2y4k2r16dba10/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKRKBKRKYKR](/stripes/brkykrkbkrkykr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3647
 

@@ -2,9 +2,10 @@
 title: "Hart of Scotland (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRYGBGBGBGBYBYBRRBR](/stripes/grygbgbgbgbybybrrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5db3dr3r2db2y2db2y1db14g2db7g4db4g7db2g9y1n2g5/)
+(the same proportion at any scale), whose colour order is pattern [GRYGBGBGBGBYBYBRRBR](/stripes/grygbgbgbgbybybrrbr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4093/
 

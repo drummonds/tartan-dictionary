@@ -2,18 +2,20 @@
 title: "MacPherson-Grant"
 date: 2023-03-18
 ---
-In pattern [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r90k6r6k6r90g6r6g45r6k4r3/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRGRKRKR](/stripes/rkrgrgrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — MacPherson-Grant (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726))
-- pre 2003 — MacPherson-Grant (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6055/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — MacPherson-Grant (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2726">record</a>)</li>
+<li>pre 2003 — MacPherson-Grant (Portrait) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6055/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

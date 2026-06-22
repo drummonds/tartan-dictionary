@@ -2,9 +2,10 @@
 title: "Crieff and Strathearn District Tartan Tartan Number: 664. Earliest known date: 1988 A branch of the Stewart clan from Galloway and the South West of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBGRBG](/stripes/bybgrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g55p7r24g12db4y3db4/)
+(the same proportion at any scale), whose colour order is pattern [BYBGRBG](/stripes/bybgrbg/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=664
 

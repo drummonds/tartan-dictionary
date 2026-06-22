@@ -2,9 +2,10 @@
 title: "Orkney District Tartan Tartan Number: 2301. Earliest known date: 2000 Orkney District tartan was designed for the Westry Knitters, on Orkney, by Ronnie Hek. Four designs were advertised in the window of a shop on Orkney's mainland and the most popular was chosen as the official Orcadian tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGBKGRKY](/stripes/rgbkgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3g1b6k1g6p4k1o1/)
+(the same proportion at any scale), whose colour order is pattern [RGBKGRKY](/stripes/rgbkgrky/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2301
 

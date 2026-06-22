@@ -2,9 +2,10 @@
 title: "Stewart - Pr Ch Ed (Error?)"
 date: 2023-03-18
 ---
-In pattern [RBKWKWKGRKRW](/stripes/rbkwkwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16b10k14ln2k4ln3k4g26r11k4r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBKWKWKGRKRW](/stripes/rbkwkwkgrkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1374/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Stuart / Stewart, Pr Charles Edward
 - Stuart Pr Charles Edward Artifact
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1745 — Stewart - Pr Ch Ed (Error?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1374/))
-- undated — Stuart / Stewart, Pr Charles Edward (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stuart Pr Charles Edward Artifact Tartan Tartan Number: 1374. Earliest known date: 1746 'Trews worn by Prince Charles Edward' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1374))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1745 — Stewart - Pr Ch Ed (Error?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1374/">record</a>)</li>
+<li>undated — Stuart / Stewart, Pr Charles Edward (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stuart Pr Charles Edward Artifact Tartan Tartan Number: 1374. Earliest known date: 1746 'Trews worn by Prince Charles Edward' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1374">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/32 B20 K28 LN4 K8 LN6 K8 G52 R22 K8 R8 LN/4

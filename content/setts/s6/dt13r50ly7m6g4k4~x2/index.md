@@ -2,9 +2,10 @@
 title: "Harding (Florida) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRYRGK](/stripes/bryrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13r50y7p6g4k4/)
+(the same proportion at any scale), whose colour order is pattern [BRYRGK](/stripes/bryrgk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6874/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Harding Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2006 — Harding (Florida) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6874/))
-- undated — Harding Personal Tartan Tartan Number: 6874. Earliest known date: 2006 Richard Scott Harding created this design so that his family could have a tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6874))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2006 — Harding (Florida) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6874/">record</a>)</li>
+<li>undated — Harding Personal Tartan Tartan Number: 6874. Earliest known date: 2006 Richard Scott Harding created this design so that his family could have a tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6874">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/26 R100 Y14 P12 G8 K/8

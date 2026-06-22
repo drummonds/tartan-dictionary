@@ -2,9 +2,10 @@
 title: "Amble (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKRBBKBKBKBKR](/stripes/bkbkrbbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr20k6dr5k8t4dr6db3k1dr3k1db3k9db11k1t1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRBBKBKBKBKR](/stripes/bkbkrbbkbkbkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10280/
 

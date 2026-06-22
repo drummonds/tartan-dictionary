@@ -2,19 +2,21 @@
 title: "MacDiarmid (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12r2k28g12k1ln3k1g12r4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1180/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1906 — MacDiarmid (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1180/))
-- undated — MacDiarmid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDiarmid Clan Tartan Tartan Number: 1180. Earliest known date: 1906 MacDiarmids are a sept of Clan Campbell. The tartan was first published by W & A.K.Johnston in 1906, in 'The Tartans of the Clans and Septs of Scotland'. The author, H. Whyte, introduced many previously unrecorded tartans including 'Dress' and 'Hunting' tartans of both clans and septs of clans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1180))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1906 — MacDiarmid (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1180/">record</a>)</li>
+<li>undated — MacDiarmid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDiarmid Clan Tartan Tartan Number: 1180. Earliest known date: 1906 MacDiarmids are a sept of Clan Campbell. The tartan was first published by W & A.K.Johnston in 1906, in 'The Tartans of the Clans and Septs of Scotland'. The author, H. Whyte, introduced many previously unrecorded tartans including 'Dress' and 'Hunting' tartans of both clans and septs of clans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1180">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/24 R4 K56 G24 K2 LN6 K2 G24 R/8

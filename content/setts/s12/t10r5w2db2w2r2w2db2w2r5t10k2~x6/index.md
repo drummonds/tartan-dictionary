@@ -2,9 +2,10 @@
 title: "U.S. Postal Service"
 date: 2023-03-18
 ---
-In pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10r5w2db2w2r2w2db2w2r5b10k2/)
+(the same proportion at any scale), whose colour order is pattern [BRWBWRWBWRBK](/stripes/brwbwrwbwrbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4190
 

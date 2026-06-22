@@ -2,9 +2,10 @@
 title: "Montrose of Alabama American District Tartan Tartan Number: 2288. Earliest known date: 1996 House of Edgar. One of the smallest of 13 Montroses in the US. The Navy Blue should be very much darker. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBKBGYGBKBRBK](/stripes/brbkbgygbkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12db12r4db12k12db11g12y4/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBGYGBKBRBK](/stripes/brbkbgygbkbrbk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2288
 

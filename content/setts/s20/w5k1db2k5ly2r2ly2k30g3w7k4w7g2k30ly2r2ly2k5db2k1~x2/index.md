@@ -2,9 +2,10 @@
 title: "Braddock Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKYRYKGWKWGKYRYKBKW](/stripes/kbkyrykgwkwgkyrykbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k1db2k5y2r2y2k30g3ln7k4ln7g2k30y2r2y2k5db2k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKYRYKGWKWGKYRYKBKW](/stripes/kbkyrykgwkwgkyrykbkw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10278/
 

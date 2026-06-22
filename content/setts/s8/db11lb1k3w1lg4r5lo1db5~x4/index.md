@@ -2,9 +2,10 @@
 title: "Wingtip"
 date: 2023-03-18
 ---
-In pattern [BWKWYRYB](/stripes/bwkwyryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11lb1o3ly1b4dr5y1db5/)
+(the same proportion at any scale), whose colour order is pattern [BWKWYRYB](/stripes/bwkwyryb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11302
 

@@ -2,9 +2,10 @@
 title: "Palmer, Arnold"
 date: 2023-03-18
 ---
-In pattern [GRKWKYKGRK](/stripes/grkwkykgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40dr5k2ln2k2y3k2g10dr3k3/)
+(the same proportion at any scale), whose colour order is pattern [GRKWKYKGRK](/stripes/grkwkykgrk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Palmer, Arnold
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2004 — Palmer, Arnold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287))
-- 2004 De — Palmer, Arnold (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6482/))
-- undated — Arnold Palmer Corporate Tartan Tartan Number: 6482. Earliest known date: 2004 Proprietary tartan design for use on Mr. Palmer's products. The Arnold Palmer logo colors are red, yellow, white, green and black. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6482))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Palmer, Arnold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3287">record</a>)</li>
+<li>2004 De — Palmer, Arnold (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6482/">record</a>)</li>
+<li>undated — Arnold Palmer Corporate Tartan Tartan Number: 6482. Earliest known date: 2004 Proprietary tartan design for use on Mr. Palmer's products. The Arnold Palmer logo colors are red, yellow, white, green and black. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6482">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

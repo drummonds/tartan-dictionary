@@ -2,18 +2,20 @@
 title: "Lawers Estate (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGKBKR](/stripes/kgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r70k1db12k1g12k1/)
+(the same proportion at any scale), whose colour order is pattern [KGKBKR](/stripes/kgkbkr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5398/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1992 — Lawers Estate (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5398/))
-- undated — Lawers Estate Corporate Tartan Tartan Number: 5398. Earliest known date: 1992 From a kilt worn by Mr Gibbons, owner of Lawers Estate near Comrie. Mr Gibbons said that the tartan had been specially woven by the London Kiltmakers based on a historic pattern associated with the estate. Details from Peter E MacDonald. The pattern is asymmetric and uses two thread black stripes to delineate the colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5398))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1992 — Lawers Estate (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5398/">record</a>)</li>
+<li>undated — Lawers Estate Corporate Tartan Tartan Number: 5398. Earliest known date: 1992 From a kilt worn by Mr Gibbons, owner of Lawers Estate near Comrie. Mr Gibbons said that the tartan had been specially woven by the London Kiltmakers based on a historic pattern associated with the estate. Details from Peter E MacDonald. The pattern is asymmetric and uses two thread black stripes to delineate the colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5398">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/140 K2 DB24 K2 G24 K/2

@@ -2,9 +2,10 @@
 title: "MacDuff"
 date: 2023-03-18
 ---
-In pattern [RBKGRKGRKRKRGKBR](/stripes/rbkgrkgrkrkrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16b6k8g13r7k8g13r7k2r7k2r7g13k8b6r8/)
+(the same proportion at any scale), whose colour order is pattern [RBKGRKGRKRKRGKBR](/stripes/rbkgrkgrkrkrgkbr/).
 
-This was sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link /posts/logans-scottish-gael/
 

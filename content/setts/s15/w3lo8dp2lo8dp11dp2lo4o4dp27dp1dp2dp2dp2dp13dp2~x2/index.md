@@ -2,9 +2,10 @@
 title: "Strathdon"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBRYBBYBYW](/stripes/bbbbbbbrybbybyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3y8dp2y8dpa11dp2y4dr4dp27dpa1dp2dpa2dp2dpa13dp2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBRYBBYBYW](/stripes/bbbbbbbrybbybyw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10117
 

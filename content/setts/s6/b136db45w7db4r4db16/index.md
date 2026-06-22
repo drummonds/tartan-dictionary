@@ -2,9 +2,10 @@
 title: "S.C.O.T.S"
 date: 2023-03-18
 ---
-In pattern [BBWBRB](/stripes/bbwbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b136db45ln7db4r4db16/)
+(the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3629
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - S.C.O.T.S.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — S.C.O.T.S (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3629))
-- 1989 — S.C.O.T.S. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/82/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — S.C.O.T.S (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3629">record</a>)</li>
+<li>1989 — S.C.O.T.S. (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/82/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

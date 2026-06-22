@@ -2,18 +2,20 @@
 title: "Peeper (check)"
 date: 2023-03-18
 ---
-In pattern [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k1lta4lt4lta4lt4lta4r5lta4lt4lta4lt4lta4lt4lta4lt4lta4lt4k1/)
+(the same proportion at any scale), whose colour order is pattern [GKGYGYGRGYGYGYGYGYK](/stripes/gkgygygrgygygygygyk/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Peeper (check) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313))
-- 2006 — Peeper (check) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6992/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Peeper (check) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3313">record</a>)</li>
+<li>2006 — Peeper (check) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6992/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

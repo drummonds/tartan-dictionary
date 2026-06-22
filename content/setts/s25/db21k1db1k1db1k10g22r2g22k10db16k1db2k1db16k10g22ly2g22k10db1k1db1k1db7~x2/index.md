@@ -2,9 +2,10 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKBKBKBKGYGKBKBKB](/stripes/bkbkbkgrgkbkbkbkgygkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b21k1b1k1b1k10g22r2g22k10b16k1b2k1b16k10g22y2g22k10b1k1b1k1b7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBKBKBKGYGKBKBKB](/stripes/bkbkbkgrgkbkbkbkgygkbkbkb/).
 
-This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

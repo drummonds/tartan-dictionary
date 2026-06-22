@@ -2,9 +2,10 @@
 title: "MacDonald, Lord of the Isles Hunting #2"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24n1g2n2db2n1db12n1db2n2db2n1db12/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacDonald, Lord of the Isles Htg #1
 - MacDonald, Lord of the Isles Hunting #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1760 — MacDonald, Lord of the Isles Hunting #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064))
-- 1760 — MacDonald, Lord of the Isles Htg #1 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3267/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1760 — MacDonald, Lord of the Isles Hunting #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5064">record</a>)</li>
+<li>1760 — MacDonald, Lord of the Isles Htg #1 (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3267/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

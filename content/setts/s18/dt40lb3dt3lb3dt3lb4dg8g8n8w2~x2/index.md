@@ -2,9 +2,10 @@
 title: "Greenshields (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40lp3db3lp3db3lp4dg8g8n8ln2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWGGBWBGGWBWBW](/stripes/bwbwbwggbwbggwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Greenshields, Simon
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2005 — Greenshields (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530))
-- undated — Greenshields Family Tartan Tartan Number: 6578. Earliest known date: August 2004 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6578))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2005 — Greenshields (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1530">record</a>)</li>
+<li>undated — Greenshields Family Tartan Tartan Number: 6578. Earliest known date: August 2004 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6578">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

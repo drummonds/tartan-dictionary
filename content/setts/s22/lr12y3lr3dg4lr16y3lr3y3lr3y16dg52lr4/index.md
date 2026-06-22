@@ -2,9 +2,10 @@
 title: "Kelso"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGYGGYGGYGYGYGYGY](/stripes/gygygygyggyggygygygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12ga3n3dg4n16ga3n3ga3n3ga16dg52n4/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGYGGYGGYGYGYGYGY](/stripes/gygygygyggyggygygygygy/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1938
 

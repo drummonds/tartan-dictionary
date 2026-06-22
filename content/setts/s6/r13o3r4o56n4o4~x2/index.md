@@ -2,9 +2,10 @@
 title: "Auchairne Grey"
 date: 2023-03-18
 ---
-In pattern [RBRRRR](/stripes/rbrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r13na3r4na56n4na4/)
+(the same proportion at any scale), whose colour order is pattern [RBRRRR](/stripes/rbrrrr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Auchairne grey
 - Auchairne, Grey
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Auchairne Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130))
-- 1998 — Auchairne, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2479/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Auchairne Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=130">record</a>)</li>
+<li>1998 — Auchairne, Grey (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2479/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

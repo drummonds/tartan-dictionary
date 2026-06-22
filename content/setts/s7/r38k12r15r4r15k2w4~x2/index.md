@@ -2,9 +2,10 @@
 title: "Ferguson's Promise (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [RKRRRKW](/stripes/rkrrrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr38k12lr15r4lr15k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [RKRRRKW](/stripes/rkrrrkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10305/
 

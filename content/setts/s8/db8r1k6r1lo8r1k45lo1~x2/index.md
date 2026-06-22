@@ -2,18 +2,20 @@
 title: "degli Uberti, Baron of Cartsburn (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRKRYRKY](/stripes/brkryrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8r1k6r1do8r1k45do1/)
+(the same proportion at any scale), whose colour order is pattern [BRKRYRKY](/stripes/brkryrky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 03/04/2012 — degli Uberti, Baron of Cartsburn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635))
-- April 3rd 2012 — degli Uberti, Baron of Cartsburn (P) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10635/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>03/04/2012 — degli Uberti, Baron of Cartsburn (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10635">record</a>)</li>
+<li>April 3rd 2012 — degli Uberti, Baron of Cartsburn (P) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10635/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

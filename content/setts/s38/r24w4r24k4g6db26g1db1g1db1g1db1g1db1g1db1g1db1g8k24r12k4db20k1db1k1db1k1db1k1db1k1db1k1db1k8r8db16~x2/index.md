@@ -2,18 +2,20 @@
 title: "Canadian Confederation (Commemorat)"
 date: 2023-03-18
 ---
-In pattern [BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR](/stripes/brkbkbkbkbkbkbkbkrkgbgbgbgbgbgbgbgkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24w4r24k4g6db26g1db1g1db1g1db1g1db1g1db1g1db1g8k24r12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8r8db16/)
+(the same proportion at any scale), whose colour order is pattern [BRKBKBKBKBKBKBKBKRKGBGBGBGBGBGBGBGKRWR](/stripes/brkbkbkbkbkbkbkbkrkgbgbgbgbgbgbgbgkrwr/).
 
-This was sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1964/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1965 — Canadian Confederation (Commemorat) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1964/))
-- 01/01/1967 — Canadian Confederation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=545))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1965 — Canadian Confederation (Commemorat) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1964/">record</a>)</li>
+<li>01/01/1967 — Canadian Confederation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=545">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

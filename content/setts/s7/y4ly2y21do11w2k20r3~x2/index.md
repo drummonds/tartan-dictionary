@@ -2,9 +2,10 @@
 title: "Barbour Corporate Tartan Tartan Number: 2489. Earliest known date: 1998 For the linings of Barbour's famous wax jackets. Tartan designed by Kinloch Anderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGBWKR](/stripes/gygbwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4y2n21dr11w2k20r3/)
+(the same proportion at any scale), whose colour order is pattern [GYGBWKR](/stripes/gygbwkr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2489
 

@@ -2,18 +2,20 @@
 title: "City of London"
 date: 2023-03-18
 ---
-In pattern [KBWK](/stripes/kbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n24w24r5/)
+(the same proportion at any scale), whose colour order is pattern [KBWK](/stripes/kbwk/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 17/05/2012 — City of London (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734))
-- undated — City of London Corporate Tartan Tartan Number: 10734. Earliest known date: 12 November 2012 A tartan for the City of London, approved by Roger Gifford, elected Lord Mayor of the City of London in 2012, using the white and red of the cross of St. George and silver grey from the City Arms. Woven Sample: A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10734))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>17/05/2012 — City of London (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10734">record</a>)</li>
+<li>undated — City of London Corporate Tartan Tartan Number: 10734. Earliest known date: 12 November 2012 A tartan for the City of London, approved by Roger Gifford, elected Lord Mayor of the City of London in 2012, using the white and red of the cross of St. George and silver grey from the City Arms. Woven Sample: A woven sample of this tartan has been received by the Scottish Register of Tartans for permanent preservation in the National Records of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10734">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

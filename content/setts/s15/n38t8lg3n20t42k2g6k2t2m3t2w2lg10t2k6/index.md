@@ -2,9 +2,10 @@
 title: "Causeway, The"
 date: 2023-03-18
 ---
-In pattern [BBYBBKGKBRBWYBK](/stripes/bbybbkgkbrbwybk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n38na8b3n20na42k2lg6k2na2lr3na2w2b10na2k6/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBKGKBRBWYBK](/stripes/bbybbkgkbrbwybk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10508
 

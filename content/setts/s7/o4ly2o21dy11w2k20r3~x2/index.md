@@ -2,9 +2,10 @@
 title: "Barbour - Classic"
 date: 2023-03-18
 ---
-In pattern [RKWGRYR](/stripes/rkwgryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4y2lt21t11w2k20r3/)
+(the same proportion at any scale), whose colour order is pattern [RKWGRYR](/stripes/rkwgryr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2489/
 

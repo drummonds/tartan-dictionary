@@ -2,9 +2,10 @@
 title: "Glenmorangie Check Corporate Tartan Tartan Number: 1663. Earliest known date: 1988 Accredited by the Scottish Tartans Society in 1988. Glenmorangie is a well known malt whisky. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBR](/stripes/bbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1dr2dra1/)
+(the same proportion at any scale), whose colour order is pattern [BBR](/stripes/bbr/).
 
-This was sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from house-of-tartan.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1663
 

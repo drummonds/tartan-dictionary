@@ -2,9 +2,10 @@
 title: "Kingsbarns Golf Links"
 date: 2023-03-18
 ---
-In pattern [BYKGKBGBRK](/stripes/bykgkbgbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dr3b4g4b48k48g4k4y3b8/)
+(the same proportion at any scale), whose colour order is pattern [BYKGKBGBRK](/stripes/bykgkbgbrk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

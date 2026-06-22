@@ -2,9 +2,10 @@
 title: "Wilson's Blanket Sett - Border"
 date: 2023-03-18
 ---
-In pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w100r14w13g13w13k1r14k1w13g13w13r12w100/)
+(the same proportion at any scale), whose colour order is pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4636
 

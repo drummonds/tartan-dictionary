@@ -2,9 +2,10 @@
 title: "Cree (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRKRGKWKYKBGY](/stripes/wrkrgkwkykbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3t20db2k6y3k2w3k2g6r6k3r3w3/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBGY](/stripes/wrkrgkwkykbgy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1856/
 

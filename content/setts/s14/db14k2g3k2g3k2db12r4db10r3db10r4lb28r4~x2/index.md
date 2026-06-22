@@ -2,9 +2,10 @@
 title: "Wcwm 1138"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRBRBRWR](/stripes/bkgkgkbrbrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14k2g3k2g3k2db12dr4db10dr3db10dr4n28dr4/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRBRBRWR](/stripes/bkgkgkbrbrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5183
 

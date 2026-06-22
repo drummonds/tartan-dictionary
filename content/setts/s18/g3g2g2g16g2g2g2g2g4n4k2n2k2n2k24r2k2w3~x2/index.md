@@ -2,9 +2,10 @@
 title: "Barkway (Name)"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3ga2g2ga16g2ga2g2ga2g4n4k2n2k2n2k24r2k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10671/
 

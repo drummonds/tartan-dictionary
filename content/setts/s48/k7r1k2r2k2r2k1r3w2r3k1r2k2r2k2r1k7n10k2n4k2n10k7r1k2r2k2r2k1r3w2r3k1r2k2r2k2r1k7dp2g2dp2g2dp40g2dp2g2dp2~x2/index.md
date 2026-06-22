@@ -2,9 +2,10 @@
 title: "Arran, Isle of (Lochcarron)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK](/stripes/bgbgbgbgbkrkrkrkrwrkrkrkrkbkbkbkrkrkrkrwrkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7n10k2n4k2n10k7r1k2r2k2r2k1r3w2r3k1r2k2r2k2r1k7dp2g2dp2g2dp40g2dp2g2dp2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBKRKRKRKRWRKRKRKRKBKBKBKRKRKRKRWRKRKRKRK](/stripes/bgbgbgbgbkrkrkrkrwrkrkrkrkbkbkbkrkrkrkrwrkrkrkrk/).
 
-This was sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
+Sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1865
 

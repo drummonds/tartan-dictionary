@@ -2,9 +2,10 @@
 title: "Meredith (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [GYYYYYGYGYGY](/stripes/gyyyyygygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4g24ya3g2ya3g24y20ya3y2ya3y20g4/)
+(the same proportion at any scale), whose colour order is pattern [GYYYYYGYGYGY](/stripes/gyyyyygygygy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6167/
 

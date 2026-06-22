@@ -2,9 +2,10 @@
 title: "Hannay (Clan)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9lr4k2lr4k2lr30k9lr4b14dy2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1255/
 

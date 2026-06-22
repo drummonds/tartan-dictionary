@@ -2,9 +2,10 @@
 title: "Leitrim Irish County Tartan Tartan Number: 2271. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YKYGYRYYKY](/stripes/ykygyryyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3t18b4k3b4do13b3n18t2lr3/)
+(the same proportion at any scale), whose colour order is pattern [YKYGYRYYKY](/stripes/ykygyryyky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2271
 

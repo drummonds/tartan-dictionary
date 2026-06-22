@@ -2,9 +2,10 @@
 title: "MacLeay (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGKGKBY](/stripes/rgkgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r27g4k4g4k4db6dy1/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKBY](/stripes/rgkgkby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3437/
 

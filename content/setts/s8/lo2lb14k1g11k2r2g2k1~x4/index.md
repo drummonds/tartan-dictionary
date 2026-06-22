@@ -2,9 +2,10 @@
 title: "Mission (District)"
 date: 2023-03-18
 ---
-In pattern [KGRKGKWY](/stripes/kgrkgkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2lb14k1g11k2lr2lg2k1/)
+(the same proportion at any scale), whose colour order is pattern [KGRKGKWY](/stripes/kgrkgkwy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2669/
 

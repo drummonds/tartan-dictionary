@@ -2,9 +2,10 @@
 title: "Langtree Trade Tartan Tartan Number: 1131. Earliest known date: pre 2003 A Stewart colour variation marketed by Selfridge's, London and apparently designed and woven by Pendleton Woolen Mills of Oregon. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKWKRKRYKYW](/stripes/krkwkrkrykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k86n6k4ln3k3r3k3n22lt14k3lt6ln4/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKRKRYKYW](/stripes/krkwkrkrykyw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1131
 

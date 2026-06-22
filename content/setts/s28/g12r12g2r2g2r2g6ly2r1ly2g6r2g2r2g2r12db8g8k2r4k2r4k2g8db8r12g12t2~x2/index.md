@@ -2,18 +2,20 @@
 title: "MacMaster (New) Family Tartan Tartan Number: 3218. Earliest known date: 2001 Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRBGKRKRKGBRGRGRGYRYGRGRGRG](/stripes/bgrbgkrkrkgbrgrgrgyrygrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r12g2r2g2r2g6y2r1y2g6r2g2r2g2r12db8g8k2r4k2r4k2g8db8r12g12b2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBGKRKRKGBRGRGRGYRYGRGRGRG](/stripes/bgrbgkrkrkgbrgrgrgyrygrgrgrg/).
 
-This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3218
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacMaster (New) Family Tartan Tartan Number: 3218. Earliest known date: 2001 Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3218))
-- undated — MacMaster Canadian Family Tartan Tartan Number: 3492. Earliest known date: 2001 For David McMaster, Beamsville, Ontario, Canada. Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. Created to celebrate the 200th anniversary of the MacMaster families in Canada. The families emigrated from Moidart and settled in Craignish, Inverness Co, Cape Breton. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3492))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacMaster (New) Family Tartan Tartan Number: 3218. Earliest known date: 2001 Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3218">record</a>)</li>
+<li>undated — MacMaster Canadian Family Tartan Tartan Number: 3492. Earliest known date: 2001 For David McMaster, Beamsville, Ontario, Canada. Asymetrical design follows Canadian tradition. Elements of the MacInnes and the Nova Scotia tartans were included in line with Dave McMaster's family history. Created to celebrate the 200th anniversary of the MacMaster families in Canada. The families emigrated from Moidart and settled in Craignish, Inverness Co, Cape Breton. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3492">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/24 R24 G4 R4 G4 R4 G12 Y4 R2 Y4 G12 R4 G4 R4 G4 R24 DB16 G16 K4 R8 K4 R8 K4 G16 DB16 R24 G24 B/4

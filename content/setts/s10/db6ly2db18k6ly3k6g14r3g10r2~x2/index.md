@@ -2,9 +2,10 @@
 title: "MacMillan Hunting Clan Tartan Tartan Number: 668. Earliest known date: 1906 The Setts No: 160. W & A K Johnston See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y2db18k6y3k6g14r3g10r2/)
+(the same proportion at any scale), whose colour order is pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=668
 

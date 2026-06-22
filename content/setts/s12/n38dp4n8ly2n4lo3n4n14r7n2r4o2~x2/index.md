@@ -2,9 +2,10 @@
 title: "Louth"
 date: 2023-03-18
 ---
-In pattern [BBBYBYBBRBRR](/stripes/bbbybybbrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n38dr4n8y2n4o3n4n14r7n2r4lt2/)
+(the same proportion at any scale), whose colour order is pattern [BBBYBYBBRBRR](/stripes/bbbybybbrbrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

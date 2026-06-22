@@ -2,9 +2,10 @@
 title: "Cercle de Fermieres de St-Elie . . ."
 date: 2023-03-18
 ---
-In pattern [RYBRGYR](/stripes/rybrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2y1b8r1g7y1r2/)
+(the same proportion at any scale), whose colour order is pattern [RYBRGYR](/stripes/rybrgyr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10392/
 

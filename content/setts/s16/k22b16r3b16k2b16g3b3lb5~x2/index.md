@@ -2,9 +2,10 @@
 title: "Jethart"
 date: 2023-03-18
 ---
-In pattern [BGBKBRBKBRBKBGBW](/stripes/bgbkbrbkbrbkbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k22b16dr3b16k2b16ga3b3lb5/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBRBKBRBKBGBW](/stripes/bgbkbrbkbrbkbgbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1891
 

@@ -2,9 +2,10 @@
 title: "Pitcairn Hunting Corporate Tartan Tartan Number: 6727. Earliest known date: Not Specified A hunting version of #2199 (original Scottish Tartans Authority reference) Pitcarin Heritage. It is presumed it was designed by the same Diene Duncan and it was woven by D C Dalgliesh of Selkirk. See #2199 (original Scottish Tartans Authority reference) for background and mention of the Pitcairn Heritage Trust which does not seem to exist any longer (Aug 2005)./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBGBYBRBYB](/stripes/bbbbbgbybrbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3b3p3b3p3g23b2y2b23r6p8y2b2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBGBYBRBYB](/stripes/bbbbbgbybrbyb/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6727
 

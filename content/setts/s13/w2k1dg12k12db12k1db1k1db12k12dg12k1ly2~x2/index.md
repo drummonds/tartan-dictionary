@@ -2,9 +2,10 @@
 title: "Campbell of Loudoun"
 date: 2023-03-18
 ---
-In pattern [WKGKBKBKBKGKY](/stripes/wkgkbkbkbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k1g12k12b12k1b1k1b12k12g12k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKGKBKBKBKGKY](/stripes/wkgkbkbkbkgky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=524
 

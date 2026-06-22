@@ -2,19 +2,21 @@
 title: "Clark"
 date: 2023-03-18
 ---
-In pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ln4b19k19ln4k19ln4b7ln4b11ln4/)
+(the same proportion at any scale), whose colour order is pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=665
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Clark (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=665))
-- undated — Clark (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Clark Clan Tartan Tartan Number: 633. Earliest known date: 0 Also indexed as Clergy. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=633))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Clark (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=665">record</a>)</li>
+<li>undated — Clark (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Clark Clan Tartan Tartan Number: 633. Earliest known date: 0 Also indexed as Clergy. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=633">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

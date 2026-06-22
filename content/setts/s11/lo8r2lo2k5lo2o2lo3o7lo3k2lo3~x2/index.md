@@ -2,9 +2,10 @@
 title: "Dunbarton Warp/Weft"
 date: 2023-03-18
 ---
-In pattern [YKYRYRYKYRY](/stripes/ykyryrykyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy8r2dy2k5dy2lt2dy3lt7dy3k2dy3/)
+(the same proportion at any scale), whose colour order is pattern [YKYRYRYKYRY](/stripes/ykyryrykyry/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5227
 

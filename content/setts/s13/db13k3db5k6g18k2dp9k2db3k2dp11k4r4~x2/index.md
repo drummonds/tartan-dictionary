@@ -2,18 +2,20 @@
 title: "Braid (Estimated threadcount)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKBKBKBKR](/stripes/bkbkgkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13k3db5k6g18k2p9k2db3k2p11k4r4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKBKBKBKR](/stripes/bkbkgkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2000 — Braid (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337))
-- 2001 — Braid (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4033/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2000 — Braid (Estimated threadcount) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=337">record</a>)</li>
+<li>2001 — Braid (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4033/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

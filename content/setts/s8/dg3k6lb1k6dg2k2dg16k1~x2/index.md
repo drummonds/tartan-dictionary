@@ -2,9 +2,10 @@
 title: "MacLean VS"
 date: 2023-03-18
 ---
-In pattern [GKWKGKGK](/stripes/gkwkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3k6n1k6g2k2g16k1/)
+(the same proportion at any scale), whose colour order is pattern [GKWKGKGK](/stripes/gkwkgkgk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

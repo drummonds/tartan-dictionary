@@ -2,9 +2,10 @@
 title: "Edmonstone (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGBWBGBGRG](/stripes/bgbwbgbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7r4g14db10g5db10ln2db10g5db5/)
+(the same proportion at any scale), whose colour order is pattern [BGBWBGBGRG](/stripes/bgbwbgbgrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10398/
 

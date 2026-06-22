@@ -2,9 +2,10 @@
 title: "Unidentified"
 date: 2023-03-18
 ---
-In pattern [YBWYWBRWBRY](/stripes/ybwywbrwbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o4b2lb2o2lb2b2r2lb5b5r5o2/)
+(the same proportion at any scale), whose colour order is pattern [YBWYWBRWBRY](/stripes/ybwywbrwbry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8603/
 

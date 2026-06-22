@@ -2,9 +2,10 @@
 title: "Ross Hunting Clan Tartan Tartan Number: 756. Earliest known date: 1850 The threadcount is based on a sample from the MacGregor-Hastie collection of the Scottish Tartans Society. This version originally showed the light green overcheck having six stripes. BU noted irregularities in the threadcount, and suggests that 4 light green stripes would produce a more plausible kilting fabric. BU created the original transcription. Earliest historical reference. Other sources give Smith Museum, Stirling as the source. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGGGKGKGRGR](/stripes/gggggkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6ga3g3ga4g4k5g3k5g28r2g4r2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGKGKGRGR](/stripes/gggggkgkgrgr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=756
 

@@ -2,18 +2,20 @@
 title: "Allt Dubh (Black Burn)"
 date: 2023-03-18
 ---
-In pattern [GKRKRK](/stripes/gkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k99dr5k4dr3k2g1/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRK](/stripes/gkrkrk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2007 — Allt Dubh (Black Burn) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61))
-- September 2007 — Allt Dubh (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7296/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2007 — Allt Dubh (Black Burn) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=61">record</a>)</li>
+<li>September 2007 — Allt Dubh (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7296/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

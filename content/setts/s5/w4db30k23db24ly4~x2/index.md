@@ -2,18 +2,20 @@
 title: "Bank of Scotland"
 date: 2023-03-18
 ---
-In pattern [WBKBY](/stripes/wbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db24k23db30ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBKBY](/stripes/wbkby/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Bank of Scotland (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Bank of Scotland Corporate Tartan Tartan Number: 2462. Earliest known date: 1994 Commemorating the founding of the bank in 1695 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2462))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Bank of Scotland (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Bank of Scotland Corporate Tartan Tartan Number: 2462. Earliest known date: 1994 Commemorating the founding of the bank in 1695 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2462">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/8 DB48 K46 DB60 LN/8

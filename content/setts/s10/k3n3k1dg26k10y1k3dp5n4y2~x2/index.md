@@ -2,9 +2,10 @@
 title: "Rikaco Heirloom"
 date: 2023-03-18
 ---
-In pattern [GBBKGKGKBK](/stripes/gbbkgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3b3db1g26db10n1db3k5b4lt2/)
+(the same proportion at any scale), whose colour order is pattern [GBBKGKGKBK](/stripes/gbbkgkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6007
 

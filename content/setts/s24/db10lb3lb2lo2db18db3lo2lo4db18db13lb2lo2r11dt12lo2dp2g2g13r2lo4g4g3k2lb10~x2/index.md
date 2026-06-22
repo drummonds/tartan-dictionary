@@ -2,9 +2,10 @@
 title: "Knox #1"
 date: 2023-03-18
 ---
-In pattern [BWWYBBYYBBWYRBYBGGRYGGKW](/stripes/bwwybbyybbwyrbybggryggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10lp3n2dy2db18db3dy2dy4db18db13lp2dy2dr11dn12dy2p2g2g13dr2dy4g4g3k2n10/)
+(the same proportion at any scale), whose colour order is pattern [BWWYBBYYBBWYRBYBGGRYGGKW](/stripes/bwwybbyybbwyrbybggryggkw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2011
 

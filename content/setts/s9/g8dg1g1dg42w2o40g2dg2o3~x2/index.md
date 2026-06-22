@@ -2,9 +2,10 @@
 title: "MacDonald of Kingsburgh -1746 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GGGGWRGGR](/stripes/ggggwrggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8dg1g1dg42w2do40g2dg2do3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGWRGGR](/stripes/ggggwrggr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3293/
 

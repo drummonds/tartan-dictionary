@@ -2,9 +2,10 @@
 title: "Ritch"
 date: 2023-03-18
 ---
-In pattern [RWRWRWBWBWBWBWGGWGGWRWRWGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggwrwrwgwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2r3ln2r20ln2b6ln2dp10ln2dp10ln2b6ln2dg10g4ln2g4dg10ln2r14ln2r14ln2dg3ln2dg2y2dg2ln2b4ln2b4ln2dg2y2dg2ln2dg3ln2r14ln2r14ln2dp10b2ln2y2ln2dg2ln2y2ln2b2dp10ln2r20ln2b6ln2r14ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWBWBWBWBWGGWGGWRWRWGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggwrwrwgwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
 
-This was sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3513
 

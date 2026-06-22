@@ -2,9 +2,10 @@
 title: "Agincourt"
 date: 2023-03-18
 ---
-In pattern [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4k1dy3db1dy1db2k6dy4db2k6dy7k6db29dy2/)
+(the same proportion at any scale), whose colour order is pattern [YBKYKBYKBYBYKY](/stripes/ybkykbykbybyky/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5276
 

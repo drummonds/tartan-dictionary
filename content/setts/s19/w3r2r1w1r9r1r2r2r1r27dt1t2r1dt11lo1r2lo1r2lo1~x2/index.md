@@ -2,18 +2,20 @@
 title: "Red Lichtie"
 date: 2023-03-18
 ---
-In pattern [WRRWRRRRRRBBRBYRYRY](/stripes/wrrwrrrrrrbbrbyryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3r2dr1w1r9dr1r2dr2r1dr27db1b2dr1db11o1dr2o1dr2o1/)
+(the same proportion at any scale), whose colour order is pattern [WRRWRRRRRRBBRBYRYRY](/stripes/wrrwrrrrrrbbrbyryry/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10662
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 29/07/2012 — Red Lichtie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10662))
-- undated — Red Lichtie District Tartan Tartan Number: 10662. Earliest known date: 29/07/2012 Arbroath’s official district tartan was adopted by the Royal Burgh of Arbroath Community Council, 5th Oct 2012. For all, far and near, who have associations with Arbroath. ‘Red Lichtie’ is Scottish north east coast dialect for ‘red light’. Residents of Arbroath, a fishing town on the Scottish north east coast, are affectionately known as ‘Red Lichties’, an ancient nickname that local Arbroathians, as well as those abroad, adopt with a sense of pride. Shrouded in folklore, with different stories being told through the ages, one notable tale is of the ‘Round O’ window of Arbroath Abbey being lit at night with a flame guiding seamen returning from sea. Such a light would certainly have shown mariners where Arbroath was but any ship using it would find itself running aground somewhere east of the actual harbour entrance. More likely the name originates from Arbroath’s original Parish Church, known as the Lady Chapel. Founded some time before 1455, and located at the north east corner of the marina where the Harbour Master’s office stands today, the chapel fell out of use around 1590. Inside the chapel there burned a red lamp. It is suggested that the folk of Arbroath were familiar with this red lamp or ‘licht’, which is the likely source of the ‘Red Lichtie’ name which they are today all so proud of. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10662))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/07/2012 — Red Lichtie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10662">record</a>)</li>
+<li>undated — Red Lichtie District Tartan Tartan Number: 10662. Earliest known date: 29/07/2012 Arbroath’s official district tartan was adopted by the Royal Burgh of Arbroath Community Council, 5th Oct 2012. For all, far and near, who have associations with Arbroath. ‘Red Lichtie’ is Scottish north east coast dialect for ‘red light’. Residents of Arbroath, a fishing town on the Scottish north east coast, are affectionately known as ‘Red Lichties’, an ancient nickname that local Arbroathians, as well as those abroad, adopt with a sense of pride. Shrouded in folklore, with different stories being told through the ages, one notable tale is of the ‘Round O’ window of Arbroath Abbey being lit at night with a flame guiding seamen returning from sea. Such a light would certainly have shown mariners where Arbroath was but any ship using it would find itself running aground somewhere east of the actual harbour entrance. More likely the name originates from Arbroath’s original Parish Church, known as the Lady Chapel. Founded some time before 1455, and located at the north east corner of the marina where the Harbour Master’s office stands today, the chapel fell out of use around 1590. Inside the chapel there burned a red lamp. It is suggested that the folk of Arbroath were familiar with this red lamp or ‘licht’, which is the likely source of the ‘Red Lichtie’ name which they are today all so proud of. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10662">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

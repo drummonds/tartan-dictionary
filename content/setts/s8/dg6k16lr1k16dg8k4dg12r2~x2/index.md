@@ -2,18 +2,20 @@
 title: "MacAulay Hunting"
 date: 2023-03-18
 ---
-In pattern [GKYKGKGR](/stripes/gkykgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6k16n1k16dg8k4dg12dr2/)
+(the same proportion at any scale), whose colour order is pattern [GKYKGKGR](/stripes/gkykgkgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacAulay Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacAulay Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacAulay Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacAulay Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/12 K32 N2 K32 DG16 K8 DG24 DR/4

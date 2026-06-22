@@ -2,9 +2,10 @@
 title: "Corps Suevia Heidelburg"
 date: 2023-03-18
 ---
-In pattern [KWYKYWKYKYWYKYKYKYWYKYKWYKYWKY](/stripes/kwykywkykywykykykywykykwykywky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y21k2n2y2k2y2n2k2y2k2y2n6y2k2y3k20/)
+(the same proportion at any scale), whose colour order is pattern [KWYKYWKYKYWYKYKYKYWYKYKWYKYWKY](/stripes/kwykywkykywykykykywykykwykywky/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=772
 

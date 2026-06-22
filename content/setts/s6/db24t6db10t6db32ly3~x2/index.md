@@ -2,18 +2,20 @@
 title: "Sultan of Qaboo's Air Force"
 date: 2023-03-18
 ---
-In pattern [BBBBBY](/stripes/bbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24b6db10b6db32y3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBY](/stripes/bbbbby/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Sultan of Qaboo's Air Force (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037))
-- pre 1996 — Sultan of Qaboo's Air Force (Milit.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5165/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Sultan of Qaboo's Air Force (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4037">record</a>)</li>
+<li>pre 1996 — Sultan of Qaboo's Air Force (Milit.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5165/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Atlantic, Ancient"
 date: 2023-03-18
 ---
-In pattern [WBRBGY](/stripes/wbrbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b17lt16db2dg17y2/)
+(the same proportion at any scale), whose colour order is pattern [WBRBGY](/stripes/wbrbgy/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Praetorian Blue"
 date: 2023-03-18
 ---
-In pattern [WKYBKWWWKWWBWW](/stripes/wkybkwwwkwwbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1db1y1dba8k1n1w8n1k8n1w1dba8n1w1/)
+(the same proportion at any scale), whose colour order is pattern [WKYBKWWWKWWBWW](/stripes/wkybkwwwkwwbww/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5866
 

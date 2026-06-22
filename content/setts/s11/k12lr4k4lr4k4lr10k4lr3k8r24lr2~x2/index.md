@@ -2,9 +2,10 @@
 title: "Wcwm 9285 4906-1"
 date: 2023-03-18
 ---
-In pattern [KYKYKYKYKRY](/stripes/kykykykykry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12n4k4n4k4n10k4n3k8dr24n2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYKYKRY](/stripes/kykykykykry/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4575
 

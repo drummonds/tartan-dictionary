@@ -2,18 +2,20 @@
 title: "Black Watch"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba22k2dba2k2dba2k16dg16k2dg16k16dba16k2dba2dg10k2dg10k8db9k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBKBGKGKBKB](/stripes/bkbkbkgkgkbkbgkgkbkb/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Black Watch (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Black Watch (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Black Watch (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Black Watch (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DBa/22 K2 DBa2 K2 DBa2 K16 DG16 K2 DG16 K16 DBa16 K2 DBa2 DG10 K2 DG10 K8 DB9 K1 DB/1

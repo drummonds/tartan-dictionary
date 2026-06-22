@@ -2,9 +2,10 @@
 title: "MacAuliffe/McAucliffe"
 date: 2023-03-18
 ---
-In pattern [BRBRBGWG](/stripes/brbrbgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g38ln2g6b24o6b2o3b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGWG](/stripes/brbrbgwg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2289
 

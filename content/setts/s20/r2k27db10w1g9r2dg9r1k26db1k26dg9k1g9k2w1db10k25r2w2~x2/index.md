@@ -2,9 +2,10 @@
 title: "Binder (2013)"
 date: 2023-03-18
 ---
-In pattern [RKBWGRGRKBKGKGKWBKRW](/stripes/rkbwgrgrkbkgkgkwbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k27db10w1g9r2dg9r1k26db1k26dg9k1g9k2w1db10k25r2w2/)
+(the same proportion at any scale), whose colour order is pattern [RKBWGRGRKBKGKGKWBKRW](/stripes/rkbwgrgrkbkgkgkwbkrw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10879/
 

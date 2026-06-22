@@ -2,9 +2,10 @@
 title: "MacRae, Special Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGRGKKK](/stripes/gbgrgkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18b2dg5r2dg5k21db20k5/)
+(the same proportion at any scale), whose colour order is pattern [GBGRGKKK](/stripes/gbgrgkkk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2756
 

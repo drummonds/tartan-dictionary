@@ -2,18 +2,20 @@
 title: "Frangord"
 date: 2023-03-18
 ---
-In pattern [GBBBBGRGBBBBGBRBG](/stripes/gbbbbgrgbbbbgbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14db2lr2db2g22b2db16b2dba20g5lr2g5dba20b2db16b2g8/)
+(the same proportion at any scale), whose colour order is pattern [GBBBBGRGBBBBGBRBG](/stripes/gbbbbgrgbbbbgbrbg/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Frangord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245))
-- pre 2002 — Frangord (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4907/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Frangord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1245">record</a>)</li>
+<li>pre 2002 — Frangord (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4907/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

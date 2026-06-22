@@ -2,9 +2,10 @@
 title: "Bell Rock Lighthouse 200th Anniversary, The"
 date: 2023-03-18
 ---
-In pattern [RRKRKBBBBW](/stripes/rrkrkbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6n8db4n2db31k16dr1k2dr4r3/)
+(the same proportion at any scale), whose colour order is pattern [RRKRKBBBBW](/stripes/rrkrkbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bell Rock Lighthouse 200th Anniversary, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2011 — Bell Rock Lighthouse 200th Anniversary, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715))
-- undated — Bell Rock Lighthouse 200th Anniv Commemorative Tartan Tartan Number: 10715. Earliest known date: 12 October 2012 The tartan was designed to commemorate the 200th anniversary of the Bell Rock Lighthouse, first lit on 1 February 1811. Owned and operated by the Northern Lighthouse Board, the lighthouse lies on the treacherous Inchcape Rock (also called Bell Rock), 11 miles off Arbroath, on the Scottish east coast. Designed and built by John Rennie and Robert Stevenson, but regarded as essentially Robert Stevenson's greatest engineering achievement. The lighthouse stands 35 metres tall. The challenges faced in its construction led to it being described as one of the Seven Wonders of the Industrial World. The tartan was approved by the Northern Lighthouse Board and adopted as its official corporate tartan on 12 October 2012. The tartan design reflects lights of the lighthouse: When first put into operation the lighthouse flashed an alternating white and red light. The muted dark blue and black shades represent the treacherous dark North Sea at night. Solid black commemorates the 1000s of lives lost on Inchcape Rock as well as the men who died during the construction of the lighthouse. The geometry of the tartan creates two different impressions of the lighthouse on the horizon: when flashing white and when flashing red. When flashing white, 90 threads between the black and white represent the 90 courses of stone blocks that make up the tower. When flashing red, the lighthouse is represented at a greater distance, standing on the horizon. To build the lighthouse a number of railways were constructed on the rock to transport the massive blocks of stone. The longest railway (terminating towards the west of Inchcape Rock at Hope's Wharf) extended for 290 feet, represented in the pattern of the tartan, which has a total of 290 threads. The Right Honourable Charles Hope, Lord President of the Court of Session, initiated the building of the lighthouse in 1803, when he presented the first bill to Parliament. Steven Patrick Sim, Arbroath See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10715))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2011 — Bell Rock Lighthouse 200th Anniversary, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10715">record</a>)</li>
+<li>undated — Bell Rock Lighthouse 200th Anniv Commemorative Tartan Tartan Number: 10715. Earliest known date: 12 October 2012 The tartan was designed to commemorate the 200th anniversary of the Bell Rock Lighthouse, first lit on 1 February 1811. Owned and operated by the Northern Lighthouse Board, the lighthouse lies on the treacherous Inchcape Rock (also called Bell Rock), 11 miles off Arbroath, on the Scottish east coast. Designed and built by John Rennie and Robert Stevenson, but regarded as essentially Robert Stevenson's greatest engineering achievement. The lighthouse stands 35 metres tall. The challenges faced in its construction led to it being described as one of the Seven Wonders of the Industrial World. The tartan was approved by the Northern Lighthouse Board and adopted as its official corporate tartan on 12 October 2012. The tartan design reflects lights of the lighthouse: When first put into operation the lighthouse flashed an alternating white and red light. The muted dark blue and black shades represent the treacherous dark North Sea at night. Solid black commemorates the 1000s of lives lost on Inchcape Rock as well as the men who died during the construction of the lighthouse. The geometry of the tartan creates two different impressions of the lighthouse on the horizon: when flashing white and when flashing red. When flashing white, 90 threads between the black and white represent the 90 courses of stone blocks that make up the tower. When flashing red, the lighthouse is represented at a greater distance, standing on the horizon. To build the lighthouse a number of railways were constructed on the rock to transport the massive blocks of stone. The longest railway (terminating towards the west of Inchcape Rock at Hope's Wharf) extended for 290 feet, represented in the pattern of the tartan, which has a total of 290 threads. The Right Honourable Charles Hope, Lord President of the Court of Session, initiated the building of the lighthouse in 1803, when he presented the first bill to Parliament. Steven Patrick Sim, Arbroath See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10715">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

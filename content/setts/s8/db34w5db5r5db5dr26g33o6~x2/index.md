@@ -2,9 +2,10 @@
 title: "Blairmore"
 date: 2023-03-18
 ---
-In pattern [BWBRBBGR](/stripes/bwbrbbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db34ln5db5r5db5dr26g33lt6/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBBGR](/stripes/bwbrbbgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

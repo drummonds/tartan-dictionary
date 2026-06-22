@@ -2,9 +2,10 @@
 title: "Stevens (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYRBBGBYBGBWBBRYRYRBBWBGBYBGBBRY](/stripes/ryrbbgbybgbwbbryryrbbwbgbybgbbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6y3r3dba24db24g24b3y4b3g24db10w3db10dba24r3y3r6/)
+(the same proportion at any scale), whose colour order is pattern [RYRBBGBYBGBWBBRYRYRBBWBGBYBGBBRY](/stripes/ryrbbgbybgbwbbryryrbbwbgbybgbbry/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3920
 

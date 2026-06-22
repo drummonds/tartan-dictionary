@@ -2,9 +2,10 @@
 title: "Loch Awe"
 date: 2023-03-18
 ---
-In pattern [BKRGKBRKY](/stripes/bkrgkbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k2r3g20k24b20r3k2y3/)
+(the same proportion at any scale), whose colour order is pattern [BKRGKBRKY](/stripes/bkrgkbrky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10586
 

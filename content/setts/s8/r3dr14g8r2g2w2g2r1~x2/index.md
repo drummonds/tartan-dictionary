@@ -2,9 +2,10 @@
 title: "Scott Hunting Clan Tartan Tartan Number: 1546. Earliest known date: 1906 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBGRGWGR](/stripes/rbgrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3dr14g8r2g2ln2g2r1/)
+(the same proportion at any scale), whose colour order is pattern [RBGRGWGR](/stripes/rbgrgwgr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1546
 

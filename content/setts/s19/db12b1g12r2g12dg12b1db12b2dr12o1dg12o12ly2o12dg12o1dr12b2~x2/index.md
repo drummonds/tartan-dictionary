@@ -2,9 +2,10 @@
 title: "United Distillers, (Warp)"
 date: 2023-03-18
 ---
-In pattern [BBGRGGBBBBRGRYRGRBB](/stripes/bbgrggbbbbrgryrgrbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba12b1g12r2g12dg12b1ba12b2dr12lt1dg12lt12y2lt12dg12lt1dr12b2/)
+(the same proportion at any scale), whose colour order is pattern [BBGRGGBBBBRGRYRGRBB](/stripes/bbgrggbbbbrgryrgrbb/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Gudbrandsdalen, Rondastakken"
 date: 2023-03-18
 ---
-In pattern [RGRGRRWR](/stripes/rgrgrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r65ln2r3dr4dg11r3dg3r11/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRRWR](/stripes/rgrgrrwr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

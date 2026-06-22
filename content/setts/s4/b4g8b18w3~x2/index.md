@@ -2,9 +2,10 @@
 title: "Blue Meadow Check (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGBW](/stripes/bgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g8b18w3/)
+(the same proportion at any scale), whose colour order is pattern [BGBW](/stripes/bgbw/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3707/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Blue Meadow Check
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1973 Oct. — Blue Meadow Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3707/))
-- undated — Blue Meadow (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4954))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1973 Oct. — Blue Meadow Check (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3707/">record</a>)</li>
+<li>undated — Blue Meadow (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4954">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

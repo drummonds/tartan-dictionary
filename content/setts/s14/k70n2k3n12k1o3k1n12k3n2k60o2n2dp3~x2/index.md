@@ -2,9 +2,10 @@
 title: "Grassi (2009)"
 date: 2023-03-18
 ---
-In pattern [BBRKBKBKRKBKBK](/stripes/bbrkbkbkrkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k70n2k3n12k1na3k1n12k3n2k60na2n2p3/)
+(the same proportion at any scale), whose colour order is pattern [BBRKBKBKRKBKBK](/stripes/bbrkbkbkrkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10010
 

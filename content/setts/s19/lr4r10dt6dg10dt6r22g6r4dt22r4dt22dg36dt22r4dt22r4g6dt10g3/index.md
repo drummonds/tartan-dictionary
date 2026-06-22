@@ -2,9 +2,10 @@
 title: "Jrgensen of Taasingee (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGRBRBGBRBRGRBGBRY](/stripes/gbgrbrbgbrbrgrbgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4drb10dba6g10dba6drb22lg6drb4dba22drb4dba22g36dba22drb4dba22drb4lg6dba10lg3/)
+(the same proportion at any scale), whose colour order is pattern [GBGRBRBGBRBRGRBGBRY](/stripes/gbgrbrbgbrbrgrbgbry/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Jrgensen of Taasingee
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Jrgensen of Taasingee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909))
-- 2006 — Jorgensen of Taasinge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7214/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Jrgensen of Taasingee (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1909">record</a>)</li>
+<li>2006 — Jorgensen of Taasinge (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7214/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

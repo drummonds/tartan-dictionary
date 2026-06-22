@@ -2,9 +2,10 @@
 title: "Lochaber (Ingles Buchan)"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRBRB](/stripes/bkrkbkrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6na4n22dr4k22t22k2dr5k2t6/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRBRB](/stripes/bkrkbkrbrb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2163
 

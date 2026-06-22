@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bbbyb/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-seq">BBBYB</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/db2lo21db11dt21db1~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BBBYB" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "MacLean of Duart 5"
 date: 2023-03-18
 ---
-In pattern [BBKYKWKGRBRK](/stripes/bbkykwkgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ba1k3y1k1ln1k1g8r12ba1r2k1/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKWKGRBRK](/stripes/bbkykwkgrbrk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLean of Duart
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLean of Duart 5 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacLean of Duart Clan Tartan Tartan Number: 57. Earliest known date: 1810-15 The pattern is recorded by W and A Smith in 1850 and by Grant in 1886. Logan (1831) gives a variation with a single azure stripe, but the earlier sample in the Cockburn Collection (1810-15) indicates that in this instance, Logan was wrong. There is a curious mathematical similarity with the Royal Stewart tartan in which the number of threads and the colours have been reversed. It suggests a common origin in design. Branches of the clan include the MacLaines of Lochbuie who often disputed the right to the chiefship. Colonel Sir Fitzroy MacLean, 10th Baronet and 26th Chief, acquired Duart castle in 1911. He died aged 100 having restored the family seat to its former glory. Worn by the Polkemmet pipe band, the Ayr pipe band, East Kilbride pipe band and the Cupar & District pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=57))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLean of Duart 5 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacLean of Duart Clan Tartan Tartan Number: 57. Earliest known date: 1810-15 The pattern is recorded by W and A Smith in 1850 and by Grant in 1886. Logan (1831) gives a variation with a single azure stripe, but the earlier sample in the Cockburn Collection (1810-15) indicates that in this instance, Logan was wrong. There is a curious mathematical similarity with the Royal Stewart tartan in which the number of threads and the colours have been reversed. It suggests a common origin in design. Branches of the clan include the MacLaines of Lochbuie who often disputed the right to the chiefship. Colonel Sir Fitzroy MacLean, 10th Baronet and 26th Chief, acquired Duart castle in 1911. He died aged 100 having restored the family seat to its former glory. Worn by the Polkemmet pipe band, the Ayr pipe band, East Kilbride pipe band and the Cupar & District pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=57">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 Ba2 K6 Y2 K2 LN2 K2 G16 R24 Ba2 R4 K/2

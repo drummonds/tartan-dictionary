@@ -2,18 +2,20 @@
 title: "Madewell Dress"
 date: 2023-03-18
 ---
-In pattern [RKWGGYKW](/stripes/rkwggykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k2ln16dg13g6y2k2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKWGGYKW](/stripes/rkwggykw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2000 — Madewell Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782))
-- 2000 — Madewell Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4051/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2000 — Madewell Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2782">record</a>)</li>
+<li>2000 — Madewell Dress (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4051/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

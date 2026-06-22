@@ -2,18 +2,20 @@
 title: "Pride of the Glen"
 date: 2023-03-18
 ---
-In pattern [GBBW](/stripes/gbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3db3p4w1/)
+(the same proportion at any scale), whose colour order is pattern [GBBW](/stripes/gbbw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2014 — Pride of the Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091))
-- 2014 — Pride of the Glen (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11091/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2014 — Pride of the Glen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11091">record</a>)</li>
+<li>2014 — Pride of the Glen (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11091/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

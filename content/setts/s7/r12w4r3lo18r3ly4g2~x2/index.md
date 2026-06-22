@@ -2,18 +2,20 @@
 title: "Golden Pheasant"
 date: 2023-03-18
 ---
-In pattern [GYRYRWR](/stripes/gyryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr12ln4lr3lt18lr3y4g2/)
+(the same proportion at any scale), whose colour order is pattern [GYRYRWR](/stripes/gyryrwr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1446
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1972 — Golden Pheasant (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1446))
-- pre 1972 — Golden Pheasant (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5052/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1972 — Golden Pheasant (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1446">record</a>)</li>
+<li>pre 1972 — Golden Pheasant (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5052/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "McCruden, Raymond (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKGKBKBKW](/stripes/bkbkbkbkgkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db15k4db4k4db4k16b16k2g3k2b16k16db18k1ly2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKBKBKW](/stripes/bkbkbkbkgkbkbkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10882
 

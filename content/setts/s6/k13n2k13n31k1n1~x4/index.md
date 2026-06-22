@@ -2,9 +2,10 @@
 title: "Silver Mist (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKBK](/stripes/bkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13n2k13n31k1n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6927/
 

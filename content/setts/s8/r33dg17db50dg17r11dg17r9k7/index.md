@@ -2,9 +2,10 @@
 title: "Carnegie #3"
 date: 2023-03-18
 ---
-In pattern [KRGRGBGR](/stripes/krgrgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r33g17b50g17r11g17r9k7/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGBGR](/stripes/krgrgbgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=568
 

@@ -2,9 +2,10 @@
 title: "Olympic"
 date: 2023-03-18
 ---
-In pattern [GBRKYBGBRKWBR](/stripes/gbrkybgbrkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24db2w2k2r2db27g6db2y2k2r2db2g23/)
+(the same proportion at any scale), whose colour order is pattern [GBRKYBGBRKWBR](/stripes/gbrkybgbrkwbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Olympic
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1976 — Olympic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242))
-- 1976 — Montreal Olympics (1976) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1923/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1976 — Olympic (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3242">record</a>)</li>
+<li>1976 — Montreal Olympics (1976) (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1923/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

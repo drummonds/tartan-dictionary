@@ -2,9 +2,10 @@
 title: "Earl of Dumfries (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRKRKRGKG](/stripes/bkgkgkbrkrkrgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13k2g2k2g2k2db13r3k10r2k10r3g13k6g13/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRKRKRGKG](/stripes/bkgkgkbrkrkrgkg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8400/
 

@@ -2,9 +2,10 @@
 title: "Dundonald"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBBKRBRBY](/stripes/brbrbrbrbbkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25r3db3r2db4r2db3r3db8db10k16r1db16r3db8y2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBBKRBRBY](/stripes/brbrbrbrbbkrbrby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1040
 

@@ -2,9 +2,10 @@
 title: "Carnegie Dress #2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln18dr3ln3dr10ln26dr3k26g28dr10g3dr3g8dy6/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4461/
 

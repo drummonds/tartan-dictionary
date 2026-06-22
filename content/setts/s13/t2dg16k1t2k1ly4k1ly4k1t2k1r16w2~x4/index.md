@@ -2,9 +2,10 @@
 title: "Buchanan (Logan)"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2dg16k1b2k1y4k1y4k1b2k1r16ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=421
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Buchanan 5
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Buchanan (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=421))
-- undated — Buchanan 5 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Buchanan (Logan) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=421">record</a>)</li>
+<li>undated — Buchanan 5 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

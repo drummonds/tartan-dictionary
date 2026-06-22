@@ -2,9 +2,10 @@
 title: "Serenade"
 date: 2023-03-18
 ---
-In pattern [BBYBBBBBWBWBBBBBYB](/stripes/bbybbbbbwbwbbbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p12ba3p12bb6dba2bb26p16n2p6n2p16bb26dba2bb6p12ba3p12dba6/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBBBBWBWBBBBBYB](/stripes/bbybbbbbwbwbbbbbyb/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3767
 

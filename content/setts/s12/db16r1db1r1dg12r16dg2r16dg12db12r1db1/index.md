@@ -2,18 +2,20 @@
 title: "Fraser"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16r1db1r1g12r16g2r16g12db12r1db1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Fraser (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Fraser (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Fraser (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Fraser (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/16 R1 DB1 R1 G12 R16 G2 R16 G12 DB12 R1 DB/1

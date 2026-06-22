@@ -2,9 +2,10 @@
 title: "MacIntosh, Blanket"
 date: 2023-03-18
 ---
-In pattern [RWRWRGRRWRRGRWRWRGRRW](/stripes/rwrwrgrrwrrgrwrwrgrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln37lt1r4dg6r7ln2r3ln2r7dg6ra4lt1ln64lt1r4g6r7ln2r3ln2r7/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRGRRWRRGRWRWRGRRW](/stripes/rwrwrgrrwrrgrwrwrgrrw/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

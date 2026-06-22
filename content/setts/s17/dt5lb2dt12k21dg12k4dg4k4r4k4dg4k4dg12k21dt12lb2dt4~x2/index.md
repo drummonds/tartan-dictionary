@@ -2,9 +2,10 @@
 title: "Psychological Operations Regiment"
 date: 2023-03-18
 ---
-In pattern [BWBKGKGKRKGKGKBWB](/stripes/bwbkgkgkrkgkgkbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n2k12ka21dg12ka4dg4ka4dr4ka4dg4ka4dg12ka21k12n2k4/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGKGKRKGKGKBWB](/stripes/bwbkgkgkrkgkgkbwb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10822
 

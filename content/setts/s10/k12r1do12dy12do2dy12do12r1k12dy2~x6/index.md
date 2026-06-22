@@ -2,9 +2,10 @@
 title: "Ferguson Britt"
 date: 2023-03-18
 ---
-In pattern [GKRBGBGBRK](/stripes/gkrbgbgbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12dr1dra12t12dra2t12dra12dr1db12t2/)
+(the same proportion at any scale), whose colour order is pattern [GKRBGBGBRK](/stripes/gkrbgbgbrk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5650
 

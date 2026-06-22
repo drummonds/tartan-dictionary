@@ -2,9 +2,10 @@
 title: "Wedding Day"
 date: 2023-03-18
 ---
-In pattern [RWBRRRBWR](/stripes/rwbrrrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t4w1db48dr2lt3dr2db3w1t4/)
+(the same proportion at any scale), whose colour order is pattern [RWBRRRBWR](/stripes/rwbrrrbwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10528
 

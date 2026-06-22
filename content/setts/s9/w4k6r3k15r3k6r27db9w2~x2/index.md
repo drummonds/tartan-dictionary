@@ -2,18 +2,20 @@
 title: "Memery (Reston, USA)"
 date: 2023-03-18
 ---
-In pattern [WBRKRKRKW](/stripes/wbrkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4k6r3k15r3k6r27db9w2/)
+(the same proportion at any scale), whose colour order is pattern [WBRKRKRKW](/stripes/wbrkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10497
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 18/01/2011 — Memery (Reston, USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10497))
-- pre 2011 — Memery (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10497/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>18/01/2011 — Memery (Reston, USA) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10497">record</a>)</li>
+<li>pre 2011 — Memery (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10497/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

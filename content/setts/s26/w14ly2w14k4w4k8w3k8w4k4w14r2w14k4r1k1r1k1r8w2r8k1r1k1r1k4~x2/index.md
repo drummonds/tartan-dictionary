@@ -2,9 +2,10 @@
 title: "Casey Dress (Estimated threadcount)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w14y2w14k4w4k8w3k8w4k4w14r2w14k4r1k1r1k1r8w2r8k1r1k1r1k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRWRKRKRKWRWKWKWKWKWYW](/stripes/krkrkrwrkrkrkwrwkwkwkwkwyw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=589
 

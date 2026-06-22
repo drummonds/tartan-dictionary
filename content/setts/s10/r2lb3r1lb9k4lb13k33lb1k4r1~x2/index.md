@@ -2,9 +2,10 @@
 title: "Myles, Lee (Name)"
 date: 2023-03-18
 ---
-In pattern [RKWKWKWRWR](/stripes/rkwkwkwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do2n3do1n9k4n13k33n1k4do1/)
+(the same proportion at any scale), whose colour order is pattern [RKWKWKWRWR](/stripes/rkwkwkwrwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10352/
 

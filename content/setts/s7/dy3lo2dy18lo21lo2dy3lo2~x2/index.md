@@ -2,9 +2,10 @@
 title: "Prince David #1 (Royal)"
 date: 2023-03-18
 ---
-In pattern [GYGYYGY](/stripes/gygyygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t3oa2t18oa21o2t3o2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYYGY](/stripes/gygyygy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/826/
 

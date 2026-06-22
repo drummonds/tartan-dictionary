@@ -2,9 +2,10 @@
 title: "McWilliams Personal Tartan Tartan Number: 11154. Earliest known date: 2014 Designed for Aaron McWilliams and family See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b15k9dlg3k2dlg14k2dlg3k9b13k2b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKKKKKKKBK](/stripes/bkbkkkkkkkbk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11154
 

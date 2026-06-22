@@ -2,9 +2,10 @@
 title: "Innes Dress Clan Tartan Tartan Number: 360. Earliest known date: pre 2003 Inglis, or Ingles, tartan is a variation of the MacIntyre tartan recognised by Lord Lyon. The green stripe of the MacIntyre is replaced by yellow in the Inglis tartan. The pattern comes from the collection of the late James MacKinlay which he called MacIntyre or Inglis. MacKinlay collected samples of tartan between 1930 and 1950 but did not provide details of the origins of the specimens. The original MacIntyre tartan can be seen on a doublet at the Kingussie museum dated 1800. It was registered in the Public Register of All Arms and Bearings in 1955. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKRKRKWYWBWKGKWR](/stripes/bkrkrkwywbwkgkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4k12r2k2r2k2ln12y2ln3db6ln3k2g12k2ln3r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKWYWBWKGKWR](/stripes/bkrkrkwywbwkgkwr/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=360
 

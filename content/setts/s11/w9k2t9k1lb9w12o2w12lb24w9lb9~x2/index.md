@@ -2,9 +2,10 @@
 title: "Tricotisse"
 date: 2023-03-18
 ---
-In pattern [WKBKWWRWWWW](/stripes/wkbkwwrwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w9k2b9k1lb9w12lt2w12lb24w9lb9/)
+(the same proportion at any scale), whose colour order is pattern [WKBKWWRWWWW](/stripes/wkbkwwrwwww/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11613
 

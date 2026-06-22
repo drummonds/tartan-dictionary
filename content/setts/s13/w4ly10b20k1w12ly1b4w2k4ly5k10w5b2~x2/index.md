@@ -2,9 +2,10 @@
 title: "Dinarzh: Fortress of the Bear"
 date: 2023-03-18
 ---
-In pattern [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4y10b20k1w12y1b4w2k4y5k10w5b2/)
+(the same proportion at any scale), whose colour order is pattern [BWKYKWBYWKBYW](/stripes/bwkykwbywkbyw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10598
 

@@ -2,9 +2,10 @@
 title: "Catalan Dance"
 date: 2023-03-18
 ---
-In pattern [KBRBRBRBRBRGKYRY](/stripes/kbrbrbrbrbrgkyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db12r12db2r2b2r2b2r12db6r2dg12k2y1r1y1/)
+(the same proportion at any scale), whose colour order is pattern [KBRBRBRBRBRGKYRY](/stripes/kbrbrbrbrbrgkyry/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=594
 

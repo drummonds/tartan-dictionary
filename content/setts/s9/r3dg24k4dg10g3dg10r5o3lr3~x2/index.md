@@ -2,9 +2,10 @@
 title: "Battle of the Somme Centenary"
 date: 2023-03-18
 ---
-In pattern [RGKGGGRRY](/stripes/rgkgggrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3dg24k4dg10g3dg10dr5lt3n3/)
+(the same proportion at any scale), whose colour order is pattern [RGKGGGRRY](/stripes/rgkgggrry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11097
 

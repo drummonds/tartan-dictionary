@@ -2,9 +2,10 @@
 title: "GYL family (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRWRWRBKBW](/stripes/brwrwrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28r3ln3r3ln3r3b28k12ba38ly8/)
+(the same proportion at any scale), whose colour order is pattern [BRWRWRBKBW](/stripes/brwrwrbkbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5930
 

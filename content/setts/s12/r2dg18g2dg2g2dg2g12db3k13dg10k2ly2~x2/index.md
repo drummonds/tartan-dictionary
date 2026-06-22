@@ -2,9 +2,10 @@
 title: "McHeadley Society (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RGGGGGGBKGKY](/stripes/rggggggbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2dg18g2dg2g2dg2g12db3k13dg10k2y2/)
+(the same proportion at any scale), whose colour order is pattern [RGGGGGGBKGKY](/stripes/rggggggbkgky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10450/
 

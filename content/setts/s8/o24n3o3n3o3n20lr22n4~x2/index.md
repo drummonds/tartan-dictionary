@@ -2,9 +2,10 @@
 title: "Turnberry (MacArthur)"
 date: 2023-03-18
 ---
-In pattern [BYBRBRBR](/stripes/bybrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb24na3nb3na3nb3na20n22na4/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBRBR](/stripes/bybrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4160
 

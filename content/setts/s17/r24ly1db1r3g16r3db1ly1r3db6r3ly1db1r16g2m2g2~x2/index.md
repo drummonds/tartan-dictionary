@@ -2,9 +2,10 @@
 title: "Munro Clan Tartan Tartan Number: 974. Earliest known date: 1810-15 This sett is usually regarded as the correct form of the Munro tartan. It is illustrated by Smibert and the Smith brothers (both works published in 1850). In early versions bright pink replaces the crimson between the three green lines. Munros wear the 'Black Watch' as a Hunting tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra24y1db1ra3g16ra3db1y1ra3db6ra3y1db1ra16g2r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=974
 

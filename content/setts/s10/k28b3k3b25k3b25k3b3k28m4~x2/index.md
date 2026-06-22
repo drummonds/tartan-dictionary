@@ -2,9 +2,10 @@
 title: "Slanj"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k28ba3k3ba25k3ba25k3ba3k28lp4/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3816
 

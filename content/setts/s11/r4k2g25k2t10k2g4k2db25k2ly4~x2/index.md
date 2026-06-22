@@ -2,19 +2,21 @@
 title: "Ayrton (1979) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKGKBKGKBKY](/stripes/rkgkbkgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2g25k2b10k2g4k2db25k2y4/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBKGKBKY](/stripes/rkgkbkgkbky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1584/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1979 — Ayrton (1979) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1584/))
-- undated — Ayrton (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ayrton Family Tartan Tartan Number: 1584. Earliest known date: pre 2003 Amended version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1584))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1979 — Ayrton (1979) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1584/">record</a>)</li>
+<li>undated — Ayrton (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ayrton Family Tartan Tartan Number: 1584. Earliest known date: pre 2003 Amended version See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1584">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 K4 G50 K4 B20 K4 G8 K4 DB50 K4 Y/8

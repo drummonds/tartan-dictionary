@@ -2,9 +2,10 @@
 title: "Gallowater New District Tartan Tartan Number: 1571. Earliest known date: 1819 The Gallowater district tartan, sometimes referred to as the 'Gala Water' was first mentioned in the records of Wilson's of Bannockburn in 1793. The design progressed until 1819 when this 'New' sett was recorded in the company's pattern book with a red band and a thin white stripe. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKBBWGY](/stripes/rkbbwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k16b7p16ln1g21y5/)
+(the same proportion at any scale), whose colour order is pattern [RKBBWGY](/stripes/rkbbwgy/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1571
 

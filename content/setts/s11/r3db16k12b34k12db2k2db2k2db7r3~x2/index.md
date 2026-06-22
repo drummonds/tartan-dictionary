@@ -2,9 +2,10 @@
 title: "Rangers 1989 (Sports)"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db16k12b34k12db2k2db2k2db7r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2062/
 

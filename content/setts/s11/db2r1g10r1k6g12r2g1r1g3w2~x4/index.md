@@ -2,9 +2,10 @@
 title: "Ronald, Clan (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRGRKGRGRGW](/stripes/brgrkgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r1g10r1k6g12r2g1r1g3ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRKGRGRGW](/stripes/brgrkgrgrgw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7939/
 

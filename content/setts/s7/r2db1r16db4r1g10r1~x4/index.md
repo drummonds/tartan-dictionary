@@ -2,9 +2,10 @@
 title: "Robertson - 1988 (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBRGR](/stripes/rbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db1r16db4r1g10r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRGR](/stripes/rbrbrgr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3159/
 

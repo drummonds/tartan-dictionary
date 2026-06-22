@@ -2,9 +2,10 @@
 title: "Rob Roy"
 date: 2023-03-18
 ---
-In pattern [KR](/stripes/kr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dr1/)
+(the same proportion at any scale), whose colour order is pattern [KR](/stripes/kr/).
 
-This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

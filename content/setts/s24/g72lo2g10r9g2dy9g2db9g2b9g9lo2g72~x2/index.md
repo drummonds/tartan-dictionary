@@ -2,9 +2,10 @@
 title: "U.S. Seabees"
 date: 2023-03-18
 ---
-In pattern [GYGRGGGBGBGYGYGBGBGGGRGY](/stripes/gygrgggbgbgygygbgbgggrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g72dy2g10dr9g2t9g2dba9g2ba9g9dy2g72/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGGGBGBGYGYGBGBGGGRGY](/stripes/gygrgggbgbgygygbgbgggrgy/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4877
 

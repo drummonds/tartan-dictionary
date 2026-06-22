@@ -2,18 +2,20 @@
 title: "Dorris"
 date: 2023-03-18
 ---
-In pattern [GKGKGKKBKBKWKBKBKKGKG](/stripes/gkgkgkkbkbkwkbkbkkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k3g3k3g3k18db2b2db2b2db13w3db13b2db2b2db2k18g19k4g4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKKBKBKWKBKBKKGKG](/stripes/gkgkgkkbkbkwkbkbkkgkg/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2000 — Dorris (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953))
-- 2000 — Dorris (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4152/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2000 — Dorris (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=953">record</a>)</li>
+<li>2000 — Dorris (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4152/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

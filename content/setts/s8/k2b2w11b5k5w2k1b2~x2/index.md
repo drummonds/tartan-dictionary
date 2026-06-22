@@ -2,9 +2,10 @@
 title: "Conquergood"
 date: 2023-03-18
 ---
-In pattern [BKWKBWBK](/stripes/bkwkbwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2b2ln11b5db5ln2db1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKWKBWBK](/stripes/bkwkbwbk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

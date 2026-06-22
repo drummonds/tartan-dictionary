@@ -2,9 +2,10 @@
 title: "Van Ingelgem (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKBKBWBKBKBKKKKKKY](/stripes/wkbkbwbkbkbkkkkkky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3k18db3k3db3k3db18n3k3n3k3n12ln2n12k9n12k2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBWBKBKBKKKKKKY](/stripes/wkbkbwbkbkbkkkkkky/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7220/
 

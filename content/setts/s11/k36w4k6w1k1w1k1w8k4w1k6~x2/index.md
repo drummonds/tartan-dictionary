@@ -2,9 +2,10 @@
 title: "Royal Stewart B & W (Universal?)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWK](/stripes/kwkwkwkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36w4k6w1k1w1k1w8k4w1k6/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWK](/stripes/kwkwkwkwkwk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1231/
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Royal Stuart / Stewart
 - Stewart/Stuart, Royal )
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1906 — Royal Stewart B & W (Universal?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1231/))
-- undated — Royal Stuart / Stewart (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1906 — Royal Stewart B & W (Universal?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1231/">record</a>)</li>
+<li>undated — Royal Stuart / Stewart (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/72 W8 K12 W2 K2 W2 K2 W16 K8 W2 K/12

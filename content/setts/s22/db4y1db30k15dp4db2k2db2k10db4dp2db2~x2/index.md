@@ -2,9 +2,10 @@
 title: "Scotland's Own"
 date: 2023-03-18
 ---
-In pattern [BBBKBKBBKBGBGBKBBKBKBB](/stripes/bbbkbkbbkbgbgbkbbkbkbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n1db30k15p4db2k2db2k10db4p2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBKBBKBGBGBKBBKBKBB](/stripes/bbbkbkbbkbgbgbkbbkbkbb/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3684
 

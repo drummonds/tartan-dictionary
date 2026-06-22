@@ -2,9 +2,10 @@
 title: "Ogilvie (B&W) (Fashion?)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12ln2k12ln2k6ln2k7ln6k2ln6k2ln2k6ln2k6ln2k2ln12k2ln12/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1250/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Ogilvy B/W
 - Ogilvy, Black and White
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Ogilvie (B&W) (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1250/))
-- undated — Ogilvy, Black and White (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ogilvy B/W Trade Tartan Tartan Number: 1250. Earliest known date: pre 2003 Full sett can be seen in STS files. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Ogilvie (B&W) (Fashion?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1250/">record</a>)</li>
+<li>undated — Ogilvy, Black and White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ogilvy B/W Trade Tartan Tartan Number: 1250. Earliest known date: pre 2003 Full sett can be seen in STS files. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1250">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/24 LN4 K24 LN4 K12 LN4 K14 LN12 K4 LN12 K4 LN4 K12 LN4 K12 LN4 K4 LN24 K4 LN/24

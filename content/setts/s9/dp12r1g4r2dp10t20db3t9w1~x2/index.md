@@ -2,9 +2,10 @@
 title: "Japan-Scotland Society (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRGRBBBBW](/stripes/brgrbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p12r1g4r2p10b20db3b9w1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBBBBW](/stripes/brgrbbbbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10347/
 

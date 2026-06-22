@@ -2,9 +2,10 @@
 title: "Royal Troon Golf Club, The"
 date: 2023-03-18
 ---
-In pattern [RBWGWGBY](/stripes/rbwgwgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3dn4w10dg2w2dg5dn34y3/)
+(the same proportion at any scale), whose colour order is pattern [RBWGWGBY](/stripes/rbwgwgby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11094
 

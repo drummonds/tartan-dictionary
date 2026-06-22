@@ -2,9 +2,10 @@
 title: "Munro Old Artifact Tartan Tartan Number: 458. Earliest known date: (1745) Described as 'A plaid found at Culloden'. (A. Nisbett) Part of the MacGregor Hastie Collection at the Scottish Tartans Museum, Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r16db2r4y10r10db10r10y2r4db2r4db1r12/)
+(the same proportion at any scale), whose colour order is pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=458
 

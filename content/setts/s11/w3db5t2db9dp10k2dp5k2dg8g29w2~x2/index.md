@@ -2,18 +2,20 @@
 title: "Carnegie of Skibo (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBBBBKBKGGW](/stripes/wbbbbkbkggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3db5b2db9p10k2p5k2dg8g29ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBKBKGGW](/stripes/wbbbbkbkggw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3814/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- December 2001 — Carnegie of Skibo (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3814/))
-- undated — Carnegie of Skibo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5129))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>December 2001 — Carnegie of Skibo (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3814/">record</a>)</li>
+<li>undated — Carnegie of Skibo (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5129">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

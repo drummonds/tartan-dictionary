@@ -2,9 +2,10 @@
 title: "Robin Hood Fancy Tartan Tartan Number: 785. Earliest known date: 1819 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GK](/stripes/gk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9k8/)
+(the same proportion at any scale), whose colour order is pattern [GK](/stripes/gk/).
 
-This was sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=785
 

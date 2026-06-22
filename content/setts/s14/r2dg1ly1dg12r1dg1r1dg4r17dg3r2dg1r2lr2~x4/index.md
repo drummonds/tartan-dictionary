@@ -2,9 +2,10 @@
 title: "Hayes (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGRGRGRY](/stripes/rgygrgrgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2r2g1r2g3r17g4r1g1r1g12dy1g1r2/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGRGRGRY](/stripes/rgygrgrgrgrgry/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5168/
 

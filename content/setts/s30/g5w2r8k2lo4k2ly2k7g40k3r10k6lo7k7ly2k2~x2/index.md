@@ -2,9 +2,10 @@
 title: "Goldstraw (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYKRKGKYKYKRWGWRKYKYKGKRKYKY](/stripes/kykykrkgkykykrwgwrkykykgkrkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5ln2r8k2o4k2y2k7g40k3r10k6o7k7y2k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKRKGKYKYKRWGWRKYKYKGKRKYKY](/stripes/kykykrkgkykykrwgwrkykykgkrkyky/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1447
 

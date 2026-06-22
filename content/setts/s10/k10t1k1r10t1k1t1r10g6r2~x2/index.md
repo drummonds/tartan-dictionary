@@ -2,9 +2,10 @@
 title: "Scoepaig, fragment"
 date: 2023-03-18
 ---
-In pattern [KBKRBKBRGR](/stripes/kbkrbkbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10b1k1r10b1k1b1r10g6r2/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBKBRGR](/stripes/kbkrbkbrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Scoepaig, fragment
 - Unidentified
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scoepaig, fragment (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Scoepaig fragment Artifact Tartan Tartan Number: 1056. Earliest known date: 1813 - 1843 From a fragment made in Scoepaig, North Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1056))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scoepaig, fragment (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Scoepaig fragment Artifact Tartan Tartan Number: 1056. Earliest known date: 1813 - 1843 From a fragment made in Scoepaig, North Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1056">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/20 B2 K2 R20 B2 K2 B2 R20 G12 R/4

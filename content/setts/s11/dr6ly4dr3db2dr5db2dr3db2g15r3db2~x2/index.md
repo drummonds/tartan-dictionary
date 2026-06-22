@@ -2,9 +2,10 @@
 title: "Limerick"
 date: 2023-03-18
 ---
-In pattern [BRGBBBBBBYB](/stripes/brgbbbbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6y4dr3b2dr5b2dr3b2g15r3b2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBBBBBBYB](/stripes/brgbbbbbbyb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

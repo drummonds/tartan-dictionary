@@ -2,9 +2,10 @@
 title: "Kennewell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGYRBBRKBBYGBBKR](/stripes/bbgyrbbrkbbygbbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25b15g6dy3r2db10b5n5k2b15db25dy5g2b25db15k6n3/)
+(the same proportion at any scale), whose colour order is pattern [BBGYRBBRKBBYGBBKR](/stripes/bbgyrbbrkbbygbbkr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10039/
 

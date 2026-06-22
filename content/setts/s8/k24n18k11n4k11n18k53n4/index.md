@@ -2,18 +2,20 @@
 title: "Spirit of Glyndwr Grey (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBK](/stripes/bkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k24n18k11n4k11n18k53n4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBK](/stripes/bkbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8350/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 20th May 2010 — Spirit of Glyndwr Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8350/))
-- undated — Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8350))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>20th May 2010 — Spirit of Glyndwr Grey (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8350/">record</a>)</li>
+<li>undated — Spirit of Glyndwr Grey Welsh Fashion Tartan Tartan Number: 8350. Earliest known date: 20th May 2010 A modern day plaid, designed and woven in Wales to commemorate Owain Glyn Dwr, crowned Welsh Prince 1406. Colours represent the slates and dark waters of Mid and North Wales, Glyndwrs homeland. Woven by the Cambrian Woollen Mill, Mid Wales exclusively for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8350">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/24 N18 K11 N4 K11 N18 K53 N/4

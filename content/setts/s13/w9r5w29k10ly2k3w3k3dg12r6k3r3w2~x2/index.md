@@ -2,9 +2,10 @@
 title: "Hay or Stewart"
 date: 2023-03-18
 ---
-In pattern [WRKRGKWKYKWRW](/stripes/wrkrgkwkykwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9r5ln29k10y2k3ln3k3g12r6k3r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKWRW](/stripes/wrkrgkwkykwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1634
 

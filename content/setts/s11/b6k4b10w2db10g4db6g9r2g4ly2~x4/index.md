@@ -2,18 +2,20 @@
 title: "O'Sullivan"
 date: 2023-03-18
 ---
-In pattern [BKBWBGBGRGY](/stripes/bkbwbgbgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k4b10w2dba10ga4dba6ga9r2ga4y2/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBGBGRGY](/stripes/bkbwbgbgrgy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3272
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2000 — O'Sullivan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3272))
-- pre 2002 — O'Sullivan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3311/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2000 — O'Sullivan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3272">record</a>)</li>
+<li>pre 2002 — O'Sullivan (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3311/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

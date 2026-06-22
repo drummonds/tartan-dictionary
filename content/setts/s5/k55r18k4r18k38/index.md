@@ -2,18 +2,20 @@
 title: "Unidentified Kirtle"
 date: 2023-03-18
 ---
-In pattern [KRKRK](/stripes/krkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k55r18k4r18k38/)
+(the same proportion at any scale), whose colour order is pattern [KRKRK](/stripes/krkrk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4301
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Historic — Unidentified Kirtle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4301))
-- undated — Unidentified Kirtle (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Historic — Unidentified Kirtle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4301">record</a>)</li>
+<li>undated — Unidentified Kirtle (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

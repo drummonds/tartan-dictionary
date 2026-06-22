@@ -2,9 +2,10 @@
 title: "Bowie (Dalgety) Family Tartan Tartan Number: 434. Earliest known date: 1970-80 The name Bowie or Buie is associated with Argyllshire and the islands of Jura, Uist and Bute. The design comes from J. Dalgety, a weaving manufacturer who specializes in tartan. The date of the tartan is assumed. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBWBWGRGYG](/stripes/brbrbwbwgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8r2db3r4db13ln2dr13ln2g13r4g4y2g8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWBWGRGYG](/stripes/brbrbwbwgrgyg/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=434
 

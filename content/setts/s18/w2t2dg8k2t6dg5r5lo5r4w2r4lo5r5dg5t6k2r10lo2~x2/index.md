@@ -2,9 +2,10 @@
 title: "Kutztown (Berks Co., PA) (District)"
 date: 2023-03-18
 ---
-In pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2dr10k2b6dg5dr5dy5dr4ln2dr4dy5dr5dg5b6k2dg8b2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKBGRYRWRYRGBKRY](/stripes/wbgkbgryrwryrgbkry/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7762/
 

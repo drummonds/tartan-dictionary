@@ -2,9 +2,10 @@
 title: "Glenclova"
 date: 2023-03-18
 ---
-In pattern [WGBYBWBGWBWY](/stripes/wgbybwbgwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n100na12nb14y5nb5ln5nb5na28n16nb5n18y6/)
+(the same proportion at any scale), whose colour order is pattern [WGBYBWBGWBWY](/stripes/wgbybwbgwbwy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1407
 

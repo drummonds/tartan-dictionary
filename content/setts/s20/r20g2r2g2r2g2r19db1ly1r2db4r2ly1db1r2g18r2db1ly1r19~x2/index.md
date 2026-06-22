@@ -2,9 +2,10 @@
 title: "Munro"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20g2r2g2r2g2r19b1y1r2b4r2y1b1r2g18r2b1y1r19/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

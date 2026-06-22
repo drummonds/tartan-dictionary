@@ -2,9 +2,10 @@
 title: "MacLachlan, Hunting"
 date: 2023-03-18
 ---
-In pattern [GKGBRBRBKGKGKG](/stripes/gkgbrbrbkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k1g1k1g1k5b5r2b2r2b5g5k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKGBRBRBKGKGKG](/stripes/gkgbrbrbkgkgkg/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

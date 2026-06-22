@@ -2,9 +2,10 @@
 title: "Comme Ça Il Principe"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBBBR](/stripes/bkbkbkbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3k53dba4k4dba4k4dba24db10dba1r1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBBBR](/stripes/bkbkbkbbbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11493
 

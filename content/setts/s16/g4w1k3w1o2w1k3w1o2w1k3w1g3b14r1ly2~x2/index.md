@@ -2,9 +2,10 @@
 title: "City Of Dorval"
 date: 2023-03-18
 ---
-In pattern [GWKWRWKWRWKWGBRY](/stripes/gwkwrwkwrwkwgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg4w1k3w1do2w1k3w1do2w1k3w1lg3b14r1y2/)
+(the same proportion at any scale), whose colour order is pattern [GWKWRWKWRWKWGBRY](/stripes/gwkwrwkwrwkwgbry/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10090
 

@@ -2,9 +2,10 @@
 title: "Cheape of Torosay (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k1db1k1db1k6g6b2g6k6db6k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/210/
 

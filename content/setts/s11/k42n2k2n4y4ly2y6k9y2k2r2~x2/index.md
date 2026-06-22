@@ -2,9 +2,10 @@
 title: "Dama Weekend"
 date: 2023-03-18
 ---
-In pattern [KBKBGYGKGKR](/stripes/kbkbgygkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42n2db2n4lt4y2lt6k9lt2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGYGKGKR](/stripes/kbkbgygkgkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10209
 

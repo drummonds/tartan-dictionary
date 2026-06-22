@@ -2,9 +2,10 @@
 title: "Invertere"
 date: 2023-03-18
 ---
-In pattern [YGRBRGRY](/stripes/ygrbrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5dg14lt4db4lt27dg3lt4y5/)
+(the same proportion at any scale), whose colour order is pattern [YGRBRGRY](/stripes/ygrbrgry/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

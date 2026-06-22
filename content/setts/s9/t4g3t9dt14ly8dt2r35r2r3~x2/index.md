@@ -2,9 +2,10 @@
 title: "Hogeboom (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBBYBRRR](/stripes/bgbbybrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g3b9db14y8db2r35lr2r3/)
+(the same proportion at any scale), whose colour order is pattern [BGBBYBRRR](/stripes/bgbbybrrr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10634/
 

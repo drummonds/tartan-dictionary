@@ -2,9 +2,10 @@
 title: "Loevenstein Castle"
 date: 2023-03-18
 ---
-In pattern [KWRKR](/stripes/kwrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr20k3dr4n2k7/)
+(the same proportion at any scale), whose colour order is pattern [KWRKR](/stripes/kwrkr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5296
 

@@ -2,9 +2,10 @@
 title: "Cockburn of Ormiston Dress"
 date: 2023-03-18
 ---
-In pattern [RKGKYKBKWKBGKGKW](/stripes/rkgkykbkwkbgkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w31k2g2k2g2db8k2w2k2db8k2y2k2g8k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKGKYKBKWKBGKGKW](/stripes/rkgkykbkwkbgkgkw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Cockburn of Ormiston, dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1930 — Cockburn of Ormiston Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705))
-- 1930s — Cockburn of Ormiston Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1579/))
-- undated — Cockburn of Ormiston, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cockburn of Ormiston Dress Tartan Tartan Number: 1579. Earliest known date: 1930s Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1579))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Cockburn of Ormiston Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=705">record</a>)</li>
+<li>1930s — Cockburn of Ormiston Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1579/">record</a>)</li>
+<li>undated — Cockburn of Ormiston, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cockburn of Ormiston Dress Tartan Tartan Number: 1579. Earliest known date: 1930s Marketed in Edinburgh around 1930s but no longer seen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1579">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

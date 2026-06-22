@@ -2,9 +2,10 @@
 title: "1891 (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [KBYKBYBY](/stripes/kbykbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40ka10y1k40ka10y2ka10y4/)
+(the same proportion at any scale), whose colour order is pattern [KBYKBYBY](/stripes/kbykbyby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10372/
 

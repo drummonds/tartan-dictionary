@@ -2,18 +2,20 @@
 title: "Initial City Link"
 date: 2023-03-18
 ---
-In pattern [KGKWKYKGKGY](/stripes/kgkwkykgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50g7k4ln2k2y2k2g7k2g3y2/)
+(the same proportion at any scale), whose colour order is pattern [KGKWKYKGKGY](/stripes/kgkwkykgkgy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5429
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Initial City Link (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5429))
-- pre 2007 — Initial City Link (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7140/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Initial City Link (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5429">record</a>)</li>
+<li>pre 2007 — Initial City Link (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7140/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

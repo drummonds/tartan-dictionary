@@ -2,9 +2,10 @@
 title: "Bell of Ardbel (Name)"
 date: 2023-03-18
 ---
-In pattern [GWGBGBRRRR](/stripes/gwgbgbrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t7dr4t4dr25p1g32p4g2w2g5/)
+(the same proportion at any scale), whose colour order is pattern [GWGBGBRRRR](/stripes/gwgbgbrrrr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2613/
 

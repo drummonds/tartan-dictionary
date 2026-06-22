@@ -2,9 +2,10 @@
 title: "Scotia (EWM)"
 date: 2023-03-18
 ---
-In pattern [BGGWBRBKBRBWGGBW](/stripes/bggwbrbkbrbwggbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db58g28t4ln18db14r3db8yy4db8r3db14ln18t4g28db58ln4/)
+(the same proportion at any scale), whose colour order is pattern [BGGWBRBKBRBWGGBW](/stripes/bggwbrbkbrbwggbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3674
 

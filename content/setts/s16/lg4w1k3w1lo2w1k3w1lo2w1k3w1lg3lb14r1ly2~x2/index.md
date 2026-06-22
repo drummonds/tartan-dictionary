@@ -2,9 +2,10 @@
 title: "City of Dorvil (District)"
 date: 2023-03-18
 ---
-In pattern [YRWYWKWYWKWYWKWY](/stripes/yrwywkwywkwywkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg4ln1k3ln1lt2ln1k3ln1lt2ln1k3ln1lg3lb14r1y2/)
+(the same proportion at any scale), whose colour order is pattern [YRWYWKWYWKWYWKWY](/stripes/yrwywkwywkwywkwy/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10090/
 

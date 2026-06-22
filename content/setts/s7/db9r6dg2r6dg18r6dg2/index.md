@@ -2,18 +2,20 @@
 title: "Skene D"
 date: 2023-03-18
 ---
-In pattern [BRGRGRG](/stripes/brgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9r6g2r6g18r6g2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRG](/stripes/brgrgrg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Skene D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Skene D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Skene D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Skene D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/9 R6 G2 R6 G18 R6 G/2

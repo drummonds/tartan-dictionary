@@ -2,9 +2,10 @@
 title: "Scottish Heritage USA (SHUSA)"
 date: 2023-03-18
 ---
-In pattern [GRGKGWBRBWGKGRGRGKGWBRBWGKGR](/stripes/grgkgwbrbwgkgrgrgkgwbrbwgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r2g14k6g4ln2b14r2b14ln2g4k6g14p2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGWBRBWGKGRGRGKGWBRBWGKGR](/stripes/grgkgwbrbwgkgrgrgkgwbrbwgkgr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3722
 

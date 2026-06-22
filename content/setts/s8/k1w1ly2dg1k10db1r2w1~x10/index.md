@@ -2,9 +2,10 @@
 title: "Kaptain Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWYGKBRW](/stripes/kwygkbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1w1y2g1k10db1r2w1/)
+(the same proportion at any scale), whose colour order is pattern [KWYGKBRW](/stripes/kwygkbrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11313
 

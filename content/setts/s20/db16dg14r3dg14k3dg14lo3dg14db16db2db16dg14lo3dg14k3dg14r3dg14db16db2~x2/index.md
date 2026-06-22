@@ -2,9 +2,10 @@
 title: "Pendleton hunting Corporate Tartan Tartan Number: 2467. Earliest known date: 1998 Designed by Ms Annette Hoeffel for Pendleton Mills, established in 1863 and located in Portland, Oregon. This tartan and #2468 are virtually identical which suggests that one of the Tartan Society entries is an error. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba16dg14r3dg14k3dg14lt3dg14dba16db2dba16dg14lt3dg14k3dg14r3dg14dba16db2/)
+(the same proportion at any scale), whose colour order is pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2467
 

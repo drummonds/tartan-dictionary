@@ -2,9 +2,10 @@
 title: "Rosalyn"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8lg25k1y8k1g2k1y8k1ya25k8r8k1y2k1r8k8b8k1r2k1b8/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRKYKRKYKYKGKYKGK](/stripes/bkrkbkrkykrkykykgkykgk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10155
 

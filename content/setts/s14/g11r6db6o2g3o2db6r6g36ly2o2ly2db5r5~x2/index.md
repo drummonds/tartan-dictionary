@@ -2,9 +2,10 @@
 title: "Westmeath"
 date: 2023-03-18
 ---
-In pattern [GRBRGRBRGYRYBR](/stripes/grbrgrbrgyrybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11r6b6lt2g3lt2b6r6g36y2lt2y2b5r5/)
+(the same proportion at any scale), whose colour order is pattern [GRBRGRBRGYRYBR](/stripes/grbrgrbrgyrybr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

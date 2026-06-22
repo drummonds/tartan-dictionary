@@ -2,9 +2,10 @@
 title: "McCandlish, Red (Name)"
 date: 2023-03-18
 ---
-In pattern [WKRKRKRKRKY](/stripes/wkrkrkrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp3k1dr12k1dr1k2dr1k6r12k1dy1/)
+(the same proportion at any scale), whose colour order is pattern [WKRKRKRKRKY](/stripes/wkrkrkrkrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3324/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - McCandlish, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1992 — McCandlish, Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3324/))
-- undated — MacCandlish Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5216))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1992 — McCandlish, Red (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3324/">record</a>)</li>
+<li>undated — MacCandlish Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5216">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

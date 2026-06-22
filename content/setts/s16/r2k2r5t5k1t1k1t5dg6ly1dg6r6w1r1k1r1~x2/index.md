@@ -2,9 +2,10 @@
 title: "Unidentified No 3"
 date: 2023-03-18
 ---
-In pattern [RKRBKBKBGYGRWRKR](/stripes/rkrbkbkbgygrwrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k2r5b5k1b1k1b5g6y1g6r6ln1r1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKRBKBKBGYGRWRKR](/stripes/rkrbkbkbgygrwrkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4320
 

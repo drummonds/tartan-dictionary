@@ -2,9 +2,10 @@
 title: "Down"
 date: 2023-03-18
 ---
-In pattern [RBRRBYGRY](/stripes/rbrrbygry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt65dr9r11lt5b2o2n5lt2o13/)
+(the same proportion at any scale), whose colour order is pattern [RBRRBYGRY](/stripes/rbrrbygry/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

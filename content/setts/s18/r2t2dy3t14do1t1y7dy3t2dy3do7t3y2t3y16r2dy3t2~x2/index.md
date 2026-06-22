@@ -2,9 +2,10 @@
 title: "Unidentified (Woven sample)"
 date: 2023-03-18
 ---
-In pattern [BGRGBGBBGBGGBBBGBR](/stripes/bgrgbgbbgbggbbbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b2t3b14dr1b1g7t3b2t3dr7b3g2b3g16r2t3b2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBGBBGBGGBBBGBR](/stripes/bgrgbgbbgbggbbbgbr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7934/
 

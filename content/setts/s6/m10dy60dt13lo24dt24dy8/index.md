@@ -2,9 +2,10 @@
 title: "Bronte House Check"
 date: 2023-03-18
 ---
-In pattern [GBYBGR](/stripes/gbybgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr10t60db13lg24db24t8/)
+(the same proportion at any scale), whose colour order is pattern [GBYBGR](/stripes/gbybgr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10815
 

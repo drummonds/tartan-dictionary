@@ -2,9 +2,10 @@
 title: "Scottish Piping Society of London"
 date: 2023-03-18
 ---
-In pattern [BGRGBGRGBGRG](/stripes/bgrgbgrgbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21r3g21db5g3r30g3db5g21r3g21db2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBGRGBGRG](/stripes/bgrgbgrgbgrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4963
 

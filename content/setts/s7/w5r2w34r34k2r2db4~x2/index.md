@@ -2,9 +2,10 @@
 title: "Cunningham Dress"
 date: 2023-03-18
 ---
-In pattern [BRKRWRW](/stripes/brkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5r2w34r34k2r2db4/)
+(the same proportion at any scale), whose colour order is pattern [BRKRWRW](/stripes/brkrwrw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Cunningham, dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1986 — Cunningham Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846))
-- 1986 — Cunningham Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/563/))
-- undated — Cunningham, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=563))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Cunningham Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=846">record</a>)</li>
+<li>1986 — Cunningham Dress (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/563/">record</a>)</li>
+<li>undated — Cunningham, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cunningham Dress Clan Tartan Tartan Number: 563. Earliest known date: c.1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=563">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Sillars (Name)"
 date: 2023-03-18
 ---
-In pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g64k4db9y2db4y2db4g11r8db2r4w3/)
+(the same proportion at any scale), whose colour order is pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3207/
 

@@ -2,9 +2,10 @@
 title: "Unidentified Lindley #7"
 date: 2023-03-18
 ---
-In pattern [GRGKBWBWBWBWBKGRGRGRGKBWBWGWBWBWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR](/stripes/grgkbwbwbwbwbkgrgrgrgkbwbwgwbwbwbwgwbwbkgrgrgrgkbwbwbwbwbkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3w1b1w1ga22w1b1w1b3k11ga22r1ga1r2ga1r1ga22k11b16w1b4w1b16w1b4w1b16k11ga22r1ga1r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBWBWBWBWBKGRGRGRGKBWBWGWBWBWBWGWBWBKGRGRGRGKBWBWBWBWBKGRGR](/stripes/grgkbwbwbwbwbkgrgrgrgkbwbwgwbwbwbwgwbwbkgrgrgrgkbwbwbwbwbkgrgr/).
 
-This was sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4309
 

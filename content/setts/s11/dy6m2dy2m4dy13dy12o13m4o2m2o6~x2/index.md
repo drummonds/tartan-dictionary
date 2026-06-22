@@ -2,9 +2,10 @@
 title: "Glenmorangie #2"
 date: 2023-03-18
 ---
-In pattern [GRGRGGRRRRR](/stripes/grgrggrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do6dr2do2dr4do13k12t13dr4t2dr2t6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGGRRRRR](/stripes/grgrggrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5906
 

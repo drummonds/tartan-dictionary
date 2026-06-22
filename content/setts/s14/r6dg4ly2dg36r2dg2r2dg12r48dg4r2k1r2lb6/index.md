@@ -2,9 +2,10 @@
 title: "Hay"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6r2k1r2g4r48g12r2g2r2g36y2g4r6/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

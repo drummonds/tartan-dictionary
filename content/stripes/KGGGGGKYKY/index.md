@@ -4,7 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kgggggkyky/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KGGGGGKYKY</span></div>
+
 It is a 10 stripe tartan.
+
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KGGGGGKYKY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

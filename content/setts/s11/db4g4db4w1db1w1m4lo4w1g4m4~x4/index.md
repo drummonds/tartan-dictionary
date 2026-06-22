@@ -2,9 +2,10 @@
 title: "Belwade"
 date: 2023-03-18
 ---
-In pattern [BGBWBWRYWGR](/stripes/bgbwbwrywgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g4w1o4dr4w1db1w1b4g4b4/)
+(the same proportion at any scale), whose colour order is pattern [BGBWBWRYWGR](/stripes/bgbwbwrywgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11440
 

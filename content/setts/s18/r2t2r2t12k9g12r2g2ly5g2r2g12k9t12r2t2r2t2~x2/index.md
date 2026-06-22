@@ -2,9 +2,10 @@
 title: "Lobban (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGRGYGRGKBRBR](/stripes/brbrbkgrgygrgkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b2r2b12k9g12r2g2y5g2r2g12k9b12r2b2r2b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGRGYGRGKBRBR](/stripes/brbrbkgrgygrgkbrbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2142
 

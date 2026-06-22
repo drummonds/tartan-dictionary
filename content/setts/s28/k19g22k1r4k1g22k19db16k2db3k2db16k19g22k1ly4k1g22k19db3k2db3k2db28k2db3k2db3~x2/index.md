@@ -2,9 +2,10 @@
 title: "Farquharson or MacEwan Clan Tartan Tartan Number: 1967. Earliest known date: pre 2003 MacEwan in MacGregor-Hastie Collection See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGKYKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkykgkbkbkbkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19g22k1r4k1g22k19db16k2db3k2db16k19g22k1y4k1g22k19db3k2db3k2db28k2db3k2db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGKYKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkykgkbkbkbkgkrkgk/).
 
-This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1967
 

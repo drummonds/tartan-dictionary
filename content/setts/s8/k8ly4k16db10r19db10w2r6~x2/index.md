@@ -2,18 +2,20 @@
 title: "Sullivan of Braemar"
 date: 2023-03-18
 ---
-In pattern [KYKBRBWR](/stripes/kykbrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8y4k16b10r19b10w2r6/)
+(the same proportion at any scale), whose colour order is pattern [KYKBRBWR](/stripes/kykbrbwr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10049
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 04/06/2009 — Sullivan of Braemar (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10049))
-- Jun. 2009 — Sullivan of Braemar (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10049/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>04/06/2009 — Sullivan of Braemar (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10049">record</a>)</li>
+<li>Jun. 2009 — Sullivan of Braemar (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10049/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

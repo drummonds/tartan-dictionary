@@ -2,9 +2,10 @@
 title: "New York Tartan Day Parade"
 date: 2023-03-18
 ---
-In pattern [BBRBYBRBYBWBWBWBYBRBYBRBRBBBBBBBBBGB](/stripes/bbrbybrbybwbwbwbybrbybrbrbbbbbbbbbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2db1r8db1lg2db1r4db4y1db57w1db2w2db2w1db28y1db4r4db1lg2db1r8db1r8db1n2db1n2db1n2db1n2db1g2db1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBYBRBYBWBWBWBYBRBYBRBRBBBBBBBBBGB](/stripes/bbrbybrbybwbwbwbybrbybrbrbbbbbbbbbgb/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10537
 

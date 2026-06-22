@@ -2,9 +2,10 @@
 title: "Orkney Heather"
 date: 2023-03-18
 ---
-In pattern [BRBBRBRBRBRBBR](/stripes/brbbrbrbrbrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp4lp2dp2p4lp2dp8lp2n2na43n2na43p2dp8na2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBRBRBRBRBBR](/stripes/brbbrbrbrbrbbr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11138/
 

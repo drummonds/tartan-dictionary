@@ -2,18 +2,20 @@
 title: "Steiff"
 date: 2023-03-18
 ---
-In pattern [BKRGWKWBGR](/stripes/bkrgwkwbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r15g6db36ln2k6ln2g30r32k6b4/)
+(the same proportion at any scale), whose colour order is pattern [BKRGWKWBGR](/stripes/bkrgwkwbgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3913
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 23/05/2001 — Steiff (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3913))
-- pre 2002 — Steiff (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3975/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>23/05/2001 — Steiff (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3913">record</a>)</li>
+<li>pre 2002 — Steiff (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3975/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

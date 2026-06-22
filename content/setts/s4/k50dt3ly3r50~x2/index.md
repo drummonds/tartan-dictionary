@@ -2,9 +2,10 @@
 title: "Hungerford RFC (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBYR](/stripes/kbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50db3y3dr50/)
+(the same proportion at any scale), whose colour order is pattern [KBYR](/stripes/kbyr/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6863/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hungerford RFC Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2005 — Hungerford RFC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6863/))
-- undated — Hungerford RFC Personal Tartan Tartan Number: 6488. Earliest known date: 2005 Bob Boulton designed his tartan online with House of Tartan, for the Hungerford rugby football club using club colours See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6488))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2005 — Hungerford RFC (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6863/">record</a>)</li>
+<li>undated — Hungerford RFC Personal Tartan Tartan Number: 6488. Earliest known date: 2005 Bob Boulton designed his tartan online with House of Tartan, for the Hungerford rugby football club using club colours See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6488">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/100 DB6 Y6 DR/100

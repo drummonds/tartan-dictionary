@@ -2,9 +2,10 @@
 title: "Wilson's, No 190"
 date: 2023-03-18
 ---
-In pattern [KYKWBRWRGYKRWRBWKYK](/stripes/kykwbrwrgykrwrbwkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3y2k13ln2b11r12ln2r12k12y2g12r12ln2r12b11ln2k13y2k3/)
+(the same proportion at any scale), whose colour order is pattern [KYKWBRWRGYKRWRBWKYK](/stripes/kykwbrwrgykrwrbwkyk/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

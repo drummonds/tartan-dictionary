@@ -2,9 +2,10 @@
 title: "Los Angeles (District)"
 date: 2023-03-18
 ---
-In pattern [BBYGBBYB](/stripes/bbygbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba4b24y5g2b3db5y33dba2/)
+(the same proportion at any scale), whose colour order is pattern [BBYGBBYB](/stripes/bbygbbyb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6071/
 

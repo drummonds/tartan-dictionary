@@ -2,9 +2,10 @@
 title: "Cargill Clan/Family Tartan Tartan Number: 3132. Earliest known date: 1880 Known more commonly as Clergy or Beachan na Clerich this tartan is also known as Cargill, as it appears in the Clans Originaux, 1880 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBKGKGBGBGBGBGKGKBG](/stripes/bgbkgkgbgbgbgbgkgkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1dba6k6g1k6g1dba2g1dba3g1dba3g1dba2g1k6g1k6dba6g1dba1/)
+(the same proportion at any scale), whose colour order is pattern [BGBKGKGBGBGBGBGKGKBG](/stripes/bgbkgkgbgbgbgbgkgkbg/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3132
 

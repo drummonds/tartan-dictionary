@@ -2,19 +2,21 @@
 title: "Grandfather Mountain Games (District"
 date: 2023-03-18
 ---
-In pattern [RGKBKBY](/stripes/rgkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3dg20k2n11k2db20na2/)
+(the same proportion at any scale), whose colour order is pattern [RGKBKBY](/stripes/rgkbkby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2198/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1993 — Grandfather Mountain Games (District (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2198/))
-- 01/01/1994 — Grandfather Mountain Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1493))
-- undated — Grandfather Mountain Games American Corporate Tartan Tartan Number: 2198. Earliest known date: 1993 Designed by Marjorie Warren, Lake Junaluska, NC, in 1993. The following is an explanation of colours used in designing the tartan. Blue: for the saltire-St Andrews flag. White: for the diagonal cross in the saltire flag. Green: for MacRae meadows where the games take place. Grey: for the granite of Grandfather Mtn that overlooks the games and from which the games derives its name. Black: for the rock formation that is found in the granite of Grandfather Mtn. Red: for the "Fire on the Mountain" ceremony on the Thursday calling the clans together for the week-end's games. The copyright was donated to Grandfather Mtn. Highland Games Inc. who officially adopted the tartan 8 July 1993, endorsed by the Board of Scottish Heritage USA, Inc. , sponsors on 10 July 1993. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2198))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1993 — Grandfather Mountain Games (District (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2198/">record</a>)</li>
+<li>01/01/1994 — Grandfather Mountain Games (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1493">record</a>)</li>
+<li>undated — Grandfather Mountain Games American Corporate Tartan Tartan Number: 2198. Earliest known date: 1993 Designed by Marjorie Warren, Lake Junaluska, NC, in 1993. The following is an explanation of colours used in designing the tartan. Blue: for the saltire-St Andrews flag. White: for the diagonal cross in the saltire flag. Green: for MacRae meadows where the games take place. Grey: for the granite of Grandfather Mtn that overlooks the games and from which the games derives its name. Black: for the rock formation that is found in the granite of Grandfather Mtn. Red: for the "Fire on the Mountain" ceremony on the Thursday calling the clans together for the week-end's games. The copyright was donated to Grandfather Mtn. Highland Games Inc. who officially adopted the tartan 8 July 1993, endorsed by the Board of Scottish Heritage USA, Inc. , sponsors on 10 July 1993. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2198">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

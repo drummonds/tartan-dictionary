@@ -2,9 +2,10 @@
 title: "Red Hackle Pipe Band (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKRKWBKBKGBGRWRW](/stripes/bkrkwbkbkgbgrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30k2r18k3ln24b12k3b24k2g26b12g12r12ln12r12ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKWBKBKGBGRWRW](/stripes/bkrkwbkbkgbgrwrw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8048/
 

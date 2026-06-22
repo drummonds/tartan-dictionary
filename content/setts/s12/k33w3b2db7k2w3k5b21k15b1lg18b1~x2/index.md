@@ -2,9 +2,10 @@
 title: "Covington, Christopher (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k33w3ba2db7k2w3k5ba21k15ba1b18ba1/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKWKBBWK](/stripes/bybkbkwkbbwk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11017/
 

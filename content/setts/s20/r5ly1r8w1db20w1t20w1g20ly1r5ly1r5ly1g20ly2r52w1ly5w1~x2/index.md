@@ -2,9 +2,10 @@
 title: "Whitworth Artifact Tartan Tartan Number: 1724. Earliest known date: c.1790-1800 A piece of material 11x8 inches supposedly cut from a plaid worn by Prince Charles during the '45 rebellion. The piece was loaned to the Scottish Tartans Society museum in 1978 by Anthony Whitworth. The tartan expert, James Scarlett, noted that the sample was woven with a flying shuttle and appeared to be of commercial manufacture. He suggests that it may be a commercial copy of one of the many 'Princes Plaids' made c.1790. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RYRWBWBWGYRYRYGYRWYW](/stripes/ryrwbwbwgyryrygyrwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5y1r8ln1db20ln1b20ln1g20y1r5y1r5y1g20y2r52ln1y5ln1/)
+(the same proportion at any scale), whose colour order is pattern [RYRWBWBWGYRYRYGYRWYW](/stripes/ryrwbwbwgyryrygyrwyw/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1724
 

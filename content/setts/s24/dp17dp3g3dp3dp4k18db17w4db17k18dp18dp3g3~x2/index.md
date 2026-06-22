@@ -2,9 +2,10 @@
 title: "Heart of Scotland (Milne)"
 date: 2023-03-18
 ---
-In pattern [BBKBWBKBBGBBBGBBKBWBKBBG](/stripes/bbkbwbkbbgbbbgbbkbwbkbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/pa17p3g3p3pa4k18db17ln4db17k18pa18p3g3/)
+(the same proportion at any scale), whose colour order is pattern [BBKBWBKBBGBBBGBBKBWBKBBG](/stripes/bbkbwbkbbgbbbgbbkbwbkbbg/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5165
 

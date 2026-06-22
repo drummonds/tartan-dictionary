@@ -2,9 +2,10 @@
 title: "Debian"
 date: 2023-03-18
 ---
-In pattern [BYBRKRWKWRWKWRWKWRWKWKWKWRWRWKWKWRKR](/stripes/bybrkrwkwrwkwrwkwrwkwkwkwrwrwkwkwrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr7k1dr7ln3k1ln1k1ln1r3ln1r3ln3k1ln1k1ln1k1ln1r3ln1k1ln1r3ln1k1ln3r3ln3k1ln1dr7k1dr7db7y1db7/)
+(the same proportion at any scale), whose colour order is pattern [BYBRKRWKWRWKWRWKWRWKWKWKWRWRWKWKWRKR](/stripes/bybrkrwkwrwkwrwkwrwkwkwkwrwrwkwkwrkr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5936
 

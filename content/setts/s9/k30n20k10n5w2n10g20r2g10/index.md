@@ -2,9 +2,10 @@
 title: "Cailleach (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRGBWBKBK](/stripes/grgbwbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30n20k10n5ln2n10g20r2g10/)
+(the same proportion at any scale), whose colour order is pattern [GRGBWBKBK](/stripes/grgbwbkbk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10152/
 

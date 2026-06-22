@@ -2,9 +2,10 @@
 title: "Victoria Highland Dress #2"
 date: 2023-03-18
 ---
-In pattern [RWBWKYKWKGRGRWRGRGKWKGKWBWRGWBWBKYKBWGRGRGWGRGRGWBKYKBWBWGWBWBKYKBWGRGRGWGRGRGWBKY](/stripes/rwbwkykwkgrgrwrgrgkwkgkwbwrgwbwbkykbwgrgrgwgrgrgwbkykbwbwgwbwbkykbwgrgrgwgrgrgwbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5w23db5w5k7y3k3w2k3g16r8g3r6w3r6g3r8g16k3w2k3g3k7w5db5w23r4g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3k5db1w4db4w19g1w19db4w4db1k5y3k2db1w4g15r6g3r5g1w3g1r5g3r6g15w4db1k2y3/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKYKWKGRGRWRGRGKWKGKWBWRGWBWBKYKBWGRGRGWGRGRGWBKYKBWBWGWBWBKYKBWGRGRGWGRGRGWBKY](/stripes/rwbwkykwkgrgrwrgrgkwkgkwbwrgwbwbkykbwgrgrgwgrgrgwbkykbwbwgwbwbkykbwgrgrgwgrgrgwbky/).
 
-This was sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
+Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4457
 

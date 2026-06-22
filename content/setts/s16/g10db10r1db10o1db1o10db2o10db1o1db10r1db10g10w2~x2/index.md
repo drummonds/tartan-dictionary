@@ -2,9 +2,10 @@
 title: "American Soc of Travel Agents Corporate Tartan Tartan Number: 2316. Earliest known date: Pre 1995 Deisgned by Kinloch Anderson for the Scottish Tourist Board trained US Travel Agents. Based on Davidson since the first President of the ASTA from 1931 - 1938 was Mr E. Irvine Davis.Designed to celebrate the ASTA 1997 world conference in Glasgow. Thread count estimated from illustration. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBRBRBRBRBRBRBGW](/stripes/gbrbrbrbrbrbrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10db10r1db10n1db1n10db2n10db1n1db10r1db10g10ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBRBRBRBRBRBRBGW](/stripes/gbrbrbrbrbrbrbgw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2316
 

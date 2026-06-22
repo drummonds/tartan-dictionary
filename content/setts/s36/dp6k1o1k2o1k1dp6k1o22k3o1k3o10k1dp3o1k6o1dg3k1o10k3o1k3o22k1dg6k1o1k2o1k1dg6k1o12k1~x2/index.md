@@ -2,9 +2,10 @@
 title: "Weiss-Halliwell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKRKRKBKRKRKRKBRKRGKRKRKRKGKRKRKGKRK](/stripes/bkrkrkbkrkrkrkbrkrgkrkrkrkgkrkrkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p6k1n1k2n1k1p6k1n22k3n1k3n10k1p3n1k6n1g3k1n10k3n1k3n22k1g6k1n1k2n1k1g6k1n12k1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKBKRKRKRKBRKRGKRKRKRKGKRKRKGKRK](/stripes/bkrkrkbkrkrkrkbrkrgkrkrkrkgkrkrkgkrk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11055/
 

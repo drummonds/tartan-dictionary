@@ -3,9 +3,10 @@ title: "Kinnoull"
 date: 2023-03-18
 slug_full: "dg16lb3dg9r12dg8y7dg8r12dg12r8dg12r26dg4r12dg4r26lb3r12y33r7y33r12lb3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26lb3r12y33r7y33r12lb3r26dg4r12dg4r26dg12r8dg12r12dg8y7dg8r12dg9lb3dg16lb2~x2"
 ---
-In pattern [GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW](/stripes/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg16n3dg9r12dg8g7dg8r12dg12r8dg12r26dg4r12dg4r26n3r12lg33r7lg33r12n3r26k2r2k5r2k2r26k2r2k5r2k2r26dg24r7dg24r7dg24r26k2r2k5r2k2r26k2r2k5r2k2r26n3r12lg33r7lg33r12n3r26dg4r12dg4r26dg12r8dg12r12dg8g7dg8r12dg9n3dg16n2/)
+(the same proportion at any scale), whose colour order is pattern [GWGRGGGRGRGRGRGRWRGRGRWRKRKRKRKRKRKRGRGRGRKRKRKRKRKRKRWRGRGRWRGRGRGRGRGGGRGWGW](/stripes/gwgrgggrgrgrgrgrwrgrgrwrkrkrkrkrkrkrgrgrgrkrkrkrkrkrkrwrgrgrwrgrgrgrgrgggrgwgw/).
 
-This was sourced from register-of-tartans.  It is a [78 stripe tartan](/stripes/stripes78/).
+Sourced from register-of-tartans.  It is a [78 stripe tartan](/stripes/stripes78/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1995
 

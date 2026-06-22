@@ -2,9 +2,10 @@
 title: "Oregon American District Tartan Tartan Number: 5743. Earliest known date: 2002 The State of Oregon tartan was adopted at the 72nd Oregon Legislative Assembly by Senate Joint Resolution 31 in a letter from State Governor Theodore R Kulongoski dated April 12th 2003. Blue is from the Oregon flag and its rivers and ocean. Gold from the flag and represents agriculture. White for the snow-capped mountains. Taupe (light brown) is for the high desert and grasslands. Azure for the streams, and the skies. Black, the obsidian buttes. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBRYGWGBGBY](/stripes/kbrygwgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db5dg2db2dg2ln1dg4lt12dr2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [KBRYGWGBGBY](/stripes/kbrygwgbgby/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5743
 

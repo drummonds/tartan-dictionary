@@ -2,9 +2,10 @@
 title: "Dauphinee, Andrew Hunter (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBBR](/stripes/bwbbbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3n32db2n3db4n2db16ly1db1/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBBR](/stripes/bwbbbbbbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11444
 

@@ -2,18 +2,20 @@
 title: "Scottish Islamic"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2y2g2y2g2y2g18k1g2k5db2k1db19w2db2w2db2w2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10644
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 27/06/2011 — Scottish Islamic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10644))
-- undated — Scottish Islamic Corporate Tartan Tartan Number: 10644. Earliest known date: 27/06/2011 The Scottish Islamic Tartan weaves together the different strands of Scottish and Muslim heritage creating a fabric for the future. Scottish academic Dr Azeem Ibrahim, developed this concept after consulting leading Islamic scholars around the world - Shaikh Humza Yousaf, Imam Zaid Shakir and Dr Umar Abd-Allah. In Scotland, he sought advice from Shaikh Amer Jamil, Scotland's leading Islamic scholar. The theological explanation of the design is as follows: blue represents the Scottish Flag; green represents the colour of Islam; five white lines running through the pattern represent the five pillars of Islam; six gold lines represent the six articles of faith; the black square represents the Holy Kabah. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10644))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>27/06/2011 — Scottish Islamic (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10644">record</a>)</li>
+<li>undated — Scottish Islamic Corporate Tartan Tartan Number: 10644. Earliest known date: 27/06/2011 The Scottish Islamic Tartan weaves together the different strands of Scottish and Muslim heritage creating a fabric for the future. Scottish academic Dr Azeem Ibrahim, developed this concept after consulting leading Islamic scholars around the world - Shaikh Humza Yousaf, Imam Zaid Shakir and Dr Umar Abd-Allah. In Scotland, he sought advice from Shaikh Amer Jamil, Scotland's leading Islamic scholar. The theological explanation of the design is as follows: blue represents the Scottish Flag; green represents the colour of Islam; five white lines running through the pattern represent the five pillars of Islam; six gold lines represent the six articles of faith; the black square represents the Holy Kabah. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10644">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Arran, Isle of (Strathmore)"
 date: 2023-03-18
 ---
-In pattern [BBBBBKRKRKRKRWRKRKRKRKBKB](/stripes/bbbbbkrkrkrkrwrkrkrkrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp86n4dp4n4dp4k16dr2k4dr3k3dr4k2dr6w3dr6k2dr4k3dr3k4dr2k16n24k4n10/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKRKRKRKRWRKRKRKRKBKB](/stripes/bbbbbkrkrkrkrwrkrkrkrkbkb/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=118
 

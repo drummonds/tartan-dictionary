@@ -2,9 +2,10 @@
 title: "Crowne Plaza (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBYBRBYBRGRG](/stripes/brbybrbybrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g27r2g3r3n3dy2n14r2n3dy3n3r2n14/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBRBYBRGRG](/stripes/brbybrbybrgrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8103/
 

@@ -2,9 +2,10 @@
 title: "Kerr of Ardgowan Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGRGGBGGBGRW](/stripes/gygrggbggbgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2o1ga42r2ga6g1db1g1ga4b4ga1r1w1/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGGBGGBGRW](/stripes/gygrggbggbgrw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7319/
 

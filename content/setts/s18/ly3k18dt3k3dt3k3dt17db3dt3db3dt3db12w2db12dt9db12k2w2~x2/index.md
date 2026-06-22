@@ -2,9 +2,10 @@
 title: "Van Ingelgem Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKBBBWBBBBBBKBKBKY](/stripes/wkbbbwbbbbbbkbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k18db3k3db3k3db17b3db3b3db3b12w2b12db9b12k2w2/)
+(the same proportion at any scale), whose colour order is pattern [WKBBBWBBBBBBKBKBKY](/stripes/wkbbbwbbbbbbkbkbky/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5430
 

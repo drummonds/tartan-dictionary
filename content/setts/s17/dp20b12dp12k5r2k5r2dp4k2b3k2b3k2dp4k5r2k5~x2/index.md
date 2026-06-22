@@ -2,9 +2,10 @@
 title: "Burns, Virginia (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBKRKRBKBKBKBKRK](/stripes/bbbkrkrbkbkbkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p20b12p12k5lr2k5lr2p4k2b3k2b3k2p4k5lr2k5/)
+(the same proportion at any scale), whose colour order is pattern [BBBKRKRBKBKBKBKRK](/stripes/bbbkrkrbkbkbkbkrk/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11028/
 

@@ -2,9 +2,10 @@
 title: "Anderson (STS)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBBWKYKYKRBRGRBRBRGR](/stripes/rbrbrbbwkykykrbrgrbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g6r1ba1r2ba1r1g6r2ba4r1k4y1k2y1k2ln3ba4b14r1ba1r1b4r3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBBWKYKYKRBRGRBRBRGR](/stripes/rbrbrbbwkykykrbrgrbrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=80
 

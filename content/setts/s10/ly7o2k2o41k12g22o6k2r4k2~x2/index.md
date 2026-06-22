@@ -2,9 +2,10 @@
 title: "Dinwiddie"
 date: 2023-03-18
 ---
-In pattern [KRKRGKRKRY](/stripes/krkrgkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y7n2k2n41k12g22n6k2r4k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRGKRKRY](/stripes/krkrgkrkry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=939
 

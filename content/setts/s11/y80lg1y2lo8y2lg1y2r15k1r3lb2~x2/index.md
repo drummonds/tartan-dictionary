@@ -2,9 +2,10 @@
 title: "Drovers' Tryst (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGRKRW](/stripes/gygygygrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t80g1t2o8t2g1t2r15k1r3lb2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGRKRW](/stripes/gygygygrkrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8249/
 

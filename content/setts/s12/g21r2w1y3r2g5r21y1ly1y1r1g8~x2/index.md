@@ -2,9 +2,10 @@
 title: "Glendronach"
 date: 2023-03-18
 ---
-In pattern [GRGYGRGRGWRG](/stripes/grgygrgrgwrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21dr2ln1lg3dr2g5dr21lg1y1lg1dr1g8/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGRGRGWRG](/stripes/grgygrgrgwrg/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

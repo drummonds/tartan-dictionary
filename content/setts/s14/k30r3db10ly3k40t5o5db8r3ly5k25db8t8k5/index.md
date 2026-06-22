@@ -2,9 +2,10 @@
 title: "Parker, Black (2009) (Name)"
 date: 2023-03-18
 ---
-In pattern [KBBKYRBRBKYBRK](/stripes/kbbkyrbrbkybrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30r3db10y3k40b5n5db8r3y5k25db8b8k5/)
+(the same proportion at any scale), whose colour order is pattern [KBBKYRBRBKYBRK](/stripes/kbbkyrbrbkybrk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10092/
 

@@ -2,9 +2,10 @@
 title: "Timmins (2013)"
 date: 2023-03-18
 ---
-In pattern [GBBBBYBBBR](/stripes/gbbbbybbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db2dp14db12y1b32db12b14db2g4/)
+(the same proportion at any scale), whose colour order is pattern [GBBBBYBBBR](/stripes/gbbbbybbbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10911
 

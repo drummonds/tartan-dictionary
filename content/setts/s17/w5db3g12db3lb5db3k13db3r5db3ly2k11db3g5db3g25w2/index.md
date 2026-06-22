@@ -2,9 +2,10 @@
 title: "Kumikyoku - Tone of Forest"
 date: 2023-03-18
 ---
-In pattern [WBGBWBKBRBYKBGBGW](/stripes/wbgbwbkbrbykbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5db3g12db3lb5db3k13db3r5db3y2k11db3g5db3g25w2/)
+(the same proportion at any scale), whose colour order is pattern [WBGBWBKBRBYKBGBGW](/stripes/wbgbwbkbrbykbgbgw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11286/
 

@@ -2,9 +2,10 @@
 title: "Lorne - Marquis of (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3lg2k14lg2k2lg20dy2lg2ln2lg2r2lg20k2lg2k14lg2k3b3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGRGWGYGKGKGK](/stripes/bkgkgkgrgwgygkgkgk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2218
 

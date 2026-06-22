@@ -2,9 +2,10 @@
 title: "Watkins of Wales"
 date: 2023-03-18
 ---
-In pattern [GBGBBGRGGGRGBBBBBBGBBBBBBGRGGGRGBBGBGG](/stripes/gbgbbgrgggrgbbbbbbgbbbbbbgrgggrgbbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2ga2db5ga4db10ba15ga10dr12ga6g4ga6dr12ga10ba18ba2b2db2ba18db1g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBBGRGGGRGBBBBBBGBBBBBBGRGGGRGBBGBGG](/stripes/gbgbbgrgggrgbbbbbbgbbbbbbgrgggrgbbgbgg/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4501
 

@@ -2,18 +2,20 @@
 title: "Thorntons Law (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGRW](/stripes/bgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10b10r5w1/)
+(the same proportion at any scale), whose colour order is pattern [BGRW](/stripes/bgrw/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6862/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2006 January — Thorntons Law (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6862/))
-- undated — Thorntons Law Corporate Tartan Tartan Number: 6862. Earliest known date: 2005 Thorntons WS is a Dundee based solictors, estate agents and investment consultants. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6862))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2006 January — Thorntons Law (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6862/">record</a>)</li>
+<li>undated — Thorntons Law Corporate Tartan Tartan Number: 6862. Earliest known date: 2005 Thorntons WS is a Dundee based solictors, estate agents and investment consultants. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6862">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/20 B20 R10 W/2

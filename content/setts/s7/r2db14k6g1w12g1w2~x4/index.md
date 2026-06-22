@@ -2,9 +2,10 @@
 title: "Davidson (Wedding) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGWGW](/stripes/rbkgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db14k6g1w12g1w2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGWGW](/stripes/rbkgwgw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Davidson, Bride's
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1998 — Davidson (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892))
-- April 1998 — Davidson - 1998 (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2576/))
-- undated — Davidson, Bride's (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Davidson (Wedding) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=892">record</a>)</li>
+<li>April 1998 — Davidson - 1998 (Wedding) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2576/">record</a>)</li>
+<li>undated — Davidson, Bride's (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

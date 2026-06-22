@@ -2,9 +2,10 @@
 title: "Hebridean"
 date: 2023-03-18
 ---
-In pattern [BKRGRKRKRKRKRK](/stripes/bkrgrkrkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r1k10r1k2r1k10r2k10r2g2r2k10b2/)
+(the same proportion at any scale), whose colour order is pattern [BKRGRKRKRKRKRK](/stripes/bkrgrkrkrkrkrk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1649
 

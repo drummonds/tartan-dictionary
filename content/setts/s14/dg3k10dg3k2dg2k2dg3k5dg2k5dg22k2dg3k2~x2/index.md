@@ -2,9 +2,10 @@
 title: "Lochcarron Hunting (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3k10ga3k2ga2k2g3k5g2k5g22r2g3r2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGKGKGKGK](/stripes/gkgkgkgkgkgkgk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5464/
 

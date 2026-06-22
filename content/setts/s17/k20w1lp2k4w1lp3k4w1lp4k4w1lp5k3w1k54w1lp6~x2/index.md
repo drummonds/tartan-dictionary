@@ -2,9 +2,10 @@
 title: "Purdy Black (Illinois)"
 date: 2023-03-18
 ---
-In pattern [KWWKWWKWWKWWKWKWW](/stripes/kwwkwwkwwkwwkwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6/)
+(the same proportion at any scale), whose colour order is pattern [KWWKWWKWWKWWKWKWW](/stripes/kwwkwwkwwkwwkwkww/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10587
 

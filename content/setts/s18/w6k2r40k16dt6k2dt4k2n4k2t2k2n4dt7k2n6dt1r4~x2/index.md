@@ -2,18 +2,20 @@
 title: "Breeding"
 date: 2023-03-18
 ---
-In pattern [RBBKBBKBKBKBKBKRKW](/stripes/rbbkbbkbkbkbkbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6k2dr40k16db6k2db4k2n4k2ba2k2n4db7k2n6db1dr4/)
+(the same proportion at any scale), whose colour order is pattern [RBBKBBKBKBKBKBKRKW](/stripes/rbbkbbkbkbkbkbkrkw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/2005 — Breeding (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347))
-- Dec 2005 — Breeding (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6806/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/2005 — Breeding (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=347">record</a>)</li>
+<li>Dec 2005 — Breeding (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6806/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

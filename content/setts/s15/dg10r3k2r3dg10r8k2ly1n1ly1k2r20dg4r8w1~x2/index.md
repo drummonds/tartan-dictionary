@@ -2,9 +2,10 @@
 title: "Livingstone (Australia) Official"
 date: 2023-03-18
 ---
-In pattern [GRKRGRKYBYKRGRW](/stripes/grkrgrkybykrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10r3k2r3dg10r8k2y1n1y1k2r20dg4r8w1/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRKYBYKRGRW](/stripes/grkrgrkybykrgrw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10076
 

@@ -2,9 +2,10 @@
 title: "St Anne de Portneuf Canadian District Tartan Tartan Number: 5779. Earliest known date: 2002 Ste-Anne-de-Portneuf is a village of about 1000 population on the north shore of the St lawrence River in Quebec. The first permanent residents established themselvs there in 1902 and the original industrialists were mainly of English and Scottish origin whilst the work force was French Canadian. This tartan was woven in cotton by a company called Leclerc. The tartan is unconventional in that it has 10 colours, is non-repeating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWGYRBBYWGYRGBYWY](/stripes/bwgyrbbywgyrgbywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2ln3lt7db1t4r2y6g2ln1lt2db6dr2r4y1g7ln3b2/)
+(the same proportion at any scale), whose colour order is pattern [BWGYRBBYWGYRGBYWY](/stripes/bwgyrbbywgyrgbywy/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5779
 

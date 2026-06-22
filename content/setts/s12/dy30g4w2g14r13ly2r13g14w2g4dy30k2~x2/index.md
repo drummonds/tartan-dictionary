@@ -2,9 +2,10 @@
 title: "Red Rum"
 date: 2023-03-18
 ---
-In pattern [GGWGRYRGWGGK](/stripes/ggwgryrgwggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t30g4w2g14dr13y2dr13g14w2g4t30k2/)
+(the same proportion at any scale), whose colour order is pattern [GGWGRYRGWGGK](/stripes/ggwgryrgwggk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3479
 

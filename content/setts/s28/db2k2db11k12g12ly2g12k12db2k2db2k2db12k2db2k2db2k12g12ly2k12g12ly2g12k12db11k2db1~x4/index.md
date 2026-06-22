@@ -2,9 +2,10 @@
 title: "Gordon"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGKBKBKBKBKBKGYKGYGKBKB](/stripes/bkbkgygkbkbkbkbkbkgykgygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k2db11k12g12y2g12k12db2k2db2k2db12k2db2k2db2k12g12y2k12g12y2g12k12db11k2db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGKBKBKBKBKBKGYKGYGKBKB](/stripes/bkbkgygkbkbkbkbkbkgykgygkbkb/).
 
-This was sourced from logan-1831.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from logan-1831.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link /posts/logans-scottish-gael/
 

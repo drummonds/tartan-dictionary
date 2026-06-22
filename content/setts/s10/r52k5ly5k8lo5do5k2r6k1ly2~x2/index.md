@@ -2,9 +2,10 @@
 title: "Braemar Castle Corporate Tartan Tartan Number: 1628. Earliest known date: 1985 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKYKYBKRKY](/stripes/rkykybkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52k5y5k8lt5dr5k2r6k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RKYKYBKRKY](/stripes/rkykybkrky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1628
 

@@ -2,9 +2,10 @@
 title: "Indigo Blue Works"
 date: 2023-03-18
 ---
-In pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k1ba4k1db18b5k1b1k1b5db4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBBKBKB](/stripes/bbkbkbbkbkb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

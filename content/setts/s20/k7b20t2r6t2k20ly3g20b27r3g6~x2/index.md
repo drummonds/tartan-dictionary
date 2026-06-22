@@ -2,9 +2,10 @@
 title: "Stinson"
 date: 2023-03-18
 ---
-In pattern [GRBGYKBRBBKBBRBKYGBR](/stripes/grbgykbrbbkbbrbkygbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7b20ba2r6ba2k20y3g20b27r3g6/)
+(the same proportion at any scale), whose colour order is pattern [GRBGYKBRBBKBBRBKYGBR](/stripes/grbgykbrbbkbbrbkygbr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3962
 

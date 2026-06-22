@@ -2,9 +2,10 @@
 title: "MacDonald of Glencoe #2"
 date: 2023-03-18
 ---
-In pattern [GYRGRBBRGRBYR](/stripes/gyrgrbbrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5y1ba2dr2g30dr5ba10b1dr42g2dr4y1g4/)
+(the same proportion at any scale), whose colour order is pattern [GYRGRBBRGRBYR](/stripes/gyrgrbbrgrbyr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2362
 

@@ -2,9 +2,10 @@
 title: "Perthshire or Drummond District Tartan Tartan Number: 1670. Earliest known date: c.1819 Perthshire is known as the gateway to the Highlands. The Perthshire tartan is similar to a the Drummond sett, the tartan of a Drummond clan who had extensive lands in the district. The first record of this tartan is in the early nineteenth century account book of Wilson's of Bannockburn where it is referred to as the 'Perthshire Rock and Wheel' being an early type of soft tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWBYGRBBW](/stripes/rwbygrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r41ln2p5y2g21r9p5db3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWBYGRBBW](/stripes/rwbygrbbw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1670
 

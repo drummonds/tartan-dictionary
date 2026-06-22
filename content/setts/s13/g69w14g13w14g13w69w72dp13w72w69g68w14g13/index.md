@@ -2,9 +2,10 @@
 title: "Poulter Millicent"
 date: 2023-03-18
 ---
-In pattern [GWGWGWWBWWGWG](/stripes/gwgwgwwbwwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b69w14b13w14b13ln69w72p13w72ln69b68w14b13/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWWBWWGWG](/stripes/gwgwgwwbwwgwg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11241
 

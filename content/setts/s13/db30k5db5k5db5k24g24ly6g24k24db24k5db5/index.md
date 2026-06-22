@@ -2,9 +2,10 @@
 title: "Lamberton (?)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30k5db5k5db5k24g24y6g24k24db24k5db5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8071/
 

@@ -2,9 +2,10 @@
 title: "St. Christopher"
 date: 2023-03-18
 ---
-In pattern [GYGYGRGRGYGYGY](/stripes/gygygrgrgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24lg8g1dy2g3r3g5r3g3dy2g1lg8g24dy2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGRGRGYGYGY](/stripes/gygygrgrgygygy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3886
 

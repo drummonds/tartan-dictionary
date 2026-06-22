@@ -2,9 +2,10 @@
 title: "The Broons (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGGYGYGKR](/stripes/kggygygkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k1g8dy1t7dy1g19ta25k1/)
+(the same proportion at any scale), whose colour order is pattern [KGGYGYGKR](/stripes/kggygygkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10357/
 

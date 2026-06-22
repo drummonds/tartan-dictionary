@@ -2,9 +2,10 @@
 title: "Prestoungrange/Dolphinstoun/Wills"
 date: 2023-03-18
 ---
-In pattern [BKBKBGKGKGRGBG](/stripes/bkbkbgkgkgrgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3b2g3r4g15k2g2k2g3ba35k2ba2k1ba2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBGKGKGRGBG](/stripes/bkbkbgkgkgrgbg/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

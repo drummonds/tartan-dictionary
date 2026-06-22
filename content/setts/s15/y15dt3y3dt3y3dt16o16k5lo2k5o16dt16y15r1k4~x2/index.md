@@ -2,9 +2,10 @@
 title: "Loseby, Luke (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15dn3g3dn3g3dn16t16k5y2k5t16dn16g15r1k4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBRKYKRBGRK](/stripes/gbgbgbrkykrbgrk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11192
 

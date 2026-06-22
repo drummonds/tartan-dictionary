@@ -2,9 +2,10 @@
 title: "Yarns to Yearn For"
 date: 2023-03-18
 ---
-In pattern [GBYBRBRBRR](/stripes/gbybrbrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr3r23b2r2p2r3b28y2b2lg3/)
+(the same proportion at any scale), whose colour order is pattern [GBYBRBRBRR](/stripes/gbybrbrbrr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11372
 

@@ -2,9 +2,10 @@
 title: "Schmidt (2014)"
 date: 2023-03-18
 ---
-In pattern [KBBBGKGRGY](/stripes/kbbbgkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db20dba8db4g20k2g2r2g3y3/)
+(the same proportion at any scale), whose colour order is pattern [KBBBGKGRGY](/stripes/kbbbgkgrgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11046
 

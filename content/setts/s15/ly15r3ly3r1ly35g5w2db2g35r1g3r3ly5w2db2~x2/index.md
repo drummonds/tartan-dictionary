@@ -2,9 +2,10 @@
 title: "Keilar (2013)"
 date: 2023-03-18
 ---
-In pattern [BWYRGRGBWGYRYRY](/stripes/bwyrgrgbwgyryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y15r3y3r1y35g5w2db2g35r1g3r3y5w2db2/)
+(the same proportion at any scale), whose colour order is pattern [BWYRGRGBWGYRYRY](/stripes/bwyrgrgbwgyryry/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10853/
 

@@ -2,9 +2,10 @@
 title: "McGovern (2016)"
 date: 2023-03-18
 ---
-In pattern [BRGGG](/stripes/brggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn62ta4t10k3g21/)
+(the same proportion at any scale), whose colour order is pattern [BRGGG](/stripes/brggg/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11552
 

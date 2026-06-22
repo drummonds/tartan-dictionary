@@ -2,9 +2,10 @@
 title: "WCWM 3947"
 date: 2023-03-18
 ---
-In pattern [RBYBRRGW](/stripes/rbybrrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2b30y3b2n16r2g16ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBYBRRGW](/stripes/rbybrrgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8259/
 

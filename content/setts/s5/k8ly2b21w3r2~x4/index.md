@@ -2,9 +2,10 @@
 title: "Oklahoma"
 date: 2023-03-18
 ---
-In pattern [KYBWR](/stripes/kybwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8y2ba21ln3r2/)
+(the same proportion at any scale), whose colour order is pattern [KYBWR](/stripes/kybwr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4820
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Oklahoma State
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/03/1998 — Oklahoma (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4820))
-- March 1998 — Oklahoma (US State) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2429/))
-- undated — Oklahoma State American District Tartan Tartan Number: 2429. Earliest known date: March 1998 Registration application to the Authority documents Polly Wittering as the designer but the Resolution adopted by the House of Representatives on 6th April 1999, identifies Jerrel R. Murray as the 'creator' (possibly President Emeritus of United Scottish Clans of Oklahoma). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2429))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/1998 — Oklahoma (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4820">record</a>)</li>
+<li>March 1998 — Oklahoma (US State) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2429/">record</a>)</li>
+<li>undated — Oklahoma State American District Tartan Tartan Number: 2429. Earliest known date: March 1998 Registration application to the Authority documents Polly Wittering as the designer but the Resolution adopted by the House of Representatives on 6th April 1999, identifies Jerrel R. Murray as the 'creator' (possibly President Emeritus of United Scottish Clans of Oklahoma). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2429">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

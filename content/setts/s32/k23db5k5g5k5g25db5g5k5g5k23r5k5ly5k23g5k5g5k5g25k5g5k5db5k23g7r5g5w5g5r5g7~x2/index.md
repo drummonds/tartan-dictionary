@@ -2,9 +2,10 @@
 title: "Franconian"
 date: 2023-03-18
 ---
-In pattern [GRGWGRGKBKGKGKGKGKYKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkykrkgkgbgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db23b5db5g5db5g25dba5g5db5g5db23r5db5y5db23g5db5g5db5g25db5g5db5b5db23g7r5g5ln5g5r5g7/)
+(the same proportion at any scale), whose colour order is pattern [GRGWGRGKBKGKGKGKGKYKRKGKGBGKGKBK](/stripes/grgwgrgkbkgkgkgkgkykrkgkgbgkgkbk/).
 
-This was sourced from weddslist.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from weddslist.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

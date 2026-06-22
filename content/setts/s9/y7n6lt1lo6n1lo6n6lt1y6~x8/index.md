@@ -2,9 +2,10 @@
 title: "Outlander #2"
 date: 2023-03-18
 ---
-In pattern [GBWYBYBWG](/stripes/gbwybybwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n7na6lb1lt6na1lt6na6lb1n6/)
+(the same proportion at any scale), whose colour order is pattern [GBWYBYBWG](/stripes/gbwybybwg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11114
 

@@ -2,18 +2,20 @@
 title: "Robertson of Kindeace"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKY](/stripes/bkbkbkgkrkgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2db2k12dg16k1dr3k1dg16k12db12k1n3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKY](/stripes/bkbkbkgkrkgkbky/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Robertson of Kindeace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Robertson of Kindeace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Robertson of Kindeace (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Robertson of Kindeace (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/24 K4 DB4 K4 DB4 K24 DG32 K2 DR6 K2 DG32 K24 DB24 K2 N/6

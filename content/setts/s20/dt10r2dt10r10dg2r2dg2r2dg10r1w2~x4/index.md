@@ -2,9 +2,10 @@
 title: "North Berwick Pipe Band District Tartan Tartan Number: 2342. Earliest known date: 1990 Designed by Donald Fraser for the North Berwick Pipe Band dancers for their visit to Maine USA in 1990. The Pipe Band itself normally wears McKenzie. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRGRWRGRGRGRBR](/stripes/brbrgrgrgrwrgrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r2db10r10dg2r2dg2r2dg10r1w2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGRWRGRGRGRBR](/stripes/brbrgrgrgrwrgrgrgrbr/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2342
 

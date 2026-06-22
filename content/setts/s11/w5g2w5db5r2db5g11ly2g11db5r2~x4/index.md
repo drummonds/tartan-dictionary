@@ -2,18 +2,20 @@
 title: "Kremlin Zoria"
 date: 2023-03-18
 ---
-In pattern [RBGYGBRBWGW](/stripes/rbgygbrbwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5g2ln5db5r2db5g11y2g11db5r2/)
+(the same proportion at any scale), whose colour order is pattern [RBGYGBRBWGW](/stripes/rbgygbrbwgw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2007 — Kremlin Zoria (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016))
-- August 2007 — Kremlin Zoria (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7290/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2007 — Kremlin Zoria (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2016">record</a>)</li>
+<li>August 2007 — Kremlin Zoria (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7290/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

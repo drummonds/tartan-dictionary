@@ -2,9 +2,10 @@
 title: "American Express Corporate Tartan Tartan Number: 2354. Earliest known date: April 1997 American Express began operating in Glasgow in 1903 and in 1920 acquired WA Williamson Ltd of Glasgow. This tartan (commissioned by VP Donald Daly) was designed for the 1997 American Association of Travel Agents conference in Glasgow and based on the MacWilliam tartan. For more details see archives. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBRBGWGBRB](/stripes/bbrbgwgbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9dr1db5g5n2g5db5dr1b9db2/)
+(the same proportion at any scale), whose colour order is pattern [BBRBGWGBRB](/stripes/bbrbgwgbrb/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2354
 

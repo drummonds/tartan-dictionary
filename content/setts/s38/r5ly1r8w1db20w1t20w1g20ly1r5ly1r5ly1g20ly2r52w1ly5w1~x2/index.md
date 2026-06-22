@@ -2,9 +2,10 @@
 title: "Whitworth"
 date: 2023-03-18
 ---
-In pattern [RYRWBWBWGYRYRYGYRWYWYWRYGYRYRYGWBWBWRY](/stripes/ryrwbwbwgyryrygyrwywywrygyryrygwbwbwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5y1r8w1db20w1b20w1g20y1r5y1r5y1g20y2r52w1y5w1/)
+(the same proportion at any scale), whose colour order is pattern [RYRWBWBWGYRYRYGYRWYWYWRYGYRYRYGWBWBWRY](/stripes/ryrwbwbwgyryrygyrwywywrygyryrygwbwbwry/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4619
 

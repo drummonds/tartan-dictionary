@@ -2,9 +2,10 @@
 title: "Drummond of Megginch - 1969 Carpet"
 date: 2023-03-18
 ---
-In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12db3r4db4r36lb6r4db18r4g2r4g36r4db4r8/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-This was sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmegginch/
 

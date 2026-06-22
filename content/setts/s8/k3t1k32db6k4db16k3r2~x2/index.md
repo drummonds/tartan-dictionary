@@ -2,9 +2,10 @@
 title: "Little of Morton Rigg Red (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKR](/stripes/kbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b1k32db6k4db16k3r2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKR](/stripes/kbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Little of Morton Rigg Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2007 — Little of Morton Rigg Red (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128))
-- June 2007 — Little of Morton Rigg Red (Personal (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7238/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2007 — Little of Morton Rigg Red (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2128">record</a>)</li>
+<li>June 2007 — Little of Morton Rigg Red (Personal (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7238/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

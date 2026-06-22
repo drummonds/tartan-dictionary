@@ -2,9 +2,10 @@
 title: "U.S. Merchant Marine Academy (Corpo"
 date: 2023-03-18
 ---
-In pattern [RBRYRYR](/stripes/rbryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n37dy2dr6dy2n8db49n3/)
+(the same proportion at any scale), whose colour order is pattern [RBRYRYR](/stripes/rbryryr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7749/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - U.S. Merchant Marine Academy (Corpo
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- August 2008 — U.S. Merchant Marine Academy (Corpo (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7749/))
-- undated — U.S. Merchant Marine Academy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5730))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>August 2008 — U.S. Merchant Marine Academy (Corpo (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7749/">record</a>)</li>
+<li>undated — U.S. Merchant Marine Academy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5730">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

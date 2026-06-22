@@ -2,9 +2,10 @@
 title: "Cameron of Erracht"
 date: 2023-03-18
 ---
-In pattern [GRGRGKRBRBY](/stripes/grgrgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1g1r3g16k16r1db16r3db8y2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKRBRBY](/stripes/grgrgkrbrby/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cameron of Erracht Regimental
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cameron of Erracht (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Cameron of Erracht (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cameron of Erracht (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Cameron of Erracht (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/8 R1 G1 R3 G16 K16 R1 DB16 R3 DB8 Y/2

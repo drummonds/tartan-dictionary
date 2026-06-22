@@ -2,9 +2,10 @@
 title: "Grant or New Bruce Clan Tartan Tartan Number: 1385. Earliest known date: 1819 As ordered by Patrick Grant of Redcastle, the chief of the Clan Grant. The large red and the large green squares have been reduced by a factor of 4 to allow display. The original sett was S15 P2 S4 P4 S156 LB2 S4 P42 S6 G4 S6 G178 S4 P4 S10 (HSHP half sett half pivot). This tartan was also adopted by the Drummonds. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBRGRGRBRBRBRBR](/stripes/bbrgrgrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12p2r4p4r39b2r4p11r6g4r6g45r4p4db10/)
+(the same proportion at any scale), whose colour order is pattern [BBRGRGRBRBRBRBR](/stripes/bbrgrgrbrbrbrbr/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1385
 

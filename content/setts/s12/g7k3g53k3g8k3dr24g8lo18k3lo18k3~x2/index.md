@@ -2,9 +2,10 @@
 title: "MacMillan - 1847 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBGYKYK](/stripes/gkgkgkbgykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7k3g53k3g8k3dr24g8dy18k3dy18k3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBGYKYK](/stripes/gkgkgkbgykyk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2025/
 

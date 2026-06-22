@@ -2,9 +2,10 @@
 title: "Paisley Fancy Reduced"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKY](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k2b3k2b2k3b2k11g2k4g3k3g4k2g5k2g55r4g11r11ln4r66k2r5k2r4k3r3k4r2k11g15k2y4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKY](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgky/).
 
-This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

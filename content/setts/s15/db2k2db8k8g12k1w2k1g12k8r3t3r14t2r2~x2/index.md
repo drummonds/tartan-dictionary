@@ -2,9 +2,10 @@
 title: "Unidentified - C20th"
 date: 2023-03-18
 ---
-In pattern [BKBKGKWKGKRBRBR](/stripes/bkbkgkwkgkrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k2db8k8g12k1w2k1g12k8r3b3r14b2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKRBRBR](/stripes/bkbkgkwkgkrbrbr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7337/
 

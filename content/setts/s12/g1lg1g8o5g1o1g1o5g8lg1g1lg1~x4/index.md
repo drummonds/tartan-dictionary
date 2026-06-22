@@ -2,9 +2,10 @@
 title: "O'Neill Pipe Band 1983"
 date: 2023-03-18
 ---
-In pattern [GYGRGRGRGYGY](/stripes/gygrgrgrgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1b1g8do5g1do1g1do5g8b1g1b1/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGRGRGYGY](/stripes/gygrgrgrgygy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3249
 

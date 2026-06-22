@@ -2,9 +2,10 @@
 title: "Saskatchewan District Tartan Tartan Number: 1817. Earliest known date: 1959 The colours chosen are the same as those for the flag. Red for the Blood of Christ, blue for the Heavenly Father, yellow for Fire of the Holy Spirit when tongues of fire symbolized his presence at Penticost. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WKGGYRYY](/stripes/wkggyryy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1g6t11y26r2y1ya2/)
+(the same proportion at any scale), whose colour order is pattern [WKGGYRYY](/stripes/wkggyryy/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1817
 

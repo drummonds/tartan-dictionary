@@ -2,9 +2,10 @@
 title: "Spirit of India"
 date: 2023-03-18
 ---
-In pattern [BWBWBBGWRBBBW](/stripes/bwbwbbgwrbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32w2db1w2b4db1g8w8r8db1b16db1w4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBBGWRBBBW](/stripes/bwbwbbgwrbbbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10676
 

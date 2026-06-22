@@ -2,18 +2,20 @@
 title: "Hong Kong, University of"
 date: 2023-03-18
 ---
-In pattern [WKWKGKWKYGRKY](/stripes/wkwkgkwkygrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k1r2g6lg5k1b5k1g42k1w2k1w2/)
+(the same proportion at any scale), whose colour order is pattern [WKWKGKWKYGRKY](/stripes/wkwkgkwkygrky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 04/06/2012 — Hong Kong, University of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713))
-- undated — Hong Kong, University of Corporate Tartan Tartan Number: 10713. Earliest known date: 11 October 2012 Gifted by Aberdeen University to Hong Kong University on the occasion of Hong Kong University's centenary in 2012. Granted in 1913, the University Arms are reflected in this centenary tartan: the red and gold represent the lion on its field of red; azure and light green symbolise Hong Kong's island status; the narrow black lines on white denote the open book in the Arms and the University's role in learning and knowledge. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10713))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>04/06/2012 — Hong Kong, University of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10713">record</a>)</li>
+<li>undated — Hong Kong, University of Corporate Tartan Tartan Number: 10713. Earliest known date: 11 October 2012 Gifted by Aberdeen University to Hong Kong University on the occasion of Hong Kong University's centenary in 2012. Granted in 1913, the University Arms are reflected in this centenary tartan: the red and gold represent the lion on its field of red; azure and light green symbolise Hong Kong's island status; the narrow black lines on white denote the open book in the Arms and the University's role in learning and knowledge. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10713">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

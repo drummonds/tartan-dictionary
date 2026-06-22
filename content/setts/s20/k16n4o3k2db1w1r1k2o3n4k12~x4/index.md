@@ -2,9 +2,10 @@
 title: "Iron Horse (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRKRWBKRBKBRKBWRKRBK](/stripes/brkrwbkrbkbrkbwrkrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16n4na3k2db1ln1r1k2na3n4k12/)
+(the same proportion at any scale), whose colour order is pattern [BRKRWBKRBKBRKBWRKRBK](/stripes/brkrwbkrbkbrkbwrkrbk/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3820/
 

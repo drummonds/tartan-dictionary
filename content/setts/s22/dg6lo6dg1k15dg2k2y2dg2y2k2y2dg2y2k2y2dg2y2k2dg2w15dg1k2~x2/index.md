@@ -2,9 +2,10 @@
 title: "International College of Dentists (Canadian Section) Dress"
 date: 2023-03-18
 ---
-In pattern [GYGKGKGGGKGGGKGGGKGWGK](/stripes/gygkgkgggkgggkgggkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6y6g1k15g2k2lt2g2lt2k2lt2g2lt2k2lt2g2lt2k2g2w15g1k2/)
+(the same proportion at any scale), whose colour order is pattern [GYGKGKGGGKGGGKGGGKGWGK](/stripes/gygkgkgggkgggkgggkgwgk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10746
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - International College of Dentists Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/09/2012 — International College of Dentists (Canadian Section) Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10746))
-- undated — International College of Dentist Corporate Tartan Tartan Number: 10746. Earliest known date: 14/09/2012 The International College of Dentists (ICD) is a worldwide honorary dental organisation established in 1927. Fellowship is by invitation only and recognises the professional achievements and service of individual dentists. The ICD is dedicated to the progress of dentistry and it funds many humanitarian projects throughout the world. Colours: the green and gold in this tartan are the colours of the ICD and the "houndstooth" portion is made up of 15 lines to represent the 15 sections of the College. The Canadian Section is the first section to have its own tartan. The tartan will be woven and made into items such as bow-ties and sashes, and worn at the annual convocation. The Dress version of the tartan is the same as the original design (STR ref.10482) except for the substitution of white 30 instead of dark green 30 in the threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10746))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/09/2012 — International College of Dentists (Canadian Section) Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10746">record</a>)</li>
+<li>undated — International College of Dentist Corporate Tartan Tartan Number: 10746. Earliest known date: 14/09/2012 The International College of Dentists (ICD) is a worldwide honorary dental organisation established in 1927. Fellowship is by invitation only and recognises the professional achievements and service of individual dentists. The ICD is dedicated to the progress of dentistry and it funds many humanitarian projects throughout the world. Colours: the green and gold in this tartan are the colours of the ICD and the "houndstooth" portion is made up of 15 lines to represent the 15 sections of the College. The Canadian Section is the first section to have its own tartan. The tartan will be woven and made into items such as bow-ties and sashes, and worn at the annual convocation. The Dress version of the tartan is the same as the original design (STR ref.10482) except for the substitution of white 30 instead of dark green 30 in the threadcount. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10746">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

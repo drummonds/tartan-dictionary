@@ -2,9 +2,10 @@
 title: "Letham Personal Tartan Tartan Number: 6718. Earliest known date: pre 2005 Jimmy said, in his recording application, \"To allow my family to wear a single tartan\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGBKBKG](/stripes/bkgbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40k20db10k4db7g13k4db4/)
+(the same proportion at any scale), whose colour order is pattern [BKGBKBKG](/stripes/bkgbkbkg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6718
 

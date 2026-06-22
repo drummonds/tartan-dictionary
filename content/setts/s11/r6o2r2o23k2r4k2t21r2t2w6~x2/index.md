@@ -2,9 +2,10 @@
 title: "IRPA (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RRRRKRKBRBW](/stripes/rrrrkrkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6n2r2n23k2r4k2b21r2b2w6/)
+(the same proportion at any scale), whose colour order is pattern [RRRRKRKBRBW](/stripes/rrrrkrkbrbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10602/
 

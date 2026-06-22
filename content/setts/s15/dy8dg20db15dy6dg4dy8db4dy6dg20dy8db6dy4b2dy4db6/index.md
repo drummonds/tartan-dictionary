@@ -2,9 +2,10 @@
 title: "Unidentified Fragment #2"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGBGGGBGG](/stripes/bgbgbgggbgggbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8g20b15t6g4t8b4t6g20t8b6t4ba2t4b6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGBGGGBGG](/stripes/bgbgbgggbgggbgg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4296
 

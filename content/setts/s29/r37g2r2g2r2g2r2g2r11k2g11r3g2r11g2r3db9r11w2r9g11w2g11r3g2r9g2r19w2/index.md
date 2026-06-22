@@ -2,9 +2,10 @@
 title: "MacDonald of Staffa 3"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRKGRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrkgrgrgrbrwrgwgrgrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r37g2r2g2r2g2r2g2r11k2g11r3g2r11g2r3db9r11ln2r9g11ln2g11r3g2r9g2r19ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRKGRGRGRBRWRGWGRGRGRW](/stripes/rgrgrgrgrkgrgrgrbrwrgwgrgrgrw/).
 
-This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

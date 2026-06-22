@@ -2,9 +2,10 @@
 title: "Brides Plaid"
 date: 2023-03-18
 ---
-In pattern [RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW](/stripes/rwwbwgbwbwwwbwbwbwbwbwbwwwbwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4w1lp2dp4w1dg2p8w1dp2lp2w1lp2dp2w1dp16w1dp6w1dp6w1dp16w1dp2lp2w1lp2dp2w1r8lr6w1/)
+(the same proportion at any scale), whose colour order is pattern [RWWBWGBWBWWWBWBWBWBWBWBWWWBWRRW](/stripes/rwwbwgbwbwwwbwbwbwbwbwbwwwbwrrw/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=350
 

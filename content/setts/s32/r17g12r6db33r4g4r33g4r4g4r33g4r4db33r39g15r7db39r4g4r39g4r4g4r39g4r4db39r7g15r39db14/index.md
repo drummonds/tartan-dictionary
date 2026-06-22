@@ -2,9 +2,10 @@
 title: "Na Fir Dileas (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRGRBRGRGRGRGRBRGRBRGRGRGRGRBRGR](/stripes/brgrbrgrgrgrgrbrgrbrgrgrgrgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r17g12r6db33r4g4r33g4r4g4r33g4r4db33r39g15r7db39r4g4r39g4r4g4r39g4r4db39r7g15r39db14/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRGRGRGRGRBRGRBRGRGRGRGRBRGR](/stripes/brgrbrgrgrgrgrbrgrbrgrgrgrgrbrgr/).
 
-This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10435/
 

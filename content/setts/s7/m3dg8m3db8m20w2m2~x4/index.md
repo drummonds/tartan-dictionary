@@ -2,9 +2,10 @@
 title: "Unnamed C21st (Lady's Jacket) (Fash)"
 date: 2023-03-18
 ---
-In pattern [RGRBRWR](/stripes/rgrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3g8p3db8p20w2p2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRWR](/stripes/rgrbrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8417/
 

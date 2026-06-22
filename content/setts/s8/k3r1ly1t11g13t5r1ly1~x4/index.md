@@ -2,9 +2,10 @@
 title: "Snodgrass (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRYBGBRY](/stripes/krybgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1y1b11g13b5r1y1/)
+(the same proportion at any scale), whose colour order is pattern [KRYBGBRY](/stripes/krybgbry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1216/
 

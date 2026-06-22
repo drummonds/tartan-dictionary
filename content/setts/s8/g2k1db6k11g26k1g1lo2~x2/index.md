@@ -2,9 +2,10 @@
 title: "Mackie (2016)"
 date: 2023-03-18
 ---
-In pattern [GKBKGKGY](/stripes/gkbkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2g1k1g26k11db6k1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKGY](/stripes/gkbkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11645
 

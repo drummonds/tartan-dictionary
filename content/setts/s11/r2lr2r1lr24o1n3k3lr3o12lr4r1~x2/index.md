@@ -2,9 +2,10 @@
 title: "Dabney Grey (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYRYKBRYRYR](/stripes/ryrykbryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2n2dr1n24nb1na3k3n3nb12n4dr1/)
+(the same proportion at any scale), whose colour order is pattern [RYRYKBRYRYR](/stripes/ryrykbryryr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7878/
 

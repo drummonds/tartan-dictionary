@@ -2,9 +2,10 @@
 title: "Killin"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRYRKRKRKRKRKRKRWRKR](/stripes/krkrkrkrkryrkrkrkrkrkrkrwrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k26dr2k6dr2k26dr4k4dr4k4dr18dy2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20ln2dr20k4dr9/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRYRKRKRKRKRKRKRWRKR](/stripes/krkrkrkrkryrkrkrkrkrkrkrwrkr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1972
 

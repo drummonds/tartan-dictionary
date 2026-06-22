@@ -2,9 +2,10 @@
 title: "Scragg Moran (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKRWRKYKG](/stripes/gbkrwrkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1db28k11dr5lr1dr5k11lg1k2g1/)
+(the same proportion at any scale), whose colour order is pattern [GBKRWRKYKG](/stripes/gbkrwrkykg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10381
 

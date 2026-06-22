@@ -2,9 +2,10 @@
 title: "Greenshields (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGKRKGYGYGKGYGYGKRKGYGK](/stripes/gygkrkgygygkgygygkrkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20y4g18k16dr3k10g4y26g20y4g20k4g20y4g20y26g4k10dr3k16g18y4g20k4/)
+(the same proportion at any scale), whose colour order is pattern [GYGKRKGYGYGKGYGYGKRKGYGK](/stripes/gygkrkgygygkgygygkrkgygk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1531
 

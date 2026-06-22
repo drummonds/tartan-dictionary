@@ -2,9 +2,10 @@
 title: "MacAulay (MacGregor)"
 date: 2023-03-18
 ---
-In pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r96b1g24b1r10b1g12k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [RBGBRBGKW](/stripes/rbgbrbgkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2286
 

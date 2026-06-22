@@ -2,9 +2,10 @@
 title: "J & B Whisky (Original)"
 date: 2023-03-18
 ---
-In pattern [KRKGWGKRKRKGWGKRKR](/stripes/krkgwgkrkrkgwgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/yy14r3yy7g26w6g26yy16r3yy16r3yy16g26w6g26yy7r3yy14r4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGWGKRKRKGWGKRKR](/stripes/krkgwgkrkrkgwgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1872
 

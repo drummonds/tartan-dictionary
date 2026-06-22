@@ -2,18 +2,20 @@
 title: "Philippine Heritage (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWYWR](/stripes/bwywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30w4y1w4r30/)
+(the same proportion at any scale), whose colour order is pattern [BWYWR](/stripes/bwywr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10660/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 16/07/2012 — Philippine Heritage (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10660/))
-- undated — Philippine Heritage Corporate Tartan Tartan Number: 10660. Earliest known date: 16/07/2012 The colours of this tartan are taken from the flag of the Philippines. Colours: white represents peace and purity; yellow represents independence from Spain; blue represents patriotism and justice; red represents the blood spilt for freedom and independence. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10660))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>16/07/2012 — Philippine Heritage (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10660/">record</a>)</li>
+<li>undated — Philippine Heritage Corporate Tartan Tartan Number: 10660. Earliest known date: 16/07/2012 The colours of this tartan are taken from the flag of the Philippines. Colours: white represents peace and purity; yellow represents independence from Spain; blue represents patriotism and justice; red represents the blood spilt for freedom and independence. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10660">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/120 W16 Y4 W16 R/120

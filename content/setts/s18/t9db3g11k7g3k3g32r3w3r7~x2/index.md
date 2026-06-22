@@ -2,9 +2,10 @@
 title: "Lyons Tartan Tartan Number: 6515. Earliest known date: 2002 Designed by Linda Clifford of Bethel, Maine for Christina Lyons in honour of her parents Golden Wedding Anniversary in February 2003. The tartan combines two shades of green for the Irish side of the family and red and white for the Croatian side (her mother). Woven by Strathmore Woollen Co., of Forfar, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGKGKGRWRWRGKGKGB](/stripes/bbgkgkgrwrwrgkgkgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9db3ga11k7g3k3g32r3ln3r7/)
+(the same proportion at any scale), whose colour order is pattern [BBGKGKGRWRWRGKGKGB](/stripes/bbgkgkgrwrwrgkgkgb/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6515
 

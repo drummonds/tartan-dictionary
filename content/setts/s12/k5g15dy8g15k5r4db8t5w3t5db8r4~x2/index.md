@@ -2,9 +2,10 @@
 title: "Anderson (Blackwood) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGGGKRBBWBBR](/stripes/kgggkrbbwbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g15t8g15k5r4db8b5ln3b5db8r4/)
+(the same proportion at any scale), whose colour order is pattern [KGGGKRBBWBBR](/stripes/kgggkrbbwbbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10296/
 

@@ -2,9 +2,10 @@
 title: "MacDonald 6"
 date: 2023-03-18
 ---
-In pattern [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r1k1r4k7r1k7g6r5g1r1g5/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKRKRKRK](/stripes/grgrgkrkrkrk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

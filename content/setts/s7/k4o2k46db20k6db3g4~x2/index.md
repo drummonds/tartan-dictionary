@@ -2,9 +2,10 @@
 title: "Silver Thistle (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBKBKRK](/stripes/gbkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n2k46dba20k6db3g4/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKRK](/stripes/gbkbkrk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6686/
 

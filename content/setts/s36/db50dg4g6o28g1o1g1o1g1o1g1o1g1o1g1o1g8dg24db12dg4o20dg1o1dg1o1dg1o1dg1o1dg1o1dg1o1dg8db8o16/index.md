@@ -2,9 +2,10 @@
 title: "Nova, Scotia"
 date: 2023-03-18
 ---
-In pattern [BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR](/stripes/bggrgrgrgrgrgrgrggbgrgrgrgrgrgrgrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b50dg4g6lt28g1lt1g1lt1g1lt1g1lt1g1lt1g1lt1g8dg24b12dg4lt20dg1lt1dg1lt1dg1lt1dg1lt1dg1lt1dg1lt1dg8b8lt16/)
+(the same proportion at any scale), whose colour order is pattern [BGGRGRGRGRGRGRGRGGBGRGRGRGRGRGRGRGBR](/stripes/bggrgrgrgrgrgrgrggbgrgrgrgrgrgrgrgbr/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

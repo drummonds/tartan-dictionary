@@ -2,9 +2,10 @@
 title: "Ellis Island (District)"
 date: 2023-03-18
 ---
-In pattern [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr68k1g6b4g1b12w1g6y1g24y1g2y3/)
+(the same proportion at any scale), whose colour order is pattern [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10364/
 

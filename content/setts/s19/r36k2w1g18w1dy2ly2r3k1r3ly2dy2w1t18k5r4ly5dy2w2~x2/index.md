@@ -2,9 +2,10 @@
 title: "Chattan Clan Tartan Tartan Number: 1620. Earliest known date: pre 2003 This sett includes a brown stripe next to the yellow which does not appear in the records of Lord Lyon. The sett is similar in other respects. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKWGWGYRKRYGWBKRYGW](/stripes/rkwgwgyrkrygwbkrygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36k2ln1g18ln1t2y2r3k1r3y2t2ln1b18k5r4y5t2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKWGWGYRKRYGWBKRYGW](/stripes/rkwgwgyrkrygwbkrygw/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1620
 

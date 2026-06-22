@@ -2,9 +2,10 @@
 title: "Livingston (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRKRKRGRWGW](/stripes/grkrkrgrwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g26r5k1r2k1r5g16r5ln16g2ln8/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKRGRWGW](/stripes/grkrkrgrwgw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Livingstone
 - Livingstone Wedding Dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1996 — Livingston (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131))
-- 1996 — Livingston (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2565/))
-- 1996 — Livingstone (Wedding) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7372/))
-- undated — Livingstone Wedding Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Livingston (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2131">record</a>)</li>
+<li>1996 — Livingston (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2565/">record</a>)</li>
+<li>1996 — Livingstone (Wedding) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7372/">record</a>)</li>
+<li>undated — Livingstone Wedding Dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

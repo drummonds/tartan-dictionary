@@ -2,9 +2,10 @@
 title: "Haines Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBBGBGBGR](/stripes/bybbgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g6ba1g1ba1g1ba3dn8y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBBGBGBGR](/stripes/bybbgbgbgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11352
 

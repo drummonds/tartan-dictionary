@@ -2,18 +2,20 @@
 title: "Kelly of Sleat (Name)"
 date: 2023-03-18
 ---
-In pattern [RKRBGKGBGBKW](/stripes/rkrbgkgbgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k4dr28p4g4k10g4p4g4p8k1ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKRBGKGBGBKW](/stripes/rkrbgkgbgbkw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3072/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1995 — Kelly of Sleat (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3072/))
-- undated — Kelly of Sleat Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5251))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1995 — Kelly of Sleat (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3072/">record</a>)</li>
+<li>undated — Kelly of Sleat Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5251">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

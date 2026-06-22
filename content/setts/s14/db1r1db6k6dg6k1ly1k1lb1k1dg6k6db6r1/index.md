@@ -2,9 +2,10 @@
 title: "Malcolm"
 date: 2023-03-18
 ---
-In pattern [BRBKGKYKWKGKBR](/stripes/brbkgkykwkgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1r1db6k6g6k1y1k1n1k1g6k6db6r1/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGKYKWKGKBR](/stripes/brbkgkykwkgkbr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

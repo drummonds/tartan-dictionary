@@ -2,9 +2,10 @@
 title: "Brandon (Manitoba) (District)"
 date: 2023-03-18
 ---
-In pattern [RKYGKY](/stripes/rkygky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do84k35n3g35k3y10/)
+(the same proportion at any scale), whose colour order is pattern [RKYGKY](/stripes/rkygky/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1884/
 

@@ -2,9 +2,10 @@
 title: "MacInnes Ancient Hunting"
 date: 2023-03-18
 ---
-In pattern [RKWRKBKBKYRWBW](/stripes/rkwrkbkbkyrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln8b3ln10do8y2k4b3k2b3k2r3ln1k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWRKBKBKYRWBW](/stripes/rkwrkbkbkyrwbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2473
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacInnes, Ancient hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacInnes Ancient Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2473))
-- undated — MacInnes, Ancient hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacInnes Ancient Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2473">record</a>)</li>
+<li>undated — MacInnes, Ancient hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Glen Lyon (District)"
 date: 2023-03-18
 ---
-In pattern [BGK](/stripes/bgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g4b3/)
+(the same proportion at any scale), whose colour order is pattern [BGK](/stripes/bgk/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/24/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mull
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1819 — Glen Lyon (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/24/))
-- pre 2002 — Mull (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/162/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1819 — Glen Lyon (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/24/">record</a>)</li>
+<li>pre 2002 — Mull (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/162/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/10 G8 B/6

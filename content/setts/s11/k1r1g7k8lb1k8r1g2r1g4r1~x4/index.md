@@ -2,9 +2,10 @@
 title: "Episcopal Clergy (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRGKWKRGRGR](/stripes/krgkwkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dr1g7k8n1k8dr1g2dr1g4dr1/)
+(the same proportion at any scale), whose colour order is pattern [KRGKWKRGRGR](/stripes/krgkwkrgrgr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4816/
 

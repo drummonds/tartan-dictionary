@@ -2,9 +2,10 @@
 title: "Scottish N. A. Business Council (Co"
 date: 2023-03-18
 ---
-In pattern [RBBBRBBRBW](/stripes/rbbbrbbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2dba6db6dba2r2dba4db6r2dba2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBBBRBBRBW](/stripes/rbbbrbbrbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6910/
 

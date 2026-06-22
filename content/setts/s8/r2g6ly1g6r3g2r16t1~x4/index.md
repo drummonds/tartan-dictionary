@@ -2,9 +2,10 @@
 title: "Burnett of Leys Family Tartan Tartan Number: 2355. Earliest known date: Unknown In Scottish Tartan Society Files but source unknown. At present woven by Lochcarron. The entry in the Lyon Court Books does not define the pattern. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRGRGYGR](/stripes/brgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g6y1g6r3g2r16b1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGYGR](/stripes/brgrgygr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2355
 

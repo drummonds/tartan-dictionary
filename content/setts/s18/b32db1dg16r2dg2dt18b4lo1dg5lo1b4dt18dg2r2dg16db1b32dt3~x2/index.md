@@ -2,18 +2,20 @@
 title: "Heriot Watt University"
 date: 2023-03-18
 ---
-In pattern [BBBGRGBBYGYBBGRGBB](/stripes/bbbgrgbbygybbgrgbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba32db1gb16dr2gb2dn18ba4dy1gb5dy1ba4dn18gb2dr2gb16db1ba32dn3/)
+(the same proportion at any scale), whose colour order is pattern [BBBGRGBBYGYBBGRGBB](/stripes/bbbgrgbbygybbgrgbb/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1693
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/1996 — Heriot Watt University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1693))
-- undated — Heriot Watt University Corporate Tartan Tartan Number: 2407. Earliest known date: 1996 Created in 1996 for the 30th anniversary of the Grant of the University's charter. Count from a tie supplied by the Development Officer of the University. Sample in STA's Johnston Collection- notes say from MacPhersons of Edinburgh by Ingles Buchan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2407))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/1996 — Heriot Watt University (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1693">record</a>)</li>
+<li>undated — Heriot Watt University Corporate Tartan Tartan Number: 2407. Earliest known date: 1996 Created in 1996 for the 30th anniversary of the Grant of the University's charter. Count from a tie supplied by the Development Officer of the University. Sample in STA's Johnston Collection- notes say from MacPhersons of Edinburgh by Ingles Buchan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2407">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

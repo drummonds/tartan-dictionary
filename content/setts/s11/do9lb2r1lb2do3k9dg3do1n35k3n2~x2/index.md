@@ -2,9 +2,10 @@
 title: "Donohoe Grey, Peter (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BKBBGKBWRWB](/stripes/bkbbgkbwrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr9lb2r1lb2dr3k9dg3dr1n35k3n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBBGKBWRWB](/stripes/bkbbgkbwrwb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10630/
 

@@ -2,9 +2,10 @@
 title: "Plowman #2 (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRGYRGRBGRGW](/stripes/rbrgrbrgyrgrbgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2dp17r2g3r2dp2r20g1y1r1g2r2dp18g2r24g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRGYRGRBGRGW](/stripes/rbrgrbrgyrgrbgrgw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5855
 

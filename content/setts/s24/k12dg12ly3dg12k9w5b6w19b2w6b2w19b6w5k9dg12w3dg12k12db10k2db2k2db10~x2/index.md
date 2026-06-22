@@ -2,9 +2,10 @@
 title: "Campbell Dress #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g12y3g12k9ln5ba6ln19ba2ln6ba2ln19ba6ln5k9g12ln3g12k12b10k2b2k2b10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=508
 

@@ -2,9 +2,10 @@
 title: "Grant - 1714 (Piper) (Portrait)"
 date: 2023-03-18
 ---
-In pattern [KWRKWGKRKGKR](/stripes/kwrkwgkrkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr24k2g8k2lr8k1g24lb6k2lr14lb18k4/)
+(the same proportion at any scale), whose colour order is pattern [KWRKWGKRKGKR](/stripes/kwrkwgkrkgkr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4115/
 

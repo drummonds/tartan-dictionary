@@ -2,9 +2,10 @@
 title: "Kirkton"
 date: 2023-03-18
 ---
-In pattern [GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY](/stripes/gybybybygygygygygyggbgbggygygygygygybybybygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4na1n4na1n3na1n2na1ga4na1ga3na1ga2na1lt4na1lt3na1lt2g3n2g10n2g3lt2na1lt3na1lt4na1ga2na1ga3na1ga4na1n2na1n3na1n4na1g4na2/)
+(the same proportion at any scale), whose colour order is pattern [GYBYBYBYGYGYGYGYGYGGBGBGGYGYGYGYGYGYBYBYBYGY](/stripes/gybybybygygygygygyggbgbggygygygygygybybybygy/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2006
 

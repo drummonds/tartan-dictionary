@@ -2,9 +2,10 @@
 title: "Kerry (WCWM)"
 date: 2023-03-18
 ---
-In pattern [RRKYKRKBYBY](/stripes/rrkykrkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n24p3n8p5k3r3k3n3k3lp24r4/)
+(the same proportion at any scale), whose colour order is pattern [RRKYKRKBYBY](/stripes/rrkykrkbyby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5114
 

@@ -2,9 +2,10 @@
 title: "State Seal of Kansas (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WYGYKYBGY](/stripes/wygykybgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy5g23b21lt30k10lt4g4lt16lr3/)
+(the same proportion at any scale), whose colour order is pattern [WYGYKYBGY](/stripes/wygykybgy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8630/
 

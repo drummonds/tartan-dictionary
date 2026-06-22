@@ -2,9 +2,10 @@
 title: "Scott (MacRae)"
 date: 2023-03-18
 ---
-In pattern [KBWKWBWBWRWBWBWKWBKR](/stripes/kbwkwbwbwrwbwbwkwbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4db2ln1k16ln1db3ln16db2ln6r2ln6db2ln16db3ln1k16ln1db2k4r2/)
+(the same proportion at any scale), whose colour order is pattern [KBWKWBWBWRWBWBWKWBKR](/stripes/kbwkwbwbwrwbwbwkwbkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3693
 

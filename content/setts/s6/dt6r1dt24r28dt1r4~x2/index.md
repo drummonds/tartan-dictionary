@@ -2,9 +2,10 @@
 title: "Mary Erskine School, The"
 date: 2023-03-18
 ---
-In pattern [BRBRBR](/stripes/brbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn6dr1dn24dr28dn1dr4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBR](/stripes/brbrbr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mary Erskine School, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1993 — Mary Erskine School, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843))
-- pre 2002 — Mary Erskin (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2185/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Mary Erskine School, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2843">record</a>)</li>
+<li>pre 2002 — Mary Erskin (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2185/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

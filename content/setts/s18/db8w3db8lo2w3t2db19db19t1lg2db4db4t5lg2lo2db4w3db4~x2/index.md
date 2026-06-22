@@ -2,9 +2,10 @@
 title: "Coast & Glen (Fishbox) Ltd"
 date: 2023-03-18
 ---
-In pattern [BWBYWBBBBYBBBYYBWB](/stripes/bwbywbbbbybbbyybwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8w3db8dy2w3b2dba19db19b1lg2dba4db4b5lg2dy2dba4w3db4/)
+(the same proportion at any scale), whose colour order is pattern [BWBYWBBBBYBBBYYBWB](/stripes/bwbywbbbbybbbyybwb/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11631
 

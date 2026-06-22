@@ -2,9 +2,10 @@
 title: "Red Lichtie (District)"
 date: 2023-03-18
 ---
-In pattern [WRRRRRRRRBBRBYRYRY](/stripes/wrrrrrrrrbbrbyryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3r2dr1r9dr1r2dr2r1dr27db1b2dr1db11dy1dr2dy1dr2dy1/)
+(the same proportion at any scale), whose colour order is pattern [WRRRRRRRRBBRBYRYRY](/stripes/wrrrrrrrrbbrbyryry/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10662/
 

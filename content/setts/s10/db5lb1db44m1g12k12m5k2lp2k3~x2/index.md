@@ -2,9 +2,10 @@
 title: "Heart of Scotland Fancy Tartan Tartan Number: 4230. Earliest known date: 1999 October 1999. Designed by Lochcarron of Scotland for 'Gavin' Kiltmaker. They use it for their hire kilts. Colour checked against sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBRGKRKWK](/stripes/bwbrgkrkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5n1db44pa1g12k12pa5k2lpa2k3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRGKRKWK](/stripes/bwbrgkrkwk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4230
 

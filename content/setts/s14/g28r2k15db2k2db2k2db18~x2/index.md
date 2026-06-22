@@ -2,9 +2,10 @@
 title: "Riddoch Personal Tartan Tartan Number: 5856. Earliest known date: circa 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a private and personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investgator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRGRKBKBK](/stripes/bkbkbkrgrkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r2k15db2k2db2k2db18/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRGRKBKBK](/stripes/bkbkbkrgrkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5856
 

@@ -2,9 +2,10 @@
 title: "Drummond of Strathallan or Ogilvy"
 date: 2023-03-18
 ---
-In pattern [BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/bygwgykrwrkygykrkrkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3y3g5w3g5y3k5r5w3r5k3y8g5y8k3r3k3r3k3r3k3y8g5y8k3r5w3r5k5y3g5w3g5y3db3r3k3r13w1db1w1r13w1db1w1r13k3r3db3y8g5y3g5y8k13w1db3w1k13r5w3r5w3r5k3y3g13k3g13k3g13y3k3r5w3r5w3r5k3y3g5w3/)
+(the same proportion at any scale), whose colour order is pattern [BYGWGYKRWRKYGYKRKRKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/bygwgykrwrkygykrkrkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
 
-This was sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
+Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Drummond of Strathallan or Ogilvy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1812 — Drummond of Strathallan or Ogilvy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992))
-- 1812 — Drummond of Strathallan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/671/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1812 — Drummond of Strathallan or Ogilvy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=992">record</a>)</li>
+<li>1812 — Drummond of Strathallan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/671/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

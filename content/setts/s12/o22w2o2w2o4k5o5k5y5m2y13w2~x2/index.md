@@ -2,9 +2,10 @@
 title: "Glen Nevis"
 date: 2023-03-18
 ---
-In pattern [RWRWRKRKGRGW](/stripes/rwrwrkrkgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt22ln2lt2ln2lt4k5lt5k5n5dr2n13ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKRKGRGW](/stripes/rwrwrkrkgrgw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

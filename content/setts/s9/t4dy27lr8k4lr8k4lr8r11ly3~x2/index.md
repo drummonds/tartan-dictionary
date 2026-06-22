@@ -2,9 +2,10 @@
 title: "Brittany Hunting French Fancy Tartan Tartan Number: 5977. Earliest known date: 2003 For Richard and Anne-Marie Duclos of Le Coudray-Montceaux, France. Based on the Breton National at 3902. The term Randonnée (Walking) is used in the sense of the Scottish category, Hunting. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGYKYKYRY](/stripes/bgykykyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4t27n8k4n8k4n8r11y3/)
+(the same proportion at any scale), whose colour order is pattern [BGYKYKYRY](/stripes/bgykykyry/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5977
 

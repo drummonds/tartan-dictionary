@@ -2,9 +2,10 @@
 title: "Sabrettes"
 date: 2023-03-18
 ---
-In pattern [KWRKWKRKRWKWRWGWRWKWRKRKWKRWKR](/stripes/kwrkwkrkrwkwrwgwrwkwrkrkwkrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r15k5w2n7k4w8k2r26k5n2w2k7w2r5w2g2/)
+(the same proportion at any scale), whose colour order is pattern [KWRKWKRKRWKWRWGWRWKWRKRKWKRWKR](/stripes/kwrkwkrkrwkwrwgwrwkwrkrkwkrwkr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3632
 

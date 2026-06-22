@@ -2,9 +2,10 @@
 title: "Scozia (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBRBGBW](/stripes/bbbbrbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn3db4dn24db6r3db4g3db8ln3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBRBGBW](/stripes/bbbbrbgbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4204/
 

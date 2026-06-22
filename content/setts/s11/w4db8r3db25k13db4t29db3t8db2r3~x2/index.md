@@ -2,9 +2,10 @@
 title: "Royal Air Force Regimental Tartan Tartan Number: 2123. Earliest known date: 1988 The Royal Air Force initially declined to approve this tartan for members of the Air Services. However the tartan was worn by Scottish ex-servicemen and those who have served in Scotland and became quite popular. In 2002 it was officially adopted by the RAF. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBBBBBKBRBW](/stripes/rbbbbbkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db8dr3db25k13dba4b29db3b8db2dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBBKBRBW](/stripes/rbbbbbkbrbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2123
 

@@ -2,9 +2,10 @@
 title: "Royal Stewart, (Variant)"
 date: 2023-03-18
 ---
-In pattern [GBKYKWKRGKGW](/stripes/gbkykwkrgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32b2k7y1k1ln1k2r7g5k1g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBKYKWKRGKGW](/stripes/gbkykwkrgkgw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

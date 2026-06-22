@@ -2,9 +2,10 @@
 title: "Murray of Ochtertyre #2"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKR](/stripes/krkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30r3k2r3k2r27k30r4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKR](/stripes/krkrkrkr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8415/
 

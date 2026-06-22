@@ -2,9 +2,10 @@
 title: "Saunders (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYKYBYBYR](/stripes/kykykybybyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1y1k1y1k1y1na46n17na4n16r1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYBYBYR](/stripes/kykykybybyr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10109/
 

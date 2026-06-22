@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bybywyyy/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">BYBYWYYY</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/do2lo2do15lo1w10lo15lo2lo2~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BYBYWYYY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

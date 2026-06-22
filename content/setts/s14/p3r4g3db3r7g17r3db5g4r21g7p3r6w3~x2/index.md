@@ -2,9 +2,10 @@
 title: "MacKinnon 10"
 date: 2023-03-18
 ---
-In pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3r4g3b3r7g17r3b5g4r21g7p3r6ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Robertson Htg - 1816 (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/299/
 

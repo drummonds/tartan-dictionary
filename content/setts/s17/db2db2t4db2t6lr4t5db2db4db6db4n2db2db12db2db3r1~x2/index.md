@@ -2,18 +2,20 @@
 title: "Fulbright, Senator (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBYBBBBBBBBBBR](/stripes/bbbbbybbbbbbbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba2db2b4dba2b6na4b5dba2db4dba6db4n2dba2db12dba2db3r1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBYBBBBBBBBBBR](/stripes/bbbbbybbbbbbbbbbr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Fulbright, Senator (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288))
-- pre 2006 — Fulbright, Senator (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7032/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Fulbright, Senator (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1288">record</a>)</li>
+<li>pre 2006 — Fulbright, Senator (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7032/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

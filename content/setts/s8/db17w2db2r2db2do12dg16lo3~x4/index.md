@@ -2,9 +2,10 @@
 title: "Blairmore House"
 date: 2023-03-18
 ---
-In pattern [BWBRBBGY](/stripes/bwbrbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17w2db2dr2db2k12g16dy3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBBGY](/stripes/bwbrbbgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=294
 

@@ -2,9 +2,10 @@
 title: "MacLachlan #3"
 date: 2023-03-18
 ---
-In pattern [RKRKBKGKBKRKRKR](/stripes/rkrkbkgkbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12k2r2k2r2k10b10k1g3k1b12k10r12k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKBKGKBKRKRKR](/stripes/rkrkbkgkbkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2583
 

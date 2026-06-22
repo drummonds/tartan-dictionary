@@ -2,18 +2,20 @@
 title: "Manderson #2"
 date: 2023-03-18
 ---
-In pattern [KRKGKRBRBW](/stripes/krkgkrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2n10k5g8k12r20b16r4b5ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKRBRBW](/stripes/krkgkrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Manderson #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802))
-- Unknown — Manderson #2 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5713/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Manderson #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2802">record</a>)</li>
+<li>Unknown — Manderson #2 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5713/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

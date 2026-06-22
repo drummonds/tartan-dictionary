@@ -2,9 +2,10 @@
 title: "Capco"
 date: 2023-03-18
 ---
-In pattern [KWKWBKBW](/stripes/kwkwbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k31w1k2w2dn3k2b4w2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWBKBW](/stripes/kwkwbkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11380
 

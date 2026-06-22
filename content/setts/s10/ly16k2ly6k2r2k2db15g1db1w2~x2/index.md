@@ -2,9 +2,10 @@
 title: "Otago Corporate District Tartan Tartan Number: 2317. Earliest known date: 1996 Otago's colours are blue and gold. White on blue is the St Andrews Cross, gold is for the gold discovered in Otago. The black divides the gold to show that the miners came from the four quarters of the world. Red is for the blood ties in the Old Country and black for mourning loved ones never to be seen again. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBGBKRKYKY](/stripes/wbgbkrkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y16k2y6k2r2k2db15g1db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBGBKRKYKY](/stripes/wbgbkrkyky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2317
 

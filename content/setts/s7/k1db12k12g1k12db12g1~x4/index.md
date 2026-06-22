@@ -2,9 +2,10 @@
 title: "Marchmont (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKGKBK](/stripes/gbkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1db12k12g1k12db12g1/)
+(the same proportion at any scale), whose colour order is pattern [GBKGKBK](/stripes/gbkgkbk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2521/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Marchmont Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1997 — Marchmont (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2521/))
-- undated — Marchmont Personal Tartan Tartan Number: 2521. Earliest known date: 1997 Designed by Keith Lumsden of Scottish Tartans Society. A tartan for personal blankets and clothing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2521))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1997 — Marchmont (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2521/">record</a>)</li>
+<li>undated — Marchmont Personal Tartan Tartan Number: 2521. Earliest known date: 1997 Designed by Keith Lumsden of Scottish Tartans Society. A tartan for personal blankets and clothing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2521">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 DB48 K48 G4 K48 DB48 G/4

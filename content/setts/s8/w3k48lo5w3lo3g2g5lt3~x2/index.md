@@ -2,9 +2,10 @@
 title: "Pavelka Limited"
 date: 2023-03-18
 ---
-In pattern [WGGYWYKW](/stripes/wggywykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3k48lt5w3lt3g2b5lb3/)
+(the same proportion at any scale), whose colour order is pattern [WGGYWYKW](/stripes/wggywykw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11144
 

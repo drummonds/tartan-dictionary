@@ -2,9 +2,10 @@
 title: "Ohio"
 date: 2023-03-18
 ---
-In pattern [BWRBYGBBG](/stripes/bwrbygbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba16ln6r8ba3y1g1b3ba1g9/)
+(the same proportion at any scale), whose colour order is pattern [BWRBYGBBG](/stripes/bwrbygbbg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

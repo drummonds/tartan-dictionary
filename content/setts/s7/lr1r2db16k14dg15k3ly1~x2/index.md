@@ -2,18 +2,20 @@
 title: "MacNeil"
 date: 2023-03-18
 ---
-In pattern [YKGKBRY](/stripes/ykgkbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1dr2db16k14dg15k3lg1/)
+(the same proportion at any scale), whose colour order is pattern [YKGKBRY](/stripes/ykgkbry/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNeil (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacNeil (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNeil (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacNeil (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/2 DR4 DB32 K28 DG30 K6 LG/2

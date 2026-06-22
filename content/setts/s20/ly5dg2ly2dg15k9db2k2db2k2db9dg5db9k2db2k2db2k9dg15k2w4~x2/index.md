@@ -2,9 +2,10 @@
 title: "Fyvie"
 date: 2023-03-18
 ---
-In pattern [WKGKBKBKBGBKBKBKGYGY](/stripes/wkgkbkbkbgbkbkbkgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5g2y2g15k9b2k2b2k2b9g5b9k2b2k2b2k9g15k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKGKBKBKBGBKBKBKGYGY](/stripes/wkgkbkbkbgbkbkbkgygy/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6001
 

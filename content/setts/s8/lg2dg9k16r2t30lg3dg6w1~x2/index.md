@@ -2,9 +2,10 @@
 title: "Climb, The"
 date: 2023-03-18
 ---
-In pattern [WGYBRKGY](/stripes/wgybrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg2k9dr16r2b30lg3k6w1/)
+(the same proportion at any scale), whose colour order is pattern [WGYBRKGY](/stripes/wgybrkgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10807
 

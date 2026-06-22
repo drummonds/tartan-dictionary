@@ -2,9 +2,10 @@
 title: "Lochaber (Scrapbook)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBGWGWGWG](/stripes/brbrbrbgwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t10n2t6n12t2n6t2ta10w2ta6w12ta2w6ta1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBGWGWGWG](/stripes/brbrbrbgwgwgwg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2164
 

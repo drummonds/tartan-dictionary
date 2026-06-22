@@ -2,9 +2,10 @@
 title: "Stevens #4"
 date: 2023-03-18
 ---
-In pattern [BYKYKWKRBKBW](/stripes/bykykwkrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p27y2k3dy2k2w2k2n6p3k2p2w2/)
+(the same proportion at any scale), whose colour order is pattern [BYKYKWKRBKBW](/stripes/bykykwkrbkbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3923
 

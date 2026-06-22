@@ -2,18 +2,20 @@
 title: "Cascade Summers"
 date: 2023-03-18
 ---
-In pattern [BYRGBKWKBRBK](/stripes/byrgbkwkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ba13lt11b3k10n2k10b3g6lt3ga13b3/)
+(the same proportion at any scale), whose colour order is pattern [BYRGBKWKBRBK](/stripes/byrgbkwkbrbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1993 — Cascade Summers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585))
-- 1993 — Cascade Summers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2195/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Cascade Summers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=585">record</a>)</li>
+<li>1993 — Cascade Summers (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2195/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

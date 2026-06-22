@@ -2,9 +2,10 @@
 title: "Sempill"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRGKBKGRKBKB](/stripes/bkbkbkrgkbkgrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22k3b3k3b3k15r2g19k1ba3k1g19r2k15b19k3b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRGKBKGRKBKB](/stripes/bkbkbkrgkbkgrkbkb/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

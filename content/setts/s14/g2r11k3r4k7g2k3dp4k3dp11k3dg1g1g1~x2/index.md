@@ -2,9 +2,10 @@
 title: "King, Garry (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGKBKBKGKRKRG](/stripes/gggkbkbkgkrkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg2r11k3r4k7lg2k3p4k3p11k3g1ga1lg1/)
+(the same proportion at any scale), whose colour order is pattern [GGGKBKBKGKRKRG](/stripes/gggkbkbkgkrkrg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11329
 

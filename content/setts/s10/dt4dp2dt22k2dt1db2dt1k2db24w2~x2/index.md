@@ -2,9 +2,10 @@
 title: "Spirit of Wales (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBKBBBKBW](/stripes/bbbkbbbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn4p2dn22k2dn1db2dn1k2db24ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBBBKBW](/stripes/bbbkbbbkbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6495/
 

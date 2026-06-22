@@ -2,9 +2,10 @@
 title: "Tara (District)"
 date: 2023-03-18
 ---
-In pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r2k6dy2k2n2k2t16g24r2g4k3/)
+(the same proportion at any scale), whose colour order is pattern [KGRGGKWKYKRK](/stripes/kgrggkwkykrk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1103/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Murphy/Tara
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1967 — Tara (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1103/))
-- 01/01/1978 — Murphy/Tara (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1967 — Tara (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1103/">record</a>)</li>
+<li>01/01/1978 — Murphy/Tara (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4071">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

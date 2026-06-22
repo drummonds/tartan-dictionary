@@ -2,9 +2,10 @@
 title: "Clergy"
 date: 2023-03-18
 ---
-In pattern [YKYGYKGKGKYKYGYKY](/stripes/ykygykgkgkykygyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na1k5na1n4na1k26na1k10n5k2n5k10na1n4na1k5na1/)
+(the same proportion at any scale), whose colour order is pattern [YKYGYKGKGKYKYGYKY](/stripes/ykygykgkgkykygyky/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

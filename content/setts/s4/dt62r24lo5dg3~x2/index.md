@@ -2,9 +2,10 @@
 title: "Meaux (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRYG](/stripes/bryg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db62dr24dy5dg3/)
+(the same proportion at any scale), whose colour order is pattern [BRYG](/stripes/bryg/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10738/
 

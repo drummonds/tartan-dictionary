@@ -2,9 +2,10 @@
 title: "Erskine Green"
 date: 2023-03-18
 ---
-In pattern [GWGWGW](/stripes/gwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6ln2g29ln29g2ln6/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGW](/stripes/gwgwgw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1126
 

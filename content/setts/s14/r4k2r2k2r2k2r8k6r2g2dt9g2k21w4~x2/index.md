@@ -2,9 +2,10 @@
 title: "Hitchens, William Henry (Commem)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRKRGBGKW](/stripes/rkrkrkrkrgbgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2r2k2r2k2dr8k6dr2g2db9g2k21ln4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRKRGBGKW](/stripes/rkrkrkrkrgbgkw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10251/
 

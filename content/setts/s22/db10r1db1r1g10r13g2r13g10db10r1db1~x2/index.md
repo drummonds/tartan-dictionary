@@ -2,9 +2,10 @@
 title: "Inverness Fencibles"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRGRBRBRBRGRGRGBR](/stripes/brbgrgrgrbrbrbrgrgrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r1db1r1g10r13g2r13g10db10r1db1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRGRBRBRBRGRGRGBR](/stripes/brbgrgrgrbrbrbrgrgrgbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1846
 

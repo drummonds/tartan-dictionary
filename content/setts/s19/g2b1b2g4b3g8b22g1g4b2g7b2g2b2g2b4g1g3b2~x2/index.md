@@ -2,9 +2,10 @@
 title: "Wiregrass (District)"
 date: 2023-03-18
 ---
-In pattern [BGGBGBGBGBGGBGBGBBG](/stripes/bggbgbgbgbggbgbgbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2g3ga1ba4ga2ba2g2ba2ga7ba2g4ga1ba22g8ba3g4ba2b1ga2/)
+(the same proportion at any scale), whose colour order is pattern [BGGBGBGBGBGGBGBGBBG](/stripes/bggbgbgbgbggbgbgbbg/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8521/
 

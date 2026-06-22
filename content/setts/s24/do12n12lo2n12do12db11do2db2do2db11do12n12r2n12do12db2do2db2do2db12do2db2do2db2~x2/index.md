@@ -2,9 +2,10 @@
 title: "Bartlam (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBRBBBBBBBBBYBB](/stripes/bbbbbbbbbbbrbbbbbbbbbybb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12n12dy2n12dr12db11dr2db2dr2db11dr12n12dra2n12dr12db2dr2db2dr2db12dr2db2dr2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBRBBBBBBBBBYBB](/stripes/bbbbbbbbbbbrbbbbbbbbbybb/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4973
 

@@ -2,9 +2,10 @@
 title: "Innes (D C Stewart)"
 date: 2023-03-18
 ---
-In pattern [KGRKRKRYRBRKGKRW](/stripes/kgrkrkryrbrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g12r2k2r2k2r16y2r3db6r3k1g8k1r3w2/)
+(the same proportion at any scale), whose colour order is pattern [KGRKRKRYRBRKGKRW](/stripes/kgrkrkryrbrkgkrw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1828
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Innes 6 Colours
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1950 — Innes (D C Stewart) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1828))
-- pre 1951 — Innes 6 Colours (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1109/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — Innes (D C Stewart) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1828">record</a>)</li>
+<li>pre 1951 — Innes 6 Colours (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1109/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

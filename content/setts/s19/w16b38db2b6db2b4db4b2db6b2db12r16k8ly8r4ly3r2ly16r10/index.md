@@ -2,9 +2,10 @@
 title: "Declaration of Scottish Independence"
 date: 2023-03-18
 ---
-In pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w16b38db2b6db2b4db4b2db6b2db12dr16k8y8dr4y3dr2y16dr10/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11182/
 

@@ -2,9 +2,10 @@
 title: "Glen Trool District Tartan Tartan Number: 914. Earliest known date: pre 1945 Glen Trool is in the Galloway Uplands in the Southwest of Scotland. The tartan began life as a trade sett - a colourful fashion fabric - and was given a name merely to identify it. It proved very popular and is now recognised as a District Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGRG](/stripes/gggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg37t9dg3r9t3/)
+(the same proportion at any scale), whose colour order is pattern [GGGRG](/stripes/gggrg/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=914
 

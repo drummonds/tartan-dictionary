@@ -2,9 +2,10 @@
 title: "Spey"
 date: 2023-03-18
 ---
-In pattern [BGRGBGRGBGRBGW](/stripes/bgrgbgrgbgrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1n1r1n1db1n1r1n1db1n1r1b1n1ln1/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBGRGBGRBGW](/stripes/bgrgbgrgbgrbgw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11653
 

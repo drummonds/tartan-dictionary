@@ -2,9 +2,10 @@
 title: "Mullikin (2013)"
 date: 2023-03-18
 ---
-In pattern [RBBGBBWR](/stripes/rbbgbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5w4db6dba2g43dba2db4r3/)
+(the same proportion at any scale), whose colour order is pattern [RBBGBBWR](/stripes/rbbgbbwr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10863/
 

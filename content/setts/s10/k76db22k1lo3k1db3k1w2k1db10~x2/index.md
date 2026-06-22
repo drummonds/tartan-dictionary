@@ -2,9 +2,10 @@
 title: "Canberra, City of District Tartan Tartan Number: 4449. Earliest known date: pre 2002 Count from a Stathmore Woollen sample. Designed by Peter Burrows and Stewart Smith with tech support from Strathmore. For the exclusive use by Messrs Scottish Flair, Queanbeyan, Australia. Colours represented; DB for the Canberra flag. Gold (yellow) and white for the stars on the Canberra flag. mb for the Canberra Bluebell. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKWKBKYKBK](/stripes/bkwkbkykbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db76dba22k1dy3k1dba3k1w2k1dba10/)
+(the same proportion at any scale), whose colour order is pattern [BKWKBKYKBK](/stripes/bkwkbkykbk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4449
 

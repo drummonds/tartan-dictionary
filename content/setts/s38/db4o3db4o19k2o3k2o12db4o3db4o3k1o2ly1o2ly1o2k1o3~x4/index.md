@@ -2,9 +2,10 @@
 title: "Washington Stockmens"
 date: 2023-03-18
 ---
-In pattern [BRBRKRKRBRBRKRYRYRKRKRYRYRKRBRBRKRKRBR](/stripes/brbrkrkrbrbrkryryrkrkryryrkrbrbrkrkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n3db4n19k2n3k2n12db4n3db4n3k1n2y1n2y1n2k1n3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKRKRBRBRKRYRYRKRKRYRYRKRBRBRKRKRBR](/stripes/brbrkrkrbrbrkryryrkrkryryrkrbrbrkrkrbr/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4496
 

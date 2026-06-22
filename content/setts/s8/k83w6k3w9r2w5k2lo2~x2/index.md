@@ -2,9 +2,10 @@
 title: "Crane of Cluny Mourning"
 date: 2023-03-18
 ---
-In pattern [KWKWRWKY](/stripes/kwkwrwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k83w6k3w9r2w5k2do2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWRWKY](/stripes/kwkwrwky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6002
 

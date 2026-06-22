@@ -2,9 +2,10 @@
 title: "Wells, Edward G. (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKYKBKGGGGKGKRK](/stripes/bkykbkggggkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k4y3k4db14k4ga4g6ga3g10k10g9k3r3k4/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBKGGGGKGKRK](/stripes/bkykbkggggkgkrk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4013/
 

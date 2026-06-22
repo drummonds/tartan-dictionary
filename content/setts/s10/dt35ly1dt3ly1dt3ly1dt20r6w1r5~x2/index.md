@@ -2,19 +2,21 @@
 title: "Alpha Chi Sigma Fraternity"
 date: 2023-03-18
 ---
-In pattern [BYBYBYBRWR](/stripes/bybybybrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db35y1db3y1db3y1db20r6ln1r5/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYBRWR](/stripes/bybybybrwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=63
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2005 — Alpha Chi Sigma Fraternity (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=63))
-- 2005 — Alpha Chi Sigma Fraternity (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6688/))
-- undated — Alpha Chi Sigma Fraternity Corporate Tartan Tartan Number: 6688. Earliest known date: 2005 The Alpha Chi Sigma Fraternity is a Professional Chemistry Fraternity, founded in 1902, which promotes the advancement of chemistry both as a science and as a profession. The Fraternity is a not-for-profit corporation of the United States of America. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6688))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Alpha Chi Sigma Fraternity (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=63">record</a>)</li>
+<li>2005 — Alpha Chi Sigma Fraternity (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6688/">record</a>)</li>
+<li>undated — Alpha Chi Sigma Fraternity Corporate Tartan Tartan Number: 6688. Earliest known date: 2005 The Alpha Chi Sigma Fraternity is a Professional Chemistry Fraternity, founded in 1902, which promotes the advancement of chemistry both as a science and as a profession. The Fraternity is a not-for-profit corporation of the United States of America. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6688">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

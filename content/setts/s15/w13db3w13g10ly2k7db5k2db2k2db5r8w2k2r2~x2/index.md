@@ -2,9 +2,10 @@
 title: "MacPherson, dress"
 date: 2023-03-18
 ---
-In pattern [RKWRBKBKBKYGWBW](/stripes/rkwrbkbkbkygwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln13b3ln13g10y2k7b5k2b2k2b5r8ln2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWRBKBKBKYGWBW](/stripes/rkwrbkbkbkygwbw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacPherson, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacPherson, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPherson Dress Clan Tartan Tartan Number: 1615. Earliest known date: pre 2003 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1615))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacPherson, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPherson Dress Clan Tartan Tartan Number: 1615. Earliest known date: pre 2003 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1615">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/26 B6 LN26 G20 Y4 K14 B10 K4 B4 K4 B10 R16 LN4 K4 R/4

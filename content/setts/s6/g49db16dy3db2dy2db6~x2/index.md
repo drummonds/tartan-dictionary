@@ -2,9 +2,10 @@
 title: "Royal and Ancient, The"
 date: 2023-03-18
 ---
-In pattern [BGBGBG](/stripes/bgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g49db16t3db2t2db6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBG](/stripes/bgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal and Ancient, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1993 — Royal and Ancient, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584))
-- 1993 — Royal & Ancient (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2193/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Royal and Ancient, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3584">record</a>)</li>
+<li>1993 — Royal & Ancient (Sports) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2193/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

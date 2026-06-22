@@ -2,9 +2,10 @@
 title: "Cornish National"
 date: 2023-03-18
 ---
-In pattern [KWYKWKYWKR](/stripes/kwykwkywkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3lb7dy26k26w5k26dy26lb7k3r3/)
+(the same proportion at any scale), whose colour order is pattern [KWYKWKYWKR](/stripes/kwykwkywkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=766
 

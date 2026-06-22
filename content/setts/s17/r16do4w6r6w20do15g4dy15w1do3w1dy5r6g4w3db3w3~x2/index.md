@@ -2,9 +2,10 @@
 title: "Jacobite Dress General Tartan Tartan Number: 1665. Earliest known date: pre 2003 See Jacobite file for report on 2nd pivot. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBWRWBGGWBWGRGWBW](/stripes/rbwrwbggwbwgrgwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16dr4ln6r6ln20dr15g4t15ln1dr3ln1t5r6g4ln3db3ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBWRWBGGWBWGRGWBW](/stripes/rbwrwbggwbwgrgwbw/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1665
 

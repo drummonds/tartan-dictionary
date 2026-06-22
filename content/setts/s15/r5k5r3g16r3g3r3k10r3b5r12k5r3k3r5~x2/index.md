@@ -2,9 +2,10 @@
 title: "Grant of Ballindalloch"
 date: 2023-03-18
 ---
-In pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db5r3g16r3g3r3db10r3b5r12db5r3db3r5/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRGRKRBRKRKR](/stripes/rkrgrgrkrbrkrkr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

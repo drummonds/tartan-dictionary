@@ -2,9 +2,10 @@
 title: "Glenfalloch"
 date: 2023-03-18
 ---
-In pattern [KRKWRWGWRGKW](/stripes/krkwrwgwrgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r1db12ln1r4ln1g4ln1dr4g12db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKWRWGWRGKW](/stripes/krkwrwgwrgkw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

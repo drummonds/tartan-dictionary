@@ -2,9 +2,10 @@
 title: "Malcolm Dress (Lochcarron 2005)"
 date: 2023-03-18
 ---
-In pattern [KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK](/stripes/kgkykbkgkbrbrbkwbwbwbwbwkwbwbwbwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7g9k2y2k2db2k2g9k7db7r2db3r2db7k7w2db2w11db2w3db2w11db2w2k7w2db2w11db2w3db2w11db2w2k7/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKBKGKBRBRBKWBWBWBWBWKWBWBWBWBWK](/stripes/kgkykbkgkbrbrbkwbwbwbwbwkwbwbwbwbwk/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2796
 

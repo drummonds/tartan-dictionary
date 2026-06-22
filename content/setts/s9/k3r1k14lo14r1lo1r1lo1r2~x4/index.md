@@ -2,9 +2,10 @@
 title: "Brecheen"
 date: 2023-03-18
 ---
-In pattern [KRKYRYRYR](/stripes/krkyryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dr1k14dy14dr1dy1dr1dy1dr2/)
+(the same proportion at any scale), whose colour order is pattern [KRKYRYRYR](/stripes/krkyryryr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5078
 

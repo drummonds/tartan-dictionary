@@ -2,9 +2,10 @@
 title: "Stuart of Bute St Colmac"
 date: 2023-03-18
 ---
-In pattern [RWGWGWGRW](/stripes/rwgwgwgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16lp8na1lp2na1lp1na8n34w2/)
+(the same proportion at any scale), whose colour order is pattern [RWGWGWGRW](/stripes/rwgwgwgrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10777
 

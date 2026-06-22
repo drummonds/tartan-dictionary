@@ -2,9 +2,10 @@
 title: "Reid Family Tartan Tartan Number: 2066. Earliest known date: 1991 Designed for Mr. William Reid, President of DELCO Scottish games. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WRGRGBGKGRGRW](/stripes/wrgrgbgkgrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1r2g10r2g2k8g2db8g2r2g10r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGBGKGRGRW](/stripes/wrgrgbgkgrgrw/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2066
 

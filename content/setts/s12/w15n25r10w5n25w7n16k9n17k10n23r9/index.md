@@ -2,9 +2,10 @@
 title: "North Carolina State University"
 date: 2023-03-18
 ---
-In pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w15n25r10w5n25w7n16k9n17k10n23r9/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11133/
 

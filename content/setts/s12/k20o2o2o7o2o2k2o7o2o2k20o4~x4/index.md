@@ -2,9 +2,10 @@
 title: "Black Forest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRRRRRKRRRKR](/stripes/krrrrrkrrrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20t2lt2t7lt2t2k2lt7t2lt2k20t4/)
+(the same proportion at any scale), whose colour order is pattern [KRRRRRKRRRKR](/stripes/krrrrrkrrrkr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3694/
 

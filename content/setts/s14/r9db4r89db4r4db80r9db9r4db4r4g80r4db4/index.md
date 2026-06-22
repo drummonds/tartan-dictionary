@@ -2,18 +2,20 @@
 title: "Fraser of Altyre"
 date: 2023-03-18
 ---
-In pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9b4r89b4r4b80r9b9r4b4r4g80r4b4/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRBRBRBRBR](/stripes/brgrbrbrbrbrbr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Fraser of Altyre (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Fraser of Altyre Clan Tartan Tartan Number: 528. Earliest known date: (c.1850) Proportional count of silk sample from Messrs Andersons of Edinburgh (now Kinloch Anderson). MacGregor-Hastie was of the opinion that the sett could be dated to around 1850, based on the story of an 'old lady' (c.1938) who said that a kilt of this pattern had been in the family for generations. The MacGregor-Hastie collection is housed at the Scottish Tartans Museum, Stirling. (1994) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=528))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Fraser of Altyre (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Fraser of Altyre Clan Tartan Tartan Number: 528. Earliest known date: (c.1850) Proportional count of silk sample from Messrs Andersons of Edinburgh (now Kinloch Anderson). MacGregor-Hastie was of the opinion that the sett could be dated to around 1850, based on the story of an 'old lady' (c.1938) who said that a kilt of this pattern had been in the family for generations. The MacGregor-Hastie collection is housed at the Scottish Tartans Museum, Stirling. (1994) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=528">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/9 B4 R89 B4 R4 B80 R9 B9 R4 B4 R4 G80 R4 B/4

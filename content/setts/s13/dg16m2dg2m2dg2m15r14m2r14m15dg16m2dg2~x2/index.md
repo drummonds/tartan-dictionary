@@ -2,9 +2,10 @@
 title: "MacNab (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16lr2g2lr2g2lr15r14lr2r14lr15g16lr2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/857/
 

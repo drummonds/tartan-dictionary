@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Black #2"
 date: 2023-03-18
 ---
-In pattern [KBWKYKWKGRKRW](/stripes/kbwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k58b5ln5k10y3k3ln3k3g14r11k3r4ln3/)
+(the same proportion at any scale), whose colour order is pattern [KBWKYKWKGRKRW](/stripes/kbwkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3996
 

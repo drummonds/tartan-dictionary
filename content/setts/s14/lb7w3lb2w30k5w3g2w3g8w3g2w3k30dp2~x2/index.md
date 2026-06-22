@@ -2,9 +2,10 @@
 title: "Wiseman Dairies Corporate Tartan Tartan Number: 2393. Earliest known date: 1997 The colours and the sett are inspired by the well known black and white graphic designs of Wiseman's milk and cream packets, a moving landmark of the early morning City of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKWGWGWGWKWWWW](/stripes/bkwgwgwgwkwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp7ln3lp2ln30k5ln3g2ln3g8ln3g2ln3k30dp2/)
+(the same proportion at any scale), whose colour order is pattern [BKWGWGWGWKWWWW](/stripes/bkwgwgwgwkwwww/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2393
 

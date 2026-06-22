@@ -2,9 +2,10 @@
 title: "MacLellan/McLellan Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKRBKBWBKBRGY](/stripes/kbkrbkbwbkbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db7k5r2db5k2db5ln1db5k1db5r2g7y2/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBKBWBKBRGY](/stripes/kbkrbkbwbkbrgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLellan/McLellan Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacLellan/McLellan Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624))
-- pre 2002 — MacLellan Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1382/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacLellan/McLellan Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2624">record</a>)</li>
+<li>pre 2002 — MacLellan Htg (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1382/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

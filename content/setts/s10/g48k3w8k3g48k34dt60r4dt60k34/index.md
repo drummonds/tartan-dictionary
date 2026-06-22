@@ -2,9 +2,10 @@
 title: "MacPhail Hunting Corporate Tartan Tartan Number: 2158. Earliest known date: 1994 A modern interpretation of the MacPhail tartan in hunting colours produced for the whisky merchants, Gordon and MacPhail, by the weaving firm, Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKWKGKBRBK](/stripes/gkwkgkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g48k3ln8k3g48k34db60r4db60k34/)
+(the same proportion at any scale), whose colour order is pattern [GKWKGKBRBK](/stripes/gkwkgkbrbk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2158
 

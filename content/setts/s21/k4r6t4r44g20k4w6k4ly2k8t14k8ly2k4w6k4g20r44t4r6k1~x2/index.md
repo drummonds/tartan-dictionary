@@ -2,9 +2,10 @@
 title: "MacLean"
 date: 2023-03-18
 ---
-In pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r6b4r44g20k4ln6k4y2k8b14k8y2k4ln6k4g20r44b4r6k1/)
+(the same proportion at any scale), whose colour order is pattern [KRBRGKWKYKBKYKWKGRBRK](/stripes/krbrgkwkykbkykwkgrbrk/).
 
-This was sourced from logan-1831.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from logan-1831.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link /posts/logans-scottish-gael/
 

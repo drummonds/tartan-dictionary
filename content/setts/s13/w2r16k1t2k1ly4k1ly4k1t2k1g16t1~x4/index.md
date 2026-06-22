@@ -2,9 +2,10 @@
 title: "Buchanan"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r16k1b2k1y4k1y4k1b2k1g16b1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 

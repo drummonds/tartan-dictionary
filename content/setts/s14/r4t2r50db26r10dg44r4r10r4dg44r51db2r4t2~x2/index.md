@@ -2,9 +2,10 @@
 title: "MacQuarrie #2"
 date: 2023-03-18
 ---
-In pattern [BRBRGRRRGRBRBR](/stripes/brbrgrrrgrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b2r50ba26r10g44ra4r10ra4g44r51ba2r4b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRRRGRBRBR](/stripes/brbrgrrrgrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2729
 

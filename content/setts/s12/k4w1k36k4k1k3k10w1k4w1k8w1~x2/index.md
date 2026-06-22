@@ -2,9 +2,10 @@
 title: "YMCA Corporate Tartan Tartan Number: 10999. Earliest known date: October 2013 This 21st century tartan is a variation of the ancient \"Breacan nan Cleirach\" - the tartan of the Clergy - which was worn in the Scottish Highlands by men of the church as early as the 1750s. The YMCA tartan incorporates the colours of the world organisation and at its core is the 1844 founding date of the YMCA represented with 18 threads of black and white and 44 threads of blue. Combined with that 1844 beginning, the blue of the oceans links over 45 million members around the globe and celebrates the values, strengths and aspirations of the world's largest clan - the YMCA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKKKKKWKWKW](/stripes/kwkkkkkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln1scr36rb4k1rb3k10ln1rb4ln1k8ln1/)
+(the same proportion at any scale), whose colour order is pattern [KWKKKKKWKWKW](/stripes/kwkkkkkwkwkw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10999
 

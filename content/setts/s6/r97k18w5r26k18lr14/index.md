@@ -2,9 +2,10 @@
 title: "Bradley University"
 date: 2023-03-18
 ---
-In pattern [RKWRKY](/stripes/rkwrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r97k18w5dr26k18n14/)
+(the same proportion at any scale), whose colour order is pattern [RKWRKY](/stripes/rkwrky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11312
 

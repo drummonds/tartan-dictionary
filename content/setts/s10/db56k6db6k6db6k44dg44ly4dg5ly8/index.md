@@ -2,9 +2,10 @@
 title: "Gordon #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGY](/stripes/bkbkbkgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b56k6b6k6b6k44g44y4g5y8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGY](/stripes/bkbkbkgygy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1450
 

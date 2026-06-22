@@ -2,9 +2,10 @@
 title: "Broun Hunting (Personal?)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKBKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkbkgkbkbkbkgkykgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn16k3dn3k3dn3k16g15k1b3k1g15k16dn15k3dn3k3dn15k16g15k1n3k1g15k16dn3k3dn3k3dn3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKBKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkbkgkbkbkbkgkykgkbkbkb/).
 
-This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8862/
 

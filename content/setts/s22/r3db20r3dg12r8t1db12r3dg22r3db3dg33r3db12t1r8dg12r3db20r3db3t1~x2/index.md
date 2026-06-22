@@ -2,9 +2,10 @@
 title: "Cumming and Glenorchy"
 date: 2023-03-18
 ---
-In pattern [BBRBRGRBBRGBRGRBBRGRBR](/stripes/bbrbrgrbbrgbrgrbbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ba20r3g12r8b1ba12r3g22r3ba3g33r3ba12b1r8g12r3ba20r3ba3b1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBRGRBBRGBRGRBBRGRBR](/stripes/bbrbrgrbbrgbrgrbbrgrbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=836
 

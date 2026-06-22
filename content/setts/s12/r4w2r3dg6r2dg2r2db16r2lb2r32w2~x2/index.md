@@ -2,9 +2,10 @@
 title: "1745 Trading (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RWRGRGRBRWRW](/stripes/rwrgrgrbrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4w2r3g6r2g2r2db16r2lb2r32w2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGRGRBRWRW](/stripes/rwrgrgrbrwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8372/
 

@@ -2,9 +2,10 @@
 title: "O'Farrell"
 date: 2023-03-18
 ---
-In pattern [WYYKWKWKGYKYWYKYGKWKWKYY](/stripes/wyykwkwkgykywykygkwkwkyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta14y3k6ln2k2ln2k2g8lta6k2lta3ln1lta3k2lta6g8k2ln2k2ln2k6y3lta14ln2/)
+(the same proportion at any scale), whose colour order is pattern [WYYKWKWKGYKYWYKYGKWKWKYY](/stripes/wyykwkwkgykywykygkwkwkyy/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3221
 

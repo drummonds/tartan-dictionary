@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kyrykyky/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KYRYKYKY</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KYRYKYKY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

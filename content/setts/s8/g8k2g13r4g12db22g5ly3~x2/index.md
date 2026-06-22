@@ -2,9 +2,10 @@
 title: "Taylor"
 date: 2023-03-18
 ---
-In pattern [GKGRGBGY](/stripes/gkgrgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k2g13r4g12b22g5y3/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGBGY](/stripes/gkgrgbgy/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Service of Drymen Corporate Tartan Tartan Number: 1380. Earliest known date: pre 2003 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKRGWGWGKGKGRKBY](/stripes/rbkrgwgwgkgkgrkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db14k2n5g3ln1g3ln1g3k1g3k1g3n5k2db14y2/)
+(the same proportion at any scale), whose colour order is pattern [RBKRGWGWGKGKGRKBY](/stripes/rbkrgwgwgkgkgrkby/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1380
 

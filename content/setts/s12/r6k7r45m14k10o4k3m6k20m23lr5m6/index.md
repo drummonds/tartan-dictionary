@@ -2,9 +2,10 @@
 title: "Sweetheart, The"
 date: 2023-03-18
 ---
-In pattern [RKRRKRKRKRYR](/stripes/rkrrkrkrkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6n5dr23k20p6k3t4k10dr14r45k7r6/)
+(the same proportion at any scale), whose colour order is pattern [RKRRKRKRKRYR](/stripes/rkrrkrkrkryr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10549
 

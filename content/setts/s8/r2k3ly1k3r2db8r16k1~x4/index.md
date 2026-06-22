@@ -2,9 +2,10 @@
 title: "Leslie Red (VS) (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRBRKYKR](/stripes/krbrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k3y1k3r2db8r16k1/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKYKR](/stripes/krbrkykr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1142/
 

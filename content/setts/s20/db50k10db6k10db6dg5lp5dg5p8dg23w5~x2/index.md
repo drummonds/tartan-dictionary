@@ -2,9 +2,10 @@
 title: "Scottish Hockey Union"
 date: 2023-03-18
 ---
-In pattern [BKBKBGWGBGWGBGWGBKBK](/stripes/bkbkbgwgbgwgbgwgbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba50k10dba6k10dba6g5lpa5g5lp8g23w5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBGWGBGWGBGWGBKBK](/stripes/bkbkbgwgbgwgbgwgbkbk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3724
 

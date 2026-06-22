@@ -2,9 +2,10 @@
 title: "MacKellar Dress, Maroon (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWBKGWGYGWG](/stripes/bwbkgwgygwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t27ln2t3dy4t3ln2t5k13n2ln26n3/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGWGYGWG](/stripes/bwbkgwgygwg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8878/
 

@@ -2,9 +2,10 @@
 title: "Silverton (Name)"
 date: 2023-03-18
 ---
-In pattern [WBWBKWYKWKBKW](/stripes/wbwbkwykwkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb4b1ln1b1k29lb3y1k4lb20k2db1k3lb3/)
+(the same proportion at any scale), whose colour order is pattern [WBWBKWYKWKBKW](/stripes/wbwbkwykwkbkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10275/
 

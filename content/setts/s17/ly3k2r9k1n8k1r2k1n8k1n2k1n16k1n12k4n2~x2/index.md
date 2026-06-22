@@ -2,9 +2,10 @@
 title: "Golden Glow"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKRKBKRKY](/stripes/bkbkbkbkbkrkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k2r9k1dr8k1r2k1n8k1na2k1n16k1na12k4n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKRKBKRKY](/stripes/bkbkbkbkbkrkbkrky/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10291
 

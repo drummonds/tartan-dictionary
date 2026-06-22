@@ -2,9 +2,10 @@
 title: "Stewart of Galloway - 1842 (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r24k4y1k2w1db4g6r3k1r2w1/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1201/
 

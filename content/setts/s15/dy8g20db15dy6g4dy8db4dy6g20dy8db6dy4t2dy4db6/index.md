@@ -2,9 +2,10 @@
 title: "Unidentified Fragment Artifact Tartan Tartan Number: 2018. Earliest known date: 1978 Sent from Canada. See file. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGBGGGBGG](/stripes/bgbgbgggbgggbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8g20db15t6g4t8db4t6g20t8db6t4b2t4db6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGBGGGBGG](/stripes/bgbgbgggbgggbgg/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2018
 

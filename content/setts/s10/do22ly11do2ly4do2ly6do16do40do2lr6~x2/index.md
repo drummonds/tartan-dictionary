@@ -2,9 +2,10 @@
 title: "Kenmore (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BYBYBYBBBY](/stripes/bybybybbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k22dy11ka2dy4ka2dy6ka16k40k2n6/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYBBBY](/stripes/bybybybbby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5327/
 

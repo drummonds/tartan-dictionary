@@ -2,9 +2,10 @@
 title: "Rothesay #2"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r16g4r2g3r2g32w1g1w2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGWGW](/stripes/grgrgrgwgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3572
 

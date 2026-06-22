@@ -2,9 +2,10 @@
 title: "Galway County, Crest Range"
 date: 2023-03-18
 ---
-In pattern [BBBKBKRKW](/stripes/bbbkbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10b5db15k3db15k5dr25k3ln4/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBKRKW](/stripes/bbbkbkrkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5937
 

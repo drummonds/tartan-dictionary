@@ -2,9 +2,10 @@
 title: "Lundie (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b2db5g2db2g2db2g13db2g2db2g2db5y2db3ln2g6r5b3db4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10022/
 

@@ -2,9 +2,10 @@
 title: "Cates Hunting"
 date: 2023-03-18
 ---
-In pattern [GRGYGKYWR](/stripes/grgygkywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg23r7g25y5dg17k5y1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGKYWR](/stripes/grgygkywr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5945
 

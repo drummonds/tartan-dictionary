@@ -2,18 +2,20 @@
 title: "Henbury"
 date: 2023-03-18
 ---
-In pattern [BBBBYBBBWBBBBWBW](/stripes/bbbbybbbwbbbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp50dn75dp75dn12lg12dp75dn75dp50w12dn12dp75dn75dp50w12dn12w12/)
+(the same proportion at any scale), whose colour order is pattern [BBBBYBBBWBBBBWBW](/stripes/bbbbybbbwbbbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2005 — Henbury (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682))
-- 2005 October — Henbury (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6792/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2005 — Henbury (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1682">record</a>)</li>
+<li>2005 October — Henbury (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6792/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

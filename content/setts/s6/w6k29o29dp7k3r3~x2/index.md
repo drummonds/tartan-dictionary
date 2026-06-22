@@ -2,18 +2,20 @@
 title: "Jewell of Kernow (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKBRKW](/stripes/rkbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6k29n29p7k3r3/)
+(the same proportion at any scale), whose colour order is pattern [RKBRKW](/stripes/rkbrkw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7478/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- June 2007 — Jewell of Kernow (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7478/))
-- undated — Jewell of Kernow (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5520))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>June 2007 — Jewell of Kernow (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7478/">record</a>)</li>
+<li>undated — Jewell of Kernow (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5520">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

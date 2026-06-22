@@ -2,9 +2,10 @@
 title: "Dunn #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBWB](/stripes/bkbkbkbkbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k2dp14k5dp14k3ka4k6ka24w2dp6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBWB](/stripes/bkbkbkbkbwb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1048
 

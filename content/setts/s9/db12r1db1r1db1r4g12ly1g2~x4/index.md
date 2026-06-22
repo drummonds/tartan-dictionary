@@ -2,18 +2,20 @@
 title: "Durie (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGYG](/stripes/brbrbrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12dr1db1dr1db1dr4g12y1g2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGYG](/stripes/brbrbrgyg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2228/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1988 — Durie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2228/))
-- 01/01/1994 — Durie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1988 — Durie (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2228/">record</a>)</li>
+<li>01/01/1994 — Durie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1053">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

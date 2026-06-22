@@ -2,9 +2,10 @@
 title: "Tomomi"
 date: 2023-03-18
 ---
-In pattern [WWRYGY](/stripes/wwrygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/wa5w15lr40y4lg2n2/)
+(the same proportion at any scale), whose colour order is pattern [WWRYGY](/stripes/wwrygy/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11001
 

@@ -2,9 +2,10 @@
 title: "Blarney Castle"
 date: 2023-03-18
 ---
-In pattern [GYBRBGBGK](/stripes/gybrbgbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16y3db9r3db9g6db3g3k3/)
+(the same proportion at any scale), whose colour order is pattern [GYBRBGBGK](/stripes/gybrbgbgk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11441
 

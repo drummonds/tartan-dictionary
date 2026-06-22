@@ -2,9 +2,10 @@
 title: "Aquascutum"
 date: 2023-03-18
 ---
-In pattern [BWG](/stripes/bwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1ln2t1/)
+(the same proportion at any scale), whose colour order is pattern [BWG](/stripes/bwg/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=103
 

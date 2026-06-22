@@ -2,9 +2,10 @@
 title: "Highland Granite Weavers Tartan Tartan Number: 6499. Earliest known date: 2005 The colours reflect the imposing scenery when journeying north from Perth to Inverness or through to Royal Deeside, granite being the predominant composition of the surrounding unique hills and mountains. This tartan is for those wishing to embrace the growing popularity of the kilt who may either have no strong clan tartan connection, or who wish to wear a tartan different from their own. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKRKRKBYBYBKRKRKR](/stripes/brkrkrkbybybkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb16k2nb3k2nb4k10n27na2n8na2n27k10nb4k2nb3k2nb16n2/)
+(the same proportion at any scale), whose colour order is pattern [BRKRKRKBYBYBKRKRKR](/stripes/brkrkrkbybybkrkrkr/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6499
 

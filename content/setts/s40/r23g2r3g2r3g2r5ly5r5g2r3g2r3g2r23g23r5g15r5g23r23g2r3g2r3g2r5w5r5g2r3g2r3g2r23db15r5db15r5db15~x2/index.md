@@ -2,18 +2,20 @@
 title: "MacRae of Inverinate"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgryrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r23g2r3g2r3g2r5y5r5g2r3g2r3g2r23g23r5g15r5g23r23g2r3g2r3g2r5ln5r5g2r3g2r3g2r23b15r5b15r5b15/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRGRGRWRGRGRGRGRGRGRGRGRGRYRGRGRGR](/stripes/brbrbrgrgrgrwrgrgrgrgrgrgrgrgrgryrgrgrgr/).
 
-This was sourced from weddslist.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from weddslist.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacRae of Inverinate (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacRae of Inverinate Clan Tartan Tartan Number: 2000. Earliest known date: pre 2003 Presented by Mrs Macrae of Inverinate 1977, and approved for the use of the MacRaes of the Inverinate branch of the Clan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2000))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacRae of Inverinate (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacRae of Inverinate Clan Tartan Tartan Number: 2000. Earliest known date: pre 2003 Presented by Mrs Macrae of Inverinate 1977, and approved for the use of the MacRaes of the Inverinate branch of the Clan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2000">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/46 G4 R6 G4 R6 G4 R10 Y10 R10 G4 R6 G4 R6 G4 R46 G46 R10 G30 R10 G46 R46 G4 R6 G4 R6 G4 R10 LN10 R10 G4 R6 G4 R6 G4 R46 B30 R10 B30 R10 B/30

@@ -2,9 +2,10 @@
 title: "Hilton Hotel Hong Kong (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4g10pa2g2pa24gb2pa2gb16pa2ga1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3940/
 

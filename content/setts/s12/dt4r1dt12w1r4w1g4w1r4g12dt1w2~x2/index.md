@@ -2,9 +2,10 @@
 title: "Glenfalloch Corporate Tartan Tartan Number: 2111. Earliest known date: 1990 'Glenfalloch' - Gaelic meaning \"hidden valley\" - was built as a private residence last century. Some years ago it was acquired by the Otago Peninsulsa Trust, to enable the people of Dunedin and visitors to the area, to enjoy the beautiful gardens. Colours were chosen to represent as follows: Navy Blue - dark shadows in valley, Green/Blue - Overall colours of sea/sky/trees, Salmon Pink/White/Maroon - Wild flowers in season. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBWRWGWRGBW](/stripes/brbwrwgwrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4do1db12ln1do4ln1b4ln1dr4b12db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWRWGWRGBW](/stripes/brbwrwgwrgbw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2111
 

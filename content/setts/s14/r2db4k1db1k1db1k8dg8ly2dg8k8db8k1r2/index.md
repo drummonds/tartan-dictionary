@@ -2,18 +2,20 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db4k1db1k1db1k8g8y2g8k8db8k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Farquharson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Farquharson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Farquharson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Farquharson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/2 DB4 K1 DB1 K1 DB1 K8 G8 Y2 G8 K8 DB8 K1 R/2

@@ -2,9 +2,10 @@
 title: "Forrester/Foster Hunting"
 date: 2023-03-18
 ---
-In pattern [KYGWGKYKGW](/stripes/kygwgkykgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3y2g18w3g13k3y4k3ga18w3/)
+(the same proportion at any scale), whose colour order is pattern [KYGWGKYKGW](/stripes/kygwgkykgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Forrester/Foster Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Forrester/Foster Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234))
-- 1986 — Forrester Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2385/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Forrester/Foster Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1234">record</a>)</li>
+<li>1986 — Forrester Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2385/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

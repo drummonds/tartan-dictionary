@@ -2,9 +2,10 @@
 title: "Platt (Name)"
 date: 2023-03-18
 ---
-In pattern [BYGRGBYBRGBGYRYGBGRBYBGRGYBG](/stripes/bygrgbybrgbgyrygbgrbybgrgybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16db6y2g12r2g14db14y1db12r2g6db24g6y2r2/)
+(the same proportion at any scale), whose colour order is pattern [BYGRGBYBRGBGYRYGBGRBYBGRGYBG](/stripes/bygrgbybrgbgyrygbgrbybgrgybg/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/749/
 

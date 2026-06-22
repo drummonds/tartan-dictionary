@@ -2,9 +2,10 @@
 title: "Robieson, Graham Alexander (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKGKGKGKGKGKY](/stripes/wkgkgkgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1k1g8db1g1k8g1db8g1k1g8k1w1/)
+(the same proportion at any scale), whose colour order is pattern [WKGKGKGKGKGKY](/stripes/wkgkgkgkgkgky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5414
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Robieson, Graham A.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2004 — Robieson, Graham Alexander (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5414))
-- Sep. 2004 — Robieson, Graham A. (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6724/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2004 — Robieson, Graham Alexander (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5414">record</a>)</li>
+<li>Sep. 2004 — Robieson, Graham A. (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6724/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

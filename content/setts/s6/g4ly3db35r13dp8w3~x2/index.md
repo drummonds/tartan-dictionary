@@ -2,9 +2,10 @@
 title: "Kilsyth (District)"
 date: 2023-03-18
 ---
-In pattern [GYBRBW](/stripes/gybrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4y3db35r13p8ln3/)
+(the same proportion at any scale), whose colour order is pattern [GYBRBW](/stripes/gybrbw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4073/
 

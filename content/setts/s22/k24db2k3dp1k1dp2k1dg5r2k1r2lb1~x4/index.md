@@ -2,9 +2,10 @@
 title: "Braveheart Warrior Corporate Tartan Tartan Number: 2231. Earliest known date: 1993 Designed by Michael King of Philip King Tailoring Ltd, Aberdeen. Originally designed for Ronnie Watt, an 8th Dan in martial arts representing Scotland whose ring title was Braveheart Warrior. It has been adopted as the official tartan of the Scottish Shotokan Centre and as the Watt tartan.The design has no direct connection with the Braveheart film. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k24db2k3dp1k1dp2k1dg5dr2k1dr2n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2231
 

@@ -2,9 +2,10 @@
 title: "Thunderlord (Celtic Group, USA)"
 date: 2023-03-18
 ---
-In pattern [BKWB](/stripes/bkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n62w11k4b17/)
+(the same proportion at any scale), whose colour order is pattern [BKWB](/stripes/bkwb/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10473
 

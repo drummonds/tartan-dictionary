@@ -2,9 +2,10 @@
 title: "Universal Scientific Indust (Corp.)"
 date: 2023-03-18
 ---
-In pattern [BKBRKWRBK](/stripes/bkbrkwrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k38b2lp24w2k16lp6b2k3b5/)
+(the same proportion at any scale), whose colour order is pattern [BKBRKWRBK](/stripes/bkbrkwrbk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2588/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Universal Scientific Industrial
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Apr. 1999 — Universal Scientific Indust (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2588/))
-- 01/01/2005 — Universal Scientific Industrial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4402))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Apr. 1999 — Universal Scientific Indust (Corp.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2588/">record</a>)</li>
+<li>01/01/2005 — Universal Scientific Industrial (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4402">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

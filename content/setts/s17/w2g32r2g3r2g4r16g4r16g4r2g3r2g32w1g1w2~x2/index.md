@@ -2,9 +2,10 @@
 title: "Rothesay, hunting"
 date: 2023-03-18
 ---
-In pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2g32r2g3r2g4r16g4r16g4r2g3r2g32ln1g1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGRGRGRGRGRGRGWGW](/stripes/wgrgrgrgrgrgrgwgw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

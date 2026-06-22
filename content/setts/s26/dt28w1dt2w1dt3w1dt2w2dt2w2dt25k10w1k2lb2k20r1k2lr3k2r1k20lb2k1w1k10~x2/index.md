@@ -2,9 +2,10 @@
 title: "Britten-Norman"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn28w1dn2w1dn3w1dn2w2dn2w2dn25k10w1k2lb2k20r1k2n3k2r1k20lb2k1w1k10/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBKWKWKRKYKRKWKWK](/stripes/bwbwbwbwbwbkwkwkrkykrkwkwk/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11604
 

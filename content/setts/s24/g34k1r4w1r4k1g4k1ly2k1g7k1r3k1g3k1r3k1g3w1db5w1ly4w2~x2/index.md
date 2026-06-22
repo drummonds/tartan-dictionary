@@ -2,18 +2,20 @@
 title: "MacMaster"
 date: 2023-03-18
 ---
-In pattern [GKRWRKGKYKGKRKGKRKGWBWYW](/stripes/gkrwrkgkykgkrkgkrkgwbwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g34k1r4ln1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3ln1b5ln1y4ln2/)
+(the same proportion at any scale), whose colour order is pattern [GKRWRKGKYKGKRKGKRKGWBWYW](/stripes/gkrwrkgkykgkrkgkrkgwbwyw/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacMaster (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacMaster Corporate Tartan Tartan Number: 822. Earliest known date: 1987 Research report available. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=822))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacMaster (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacMaster Corporate Tartan Tartan Number: 822. Earliest known date: 1987 Research report available. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=822">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/68 K2 R8 LN2 R8 K2 G8 K2 Y4 K2 G14 K2 R6 K2 G6 K2 R6 K2 G6 LN2 B10 LN2 Y8 LN/4

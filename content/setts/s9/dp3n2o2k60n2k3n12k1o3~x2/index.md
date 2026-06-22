@@ -2,9 +2,10 @@
 title: "Grassi (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBRKBKBKR](/stripes/bbrkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3n2na2k60n2k3n12k1na3/)
+(the same proportion at any scale), whose colour order is pattern [BBRKBKBKR](/stripes/bbrkbkbkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10010/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Grassi Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Grassi (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10010/))
-- undated — Grassi Personal Tartan Tartan Number: 10010. Earliest known date: Mar. 2009 Designed to commemorate the wedding of Benjamin Grassi and Lorraine Porter Vaughan on 3rd October 2009. The colours chosen match the bridal bouguet and the wedding venue decor. The Tartan was designed in collaboration with the happy couple and the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10010))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Grassi (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10010/">record</a>)</li>
+<li>undated — Grassi Personal Tartan Tartan Number: 10010. Earliest known date: Mar. 2009 Designed to commemorate the wedding of Benjamin Grassi and Lorraine Porter Vaughan on 3rd October 2009. The colours chosen match the bridal bouguet and the wedding venue decor. The Tartan was designed in collaboration with the happy couple and the House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10010">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 P/6 N4 Na4 K120 N4 K6 N24 K2 Na/6

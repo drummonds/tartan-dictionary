@@ -2,9 +2,10 @@
 title: "Fyvie, Magenta (Dance)"
 date: 2023-03-18
 ---
-In pattern [BGRGRBWBWBRWB](/stripes/bgrgrbwbwbrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p12dg1lr4dg1lr4na5n3na5w34na5lr2n2p4/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRBWBWBRWB](/stripes/bgrgrbwbwbrwb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7577/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Fyvie, Magenta
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Fyvie, Magenta (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7577/))
-- undated — Fyvie Magenta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5601))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Fyvie, Magenta (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7577/">record</a>)</li>
+<li>undated — Fyvie Magenta (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5601">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

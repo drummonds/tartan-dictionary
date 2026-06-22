@@ -2,9 +2,10 @@
 title: "Khalsa"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWRBYBRYKWBWKW](/stripes/bwbwbwbwbwrbybrykwbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5w1db5w1db5w1db5w1db5w1o5b1y5b1o5y1k36w1b3w1k72w1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWRBYBRYKWBWKW](/stripes/bwbwbwbwbwrbybrykwbwkw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11476
 

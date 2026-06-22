@@ -2,9 +2,10 @@
 title: "Gary (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2r1k4o2k12o8k12o2k4o1w2/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1314
 

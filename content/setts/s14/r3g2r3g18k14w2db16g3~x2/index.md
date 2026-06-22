@@ -2,9 +2,10 @@
 title: "Mantle Tartan Tartan Number: 6945. Earliest known date: 2006 A combination of Sinclair Hunting and MacQueen tartans relating to the clan associations of the the two families, Swan and Sinclair. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGKWBGBWKGRGR](/stripes/grgkwbgbwkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g2dr3g18k14ln2ba16g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGKWBGBWKGRGR](/stripes/grgkwbgbwkgrgr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6945
 

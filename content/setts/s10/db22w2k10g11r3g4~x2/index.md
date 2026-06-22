@@ -2,9 +2,10 @@
 title: "Patterson (blue) family Tartan Tartan Number: 2325. Earliest known date: 1996 A second tartan for the family of John Patterson. Assume same designer as the first Patterson (Red). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGKWBWKGR](/stripes/grgkwbwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22ln2k10g11r3g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGKWBWKGR](/stripes/grgkwbwkgr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2325
 

@@ -2,18 +2,20 @@
 title: "Royal Yacht Britannia"
 date: 2023-03-18
 ---
-In pattern [KYGWBYBR](/stripes/kygwbybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k43y3g1w1db1y3db25r2/)
+(the same proportion at any scale), whose colour order is pattern [KYGWBYBR](/stripes/kygwbybr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/1998 — Royal Yacht Britannia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616))
-- December 1998 — Royal Yacht Britannia (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2529/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/1998 — Royal Yacht Britannia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3616">record</a>)</li>
+<li>December 1998 — Royal Yacht Britannia (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2529/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Peter Pan Corporate Tartan Tartan Number: 5505. Earliest known date: pre 1998 Designed by Lochcarron for the Great Ormond Street Hospital for Sick Children. J.M.Barrie donated all the rights to Peter Pan to the Hospital in 1929, confirmed in his will in 1937. The royalties go to the Hospital to support its work. Sample in STA Johnston Collection. Design registration cover renewed through Peter MacDonald in July/August 2002. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGGGGBKGBGBGGGGGBKRKBGGGGGBGBGKBGGGGG](/stripes/bgggggbkgbgbgggggbkrkbgggggbgbgkbggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22g2b2g2b2g2db6k3g14db1ga4db1g2ga2g2ga2g1db1k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGBKGBGBGGGGGBKRKBGGGGGBGBGKBGGGGG](/stripes/bgggggbkgbgbgggggbkrkbgggggbgbgkbggggg/).
 
-This was sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5505
 

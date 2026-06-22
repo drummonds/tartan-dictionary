@@ -2,9 +2,10 @@
 title: "Ferrazza in Guidonia, Rome (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2dr2k2y16k16db16k2w3k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10471
 

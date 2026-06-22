@@ -2,9 +2,10 @@
 title: "MacPherson 5"
 date: 2023-03-18
 ---
-In pattern [BYRKBYRKRYGWKRW](/stripes/byrkbyrkrygwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y3r3k2b8y3r2k1r2y3g8ln1k1r12ln1/)
+(the same proportion at any scale), whose colour order is pattern [BYRKBYRKRYGWKRW](/stripes/byrkbyrkrygwkrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

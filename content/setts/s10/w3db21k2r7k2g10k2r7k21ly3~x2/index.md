@@ -2,18 +2,20 @@
 title: "Tantallon"
 date: 2023-03-18
 ---
-In pattern [WBKRKGKRKY](/stripes/wbkrkgkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k21r7k2g10k2r7k2db21w3/)
+(the same proportion at any scale), whose colour order is pattern [WBKRKGKRKY](/stripes/wbkrkgkrky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2005 — Tantallon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294))
-- Jul. 2005 — Tantallon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6849/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2005 — Tantallon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5294">record</a>)</li>
+<li>Jul. 2005 — Tantallon (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6849/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

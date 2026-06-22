@@ -2,9 +2,10 @@
 title: "Warwick (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKKKKKBKKKK](/stripes/kbkkkkkbkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka8dp2k7ka2k2ka2k2n8ka6k2ka3ka2/)
+(the same proportion at any scale), whose colour order is pattern [KBKKKKKBKKKK](/stripes/kbkkkkkbkkkk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4337/
 

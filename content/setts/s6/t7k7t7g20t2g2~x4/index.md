@@ -2,18 +2,20 @@
 title: "Falconer of Labhdal (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBGBG](/stripes/bkbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba7k7ba7b20ba2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBG](/stripes/bkbgbg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2005 — Falconer of Labhdal (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145))
-- 2005 August — Falconer of Labhdal (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6787/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2005 — Falconer of Labhdal (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1145">record</a>)</li>
+<li>2005 August — Falconer of Labhdal (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6787/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

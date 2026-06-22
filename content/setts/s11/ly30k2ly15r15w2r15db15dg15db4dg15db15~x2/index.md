@@ -2,9 +2,10 @@
 title: "Buchanan #6"
 date: 2023-03-18
 ---
-In pattern [BGBGBRWRYKY](/stripes/bgbgbrwryky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y30k2y15r15ln2r15b15dg15b4dg15b15/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRWRYKY](/stripes/bgbgbrwryky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=419
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Buchanan #6
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Buchanan #6 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=419))
-- undated — Buchanan 7 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Buchanan #6 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=419">record</a>)</li>
+<li>undated — Buchanan 7 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

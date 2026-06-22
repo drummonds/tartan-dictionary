@@ -2,9 +2,10 @@
 title: "Barbecue Presbyterian Church (Corp)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg17r2dg2r5dg29r2db31y2g29r5g2r2g17/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRBYGRGRG](/stripes/grgrgrbygrgrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7496/
 

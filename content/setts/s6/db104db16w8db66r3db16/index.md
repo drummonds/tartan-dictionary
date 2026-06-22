@@ -2,9 +2,10 @@
 title: "Edzell, U.S. Navy"
 date: 2023-03-18
 ---
-In pattern [BBWBRB](/stripes/bbwbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db104b16ln8b66r3b16/)
+(the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Edzell, U.S. Navy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Edzell, U.S. Navy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Edzell U.S. Navy Regimental Tartan Tartan Number: 81. Earliest known date: pre 2003 Designed by Mr Arthur MacKie See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=81))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Edzell, U.S. Navy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Edzell U.S. Navy Regimental Tartan Tartan Number: 81. Earliest known date: pre 2003 Designed by Mr Arthur MacKie See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=81">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/104 B16 LN8 B66 R3 B/16

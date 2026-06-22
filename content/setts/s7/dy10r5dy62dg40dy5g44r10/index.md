@@ -2,9 +2,10 @@
 title: "Ballintrae Trade Tartan Tartan Number: 1541. Earliest known date: 1982 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGGGGR](/stripes/grggggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10g44t5dg40t62r5t10/)
+(the same proportion at any scale), whose colour order is pattern [GRGGGGR](/stripes/grggggr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1541
 

@@ -2,9 +2,10 @@
 title: "Robert Lee Jordan Defiance (Personal)"
 date: 2023-03-18
 ---
-In pattern [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3w5k1db24p3db4p3db3p12g3p1g21k1yy3/)
+(the same proportion at any scale), whose colour order is pattern [KKGBGBBBBBBKWR](/stripes/kkgbgbbbbbbkwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3520
 

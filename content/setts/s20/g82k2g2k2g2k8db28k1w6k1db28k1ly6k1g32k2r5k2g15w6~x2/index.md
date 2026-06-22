@@ -2,9 +2,10 @@
 title: "Unnamed 8"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBKYKGKRKGW](/stripes/gkgkgkbkwkbkykgkrkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g82k2g2k2g2k8b28k1ln6k1b28k1y6k1g32k2r5k2g15ln6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBKYKGKRKGW](/stripes/gkgkgkbkwkbkykgkrkgw/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Unidentified #30
 - Unnamed No 38 Artifact
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unnamed 8 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Unnamed No 38 Artifact Tartan Tartan Number: 805. Earliest known date: pre 1900 Originally listed as Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Count from a sample in the Museum of Antiquities, Edinburgh in which the W & Y are in silk. Ref: na1035 1959 909 ttb15(33-38). No. of 38 allocated after James Scarlett had seen the original. Very similar to the Cockburn in the Museum of Antiquities and very close to #798 the 71st Highland Regiment. This unnamed pattern has been adopted by the Ayre family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=805))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unnamed 8 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Unnamed No 38 Artifact Tartan Tartan Number: 805. Earliest known date: pre 1900 Originally listed as Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Count from a sample in the Museum of Antiquities, Edinburgh in which the W & Y are in silk. Ref: na1035 1959 909 ttb15(33-38). No. of 38 allocated after James Scarlett had seen the original. Very similar to the Cockburn in the Museum of Antiquities and very close to #798 the 71st Highland Regiment. This unnamed pattern has been adopted by the Ayre family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=805">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/164 K4 G4 K4 G4 K16 B56 K2 LN12 K2 B56 K2 Y12 K2 G64 K4 R10 K4 G30 LN/12

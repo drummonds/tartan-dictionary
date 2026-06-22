@@ -2,9 +2,10 @@
 title: "Yeomans (2016)"
 date: 2023-03-18
 ---
-In pattern [BKRKBKGKGRKRBGBK](/stripes/bkrkbkgkgrkrbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22k2lt3k2db22k4dg10k2dg10dr3k4dr3t10dg2t10k3/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKGKGRKRBGBK](/stripes/bkrkbkgkgrkrbgbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11511
 

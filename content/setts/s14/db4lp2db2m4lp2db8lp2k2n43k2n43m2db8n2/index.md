@@ -2,9 +2,10 @@
 title: "Orkney Heather"
 date: 2023-03-18
 ---
-In pattern [BBRBKBKWBWRBWB](/stripes/bbrbkbkwbwrbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4lp2db2lpa4lp2db8lp2k2n43k2n43lpa2db8n2/)
+(the same proportion at any scale), whose colour order is pattern [BBRBKBKWBWRBWB](/stripes/bbrbkbkwbwrbwb/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11138
 

@@ -2,9 +2,10 @@
 title: "Graeme High School Homecoming 2009"
 date: 2023-03-18
 ---
-In pattern [RKBKBKY](/stripes/rkbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k1b10k1p4k9y1/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKY](/stripes/rkbkbky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10221
 

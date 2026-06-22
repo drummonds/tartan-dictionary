@@ -2,9 +2,10 @@
 title: "Williams #2"
 date: 2023-03-18
 ---
-In pattern [GBRBGBBGBGGGBGBBGBRBGG](/stripes/gbrbgbbgbgggbgbbgbrbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t46t4dr6ta3dr3lt3dr3dn10t8dr3t6lt3/)
+(the same proportion at any scale), whose colour order is pattern [GBRBGBBGBGGGBGBBGBRBGG](/stripes/gbrbgbbgbgggbgbbgbrbgg/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4627
 

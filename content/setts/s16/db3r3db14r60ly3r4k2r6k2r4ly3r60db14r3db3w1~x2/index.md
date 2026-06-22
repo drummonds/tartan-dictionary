@@ -2,9 +2,10 @@
 title: "Stenhousemuir Football Club"
 date: 2023-03-18
 ---
-In pattern [BRBRYRKRKRYRBRBW](/stripes/brbryrkrkryrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3dr3db14dr60y3dr4k2dr6k2dr4y3dr60db14dr3db3w1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRYRKRKRYRBRBW](/stripes/brbryrkrkryrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3914
 

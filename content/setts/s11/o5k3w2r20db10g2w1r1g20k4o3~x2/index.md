@@ -2,9 +2,10 @@
 title: "MacCullough Family Tartan Tartan Number: 3214. Earliest known date: 2000 I would like to let you know that working with Peter MacDonald, he designed a tartan for me that was registered with the Scottish Tartan Authority on 5 December 2000 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKGRWGBRWKR](/stripes/rkgrwgbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do5k3ln2r20db10g2ln1r1g20k4do3/)
+(the same proportion at any scale), whose colour order is pattern [RKGRWGBRWKR](/stripes/rkgrwgbrwkr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3214
 

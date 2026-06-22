@@ -2,9 +2,10 @@
 title: "Thin Blue Line UK"
 date: 2023-03-18
 ---
-In pattern [BKBKRKGKWK](/stripes/bkbkrkgkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5k35b3k2r3k2g3k2w3k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKGKWK](/stripes/bkbkrkgkwk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11412
 

@@ -2,9 +2,10 @@
 title: "Semple"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKBKBKBR](/stripes/bkbkbkgwgkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11k3b3k3b4k15g36w3g36k15b4k3b3k3b11r4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKBKBKBR](/stripes/bkbkbkgwgkbkbkbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3766
 

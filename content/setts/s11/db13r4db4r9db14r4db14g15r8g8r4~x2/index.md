@@ -2,9 +2,10 @@
 title: "McCaslin"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBGRGR](/stripes/brbrbrbgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13r4db4r9db14r4db14g15r8g8r4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBGRGR](/stripes/brbrbrbgrgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2311
 

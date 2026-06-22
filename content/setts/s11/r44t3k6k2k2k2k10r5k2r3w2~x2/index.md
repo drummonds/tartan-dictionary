@@ -2,9 +2,10 @@
 title: "Hilton Champion Corporate Golf Tartan Tartan Number: 2336. Earliest known date: c.1970 Originally called Hilton Champion, this tartan was designed by Kinloch Anderson for the officials and winning jacket for the Hilton-sponsored Heritage Classic golf tournament. The name was changed to Heritage Plaid in September 2000 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKKKKKRKRW](/stripes/rbkkkkkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r44b3k6t2k2t2k10r5k2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBKKKKKRKRW](/stripes/rbkkkkkrkrw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2336
 

@@ -2,9 +2,10 @@
 title: "Robbie (Stirling) (Personal)"
 date: 2023-03-18
 ---
-In pattern [WYRBRBRGRBRYW](/stripes/wyrbrbrgrbryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1y2r15b2r2g15r2b15r2b2r15y2w1/)
+(the same proportion at any scale), whose colour order is pattern [WYRBRBRGRBRYW](/stripes/wyrbrbrgrbryw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10383
 

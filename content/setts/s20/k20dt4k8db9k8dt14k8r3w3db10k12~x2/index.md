@@ -2,9 +2,10 @@
 title: "Westenra of Christchurch"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRWBKBWRKBKBKBK](/stripes/bkbkbkrwbkbwrkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20db4k8dba9k8db14k8r3ln3dba10k12/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRWBKBWRKBKBKBK](/stripes/bkbkbkrwbkbwrkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Westenra of Christchurch NZ Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Westenra of Christchurch (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606))
-- undated — Westenra of Christchurch NZ Commemorative Tartan Tartan Number: 6384. Earliest known date: 2006 Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International and an opera fan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6384))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Westenra of Christchurch (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4606">record</a>)</li>
+<li>undated — Westenra of Christchurch NZ Commemorative Tartan Tartan Number: 6384. Earliest known date: 2006 Designed to commemorate the success of New Zealand soprano Hayley Westenra on the occasion of her visit to Scotland in 2006. Andrew Fenning is a member of the Hayley Westenra International and an opera fan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6384">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

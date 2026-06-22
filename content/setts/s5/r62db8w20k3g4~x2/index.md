@@ -2,9 +2,10 @@
 title: "Nicolson Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKWBR](/stripes/gkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r62db8ln20k3g4/)
+(the same proportion at any scale), whose colour order is pattern [GKWBR](/stripes/gkwbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8082/
 

@@ -2,9 +2,10 @@
 title: "Knights Templar Dress (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KWKRKWRKRKRW](/stripes/kwkrkwrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50w4k10r2k2w2r2k14r11k2r4w2/)
+(the same proportion at any scale), whose colour order is pattern [KWKRKWRKRKRW](/stripes/kwkrkwrkrkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6640/
 

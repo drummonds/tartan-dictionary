@@ -2,9 +2,10 @@
 title: "Fleming/Frisken/Flanders"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k3db3k3db3k16db17k2y4k2db17k16db17k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Fleming/Frisken/Flanders
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Fleming/Frisken/Flanders (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204))
-- 1997 — Fleming/Frisken/Flanders (Commem.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2531/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Fleming/Frisken/Flanders (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1204">record</a>)</li>
+<li>1997 — Fleming/Frisken/Flanders (Commem.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2531/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

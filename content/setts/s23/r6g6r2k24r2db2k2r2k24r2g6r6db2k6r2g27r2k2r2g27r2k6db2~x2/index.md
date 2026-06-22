@@ -2,9 +2,10 @@
 title: "Buchan"
 date: 2023-03-18
 ---
-In pattern [BKRGRKRGRKBRGRKRKBRKRGR](/stripes/bkrgrkrgrkbrgrkrkbrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6g6dr2k24dr2db2k2dr2k24dr2g6dr6db2k6dr2g27dr2k2dr2g27dr2k6db2/)
+(the same proportion at any scale), whose colour order is pattern [BKRGRKRGRKBRGRKRKBRKRGR](/stripes/bkrgrkrgrkbrgrkrkbrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=413
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Buchan Cumming MacIntyre
 - Buchan, Cumming MacIntyre
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1965 — Buchan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=413))
-- undated — Buchan, Cumming MacIntyre (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Buchan Cumming MacIntyre District Tartan Tartan Number: 1991. Earliest known date: 1790 Also MacIntyre and Glenorchy. Adopted by the Buchan family around 1965, on account of their long association with the Cummings which began with the marriage of Margaret, daughter of King Edgar, to William Coymen, sheriff of Forfar in 1210. The name, Buchan, though a family name, is territorial in origin. The sett is asymmetrical. There is a sample in the collection of the Highland Society of London, housed in the National Museums of Scotland, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1991))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1965 — Buchan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=413">record</a>)</li>
+<li>undated — Buchan, Cumming MacIntyre (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Buchan Cumming MacIntyre District Tartan Tartan Number: 1991. Earliest known date: 1790 Also MacIntyre and Glenorchy. Adopted by the Buchan family around 1965, on account of their long association with the Cummings which began with the marriage of Margaret, daughter of King Edgar, to William Coymen, sheriff of Forfar in 1210. The name, Buchan, though a family name, is territorial in origin. The sett is asymmetrical. There is a sample in the collection of the Highland Society of London, housed in the National Museums of Scotland, Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1991">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

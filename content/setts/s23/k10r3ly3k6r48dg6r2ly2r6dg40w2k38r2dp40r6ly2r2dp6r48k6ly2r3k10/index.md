@@ -2,9 +2,10 @@
 title: "Hay & Leith - 1800 (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10r3y3k6r48g6r2y2r6g40w2k38r2dp40r6y2r2dp6r48k6y2r3k10/)
+(the same proportion at any scale), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1215/
 

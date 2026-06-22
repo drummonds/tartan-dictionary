@@ -2,9 +2,10 @@
 title: "Franklin"
 date: 2023-03-18
 ---
-In pattern [BYKYKYRKRBKBKBRKRYKYKYBK](/stripes/bykykyrkrbkbkbrkrykykybk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3y5k1y2k1y5r3k2r3b6k1b1k1b6r3k2r3y5k1y2k1y5b3k2/)
+(the same proportion at any scale), whose colour order is pattern [BYKYKYRKRBKBKBRKRYKYKYBK](/stripes/bykykyrkrbkbkbrkrykykybk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1246
 

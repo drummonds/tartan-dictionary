@@ -2,18 +2,20 @@
 title: "Begg (Scarfskerry)"
 date: 2023-03-18
 ---
-In pattern [BGBGKBKBK](/stripes/bgbgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4g30db12ga3dbb2dba3dbb26dp4dbb2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKBKBK](/stripes/bgbgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10723
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 03/05/2012 — Begg (Scarfskerry) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10723))
-- undated — Begg (Scarfskerry) Name Tartan Tartan Number: 10723. Earliest known date: 22 October 2012 Designed for Melissa McNulty and her Begg family to commemorate the Begg family name. The base of the tartan design reflects an historical association with Clan Macdonald as well as Scarfskerry in Caithness where the branch of the family comes from. Inspiration for the new design was taken from the Macdonald and Sinclair (Caithness regional tartan) setts. Colours: green signifies the toil and labour of previous generations of Begg family crofters working the bleak wilds of Caithness; blue is for the sea. Working the land was simply not enough for many crofting families to survive on, and many of Melissa McNulty’s ancestors went to sea. Two in particular were, firstly, Sinclair Begg OBE, who worked his way up from cabin boy to be Master of a whaling ship and served with distinction in both World Wars. He was awarded an OBE for his actions in the Second World War, when his ship was torpedoed by Germans just off the Outer Hebrides. Sinclair Begg also went on the Antarctic Surveys of 1955-57 and became the first man to bring penguins back to the UK. Secondly, Sinclair’s older brother, John, served with Christian Salvesen Shipping as a Master Mariner during the First World War, and on two separate occasions faced down German U-Boats. In the first instance he won the DSC for himself and on the second he won the Lloyds Silver Award for Meritorious Sea Service. Purple represents the gentle heather-swept hills of Caithness which were considered ‘home’ for many years after the family had moved to Edinburgh. However, on a more personal note, Melissa McNulty’s Great-Grandmother, from whom her strand of the Begg blood comes, was said to have beautiful, vibrant violet-coloured eyes. This tartan represents Melissa McNulty's personal heritage and that of her remaining family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10723))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>03/05/2012 — Begg (Scarfskerry) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10723">record</a>)</li>
+<li>undated — Begg (Scarfskerry) Name Tartan Tartan Number: 10723. Earliest known date: 22 October 2012 Designed for Melissa McNulty and her Begg family to commemorate the Begg family name. The base of the tartan design reflects an historical association with Clan Macdonald as well as Scarfskerry in Caithness where the branch of the family comes from. Inspiration for the new design was taken from the Macdonald and Sinclair (Caithness regional tartan) setts. Colours: green signifies the toil and labour of previous generations of Begg family crofters working the bleak wilds of Caithness; blue is for the sea. Working the land was simply not enough for many crofting families to survive on, and many of Melissa McNulty’s ancestors went to sea. Two in particular were, firstly, Sinclair Begg OBE, who worked his way up from cabin boy to be Master of a whaling ship and served with distinction in both World Wars. He was awarded an OBE for his actions in the Second World War, when his ship was torpedoed by Germans just off the Outer Hebrides. Sinclair Begg also went on the Antarctic Surveys of 1955-57 and became the first man to bring penguins back to the UK. Secondly, Sinclair’s older brother, John, served with Christian Salvesen Shipping as a Master Mariner during the First World War, and on two separate occasions faced down German U-Boats. In the first instance he won the DSC for himself and on the second he won the Lloyds Silver Award for Meritorious Sea Service. Purple represents the gentle heather-swept hills of Caithness which were considered ‘home’ for many years after the family had moved to Edinburgh. However, on a more personal note, Melissa McNulty’s Great-Grandmother, from whom her strand of the Begg blood comes, was said to have beautiful, vibrant violet-coloured eyes. This tartan represents Melissa McNulty's personal heritage and that of her remaining family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10723">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

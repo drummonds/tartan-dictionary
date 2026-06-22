@@ -2,9 +2,10 @@
 title: "WestJet"
 date: 2023-03-18
 ---
-In pattern [YBYBGBYWY](/stripes/ybybgbywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly3lb6ba20db5b3db15lg3db3ba3/)
+(the same proportion at any scale), whose colour order is pattern [YBYBGBYWY](/stripes/ybybgbywy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11320
 

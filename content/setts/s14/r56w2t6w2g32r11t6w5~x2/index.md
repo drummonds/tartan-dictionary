@@ -2,9 +2,10 @@
 title: "Spens/Spence"
 date: 2023-03-18
 ---
-In pattern [RWBWGRBWBRGWBW](/stripes/rwbwgrbwbrgwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr56w2b6w2g32dr11b6w5/)
+(the same proportion at any scale), whose colour order is pattern [RWBWGRBWBRGWBW](/stripes/rwbwgrbwbrgwbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3860
 

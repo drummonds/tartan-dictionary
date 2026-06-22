@@ -2,9 +2,10 @@
 title: "Haymarket, dress Blue"
 date: 2023-03-18
 ---
-In pattern [GBGKWYBWR](/stripes/gbgkwybwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5b22g6k10ln24y2b2ln2r2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKWYBWR](/stripes/gbgkwybwr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Haymarket, dress Blue
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Haymarket, dress Blue (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Haymarket Dress Blue Trade Tartan Tartan Number: 713. Earliest known date: pre 1992 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, whose shop is a short walk from Haymarket railway station. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=713))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Haymarket, dress Blue (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Haymarket Dress Blue Trade Tartan Tartan Number: 713. Earliest known date: pre 1992 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, whose shop is a short walk from Haymarket railway station. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=713">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/10 B44 G12 K20 LN48 Y4 B4 LN4 R/4

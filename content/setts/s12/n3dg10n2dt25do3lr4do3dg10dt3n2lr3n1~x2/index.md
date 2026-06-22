@@ -2,9 +2,10 @@
 title: "Bowhunter"
 date: 2023-03-18
 ---
-In pattern [BGBBBYBGBBYB](/stripes/bgbbbybgbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3dg10dr2n25ka3na4ka3k10n3dr2na3dr1/)
+(the same proportion at any scale), whose colour order is pattern [BGBBBYBGBBYB](/stripes/bgbbbybgbbyb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10267
 

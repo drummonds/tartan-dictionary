@@ -2,9 +2,10 @@
 title: "International School of Aberdeen"
 date: 2023-03-18
 ---
-In pattern [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3db4w1db2g1db3r10db2r2db3g1db3r2db32r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGBRBRBGBWBW](/stripes/rbrbgbrbrbgbwbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - International School of Aberdeen (Co
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 17/11/2014 — International School of Aberdeen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216))
-- November 2014 — International School of Aberdeen (Co (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11216/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>17/11/2014 — International School of Aberdeen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11216">record</a>)</li>
+<li>November 2014 — International School of Aberdeen (Co (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11216/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

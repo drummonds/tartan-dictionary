@@ -2,18 +2,20 @@
 title: "Barkway Wedding 2012"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dg2g2dg16g2dg2g2dg2g4n4k2n2k2n2k24r2k2w3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGGGBKBKBKRKW](/stripes/gggggggggbkbkbkrkw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2012 — Barkway Wedding 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671))
-- undated — Barkway Wedding 2012 Name Tartan Tartan Number: 10671. Earliest known date: Designed by Mr Barkway, using the Scotweb tartan designer, for his wedding in 2012, and as a family tartan. It may be used by anyone with the surname Barkway. Permission to use this tartan can be sought from the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10671))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2012 — Barkway Wedding 2012 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10671">record</a>)</li>
+<li>undated — Barkway Wedding 2012 Name Tartan Tartan Number: 10671. Earliest known date: Designed by Mr Barkway, using the Scotweb tartan designer, for his wedding in 2012, and as a family tartan. It may be used by anyone with the surname Barkway. Permission to use this tartan can be sought from the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10671">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

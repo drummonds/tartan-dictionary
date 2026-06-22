@@ -2,18 +2,20 @@
 title: "Hunter"
 date: 2023-03-18
 ---
-In pattern [GKGKRBYBRK](/stripes/gkgkrbybrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dr1db8n1db8dr1k8dg8k1dg8/)
+(the same proportion at any scale), whose colour order is pattern [GKGKRBYBRK](/stripes/gkgkrbybrk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hunter (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Hunter (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hunter (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Hunter (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/16 DR2 DB16 N2 DB16 DR2 K16 DG16 K2 DG/16

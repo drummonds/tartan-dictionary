@@ -2,9 +2,10 @@
 title: "Wemyss"
 date: 2023-03-18
 ---
-In pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k12n1k12r4k4r24g1r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

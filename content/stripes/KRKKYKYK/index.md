@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/krkkykyk/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">KRKKYKYK</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/k7r2k2k6lo1k1lo1k4~x4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KRKKYKYK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "Outlander #4"
 date: 2023-03-18
 ---
-In pattern [BBB](/stripes/bbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t27n3t17/)
+(the same proportion at any scale), whose colour order is pattern [BBB](/stripes/bbb/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11116
 

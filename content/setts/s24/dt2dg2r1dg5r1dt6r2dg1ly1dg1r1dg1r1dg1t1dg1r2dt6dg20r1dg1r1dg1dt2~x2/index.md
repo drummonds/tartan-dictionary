@@ -2,9 +2,10 @@
 title: "Ettrick (Green) District Tartan Tartan Number: 2300. Earliest known date: 1971 Ettrick District is in the Borders of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRGRBRGYGRGRGBGRBGRGRGB](/stripes/bgrgrbrgygrgrgbgrbgrgrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2dg2r1dg5r1db6r2dg1y1dg1r1dg1r1dg1b1dg1r2db6dg20r1dg1r1dg1db2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRBRGYGRGRGBGRBGRGRGB](/stripes/bgrgrbrgygrgrgbgrbgrgrgb/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2300
 

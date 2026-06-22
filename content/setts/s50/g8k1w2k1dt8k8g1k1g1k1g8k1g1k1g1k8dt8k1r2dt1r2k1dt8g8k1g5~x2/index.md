@@ -2,9 +2,10 @@
 title: "Killen"
 date: 2023-03-18
 ---
-In pattern [GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkrbrkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k1ln2k1db8k8g1k1g1k1g8k1g1k1g1k8db8k1dr2db1dr2k1db8g8k1g5/)
+(the same proportion at any scale), whose colour order is pattern [GKGBKRBRKBKGKGKGKGKGKBKWKGKWKBKGKGKGKGKGKBKRBRKBGK](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkgkwkbkgkgkgkgkgkbkrbrkbgk/).
 
-This was sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
+Sourced from register-of-tartans.  It is a [50 stripe tartan](/stripes/stripes50/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971
 

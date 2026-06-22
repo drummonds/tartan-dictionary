@@ -2,9 +2,10 @@
 title: "Royal Gourock Yacht Club, The"
 date: 2023-03-18
 ---
-In pattern [BRBYRKRBKBW](/stripes/brbyrkrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5dr2db8y2dr3dba9dr2db18dba9b4w2/)
+(the same proportion at any scale), whose colour order is pattern [BRBYRKRBKBW](/stripes/brbyrkrbkbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11087/
 

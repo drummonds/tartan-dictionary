@@ -2,18 +2,20 @@
 title: "Bundanoon (District)"
 date: 2023-03-18
 ---
-In pattern [BRGBGBGYW](/stripes/brgbgbgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17r3g55db3g4db3g4y3w5/)
+(the same proportion at any scale), whose colour order is pattern [BRGBGBGYW](/stripes/brgbgbgyw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2641/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- November 1999 — Bundanoon (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2641/))
-- undated — Bundanoon (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>November 1999 — Bundanoon (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2641/">record</a>)</li>
+<li>undated — Bundanoon (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/34 R6 G110 DB6 G8 DB6 G8 Y6 W/10

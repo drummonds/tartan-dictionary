@@ -2,9 +2,10 @@
 title: "National Trust"
 date: 2023-03-18
 ---
-In pattern [BGWBYGBG](/stripes/bgwbygbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2dr8g8lt3dr1ln12g2dr1/)
+(the same proportion at any scale), whose colour order is pattern [BGWBYGBG](/stripes/bgwbygbg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3101
 

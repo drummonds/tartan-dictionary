@@ -2,18 +2,20 @@
 title: "Clergy (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KYBKYKYBYBY](/stripes/kybkykybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n4b29k29n4k29n4b6n4b14n4/)
+(the same proportion at any scale), whose colour order is pattern [KYBKYKYBYBY](/stripes/kybkykybyby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=684
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1850 — Clergy (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=684))
-- pre 1850 — Clergy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1221/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — Clergy (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=684">record</a>)</li>
+<li>pre 1850 — Clergy (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1221/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Wcwm 1669-3"
 date: 2023-03-18
 ---
-In pattern [KKRKWKBKBW](/stripes/kkrkwkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k92k1dr2k4n2k8na8k2na16n2/)
+(the same proportion at any scale), whose colour order is pattern [KKRKWKBKBW](/stripes/kkrkwkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4538
 

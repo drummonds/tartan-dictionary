@@ -2,9 +2,10 @@
 title: "Tasmanian"
 date: 2023-03-18
 ---
-In pattern [RWGYGYGYRYY](/stripes/rwgygygyryy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5lr2lt24n2lt2n2lt6n8dr6n8lg4/)
+(the same proportion at any scale), whose colour order is pattern [RWGYGYGYRYY](/stripes/rwgygygyryy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4078
 

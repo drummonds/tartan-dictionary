@@ -2,9 +2,10 @@
 title: "Damson"
 date: 2023-03-18
 ---
-In pattern [BGBGBYBGYBYY](/stripes/bgbgbybgybyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db48b4db6lt2db2n2db2b10n6db2n3n2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBYBGYBYY](/stripes/bgbgbybgybyy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=887
 

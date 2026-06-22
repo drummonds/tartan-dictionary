@@ -2,9 +2,10 @@
 title: "State Seal of Georgia (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKWKYYWRYK](/stripes/kbkwkyywryk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10db13k3lb7k1lt20dy3lb13r5lt47k3/)
+(the same proportion at any scale), whose colour order is pattern [KBKWKYYWRYK](/stripes/kbkwkyywryk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8624/
 

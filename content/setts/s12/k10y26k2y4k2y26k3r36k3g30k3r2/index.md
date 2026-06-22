@@ -2,9 +2,10 @@
 title: "Pope (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [KGKGKGKRKGKR](/stripes/kgkgkgkrkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10n26k2n4k2n26k3dr36k3g30k3dra2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGKRKGKR](/stripes/kgkgkgkrkgkr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6170/
 

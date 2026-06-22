@@ -2,9 +2,10 @@
 title: "Stuart/Stewart - Prince Charles Edward"
 date: 2023-03-18
 ---
-In pattern [RYBYBWBYRBRWRBRYBWBYBY](/stripes/rybybwbyrbrwrbrybwbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r14n4k6y1k2ln2k2lg12r6k2r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RYBYBWBYRBRWRBRYBWBYBY](/stripes/rybybwbyrbrwrbrybwbyby/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3991
 

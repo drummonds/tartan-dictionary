@@ -2,9 +2,10 @@
 title: "Spirit of Fife (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBRGBWG](/stripes/bgbrgbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga10w2dn3g2p14db26ga2db6/)
+(the same proportion at any scale), whose colour order is pattern [BGBRGBWG](/stripes/bgbrgbwg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6526/
 

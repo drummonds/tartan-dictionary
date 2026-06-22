@@ -2,9 +2,10 @@
 title: "Pride of Scotland, Silver (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBBBBRRRBRB](/stripes/brbbbbrrrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n9nb2n2r2nb18r2n2na1n1n19r33na2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBBRRRBRB](/stripes/brbbbbrrrbrb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6476/
 

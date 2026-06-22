@@ -2,18 +2,20 @@
 title: "Parr"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b62r1b2r1b4k14g4ln2g6k4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Parr (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Parr Family Tartan Tartan Number: 439. Earliest known date: pre 2003 Almost nothing known about this tartan See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=439))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Parr (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Parr Family Tartan Tartan Number: 439. Earliest known date: pre 2003 Almost nothing known about this tartan See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=439">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/124 R2 B4 R2 B8 K28 G8 LN4 G12 K/8

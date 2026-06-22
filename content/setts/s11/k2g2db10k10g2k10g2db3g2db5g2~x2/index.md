@@ -2,9 +2,10 @@
 title: "Clergy (Clark) (Clan)"
 date: 2023-03-18
 ---
-In pattern [GBGBGKGKBGK](/stripes/gbgbgkgkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2db10k10g2k10g2db3g2db5g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGKGKBGK](/stripes/gbgbgkgkbgk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/701/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Clergy Green
 - Clergy,
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Clergy (Clark) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/701/))
-- undated — Clergy, (Clark) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Clergy Green Tartan Tartan Number: 701. Earliest known date: pre 2003 A variation of the sett recorded by Smith in 1850. Smith's published work showed variations of colour depending on the edition or even the individual copy examined. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=701))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Clergy (Clark) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/701/">record</a>)</li>
+<li>undated — Clergy, (Clark) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Clergy Green Tartan Tartan Number: 701. Earliest known date: pre 2003 A variation of the sett recorded by Smith in 1850. Smith's published work showed variations of colour depending on the edition or even the individual copy examined. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=701">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G4 DB20 K20 G4 K20 G4 DB6 G4 DB10 G/4

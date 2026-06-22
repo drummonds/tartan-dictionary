@@ -2,9 +2,10 @@
 title: "Asile"
 date: 2023-03-18
 ---
-In pattern [BRBRKRBRBKBRBBBRBK](/stripes/brbrkrbrbkbrbbbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3p1n2p1db6p1n2p1k16db16n1p2n1k6n1p2n1db3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKRBRBKBRBBBRBK](/stripes/brbrkrbrbkbrbbbrbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11385
 

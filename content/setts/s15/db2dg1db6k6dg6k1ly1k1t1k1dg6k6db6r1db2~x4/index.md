@@ -2,9 +2,10 @@
 title: "Malcolm (symmetrical)"
 date: 2023-03-18
 ---
-In pattern [BGBKGKYKBKGKBRB](/stripes/bgbkgkykbkgkbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r1b6k6g6k1ba1k1y1k1g6k6b6g1b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBKGKYKBKGKBRB](/stripes/bgbkgkykbkgkbrb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2794
 

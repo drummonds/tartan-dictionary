@@ -2,9 +2,10 @@
 title: "Ross, Old"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRGRGRGR](/stripes/brbrbrbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp2r1dp1r31dp8r2dp8r3g1r2g1r3g5r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRGRGRGR](/stripes/brbrbrbrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3566
 

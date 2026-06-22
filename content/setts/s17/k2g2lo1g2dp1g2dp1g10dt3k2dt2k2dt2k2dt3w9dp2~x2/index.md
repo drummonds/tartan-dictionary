@@ -2,9 +2,10 @@
 title: "Kennedy Dress, (Pendleton)"
 date: 2023-03-18
 ---
-In pattern [BWBKBKBKBGBGBGYGK](/stripes/bwbkbkbkbgbgbgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2dy1g2p1g2p1g10n3k2n2k2n2k2n3w9p2/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKBKBGBGBGYGK](/stripes/bwbkbkbkbgbgbgygk/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1947
 

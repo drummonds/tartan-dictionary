@@ -2,9 +2,10 @@
 title: "Sutherland Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKWBWBWBWBWKGKGKBK](/stripes/bkbkgkgkwbwbwbwbwkgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k5db10k10g13k3g13k10ln4db4ln18db2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKWBWBWBWBWKGKGKBK](/stripes/bkbkgkgkwbwbwbwbwkgkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4047
 

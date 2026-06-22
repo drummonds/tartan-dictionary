@@ -2,9 +2,10 @@
 title: "Mull"
 date: 2023-03-18
 ---
-In pattern [BGK](/stripes/bgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g4b2/)
+(the same proportion at any scale), whose colour order is pattern [BGK](/stripes/bgk/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Mull or Glenlyon
 - Mull, or Glenlyon
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Mull (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043))
-- undated — Mull, or Glenlyon (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Mull or Glenlyon District Tartan Tartan Number: 162. Earliest known date: 1819 This sett appears in the pattern books of the 18th century weaving firm, William Wilson and Sons, where it is recorded as pattern No. 53 or Glen Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=162))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Mull (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3043">record</a>)</li>
+<li>undated — Mull, or Glenlyon (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Mull or Glenlyon District Tartan Tartan Number: 162. Earliest known date: 1819 This sett appears in the pattern books of the 18th century weaving firm, William Wilson and Sons, where it is recorded as pattern No. 53 or Glen Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=162">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

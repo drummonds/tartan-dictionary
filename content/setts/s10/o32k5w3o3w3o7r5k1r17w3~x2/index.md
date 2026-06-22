@@ -2,9 +2,10 @@
 title: "President High School"
 date: 2023-03-18
 ---
-In pattern [RKWRWRRKRW](/stripes/rkwrwrrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n32k5w3n3w3n7dr5k1dr17w3/)
+(the same proportion at any scale), whose colour order is pattern [RKWRWRRKRW](/stripes/rkwrwrrkrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11002/
 

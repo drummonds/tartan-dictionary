@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/wbwbw/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">WBWBW</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/w45b2w4b15w7~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WBWBW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

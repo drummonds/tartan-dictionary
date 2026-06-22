@@ -2,9 +2,10 @@
 title: "Unidentified Cant #08"
 date: 2023-03-18
 ---
-In pattern [RWBWKWKWKWRKRWRKRWKWKWKWBW](/stripes/rwbwkwkwkwrkrwrkrwkwkwkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln38db6ln5k6ln3k2ln3k2lr24r24k2r8ln2r8k2r24lr24k2ln3k2ln3k6ln5db6ln38r4/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKWKWKWRKRWRKRWKWKWKWBW](/stripes/rwbwkwkwkwrkrwrkrwkwkwkwbw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4285
 

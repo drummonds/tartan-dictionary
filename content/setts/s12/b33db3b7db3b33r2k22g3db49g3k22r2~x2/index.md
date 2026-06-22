@@ -2,9 +2,10 @@
 title: "U.S. 2001 Air Force"
 date: 2023-03-18
 ---
-In pattern [BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b33db3b7db3b33r2k22g3dba49g3k22r2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBRKGBGKR](/stripes/bbbbbrkgbgkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4179
 

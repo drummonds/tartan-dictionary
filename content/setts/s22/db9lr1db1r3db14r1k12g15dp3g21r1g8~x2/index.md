@@ -2,9 +2,10 @@
 title: "West Highland Way"
 date: 2023-03-18
 ---
-In pattern [BYBRBRKGBGRGRGBGKRBRBY](/stripes/bybrbrkgbgrgrgbgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba9n1dba1r3dba14r1k12g15p3g21r1g8/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBRKGBGRGRGBGKRBRBY](/stripes/bybrbrkgbgrgrgbgkrbrby/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4601
 

@@ -2,9 +2,10 @@
 title: "Seaford House"
 date: 2023-03-18
 ---
-In pattern [WBGRGBWBW](/stripes/wbgrgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3db28g26r3g26db26lb12db3lb3/)
+(the same proportion at any scale), whose colour order is pattern [WBGRGBWBW](/stripes/wbgrgbwbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11045/
 

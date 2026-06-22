@@ -2,9 +2,10 @@
 title: "Logan - 1797 (Dark)"
 date: 2023-03-18
 ---
-In pattern [KRGYKYK](/stripes/krgykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9lr4k1lr4dg15r4k1/)
+(the same proportion at any scale), whose colour order is pattern [KRGYKYK](/stripes/krgykyk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1150/
 

@@ -2,9 +2,10 @@
 title: "Wilson's No.156"
 date: 2023-03-18
 ---
-In pattern [RKRWRGYKBKWKYKBWR](/stripes/rkrwrgykbkwkykbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30ln2b4k4y2k2ln6k2b11k15y3g20r14ln4r4k2r8/)
+(the same proportion at any scale), whose colour order is pattern [RKRWRGYKBKWKYKBWR](/stripes/rkrwrgykbkwkykbwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4700
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Wilson's, No 156
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Wilson's No.156 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4700))
-- undated — Wilson's, No 156 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Wilson's No.156 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4700">record</a>)</li>
+<li>undated — Wilson's, No 156 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

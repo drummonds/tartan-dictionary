@@ -2,9 +2,10 @@
 title: "RAAF #5"
 date: 2023-03-18
 ---
-In pattern [BRBWBWBWB](/stripes/brbwbwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b66ln2b10ln2b10ln2b12r3db24/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBWBWB](/stripes/brbwbwbwb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5379
 

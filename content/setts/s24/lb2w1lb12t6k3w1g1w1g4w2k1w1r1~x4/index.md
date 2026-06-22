@@ -2,9 +2,10 @@
 title: "Diana Princess of Wales Memorial"
 date: 2023-03-18
 ---
-In pattern [WWBKWGWGWKWRWKWGWGWKBWWW](/stripes/wwbkwgwgwkwrwkwgwgwkbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2ln1n12b6k3ln1ba1ln1ba4ln2k1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [WWBKWGWGWKWRWKWGWGWKBWWW](/stripes/wwbkwgwgwkwrwkwgwgwkbwww/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=932
 

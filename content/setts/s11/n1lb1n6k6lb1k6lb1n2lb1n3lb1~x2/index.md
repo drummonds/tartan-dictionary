@@ -2,9 +2,10 @@
 title: "Clergy (Grey)"
 date: 2023-03-18
 ---
-In pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1na1n6k6na1k6na1n2na1n3na1/)
+(the same proportion at any scale), whose colour order is pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=680
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Clergy, Grey
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Clergy (Grey) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=680))
-- pre 2002 — Clergy, Grey (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1312/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Clergy (Grey) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=680">record</a>)</li>
+<li>pre 2002 — Clergy, Grey (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1312/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

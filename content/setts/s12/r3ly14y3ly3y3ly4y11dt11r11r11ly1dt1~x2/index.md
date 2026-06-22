@@ -2,9 +2,10 @@
 title: "Bridge of Weir Leather Co. (Corp)"
 date: 2023-03-18
 ---
-In pattern [BYRRBGYGYGYR](/stripes/byrrbgygygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3lg14t3lg3t3lg4t11k11dr11r11lg1k1/)
+(the same proportion at any scale), whose colour order is pattern [BYRRBGYGYGYR](/stripes/byrrbgygygyr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8275/
 

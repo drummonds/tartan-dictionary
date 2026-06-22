@@ -2,9 +2,10 @@
 title: "Penman"
 date: 2023-03-18
 ---
-In pattern [BGKRKGBGYBYGBG](/stripes/bgkrkgbgybygbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11b6g6y1b2y1g6b6n36k1r3k1g5b5/)
+(the same proportion at any scale), whose colour order is pattern [BGKRKGBGYBYGBG](/stripes/bgkrkgbgybygbg/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Drummond, Ancient"
 date: 2023-03-18
 ---
-In pattern [RYKBGRKBW](/stripes/rykbgrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r19y1k2b1g7r2k1b1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RYKBGRKBW](/stripes/rykbgrkbw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Drummond Old
 - Drummond, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Drummond, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Drummond Old Clan Tartan Tartan Number: 1716. Earliest known date: c.1930 MacGregor-Hasties collection formed the basis of the Scottish Tartans Society collection. Unfortunately many samples were neither dated or sourced. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1716))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Drummond Old Clan Tartan Tartan Number: 1716. Earliest known date: c.1930 MacGregor-Hasties collection formed the basis of the Scottish Tartans Society collection. Unfortunately many samples were neither dated or sourced. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1716">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/76 Y4 K8 B4 G28 R8 K4 B4 LN/4

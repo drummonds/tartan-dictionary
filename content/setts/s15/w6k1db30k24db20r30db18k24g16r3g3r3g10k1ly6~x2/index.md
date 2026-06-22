@@ -2,9 +2,10 @@
 title: "Unidentified, Flora MacDonald"
 date: 2023-03-18
 ---
-In pattern [WKBKBRBKGRGRGKY](/stripes/wkbkbrbkgrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6k1g10r3g3r3g16k24b18r30b20k24b30k1ln6/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBRBKGRGRGKY](/stripes/wkbkbrbkgrgrgky/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

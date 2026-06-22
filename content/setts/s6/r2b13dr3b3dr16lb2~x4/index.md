@@ -2,18 +2,20 @@
 title: "MacArthur-Fox Blue (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBBBBW](/stripes/rbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp2dr16b3dr3b13dra2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBW](/stripes/rbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — MacArthur-Fox Blue (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283))
-- 1997 — MacArthur-Fox Blue (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/459/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — MacArthur-Fox Blue (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2283">record</a>)</li>
+<li>1997 — MacArthur-Fox Blue (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/459/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

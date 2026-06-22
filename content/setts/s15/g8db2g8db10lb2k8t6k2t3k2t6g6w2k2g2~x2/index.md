@@ -2,18 +2,20 @@
 title: "Leel (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBWKBKBKBGWKG](/stripes/gbgbwkbkbkbgwkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8db2g8db10lp2k8b6k2b3k2b6g6w2k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBWKBKBKBGWKG](/stripes/gbgbwkbkbkbgwkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2002 — Leel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083))
-- pre 2004 — Leel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6205/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2002 — Leel (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2083">record</a>)</li>
+<li>pre 2004 — Leel (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6205/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

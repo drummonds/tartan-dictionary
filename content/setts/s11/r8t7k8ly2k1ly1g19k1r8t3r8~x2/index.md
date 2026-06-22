@@ -2,9 +2,10 @@
 title: "Unnamed No 1"
 date: 2023-03-18
 ---
-In pattern [RBKYKYGKRBR](/stripes/rbkykygkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8b7k8ya2k1y1g19k1r8b3r8/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKYGKRBR](/stripes/rbkykygkrbr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

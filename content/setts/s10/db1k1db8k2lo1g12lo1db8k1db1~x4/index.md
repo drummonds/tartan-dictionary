@@ -2,9 +2,10 @@
 title: "Rowan (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKYGYBKB](/stripes/bkbkygybkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k1db8k2dy1g12dy1db8k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYGYBKB](/stripes/bkbkygybkb/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2067/
 

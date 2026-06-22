@@ -2,9 +2,10 @@
 title: "Nithsdale (3 colours) (District)"
 date: 2023-03-18
 ---
-In pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r2g2r6g16r1g2r1g3r6/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/533/
 

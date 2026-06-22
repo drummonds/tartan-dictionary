@@ -2,9 +2,10 @@
 title: "Outdoorsmen (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKGKBGK](/stripes/bkgkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k1g4k1b4g9k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBGK](/stripes/bkgkbgk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8037/
 

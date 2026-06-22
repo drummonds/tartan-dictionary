@@ -549,6 +549,60 @@ html.tartan-bg {
   font-variant-numeric: tabular-nums;
 }
 
+/* ------- sett page: collapsed attestations -------
+   The source records a cloth was collapsed from (only present when >1) sit in a closed <details> so
+   a singleton sett stays clean and the multi-record structure reveals on demand. */
+details.attestations {
+  margin: 1rem 0;
+}
+details.attestations summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+details.attestations ul {
+  margin: .5rem 0 0 1.2rem;
+}
+
+/* ------- pattern page (/stripes/<SEQ>/) -------
+   The heading colour-block strip (the sequence as big swatches) and the idealised woven sample
+   figure. See internal/dictionary writePattern + patternBlocks (tartan-weaver issue #53). */
+.pat-hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: .25rem;
+  margin: .2rem 0 1rem;
+}
+.pat-hero-block {
+  display: inline-block;
+  width: 1.6rem;
+  height: 2.4rem;
+  border: 1px solid #0003;
+  border-radius: 2px;
+}
+.pat-hero-seq {
+  font-family: monospace;
+  font-size: 1.3rem;
+  margin-left: .5rem;
+  color: #333;
+}
+.pat-woven {
+  margin: 1rem 0;
+  text-align: center;
+}
+.pat-woven img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+}
+.pat-woven figcaption {
+  font-size: .85rem;
+  color: #666;
+  font-style: italic;
+  margin-top: .35rem;
+}
+
 /* ------- nearest-tartans table -------
    Rendered once in Go by internal/nntable.Table and shared by the static /setts/ page and the
    in-browser TTD, so the two never drift (tartan-weaver issue #54). A three-column grid —

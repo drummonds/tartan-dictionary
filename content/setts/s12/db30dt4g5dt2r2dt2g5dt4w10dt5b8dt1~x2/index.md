@@ -2,9 +2,10 @@
 title: "Lyon (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBWBGBRBGBB](/stripes/bbbwbgbrbgbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba30db4g5db2dr2db2g5db4w10db5b8db1/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBGBRBGBB](/stripes/bbbwbgbrbgbb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10556/
 

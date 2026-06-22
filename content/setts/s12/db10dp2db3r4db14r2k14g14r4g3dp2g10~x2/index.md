@@ -2,9 +2,10 @@
 title: "Denovan, The Lairdship of (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10p2db3r4db14r2k14g14r4g3p2g10/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRKGRGBG](/stripes/bbbrbrkgrgbg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=916
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Denovan, The Lairdship of
 - MacDonald of Dunyveg
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Denovan, The Lairdship of (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=916))
-- pre 2002 — MacDonald of Denovan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/36/))
-- undated — MacDonald of Dunyveg Family Tartan Tartan Number: 36. Earliest known date: 1992 Designed by Captain V.J. MacDonald-Evans for himself and future Lairds of Denovan, regardless of their name. In 2009 Lord Denovan removed the restriction, to allow all Denovan's to wear it with the tartan to be called simply Denovan (rather than Lairds of Denovan). In 2010 Lord Denovan further suggested this tartan for all of the MacDonald's of Dunyveg. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=36))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Denovan, The Lairdship of (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=916">record</a>)</li>
+<li>pre 2002 — MacDonald of Denovan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/36/">record</a>)</li>
+<li>undated — MacDonald of Dunyveg Family Tartan Tartan Number: 36. Earliest known date: 1992 Designed by Captain V.J. MacDonald-Evans for himself and future Lairds of Denovan, regardless of their name. In 2009 Lord Denovan removed the restriction, to allow all Denovan's to wear it with the tartan to be called simply Denovan (rather than Lairds of Denovan). In 2010 Lord Denovan further suggested this tartan for all of the MacDonald's of Dunyveg. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=36">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

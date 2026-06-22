@@ -2,9 +2,10 @@
 title: "Webster"
 date: 2023-03-18
 ---
-In pattern [GRGBYBKKWK](/stripes/grgbybkkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32dr3t12b3y3b3k24k24n2k4/)
+(the same proportion at any scale), whose colour order is pattern [GRGBYBKKWK](/stripes/grgbybkkwk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4581
 

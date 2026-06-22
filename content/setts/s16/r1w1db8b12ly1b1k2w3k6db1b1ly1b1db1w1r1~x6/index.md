@@ -2,9 +2,10 @@
 title: "Buchanan, John & Isabella"
 date: 2023-03-18
 ---
-In pattern [RWBBYBBKWKBYBBWR](/stripes/rwbbybbkwkbybbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1w1db8b12y1b1k2w3k6db1b1y1b1db1w1r1/)
+(the same proportion at any scale), whose colour order is pattern [RWBBYBBKWKBYBBWR](/stripes/rwbbybbkwkbybbwr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5863
 

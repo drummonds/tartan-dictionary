@@ -2,9 +2,10 @@
 title: "Hunter of Peebleshire (Clan?)"
 date: 2023-03-18
 ---
-In pattern [GKGKRBWBRKR](/stripes/gkgkrbwbrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k1g8k8r1db8w1db8r1k8r1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKRBWBRKR](/stripes/gkgkrbwbrkr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/789/
 

@@ -2,9 +2,10 @@
 title: "Round Table of Britain and Ire Corporate Tartan Tartan Number: 2365. Earliest known date: 1997 Designed by Polly Wittering of House of Edgar in June 1997 for the Round Table of Britain and Ireland. Sample in STA Johnston Collection. For this graphic medium red, green and blue used in place of called-for dark versions of each. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBBRGRBBG](/stripes/bgbbrgrbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba47g14dp5t2dr3g7/)
+(the same proportion at any scale), whose colour order is pattern [BGBBRGRBBG](/stripes/bgbbrgrbbg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2365
 

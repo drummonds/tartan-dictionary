@@ -2,9 +2,10 @@
 title: "International Bear Pride"
 date: 2023-03-18
 ---
-In pattern [GWGKRYYWGGK](/stripes/gwgkryywggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k35t11n3w1ly3y1do5k5n2w2t22/)
+(the same proportion at any scale), whose colour order is pattern [GWGKRYYWGGK](/stripes/gwgkryywggk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11326
 

@@ -2,18 +2,20 @@
 title: "Crieff Highland Gathering"
 date: 2023-03-18
 ---
-In pattern [KBGBRBKBW](/stripes/kbgbrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dp16dg5dp3p2dp2k12db23w2/)
+(the same proportion at any scale), whose colour order is pattern [KBGBRBKBW](/stripes/kbgbrbkbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11108
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 13/06/2014 — Crieff Highland Gathering (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11108))
-- undated — Crieff Highland Gathering Corporate Tartan Tartan Number: 11108. Earliest known date: 2013 The colours selected for the Crieff Highland Gathering tartan, deep blue, green and purple have been used in the CHG logo for many years. They are also long established within the traditions of the Gathering, established in 1874, which runs the Crieff Highland Games. The blue relates to the Earn, the main river running through the town of Crieff and the Strathearn region. The green depicts the trees around the town. Crieff's name originates from the Scottish Gaelic word 'Craoibh' meaning 'tree'; whilst another common meaning is 'town in the valley of the trees'. The tartan's vibrant purple reflects the colour of the thistle. Thistles were incorporated into the Games as an ancient Celtic 'symbol of notability of character'. The thistle is also considered of 'high chivalric order' and Scotland's National Emblem. The Games are used by the Chieftain of the Games (in the past a Clans Chieftain) to highlight the fastest and strongest people in the area. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11108))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>13/06/2014 — Crieff Highland Gathering (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11108">record</a>)</li>
+<li>undated — Crieff Highland Gathering Corporate Tartan Tartan Number: 11108. Earliest known date: 2013 The colours selected for the Crieff Highland Gathering tartan, deep blue, green and purple have been used in the CHG logo for many years. They are also long established within the traditions of the Gathering, established in 1874, which runs the Crieff Highland Games. The blue relates to the Earn, the main river running through the town of Crieff and the Strathearn region. The green depicts the trees around the town. Crieff's name originates from the Scottish Gaelic word 'Craoibh' meaning 'tree'; whilst another common meaning is 'town in the valley of the trees'. The tartan's vibrant purple reflects the colour of the thistle. Thistles were incorporated into the Games as an ancient Celtic 'symbol of notability of character'. The thistle is also considered of 'high chivalric order' and Scotland's National Emblem. The Games are used by the Chieftain of the Games (in the past a Clans Chieftain) to highlight the fastest and strongest people in the area. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11108">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

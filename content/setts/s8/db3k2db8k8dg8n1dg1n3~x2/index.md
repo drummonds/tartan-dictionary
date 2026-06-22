@@ -2,18 +2,20 @@
 title: "Baird"
 date: 2023-03-18
 ---
-In pattern [BGBGKBKB](/stripes/bgbgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k2db8k8dg8n1dg1n3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKBKB](/stripes/bgbgkbkb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Baird (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Baird (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Baird (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Baird (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/6 K4 DB16 K16 DG16 N2 DG2 N/6

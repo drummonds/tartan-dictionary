@@ -2,9 +2,10 @@
 title: "RAF Kinloss"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBKBBRBRBBKBBBBBGBY](/stripes/bbbbbbbkbbrbrbbkbbbbbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5db6b8n50b4n4b4k8n8b44dr4b10dr4b44n8k8b4n4b4n50b8g6b5y4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBKBBRBRBBKBBBBBGBY](/stripes/bbbbbbbkbbrbrbbkbbbbbgby/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10120
 

@@ -2,9 +2,10 @@
 title: "Harmony, Eildon"
 date: 2023-03-18
 ---
-In pattern [BBWBBBWB](/stripes/bbwbbbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba41bb2ln2bb2ba5b12ln31ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBBWB](/stripes/bbwbbbwb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

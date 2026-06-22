@@ -2,9 +2,10 @@
 title: "Scottish Knights Templar, of M.T.S. International"
 date: 2023-03-18
 ---
-In pattern [BRKWKWKBR](/stripes/brkwkwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b20k6ln5k4ln3k2r1b2/)
+(the same proportion at any scale), whose colour order is pattern [BRKWKWKBR](/stripes/brkwkwkbr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scottish Knights Templar, of M.T.S. International
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scottish Knights Templar, of M.T.S. International (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Knights Templar International Corporate Tartan Tartan Number: 560. Earliest known date: 1989 Alternative sett (International Branch). Stuart Davidson was a founder member of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=560))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scottish Knights Templar, of M.T.S. International (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Knights Templar International Corporate Tartan Tartan Number: 560. Earliest known date: 1989 Alternative sett (International Branch). Stuart Davidson was a founder member of the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=560">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 B40 K12 LN10 K8 LN6 K4 R2 B/4

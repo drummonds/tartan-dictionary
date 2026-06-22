@@ -2,9 +2,10 @@
 title: "Harmer"
 date: 2023-03-18
 ---
-In pattern [GYKYGYGYKYGR](/stripes/gykygygykygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg36dy8k9dy24dg4dy12dg4dy24k9dy8dg36dr4/)
+(the same proportion at any scale), whose colour order is pattern [GYKYGYGYKYGR](/stripes/gykygygykygr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1600
 

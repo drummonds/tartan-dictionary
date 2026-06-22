@@ -2,9 +2,10 @@
 title: "Shenzhen (Sports)"
 date: 2023-03-18
 ---
-In pattern [KRYRYRYYYYW](/stripes/kryryryyyyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3do29o2do2o4do2o20y1o2y10ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRYRYRYYYYW](/stripes/kryryryyyyw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6250/
 

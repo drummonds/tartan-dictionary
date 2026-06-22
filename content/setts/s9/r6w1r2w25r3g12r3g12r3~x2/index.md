@@ -2,18 +2,20 @@
 title: "Crawford Arisaid (Dance)"
 date: 2023-03-18
 ---
-In pattern [RGRGRWRWR](/stripes/rgrgrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6w1dr2w25dr3g12dr3g12dr3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRWRWR](/stripes/rgrgrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Crawford Arisaid (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800))
-- 1985 — Crawford Arisaid (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4608/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Crawford Arisaid (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=800">record</a>)</li>
+<li>1985 — Crawford Arisaid (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4608/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

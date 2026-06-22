@@ -2,9 +2,10 @@
 title: "Buchanan, hunting"
 date: 2023-03-18
 ---
-In pattern [BGKBKRKRKBKRWRKBKG](/stripes/bgkbkrkrkbkrwrkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k2b6k2dr12ln1dr12k2b6k2lt12k2lt12k2b6k2g12b6/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKRKRKBKRWRKBKG](/stripes/bgkbkrkrkbkrwrkbkg/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

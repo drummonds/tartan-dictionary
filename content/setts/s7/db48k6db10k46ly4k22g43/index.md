@@ -2,9 +2,10 @@
 title: "Mowat"
 date: 2023-03-18
 ---
-In pattern [BKBKYKG](/stripes/bkbkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b48k6b10k46y4k22g43/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYKG](/stripes/bkbkykg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

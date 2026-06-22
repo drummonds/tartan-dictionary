@@ -2,9 +2,10 @@
 title: "Ferrazza (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k16g2k2g2k2g16k2g2k2g2k16y16k2db2r2k2y16k16db16k2ln3k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGKGKGKYKBRKYKBKWK](/stripes/bkgkgkgkgkgkykbrkykbkwk/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10471/
 

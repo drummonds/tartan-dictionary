@@ -2,18 +2,20 @@
 title: "Pictou County"
 date: 2023-03-18
 ---
-In pattern [BGYBWRWB](/stripes/bgybwrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba23w1dr3w1dba12dy9dg40db3/)
+(the same proportion at any scale), whose colour order is pattern [BGYBWRWB](/stripes/bgybwrwb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2007 — Pictou County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334))
-- Feb.2007 — Pictou County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7113/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2007 — Pictou County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3334">record</a>)</li>
+<li>Feb.2007 — Pictou County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7113/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

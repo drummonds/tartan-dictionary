@@ -2,9 +2,10 @@
 title: "Maud, Mary"
 date: 2023-03-18
 ---
-In pattern [BKBYBWBR](/stripes/bkbybwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b65k9b21y8b21ln8b35r35/)
+(the same proportion at any scale), whose colour order is pattern [BKBYBWBR](/stripes/bkbybwbr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Maud, Mary
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Maud, Mary (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Maud Mary Irish Family Tartan Tartan Number: 268. Earliest known date: pre 1892 Dublin See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=268))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Maud, Mary (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Maud Mary Irish Family Tartan Tartan Number: 268. Earliest known date: pre 1892 Dublin See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=268">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/65 K9 B21 Y8 B21 LN8 B35 R/35

@@ -2,18 +2,20 @@
 title: "Allianz Deutschland 2012"
 date: 2023-03-18
 ---
-In pattern [BBBBKBW](/stripes/bbbbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6db3b6db20k20db8ln4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBW](/stripes/bbbbkbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 28/08/2012 — Allianz Deutschland 2012 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684))
-- undated — Allianz Deutschland 2012 Corporate Tartan Tartan Number: 10684. Earliest known date: 28 August 2012 Designed by Blair Urquhart of House of Tartan Ltd, together with the Creative Team, Allianz Deutschland, for the 2013 Scottish Visit. The tartan incorporates both the colours and the three elements of Allianz Deutschland's Corporate Trademark Device. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10684))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/08/2012 — Allianz Deutschland 2012 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10684">record</a>)</li>
+<li>undated — Allianz Deutschland 2012 Corporate Tartan Tartan Number: 10684. Earliest known date: 28 August 2012 Designed by Blair Urquhart of House of Tartan Ltd, together with the Creative Team, Allianz Deutschland, for the 2013 Scottish Visit. The tartan incorporates both the colours and the three elements of Allianz Deutschland's Corporate Trademark Device. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10684">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

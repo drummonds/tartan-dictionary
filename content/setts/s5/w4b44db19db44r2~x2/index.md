@@ -2,9 +2,10 @@
 title: "World Federation of Building Contractors"
 date: 2023-03-18
 ---
-In pattern [RBBBW](/stripes/rbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4b44dba19db44r2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBW](/stripes/rbbbw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4782
 

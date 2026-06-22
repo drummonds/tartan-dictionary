@@ -2,18 +2,20 @@
 title: "Cochrane (1984)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGKRBRBY](/stripes/grgrgrgrgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16r2g2r1g3r1g2r2g12k12r1b16r2b8y2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGKRBRBY](/stripes/grgrgrgrgkrbrby/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=697
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cochrane (1984) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=697))
-- undated — Cochrane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cochrane (1984) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=697">record</a>)</li>
+<li>undated — Cochrane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

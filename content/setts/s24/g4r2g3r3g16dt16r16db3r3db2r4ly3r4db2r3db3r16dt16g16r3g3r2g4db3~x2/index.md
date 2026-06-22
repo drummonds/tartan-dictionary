@@ -2,9 +2,10 @@
 title: "Cuthill Clan/Family Tartan Tartan Number: 6954. Earliest known date: 2006 July Mr Cuthill based his design on Lindsay tartan which his family have worn since c1800 following the wedding between James Cuthill and Margaret Lindsay. (Unconfirmed and awaiting further research: a daughter of the Earl of Crawford) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRGRGBRBRBRYRBRBRBGRGRG](/stripes/bgrgrgbrbrbryrbrbrbgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r2g3r3g16dba16dr16db3dr3db2dr4y3dr4db2dr3db3dr16dba16g16r3g3r2g4db3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGBRBRBRYRBRBRBGRGRG](/stripes/bgrgrgbrbrbryrbrbrbgrgrg/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6954
 

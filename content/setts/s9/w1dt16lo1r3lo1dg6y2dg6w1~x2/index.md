@@ -2,9 +2,10 @@
 title: "Kleto, Susan (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBYRYGGGW](/stripes/wbyrygggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1db16y1dr3y1dg6g2dg6w1/)
+(the same proportion at any scale), whose colour order is pattern [WBYRYGGGW](/stripes/wbyrygggw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11172
 

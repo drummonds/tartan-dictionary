@@ -2,9 +2,10 @@
 title: "German"
 date: 2023-03-18
 ---
-In pattern [WKBKBKBKWKYWYRWRWRW](/stripes/wkbkbkbkwkywyrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly7k1b16k2b1k2b4k8ly2k8y8ly2y8dr8ly2dr8ly2dr1ly4/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBKBKWKYWYRWRWRW](/stripes/wkbkbkbkwkywyrwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5900
 

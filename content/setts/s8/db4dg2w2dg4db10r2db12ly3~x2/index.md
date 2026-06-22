@@ -2,9 +2,10 @@
 title: "United Services, Planning Association"
 date: 2023-03-18
 ---
-In pattern [BGWGBRBY](/stripes/bgwgbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dg2ln2dg4db10r2db12y3/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBRBY](/stripes/bgwgbrby/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - United Services, Planning Association
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — United Services, Planning Association (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — United Services Planning Assoc Corporate Tartan Tartan Number: 2097. Earliest known date: 1991 The company for which the tartan is being made serves the U. S. Military Community and as such the tartan uses the colours of the Services. Navy blue for the Navy, red for the Marines, green for Army, and light blue for the Air Force and USPA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2097))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — United Services, Planning Association (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — United Services Planning Assoc Corporate Tartan Tartan Number: 2097. Earliest known date: 1991 The company for which the tartan is being made serves the U. S. Military Community and as such the tartan uses the colours of the Services. Navy blue for the Navy, red for the Marines, green for Army, and light blue for the Air Force and USPA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2097">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 DG4 LN4 DG8 DB20 R4 DB24 Y/6

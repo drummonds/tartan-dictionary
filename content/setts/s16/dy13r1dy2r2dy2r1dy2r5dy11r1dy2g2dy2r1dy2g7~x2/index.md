@@ -2,9 +2,10 @@
 title: "Sarna (District)"
 date: 2023-03-18
 ---
-In pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t13r1t2r2t2r1t2r5t11r1t2g2t2r1t2g7/)
+(the same proportion at any scale), whose colour order is pattern [GGRGGGRGRGRGRGRG](/stripes/ggrgggrgrgrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2039/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Särna
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Sarna (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2039/))
-- undated — Särna District Tartan Tartan Number: 2039. Earliest known date: 1783 Sarna is a town in Sweden. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2039))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Sarna (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2039/">record</a>)</li>
+<li>undated — Särna District Tartan Tartan Number: 2039. Earliest known date: 1783 Sarna is a town in Sweden. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2039">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 T/26 R2 T4 R4 T4 R2 T4 R10 T22 R2 T4 G4 T4 R2 T4 G/14

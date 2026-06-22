@@ -2,9 +2,10 @@
 title: "Hakkarain (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKRKRKRKW](/stripes/kwkrkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba37ln18k37r2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [KWKRKRKRKW](/stripes/kwkrkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1570
 

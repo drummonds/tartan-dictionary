@@ -2,9 +2,10 @@
 title: "Cooper Dress (Dalgleish #2) (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRGWBWBKRBRGBKBRBG](/stripes/brgwbwbkrbrgbkbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r4t2w28db3w2db3k10r3db2r3g9db1k1db21r4db2t2/)
+(the same proportion at any scale), whose colour order is pattern [BRGWBWBKRBRGBKBRBG](/stripes/brgwbwbkrbrgbkbrbg/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/574/
 

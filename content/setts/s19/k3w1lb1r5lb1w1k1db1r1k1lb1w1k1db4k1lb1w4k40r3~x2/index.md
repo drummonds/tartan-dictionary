@@ -2,9 +2,10 @@
 title: "J.C.M. Customs"
 date: 2023-03-18
 ---
-In pattern [KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3w1n1r5n1w1k1db1r1k1n1w1k1db4k1n1w4k40r3/)
+(the same proportion at any scale), whose colour order is pattern [KWWRWWKBRKWWKBKWWKR](/stripes/kwwrwwkbrkwwkbkwwkr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11236/
 

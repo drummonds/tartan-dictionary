@@ -2,9 +2,10 @@
 title: "Coutts 80th (James Robert)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKGKGKGKGKWYWGKGKGKGKBKBKBKBKWKRKWKRKW](/stripes/bkbkbkbkgkgkgkgkwywgkgkgkgkbkbkbkbkwkrkwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k1db1k1db1k1db1k11g11k1g1k1g1k1g1k1w4y4w4g11k1g1k1g1k1g1k11db11k1db1k1db1k1db1k1w4k1r4k1w22k1r4k1w4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKGKGKGKWYWGKGKGKGKBKBKBKBKWKRKWKRKW](/stripes/bkbkbkbkgkgkgkgkwywgkgkgkgkbkbkbkbkwkrkwkrkw/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11436
 

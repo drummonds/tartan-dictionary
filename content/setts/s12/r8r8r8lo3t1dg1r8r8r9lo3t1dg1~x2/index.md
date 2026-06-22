@@ -2,9 +2,10 @@
 title: "Kreutz, Arthur (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBYRRRGBYRRR](/stripes/gbyrrrgbyrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8dra8dr8o3b1g1r8dra8dr9o3b1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBYRRRGBYRRR](/stripes/gbyrrrgbyrrr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10977
 

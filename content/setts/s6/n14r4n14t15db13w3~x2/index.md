@@ -2,18 +2,20 @@
 title: "Blue"
 date: 2023-03-18
 ---
-In pattern [BRBBBW](/stripes/brbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n14r4n14ba15db13w3/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBW](/stripes/brbbbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=301
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=301))
-- 1985 September — Blue (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1420/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=301">record</a>)</li>
+<li>1985 September — Blue (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1420/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

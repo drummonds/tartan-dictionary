@@ -2,9 +2,10 @@
 title: "Rollo Family Tartan Tartan Number: 1971. Earliest known date: 1946 Designed for Lord Rollo in 1946. It is interesting to note the similarity with the tartan of the Campbells of Breadalbane. Both the Rollos and the Campbells of Breadalbane had their homes in Perthshire. Rollos claim descent from a common ancestor of William the Conqueror. They settled in Scotland in the reign of David I (1124-53). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKGYGK](/stripes/bkbkgrgkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15g15y3g15k15g15r3g15k15db15k2db15/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKGYGK](/stripes/bkbkgrgkgygk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1971
 

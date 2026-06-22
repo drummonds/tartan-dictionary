@@ -2,9 +2,10 @@
 title: "Manitoba Cue Sports"
 date: 2023-03-18
 ---
-In pattern [GKGKYGKRGK](/stripes/gkgkygkrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8g4r1k2g16dy1k8g2k2g4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKYGKRGK](/stripes/gkgkygkrgk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Manitoba Cue Sports
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/06/2011 — Manitoba Cue Sports (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454))
-- 9th June 2011 — Manitoba Cue (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10454/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/06/2011 — Manitoba Cue Sports (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10454">record</a>)</li>
+<li>9th June 2011 — Manitoba Cue (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10454/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Mar, Tribe of (Clan)"
 date: 2023-03-18
 ---
-In pattern [RKGKY](/stripes/rkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k4g45k3y2/)
+(the same proportion at any scale), whose colour order is pattern [RKGKY](/stripes/rkgky/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1586/
 

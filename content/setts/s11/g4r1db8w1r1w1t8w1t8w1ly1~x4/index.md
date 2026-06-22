@@ -2,9 +2,10 @@
 title: "Texas Bluebonnet District Tartan Tartan Number: 852. Earliest known date: 1983 The colours of the Texas Bluebonnet district tartan owe their selection to the bluebonnet flower, a member of the lupin family, which is widespread in many parts of Texas. The flower changes colour with the passing of time, the 'brim' becoming flecked with wine red. The tartan was adopted as the Sequicentennial Tartan and Accredited by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRBWRWBWBWY](/stripes/grbwrwbwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r1db8ln1r1ln1b8ln1b8ln1y1/)
+(the same proportion at any scale), whose colour order is pattern [GRBWRWBWBWY](/stripes/grbwrwbwbwy/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=852
 

@@ -2,9 +2,10 @@
 title: "Scotia Village (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKRBRKKWKYKGRKGKRW](/stripes/rkrbrkkwkykgrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r90k1r2db8r2k9k3ln1k2y1k3g13r11k1g2k1r5ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKRBRKKWKYKGRKGKRW](/stripes/rkrbrkkwkykgrkgkrw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8805/
 

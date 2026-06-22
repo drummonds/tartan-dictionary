@@ -2,9 +2,10 @@
 title: "Tweedmouth Middle School"
 date: 2023-03-18
 ---
-In pattern [RYKGKRKRKRKW](/stripes/rykgkrkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p30y1k2g10k1r3k1r3k1r3k1w1/)
+(the same proportion at any scale), whose colour order is pattern [RYKGKRKRKRKW](/stripes/rykgkrkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Tweedmouth Middle School (Corporate
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 30/07/2002 — Tweedmouth Middle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167))
-- pre 2005 — Tweedmouth Middle School (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6740/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>30/07/2002 — Tweedmouth Middle School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4167">record</a>)</li>
+<li>pre 2005 — Tweedmouth Middle School (Corporate (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6740/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

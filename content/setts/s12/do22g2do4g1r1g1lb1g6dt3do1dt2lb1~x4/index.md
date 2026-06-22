@@ -2,9 +2,10 @@
 title: "Diana Hunting, Lady"
 date: 2023-03-18
 ---
-In pattern [BGBGRGWGBBBW](/stripes/bgbgrgwgbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t22ga2t4g1dra1g1n1g6db3dr1db2n1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRGWGBBBW](/stripes/bgbgrgwgbbbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=930
 

@@ -2,9 +2,10 @@
 title: "Gordon of Esselmont"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK](/stripes/bkbkgygygygkbkbkbkbkbkgygygygkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db14k14g14y2g2y4g2y2g14k14db2k2db2k2db15k2db2k2db2k14g14y2g2y4g2y2g14k14db14k2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGYGYGKBKBKBKBKBKGYGYGYGKBK](/stripes/bkbkgygygygkbkbkbkbkbkgygygygkbk/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1463
 

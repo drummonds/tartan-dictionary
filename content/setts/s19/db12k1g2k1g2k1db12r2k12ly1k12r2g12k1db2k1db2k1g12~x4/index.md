@@ -2,9 +2,10 @@
 title: "Ochiltree (Name)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRKYKRGKBKBKG](/stripes/bkgkgkbrkykrgkbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k1g2k1g2k1db12dr2k12y1k12dr2g12k1db2k1db2k1g12/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRKYKRGKBKBKG](/stripes/bkgkgkbrkykrgkbkbkg/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/321/
 

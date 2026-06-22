@@ -2,9 +2,10 @@
 title: "Glen Erin Canadian Tartan Tartan Number: 1909. Earliest known date: pre 2003 Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGBRGG](/stripes/bgbgbrgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba16g8db8g8dba16r3t3ga3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRGG](/stripes/bgbgbrgg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1909
 

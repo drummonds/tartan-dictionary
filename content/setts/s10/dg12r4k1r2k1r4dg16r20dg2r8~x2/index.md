@@ -2,18 +2,20 @@
 title: "Livingston"
 date: 2023-03-18
 ---
-In pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12dr4k1dr2k1dr4dg16dr20dg2dr8/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKRGRGR](/stripes/grkrkrgrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Livingston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Livingston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Livingston (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Livingston (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/24 DR8 K2 DR4 K2 DR8 DG32 DR40 DG4 DR/16

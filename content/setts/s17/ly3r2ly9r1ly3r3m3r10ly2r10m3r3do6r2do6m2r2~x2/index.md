@@ -2,9 +2,10 @@
 title: "Thom, Calum (Personal)"
 date: 2023-03-18
 ---
-In pattern [RRBRBRRRYRRRYRYRY](/stripes/rrbrbrrryrrryryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dr2y9dr1y3dr3dra3dr10y2dr10dra3dr3drb6dr2drb6dra2r2/)
+(the same proportion at any scale), whose colour order is pattern [RRBRBRRRYRRRYRYRY](/stripes/rrbrbrrryrrryryry/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11336
 

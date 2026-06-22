@@ -2,9 +2,10 @@
 title: "Ensemble Pour L'Avenir"
 date: 2023-03-18
 ---
-In pattern [BRBRRRRBRBWRWRRRBW](/stripes/brbrrrrbrbwrwrrrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3n1db2r14n2r1n2db10r10db10ln2r2ln2r14n6r10db10ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRRRRBRBWRWRRRBW](/stripes/brbrrrrbrbwrwrrrbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ville de St Georges
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Ensemble Pour L'Avenir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113))
-- 1998 — Ville de St Georges (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2595/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Ensemble Pour L'Avenir (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1113">record</a>)</li>
+<li>1998 — Ville de St Georges (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2595/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

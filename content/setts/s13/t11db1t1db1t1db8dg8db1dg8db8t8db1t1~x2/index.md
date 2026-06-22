@@ -2,9 +2,10 @@
 title: "Sutherland #3"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11ba1b1ba1b1ba8g8ba1g8ba8b8ba1b1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4043
 

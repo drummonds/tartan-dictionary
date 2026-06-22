@@ -2,9 +2,10 @@
 title: "Johnston (Clan)"
 date: 2023-03-18
 ---
-In pattern [KBKBGKGY](/stripes/kbkbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g2k1g30b24k2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKGY](/stripes/kbkbgkgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1063/
 

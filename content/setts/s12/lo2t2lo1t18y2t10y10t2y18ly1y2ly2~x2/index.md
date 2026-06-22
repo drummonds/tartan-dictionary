@@ -2,9 +2,10 @@
 title: "Yarmouth NS (District)"
 date: 2023-03-18
 ---
-In pattern [YBYBGBGBGYGY](/stripes/ybybgbgbgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g2y1g18b2g10b10g2b18lt1b2lt2/)
+(the same proportion at any scale), whose colour order is pattern [YBYBGBGBGYGY](/stripes/ybybgbgbgygy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8395/
 

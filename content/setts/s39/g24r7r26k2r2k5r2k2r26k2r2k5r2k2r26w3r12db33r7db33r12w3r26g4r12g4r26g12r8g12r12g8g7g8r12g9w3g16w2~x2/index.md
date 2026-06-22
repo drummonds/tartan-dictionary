@@ -2,9 +2,10 @@
 title: "Kinnoull (MacRae) Family Tartan Tartan Number: 983. Earliest known date: 1819 Check thread count against Sindex. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24r7r26k2r2k5r2k2r26k2r2k5r2k2r26ln3r12db33r7db33r12ln3r26g4r12g4r26g12r8g12r12g8ga7g8r12g9ln3g16ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/).
 
-This was sourced from house-of-tartan.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from house-of-tartan.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=983
 

@@ -2,18 +2,20 @@
 title: "MacDonell of Glengarry Dress"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r2db7r2db7r2k7g8r2g3r2g5ln2g5r2g3r2g8k9ln15k9r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGWGRGRGKWKR](/stripes/brbrbrkgrgrgwgrgrgkwkr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacDonell of Glengarry Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384))
-- pre 2002 — MacDonell of Glengarry Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1999/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacDonell of Glengarry Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2384">record</a>)</li>
+<li>pre 2002 — MacDonell of Glengarry Dress (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1999/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

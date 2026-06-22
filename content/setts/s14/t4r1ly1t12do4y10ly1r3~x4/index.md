@@ -2,9 +2,10 @@
 title: "Hawaiian"
 date: 2023-03-18
 ---
-In pattern [BRYBBGYRYGBBYR](/stripes/brybbgyrygbbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba4r1y1ba12t4n10y1r3/)
+(the same proportion at any scale), whose colour order is pattern [BRYBBGYRYGBBYR](/stripes/brybbgyrygbbyr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1626
 

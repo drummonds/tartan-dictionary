@@ -2,9 +2,10 @@
 title: "Flower of Scotland MINI Tartan Tartan Number: 20599. Earliest known date: Dupion Silk. Generated only for display purposes. reduced copy of the original 2059 Flower of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBKBR](/stripes/bgbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1b7k4b1g7b1/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBR](/stripes/bgbkbr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=20599
 

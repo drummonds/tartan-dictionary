@@ -2,9 +2,10 @@
 title: "MacRae The Princes Own"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20ln2r9b26r5b28r9ln2r22g3r8g3r22g8r6g8r6g5y3g5r7g12ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2753
 

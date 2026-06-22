@@ -2,9 +2,10 @@
 title: "Leeds, University of (Dance) #1"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g34r4g4r4g4r12g20ln5/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGWGRGRGR](/stripes/grgrgrgwgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2082
 

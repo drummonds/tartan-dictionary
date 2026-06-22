@@ -2,9 +2,10 @@
 title: "Muir Homes"
 date: 2023-03-18
 ---
-In pattern [BKBGBGBGBKY](/stripes/bkbgbgbgbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db66k20b7n4b5n4b5n4b7k2na6/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBGBGBKY](/stripes/bkbgbgbgbky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5992
 

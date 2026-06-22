@@ -2,9 +2,10 @@
 title: "MacGillivray"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4b1db1dr32b2dr2db12dr2dg16dr4b1dr4db2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

@@ -2,9 +2,10 @@
 title: "Fulton Family Tartan Tartan Number: 2205. Earliest known date: 1982 For anyone of the name Fulton. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKGRGRGRY](/stripes/rkgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k2g17r6g6r6g15r20dy3/)
+(the same proportion at any scale), whose colour order is pattern [RKGRGRGRY](/stripes/rkgrgrgry/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2205
 

@@ -2,9 +2,10 @@
 title: "Erskine Veterans"
 date: 2023-03-18
 ---
-In pattern [WBBKGRGKBY](/stripes/wbbkgrgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db14k14dg14r2dg14k14db14b1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBBKGRGKBY](/stripes/wbbkgrgkby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5870
 

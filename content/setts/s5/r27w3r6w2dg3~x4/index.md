@@ -2,9 +2,10 @@
 title: "Martin, Robert N (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWRWR](/stripes/gwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr27ln3dr6ln2dg3/)
+(the same proportion at any scale), whose colour order is pattern [GWRWR](/stripes/gwrwr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10481/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Martin, Robert N
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 25th May 2011 — Martin, Robert N (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10481/))
-- undated — Martin Family, Robert N Personal Tartan Tartan Number: 10481. Earliest known date: 2011 May This tartan was designed to honour Robert Nunley Martin. The maroon and white colours represent Texas A&M University where Robert Nunley Martin (and his grandson, Ian Thomas Martin) were educated. The dark green represents Baylor University where Robert's mother, Vernon Nunley Martin, and his grandson, Ryan Len Martin graduated. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10481))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25th May 2011 — Martin, Robert N (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10481/">record</a>)</li>
+<li>undated — Martin Family, Robert N Personal Tartan Tartan Number: 10481. Earliest known date: 2011 May This tartan was designed to honour Robert Nunley Martin. The maroon and white colours represent Texas A&M University where Robert Nunley Martin (and his grandson, Ian Thomas Martin) were educated. The dark green represents Baylor University where Robert's mother, Vernon Nunley Martin, and his grandson, Ryan Len Martin graduated. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10481">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/108 LN12 DR24 LN8 DG/12

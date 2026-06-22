@@ -2,9 +2,10 @@
 title: "Royal Pharmaceutical Society Commemorative Tartan Tartan Number: 2091. Earliest known date: 1991 Created by Kinloch Anderson of Edinburgh for the 150th Anniversary of the Royal Pharmaceutical Society of Great Britain which was held at Scone Palace, Perthshire in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGBGBYWBW](/stripes/bbgbgbywbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3db2g19db6g2db6lt14ln2p4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBYWBW](/stripes/bbgbgbywbw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2091
 

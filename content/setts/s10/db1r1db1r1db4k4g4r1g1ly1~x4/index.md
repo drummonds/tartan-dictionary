@@ -2,9 +2,10 @@
 title: "Logan, or MacLennan"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGRGY](/stripes/brbrbkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1g1r1g4k4b4r1b1r1b1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGRGY](/stripes/brbrbkgrgy/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

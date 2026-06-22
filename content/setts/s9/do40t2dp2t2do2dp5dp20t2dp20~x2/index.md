@@ -2,19 +2,21 @@
 title: "Phillips"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBB](/stripes/bbbbbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t40b2dp2b2t2p5dp20b2dp20/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBB](/stripes/bbbbbbbbb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2001 — Phillips (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013))
-- 2001 — Phillips (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3914/))
-- undated — Phillips Name Tartan Tartan Number: 3914. Earliest known date: 2001 Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire for Phillips worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3914))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2001 — Phillips (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5013">record</a>)</li>
+<li>2001 — Phillips (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3914/">record</a>)</li>
+<li>undated — Phillips Name Tartan Tartan Number: 3914. Earliest known date: 2001 Designed by Maxine Scott of House of Tartan and Rachael Phillips of Winsford, Cheshire for Phillips worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3914">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

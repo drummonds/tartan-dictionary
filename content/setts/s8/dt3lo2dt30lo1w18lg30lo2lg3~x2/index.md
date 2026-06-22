@@ -2,9 +2,10 @@
 title: "Bannockbane Green"
 date: 2023-03-18
 ---
-In pattern [BYBYWYYY](/stripes/bybywyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy2k30dy1ly18lg30o2lg3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYWYYY](/stripes/bybywyyy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4873
 

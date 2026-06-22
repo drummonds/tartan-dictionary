@@ -2,9 +2,10 @@
 title: "Illinois St.Andrews Society"
 date: 2023-03-18
 ---
-In pattern [BRBBYBRBYBBRBRBBYBRBYBBR](/stripes/brbbybrbybbrbrbbybrbybbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6dr3b24db12n6b6dr2b6n6b12db2dr2db6/)
+(the same proportion at any scale), whose colour order is pattern [BRBBYBRBYBBRBRBBYBRBYBBR](/stripes/brbbybrbybbrbrbbybrbybbr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1817
 

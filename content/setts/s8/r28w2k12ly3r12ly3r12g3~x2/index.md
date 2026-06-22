@@ -2,9 +2,10 @@
 title: "Hackston or Halkerston Family Tartan Tartan Number: 907. Earliest known date: 1987 Taken from a portrait (c. 1746) Red pivot reduced by half for display. Should read R112. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRYRYKWR](/stripes/gryrykwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28ln2k12y3r12y3r12g3/)
+(the same proportion at any scale), whose colour order is pattern [GRYRYKWR](/stripes/gryrykwr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=907
 

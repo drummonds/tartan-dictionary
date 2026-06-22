@@ -2,9 +2,10 @@
 title: "Virginia Military Institute, New Market"
 date: 2023-03-18
 ---
-In pattern [WRRGRKRRY](/stripes/wrrgrkrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6r30n2k3n30g3n2r25ln6/)
+(the same proportion at any scale), whose colour order is pattern [WRRGRKRRY](/stripes/wrrgrkrry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4467
 

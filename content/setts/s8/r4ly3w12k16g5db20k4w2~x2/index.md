@@ -2,9 +2,10 @@
 title: "Iowa Dress (District)"
 date: 2023-03-18
 ---
-In pattern [RYWKGBKW](/stripes/rywkgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4y3w12k16g5db20k4w2/)
+(the same proportion at any scale), whose colour order is pattern [RYWKGBKW](/stripes/rywkgbkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6382/
 

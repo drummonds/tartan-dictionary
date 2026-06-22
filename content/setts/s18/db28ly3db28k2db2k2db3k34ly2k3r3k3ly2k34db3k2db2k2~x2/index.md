@@ -2,9 +2,10 @@
 title: "Cleikum"
 date: 2023-03-18
 ---
-In pattern [BYBKBKBKYKRKYKBKBK](/stripes/bybkbkbkykrkykbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28y3db28k2db2k2db3k34y2k3r3k3y2k34db3k2db2k2/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKBKYKRKYKBKBK](/stripes/bybkbkbkykrkykbkbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cleikum (Fashion?
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2000 — Cleikum (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672))
-- 2000 — Cleikum (Fashion? (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4057/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Cleikum (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=672">record</a>)</li>
+<li>2000 — Cleikum (Fashion? (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4057/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

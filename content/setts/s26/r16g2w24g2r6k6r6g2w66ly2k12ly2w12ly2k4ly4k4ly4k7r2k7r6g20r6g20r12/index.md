@@ -2,9 +2,10 @@
 title: "Anderson"
 date: 2023-03-18
 ---
-In pattern [RGRGRKRKYKYKYWYKYWGRKRGWGR](/stripes/rgrgrkrkykykywykywgrkrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16g2w24g2r6k6r6g2w66y2k12y2w12y2k4y4k4y4k7r2k7r6g20r6g20r12/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRKRKYKYKYWYKYWGRKRGWGR](/stripes/rgrgrkrkykykywykywgrkrgwgr/).
 
-This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8975/
 

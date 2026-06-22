@@ -2,19 +2,21 @@
 title: "Armstrong"
 date: 2023-03-18
 ---
-In pattern [GKGKBKBKBR](/stripes/gkgkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db12k1db1k1db2k12g30k1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBKBKBR](/stripes/gkgkbkbkbr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Armstrong (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Armstrong (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Armstrong (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Armstrong (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Armstrong (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Armstrong (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 DB24 K2 DB2 K2 DB4 K24 G60 K2 G/4

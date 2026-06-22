@@ -2,9 +2,10 @@
 title: "Festival Intercltico de Avils (Coror"
 date: 2023-03-18
 ---
-In pattern [GKRWRBWBBY](/stripes/gkrwrbwbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2k1r5ln7r1db10ln1db10b30y1/)
+(the same proportion at any scale), whose colour order is pattern [GKRWRBWBBY](/stripes/gkrwrbwbby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8675/
 

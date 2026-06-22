@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gygy/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">GYGY</span></div>
+
 It is a 4 stripe tartan.
 
-![Woven sample](/setts/s4/lo81g6lo8g8~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GYGY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

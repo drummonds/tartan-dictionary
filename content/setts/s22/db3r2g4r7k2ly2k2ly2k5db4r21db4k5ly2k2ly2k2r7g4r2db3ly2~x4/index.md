@@ -2,9 +2,10 @@
 title: "Hepburn"
 date: 2023-03-18
 ---
-In pattern [BRGRKYKYKBRBKYKYKRGRBY](/stripes/brgrkykykbrbkykykrgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3r2g4r7k2y2k2y2k5db4r21db4k5y2k2y2k2r7g4r2db3y2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRKYKYKBRBKYKYKRGRBY](/stripes/brgrkykykbrbkykykrgrby/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1688
 

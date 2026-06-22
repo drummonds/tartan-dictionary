@@ -2,9 +2,10 @@
 title: "Rannoch Moor (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRBGRRGR](/stripes/grbgrrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra3g12dr12dra5g2db30dra2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRBGRRGR](/stripes/grbgrrgr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7273/
 

@@ -2,9 +2,10 @@
 title: "Clark (Clan)"
 date: 2023-03-18
 ---
-In pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2w2b15k15w2k15w2b3w2b7w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBKWKWBWBW](/stripes/bwbkwkwbwbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/633/
 

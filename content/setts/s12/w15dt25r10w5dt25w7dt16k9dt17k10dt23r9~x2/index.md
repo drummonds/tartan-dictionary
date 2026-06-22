@@ -2,9 +2,10 @@
 title: "North Carolina State University - Pack Plaid"
 date: 2023-03-18
 ---
-In pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w15k25r10w5k25w7k16ka9k17ka10k23r9/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBWBWRBW](/stripes/rbkbkbwbwrbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11133
 

@@ -2,9 +2,10 @@
 title: "Renton (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBBKGKBBKGKGKRKRGR](/stripes/kbbkgkbbkgkgkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt8t2lt8k4dr3k4t8k2t8k4db21n8k2t3k2n8db24k3/)
+(the same proportion at any scale), whose colour order is pattern [KBBKGKBBKGKGKRKRGR](/stripes/kbbkgkbbkgkgkrkrgr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7192/
 

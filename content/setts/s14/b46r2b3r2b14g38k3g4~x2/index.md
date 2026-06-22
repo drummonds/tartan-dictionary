@@ -2,9 +2,10 @@
 title: "Greenlaw, American"
 date: 2023-03-18
 ---
-In pattern [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b46r2b3r2b14ga38k3ga4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGKGKGBRBR](/stripes/brbrbgkgkgbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1528
 

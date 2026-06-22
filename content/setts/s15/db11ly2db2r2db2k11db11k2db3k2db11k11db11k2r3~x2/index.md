@@ -2,9 +2,10 @@
 title: "Bamcroft (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYBRBKBKBKBKBKR](/stripes/bybrbkbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11y2db2r2db2k11dba11k2dba3k2dba11k11db11k2r3/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBKBKBKBKBKR](/stripes/bybrbkbkbkbkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8053/
 

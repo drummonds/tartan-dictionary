@@ -2,9 +2,10 @@
 title: "Milne Green (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWRWGWRWRWGWRW](/stripes/bwrwgwrwrwgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5r2w12b17w12r2w12r2w12b17w12r2w5p2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWGWRWRWGWRW](/stripes/bwrwgwrwrwgwrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2954
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Milne Green Fancy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — Milne Green (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2954))
-- undated — Milne Green Fancy Tartan Tartan Number: 6549. Earliest known date: pre 2004 A dance version of #634 designed by Dr. Phil Smith of Georgia for a Highland dance teacher. Prior to the threadcount shown here (received from the designer Dr Phil Smith) the sett shown was P/8 W20 LB8 W48 G68 Y2 W48 LB8 W/48. The present sett shown here misses out the yellow and replaces light blue with red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6549))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Milne Green (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2954">record</a>)</li>
+<li>undated — Milne Green Fancy Tartan Tartan Number: 6549. Earliest known date: pre 2004 A dance version of #634 designed by Dr. Phil Smith of Georgia for a Highland dance teacher. Prior to the threadcount shown here (received from the designer Dr Phil Smith) the sett shown was P/8 W20 LB8 W48 G68 Y2 W48 LB8 W/48. The present sett shown here misses out the yellow and replaces light blue with red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6549">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

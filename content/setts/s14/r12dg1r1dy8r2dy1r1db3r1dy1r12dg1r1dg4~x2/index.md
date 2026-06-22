@@ -2,9 +2,10 @@
 title: "MacColl #2"
 date: 2023-03-18
 ---
-In pattern [GRGRGRBRGRGRGR](/stripes/grgrgrbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g1r1t8r2t1r1b3r1t1r12g1r1g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRGRGR](/stripes/grgrgrbrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2316
 

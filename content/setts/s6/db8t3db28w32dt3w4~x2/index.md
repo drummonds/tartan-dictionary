@@ -2,19 +2,21 @@
 title: "Ailsa, Royal Blue (Dance)"
 date: 2023-03-18
 ---
-In pattern [BBBWBW](/stripes/bbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba8b3dba28w32db3w4/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBW](/stripes/bbbwbw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7595/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- March 2008 — Ailsa, Royal Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7595/))
-- undated — Ailsa Royal Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5619))
-- undated — Ailsa Royal Blue Fashion Tartan Tartan Number: 7595. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7595))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Ailsa, Royal Blue (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7595/">record</a>)</li>
+<li>undated — Ailsa Royal Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5619">record</a>)</li>
+<li>undated — Ailsa Royal Blue Fashion Tartan Tartan Number: 7595. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7595">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

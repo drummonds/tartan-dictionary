@@ -2,18 +2,20 @@
 title: "Abercrombie"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14ln1g7k7b2k2b2k2b7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWG](/stripes/bkbkbkgwg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Abercrombie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Abercrombie Family Tartan Tartan Number: 241. Earliest known date: 1831 Tartan manufacturers and weavers often increase the width of the blue ground when producing this sett. J.Scarlett compares it with the Graham of Menteith and Wilson's No 158 and concludes that "the central panels... , both blue and green, should be doubled in size. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=241))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Abercrombie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Abercrombie Family Tartan Tartan Number: 241. Earliest known date: 1831 Tartan manufacturers and weavers often increase the width of the blue ground when producing this sett. J.Scarlett compares it with the Graham of Menteith and Wilson's No 158 and concludes that "the central panels... , both blue and green, should be doubled in size. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=241">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/28 LN2 G14 K14 B4 K4 B4 K4 B/14

@@ -2,9 +2,10 @@
 title: "Bell Family Tartan Tartan Number: 1489. Earliest known date: 1984 Designed for William H. Bell, Colonel, USAF Ret., President of the Bell Family Association of the United States (Clan Bell). The Bells are one of the eight great riding Clans of the Borders. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGKWKWYWY](/stripes/rgkwkwywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g2k9lp2k2lp24y2lp2y1/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKWYWY](/stripes/rgkwkwywy/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1489
 

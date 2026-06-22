@@ -2,9 +2,10 @@
 title: "MacLeod Dress Clan Tartan Tartan Number: 1272. Earliest known date: 1829 See illustration in Bain where red is 4 threads. Sir Thomas Dick Lauder in a letter to Sir Walter Scott in 1829 wrote, MacLeod has got a sketch of this splendid tartan, \"three black stryps upon ain yellow fylde,\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYKYR](/stripes/kykyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y1k4y6r1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYR](/stripes/kykyr/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1272
 

@@ -2,9 +2,10 @@
 title: "Joseph Linn Family (Monohon) Name Tartan Tartan Number: 10722. Earliest known date: 22 October 2012 Designed by Euan Dalgliesh and Joseph Linn. Joseph Linn and his wife, CathyJo, retired to the Monohon community on the shores of Lake Sammamish before the first of the next generation came into the world in October 2012. This tartan celebrates their recommitment to their family values and Celtic heritage. It also symbolises their hopes for a strong family connection for generations to come. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKRKGRGBKBKBKBW](/stripes/rkrkgrgbkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3db3r1db3r1db15r1db2g15lt1g2k20lt1k2lt2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKGRGBKBKBKBW](/stripes/rkrkgrgbkbkbkbw/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10722
 

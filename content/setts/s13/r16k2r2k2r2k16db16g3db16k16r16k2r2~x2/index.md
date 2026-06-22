@@ -2,9 +2,10 @@
 title: "MacLachlan"
 date: 2023-03-18
 ---
-In pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2r2k2r2k16db16g3db16k16r16k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - MacLachlan 3
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1831 — MacLachlan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581))
-- 1831 — MacLachlan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/732/))
-- undated — MacLachlan 3 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacLachlan Clan Tartan Tartan Number: 732. Earliest known date: 1850 T. Smibert produced a book entitled, 'The Clans of the Highlands of Scotland' in 1850 which is widely regarded as an accurate source for the tartans illustrated within it. Smibert had access to the patterns of Wilson's of Bannockburn who had been weavers 'since the '45', and to the works of Logan and the Sobieski brothers. Of the three distinct versions of MacLachlan tartan, Smiberts rendering is the one woven today, and it would appear to have a longer history than might be gathered from the date of its first publication. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=732))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1831 — MacLachlan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2581">record</a>)</li>
+<li>1831 — MacLachlan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/732/">record</a>)</li>
+<li>undated — MacLachlan 3 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacLachlan Clan Tartan Tartan Number: 732. Earliest known date: 1850 T. Smibert produced a book entitled, 'The Clans of the Highlands of Scotland' in 1850 which is widely regarded as an accurate source for the tartans illustrated within it. Smibert had access to the patterns of Wilson's of Bannockburn who had been weavers 'since the '45', and to the works of Logan and the Sobieski brothers. Of the three distinct versions of MacLachlan tartan, Smiberts rendering is the one woven today, and it would appear to have a longer history than might be gathered from the date of its first publication. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=732">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

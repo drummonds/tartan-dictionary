@@ -2,9 +2,10 @@
 title: "MacKay - 1800 (Reay Coat) (Artefact)"
 date: 2023-03-18
 ---
-In pattern [GBGGYGG](/stripes/gbggygg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t9g9y2g9t9b9t3/)
+(the same proportion at any scale), whose colour order is pattern [GBGGYGG](/stripes/gbggygg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1047/
 

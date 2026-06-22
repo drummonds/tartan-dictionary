@@ -2,9 +2,10 @@
 title: "Greater St. Louis Firefighters (Cor)"
 date: 2023-03-18
 ---
-In pattern [BWWBRBWBR](/stripes/bwwbrbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3lra3lr38n25r3n6lra7n3r2/)
+(the same proportion at any scale), whose colour order is pattern [BWWBRBWBR](/stripes/bwwbrbwbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10336/
 

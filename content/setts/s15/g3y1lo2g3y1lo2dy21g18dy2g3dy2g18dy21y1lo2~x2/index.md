@@ -2,9 +2,10 @@
 title: "Prince David"
 date: 2023-03-18
 ---
-In pattern [GGYGGYGGGGGGGGY](/stripes/ggyggyggggggggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3g1o2ga3g1o2t21ga18t2ga3t2ga18t21g1o2/)
+(the same proportion at any scale), whose colour order is pattern [GGYGGYGGGGGGGGY](/stripes/ggyggyggggggggy/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3387
 

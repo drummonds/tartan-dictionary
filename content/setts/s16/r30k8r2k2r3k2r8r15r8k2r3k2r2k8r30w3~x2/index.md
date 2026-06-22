@@ -2,9 +2,10 @@
 title: "Chicago University of.. Corporate Tartan Tartan Number: 2073. Earliest known date: 1991 William Rainey Harper, a Scot, was founder and first president of the University. Andrew MacLeish was one of the original trustees. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr30k8dr2k2dr3k2dr8r15dr8k2dr3k2dr2k8dr30ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2073
 

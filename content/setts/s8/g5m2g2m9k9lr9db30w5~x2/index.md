@@ -2,18 +2,20 @@
 title: "Alexander of Menstry"
 date: 2023-03-18
 ---
-In pattern [GRGRKYBW](/stripes/grgrkybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5lp2g2lp9k9n9db30w5/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKYBW](/stripes/grgrkybw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=47
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/2002 — Alexander of Menstry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=47))
-- 2002 — Alexander of Menstry (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6713/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/2002 — Alexander of Menstry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=47">record</a>)</li>
+<li>2002 — Alexander of Menstry (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6713/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

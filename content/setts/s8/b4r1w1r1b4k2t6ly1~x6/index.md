@@ -2,9 +2,10 @@
 title: "Lopatinsky"
 date: 2023-03-18
 ---
-In pattern [BRWRBKBY](/stripes/brwrbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r1w1r1b4k2ba6y1/)
+(the same proportion at any scale), whose colour order is pattern [BRWRBKBY](/stripes/brwrbkby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5745
 

@@ -2,9 +2,10 @@
 title: "Justus dress"
 date: 2023-03-18
 ---
-In pattern [BWRWYWB](/stripes/bwrwywb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1ln4r1ln1y1ln4b1/)
+(the same proportion at any scale), whose colour order is pattern [BWRWYWB](/stripes/bwrwywb/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

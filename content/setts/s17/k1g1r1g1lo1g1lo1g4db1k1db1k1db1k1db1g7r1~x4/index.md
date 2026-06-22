@@ -2,18 +2,20 @@
 title: "Myron"
 date: 2023-03-18
 ---
-In pattern [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g1dr1g1dy1g1dy1g4db1k1db1k1db1k1db1g7dr1/)
+(the same proportion at any scale), whose colour order is pattern [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1920 — Myron (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086))
-- circa 1920s — Myron (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1105/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1920 — Myron (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3086">record</a>)</li>
+<li>circa 1920s — Myron (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1105/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

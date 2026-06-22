@@ -2,9 +2,10 @@
 title: "Unnamed 18th century plaid (Carlisle Museum)"
 date: 2023-03-18
 ---
-In pattern [RBKYRKGKRRW](/stripes/rbkyrkgkrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db2k3y3r3k3t10k12ra3r16w1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYRKGKRRW](/stripes/rbkyrkgkrrw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4419
 

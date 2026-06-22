@@ -2,9 +2,10 @@
 title: "Strathyre Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [GRGWGBGBWBGBGWGRGW](/stripes/grgwgbgbwbgbgwgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w55g12r2g3w2gb10p9g2p6w2/)
+(the same proportion at any scale), whose colour order is pattern [GRGWGBGBWBGBGWGRGW](/stripes/grgwgbgbwbgbgwgrgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3989
 

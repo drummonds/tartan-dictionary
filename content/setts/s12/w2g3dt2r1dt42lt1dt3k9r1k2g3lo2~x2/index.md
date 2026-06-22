@@ -2,9 +2,10 @@
 title: "Sedge, Douglas (Personal)"
 date: 2023-03-18
 ---
-In pattern [WGBRBWBKRKGY](/stripes/wgbrbwbkrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g3k2dr1k9db3lb1db42dr1db2g3w2/)
+(the same proportion at any scale), whose colour order is pattern [WGBRBWBKRKGY](/stripes/wgbrbwbkrkgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11400
 

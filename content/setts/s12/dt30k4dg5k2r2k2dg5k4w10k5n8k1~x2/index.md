@@ -2,9 +2,10 @@
 title: "Lyon, Jeffrey M (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKRKGKWKBK](/stripes/bkgkrkgkwkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30dn4dg5dn2r2dn2dg5dn4w10dn5b8dn1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRKGKWKBK](/stripes/bkgkrkgkwkbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10556
 

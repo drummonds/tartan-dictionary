@@ -2,9 +2,10 @@
 title: "White Stripes (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KWKWRWR](/stripes/kwkwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7ly3k7ly45r3ly3r3/)
+(the same proportion at any scale), whose colour order is pattern [KWKWRWR](/stripes/kwkwrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7461/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - White Stripes, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — White Stripes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7461/))
-- undated — White Stripes, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — White Stripes (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7461/">record</a>)</li>
+<li>undated — White Stripes, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5507">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

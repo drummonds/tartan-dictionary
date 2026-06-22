@@ -2,9 +2,10 @@
 title: "MacInnes, dress"
 date: 2023-03-18
 ---
-In pattern [GWGKGKGKWKBGR](/stripes/gwgkgkgkwkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g8b24k4ln4k4g24k3g3k3g3ln24g4/)
+(the same proportion at any scale), whose colour order is pattern [GWGKGKGKWKBGR](/stripes/gwgkgkgkwkbgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacInnes, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacInnes, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacInnes Dress Clan Tartan Tartan Number: 923. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=923))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacInnes, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacInnes Dress Clan Tartan Tartan Number: 923. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=923">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 G16 B48 K8 LN8 K8 G48 K6 G6 K6 G6 LN48 G/8

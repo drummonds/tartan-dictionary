@@ -2,9 +2,10 @@
 title: "Takla Makan (Red)"
 date: 2023-03-18
 ---
-In pattern [BRWRBRBRWBRBWBRBWRKRBRKRWBRBWBRBWRBRBRWR](/stripes/brwrbrbrwbrbwbrbwrkrbrkrwbrbwbrbwrbrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1w2r12dba1r2dba1r12w1dba1r1dba1lp1dba1r1dba1w1r6k2r7dra4r7k2r6w1dba1r1dba1lp1dba1r1dba1w1r12dba1r2dba1r12w2r1dba1/)
+(the same proportion at any scale), whose colour order is pattern [BRWRBRBRWBRBWBRBWRKRBRKRWBRBWBRBWRBRBRWR](/stripes/brwrbrbrwbrbwbrbwrkrbrkrwbrbwbrbwrbrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4067
 

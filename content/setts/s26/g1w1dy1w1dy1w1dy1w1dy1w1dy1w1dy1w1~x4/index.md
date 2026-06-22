@@ -2,9 +2,10 @@
 title: "Tulchan Estate Check (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/gwgwgwgwgwgwgwgwgwgwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1w1t1w1t1w1t1w1t1w1t1w1t1w1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGWGWGWGWGWGWGWGWGW](/stripes/gwgwgwgwgwgwgwgwgwgwgwgwgw/).
 
-This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7925/
 

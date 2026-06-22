@@ -2,9 +2,10 @@
 title: "California Department of Forestry (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGGRGKGRGBY](/stripes/gggrgkgrgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt30dg5g3r1g3k1g3r1g3db1dy1/)
+(the same proportion at any scale), whose colour order is pattern [GGGRGKGRGBY](/stripes/gggrgkgrgby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5352
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - California Dept. of Forestry
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/07/1994 — California Department of Forestry (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5352))
-- 1994 — California Dept. of Forestry (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3785/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/07/1994 — California Department of Forestry (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5352">record</a>)</li>
+<li>1994 — California Dept. of Forestry (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3785/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

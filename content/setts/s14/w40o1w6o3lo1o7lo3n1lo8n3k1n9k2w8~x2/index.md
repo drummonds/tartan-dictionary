@@ -2,9 +2,10 @@
 title: "Snowy Owl (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln40na1ln6na3lt1na7lt3n1lt8n3k1n9k2ln8/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBYBYRYRWRW](/stripes/wkbkbybyryrwrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10164/
 

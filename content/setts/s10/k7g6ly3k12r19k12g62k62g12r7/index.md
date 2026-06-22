@@ -2,18 +2,20 @@
 title: "Danareth"
 date: 2023-03-18
 ---
-In pattern [KGYKRKGKGR](/stripes/kgykrkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7g6y3k12dr19k12g62k62g12dr7/)
+(the same proportion at any scale), whose colour order is pattern [KGYKRKGKGR](/stripes/kgykrkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10555
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 16/01/2012 — Danareth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10555))
-- 16th Jan. 2012 — Danareth (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10555/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>16/01/2012 — Danareth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10555">record</a>)</li>
+<li>16th Jan. 2012 — Danareth (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10555/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Snaefell"
 date: 2023-03-18
 ---
-In pattern [GWGGGGGGGGGGGW](/stripes/gwgggggggggggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w16ta14g2ta2g2ta2g22ta2g2ta2g2ta14w16ta3/)
+(the same proportion at any scale), whose colour order is pattern [GWGGGGGGGGGGGW](/stripes/gwgggggggggggw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3826
 

@@ -2,18 +2,20 @@
 title: "Edinburgh Napier University (Corp.)"
 date: 2023-03-18
 ---
-In pattern [BWBWKGRY](/stripes/bwbwkgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4w4b4w5k8g2r19dy1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWKGRY](/stripes/bwbwkgry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10005/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb. 2009 — Edinburgh Napier University (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10005/))
-- undated — Edinburgh Napier University Corporate Tartan Tartan Number: 10005. Earliest known date: Feb. 2009 Based on the Clan Napier sett and incorporating the colours from the University's coat of arms. Against a red background the white is predominant. The red square divided by a dark green line and a border of gold corresponds to the four red roses with fine green leaves and gold seeds, featured on the coat of arms. This red also represents the main colour of the University's logo, the red triangle. The three azure blue lines correspond to the three crescent moon shapes. Exclusively design by Kinloch Anderson for Edinburgh Napier University. Restricted availability. Please contact Kinloch Anderson regarding its use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10005))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb. 2009 — Edinburgh Napier University (Corp.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10005/">record</a>)</li>
+<li>undated — Edinburgh Napier University Corporate Tartan Tartan Number: 10005. Earliest known date: Feb. 2009 Based on the Clan Napier sett and incorporating the colours from the University's coat of arms. Against a red background the white is predominant. The red square divided by a dark green line and a border of gold corresponds to the four red roses with fine green leaves and gold seeds, featured on the coat of arms. This red also represents the main colour of the University's logo, the red triangle. The three azure blue lines correspond to the three crescent moon shapes. Exclusively design by Kinloch Anderson for Edinburgh Napier University. Restricted availability. Please contact Kinloch Anderson regarding its use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10005">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 W8 B8 W10 K16 G4 R38 DY/2

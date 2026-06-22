@@ -2,9 +2,10 @@
 title: "Alberta Trade Tartan Tartan Number: 1945. Earliest known date: pre 2003 From a Canadian pattern book. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g50k4t6db28t1db1t1db1t1db1t1db1t1db1t1db1t8k24g12k4db20k1db1k1db1k1db1k1db1k1db1k1db1k8g8db16/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKGBGBGBGBGBGBGBGKG](/stripes/bgkbkbkbkbkbkbkbkgkgbgbgbgbgbgbgbgkg/).
 
-This was sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1945
 

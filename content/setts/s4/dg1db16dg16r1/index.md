@@ -2,9 +2,10 @@
 title: "Barclay Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGR](/stripes/gbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g16db16g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Barclay Htg
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Barclay Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Barclay Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Barclay Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Barclay Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/1 G16 DB16 G/1

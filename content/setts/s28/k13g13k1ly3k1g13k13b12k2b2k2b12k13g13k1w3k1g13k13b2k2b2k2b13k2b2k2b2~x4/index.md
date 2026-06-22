@@ -2,9 +2,10 @@
 title: "Campbell of Argyll (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13g13k1y3k1g13k13b12k2b2k2b12k13g13k1w3k1g13k13b2k2b2k2b13k2b2k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGKWKGKBKBKBKGKYKGK](/stripes/bkbkbkbkbkgkwkgkbkbkbkgkykgk/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1961/
 

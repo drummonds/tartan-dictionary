@@ -2,9 +2,10 @@
 title: "National Defense"
 date: 2023-03-18
 ---
-In pattern [RWBWRY](/stripes/rwbwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr40w2b2w2dr1y20/)
+(the same proportion at any scale), whose colour order is pattern [RWBWRY](/stripes/rwbwry/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - National Defense Commemorative
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/03/2009 — National Defense (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097))
-- 13th March 2009 — National Defense (Unauthorised) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10097/))
-- undated — National Defense Commemorative Tartan Tartan Number: 10097. Earliest known date: 13th March 2009 Designed by Mark Wright of The Frugal Corner in the USA to honour all those who had been awarded the US Military National Defense Medal and is based on the ribbon colours of that medal. The application reads, "to honour all those who have served in defence of their country." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10097))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2009 — National Defense (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10097">record</a>)</li>
+<li>13th March 2009 — National Defense (Unauthorised) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10097/">record</a>)</li>
+<li>undated — National Defense Commemorative Tartan Tartan Number: 10097. Earliest known date: 13th March 2009 Designed by Mark Wright of The Frugal Corner in the USA to honour all those who had been awarded the US Military National Defense Medal and is based on the ribbon colours of that medal. The application reads, "to honour all those who have served in defence of their country." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10097">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Mitchell Family Tartan Tartan Number: 2142. Earliest known date: 1816-20 Named in honour of General Billy Mitchell when it was adopted as the tartan of the United States Air Force pipe band. The sett is also known as Russell, Hunter and Galbraith. The earliest reference to the tartan is in the collection of the Highland Society of London where it is labelled Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGKRBW](/stripes/kgkrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g8k8r2db8ln2/)
+(the same proportion at any scale), whose colour order is pattern [KGKRBW](/stripes/kgkrbw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2142
 

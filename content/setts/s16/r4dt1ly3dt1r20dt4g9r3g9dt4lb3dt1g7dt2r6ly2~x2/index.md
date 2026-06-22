@@ -2,9 +2,10 @@
 title: "Brown-Wells (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBYBRBGRGBWBGBRY](/stripes/rbybrbgrgbwbgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k1y3k1r20k4g9r3g9k4lb3k1g7k2r6y2/)
+(the same proportion at any scale), whose colour order is pattern [RBYBRBGRGBWBGBRY](/stripes/rbybrbgrgbwbgbry/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11378
 

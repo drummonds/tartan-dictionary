@@ -2,9 +2,10 @@
 title: "Army Benevolent Fund (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBRGRBGBGBR](/stripes/bgbrgrbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25g29dba24r2g11r2dba24g29db25t4db5r4/)
+(the same proportion at any scale), whose colour order is pattern [BGBRGRBGBGBR](/stripes/bgbrgrbgbgbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10446/
 

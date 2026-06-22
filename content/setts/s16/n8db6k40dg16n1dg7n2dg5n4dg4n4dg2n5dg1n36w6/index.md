@@ -2,9 +2,10 @@
 title: "Bell-McTier Thistle"
 date: 2023-03-18
 ---
-In pattern [BBKGBGBGBGBGBGBW](/stripes/bbkgbgbgbgbgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8dba6db40g16b1g7b2g5b4g4b4g2b5g1b36w6/)
+(the same proportion at any scale), whose colour order is pattern [BBKGBGBGBGBGBGBW](/stripes/bbkgbgbgbgbgbgbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10380
 

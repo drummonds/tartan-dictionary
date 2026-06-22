@@ -2,9 +2,10 @@
 title: "United States Trade sett Tartan Tartan Number: 2126. Earliest known date: 1989 This design is different in warp and weft. The display gives the general appearance only. Produced to celebrate American tourism is Scotland. The colours are taken from the flags of the two nations and the Atlantic Ocean that separates them. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYBRBBBY](/stripes/bbybrbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7dba5n6dba5r7dba2db2dba70n2/)
+(the same proportion at any scale), whose colour order is pattern [BBYBRBBBY](/stripes/bbybrbbby/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2126
 

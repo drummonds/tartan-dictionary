@@ -2,9 +2,10 @@
 title: "New Mexico"
 date: 2023-03-18
 ---
-In pattern [RGBGBYRY](/stripes/rgbgbyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g16b2g10b22y4r2y1/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBYRY](/stripes/rgbgbyry/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

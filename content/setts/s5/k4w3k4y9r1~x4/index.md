@@ -2,9 +2,10 @@
 title: "Oban Grey"
 date: 2023-03-18
 ---
-In pattern [KWKGR](/stripes/kwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln3k4n9r1/)
+(the same proportion at any scale), whose colour order is pattern [KWKGR](/stripes/kwkgr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Oban, Grey
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Oban Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212))
-- undated — Oban, Grey (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Oban Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3212">record</a>)</li>
+<li>undated — Oban, Grey (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

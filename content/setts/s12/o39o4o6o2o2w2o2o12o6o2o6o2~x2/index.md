@@ -2,9 +2,10 @@
 title: "Glen Clova"
 date: 2023-03-18
 ---
-In pattern [RRRRRRWRRRRR](/stripes/rrrrrrwrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t39lta4ta6lt2ta2ln2ta2lta12t6ta2t6lt2/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRRWRRRRR](/stripes/rrrrrrwrrrrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Donald of Staffa's Sett"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR](/stripes/rgrgrgrgrgrgrkgkrgrgrgrwrgwgrgrgrgkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30lg5r27dg5r5dg5r5dg5r5dg5r25dg5r5k2dg28k2r5dg5r28dg5r5lg28r26ln5r26dg24ln2dg24r7dg5r28dg5r7dg5k5r7lg5r7lg5r24/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRGRGRKGKRGRGRGRWRGWGRGRGRGKRGRGR](/stripes/rgrgrgrgrgrgrkgkrgrgrgrwrgwgrgrgrgkrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=949
 

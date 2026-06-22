@@ -2,9 +2,10 @@
 title: "Invertere, (Daks)"
 date: 2023-03-18
 ---
-In pattern [RGRBRGRR](/stripes/rgrbrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5dg12lt4db4lt22dg3lt4dr5/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGRR](/stripes/rgrbrgrr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

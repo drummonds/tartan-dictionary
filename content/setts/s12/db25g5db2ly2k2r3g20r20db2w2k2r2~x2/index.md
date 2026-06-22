@@ -2,9 +2,10 @@
 title: "Quebec, Plaid Du"
 date: 2023-03-18
 ---
-In pattern [BGBYKRGRBWKR](/stripes/bgbykrgrbwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25g5db2y2k2r3g20r20db2ln2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BGBYKRGRBWKR](/stripes/bgbykrgrbwkr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Quebec, Plaid Du
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Quebec, Plaid Du (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Quebec Plaid Du.. Corporate Tartan Tartan Number: 1949. Earliest known date: 1965 The Scottish Tartans Society received a sample from A.C.Lumsden which is slightly different. (The black and the dark blue are almost indistinguishable). The colours of the tartan are taken from the Provincial Coat of Arms. The tartan is not registered with Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1949))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Quebec, Plaid Du (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Quebec Plaid Du.. Corporate Tartan Tartan Number: 1949. Earliest known date: 1965 The Scottish Tartans Society received a sample from A.C.Lumsden which is slightly different. (The black and the dark blue are almost indistinguishable). The colours of the tartan are taken from the Provincial Coat of Arms. The tartan is not registered with Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1949">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/50 G10 DB4 Y4 K4 R6 G40 R40 DB4 LN4 K4 R/4

@@ -2,18 +2,20 @@
 title: "MacFie Dress"
 date: 2023-03-18
 ---
-In pattern [WRGRWRGRY](/stripes/wrgrwrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy1dr12g2dr2ln16dr2g2dr12ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRWRGRY](/stripes/wrgrwrgry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacFie Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436))
-- pre 2002 — MacFie Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4563/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacFie Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2436">record</a>)</li>
+<li>pre 2002 — MacFie Dress (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4563/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

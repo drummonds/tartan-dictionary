@@ -2,9 +2,10 @@
 title: "Ramada Corporate Tartan Tartan Number: 6374. Earliest known date: 2004 Re-created from an artifact in the Telfer Dunbar collection at the Scottish Tartans Museum. The unusual bleaching effect that has occurred either by design or by age, has been enhanced in this new design. It is a feature often seen in silk fabrics over 200 years old. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r66n1db1r6dg30r6db1n1r3db16r3n1db1r54dg3lr1r6dg6/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRBBRBRBBRGRBBRBBRGRBBRBRBBRGRR](/stripes/grrgrbbrbrbbrgrbbrbbrgrbbrbrbbrgrr/).
 
-This was sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6374
 

@@ -2,9 +2,10 @@
 title: "Cornish National Small Set Tartan Tartan Number: 7651. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKBYKW](/stripes/rkbykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k11y11b3k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKBYKW](/stripes/rkbykw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7651
 

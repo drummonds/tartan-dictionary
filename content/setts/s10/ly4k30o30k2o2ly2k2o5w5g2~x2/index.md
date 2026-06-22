@@ -2,9 +2,10 @@
 title: "Haileybury Pipe Band (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GWRKYRKRKY](/stripes/gwrkyrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k30dr30k2dr2y2k2dr5ln5g2/)
+(the same proportion at any scale), whose colour order is pattern [GWRKYRKRKY](/stripes/gwrkyrkrky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10134/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Haileybury Pipe Band
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2010 — Haileybury Pipe Band (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10134/))
-- undated — Haileybury Pipe Band Corporate Tartan Tartan Number: 10134. Earliest known date: 2010 The Haileybury tartan was designed to recognise the existence of the Haileybury Pipes and Drums of Haileybury College, Melbourne, Australia and marks the unification of Haileybury College and Haileybury Girls College bands. Permission to use this tartan should be sought from Haileybury College, 855-891 Springvale Road, Keysborough, Victoria 3173, Melbourne, Australia. The dark red colour is unique to the school. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10134))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2010 — Haileybury Pipe Band (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10134/">record</a>)</li>
+<li>undated — Haileybury Pipe Band Corporate Tartan Tartan Number: 10134. Earliest known date: 2010 The Haileybury tartan was designed to recognise the existence of the Haileybury Pipes and Drums of Haileybury College, Melbourne, Australia and marks the unification of Haileybury College and Haileybury Girls College bands. Permission to use this tartan should be sought from Haileybury College, 855-891 Springvale Road, Keysborough, Victoria 3173, Melbourne, Australia. The dark red colour is unique to the school. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10134">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/8 K60 DR60 K4 DR4 Y4 K4 DR10 LN10 G/4

@@ -2,9 +2,10 @@
 title: "Banff, White (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRBRWYW](/stripes/wrbrwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w8y3w22n22dra3dr2w4/)
+(the same proportion at any scale), whose colour order is pattern [WRBRWYW](/stripes/wrbrwyw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3646/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Banff, White
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Banff, White (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3646/))
-- undated — Banff (White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4952))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Banff, White (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3646/">record</a>)</li>
+<li>undated — Banff (White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4952">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

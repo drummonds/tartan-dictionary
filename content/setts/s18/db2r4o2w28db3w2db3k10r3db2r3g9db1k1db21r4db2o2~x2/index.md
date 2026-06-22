@@ -2,9 +2,10 @@
 title: "Cooper, dress"
 date: 2023-03-18
 ---
-In pattern [BRRWBWBKRBRGBKBRBR](/stripes/brrwbwbkrbrgbkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r4lt2ln28b3ln2b3k10r3b2r3g9b1k1b21r4b2lt2/)
+(the same proportion at any scale), whose colour order is pattern [BRRWBWBKRBRGBKBRBR](/stripes/brrwbwbkrbrgbkbrbr/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

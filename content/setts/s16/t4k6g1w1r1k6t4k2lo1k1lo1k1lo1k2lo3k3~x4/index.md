@@ -2,9 +2,10 @@
 title: "Baseggio Name Tartan Tartan Number: 10628. Earliest known date: 23/05/2012 This tartan is for members of the Golden Bones branch of the Baseggio family, one of the oldest houses of the city of Venice, Italy, but it can be worn by anyone who likes the design. Colours: gold and blue are for the Baseggio coat of arms, the thick golden line represents the crown and the three thin golden lines are for the three bones; the green, white and red stripes represent the Italian Tricolore flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGWRKBKYKYKYKYK](/stripes/bkgwrkbkykykykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4db6lg1w1r1db6b4db2y1db1y1db1y1db2y3db3/)
+(the same proportion at any scale), whose colour order is pattern [BKGWRKBKYKYKYKYK](/stripes/bkgwrkbkykykykyk/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10628
 

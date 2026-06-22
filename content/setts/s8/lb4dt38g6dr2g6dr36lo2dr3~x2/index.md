@@ -2,9 +2,10 @@
 title: "Scotland 2000 (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BYBGBGBW](/stripes/bybgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4db38g6dr2g6dr36dy2dr3/)
+(the same proportion at any scale), whose colour order is pattern [BYBGBGBW](/stripes/bybgbgbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2514/
 

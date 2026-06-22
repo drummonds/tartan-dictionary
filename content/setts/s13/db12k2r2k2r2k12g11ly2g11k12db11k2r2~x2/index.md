@@ -2,9 +2,10 @@
 title: "Black Watch Plaid of Pipers"
 date: 2023-03-18
 ---
-In pattern [BKRKRKGYGKBKR](/stripes/bkrkrkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2r2k2r2k12g11y2g11k12db11k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKGYGKBKR](/stripes/bkrkrkgygkbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=283
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Black Watch, Plaid of Pipers...
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1795 — Black Watch Plaid of Pipers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=283))
-- undated — Black Watch, Plaid of Pipers... (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1795 — Black Watch Plaid of Pipers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=283">record</a>)</li>
+<li>undated — Black Watch, Plaid of Pipers... (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

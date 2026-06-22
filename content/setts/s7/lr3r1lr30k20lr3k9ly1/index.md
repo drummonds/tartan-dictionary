@@ -2,9 +2,10 @@
 title: "MacPherson Dress"
 date: 2023-03-18
 ---
-In pattern [YKYKYRY](/stripes/ykykyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3dr1n30k20n3k9lg1/)
+(the same proportion at any scale), whose colour order is pattern [YKYKYRY](/stripes/ykykyry/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

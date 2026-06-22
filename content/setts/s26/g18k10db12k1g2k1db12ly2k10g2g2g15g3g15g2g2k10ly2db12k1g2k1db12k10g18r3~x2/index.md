@@ -2,9 +2,10 @@
 title: "Leinster Irish District Tartan Tartan Number: 4062. Earliest known date: 1997 One of the collection of Irish tartans to acknowledge the early historical and cultural links between the Scots and the Irish. Dublin is the principal city of Leinster. Woven swatch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBKGKBYKGGGGGGGKYBKGKBKGR](/stripes/gkbkgkbykgggggggkybkgkbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga18k10dba12k1g2k1dba12y2k10g2ga2g15ga3g15ga2g2k10y2dba12k1g2k1dba12k10ga18r3/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKBYKGGGGGGGKYBKGKBKGR](/stripes/gkbkgkbykgggggggkybkgkbkgr/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4062
 

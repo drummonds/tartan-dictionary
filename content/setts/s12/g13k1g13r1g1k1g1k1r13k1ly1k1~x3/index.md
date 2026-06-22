@@ -2,9 +2,10 @@
 title: "Ulster"
 date: 2023-03-18
 ---
-In pattern [GKGRGKGKRKYK](/stripes/gkgrgkgkrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13k1g13r1g1k1g1k1r13k1y1k1/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKGKRKYK](/stripes/gkgrgkgkrkyk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ulster Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ulster (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ulster Red Irish District Tartan Tartan Number: 792. Earliest known date: pre 1999 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=792))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ulster (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ulster Red Irish District Tartan Tartan Number: 792. Earliest known date: pre 1999 Originally listed as MacNeil, this sett was identified by Ken Dalgliesh, weaver in Selkirk, in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=792">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/39 K3 G39 R3 G3 K3 G3 K3 R39 K3 Y3 K/3

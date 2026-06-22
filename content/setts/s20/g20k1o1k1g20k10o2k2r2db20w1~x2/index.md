@@ -2,9 +2,10 @@
 title: "Storrie"
 date: 2023-03-18
 ---
-In pattern [GKRKGKRKRBWBRKRKGKRK](/stripes/gkrkgkrkrbwbrkrkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20k1n1k1g20k10n2k2r2dba20w1/)
+(the same proportion at any scale), whose colour order is pattern [GKRKGKRKRBWBRKRKGKRK](/stripes/gkrkgkrkrbwbrkrkgkrk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5131
 

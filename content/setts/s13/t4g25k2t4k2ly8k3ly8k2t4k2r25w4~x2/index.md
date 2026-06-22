@@ -2,9 +2,10 @@
 title: "Buchanan 9"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g25k2b4k2y8k3y8k2b4k2r25ln4/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKRW](/stripes/bgkbkykykbkrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Buchanan
 - Buchanan #4
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Buchanan 9 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=174))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Buchanan 9 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Buchanan Clan Tartan Tartan Number: 174. Earliest known date: pre 2003 Colours similar to Logan's (171) but thread count is proportionately larger. Also known as Baxter. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=174">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 G50 K4 B8 K4 Y16 K6 Y16 K4 B8 K4 R50 LN/8

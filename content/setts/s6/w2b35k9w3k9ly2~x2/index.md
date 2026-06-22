@@ -2,9 +2,10 @@
 title: "Hannah (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBKWKY](/stripes/wbkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k9w3k9b35w2/)
+(the same proportion at any scale), whose colour order is pattern [WBKWKY](/stripes/wbkwky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5976
 

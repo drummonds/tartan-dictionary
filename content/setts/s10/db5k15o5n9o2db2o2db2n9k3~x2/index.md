@@ -2,9 +2,10 @@
 title: "Ryukoku University Heian SHS (Corp)"
 date: 2023-03-18
 ---
-In pattern [BKRBRBRBBK](/stripes/bkrbrbrbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5k15na5n9na2dba2na2dba2n9k3/)
+(the same proportion at any scale), whose colour order is pattern [BKRBRBRBBK](/stripes/bkrbrbrbbk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10717/
 

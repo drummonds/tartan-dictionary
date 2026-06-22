@@ -2,9 +2,10 @@
 title: "Dark Island Black (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4k2n2k4n20k43n2k4n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKB](/stripes/bkbkbkbkb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5832/
 

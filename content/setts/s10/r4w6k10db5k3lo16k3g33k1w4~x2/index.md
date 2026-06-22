@@ -2,9 +2,10 @@
 title: "Fermanagh County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RWKBKYKGKW](/stripes/rwkbkykgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4ln6k10db5k3dy16k3g33k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [RWKBKYKGKW](/stripes/rwkbkykgkw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7440/
 

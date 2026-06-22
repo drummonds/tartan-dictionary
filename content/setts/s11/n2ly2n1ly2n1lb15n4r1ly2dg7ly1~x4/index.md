@@ -2,9 +2,10 @@
 title: "Hutt #1 (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBYBWBRYGY](/stripes/bybybwbrygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2y2n1y2n1na15n4r1y2dg7y1/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBWBRYGY](/stripes/bybybwbrygy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2568/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hutt #1
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1996 — Hutt #1 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2568/))
-- undated — Hutt Tartan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1996 — Hutt #1 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2568/">record</a>)</li>
+<li>undated — Hutt Tartan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/8 Y8 N4 Y8 N4 Na60 N16 R4 Y8 DG28 Y/4

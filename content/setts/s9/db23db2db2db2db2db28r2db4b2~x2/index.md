@@ -2,9 +2,10 @@
 title: "Trotter (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBRBB](/stripes/bbbbbbrbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba23db2ba2db2ba2db28r2db4b2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBRBB](/stripes/bbbbbbrbb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5738
 

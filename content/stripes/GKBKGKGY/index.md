@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gkbkgkgy/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">GKBKGKGY</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/g2k1db6k11g26k1g1lo2~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GKBKGKGY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

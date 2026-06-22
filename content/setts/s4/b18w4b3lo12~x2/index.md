@@ -2,9 +2,10 @@
 title: "Genesee Community College"
 date: 2023-03-18
 ---
-In pattern [BWBY](/stripes/bwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18w4b3y12/)
+(the same proportion at any scale), whose colour order is pattern [BWBY](/stripes/bwby/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11468
 

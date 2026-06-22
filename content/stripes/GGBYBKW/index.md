@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/ggbybkw/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">GGBYBKW</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/dg20dg14db9ly2db9k1w2~x4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GGBYBKW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

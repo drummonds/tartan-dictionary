@@ -2,9 +2,10 @@
 title: "Ch. Supt. Everett and Mrs Julene Sum"
 date: 2023-03-18
 ---
-In pattern [RWKWWGY](/stripes/rwkwwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9w27k7w45lb60dg4dy5/)
+(the same proportion at any scale), whose colour order is pattern [RWKWWGY](/stripes/rwkwwgy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10850/
 

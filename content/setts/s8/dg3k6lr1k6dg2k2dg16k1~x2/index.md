@@ -2,18 +2,20 @@
 title: "MacLean VS"
 date: 2023-03-18
 ---
-In pattern [GKYKGKGK](/stripes/gkykgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3k6n1k6dg2k2dg16k1/)
+(the same proportion at any scale), whose colour order is pattern [GKYKGKGK](/stripes/gkykgkgk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLean VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacLean VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLean VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacLean VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/6 K12 N2 K12 DG4 K4 DG32 K/2

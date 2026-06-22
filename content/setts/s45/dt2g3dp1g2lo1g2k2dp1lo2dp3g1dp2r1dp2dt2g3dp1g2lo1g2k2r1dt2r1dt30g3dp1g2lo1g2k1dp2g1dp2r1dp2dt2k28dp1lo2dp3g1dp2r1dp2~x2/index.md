@@ -2,9 +2,10 @@
 title: "Highland Mist Corporate Tartan Tartan Number: 4585. Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar for Harrisons of Hamilton for their sole use in their retail outlet and kilt hire operation. Very difficult to match colours. The black shown here should be a very dark blue verging on black. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGYGKBYBGBRBBGBGYGKRBRBGBGYGKBGBRBBKBYBGBRB](/stripes/bgbgygkbybgbrbbgbgygkrbrbgbgygkbgbrbbkbybgbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2g3p1g2dy1g2dba2p1dy2p3g1p2dr1p2db2g3p1g2dy1g2dba2dr1db2dr1db30g3p1g2dy1g2dba1p2g1p2dr1p2db2dba28p1dy2p3g1p2dr1p2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGYGKBYBGBRBBGBGYGKRBRBGBGYGKBGBRBBKBYBGBRB](/stripes/bgbgygkbybgbrbbgbgygkrbrbgbgygkbgbrbbkbybgbrb/).
 
-This was sourced from house-of-tartan.  It is a [45 stripe tartan](/stripes/stripes45/).
+Sourced from house-of-tartan.  It is a [45 stripe tartan](/stripes/stripes45/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4585
 

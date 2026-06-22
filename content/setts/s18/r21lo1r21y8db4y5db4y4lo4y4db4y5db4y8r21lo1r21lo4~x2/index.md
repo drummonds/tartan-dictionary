@@ -2,9 +2,10 @@
 title: "Rice of Wales"
 date: 2023-03-18
 ---
-In pattern [RYRGBGBGYGBGBGRYRY](/stripes/ryrgbgbgygbgbgryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr21dy1dr21g8db4g5db4g4dy4g4db4g5db4g8dr21dy1dr21dy4/)
+(the same proportion at any scale), whose colour order is pattern [RYRGBGBGYGBGBGRYRY](/stripes/ryrgbgbgygbgbgryry/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3506
 

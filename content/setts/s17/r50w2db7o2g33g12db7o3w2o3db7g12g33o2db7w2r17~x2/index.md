@@ -2,9 +2,10 @@
 title: "Spens, Fragment"
 date: 2023-03-18
 ---
-In pattern [RWBRGGBRWRBGGRBWR](/stripes/rwbrggbrwrbggrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r50ln2b7lt2ga33g12b7lt3ln2lt3b7g12ga33lt2b7ln2r17/)
+(the same proportion at any scale), whose colour order is pattern [RWBRGGBRWRBGGRBWR](/stripes/rwbrggbrwrbggrbwr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

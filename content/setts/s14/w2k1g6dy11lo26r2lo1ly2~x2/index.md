@@ -2,9 +2,10 @@
 title: "Saskatchewan"
 date: 2023-03-18
 ---
-In pattern [KGGYRYYYRYGGKW](/stripes/kggyryyyryggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2k1g6ta11dy26r2dy1ya2/)
+(the same proportion at any scale), whose colour order is pattern [KGGYRYYYRYGGKW](/stripes/kggyryyyryggkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3656
 

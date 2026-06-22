@@ -2,9 +2,10 @@
 title: "Westgaard Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRBGKGRBYKY](/stripes/rgrbgkgrbyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr9g4dr6db4g2k2g2dr5db3dy2k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBGKGRBYKY](/stripes/rgrbgkgrbyky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4250/
 

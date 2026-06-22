@@ -2,9 +2,10 @@
 title: "Supporter.com"
 date: 2023-03-18
 ---
-In pattern [BGRYGYB](/stripes/bgrygyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b60g9r7y12g33y33b26/)
+(the same proportion at any scale), whose colour order is pattern [BGRYGYB](/stripes/bgrygyb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11078/
 

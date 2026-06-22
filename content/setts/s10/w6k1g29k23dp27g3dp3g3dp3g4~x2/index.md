@@ -2,9 +2,10 @@
 title: "Rennie Family Tartan Tartan Number: 716. Earliest known date: 1981. For Robin Rennie. The accreditation list gives the author and weaver, James Scarlett, as the designer in 1980. The tartan register records the designer as Peter MacDonald who worked as a weaver for the Scottish Tartans Society in 1981. Rennies, Rainys and Rainnies (from 'Ranald') are listed as a sept of MacDonell of Keppoch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6k1g29k23p27g3p3g3p3g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=716
 

@@ -2,9 +2,10 @@
 title: "Hay-Stewart"
 date: 2023-03-18
 ---
-In pattern [RWWWBKYKWKGRKRWRKRGKWKYKBWWW](/stripes/rwwwbkykwkgrkrwrkrgkwkykbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4ln3ln18ln4b4k6lt2k2ln2k2g8dr4k2dr4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWWWBKYKWKGRKRWRKRGKWKYKBWWW](/stripes/rwwwbkykwkgrkrwrkrgkwkykbwww/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1638
 

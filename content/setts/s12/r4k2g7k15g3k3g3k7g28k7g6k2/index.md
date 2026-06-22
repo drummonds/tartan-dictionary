@@ -2,9 +2,10 @@
 title: "Walker, hunting"
 date: 2023-03-18
 ---
-In pattern [KGKGKGKGKGKR](/stripes/kgkgkgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4db2g7db15g3db3g3db7g28k7g6k2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGKGKGKR](/stripes/kgkgkgkgkgkr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

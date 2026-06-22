@@ -2,9 +2,10 @@
 title: "Béguinot, Stéphane (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGRYGGRWRGGYRGBYBY](/stripes/bgryggrwrggyrgbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12dg4r2y3g4dg4r20w4r14dg4g4y3r2dg4db12y2db8y2/)
+(the same proportion at any scale), whose colour order is pattern [BGRYGGRWRGGYRGBYBY](/stripes/bgryggrwrggyrgbyby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10540
 

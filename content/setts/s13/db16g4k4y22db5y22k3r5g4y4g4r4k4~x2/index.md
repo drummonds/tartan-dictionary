@@ -2,9 +2,10 @@
 title: "Gayre, hunting"
 date: 2023-03-18
 ---
-In pattern [BGKGBGKRGGGRK](/stripes/bgkgbgkrgggrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16g4k4n22b5n22k3r5g4n4g4r4k4/)
+(the same proportion at any scale), whose colour order is pattern [BGKGBGKRGGGRK](/stripes/bgkgbgkrgggrk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

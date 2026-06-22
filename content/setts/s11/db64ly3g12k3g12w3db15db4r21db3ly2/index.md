@@ -2,18 +2,20 @@
 title: "Allison"
 date: 2023-03-18
 ---
-In pattern [BYGKGWBBRBY](/stripes/bygkgwbbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db64y3g12k3g12ln3db15b4r21db3y2/)
+(the same proportion at any scale), whose colour order is pattern [BYGKGWBBRBY](/stripes/bygkgwbbrby/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Allison (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Allison Family Tartan Tartan Number: 673. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=673))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Allison (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Allison Family Tartan Tartan Number: 673. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=673">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/64 Y3 G12 K3 G12 LN3 DB15 B4 R21 DB3 Y/2

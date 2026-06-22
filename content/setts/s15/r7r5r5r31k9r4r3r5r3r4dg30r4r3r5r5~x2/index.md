@@ -2,9 +2,10 @@
 title: "MacDougall (Kinloch Anderson)"
 date: 2023-03-18
 ---
-In pattern [RRRRGRRRRRKRRRR](/stripes/rrrrgrrrrrkrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7ra5dr5r31k9dr4ra3r5ra3dr4g30r4ra3dr5r5/)
+(the same proportion at any scale), whose colour order is pattern [RRRRGRRRRRKRRRR](/stripes/rrrrgrrrrrkrrrr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2393
 

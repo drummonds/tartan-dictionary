@@ -2,9 +2,10 @@
 title: "New Brunswick or Beaverbrook District Tartan Tartan Number: 663. Earliest known date: 1959 The entry in the Lyon Court Books reads, \"This tartan is assymetrical. The sett reading along the warp from the left may be divided into four equal sections of 190 threads. The first is symetrical, The second is assymetrical, The third is the same as the first, The fourth is the same as the second but in reverse\" In reality the pattern is symetrical and has 380 threads in half sett as careful reading of Lord Lyons description reveals. The design was commissioned by Lord Beaverbrook and adopted by the Province. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBGGGGGGGBYBYBGRBRYRBRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrbryrbrbyryrgbybybgggggggbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1y1b1dg18r16y1n2y3b4r8dr9r3y2r9dr5r6dg18b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBGGGGGGGBYBYBGRBRYRBRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrbryrbrbyryrgbybybgggggggbyb/).
 
-This was sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=663
 

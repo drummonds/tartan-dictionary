@@ -3,9 +3,10 @@ title: "Unidentified (2013)"
 date: 2023-03-18
 slug_full: "r5dg10lo1lo1lo1lo1lo1lo1lo1r9lo1lo1lo1lo1r7lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1lo1~x2"
 ---
-In pattern [RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY](/stripes/rgyyyyyyyryyyyryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5dg10o1lt1o1lt1o1lt1o1r9o1o1lt1o1r7o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1o1lt1/)
+(the same proportion at any scale), whose colour order is pattern [RGYYYYYYYRYYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY](/stripes/rgyyyyyyyryyyyryyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy/).
 
-This was sourced from tartans-authority.  It is a [73 stripe tartan](/stripes/stripes73/).
+Sourced from tartans-authority.  It is a [73 stripe tartan](/stripes/stripes73/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8689/
 

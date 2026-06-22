@@ -2,9 +2,10 @@
 title: "Chess"
 date: 2023-03-18
 ---
-In pattern [KWKGKKKGKKKWK](/stripes/kwkgkkkgkkkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1w1k8db1k1g8k1db8k1g1k8w1k1/)
+(the same proportion at any scale), whose colour order is pattern [KWKGKKKGKKKWK](/stripes/kwkgkkkgkkkwk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5934
 

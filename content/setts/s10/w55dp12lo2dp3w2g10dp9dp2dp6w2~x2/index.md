@@ -2,9 +2,10 @@
 title: "Stewart Dress, Purple (Dance)"
 date: 2023-03-18
 ---
-In pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w55dp12dy2dp3w2g10p9dp2p6w2/)
+(the same proportion at any scale), whose colour order is pattern [WBBBGWBYBW](/stripes/wbbbgwbybw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6551/
 

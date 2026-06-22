@@ -2,9 +2,10 @@
 title: "Red Hatters United"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r2k2lr2k2r36k2p12k2lr1k3r2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKBKRKR](/stripes/krkrkrkbkrkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ruby Ramblers Red Hat
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/2007 — Red Hatters United (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478))
-- April 2007 — Ruby Ramblers Red Hat (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7177/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2007 — Red Hatters United (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3478">record</a>)</li>
+<li>April 2007 — Ruby Ramblers Red Hat (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7177/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

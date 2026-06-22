@@ -2,9 +2,10 @@
 title: "Cheape of Torosay"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1b1k1b1k6g6ba2g6k6b6k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGBGKBKB](/stripes/bkbkbkgbgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=625
 

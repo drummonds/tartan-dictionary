@@ -2,18 +2,20 @@
 title: "Rosie (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRKWKRBRBRBR](/stripes/brkwkrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30r3k2lb2k2r3db24dr2db2dr2db2dr6/)
+(the same proportion at any scale), whose colour order is pattern [BRKWKRBRBRBR](/stripes/brkwkrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3551
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2005 — Rosie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3551))
-- 2005 August — Rosie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6730/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2005 — Rosie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3551">record</a>)</li>
+<li>2005 August — Rosie (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6730/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

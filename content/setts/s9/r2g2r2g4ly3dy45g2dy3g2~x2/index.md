@@ -2,9 +2,10 @@
 title: "Welsh Stanley–Gpa (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGGYGRGR](/stripes/ggggygrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g2r2g4y3t45g2t3g2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGYGRGR](/stripes/ggggygrgr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Welsh, Stanly-Gpa
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/03/2011 — Welsh Stanley–Gpa (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388))
-- 10th March 2011 — Welsh, Stanly-Gpa (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10388/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/03/2011 — Welsh Stanley–Gpa (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10388">record</a>)</li>
+<li>10th March 2011 — Welsh, Stanly-Gpa (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10388/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

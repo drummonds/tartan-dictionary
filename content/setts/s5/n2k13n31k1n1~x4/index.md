@@ -2,9 +2,10 @@
 title: "Silver Mist"
 date: 2023-03-18
 ---
-In pattern [BKBKB](/stripes/bkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2k13n31k1n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKB](/stripes/bkbkb/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3788
 

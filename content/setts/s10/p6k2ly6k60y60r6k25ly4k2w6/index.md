@@ -2,9 +2,10 @@
 title: "US Army Civil Affairs"
 date: 2023-03-18
 ---
-In pattern [BKYKGRKYKW](/stripes/bkykgrkykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p6k2y6k60g60r6k25ya4k2w6/)
+(the same proportion at any scale), whose colour order is pattern [BKYKGRKYKW](/stripes/bkykgrkykw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10255
 

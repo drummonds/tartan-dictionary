@@ -2,9 +2,10 @@
 title: "Delroeux, John Michael (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGYR](/stripes/bgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3y1g6b3/)
+(the same proportion at any scale), whose colour order is pattern [BGYR](/stripes/bgyr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10654
 

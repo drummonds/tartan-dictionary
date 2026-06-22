@@ -2,9 +2,10 @@
 title: "Halesowen #2"
 date: 2023-03-18
 ---
-In pattern [WBYBBYBY](/stripes/wbybbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9db3y3db24dba24y2dba2y2/)
+(the same proportion at any scale), whose colour order is pattern [WBYBBYBY](/stripes/wbybbyby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5797
 

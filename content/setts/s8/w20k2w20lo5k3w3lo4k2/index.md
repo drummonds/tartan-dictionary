@@ -2,9 +2,10 @@
 title: "Guzzo Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYWKYWKW](/stripes/kywkywkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln20k2ln20o5k3ln3o4k2/)
+(the same proportion at any scale), whose colour order is pattern [KYWKYWKW](/stripes/kywkywkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10560/
 

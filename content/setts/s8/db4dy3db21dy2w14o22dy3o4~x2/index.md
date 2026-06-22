@@ -2,9 +2,10 @@
 title: "Bannock Bane M.407"
 date: 2023-03-18
 ---
-In pattern [BGBGWRGR](/stripes/bgbgwrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do4t3do22ln14t2db21t3db4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGWRGR](/stripes/bgbgwrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=194
 

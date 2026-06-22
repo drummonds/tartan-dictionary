@@ -2,9 +2,10 @@
 title: "Digital"
 date: 2023-03-18
 ---
-In pattern [BKBRBRBRBW](/stripes/bkbrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k3b10lt5b2lt2b2lt2b7ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKBRBRBRBW](/stripes/bkbrbrbrbw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

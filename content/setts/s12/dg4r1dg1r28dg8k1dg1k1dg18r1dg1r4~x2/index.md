@@ -2,9 +2,10 @@
 title: "Drummond #3"
 date: 2023-03-18
 ---
-In pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g1r1g18k1g1k1g8r28g1r1g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Drummond
 - Drummond #3
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Drummond #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982))
-- undated — Drummond VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Drummond VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Drummond VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982">record</a>)</li>
+<li>undated — Drummond VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Drummond VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Drummond VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Hyndman (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBRKRBGYRGWGRR](/stripes/gbrkrbgyrgwgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12b5dr2k1dr2b5g12y3dr12g2w1g2dr12r3/)
+(the same proportion at any scale), whose colour order is pattern [GBRKRBGYRGWGRR](/stripes/gbrkrbgyrgwgrr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6128/
 

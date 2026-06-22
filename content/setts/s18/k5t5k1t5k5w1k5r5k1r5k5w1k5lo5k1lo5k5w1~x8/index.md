@@ -2,9 +2,10 @@
 title: "Children In Need (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBKBKWKRKRKWKYKYKW](/stripes/kbkbkwkrkrkwkykykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5b5k1b5k5ln1k5r5k1r5k5ln1k5dy5k1dy5k5ln1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKWKRKRKWKYKYKW](/stripes/kbkbkwkrkrkwkykykw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7863/
 

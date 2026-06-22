@@ -2,9 +2,10 @@
 title: "Ogilvy D"
 date: 2023-03-18
 ---
-In pattern [WRWYKRWRWRKYWY](/stripes/wrwykrwrwrkywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na4r1na4y1k1r6na1r4na1r6k1y1na4n1/)
+(the same proportion at any scale), whose colour order is pattern [WRWYKRWRWRKYWY](/stripes/wrwykrwrwrkywy/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

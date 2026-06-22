@@ -2,9 +2,10 @@
 title: "Collinet (Personal)"
 date: 2023-03-18
 ---
-In pattern [YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY](/stripes/ygrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrgrgryrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt102r6lta6r6lr6r6g6r6g6dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1ra8g4lr4/)
+(the same proportion at any scale), whose colour order is pattern [YGRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRGRGRYRGRY](/stripes/ygrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrgrgryrgry/).
 
-This was sourced from tartans-authority.  It is a [69 stripe tartan](/stripes/stripes69/).
+Sourced from tartans-authority.  It is a [69 stripe tartan](/stripes/stripes69/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8273/
 

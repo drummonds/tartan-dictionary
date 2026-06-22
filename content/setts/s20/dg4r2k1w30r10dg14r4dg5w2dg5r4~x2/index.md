@@ -2,9 +2,10 @@
 title: "Scott Dress"
 date: 2023-03-18
 ---
-In pattern [GRKWRGRGWGRGWGRGRWKR](/stripes/grkwrgrgwgrgwgrgrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4r2k1w30r10dg14r4dg5w2dg5r4/)
+(the same proportion at any scale), whose colour order is pattern [GRKWRGRGWGRGWGRGRWKR](/stripes/grkwrgrgwgrgwgrgrwkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3697
 

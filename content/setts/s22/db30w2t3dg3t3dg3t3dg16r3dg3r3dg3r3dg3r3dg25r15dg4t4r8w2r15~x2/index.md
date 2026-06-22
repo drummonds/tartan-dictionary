@@ -2,9 +2,10 @@
 title: "Wilson (Janet) #2"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30ln2ba3g3ba3g3ba3g16r3g3r3g3r3g3r3g25r15g4ba4r8ln2r15/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4635
 

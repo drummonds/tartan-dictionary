@@ -2,9 +2,10 @@
 title: "Roast Den, The"
 date: 2023-03-18
 ---
-In pattern [GBGGGGGBY](/stripes/gbgggggby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt62dr12ga1g4dg2g4ga1dr12dg12/)
+(the same proportion at any scale), whose colour order is pattern [GBGGGGGBY](/stripes/gbgggggby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11256/
 

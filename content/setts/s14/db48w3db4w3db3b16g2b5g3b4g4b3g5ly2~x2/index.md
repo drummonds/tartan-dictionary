@@ -2,9 +2,10 @@
 title: "St. Andrews (District)"
 date: 2023-03-18
 ---
-In pattern [BWBWBBGBGBGBGY](/stripes/bwbwbbgbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db48ln3db4ln3db3b16g2b5g3b4g4b3g5y2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBBGBGBGBGY](/stripes/bwbwbbgbgbgbgy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5899/
 

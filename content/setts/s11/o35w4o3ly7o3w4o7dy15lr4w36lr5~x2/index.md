@@ -2,9 +2,10 @@
 title: "MacKellar Dress (Reproduction colours)"
 date: 2023-03-18
 ---
-In pattern [RWRYRWRGYWY](/stripes/rwryrwrgywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do35ln4do3y7do3ln4do7k15n4ln36n5/)
+(the same proportion at any scale), whose colour order is pattern [RWRYRWRGYWY](/stripes/rwryrwrgywy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2517
 

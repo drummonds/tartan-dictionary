@@ -2,9 +2,10 @@
 title: "Ross Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGKGKGRGR](/stripes/gbgbgbgkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4b6g3b2g3b2g3k5g3k5g20r3g4r3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGKGKGRGR](/stripes/gbgbgbgkgkgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3560
 

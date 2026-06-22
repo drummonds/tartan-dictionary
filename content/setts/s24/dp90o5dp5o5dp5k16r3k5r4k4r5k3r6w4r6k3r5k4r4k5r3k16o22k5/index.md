@@ -2,9 +2,10 @@
 title: "Arran District Tartan Tartan Number: 381. Earliest known date: 1982 The Arran District tartan is a modern sett introduced by MacNaughtons of Pitlochry in 1982. It has recently been produced with a colour modification by Lochcarron Mills in Galashiels. The unusual ever decreasing stripe effect is taken from a pattern book of old plaids found on the Isle of Arran. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBKRKRKRKRWRKRKRKRKRK](/stripes/brbrbkrkrkrkrwrkrkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p90n5p5n5p5k16r3k5r4k4r5k3r6ln4r6k3r5k4r4k5r3k16n22k5/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKRKRKRKRWRKRKRKRKRK](/stripes/brbrbkrkrkrkrwrkrkrkrkrk/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=381
 

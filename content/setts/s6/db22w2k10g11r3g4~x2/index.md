@@ -2,9 +2,10 @@
 title: "Paterson Blue (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWKGRG](/stripes/bwkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22ln2k10g11r3g4/)
+(the same proportion at any scale), whose colour order is pattern [BWKGRG](/stripes/bwkgrg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Paterson Blue
 - Patterson, John
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1993 — Paterson Blue (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301))
-- 1996 — Patterson, John (Blue) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2325/))
-- undated — Patterson (blue) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Paterson Blue (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3301">record</a>)</li>
+<li>1996 — Patterson, John (Blue) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2325/">record</a>)</li>
+<li>undated — Patterson (blue) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

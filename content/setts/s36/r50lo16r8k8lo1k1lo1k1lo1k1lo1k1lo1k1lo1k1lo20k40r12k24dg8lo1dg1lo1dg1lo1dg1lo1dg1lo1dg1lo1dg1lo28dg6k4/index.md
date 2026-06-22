@@ -2,9 +2,10 @@
 title: "Prince Edward Island (CIDD 28100)"
 date: 2023-03-18
 ---
-In pattern [KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR](/stripes/kgygygygygygygygkrkykykykykykykykryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r50dy16r8k8dy1k1dy1k1dy1k1dy1k1dy1k1dy1k1dy20k40r12k24dg8dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy28dg6k4/)
+(the same proportion at any scale), whose colour order is pattern [KGYGYGYGYGYGYGYGKRKYKYKYKYKYKYKYKRYR](/stripes/kgygygygygygygygkrkykykykykykykykryr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5701
 

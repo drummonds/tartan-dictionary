@@ -2,9 +2,10 @@
 title: "Kerry County, Crest Range"
 date: 2023-03-18
 ---
-In pattern [RBGBWGBWGR](/stripes/rbgbwgbwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o14db5g25db5ln2g11db7ln5g6o5/)
+(the same proportion at any scale), whose colour order is pattern [RBGBWGBWGR](/stripes/rbgbwgbwgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5504
 

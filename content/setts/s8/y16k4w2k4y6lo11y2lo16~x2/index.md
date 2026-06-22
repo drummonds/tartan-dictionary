@@ -2,9 +2,10 @@
 title: "Sidney, (Nova Scotia)"
 date: 2023-03-18
 ---
-In pattern [GKWKGYGY](/stripes/gkwkgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16k4ln2k4n6o11n2o16/)
+(the same proportion at any scale), whose colour order is pattern [GKWKGYGY](/stripes/gkwkgygy/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

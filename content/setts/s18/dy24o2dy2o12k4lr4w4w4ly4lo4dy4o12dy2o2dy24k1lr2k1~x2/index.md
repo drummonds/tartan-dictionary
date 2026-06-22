@@ -2,18 +2,20 @@
 title: "Bear (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRGRKYWWYYGRGRGKYK](/stripes/grgrkywwyygrgrgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t24lt2t2lt12k4n4wa4w4y4o4t4lt12t2lt2t24k1n2k1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKYWWYYGRGRGKYK](/stripes/grgrkywwyygrgrgkyk/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6799/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- July 2005 — Bear (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6799/))
-- undated — Bear Corporate Tartan Tartan Number: 6799. Earliest known date: July 2005 The Bear tartan has been created to further promote identity and awareness of the International Bear Community. The composition of the colours used for the multiple stripe is based on the Bear Brotherhood flag See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6799))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>July 2005 — Bear (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6799/">record</a>)</li>
+<li>undated — Bear Corporate Tartan Tartan Number: 6799. Earliest known date: July 2005 The Bear tartan has been created to further promote identity and awareness of the International Bear Community. The composition of the colours used for the multiple stripe is based on the Bear Brotherhood flag See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6799">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 T/48 LT4 T4 LT24 K8 N8 Wa8 W8 Y8 O8 T8 LT24 T4 LT4 T48 K2 N4 K/2

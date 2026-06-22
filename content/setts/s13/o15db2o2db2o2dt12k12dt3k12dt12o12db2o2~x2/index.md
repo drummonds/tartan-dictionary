@@ -2,9 +2,10 @@
 title: "Balmoral Hotel (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBKBKBRBRBR](/stripes/rbrbkbkbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do15dba2do2dba2do2db12k12db3k12db12do12dba2do2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKBKBRBRBR](/stripes/rbrbkbkbrbrbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3955/
 

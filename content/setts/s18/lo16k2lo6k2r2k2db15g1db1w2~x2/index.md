@@ -2,9 +2,10 @@
 title: "Otago"
 date: 2023-03-18
 ---
-In pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy16k2dy6k2r2k2db15g1db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKBGBWBGBKRKYKY](/stripes/kykrkbgbwbgbkrkyky/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3275
 

@@ -2,9 +2,10 @@
 title: "Waverley Check"
 date: 2023-03-18
 ---
-In pattern [GWKWKWKWRKRWRKRWKWKWKW](/stripes/gwkwkwkwrkrwrkrwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t22ly2k3ly1k1ly1k1ly7lt5k1lt2ly1/)
+(the same proportion at any scale), whose colour order is pattern [GWKWKWKWRKRWRKRWKWKWKW](/stripes/gwkwkwkwrkrwrkrwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4506
 

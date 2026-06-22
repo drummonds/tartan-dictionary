@@ -2,9 +2,10 @@
 title: "Setting Sun, The"
 date: 2023-03-18
 ---
-In pattern [BWRBWYBRBYRWBYWYBWRYBRBYWBRWBY](/stripes/bwrbwybrbyrwbywybwrybrbywbrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy15dr4n8o18dr2n2dy4dr2o6dr16dy2o2n6dr2dy3n1/)
+(the same proportion at any scale), whose colour order is pattern [BWRBWYBRBYRWBYWYBWRYBRBYWBRWBY](/stripes/bwrbwybrbyrwbywybwrybrbywbrwby/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4878
 

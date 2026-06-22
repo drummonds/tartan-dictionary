@@ -2,9 +2,10 @@
 title: "Good Morning America (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWRWRBRBYBW](/stripes/bwrwrbrbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2w2r2w2r2db2r2db12y1db2w2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWRBRBYBW](/stripes/bwrwrbrbybw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6786/
 

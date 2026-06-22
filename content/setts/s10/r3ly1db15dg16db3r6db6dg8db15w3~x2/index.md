@@ -2,9 +2,10 @@
 title: "Steve Walls Commemorative"
 date: 2023-03-18
 ---
-In pattern [RYBGBRBGBW](/stripes/rybgbrbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3y1db15dg16db3dr6db6dg8db15w3/)
+(the same proportion at any scale), whose colour order is pattern [RYBGBRBGBW](/stripes/rybgbrbgbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10891
 

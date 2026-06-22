@@ -2,9 +2,10 @@
 title: "Braveheart Commemorative Tartan Tartan Number: 2185. Earliest known date: 1995 Braveheart tartan commemorates the making of the film by the same name, which tells the story of one of Scotland's greatest heros, William Wallace. Originally designed for Ronnie Watt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30db3k4p2k2p2k2dg10r6k2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2185
 

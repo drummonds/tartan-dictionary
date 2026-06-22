@@ -2,9 +2,10 @@
 title: "Lawson, William"
 date: 2023-03-18
 ---
-In pattern [RGKWKGGY](/stripes/rgkwkggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3g22dg13k15ln3k16g1r3/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKGGY](/stripes/rgkwkggy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5994
 

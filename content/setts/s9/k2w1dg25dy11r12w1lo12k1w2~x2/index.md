@@ -2,18 +2,20 @@
 title: "Leaf Peeper"
 date: 2023-03-18
 ---
-In pattern [KWGGRWYKW](/stripes/kwggrwykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w1dg25t11dr12w1y12k1w2/)
+(the same proportion at any scale), whose colour order is pattern [KWGGRWYKW](/stripes/kwggrwykw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 24/02/2013 — Leaf Peeper (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915))
-- undated — Leaf Peeper Fashion Tartan Tartan Number: 10915. Earliest known date: 24/02/2013 Inspired by the October foliage of New Hampshire's White Mountains region, this tartan is named after the tourists who swarm the area to see the foliage and who are nicknamed "Leaf Peepers" by the locals. The colours are those of the sugar maple, oak, birch and elm trees of the Mount Washington Valley in October, as they change from yellow/gold and red to brown, while the pines remain green throughout the season. The hints of white are for the snow that frequently appears at the summits of the higher elevations at that time of year. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10915))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>24/02/2013 — Leaf Peeper (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10915">record</a>)</li>
+<li>undated — Leaf Peeper Fashion Tartan Tartan Number: 10915. Earliest known date: 24/02/2013 Inspired by the October foliage of New Hampshire's White Mountains region, this tartan is named after the tourists who swarm the area to see the foliage and who are nicknamed "Leaf Peepers" by the locals. The colours are those of the sugar maple, oak, birch and elm trees of the Mount Washington Valley in October, as they change from yellow/gold and red to brown, while the pines remain green throughout the season. The hints of white are for the snow that frequently appears at the summits of the higher elevations at that time of year. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10915">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

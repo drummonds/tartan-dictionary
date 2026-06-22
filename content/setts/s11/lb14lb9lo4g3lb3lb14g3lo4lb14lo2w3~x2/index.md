@@ -2,9 +2,10 @@
 title: "Bouguet, Adrian (Personal)"
 date: 2023-03-18
 ---
-In pattern [WWYGWWGYWYW](/stripes/wwygwwgywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb14lp9o4g3n3lb14g3o4lb14o2w3/)
+(the same proportion at any scale), whose colour order is pattern [WWYGWWGYWYW](/stripes/wwygwwgywyw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11263/
 

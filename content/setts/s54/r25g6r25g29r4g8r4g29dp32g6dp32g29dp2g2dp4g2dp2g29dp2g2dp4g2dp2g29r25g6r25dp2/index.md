@@ -2,9 +2,10 @@
 title: "Ross (Wilsons)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGBGBGBGBGBGBGBGBGRGRBRGRGBGBGBGBGBGBGBGBGRGRGRGR](/stripes/grgrgrgbgbgbgbgbgbgbgbgrgrbrgrgbgbgbgbgbgbgbgbgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25g6r25g29r4g8r4g29p32g6p32g29p2g2p4g2p2g29p2g2p4g2p2g29r25g6r25p2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGBGBGBGBGBGBGBGBGRGRBRGRGBGBGBGBGBGBGBGBGRGRGRGR](/stripes/grgrgrgbgbgbgbgbgbgbgbgrgrbrgrgbgbgbgbgbgbgbgbgrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
+Sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4985
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ross Clan/Family
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Ross (Wilsons) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4985))
-- undated — Ross (Wilsons) Clan/Family Tartan Tartan Number: 3560. Earliest known date: 1819 1819 (Key Pattern Book). Peter MacDonald says that there are over a dozen patterns of this type which obviously have a common ancestor which was probably the Lumsden of the mid 1700s. (#869). Relevant tartans are Ross, Rae, MacRae and Marchioness of Huntly's, Princes Own. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3560))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Ross (Wilsons) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4985">record</a>)</li>
+<li>undated — Ross (Wilsons) Clan/Family Tartan Tartan Number: 3560. Earliest known date: 1819 1819 (Key Pattern Book). Peter MacDonald says that there are over a dozen patterns of this type which obviously have a common ancestor which was probably the Lumsden of the mid 1700s. (#869). Relevant tartans are Ross, Rae, MacRae and Marchioness of Huntly's, Princes Own. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3560">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

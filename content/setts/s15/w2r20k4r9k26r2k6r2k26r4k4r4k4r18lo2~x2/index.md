@@ -2,9 +2,10 @@
 title: "Killin (Name)"
 date: 2023-03-18
 ---
-In pattern [WRKRKRKRKRKRKRY](/stripes/wrkrkrkrkrkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2dr18k4dr4k4dr4k26dr2k6dr2k26dr9k4dr20ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKRKRKRKRKRY](/stripes/wrkrkrkrkrkrkry/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4042/
 

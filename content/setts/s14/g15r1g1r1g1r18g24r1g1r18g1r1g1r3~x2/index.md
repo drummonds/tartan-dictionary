@@ -2,9 +2,10 @@
 title: "Robertson - 1746 (Artefact)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/893/
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Robertson #2
 - Robertson 2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1745 — Robertson - 1746 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/893/))
-- undated — Robertson 2 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1745 — Robertson - 1746 (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/893/">record</a>)</li>
+<li>undated — Robertson 2 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/30 R2 G2 R2 G2 R36 G48 R2 G2 R36 G2 R2 G2 R/6

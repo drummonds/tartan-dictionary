@@ -2,9 +2,10 @@
 title: "McDougall, Miss Anne (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1dr3r3ln20g3ln3ba12ln18r3dr1r3ln18g12ln3ba3ln20r3dr3b1/)
+(the same proportion at any scale), whose colour order is pattern [BRRWBWGWRRRWBWGWRRB](/stripes/brrwbwgwrrrwbwgwrrb/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2632
 

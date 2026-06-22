@@ -2,9 +2,10 @@
 title: "Unidentified \"Old tartan\""
 date: 2023-03-18
 ---
-In pattern [BGKGKGKGRGBKBGRGKGKGKGRBRBRBRBRBRBR](/stripes/bgkgkgkgrgbkbgrgkgkgkgrbrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6g6k3g3k3g3k3g15r9g6b3k9b3g6r9g15k3g3k3g3k3g6lt9b3lt3b3lt3b3lt6b10lt3b3lt3b3lt3/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKGKGRGBKBGRGKGKGKGRBRBRBRBRBRBR](/stripes/bgkgkgkgrgbkbgrgkgkgkgrbrbrbrbrbrbr/).
 
-This was sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

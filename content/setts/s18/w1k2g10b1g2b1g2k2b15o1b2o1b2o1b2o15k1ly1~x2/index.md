@@ -2,9 +2,10 @@
 title: "Daniel Melrose Family Tartan Tartan Number: 7548. Earliest known date: 2008 Daniel Melrose says, \"This Tartan is in memory of our ancestors who lived in the Newbigging and Dunsyre area for over 200 years.\" The tartan was designed to be woven in Ancient colours. (Corrects the 2 yellow stripes error. It should only be one yellow.) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WKGBGBGKBRBRBRBRKY](/stripes/wkgbgbgkbrbrbrbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1k1t15b2t1b2t1b2t1b15k2g2b1g2b1g10k2w1/)
+(the same proportion at any scale), whose colour order is pattern [WKGBGBGKBRBRBRBRKY](/stripes/wkgbgbgkbrbrbrbrky/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7548
 

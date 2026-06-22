@@ -2,9 +2,10 @@
 title: "MacDonald of Pr Edward Island Tartan Tartan Number: 1973. Earliest known date: 1772 Estimated count from Coulson Bonner drawing. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1ln2k1db11k9db8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1973
 

@@ -2,9 +2,10 @@
 title: "Harry/Parry"
 date: 2023-03-18
 ---
-In pattern [KRKRRKRKRR](/stripes/krkrrkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6do3db3do15r7db7r5db17r46do4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRRKRKRR](/stripes/krkrrkrkrr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5935
 

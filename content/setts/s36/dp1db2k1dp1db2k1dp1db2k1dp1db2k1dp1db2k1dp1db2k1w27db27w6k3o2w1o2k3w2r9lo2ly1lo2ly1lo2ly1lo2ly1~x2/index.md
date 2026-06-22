@@ -2,9 +2,10 @@
 title: "Am Yisrael Chair (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBKBBKBBKBBKBBKBBKWBWKRWRKWRYYYYYYYY](/stripes/bbkbbkbbkbbkbbkbbkwbwkrwrkwryyyyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1dy2y1dy2y1dy2y1dy2dr9ln2k3n2ln1n2k3ln6db27ln27k1db2p1k1db2p1k1db2p1k1db2p1k1db2p1k1db2p1/)
+(the same proportion at any scale), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKRWRKWRYYYYYYYY](/stripes/bbkbbkbbkbbkbbkbbkwbwkrwrkwryyyyyyyy/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10264/
 

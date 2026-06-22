@@ -2,9 +2,10 @@
 title: "Alabama, University of"
 date: 2023-03-18
 ---
-In pattern [RKWWWKRKRKWKRW](/stripes/rkwwwkrkrkwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr32k2wa3w4wa3k2dr22k1dr5k2w6k2dr4w5/)
+(the same proportion at any scale), whose colour order is pattern [RKWWWKRKRKWKRW](/stripes/rkwwwkrkrkwkrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10402
 

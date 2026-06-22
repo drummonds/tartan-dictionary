@@ -2,9 +2,10 @@
 title: "Parker Personal Tartan Tartan Number: 6485. Earliest known date: 2004 David Parker, who lives in Las Vegas on the high desert where it is cold in winter and hot in summer, designed for a medium weight fabric, based on the American flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBWBWBWBYBRWBWRBYBWBWBWBR](/stripes/brbwbwbwbybrwbwrbybwbwbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db16ln4db4ln4db4ln4db16y2db16r6ln3db4ln3r6db16y2db16ln4db4ln4db4ln4db16r6db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBWBWBYBRWBWRBYBWBWBWBR](/stripes/brbwbwbwbybrwbwrbybwbwbwbr/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6485
 

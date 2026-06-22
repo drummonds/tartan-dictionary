@@ -2,9 +2,10 @@
 title: "Ogilvy or Drummond of Strathallen"
 date: 2023-03-18
 ---
-In pattern [KRKYBWBYKWKWKRWRWRKYBKBKBYKRWRWRKYBW](/stripes/krkybwbykwkwkrwrwrkybkbkbykrwrwrkybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r6k6y5b5ln5b5y5k9ln1k4ln1k9r5ln5r5ln5r5k5y5b12k4b10k4b12y4k5r4ln4r4ln4r4k4y4b4ln4/)
+(the same proportion at any scale), whose colour order is pattern [KRKYBWBYKWKWKRWRWRKYBKBKBYKRWRWRKYBW](/stripes/krkybwbykwkwkrwrwrkybkbkbykrwrwrkybw/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3236
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ogilvy, or Drummond of Strathallen
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ogilvy or Drummond of Strathallen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3236))
-- undated — Ogilvy, or Drummond of Strathallen (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvy or Drummond of Strathallen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3236">record</a>)</li>
+<li>undated — Ogilvy, or Drummond of Strathallen (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

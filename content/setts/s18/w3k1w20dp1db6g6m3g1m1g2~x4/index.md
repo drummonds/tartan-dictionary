@@ -2,9 +2,10 @@
 title: "Scotland the Brave Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [KWBBGRGRGRGRGBBWKW](/stripes/kwbbgrgrgrgrgbbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3k1w20pa1db6g6p3g1p1g2/)
+(the same proportion at any scale), whose colour order is pattern [KWBBGRGRGRGRGBBWKW](/stripes/kwbbgrgrgrgrgbbwkw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3680
 

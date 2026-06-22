@@ -2,9 +2,10 @@
 title: "Kerr Htg (Clan?)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k2g2k2g4k10b19k2b2k3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKBK](/stripes/gkgkgkbkbk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/782/
 

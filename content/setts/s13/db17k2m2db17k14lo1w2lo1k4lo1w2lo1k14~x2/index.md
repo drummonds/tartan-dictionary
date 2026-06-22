@@ -2,9 +2,10 @@
 title: "Presley of Lonmay #2"
 date: 2023-03-18
 ---
-In pattern [BKRBKYWYKYWYK](/stripes/bkrbkywykywyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17k2lr2db17k14dy1ln2dy1k4dy1ln2dy1k14/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKYWYKYWYK](/stripes/bkrbkywykywyk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5839
 

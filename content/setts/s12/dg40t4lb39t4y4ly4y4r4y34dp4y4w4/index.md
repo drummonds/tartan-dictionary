@@ -2,9 +2,10 @@
 title: "Glasgow Tattoo"
 date: 2023-03-18
 ---
-In pattern [GBWBGYGRGBGW](/stripes/gbwbgygrgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg40b4lb39b4n4y4n4dr4n34p4n4w4/)
+(the same proportion at any scale), whose colour order is pattern [GBWBGYGRGBGW](/stripes/gbwbgygrgbgw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11636
 

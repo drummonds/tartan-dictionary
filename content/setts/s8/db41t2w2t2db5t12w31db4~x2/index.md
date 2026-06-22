@@ -2,9 +2,10 @@
 title: "Harmony Eildon (Dance)"
 date: 2023-03-18
 ---
-In pattern [BBWBBBWB](/stripes/bbwbbbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db41b2ln2b2db5ba12ln31db4/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBBWB](/stripes/bbwbbbwb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/87/
 

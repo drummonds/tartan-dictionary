@@ -2,9 +2,10 @@
 title: "De Grussa"
 date: 2023-03-18
 ---
-In pattern [BWBYRK](/stripes/bwbyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24w4db24y4dr5k4/)
+(the same proportion at any scale), whose colour order is pattern [BWBYRK](/stripes/bwbyrk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10045
 

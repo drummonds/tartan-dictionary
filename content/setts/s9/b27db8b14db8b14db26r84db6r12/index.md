@@ -2,9 +2,10 @@
 title: "POF (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBRBR](/stripes/bbbbbbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b27db8b14db8b14db26dr84db6dr12/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBRBR](/stripes/bbbbbbrbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8143/
 

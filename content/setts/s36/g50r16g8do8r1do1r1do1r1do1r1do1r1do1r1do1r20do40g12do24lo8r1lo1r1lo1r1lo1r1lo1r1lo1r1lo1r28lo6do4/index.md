@@ -2,9 +2,10 @@
 title: "Newfoundland (CIDD 28098)"
 date: 2023-03-18
 ---
-In pattern [BYRYRYRYRYRYRYRYBGBRBRBRBRBRBRBRBGRG](/stripes/byryryryryryryrybgbrbrbrbrbrbrbrbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g50r16g8dr8r1dr1r1dr1r1dr1r1dr1r1dr1r1dr1r20dr40g12dr24dy8r1dy1r1dy1r1dy1r1dy1r1dy1r1dy1r28dy6dr4/)
+(the same proportion at any scale), whose colour order is pattern [BYRYRYRYRYRYRYRYBGBRBRBRBRBRBRBRBGRG](/stripes/byryryryryryryrybgbrbrbrbrbrbrbrbgrg/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5700
 

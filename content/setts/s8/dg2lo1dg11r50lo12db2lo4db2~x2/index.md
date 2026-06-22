@@ -2,9 +2,10 @@
 title: "Slessor (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBYRGYG](/stripes/bybyrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2lt1dg11dr50lt12db2lt4db2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYRGYG](/stripes/bybyrgyg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5795/
 

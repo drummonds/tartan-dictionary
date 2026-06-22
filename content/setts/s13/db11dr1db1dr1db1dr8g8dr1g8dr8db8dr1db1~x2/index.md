@@ -2,9 +2,10 @@
 title: "Tyneside Scottish District Tartan Tartan Number: 593. Earliest known date: 1924 Tyneside Scottish was originally intended to be a Regimental tartan but War Office (Ministry of Defence) declined to sanction the proposal. The tartan has come into use as a District tartan in much the same way as the Sutherland District tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11dr1db1dr1db1dr8g8dr1g8dr8db8dr1db1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGBBBB](/stripes/bbbbbbgbgbbbb/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=593
 

@@ -2,18 +2,20 @@
 title: "Moran (French) (Name)"
 date: 2023-03-18
 ---
-In pattern [BYKRYGKGKG](/stripes/bykrygkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg67k2dg2k2dg2y8r8k8y2b7/)
+(the same proportion at any scale), whose colour order is pattern [BYKRYGKGKG](/stripes/bykrygkgkg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7385/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- May 2003 — Moran (French) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7385/))
-- undated — Moran (French) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5480))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>May 2003 — Moran (French) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7385/">record</a>)</li>
+<li>undated — Moran (French) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5480">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

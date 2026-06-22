@@ -2,18 +2,20 @@
 title: "Ibrox"
 date: 2023-03-18
 ---
-In pattern [BKBKWBKRBRB](/stripes/bkbkwbkrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r2db2r4k7db10ln2k13db18k2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWBKRBRB](/stripes/bkbkwbkrbrb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1809
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2000 — Ibrox (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1809))
-- Unknown — Ibrox (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3992/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2000 — Ibrox (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1809">record</a>)</li>
+<li>Unknown — Ibrox (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3992/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

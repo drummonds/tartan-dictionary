@@ -2,9 +2,10 @@
 title: "Recovery hunting"
 date: 2023-03-18
 ---
-In pattern [KGKYKGKKKKKKKKWKWKKKKKKKKGKRKGKKKKKKKKWKWKKKKKKK](/stripes/kgkykgkkkkkkkkwkwkkkkkkkkgkrkgkkkkkkkkwkwkkkkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g8k1y1k1g8k1db1k1db1k1db1k1db8ln1db2ln1db8k1db1k1db1k1db1k1g8k1r1k1g8k1db1k1db1k1db1k1db8ln1db2ln1db8k1db1k1db1k1db1/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKGKKKKKKKKWKWKKKKKKKKGKRKGKKKKKKKKWKWKKKKKKK](/stripes/kgkykgkkkkkkkkwkwkkkkkkkkgkrkgkkkkkkkkwkwkkkkkkk/).
 
-This was sourced from weddslist.  It is a [48 stripe tartan](/stripes/stripes48/).
+Sourced from weddslist.  It is a [48 stripe tartan](/stripes/stripes48/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

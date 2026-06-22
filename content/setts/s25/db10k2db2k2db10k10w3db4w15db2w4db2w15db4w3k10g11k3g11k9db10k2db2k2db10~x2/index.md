@@ -2,9 +2,10 @@
 title: "Black Watch Dress (Asymmetrical)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKWBWBWBWBWKBKBKB](/stripes/bkbkbkgkgkwbwbwbwbwkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k2db2k2db10k10w3db4w15db2w4db2w15db4w3k10g11k3g11k9db10k2db2k2db10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKWBWBWBWBWKBKBKB](/stripes/bkbkbkgkgkwbwbwbwbwkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=281
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Black Watch, dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Black Watch Dress (Asymmetrical) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=281))
-- undated — Black Watch, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Black Watch Dress Tartan Tartan Number: 1965. Earliest known date: 1930 MacGregor-Hastie Collection. Unlikely though it sounds Dress Black Watch tartan is intended for highland dancing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1965))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Black Watch Dress (Asymmetrical) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=281">record</a>)</li>
+<li>undated — Black Watch, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Black Watch Dress Tartan Tartan Number: 1965. Earliest known date: 1930 MacGregor-Hastie Collection. Unlikely though it sounds Dress Black Watch tartan is intended for highland dancing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1965">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

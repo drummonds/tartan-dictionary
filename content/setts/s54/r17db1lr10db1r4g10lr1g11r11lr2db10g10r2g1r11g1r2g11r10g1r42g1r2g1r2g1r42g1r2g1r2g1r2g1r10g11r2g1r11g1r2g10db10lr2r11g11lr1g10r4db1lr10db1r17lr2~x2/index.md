@@ -2,9 +2,10 @@
 title: "MacDonald of Staffa #6"
 date: 2023-03-18
 ---
-In pattern [RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY](/stripes/rbybrgygrybgrgrgrgrgrgrgrgrgrgrgrgrgrgrgrgbyrgygrbybry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr17db1n10db1dr4g10n1g11dr11n2db10g10dr2g1dr11g1dr2g11dr10g1dr42g1dr2g1dr2g1dr42g1dr2g1dr2g1dr2g1dr10g11dr2g1dr11g1dr2g10db10n2dr11g11n1g10dr4db1n10db1dr17n2/)
+(the same proportion at any scale), whose colour order is pattern [RBYBRGYGRYBGRGRGRGRGRGRGRGRGRGRGRGRGRGRGRGBYRGYGRBYBRY](/stripes/rbybrgygrybgrgrgrgrgrgrgrgrgrgrgrgrgrgrgrgbyrgygrbybry/).
 
-This was sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
+Sourced from register-of-tartans.  It is a [54 stripe tartan](/stripes/stripes54/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5020
 

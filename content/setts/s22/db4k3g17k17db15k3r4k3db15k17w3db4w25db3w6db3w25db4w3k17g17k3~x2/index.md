@@ -2,18 +2,20 @@
 title: "Argyle Dress"
 date: 2023-03-18
 ---
-In pattern [BKGKBKRKBKWBWBWBWBWKGK](/stripes/bkgkbkrkbkwbwbwbwbwkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k3g17k17db15k3r4k3db15k17ln3db4ln25db3ln6db3ln25db4ln3k17g17k3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKRKBKWBWBWBWBWKGK](/stripes/bkgkbkrkbkwbwbwbwbwkgk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5092
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Argyle Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5092))
-- pre 1985 — Argyle Dress (Patons) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3602/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Argyle Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5092">record</a>)</li>
+<li>pre 1985 — Argyle Dress (Patons) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3602/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "MacDonald"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8r1db2r3db12r1k12g12r3g2r1g8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — MacDonald (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — MacDonald (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/16 R2 DB4 R6 DB24 R2 K24 G24 R6 G4 R2 G/16

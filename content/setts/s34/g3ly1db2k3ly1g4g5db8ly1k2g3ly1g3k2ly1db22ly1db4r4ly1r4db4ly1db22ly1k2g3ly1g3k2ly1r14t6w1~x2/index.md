@@ -2,9 +2,10 @@
 title: "Hebrides Inner"
 date: 2023-03-18
 ---
-In pattern [GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBW](/stripes/gybkyggbykgygkybybryrbybykgygkyrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3y1b2k3y1g4ga5b8y1k2ga3y1ga3k2y1b22y1b4r4y1r4b4y1b22y1k2ga3y1ga3k2y1r14ba6ln1/)
+(the same proportion at any scale), whose colour order is pattern [GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBW](/stripes/gybkyggbykgygkybybryrbybykgygkyrbw/).
 
-This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hebrides Inner.. Artifact
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hebrides Inner (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hebrides Inner.. Artifact Tartan Tartan Number: 957. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=957))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hebrides Inner (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hebrides Inner.. Artifact Tartan Tartan Number: 957. Earliest known date: pre 2003 Alternative count on 1990 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=957">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/6 Y2 B4 K6 Y2 G8 Ga10 B16 Y2 K4 Ga6 Y2 Ga6 K4 Y2 B44 Y2 B8 R8 Y2 R8 B8 Y2 B44 Y2 K4 Ga6 Y2 Ga6 K4 Y2 R28 Ba12 LN/2

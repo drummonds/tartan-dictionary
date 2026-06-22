@@ -2,9 +2,10 @@
 title: "Utah Valley University"
 date: 2023-03-18
 ---
-In pattern [KGWGKGWK](/stripes/kgwgkgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3w7g3k16g17w1g8k1/)
+(the same proportion at any scale), whose colour order is pattern [KGWGKGWK](/stripes/kgwgkgwk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11619
 

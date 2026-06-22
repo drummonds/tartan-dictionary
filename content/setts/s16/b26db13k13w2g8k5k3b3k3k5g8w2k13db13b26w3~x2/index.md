@@ -2,9 +2,10 @@
 title: "Moran Blue Family Tartan Tartan Number: 3901. Earliest known date: 2001 Designed by Mark Moran after finding that the existing green Moran tartan was restricted (by copyright). Mark decided that he too, wished to reserve the design for his own famillies use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b26db13k13ln2g8k5cr3b3cr3k5g8ln2k13db13b26ln3/)
+(the same proportion at any scale), whose colour order is pattern [BBKWGKKBKKGWKBBW](/stripes/bbkwgkkbkkgwkbbw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3901
 

@@ -2,18 +2,20 @@
 title: "Over Mountain"
 date: 2023-03-18
 ---
-In pattern [GWGWBWR](/stripes/gwgwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2lp1db8lp8lt8lp1lt1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWBWR](/stripes/gwgwbwr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Over Mountain (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278))
-- 1998 — Over Mountain (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2448/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Over Mountain (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3278">record</a>)</li>
+<li>1998 — Over Mountain (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2448/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

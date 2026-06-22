@@ -2,9 +2,10 @@
 title: "Boswell Dress Personal Tartan Tartan Number: 6359. Earliest known date: 2004 A tartan for William Boswell of Balmuto in Fife. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRWKWRW](/stripes/bwrwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln13r3ln2k5ln2r3ln13db8/)
+(the same proportion at any scale), whose colour order is pattern [BWRWKWRW](/stripes/bwrwkwrw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6359
 

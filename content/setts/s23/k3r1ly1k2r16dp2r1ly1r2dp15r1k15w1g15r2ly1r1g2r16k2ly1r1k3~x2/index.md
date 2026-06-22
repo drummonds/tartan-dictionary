@@ -2,9 +2,10 @@
 title: "Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1y1k2r16g2r1y1r2g15ln1k15r1p15r2y1r1p2r16k2y1r1k3/)
+(the same proportion at any scale), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-This was sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1215
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hay or Leith
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1215))
-- undated — Leith (Hay) Family Tartan Tartan Number: 2129. Earliest known date: 1831 See Hay or Leith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2129))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hay or Leith Clan Tartan Tartan Number: 1215. Earliest known date: 1810-15 Also recorded by Logan and Wilson in the Wilson's pattern books. The Hay Leith connection is believed to have come about through a marriage between the two families. At Delgattie Castle, Turriff, there is a Clan Hay centre and Leith Hall, home of the Leith-Hays, is owned by the National Trust for Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1215">record</a>)</li>
+<li>undated — Leith (Hay) Family Tartan Tartan Number: 2129. Earliest known date: 1831 See Hay or Leith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2129">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 R2 Y2 K4 R32 G4 R2 Y2 R4 G30 LN2 K30 R2 P30 R4 Y2 R2 P4 R32 K4 Y2 R2 K/6

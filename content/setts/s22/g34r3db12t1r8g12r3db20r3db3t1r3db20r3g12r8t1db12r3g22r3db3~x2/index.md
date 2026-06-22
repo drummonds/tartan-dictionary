@@ -2,9 +2,10 @@
 title: "Cumming, of Glenorchy"
 date: 2023-03-18
 ---
-In pattern [BRGRBBRGRBRBBRBRGRBBRG](/stripes/brgrbbrgrbrbbrbrgrbbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g34r3b12ba1r8g12r3b20r3b3ba1r3b20r3g12r8ba1b12r3g22r3b3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBBRGRBRBBRBRGRBBRG](/stripes/brgrbbrgrbrbbrbrgrbbrg/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Cumming Glenorchy
 - Cumming, of Glenorchy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cumming, of Glenorchy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cumming Glenorchy (Htg) Clan Tartan Tartan Number: 507. Earliest known date: 1810-15 John, Lord of Badenoch - the Red Comyn, fought Robert the Bruce for the Scottish throne, and died in the attempt. The Comyns of Altyre became Chiefs of the Clan. The true origins of the tartan are unknown as the claims of antiquity made in the Vestiarium Scoticum, where this version of the tartan was first recorded, are unreliable. Ref: The Setts No 32. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=507))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cumming, of Glenorchy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cumming Glenorchy (Htg) Clan Tartan Tartan Number: 507. Earliest known date: 1810-15 John, Lord of Badenoch - the Red Comyn, fought Robert the Bruce for the Scottish throne, and died in the attempt. The Comyns of Altyre became Chiefs of the Clan. The true origins of the tartan are unknown as the claims of antiquity made in the Vestiarium Scoticum, where this version of the tartan was first recorded, are unreliable. Ref: The Setts No 32. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=507">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/68 R6 B24 Ba2 R16 G24 R6 B40 R6 B6 Ba2 R6 B40 R6 G24 R16 Ba2 B24 R6 G44 R6 B/6

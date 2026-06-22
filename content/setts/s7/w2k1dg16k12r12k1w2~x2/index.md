@@ -2,9 +2,10 @@
 title: "Prince Edward Island #2"
 date: 2023-03-18
 ---
-In pattern [WKGKRKW](/stripes/wkgkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1g16k12r12k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKGKRKW](/stripes/wkgkrkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3389
 

@@ -2,9 +2,10 @@
 title: "Bear Baars (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBWRWBWKRWR](/stripes/rbwrwbwkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db2w2ra1w2db10w1k2r10w1r2/)
+(the same proportion at any scale), whose colour order is pattern [RBWRWBWKRWR](/stripes/rbwrwbwkrwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11314
 

@@ -2,9 +2,10 @@
 title: "Beguinot, (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGRYGGRWRGGYRGBYBY](/stripes/bgryggrwrggyrgbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12ga4r2y3g4ga4r20w4r14ga4g4y3r2ga4b12y2b8y2/)
+(the same proportion at any scale), whose colour order is pattern [BGRYGGRWRGGYRGBYBY](/stripes/bgryggrwrggyrgbyby/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10540/
 

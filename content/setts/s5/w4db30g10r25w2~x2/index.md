@@ -2,9 +2,10 @@
 title: "Highland Spring Dress (2004) (Corp)"
 date: 2023-03-18
 ---
-In pattern [WBGRW](/stripes/wbgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db30g10dr25w2/)
+(the same proportion at any scale), whose colour order is pattern [WBGRW](/stripes/wbgrw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6140/
 

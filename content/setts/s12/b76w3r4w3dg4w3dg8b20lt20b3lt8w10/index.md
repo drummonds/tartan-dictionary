@@ -2,9 +2,10 @@
 title: "Summerwood"
 date: 2023-03-18
 ---
-In pattern [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b76w3r4w3dg4w3g8b20lb20b3lb8w10/)
+(the same proportion at any scale), whose colour order is pattern [BWRWGWGBWBWW](/stripes/bwrwgwgbwbww/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5903
 

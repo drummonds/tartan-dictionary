@@ -2,9 +2,10 @@
 title: "Craigmoor"
 date: 2023-03-18
 ---
-In pattern [KRBKRKGGY](/stripes/krbkrkggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r8b2k2r2k6t2g6y1/)
+(the same proportion at any scale), whose colour order is pattern [KRBKRKGGY](/stripes/krbkrkggy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=788
 

@@ -2,9 +2,10 @@
 title: "Euphoria (Universal)"
 date: 2023-03-18
 ---
-In pattern [WRYKWBWYKYWKY](/stripes/wrykwbwykywky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1k1ln8n1k1n8ln1b8ln1k1n8r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRYKWBWYKYWKY](/stripes/wrykwbwykywky/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7363/
 

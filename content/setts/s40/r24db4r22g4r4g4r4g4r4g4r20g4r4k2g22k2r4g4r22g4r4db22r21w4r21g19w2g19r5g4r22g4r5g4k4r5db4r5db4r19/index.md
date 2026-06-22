@@ -2,9 +2,10 @@
 title: "MacDonald of Staffa 6"
 date: 2023-03-18
 ---
-In pattern [RBRBRKGRGRGRGWGRWRBRGRGRKGKRGRGRGRGRGRBR](/stripes/rbrbrkgrgrgrgwgrwrbrgrgrkgkrgrgrgrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24b4r22g4r4g4r4g4r4g4r20g4r4k2g22k2r4g4r22g4r4b22r21ln4r21g19ln2g19r5g4r22g4r5g4k4r5b4r5b4r19/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRKGRGRGRGWGRWRBRGRGRKGKRGRGRGRGRGRBR](/stripes/rbrbrkgrgrgrgwgrwrbrgrgrkgkrgrgrgrgrgrbr/).
 
-This was sourced from weddslist.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from weddslist.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDonald of Staffa 6
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald of Staffa 6 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonald of Staffa Clan Tartan Tartan Number: 1387. Earliest known date: 1819 Reduced by 60% for display. Until recently the various branches of the Clan Donald were regarded as independant clans in their own right. In 1947 the Mac Dhomnuill was re-instated by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1387))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald of Staffa 6 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonald of Staffa Clan Tartan Tartan Number: 1387. Earliest known date: 1819 Reduced by 60% for display. Until recently the various branches of the Clan Donald were regarded as independant clans in their own right. In 1947 the Mac Dhomnuill was re-instated by Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1387">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/24 B4 R22 G4 R4 G4 R4 G4 R4 G4 R20 G4 R4 K2 G22 K2 R4 G4 R22 G4 R4 B22 R21 LN4 R21 G19 LN2 G19 R5 G4 R22 G4 R5 G4 K4 R5 B4 R5 B4 R/19

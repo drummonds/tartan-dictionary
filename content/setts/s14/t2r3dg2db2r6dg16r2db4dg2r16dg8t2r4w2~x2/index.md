@@ -2,9 +2,10 @@
 title: "MacKinnon #2"
 date: 2023-03-18
 ---
-In pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r3g2ba2r6g16r2ba4g2r16g8b2r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRGRBGRGBRW](/stripes/brgbrgrbgrgbrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2546
 

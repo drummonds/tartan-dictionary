@@ -2,18 +2,20 @@
 title: "Brooks Brothers (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKBKRKBKRKY](/stripes/rkbkrkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr48k10db12k2dr3k2db12k10n10k2lg3/)
+(the same proportion at any scale), whose colour order is pattern [RKBKRKBKRKY](/stripes/rkbkrkbkrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3735/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1996 — Brooks Brothers (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3735/))
-- undated — Brooks Brothers (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5015))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1996 — Brooks Brothers (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3735/">record</a>)</li>
+<li>undated — Brooks Brothers (WCWM) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5015">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

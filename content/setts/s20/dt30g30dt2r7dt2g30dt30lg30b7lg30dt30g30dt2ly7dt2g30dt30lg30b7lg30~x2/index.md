@@ -2,9 +2,10 @@
 title: "Smith of Pennylands"
 date: 2023-03-18
 ---
-In pattern [BGBRBGBYBYBGBYBGBYBY](/stripes/bgbrbgbybybgbybgbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30g30k2r7k2g30k30ba30b7ba30k30g30k2y7k2g30k30ba30b7ba30/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBGBYBYBGBYBGBYBY](/stripes/bgbrbgbybybgbybgbyby/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4869
 

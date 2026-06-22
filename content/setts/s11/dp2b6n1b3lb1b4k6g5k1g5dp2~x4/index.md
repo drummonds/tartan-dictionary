@@ -2,9 +2,10 @@
 title: "Smithers (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBBWBKGKGB](/stripes/bbbbwbkgkgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2b6n1b3na1b4k6g5k1g5p2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBKGKGB](/stripes/bbbbwbkgkgb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2227/
 

@@ -2,18 +2,20 @@
 title: "Atikokan"
 date: 2023-03-18
 ---
-In pattern [WGRRWBY](/stripes/wgrrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6b16n3r3do3g3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGRRWBY](/stripes/wgrrwby/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1981 — Atikokan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126))
-- undated — Atikokan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1981 — Atikokan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=126">record</a>)</li>
+<li>undated — Atikokan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

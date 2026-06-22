@@ -2,9 +2,10 @@
 title: "Seller Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKWYWYWGRWRW](/stripes/wkwywywgrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w63k4lp9y2lp4y2lp4t11r8lp2r4w5/)
+(the same proportion at any scale), whose colour order is pattern [WKWYWYWGRWRW](/stripes/wkwywywgrwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1811/
 

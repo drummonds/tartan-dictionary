@@ -2,9 +2,10 @@
 title: "Chrysanthemum (Japanese Four Seasons)"
 date: 2023-03-18
 ---
-In pattern [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5dr1r20dr4ln2dr4ln2dr24o2dr1o4dr4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWBWBRBW](/stripes/brbrbwbwbrbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5901
 

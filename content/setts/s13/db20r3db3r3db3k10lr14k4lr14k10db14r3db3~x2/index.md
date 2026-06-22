@@ -2,9 +2,10 @@
 title: "Commonwealth Variation"
 date: 2023-03-18
 ---
-In pattern [BRBKYKYKBRBRB](/stripes/brbkykykbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20dr3db3dr3db3k10n14k4n14k10db14dr3db3/)
+(the same proportion at any scale), whose colour order is pattern [BRBKYKYKBRBRB](/stripes/brbkykykbrbrb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=725
 

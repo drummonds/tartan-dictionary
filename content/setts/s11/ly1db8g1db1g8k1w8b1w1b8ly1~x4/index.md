@@ -2,9 +2,10 @@
 title: "Robinson, Barbara Ann (Personal)"
 date: 2023-03-18
 ---
-In pattern [YBGBGKWBWBY](/stripes/ybgbgkwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1db8g1db1g8k1w8b1w1b8y1/)
+(the same proportion at any scale), whose colour order is pattern [YBGBGKWBWBY](/stripes/ybgbgkwbwby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3539
 

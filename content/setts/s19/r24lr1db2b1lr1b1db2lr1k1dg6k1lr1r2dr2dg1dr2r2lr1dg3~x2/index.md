@@ -2,9 +2,10 @@
 title: "MacBean"
 date: 2023-03-18
 ---
-In pattern [GYRBGBRYKGKYBBYBBYR](/stripes/gyrbgbrykgkybbybbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24n1db2b1n1b1db2n1k1dg6k1n1dr2dra2dg1dra2dr2n1dg3/)
+(the same proportion at any scale), whose colour order is pattern [GYRBGBRYKGKYBBYBBYR](/stripes/gyrbgbrykgkybbybbyr/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

@@ -2,9 +2,10 @@
 title: "Mordente (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2w1g1r16g7r1w1g1w1r1g7w2r1g2/)
+(the same proportion at any scale), whose colour order is pattern [GRWGRWGWRGRGWR](/stripes/grwgrwgwrgrgwr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1016/
 

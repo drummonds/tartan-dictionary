@@ -2,9 +2,10 @@
 title: "Graham of Montrose #2"
 date: 2023-03-18
 ---
-In pattern [BKGWGKGWGKBK](/stripes/bkgwgkgwgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba9k9g9wa2g9k9g9wa2g9k9dba9k3/)
+(the same proportion at any scale), whose colour order is pattern [BKGWGKGWGKBK](/stripes/bkgwgkgwgkbk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1485
 

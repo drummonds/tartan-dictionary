@@ -2,18 +2,20 @@
 title: "Nibley (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRBGW](/stripes/rgrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3dg18db22r19dg1r2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBGW](/stripes/rgrbgw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Nibley (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134))
-- 1997 Feb — Nibley (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2338/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Nibley (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3134">record</a>)</li>
+<li>1997 Feb — Nibley (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2338/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

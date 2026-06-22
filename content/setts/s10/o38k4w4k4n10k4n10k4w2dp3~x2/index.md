@@ -2,18 +2,20 @@
 title: "Penman Grey (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWKBKBKWKR](/stripes/bwkbkbkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na38k4ln4k4n10k4n10k4ln2p3/)
+(the same proportion at any scale), whose colour order is pattern [BWKBKBKWKR](/stripes/bwkbkbkwkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3318
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Penman Grey (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3318))
-- 2005 — Penman Grey (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6644/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Penman Grey (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3318">record</a>)</li>
+<li>2005 — Penman Grey (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6644/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

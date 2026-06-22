@@ -2,9 +2,10 @@
 title: "Royal College of Surgeons of Edinburgh"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKBW](/stripes/bbkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4db16k2db2k2db2k13n20ln4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKBW](/stripes/bbkbkbkbw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

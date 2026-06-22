@@ -2,9 +2,10 @@
 title: "Filipino American"
 date: 2023-03-18
 ---
-In pattern [KRKGBGBWYWR](/stripes/krkgbgbwywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30ln4y2ln4db16dg8p3dg8k10r3k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGBGBWYWR](/stripes/krkgbgbwywr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Filipino
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 16/07/2012 — Filipino American (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659))
-- undated — Filipino American Corporate Tartan Tartan Number: 10659. Earliest known date: 16/07/2012 Designed to commemorate Filipino-Americans, their traditions and their values. The colours of this tartan combine the Philippine Flag and the various colours of the warrior clan "Bahags" or loin cloths worn by the more than 160 tribes in the Philippine Islands. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10659))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>16/07/2012 — Filipino American (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10659">record</a>)</li>
+<li>undated — Filipino American Corporate Tartan Tartan Number: 10659. Earliest known date: 16/07/2012 Designed to commemorate Filipino-Americans, their traditions and their values. The colours of this tartan combine the Philippine Flag and the various colours of the warrior clan "Bahags" or loin cloths worn by the more than 160 tribes in the Philippine Islands. Developed for weaving by A Trivett on behalf of the Scottish Tartans Authority. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10659">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

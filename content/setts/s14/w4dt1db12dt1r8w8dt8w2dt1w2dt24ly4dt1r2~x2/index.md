@@ -2,9 +2,10 @@
 title: "Submariners (Unofficial)"
 date: 2023-03-18
 ---
-In pattern [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db1dba12db1r8w8db8w2db1w2db24y4db1r2/)
+(the same proportion at any scale), whose colour order is pattern [RBYBWBWBWRBBBW](/stripes/rbybwbwbwrbbbw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10589/
 

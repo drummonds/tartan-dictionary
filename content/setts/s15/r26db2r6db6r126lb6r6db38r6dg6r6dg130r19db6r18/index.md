@@ -2,9 +2,10 @@
 title: "Drummond of Megginch - 1820 Plaid"
 date: 2023-03-18
 ---
-In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r26db2r6db6r126lb6r6db38r6g6r6g130r19db6r18/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-This was sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmegginch/
 

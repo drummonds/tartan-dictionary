@@ -2,9 +2,10 @@
 title: "MacRae Prince's Own"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10r2g10r9k1r1k2r1k1r9k1r1k2r1k1r9ln1r4db11r2db11r4ln1r9g2r4g2r9g5r3g4r3g3y1g3r3g6ln1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2752
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacRae Prince's Own
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1745 — MacRae Prince's Own (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2752))
-- 1810 — MacRae - 1810 (Prince's Own) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/981/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1745 — MacRae Prince's Own (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2752">record</a>)</li>
+<li>1810 — MacRae - 1810 (Prince's Own) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/981/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

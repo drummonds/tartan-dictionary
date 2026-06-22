@@ -2,9 +2,10 @@
 title: "Munster Ancestry"
 date: 2023-03-18
 ---
-In pattern [BBBBYBBY](/stripes/bbbbybby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4b48k21b14dy3b6k1y3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBYBBY](/stripes/bbbbybby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10799
 

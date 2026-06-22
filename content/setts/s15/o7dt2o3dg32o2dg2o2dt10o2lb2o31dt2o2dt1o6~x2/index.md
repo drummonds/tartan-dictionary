@@ -2,9 +2,10 @@
 title: "Drummond of Megginch - 1997 Kilt"
 date: 2023-03-18
 ---
-In pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr7dn2dr3n32dr2n2dr2dn10dr2lb2dr31dn2dr2dn1dr6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRWRBRGRGRBR](/stripes/rbrbrwrbrgrgrbr/).
 
-This was sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from research.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://tartandictionary.org/posts/drummondsofmegginch/
 

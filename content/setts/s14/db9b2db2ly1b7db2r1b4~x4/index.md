@@ -2,9 +2,10 @@
 title: "Mercer Blue Personal Tartan Tartan Number: 5880. Earliest known date: 2001 Designed by Dr P{hil Smith of TECA for Charles Mercer of Rocky Mount, North Carolina. Can be worn by all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBYBBRBRBBYBB](/stripes/bbbybbrbrbbybb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9b2db2y1b7db2r1b4/)
+(the same proportion at any scale), whose colour order is pattern [BBBYBBRBRBBYBB](/stripes/bbbybbrbrbbybb/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5880
 

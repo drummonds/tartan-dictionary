@@ -2,18 +2,20 @@
 title: "Cooper"
 date: 2023-03-18
 ---
-In pattern [BKGRBRKBGBGBRR](/stripes/bkgrbrkbgbgbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b116k4g22r7b3r7k26b7g3b7g66b4r7ra4/)
+(the same proportion at any scale), whose colour order is pattern [BKGRBRKBGBGBRR](/stripes/bkgrbrkbgbgbrr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cooper (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=332))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cooper (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cooper Family Tartan Tartan Number: 332. Earliest known date: pre 2003 See Couper. (Couper of Gogar) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=332">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/116 K4 G22 R7 B3 R7 K26 B7 G3 B7 G66 B4 R7 Ra/4

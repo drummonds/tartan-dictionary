@@ -2,19 +2,21 @@
 title: "Pennsylvania (District)"
 date: 2023-03-18
 ---
-In pattern [BYBGKBGRKRGBKGBYBYB](/stripes/bybgkbgrkrgbkgbybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30dy2db2dy2db5g5k15db5g20dr2k3dr2g20db5k15g5db20dy2db2/)
+(the same proportion at any scale), whose colour order is pattern [BYBGKBGRKRGBKGBYBYB](/stripes/bybgkbgrkrgbkgbybyb/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3130/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- June 1992 — Pennsylvania (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3130/))
-- undated — Pennsylvania (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5259))
-- undated — Pennsylvania American District Tartan Tartan Number: 3130. Earliest known date: 1992 Not yet accepted by the State as official (March 2007). Designed and copyrighted by the late Wm.H. Johnston 1992. Registered with the Tartan Educational and Cultural Association on 10 March 1993. Based on the Black Watch which served at the Battle of Bushy Run, near Pittsburgh, in 1763, thus assuring western Pennsylvania and the "Ohio Country" for Great Britain. 'Tartans' (Johnston/Smith 1999) states (incorrectly) on Page 109 that this is the State Tartan and gives the correct graphic but the wrong threadcount. The second pivot is given as R4 when in fact it is B4. The Sheepskin Shop in Ebensburg PA that markets blankets in the tartan has obviously used the incorrect threadcount from the book. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3130))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>June 1992 — Pennsylvania (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3130/">record</a>)</li>
+<li>undated — Pennsylvania (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5259">record</a>)</li>
+<li>undated — Pennsylvania American District Tartan Tartan Number: 3130. Earliest known date: 1992 Not yet accepted by the State as official (March 2007). Designed and copyrighted by the late Wm.H. Johnston 1992. Registered with the Tartan Educational and Cultural Association on 10 March 1993. Based on the Black Watch which served at the Battle of Bushy Run, near Pittsburgh, in 1763, thus assuring western Pennsylvania and the "Ohio Country" for Great Britain. 'Tartans' (Johnston/Smith 1999) states (incorrectly) on Page 109 that this is the State Tartan and gives the correct graphic but the wrong threadcount. The second pivot is given as R4 when in fact it is B4. The Sheepskin Shop in Ebensburg PA that markets blankets in the tartan has obviously used the incorrect threadcount from the book. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3130">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

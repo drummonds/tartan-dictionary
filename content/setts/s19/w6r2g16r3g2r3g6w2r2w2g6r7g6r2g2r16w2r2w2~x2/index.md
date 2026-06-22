@@ -2,18 +2,20 @@
 title: "MacDougall (Lochcarron)"
 date: 2023-03-18
 ---
-In pattern [WRGRGRGWRWGRGRGRWRW](/stripes/wrgrgrgwrwgrgrgrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6r2g16r3g2r3g6ln2r2ln2g6r7g6r2g2r16ln2r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGRGWRWGRGRGRWRW](/stripes/wrgrgrgwrwgrgrgrwrw/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — MacDougall (Lochcarron) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404))
-- pre 2005 — MacDougall - 2005 (Lochcarron) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6634/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — MacDougall (Lochcarron) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2404">record</a>)</li>
+<li>pre 2005 — MacDougall - 2005 (Lochcarron) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6634/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

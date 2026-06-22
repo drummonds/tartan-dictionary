@@ -2,9 +2,10 @@
 title: "Glenfinnan (Clan?)"
 date: 2023-03-18
 ---
-In pattern [BRWBWRYRWR](/stripes/brwbwryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28dr26w2b5w2dr26lg28dr5w2dr5/)
+(the same proportion at any scale), whose colour order is pattern [BRWBWRYRWR](/stripes/brwbwryrwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6243/
 

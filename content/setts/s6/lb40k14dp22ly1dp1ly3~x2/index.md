@@ -2,9 +2,10 @@
 title: "British Energy Corporate Tartan Tartan Number: 2324. Earliest known date: 1996 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WKBYBY](/stripes/wkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp40k14p22y1p1y3/)
+(the same proportion at any scale), whose colour order is pattern [WKBYBY](/stripes/wkbyby/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2324
 

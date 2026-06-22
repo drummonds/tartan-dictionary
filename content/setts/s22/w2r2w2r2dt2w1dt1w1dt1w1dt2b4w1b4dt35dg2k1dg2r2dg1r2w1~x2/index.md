@@ -2,9 +2,10 @@
 title: "American Scottish Foundation"
 date: 2023-03-18
 ---
-In pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2r2w2r2db2w1db1w1db1w1db2b4w1b4db35g2k1g2r2g1r2w1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11223
 

@@ -2,18 +2,20 @@
 title: "Duchess of Edinburgh"
 date: 2023-03-18
 ---
-In pattern [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/stripes/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12ba8k8y2k2ln2k2g12r8k2r5ln2r5k2r8g12k2ln2k2y2k8ba8g32r4g32k4b10k8b4k5y2k4r4k4ba12/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/stripes/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr/).
 
-This was sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from weddslist.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Duchess of Edinburgh (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Duchess of Edinburgh Tartan Tartan Number: 358. Earliest known date: pre 2003 MacKinlay Strip See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=358))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Duchess of Edinburgh (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Duchess of Edinburgh Tartan Tartan Number: 358. Earliest known date: pre 2003 MacKinlay Strip See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=358">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/24 Ba16 K16 Y4 K4 LN4 K4 G24 R16 K4 R10 LN4 R10 K4 R16 G24 K4 LN4 K4 Y4 K16 Ba16 G64 R8 G64 K8 B20 K16 B8 K10 Y4 K8 R8 K8 Ba/24

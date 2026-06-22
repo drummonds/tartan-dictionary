@@ -2,9 +2,10 @@
 title: "Dalveen (1981)"
 date: 2023-03-18
 ---
-In pattern [GGGGWKGK](/stripes/ggggwkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g2k10ln11g1t10g2t3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGWKGK](/stripes/ggggwkgk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=882
 

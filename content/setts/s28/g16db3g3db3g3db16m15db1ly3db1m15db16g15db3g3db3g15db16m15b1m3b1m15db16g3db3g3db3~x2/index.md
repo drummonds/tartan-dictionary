@@ -2,9 +2,10 @@
 title: "Cairns of Finavon (Name)"
 date: 2023-03-18
 ---
-In pattern [BGBGBRBRBRBGBGBGBRBYBRBGBGBG](/stripes/bgbgbrbrbrbgbgbgbrbybrbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16db3g3db3g3db16r15db1y3db1r15db16g15db3g3db3g15db16r15b1r3b1r15db16g3db3g3db3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRBRBRBGBGBGBRBYBRBGBGBG](/stripes/bgbgbrbrbrbgbgbgbrbybrbgbgbg/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7006/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cairns of Finavon Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- September 2006 — Cairns of Finavon (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7006/))
-- undated — Cairns of Finavon Personal Tartan Tartan Number: 7006. Earliest known date: September 2006 Asymmetric tartan designed for David Cairns of Finavon, Baron of Finavon. Cairns are one of the armigerous families of Scotland with records going back at least to the 14th century. The Cairns have a long affiliation with the Clan Grant. The basic sett for the Cairns tartan is taken from the Black Watch, both because many generations of Cairns have served in that regiment, and also because it is the Hunting Grant tartan. The coloration is that of the Lindsay tartan, as the title Baron of Finavon was originally held by the Earls of Crawford. The yellow line on the maroon is to reflect the livery colors of David Cairns, yellow and red. The azure lines are an allusion to the Grant tartan. The Baron of Finavon intends this tartan to be used by any of the name Cairns or a variation thereof: Cairns, Cairnes, Cairnis, Carnes, Carns, Cayrns, Carnys, Cearns, Kairns, Kairnes, Kairnis, Karnes, Karns, Kayrns, Karnys, Kearns. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7006))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>September 2006 — Cairns of Finavon (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7006/">record</a>)</li>
+<li>undated — Cairns of Finavon Personal Tartan Tartan Number: 7006. Earliest known date: September 2006 Asymmetric tartan designed for David Cairns of Finavon, Baron of Finavon. Cairns are one of the armigerous families of Scotland with records going back at least to the 14th century. The Cairns have a long affiliation with the Clan Grant. The basic sett for the Cairns tartan is taken from the Black Watch, both because many generations of Cairns have served in that regiment, and also because it is the Hunting Grant tartan. The coloration is that of the Lindsay tartan, as the title Baron of Finavon was originally held by the Earls of Crawford. The yellow line on the maroon is to reflect the livery colors of David Cairns, yellow and red. The azure lines are an allusion to the Grant tartan. The Baron of Finavon intends this tartan to be used by any of the name Cairns or a variation thereof: Cairns, Cairnes, Cairnis, Carnes, Carns, Cayrns, Carnys, Cearns, Kairns, Kairnes, Kairnis, Karnes, Karns, Kayrns, Karnys, Kearns. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7006">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/32 DB6 G6 DB6 G6 DB32 R30 DB2 Y6 DB2 R30 DB32 G30 DB6 G6 DB6 G30 DB32 R30 B2 R6 B2 R30 DB32 G6 DB6 G6 DB/6

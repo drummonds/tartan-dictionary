@@ -2,9 +2,10 @@
 title: "Arctic"
 date: 2023-03-18
 ---
-In pattern [BWWWWRGKWBBW](/stripes/bwwwwrgkwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1w6n1w1n2r2g2k2w1b2db16w1/)
+(the same proportion at any scale), whose colour order is pattern [BWWWWRGKWBBW](/stripes/bwwwwrgkwbbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=107
 

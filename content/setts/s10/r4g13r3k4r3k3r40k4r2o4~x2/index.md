@@ -2,9 +2,10 @@
 title: "Galway"
 date: 2023-03-18
 ---
-In pattern [RGRKRKRKRR](/stripes/rgrkrkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g13r3db4r3db3r40db4r2lt4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRKRKRR](/stripes/rgrkrkrkrr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Sabrettes"
 date: 2023-03-18
 ---
-In pattern [GWRWKWGKRRKWKGWKR](/stripes/gwrwkwgkrrkwkgwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r15k5ln2n7k4ln8k2r5r21k5n2ln2k7ln2r5ln2g2/)
+(the same proportion at any scale), whose colour order is pattern [GWRWKWGKRRKWKGWKR](/stripes/gwrwkwgkrrkwkgwkr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

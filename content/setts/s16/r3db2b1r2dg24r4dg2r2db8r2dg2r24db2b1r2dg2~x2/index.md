@@ -2,18 +2,20 @@
 title: "Stewart of Appin"
 date: 2023-03-18
 ---
-In pattern [GRBBRGRBRGRGRBBR](/stripes/grbbrgrbrgrgrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3db2b1dr2dg24dr4dg2dr2db8dr2dg2dr24db2b1dr2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRBBRGRBRGRGRBBR](/stripes/grbbrgrbrgrgrbbr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart of Appin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Stewart of Appin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart of Appin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Stewart of Appin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/6 DB4 B2 DR4 DG48 DR8 DG4 DR4 DB16 DR4 DG4 DR48 DB4 B2 DR4 DG/4

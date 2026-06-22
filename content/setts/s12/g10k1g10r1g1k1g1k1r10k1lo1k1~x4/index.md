@@ -2,9 +2,10 @@
 title: "Ulster Red (District)"
 date: 2023-03-18
 ---
-In pattern [GKGRGKGKRKYK](/stripes/gkgrgkgkrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k1g10dr1g1k1g1k1dr10k1dy1k1/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKGKRKYK](/stripes/gkgrgkgkrkyk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/792/
 

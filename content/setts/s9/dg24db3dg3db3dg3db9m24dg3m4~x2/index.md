@@ -2,9 +2,10 @@
 title: "Lindsay (Chisholm Red)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBRGR](/stripes/gbgbgbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg24db3dg3db3dg3db9dr24dg3dr4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBRGR](/stripes/gbgbgbrgr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2118
 

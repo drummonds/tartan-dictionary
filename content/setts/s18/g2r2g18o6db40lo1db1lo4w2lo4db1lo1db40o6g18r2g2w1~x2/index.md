@@ -2,9 +2,10 @@
 title: "O'Mahony, The"
 date: 2023-03-18
 ---
-In pattern [GRGRBYBYWYBYBRGRGW](/stripes/grgrbybywybybrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga2r2ga18nb6db40dy1db1dy4ln2dy4db1dy1db40nb6ga18r2ga2ln1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBYBYWYBYBRGRGW](/stripes/grgrbybywybybrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3244
 

@@ -2,9 +2,10 @@
 title: "Jahore"
 date: 2023-03-18
 ---
-In pattern [GWGGY](/stripes/gwggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n57ln5g20n5y10/)
+(the same proportion at any scale), whose colour order is pattern [GWGGY](/stripes/gwggy/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

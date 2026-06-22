@@ -2,9 +2,10 @@
 title: "Glenshee #2"
 date: 2023-03-18
 ---
-In pattern [GGRGR](/stripes/ggrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr37t9dr3g9t3/)
+(the same proportion at any scale), whose colour order is pattern [GGRGR](/stripes/ggrgr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1438
 

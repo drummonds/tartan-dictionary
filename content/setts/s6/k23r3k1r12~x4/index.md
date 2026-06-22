@@ -2,19 +2,21 @@
 title: "Ewing"
 date: 2023-03-18
 ---
-In pattern [KRKRKR](/stripes/krkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k23r3k1r12/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKR](/stripes/krkrkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 29/05/2014 — Ewing (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082))
-- 2014 — Ewing (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11082/))
-- undated — Ewing Clan Tartan Tartan Number: 11082. Earliest known date: 2014 Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots. This tartan is woven to order by Lochcarron on behalf of Clan Ewing. All weavers must seek permission from John Thor Ewing as registrant and copyright holder. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11082))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/05/2014 — Ewing (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11082">record</a>)</li>
+<li>2014 — Ewing (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11082/">record</a>)</li>
+<li>undated — Ewing Clan Tartan Tartan Number: 11082. Earliest known date: 2014 Following official recognition, this tartan was chosen by the new Commander of Clan Ewing, John Thor Ewing, as the Clan Ewing tartan. The tartan takes its inspiration from the plaid of John Ewing in Heiddykis of Kirkmichael (d.1609), described in his testament as 'sax ellis of reid & blak cullerit claith' The design relates to historical and traditional tartans from the areas and clans among which Clan Ewing has its roots. This tartan is woven to order by Lochcarron on behalf of Clan Ewing. All weavers must seek permission from John Thor Ewing as registrant and copyright holder. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11082">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

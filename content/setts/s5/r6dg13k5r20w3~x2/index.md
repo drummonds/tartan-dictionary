@@ -2,19 +2,21 @@
 title: "Ryutokukan Junior High School"
 date: 2023-03-18
 ---
-In pattern [RGKRW](/stripes/rgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6dg13k5dr20ly3/)
+(the same proportion at any scale), whose colour order is pattern [RGKRW](/stripes/rgkrw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 20/04/2012 — Ryutokukan Junior High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647))
-- 20/04/2012 — Ryutokukan Junior High School (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10647/))
-- undated — Ryutokukan Junior High School Tartan Tartan Number: 10647. Earliest known date: 20/04/2012 A tartan for this highly respected junior high school reflecting dignity and intelligence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10647))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>20/04/2012 — Ryutokukan Junior High School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10647">record</a>)</li>
+<li>20/04/2012 — Ryutokukan Junior High School (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10647/">record</a>)</li>
+<li>undated — Ryutokukan Junior High School Tartan Tartan Number: 10647. Earliest known date: 20/04/2012 A tartan for this highly respected junior high school reflecting dignity and intelligence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10647">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

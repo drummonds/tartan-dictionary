@@ -2,9 +2,10 @@
 title: "Harmony 1 Trade Tartan Tartan Number: 1658. Earliest known date: pre 2003 LB may be Turquoise See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBYBYBYYGYR](/stripes/bgbybybyygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr11g3dr4ya3dr3ya4dr3y13lt34g3lt4dra3/)
+(the same proportion at any scale), whose colour order is pattern [BGBYBYBYYGYR](/stripes/bgbybybyygyr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1658
 

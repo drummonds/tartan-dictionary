@@ -2,9 +2,10 @@
 title: "Chicago, University of.."
 date: 2023-03-18
 ---
-In pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr30k8dr2k2dr3k2dr8r15dr8k2dr3k2dr2k8dr30ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRRRKRKRKRW](/stripes/rkrkrkrrrkrkrkrw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

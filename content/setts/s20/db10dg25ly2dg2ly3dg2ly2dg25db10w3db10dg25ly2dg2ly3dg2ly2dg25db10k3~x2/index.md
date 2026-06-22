@@ -2,9 +2,10 @@
 title: "College of William & Mary Schools Tartan Tartan Number: 6522. Earliest known date: 2004 Designed by Carol Worthley of South Hiram, Maine for the Alma Mater of Stephen H Snell of Alexandria, Virginia - the College of William & Mary in VA. Stephen Snell has donated the tartan to the Earl Gregg Swem Library in that College to be sold as a fundraiser. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGYGYGYGBWBGYGYGYGBK](/stripes/bgygygygbwbgygygygbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10g25y2g2y3g2y2g25db10w3db10g25y2g2y3g2y2g25db10k3/)
+(the same proportion at any scale), whose colour order is pattern [BGYGYGYGBWBGYGYGYGBK](/stripes/bgygygygbwbgygygygbk/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6522
 

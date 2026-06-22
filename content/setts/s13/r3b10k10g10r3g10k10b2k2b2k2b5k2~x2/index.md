@@ -2,9 +2,10 @@
 title: "Blairgowrie High School S.A. (Corp)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKGRGKBR](/stripes/kbkbkbkgrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b10k10g10r3g10k10b2k2b2k2b5k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKGRGKBR](/stripes/kbkbkbkgrgkbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3701/
 

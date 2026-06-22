@@ -2,9 +2,10 @@
 title: "Murray of Tullibardine #2"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r1b1r2b4r2b1r1k2r1b1r24b12r2g2r8g12r4b2r2k1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3072
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Murray of Tullibardine #2
 - Murray of Tullibardine 1
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Murray of Tullibardine #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3072))
-- undated — Murray of Tullibardine (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Murray of Tullibardine #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3072">record</a>)</li>
+<li>undated — Murray of Tullibardine (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

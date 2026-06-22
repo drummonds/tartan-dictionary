@@ -2,9 +2,10 @@
 title: "Campbell, New Louden"
 date: 2023-03-18
 ---
-In pattern [RWBRRKRRBWGWRBBRWR](/stripes/rwbrrkrrbwgwrbbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25ln2lt5b2db2lt5ln2g12ln2p2lt2r5k2r5lt2p2ln2lt9/)
+(the same proportion at any scale), whose colour order is pattern [RWBRRKRRBWGWRBBRWR](/stripes/rwbrrkrrbwgwrbbrwr/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

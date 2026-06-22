@@ -2,18 +2,20 @@
 title: "Batson (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRY](/stripes/kry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k69r14y5/)
+(the same proportion at any scale), whose colour order is pattern [KRY](/stripes/kry/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2008 — Batson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755))
-- October 2008 — Batson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7789/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2008 — Batson (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5755">record</a>)</li>
+<li>October 2008 — Batson (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7789/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

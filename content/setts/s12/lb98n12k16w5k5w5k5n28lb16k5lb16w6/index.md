@@ -2,9 +2,10 @@
 title: "Glen Moy Tartan Tartan Number: 1293. Earliest known date: pre 1986 A colour variation of the Royal Stewart woven by Edgars, Pitlochry around 1986, named after the place in Angus described as follows: Its mainly Sheep farming in Glen Moy. Off the beaten track, its a very quiet area of the Angus glens close to Cortachy castle and great for walking if you like it to yourself! See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBKWKWKBWKWW](/stripes/wbkwkwkbwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na98n12k16ln5k5ln5k5n28na16k5na16ln6/)
+(the same proportion at any scale), whose colour order is pattern [WBKWKWKBWKWW](/stripes/wbkwkwkbwkww/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1293
 

@@ -2,9 +2,10 @@
 title: "Wilson's, No 83"
 date: 2023-03-18
 ---
-In pattern [BWRWRGYK](/stripes/bwrwrgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14y3g18r15ln2r3ln2p14/)
+(the same proportion at any scale), whose colour order is pattern [BWRWRGYK](/stripes/bwrwrgyk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "Grampian Police"
 date: 2023-03-18
 ---
-In pattern [BBWBKBKBKBKB](/stripes/bbwbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5b2w1b2k32db3k4db29k2dba1k3db3/)
+(the same proportion at any scale), whose colour order is pattern [BBWBKBKBKBKB](/stripes/bbwbkbkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Grampian Police (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490))
-- pre 2006 — Grampian Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6835/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Grampian Police (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1490">record</a>)</li>
+<li>pre 2006 — Grampian Police (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6835/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

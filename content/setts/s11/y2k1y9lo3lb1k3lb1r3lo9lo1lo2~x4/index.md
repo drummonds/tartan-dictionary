@@ -2,9 +2,10 @@
 title: "Asman, Day Tan (Name)"
 date: 2023-03-18
 ---
-In pattern [GKGYWKWRYYY](/stripes/gkgywkwryyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2k1g9lt3n1k3n1r3lt9dy1lt2/)
+(the same proportion at any scale), whose colour order is pattern [GKGYWKWRYYY](/stripes/gkgywkwryyy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3529/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Asman, Day Tan
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Asman, Day Tan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3529/))
-- undated — Asman, Day Tan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273))
-- undated — Asman Day Tan Family Tartan Tartan Number: 3529. Earliest known date: 2002 Based on a design by Phil Smith, woven by Peter MacDonald at the suggestion of David Asman for whom the original design was done. Intended for "day" wear. "Tan" is the name of the light brown colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3529))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Asman, Day Tan (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3529/">record</a>)</li>
+<li>undated — Asman, Day Tan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5273">record</a>)</li>
+<li>undated — Asman Day Tan Family Tartan Tartan Number: 3529. Earliest known date: 2002 Based on a design by Phil Smith, woven by Peter MacDonald at the suggestion of David Asman for whom the original design was done. Intended for "day" wear. "Tan" is the name of the light brown colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3529">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

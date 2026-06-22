@@ -2,9 +2,10 @@
 title: "Sikh Clan/Family Tartan Tartan Number: 2654. Earliest known date: 1999 Commissioned by a Mr A.J. Singh to celebrate the 50th anniversary of his family's arrival in Scotland. Can be worn by anyone of the Sikh faith. It was also to celebrate the 300th (??) anniversary of the founding of the Sikh religion that falls in the year Two Thousand. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRKRKRKRKRGBY](/stripes/bgrkrkrkrkrgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn20g20do3k4do3k4do30k4do3k4do3g20dn20y4/)
+(the same proportion at any scale), whose colour order is pattern [BGRKRKRKRKRGBY](/stripes/bgrkrkrkrkrgby/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2654
 

@@ -2,18 +2,20 @@
 title: "Firenze ~ Florence"
 date: 2023-03-18
 ---
-In pattern [BGWRBRWYBYBYBYWR](/stripes/bgwrbrwybybybywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r46w1y3db1y3db1y3db1y3w1r46p14r2w2g2p14/)
+(the same proportion at any scale), whose colour order is pattern [BGWRBRWYBYBYBYWR](/stripes/bgwrbrwybybybywr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2005 — Firenze ~ Florence (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190))
-- 2005 August — Firenze ~ Florence (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6756/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2005 — Firenze ~ Florence (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1190">record</a>)</li>
+<li>2005 August — Firenze ~ Florence (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6756/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

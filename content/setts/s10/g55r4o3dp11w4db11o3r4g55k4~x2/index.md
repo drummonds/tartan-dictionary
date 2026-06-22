@@ -2,18 +2,20 @@
 title: "Rollings (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRRBWBRRGK](/stripes/grrbwbrrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g55r4n3p11ln4db11n3r4g55k4/)
+(the same proportion at any scale), whose colour order is pattern [GRRBWBRRGK](/stripes/grrbwbrrgk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3108/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Rollings (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3108/))
-- undated — Rollings (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5136))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Rollings (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3108/">record</a>)</li>
+<li>undated — Rollings (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5136">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

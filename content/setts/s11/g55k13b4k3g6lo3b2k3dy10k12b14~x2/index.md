@@ -2,9 +2,10 @@
 title: "State Seal of South Carolina (Fash)"
 date: 2023-03-18
 ---
-In pattern [BKGKBYGKBKG](/stripes/bkgkbygkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga55k13b4k3g6dy3b2k3t10k12b14/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBYGKBKG](/stripes/bkgkbygkbkg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8654/
 

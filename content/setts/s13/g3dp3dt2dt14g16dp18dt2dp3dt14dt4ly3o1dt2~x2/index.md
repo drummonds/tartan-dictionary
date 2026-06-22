@@ -2,9 +2,10 @@
 title: "ENABLE Scotland"
 date: 2023-03-18
 ---
-In pattern [BRYBBBBBGBBBG](/stripes/brybbbbbgbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dp3k2db14g16dp18k2dp3k14db4lg3o1k2/)
+(the same proportion at any scale), whose colour order is pattern [BRYBBBBBGBBBG](/stripes/brybbbbbgbbbg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11177
 

@@ -2,9 +2,10 @@
 title: "Jacobite, Silk sash"
 date: 2023-03-18
 ---
-In pattern [WRRWGWYRRW](/stripes/wrrwgwyrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2ra8lt5y6ln5g21ln6ra8r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRRWGWYRRW](/stripes/wrrwgwyrrw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

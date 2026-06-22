@@ -2,9 +2,10 @@
 title: "Falconer"
 date: 2023-03-18
 ---
-In pattern [BKBGK](/stripes/bkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k4b4g9k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGK](/stripes/bkbgk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5239
 
@@ -16,15 +17,16 @@ This cloth is also recorded under:
 - Marshall
 - Marshall #2
 
-## Attestations
-
-This cloth appears in 5 source records; the oldest owns this page.
-
-- 01/01/1800 — Falconer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5239))
-- pre 1800 — Falconer (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3874/))
-- 1838 — Keith (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/253/))
-- pre 2002 — Marshall (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3875/))
-- undated — Marshall #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5240))
+<details class="attestations">
+<summary>5 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Falconer (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5239">record</a>)</li>
+<li>pre 1800 — Falconer (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3874/">record</a>)</li>
+<li>1838 — Keith (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/253/">record</a>)</li>
+<li>pre 2002 — Marshall (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3875/">record</a>)</li>
+<li>undated — Marshall #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5240">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

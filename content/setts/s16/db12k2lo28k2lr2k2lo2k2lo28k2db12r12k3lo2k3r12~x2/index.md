@@ -2,9 +2,10 @@
 title: "Oneness"
 date: 2023-03-18
 ---
-In pattern [BKYKYKYKYKBRKYKR](/stripes/bkykykykykbrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2lt28k2n2k2y2k2lt28k2db12lr12k3y2k3lr12/)
+(the same proportion at any scale), whose colour order is pattern [BKYKYKYKYKBRKYKR](/stripes/bkykykykykbrkykr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11102
 

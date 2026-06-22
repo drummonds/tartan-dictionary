@@ -2,9 +2,10 @@
 title: "All breeds Dairy Goats (Version 2)"
 date: 2023-03-18
 ---
-In pattern [BRKWKWRWRWRWRWRKRKRKRKWRWRWRWRWRWYY](/stripes/brkwkwrwrwrwrwrkrkrkrkwrwrwrwrwrwyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y10g10ln24do22ln1do1ln1do1ln1do1ln1do1ln1k1do1k1do1k1do1k1do1ln1do1ln1do1ln1do1ln1do1ln1k16ln4k16r10b10/)
+(the same proportion at any scale), whose colour order is pattern [BRKWKWRWRWRWRWRKRKRKRKWRWRWRWRWRWYY](/stripes/brkwkwrwrwrwrwrkrkrkrkwrwrwrwrwrwyy/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5943
 

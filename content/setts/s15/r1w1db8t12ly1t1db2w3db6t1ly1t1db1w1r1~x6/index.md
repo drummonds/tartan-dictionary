@@ -2,9 +2,10 @@
 title: "Buchanan, John & Isabella (Commemor)"
 date: 2023-03-18
 ---
-In pattern [RWBBYBBWBBYBBWR](/stripes/rwbbybbwbbybbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1ln1db8b12y1b1dba2ln3dba6b1y1b1dba1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [RWBBYBBWBBYBBWR](/stripes/rwbbybbwbbybbwr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7351/
 

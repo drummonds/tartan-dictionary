@@ -2,9 +2,10 @@
 title: "Mountain Rescue Association Honor Guard"
 date: 2023-03-18
 ---
-In pattern [KBKBKBW](/stripes/kbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k32b2k6b2k13n30w2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBW](/stripes/kbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3031
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mountain Rescue Assoc.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2004 — Mountain Rescue Association Honor Guard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3031))
-- 2004 July — Mountain Rescue Assoc. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6311/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2004 — Mountain Rescue Association Honor Guard (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3031">record</a>)</li>
+<li>2004 July — Mountain Rescue Assoc. (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6311/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

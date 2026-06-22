@@ -2,9 +2,10 @@
 title: "Uganda"
 date: 2023-03-18
 ---
-In pattern [WKBKRYKRYKWKWRW](/stripes/wkbkrykrykwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4r2ln1k2ln8k6y6r6k6y6r6k1db16k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKBKRYKRYKWKWRW](/stripes/wkbkrykrykwkwrw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5828
 

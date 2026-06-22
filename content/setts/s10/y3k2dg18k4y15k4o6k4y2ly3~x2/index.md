@@ -2,9 +2,10 @@
 title: "Fitzsimmons"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRKGY](/stripes/gkgkgkrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3lt2k4t6k4lt15k4dg18k2lt3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRKGY](/stripes/gkgkgkrkgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Fitzsimmons Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Fitzsimmons (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201))
-- August 2007 — Fitzsimmons Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7266/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Fitzsimmons (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1201">record</a>)</li>
+<li>August 2007 — Fitzsimmons Hunting (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7266/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

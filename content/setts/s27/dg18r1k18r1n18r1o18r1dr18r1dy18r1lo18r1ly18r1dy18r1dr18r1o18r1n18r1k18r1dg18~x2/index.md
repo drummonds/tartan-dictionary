@@ -2,9 +2,10 @@
 title: "MacKay of Strathnaver"
 date: 2023-03-18
 ---
-In pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18r1k18r1n18r1na18r1dr18r1t18r1lg18r1lt18r1t18r1dr18r1na18r1n18r1k18r1g18/)
+(the same proportion at any scale), whose colour order is pattern [GRKRBRRRBRGRYRYRGRBRRRBRKRG](/stripes/grkrbrrrbrgryryrgrbrrrbrkrg/).
 
-This was sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2503
 

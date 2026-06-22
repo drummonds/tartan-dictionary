@@ -2,9 +2,10 @@
 title: "MacAulay"
 date: 2023-03-18
 ---
-In pattern [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r18g7r3g10ln1g10r3g10ln1g10r3g7r18k1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGWGRGWGRGRK](/stripes/krgrgwgrgwgrgrk/).
 
-This was sourced from logan-1831.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from logan-1831.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link /posts/logans-scottish-gael/
 

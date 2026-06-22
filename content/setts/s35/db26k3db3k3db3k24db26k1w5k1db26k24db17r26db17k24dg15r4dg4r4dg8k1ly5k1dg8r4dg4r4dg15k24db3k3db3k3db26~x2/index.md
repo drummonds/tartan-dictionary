@@ -2,9 +2,10 @@
 title: "Unidentified Wilson sample"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKWKBKBRBKGRGRGKYKGRGRGKBKBKB](/stripes/bkbkbkbkwkbkbrbkgrgrgkykgrgrgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b26k3b3k3b3k24b26k1ln5k1b26k24b17r26b17k24g15r4g4r4g8k1y5k1g8r4g4r4g15k24b3k3b3k3b26/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKWKBKBRBKGRGRGKYKGRGRGKBKBKB](/stripes/bkbkbkbkwkbkbrbkgrgrgkykgrgrgkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4393
 

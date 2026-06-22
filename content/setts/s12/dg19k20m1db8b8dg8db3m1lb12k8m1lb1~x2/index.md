@@ -2,9 +2,10 @@
 title: "Vine (2015)"
 date: 2023-03-18
 ---
-In pattern [GKRBBGBRWKRW](/stripes/gkrbbgbrwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g19k20p1db8b8g8db3p1n12k8p1n1/)
+(the same proportion at any scale), whose colour order is pattern [GKRBBGBRWKRW](/stripes/gkrbbgbrwkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11373
 

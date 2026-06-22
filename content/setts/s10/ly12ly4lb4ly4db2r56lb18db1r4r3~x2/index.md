@@ -2,9 +2,10 @@
 title: "Union Memorial Tartan (Military)"
 date: 2023-03-18
 ---
-In pattern [RRBWRBYWYY](/stripes/rrbwrbywyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y12y4n4y4dba2dr56n18db1dr4dr3/)
+(the same proportion at any scale), whose colour order is pattern [RRBWRBYWYY](/stripes/rrbwrbywyy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4161/
 

@@ -2,18 +2,20 @@
 title: "Smith"
 date: 2023-03-18
 ---
-In pattern [RKGKBBBKGKY](/stripes/rkgkbbbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k1g12k12b12ba3b12k12g12k1y3/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBBBKGKY](/stripes/rkgkbbbkgky/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Smith (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Smith Family Tartan Tartan Number: 488. Earliest known date: pre 2003 This is Gow Hunting tartan with the dark blue stripe changed to azure. Gow is the Gaelic form of Smith meaning metal worker or armourer. There is an alternative Smith sett designed for Smith of Pennylands, the founder of the Boys Brigade. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=488))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Smith (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Smith Family Tartan Tartan Number: 488. Earliest known date: pre 2003 This is Gow Hunting tartan with the dark blue stripe changed to azure. Gow is the Gaelic form of Smith meaning metal worker or armourer. There is an alternative Smith sett designed for Smith of Pennylands, the founder of the Boys Brigade. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=488">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 K2 G24 K24 B24 Ba6 B24 K24 G24 K2 Y/6

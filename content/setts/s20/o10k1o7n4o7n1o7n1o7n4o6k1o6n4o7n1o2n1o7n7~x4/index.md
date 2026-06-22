@@ -2,9 +2,10 @@
 title: "Glen Burns (WCWM - 1)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRBRBRBRBRKR](/stripes/brbrbrbrkrbrbrbrbrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt10k1lt7na4n7na1n7na1n7na4lt6k1lt6na4n7na1n2na1n7na7/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRBRBRBRBRKR](/stripes/brbrbrbrkrbrbrbrbrkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1367
 

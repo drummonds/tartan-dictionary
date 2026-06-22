@@ -2,18 +2,20 @@
 title: "Drummond of Strathallan"
 date: 2023-03-18
 ---
-In pattern [RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/rkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k3r3k3y8g5y8k3r5ln3r5k5y3g5ln3g5y3b3r3k3r13ln1b1ln1r13ln1b1ln1r13k3r3b3y8g5y3g5y8k13ln1b3ln1k13r5ln3r5ln3r5k3y3g13k3g13k3g13y3k3r5ln3r5ln3r5k3y3g5ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKYGYKRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/rkrkygykrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
 
-This was sourced from weddslist.  It is a [65 stripe tartan](/stripes/stripes65/).
+Sourced from weddslist.  It is a [65 stripe tartan](/stripes/stripes65/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Drummond of Strathallan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Drummond of Strathallan Clan Tartan Tartan Number: 671. Earliest known date: 1812 This sett is also known as Ogilvie or Ogilvy. The full sett cannot be displayed in this medium. The Drummond of Strathallan tartan was adopted by the 6th Earl of Airlie on his marriage to Clementina Drummond in 1812. Weavers count available from STS archives. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=671))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond of Strathallan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Drummond of Strathallan Clan Tartan Tartan Number: 671. Earliest known date: 1812 This sett is also known as Ogilvie or Ogilvy. The full sett cannot be displayed in this medium. The Drummond of Strathallan tartan was adopted by the 6th Earl of Airlie on his marriage to Clementina Drummond in 1812. Weavers count available from STS archives. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=671">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 K6 R6 K6 Y16 G10 Y16 K6 R10 LN6 R10 K10 Y6 G10 LN6 G10 Y6 B6 R6 K6 R26 LN2 B2 LN2 R26 LN2 B2 LN2 R26 K6 R6 B6 Y16 G10 Y6 G10 Y16 K26 LN2 B6 LN2 K26 R10 LN6 R10 LN6 R10 K6 Y6 G26 K6 G26 K6 G26 Y6 K6 R10 LN6 R10 LN6 R10 K6 Y6 G10 LN/6

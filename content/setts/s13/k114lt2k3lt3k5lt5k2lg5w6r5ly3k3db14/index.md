@@ -2,9 +2,10 @@
 title: "Western Australia (Scottish Associations)"
 date: 2023-03-18
 ---
-In pattern [BKYRWYKWKWKWK](/stripes/bkyrwykwkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k114lb2k3lb3k5lb5k2lg5w6r5y3k3b14/)
+(the same proportion at any scale), whose colour order is pattern [BKYRWYKWKWKWK](/stripes/bkyrwykwkwkwk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10513
 

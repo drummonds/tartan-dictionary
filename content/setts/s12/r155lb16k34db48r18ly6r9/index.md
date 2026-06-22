@@ -2,9 +2,10 @@
 title: "Solberg-Wormald (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWKBRYRYRBKW](/stripes/rwkbryryrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r155lb16k34db48r18y6r9/)
+(the same proportion at any scale), whose colour order is pattern [RWKBRYRYRBKW](/stripes/rwkbryryrbkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3831
 

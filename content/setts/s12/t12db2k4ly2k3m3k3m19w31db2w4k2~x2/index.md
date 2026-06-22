@@ -2,9 +2,10 @@
 title: "MacLean of Duart Dress #5"
 date: 2023-03-18
 ---
-In pattern [BBKYKRKRWBWK](/stripes/bbkykrkrwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12db2k4y2k3r3k3r19ln31db2ln4k2/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKRKRWBWK](/stripes/bbkykrkrwbwk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2616
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - MacLean of Duart Dress
 - MacLean of Duart Dress #5
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — MacLean of Duart Dress #5 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2616))
-- pre 2002 — MacLean of Duart Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/59/))
-- undated — MacLean Dress Burgundy Clan Tartan Tartan Number: 59. Earliest known date: pre 2003 Dress form of MacLean of Duart. Count taken from a sample in Reproduction colours See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=59))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacLean of Duart Dress #5 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2616">record</a>)</li>
+<li>pre 2002 — MacLean of Duart Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/59/">record</a>)</li>
+<li>undated — MacLean Dress Burgundy Clan Tartan Tartan Number: 59. Earliest known date: pre 2003 Dress form of MacLean of Duart. Count taken from a sample in Reproduction colours See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=59">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

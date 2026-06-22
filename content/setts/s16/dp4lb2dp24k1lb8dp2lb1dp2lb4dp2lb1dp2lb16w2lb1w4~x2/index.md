@@ -2,9 +2,10 @@
 title: "Purple Rain"
 date: 2023-03-18
 ---
-In pattern [BWBKWBWBWBWBWWWW](/stripes/bwbkwbwbwbwbwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4n2p24k1n8p2n1p2n4p2n1p2n16w2n1w4/)
+(the same proportion at any scale), whose colour order is pattern [BWBKWBWBWBWBWWWW](/stripes/bwbkwbwbwbwbwwww/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11538
 

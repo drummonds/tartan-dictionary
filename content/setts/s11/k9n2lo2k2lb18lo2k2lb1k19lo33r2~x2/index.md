@@ -2,9 +2,10 @@
 title: "Pride of Scotland Gold"
 date: 2023-03-18
 ---
-In pattern [KBYKWYKWKYR](/stripes/kbykwykwkyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9n2lt2k2lr18lt2k2lr1k19lt33dr2/)
+(the same proportion at any scale), whose colour order is pattern [KBYKWYKWKYR](/stripes/kbykwykwkyr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pride of Scotland, Gold
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — Pride of Scotland Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379))
-- 2003 — Pride of Scotland, Gold (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6478/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Pride of Scotland Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3379">record</a>)</li>
+<li>2003 — Pride of Scotland, Gold (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6478/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

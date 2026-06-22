@@ -3,9 +3,10 @@ title: "Unidentified Cant #04"
 date: 2023-03-18
 slug_full: "r14w3r4w3r14w2m4db2w2db2m4w2db3dg2w2dg2db3w2r10w3r10w2db3dg2w2dg2db3w2m4db2w2db2m4w2r14w3r4w3r14w2m4db2w2db2m4w2db11dg4w2dg4db11w2dg4w2m4w2dg4w2m9db4w2db4m9w2r11w2r11w2m9db4w2db4m9w2dg4w2m4w2dg4w2db9~x2"
 ---
-In pattern [BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR](/stripes/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra14ln3ra4ln3ra14ln2r4dba2ln2dba2r4ln2db3g2ln2g2db3ln2ra10ln3ra10ln2db3g2ln2g2db3ln2r4dba2ln2dba2r4ln2ra14ln3ra4ln3ra14ln2r4dba2ln2dba2r4ln2db11g4ln2g4db11ln2g4ln2r4ln2g4ln2r9dba4ln2dba4r9ln2ra11ln2ra11ln2r9dba4ln2dba4r9ln2g4ln2r4ln2g4ln2db9/)
+(the same proportion at any scale), whose colour order is pattern [BWGWRWGWRBWBRWRWRWRBWBRWGWRWGWBGWGBWRBWBRWRWRWRWRBWBRWBGWGBWRWRWBGWGBWRBWBRWRWRWR](/stripes/bwgwrwgwrbwbrwrwrwrbwbrwgwrwgwbgwgbwrbwbrwrwrwrwrbwbrwbgwgbwrwrwbgwgbwrbwbrwrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4282
 

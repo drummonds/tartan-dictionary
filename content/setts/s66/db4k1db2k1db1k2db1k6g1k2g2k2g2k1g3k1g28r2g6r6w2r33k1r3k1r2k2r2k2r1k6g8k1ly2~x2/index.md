@@ -2,9 +2,10 @@
 title: "Unidentified (Paisley)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKYKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkykgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1db2k1db1k2db1k6g1k2g2k2g2k1g3k1g28r2g6r6w2r33k1r3k1r2k2r2k2r1k6g8k1y2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKGKGKGKGKGRGRWRKRKRKRKRKGKYKGKRKRKRKRKRWRGRGKGKGKGKGKBKBKBK](/stripes/bkbkbkbkgkgkgkgkgrgrwrkrkrkrkrkgkykgkrkrkrkrkrwrgrgkgkgkgkgkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
+Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4268
 

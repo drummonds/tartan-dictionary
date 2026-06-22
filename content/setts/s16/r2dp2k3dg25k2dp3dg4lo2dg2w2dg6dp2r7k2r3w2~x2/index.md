@@ -2,9 +2,10 @@
 title: "Hueg (Bavaria) Scottish Thistle (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2n2k3ka25k2n3ka4y2ka2w2ka6n2r7k2r3w2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10736
 

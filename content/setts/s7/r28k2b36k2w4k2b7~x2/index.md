@@ -2,18 +2,20 @@
 title: "Presbyterian College Band (Corp)"
 date: 2023-03-18
 ---
-In pattern [BKWKBKR](/stripes/bkwkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr28k2p36k2w4k2p7/)
+(the same proportion at any scale), whose colour order is pattern [BKWKBKR](/stripes/bkwkbkr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7674/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- May 2008 — Presbyterian College Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7674/))
-- undated — Presbyterian College Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>May 2008 — Presbyterian College Band (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7674/">record</a>)</li>
+<li>undated — Presbyterian College Band (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5677">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

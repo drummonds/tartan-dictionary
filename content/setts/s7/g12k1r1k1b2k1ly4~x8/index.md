@@ -2,9 +2,10 @@
 title: "Alberta (District)"
 date: 2023-03-18
 ---
-In pattern [GKRKBKY](/stripes/gkrkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12k1lr1k1b2k1y4/)
+(the same proportion at any scale), whose colour order is pattern [GKRKBKY](/stripes/gkrkbky/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2055/
 

@@ -2,9 +2,10 @@
 title: "Unidentified Artifact Tartan Tartan Number: 463. Earliest known date: 0 Wilson's of Bannockburn 'New Broad Sett' perhaps. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRGR](/stripes/brbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g26r26p26r3p4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGR](/stripes/brbrgr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=463
 

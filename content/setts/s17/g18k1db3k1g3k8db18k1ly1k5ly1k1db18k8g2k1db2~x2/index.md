@@ -2,9 +2,10 @@
 title: "Hope-Vere/Weir"
 date: 2023-03-18
 ---
-In pattern [BKGKBKYKYKBKGKBKG](/stripes/bkgkbkykykbkgkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18k1db3k1g3k8db18k1y1k5y1k1db18k8g2k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKYKYKBKGKBKG](/stripes/bkgkbkykykbkgkbkg/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1763
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Hope-Vere / Weir
 - Hope-Vere/Weir
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1880 — Hope-Vere/Weir (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1763))
-- 1880 — Hope-Vere (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/320/))
-- undated — Hope-Vere / Weir (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Hope-Vere/Weir (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1763">record</a>)</li>
+<li>1880 — Hope-Vere (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/320/">record</a>)</li>
+<li>undated — Hope-Vere / Weir (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

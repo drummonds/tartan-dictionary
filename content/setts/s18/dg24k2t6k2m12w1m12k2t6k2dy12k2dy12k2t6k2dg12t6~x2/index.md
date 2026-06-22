@@ -2,9 +2,10 @@
 title: "Buchanan Hunting (Mackinlay strip)"
 date: 2023-03-18
 ---
-In pattern [BGKBKGKGKBKRWRKBKG](/stripes/bgkbkgkgkbkrwrkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k2b6k2dr12ln1dr12k2b6k2t12k2t12k2b6k2g12b6/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKGKGKBKRWRKBKG](/stripes/bgkbkgkgkbkrwrkbkg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=427
 

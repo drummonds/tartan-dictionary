@@ -2,9 +2,10 @@
 title: "Kerry Irish County Tartan Tartan Number: 2263. Earliest known date: 1993 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating.. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YBGBKBGBKBGBKBY](/stripes/ybgbkbgbkbgbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly2n3lg3n4lut16n3lg3n4lut3n3lg16n4lut3n3ly2/)
+(the same proportion at any scale), whose colour order is pattern [YBGBKBGBKBGBKBY](/stripes/ybgbkbgbkbgbkby/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2263
 

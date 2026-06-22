@@ -2,9 +2,10 @@
 title: "MacLeod of Gesto #2"
 date: 2023-03-18
 ---
-In pattern [KWRKYWYKGWKRYGWGYKWBKWR](/stripes/kwrkywykgwkrygwgykwbkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r88w2k4b8w2k2y2t3w4t3y2r6k2w2g32k2y2w2y2k4r6w2k3/)
+(the same proportion at any scale), whose colour order is pattern [KWRKYWYKGWKRYGWGYKWBKWR](/stripes/kwrkywykgwkrygwgykwbkwr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2639
 

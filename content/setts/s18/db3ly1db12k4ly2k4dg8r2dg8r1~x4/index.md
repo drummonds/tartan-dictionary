@@ -2,9 +2,10 @@
 title: "MacMillan Hunting #2"
 date: 2023-03-18
 ---
-In pattern [BYBKYKGRGRGRGKYKBY](/stripes/bybkykgrgrgrgkykby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3y1db12k4y2k4g8r2g8r1/)
+(the same proportion at any scale), whose colour order is pattern [BYBKYKGRGRGRGKYKBY](/stripes/bybkykgrgrgrgkykby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2660
 

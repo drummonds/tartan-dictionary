@@ -2,9 +2,10 @@
 title: "Ritch Family Tartan Tartan Number: 1698. Earliest known date: 1847 An 'Old Superfine Tartan Sett'. Speculation that this sett was designed for weaving in silk seems unlikely. (STS archive) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2r3ln2r20ln2b6ln2p10ln2p10ln2b6ln2g10ga4ln2ga4g10n2r14ln2r14n2g3ln2g2y2g2ln2b4ln2b4ln2g2y2g2ln2g3ln2r14ln2r14ln2p10b2ln2y4ln2ga4ln2y4ln2b2p10ln2r20ln2b6ln2r14ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
 
-This was sourced from house-of-tartan.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from house-of-tartan.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1698
 

@@ -2,9 +2,10 @@
 title: "(1) Trithart"
 date: 2023-03-18
 ---
-In pattern [BBGGYYYYRRRBKKBBBGGYYYYRBK](/stripes/bbggyyyyrrrbkkbbbggyyyyrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k79n1do1lr1lg1lga1g1ga1gb1b1ba1p1k10w7p4dr4r4do4lr4lg4lga4g4ga4gb4b4ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBGGYYYYRRRBKKBBBGGYYYYRBK](/stripes/bbggyyyyrrrbkkbbbggyyyyrbk/).
 
-This was sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

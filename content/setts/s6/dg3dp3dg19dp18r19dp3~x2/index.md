@@ -2,9 +2,10 @@
 title: "MacNab (Macgregor - Hastie)"
 date: 2023-03-18
 ---
-In pattern [BRBGBG](/stripes/brbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp3r19dp18g19dp3g3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBG](/stripes/brbgbg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2670
 

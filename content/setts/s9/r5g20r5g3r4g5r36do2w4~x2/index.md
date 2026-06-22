@@ -2,9 +2,10 @@
 title: "Baluch Regiment (Military)"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRBW](/stripes/rgrgrgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g20r5g3r4g5r36t2w4/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRBW](/stripes/rgrgrgrbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3969/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Fitzgerald
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1993 — Baluch Regiment (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3969/))
-- 01/01/2002 — Fitzgerald (Military) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1194))
-- undated — Baluch Regiment (Old Count) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4955))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1993 — Baluch Regiment (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3969/">record</a>)</li>
+<li>01/01/2002 — Fitzgerald (Military) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1194">record</a>)</li>
+<li>undated — Baluch Regiment (Old Count) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4955">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

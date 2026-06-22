@@ -2,9 +2,10 @@
 title: "Crieff Red Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2w2g3w33ra2p10ra3g3ra26g2ra4r2/)
+(the same proportion at any scale), whose colour order is pattern [KGWGWRBRGRGRR](/stripes/kgwgwrbrgrgrr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Crieff Dress, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — Crieff Red Dress (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806))
-- pre 2004 — Crieff Dress, Red (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6555/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Crieff Red Dress (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=806">record</a>)</li>
+<li>pre 2004 — Crieff Dress, Red (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6555/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Canadian Irish Regiment Regimental Tartan Tartan Number: 1544. Earliest known date: 1930 The Canadian Irish Regiment was formed in April 1914 and formally gazetted on October 15th, 1915, as the 110th (Irish) Regiment of Canada. In 1931 they became the only kilted Irish Regiment in the world. The Regiment served on active service during World War II and was also the first Irish Regiment to provide a Royal Guard. (P.E.MacDonald, 1982) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGY](/stripes/bggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy100t26dg3dr2/)
+(the same proportion at any scale), whose colour order is pattern [BGGY](/stripes/bggy/).
 
-This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1544
 

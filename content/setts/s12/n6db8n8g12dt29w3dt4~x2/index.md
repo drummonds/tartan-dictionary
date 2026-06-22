@@ -2,9 +2,10 @@
 title: "Dickson Name Tartan Tartan Number: 10140. Earliest known date: July 2009 A tartan designed by Matthew Newsome for George Newberry of Macon, GA, USA who wishes it to be regarded as a tartan for all Dicksons from Kirkcudbrightshire, who are descended from Richard Keith, son of the Marischal of Scotland (d. 1249) and Margaret, daughter of the third Lord Douglas. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBGBBBBBGBW](/stripes/bwbgbbbbbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6db8b8g12dn29w3dn4/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBBBBBGBW](/stripes/bwbgbbbbbgbw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10140
 

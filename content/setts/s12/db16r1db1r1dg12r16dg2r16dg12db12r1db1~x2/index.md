@@ -2,9 +2,10 @@
 title: "Fraser"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16dr1db1dr1dg12dr16dg2dr16dg12db12dr1db1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

@@ -2,9 +2,10 @@
 title: "Gotts (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRKRKRKBGBGBGY](/stripes/wrkrkrkbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2g19db2g2db3g2db8k8dr2k3dr2k2dr19ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKRKBGBGBGY](/stripes/wrkrkrkbgbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6000
 

@@ -2,9 +2,10 @@
 title: "MacMillan Htg (1906) (Clan)"
 date: 2023-03-18
 ---
-In pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3y1db12k4y2k4g8r2g8r1/)
+(the same proportion at any scale), whose colour order is pattern [BYBKYKGRGR](/stripes/bybkykgrgr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/668/
 

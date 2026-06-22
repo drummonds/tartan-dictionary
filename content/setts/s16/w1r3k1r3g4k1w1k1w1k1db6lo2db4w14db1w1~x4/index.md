@@ -2,18 +2,20 @@
 title: "MacBeth Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [WBWBYBKWKWKGRKRW](/stripes/wbwbybkwkwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1dr3k1dr3g4k1ln1k1ln1k1db6dy2db4ln14db1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBWBYBKWKWKGRKRW](/stripes/wbwbybkwkwkgrkrw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3319/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1989 — MacBeth Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3319/))
-- undated — MacBeth Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5181))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1989 — MacBeth Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3319/">record</a>)</li>
+<li>undated — MacBeth Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5181">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

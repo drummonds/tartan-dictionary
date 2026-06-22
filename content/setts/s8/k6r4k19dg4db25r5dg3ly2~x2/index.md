@@ -2,18 +2,20 @@
 title: "Bootneck 350"
 date: 2023-03-18
 ---
-In pattern [KRKGBRGY](/stripes/krkgbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r4k19dg4db25r5dg3y2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGBRGY](/stripes/krkgbrgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10974
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/01/2014 — Bootneck 350 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10974))
-- 2014 — Bootneck 350 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10974/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/01/2014 — Bootneck 350 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10974">record</a>)</li>
+<li>2014 — Bootneck 350 (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10974/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

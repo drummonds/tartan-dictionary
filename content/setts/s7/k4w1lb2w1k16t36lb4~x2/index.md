@@ -2,9 +2,10 @@
 title: "NHS Grampian (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KWWWKBW](/stripes/kwwwkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4w1lb2w1k16b36lb4/)
+(the same proportion at any scale), whose colour order is pattern [KWWWKBW](/stripes/kwwwkbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6219/
 

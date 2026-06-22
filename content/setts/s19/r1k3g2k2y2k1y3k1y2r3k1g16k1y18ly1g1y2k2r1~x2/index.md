@@ -2,9 +2,10 @@
 title: "Craig"
 date: 2023-03-18
 ---
-In pattern [RKGGYGKGKRGKGKGKGKR](/stripes/rkggygkgkrgkgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1/)
+(the same proportion at any scale), whose colour order is pattern [RKGGYGKGKRGKGKGKGKR](/stripes/rkggygkgkrgkgkgkgkr/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

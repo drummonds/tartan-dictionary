@@ -2,9 +2,10 @@
 title: "Laggen Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKGKKKGKKKG](/stripes/gkgkkkgkkkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g42k10ga2k2ww2k2g10ww6k2ww3g2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKKKGKKKG](/stripes/gkgkkkgkkkg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5375/
 

@@ -2,9 +2,10 @@
 title: "Royal Canadian Air Force #2"
 date: 2023-03-18
 ---
-In pattern [RBKRKBKWKRKRBRBR](/stripes/rbkrkbkwkrkrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3b7k1dr2k1b12k4ln3k2dr1k1dr1db3dr2db4dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBKWKRKRBRBR](/stripes/rbkrkbkwkrkrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3592
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal Canadian Air Force #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Royal Canadian Air Force #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3592))
-- undated — Royal Canadian Air Force (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Royal Canadian Air Force #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3592">record</a>)</li>
+<li>undated — Royal Canadian Air Force (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

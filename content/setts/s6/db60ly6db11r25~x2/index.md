@@ -2,9 +2,10 @@
 title: "South Australian Pipes & Drums (Corp"
 date: 2023-03-18
 ---
-In pattern [BYBRBY](/stripes/bybrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60y6db11r25/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBY](/stripes/bybrby/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5890/
 

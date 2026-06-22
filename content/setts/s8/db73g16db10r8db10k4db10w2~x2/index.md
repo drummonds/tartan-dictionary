@@ -2,18 +2,20 @@
 title: "Scotch Whisky Heritage Centre"
 date: 2023-03-18
 ---
-In pattern [BGBRBKBW](/stripes/bgbrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db73ga16db10r8db10k4db10ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBKBW](/stripes/bgbrbkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3672
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Scotch Whisky Heritage Centre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3672))
-- January 1988 — Scotch Whisky Heritage Centre (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1920/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Scotch Whisky Heritage Centre (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3672">record</a>)</li>
+<li>January 1988 — Scotch Whisky Heritage Centre (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1920/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Gwyn (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRK](/stripes/krkrkrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/kb2dr35ka30dr3k30dr2k4dr2k30dr3kb2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRK](/stripes/krkrkrkrkrk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5734/
 

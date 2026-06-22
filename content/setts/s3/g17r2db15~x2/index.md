@@ -2,9 +2,10 @@
 title: "Ferguson - 1930 (Old)"
 date: 2023-03-18
 ---
-In pattern [BRG](/stripes/brg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17r2db15/)
+(the same proportion at any scale), whose colour order is pattern [BRG](/stripes/brg/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/503/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Ferguson,
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1950 — Ferguson - 1930 (Old) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/503/))
-- undated — Ferguson, (Old) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=503))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1950 — Ferguson - 1930 (Old) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/503/">record</a>)</li>
+<li>undated — Ferguson, (Old) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ferguson (Old) Clan Tartan Tartan Number: 503. Earliest known date: 1830 Count revised by G. Newnham 1986 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=503">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/34 R4 DB/30

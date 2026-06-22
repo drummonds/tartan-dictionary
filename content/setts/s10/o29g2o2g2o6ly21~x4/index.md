@@ -2,9 +2,10 @@
 title: "Maguire Clan Family Tartan Tartan Number: 6812. Earliest known date: 2005 The first Scottish Maguire as recorded with Lord Lyon. The design is based on MacQuarrie and was created by FE Maguire at the House of Tartan in Comrie, Perthshire. The tartan is intended for the use of all Scottish Maguires. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRYRGRGR](/stripes/grgryrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/oa29b2oa2b2oa6ya21/)
+(the same proportion at any scale), whose colour order is pattern [GRGRYRGRGR](/stripes/grgryrgrgr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6812
 

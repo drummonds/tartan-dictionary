@@ -2,9 +2,10 @@
 title: "Caledonian Society of Prince Edward Island"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGRKWRBRBRBR](/stripes/bkbkgkgrkwrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14k4db4k15g20k2lg4r2k1w4r14db4r2db2r4db2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGRKWRBRBRBR](/stripes/bkbkgkgrkwrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4853
 

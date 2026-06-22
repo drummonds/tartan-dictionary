@@ -2,9 +2,10 @@
 title: "Badminton World Federation"
 date: 2023-03-18
 ---
-In pattern [KRBKYGKWBWBKW](/stripes/krbkygkwbwbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r19b12k3o3lg3k2ln11b3ln4b4k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRBKYGKWBWBKW](/stripes/krbkygkwbwbkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11145
 

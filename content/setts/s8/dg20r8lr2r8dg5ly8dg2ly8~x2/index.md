@@ -2,9 +2,10 @@
 title: "Unidentified #57"
 date: 2023-03-18
 ---
-In pattern [GRYRGYGY](/stripes/gryrgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20dr8n2dr8g5dy8g2dy8/)
+(the same proportion at any scale), whose colour order is pattern [GRYRGYGY](/stripes/gryrgygy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4258
 

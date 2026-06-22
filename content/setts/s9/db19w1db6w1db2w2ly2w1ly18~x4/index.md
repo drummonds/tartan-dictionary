@@ -2,18 +2,20 @@
 title: "Highland Park High School (Texas)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWYWY](/stripes/bwbwbwywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19w1db6w1db2w2y2w1y18/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWYWY](/stripes/bwbwbwywy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11020/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2014 — Highland Park High School (Texas) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11020/))
-- undated — Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11020))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2014 — Highland Park High School (Texas) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11020/">record</a>)</li>
+<li>undated — Highland Park High School Corporate (Schools) Tartan Tartan Number: 11020. Earliest known date: 2013 Based on 5191 Highland Park High School (Texas) Pipe Band tartan, reducing the number of white stripes on the blue. Designed to reflect our school's heritage and reputation for being the Highland Park High School 'fighting Scots'. Our school colors are Old Gold and True Navy and these are the colors reflected in the design we have created. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11020">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/76 W4 DB24 W4 DB8 W8 Y8 W4 Y/72

@@ -2,9 +2,10 @@
 title: "Motherwell F.C. Fir Park Dress (Spor"
 date: 2023-03-18
 ---
-In pattern [RWRKYKYKYR](/stripes/rwrkykykyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3dy6k2dy2k2dy2k3ra20n1ra3/)
+(the same proportion at any scale), whose colour order is pattern [RWRKYKYKYR](/stripes/rwrkykykyr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5656/
 

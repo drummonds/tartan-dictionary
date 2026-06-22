@@ -2,9 +2,10 @@
 title: "MacCormick (Dress)"
 date: 2023-03-18
 ---
-In pattern [KGKRKR](/stripes/kgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g13k10dr13k2dr3/)
+(the same proportion at any scale), whose colour order is pattern [KGKRKR](/stripes/kgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacCormick Dress
 - MacCormick, dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1985 — MacCormick (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323))
-- 1985 — MacCormick Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1091/))
-- undated — MacCormick, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacCormick Dress Clan Tartan Tartan Number: 1091. Earliest known date: pre 1985 From Philip D.Smith, reported registered with STS by Pendleton Woolen Mills of Oregon, 1 July 1985. Very close to the Lindsay tartan (704). Sometimes referred to as the MacCormick Dress. The sett is the same as Campbell (12). Pendleton could have based the MacCormick tartan on an existing Scottish tartan and just changing the colours. This appears to have been the basis for many of the Irish family tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1091))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — MacCormick (Dress) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2323">record</a>)</li>
+<li>1985 — MacCormick Dress (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1091/">record</a>)</li>
+<li>undated — MacCormick, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacCormick Dress Clan Tartan Tartan Number: 1091. Earliest known date: pre 1985 From Philip D.Smith, reported registered with STS by Pendleton Woolen Mills of Oregon, 1 July 1985. Very close to the Lindsay tartan (704). Sometimes referred to as the MacCormick Dress. The sett is the same as Campbell (12). Pendleton could have based the MacCormick tartan on an existing Scottish tartan and just changing the colours. This appears to have been the basis for many of the Irish family tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1091">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

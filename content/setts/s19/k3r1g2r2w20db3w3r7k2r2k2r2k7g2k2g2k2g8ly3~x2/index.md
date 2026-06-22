@@ -2,9 +2,10 @@
 title: "Princess Beatrice, dress"
 date: 2023-03-18
 ---
-In pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1g2r2ln20b3ln3r7k2r2k2r2k7g2k2g2k2g8y3/)
+(the same proportion at any scale), whose colour order is pattern [KRGRWBWRKRKRKGKGKGY](/stripes/krgrwbwrkrkrkgkgkgy/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

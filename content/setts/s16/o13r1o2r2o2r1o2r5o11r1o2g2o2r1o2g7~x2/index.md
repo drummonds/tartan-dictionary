@@ -2,9 +2,10 @@
 title: "Sarna"
 date: 2023-03-18
 ---
-In pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt13r1lt2r2lt2r1lt2r5lt11r1lt2g2lt2r1lt2g7/)
+(the same proportion at any scale), whose colour order is pattern [GRRRGRRRRRRRRRRR](/stripes/grrrgrrrrrrrrrrr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

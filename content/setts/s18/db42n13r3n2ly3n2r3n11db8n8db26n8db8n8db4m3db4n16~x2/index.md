@@ -2,9 +2,10 @@
 title: "Cordiner (Name)"
 date: 2023-03-18
 ---
-In pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4p3db4n16/)
+(the same proportion at any scale), whose colour order is pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10721/
 

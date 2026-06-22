@@ -2,9 +2,10 @@
 title: "Rankin, John (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGWGKBKRKBKBKBK](/stripes/bkgwgkbkrkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2k1g15ln2g15k1b2k1r2k20b2k2b2k2b25k1/)
+(the same proportion at any scale), whose colour order is pattern [BKGWGKBKRKBKBKBK](/stripes/bkgwgkbkrkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11387
 

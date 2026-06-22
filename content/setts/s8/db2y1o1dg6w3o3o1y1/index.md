@@ -2,9 +2,10 @@
 title: "Equorian Olympic"
 date: 2023-03-18
 ---
-In pattern [BGRGWRRG](/stripes/bgrgwrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2n1do1dg6ly3do3do1n1/)
+(the same proportion at any scale), whose colour order is pattern [BGRGWRRG](/stripes/bgrgwrrg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1118
 

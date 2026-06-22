@@ -2,9 +2,10 @@
 title: "Lumsden Green"
 date: 2023-03-18
 ---
-In pattern [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16b2g2b2g2b2k16r3db15r2db15r3g16b2k2b2g16/)
+(the same proportion at any scale), whose colour order is pattern [GBKBGRBRBRKBGBGBK](/stripes/gbkbgrbrbrkbgbgbk/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "Bruce (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1db8g2db2g6db1g6db2g2db8w1/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Bruce (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400))
-- 2006 — Bruce (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6832/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Bruce (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=400">record</a>)</li>
+<li>2006 — Bruce (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6832/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

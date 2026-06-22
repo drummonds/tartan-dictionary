@@ -2,18 +2,20 @@
 title: "Murtaugh Hunting"
 date: 2023-03-18
 ---
-In pattern [KRWKRKWGKGKWRYRWRYRKR](/stripes/krwkrkwgkgkwryrwryrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k4n4y2n2ln2n2y2n2ln2k4g3k2g24ln2k2n3k3ln2r4k2/)
+(the same proportion at any scale), whose colour order is pattern [KRWKRKWGKGKWRYRWRYRKR](/stripes/krwkrkwgkgkwryrwryrkr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3082
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Murtaugh Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3082))
-- 2002 — Murtaugh Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5818/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Murtaugh Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3082">record</a>)</li>
+<li>2002 — Murtaugh Hunting (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5818/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

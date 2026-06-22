@@ -2,9 +2,10 @@
 title: "Anderson (Paton)"
 date: 2023-03-18
 ---
-In pattern [GBKRKBKWKYKYKRBRGKRKGR](/stripes/gbkrkbkwkykykrbrgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6ba12k2r3k2ba40k6ln6k6y3k3y3k12r3b12r3t14k2r3k2t14r5/)
+(the same proportion at any scale), whose colour order is pattern [GBKRKBKWKYKYKRBRGKRKGR](/stripes/gbkrkbkwkykykrbrgkrkgr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=75
 

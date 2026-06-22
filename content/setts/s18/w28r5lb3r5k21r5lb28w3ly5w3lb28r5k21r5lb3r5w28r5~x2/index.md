@@ -2,9 +2,10 @@
 title: "Stirling & Bannockburn Dress"
 date: 2023-03-18
 ---
-In pattern [RWRWRKRWWYWWRKRWRW](/stripes/rwrwrkrwwywwrkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln28r5lb3r5k21r5lb28ln3y5ln3lb28r5k21r5lb3r5ln28r5/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKRWWYWWRKRWRW](/stripes/rwrwrkrwwywwrkrwrw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3964
 

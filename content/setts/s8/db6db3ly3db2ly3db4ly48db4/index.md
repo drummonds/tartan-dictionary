@@ -2,9 +2,10 @@
 title: "Morris (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [BBYBYBYB](/stripes/bbybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6db3y3db2y3db4y48db4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYBYB](/stripes/bbybybyb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5749/
 

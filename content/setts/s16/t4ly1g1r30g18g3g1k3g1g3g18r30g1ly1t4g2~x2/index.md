@@ -2,9 +2,10 @@
 title: "Connemarra Irish District Tartan Tartan Number: 3897. Earliest known date: pre 1997 The Connemara tartan has been created to represent the wild yet picturesque area situated in the north west of County Galway. Strictly speaking this should be a fashion tartan but it has been placed in the same class as the House of Edgar irish tartans. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYGRGGGKGGGRGYBG](/stripes/bygrgggkgggrgybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4y1g1dr30g18g3g1sb3g1g3g18dr30g1y1b4g2/)
+(the same proportion at any scale), whose colour order is pattern [BYGRGGGKGGGRGYBG](/stripes/bygrgggkgggrgybg/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3897
 

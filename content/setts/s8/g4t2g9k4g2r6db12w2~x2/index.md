@@ -2,18 +2,20 @@
 title: "Cherokee"
 date: 2023-03-18
 ---
-In pattern [GBGKGRBW](/stripes/gbgkgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4b2g9k4g2r6db12w2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGRBW](/stripes/gbgkgrbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Cherokee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627))
-- 1996 — Cherokee (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4502/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Cherokee (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=627">record</a>)</li>
+<li>1996 — Cherokee (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4502/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

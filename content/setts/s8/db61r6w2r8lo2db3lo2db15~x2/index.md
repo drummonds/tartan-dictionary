@@ -2,9 +2,10 @@
 title: "Duke of York (Royal)"
 date: 2023-03-18
 ---
-In pattern [BRWRYBYB](/stripes/brwrybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db61dr6w2dr8dy2db3dy2db15/)
+(the same proportion at any scale), whose colour order is pattern [BRWRYBYB](/stripes/brwrybyb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/577/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Duke of York
 - Inverness Htg
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1918 — Duke of York (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/577/))
-- 01/01/1930 — Duke of York (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011))
-- pre 1930 — Inverness Htg (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3609/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1918 — Duke of York (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/577/">record</a>)</li>
+<li>01/01/1930 — Duke of York (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1011">record</a>)</li>
+<li>pre 1930 — Inverness Htg (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3609/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

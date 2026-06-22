@@ -2,9 +2,10 @@
 title: "Anderson Blue"
 date: 2023-03-18
 ---
-In pattern [BKRKBRKRWRWKRWR](/stripes/bkrkbrkrwrwkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k1lt1k1b22lt1k14lt1ln2lt1ln6k3lt1ln3lt1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBRKRWRWKRWR](/stripes/bkrkbrkrwrwkrwr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5236
 

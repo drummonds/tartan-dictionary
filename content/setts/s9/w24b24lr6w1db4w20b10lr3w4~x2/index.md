@@ -2,9 +2,10 @@
 title: "Silver (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBYWBWBYW](/stripes/wbywbwbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln24b24ba6ln1db4ln20b10ba3ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBYWBWBYW](/stripes/wbywbwbyw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6108/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Silver Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Jan 2003 — Silver (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6108/))
-- undated — Silver Personal Tartan Tartan Number: 6108. Earliest known date: 2003 A tartan designed by Hurbert Silver of Vancouver, Canada to compliment his recently granted Coat of Arms See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6108))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Jan 2003 — Silver (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6108/">record</a>)</li>
+<li>undated — Silver Personal Tartan Tartan Number: 6108. Earliest known date: 2003 A tartan designed by Hurbert Silver of Vancouver, Canada to compliment his recently granted Coat of Arms See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6108">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/48 B48 Ba12 LN2 DB8 LN40 B20 Ba6 LN/8

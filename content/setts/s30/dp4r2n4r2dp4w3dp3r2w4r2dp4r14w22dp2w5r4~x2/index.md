@@ -2,9 +2,10 @@
 title: "Skye Dress Red, Earl of (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRBRBWBRWRBRWBWRWBWRBRWRBWBRBR](/stripes/brbrbwbrwrbrwbwrwbwrbrwrbwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4ln5p2ln22dr14p4r2ln4r2p3ln3p4r2n4r2p4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWBRWRBRWBWRWBWRBRWRBWBRBR](/stripes/brbrbwbrwrbrwbwrwbwrbrwrbwbrbr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3814
 

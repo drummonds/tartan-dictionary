@@ -2,9 +2,10 @@
 title: "Smithsonian"
 date: 2023-03-18
 ---
-In pattern [BYRGRYKGWBWGKYRGRYBG](/stripes/byrgrykgwbwgkyrgrybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24y1r2n2r2y1k24n24ln2db2ln2n24k24y1r2n2r2y1db24n2/)
+(the same proportion at any scale), whose colour order is pattern [BYRGRYKGWBWGKYRGRYBG](/stripes/byrgrykgwbwgkyrgrybg/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3825
 

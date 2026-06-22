@@ -2,9 +2,10 @@
 title: "Waverley Check (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GWKWKWKWRKRW](/stripes/gwkwkwkwrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t22ly2k3ly1k1ly1k1ly7lt5k1lt2ly1/)
+(the same proportion at any scale), whose colour order is pattern [GWKWKWKWRKRW](/stripes/gwkwkwkwrkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1747/
 

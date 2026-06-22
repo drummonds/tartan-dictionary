@@ -2,9 +2,10 @@
 title: "Walker Dress Family Tartan Tartan Number: 2070. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1992. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRWBRBRBRBY](/stripes/rwrwbrbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db2r7db15r3db3r3db7ln28r7ln6r2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWBRBRBRBY](/stripes/rwrwbrbrbrby/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2070
 

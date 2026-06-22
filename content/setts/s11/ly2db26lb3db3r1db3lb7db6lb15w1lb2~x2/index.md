@@ -2,9 +2,10 @@
 title: "Vilaro-Thomas (Personal)"
 date: 2023-03-18
 ---
-In pattern [WWWBWBRBWBY](/stripes/wwwbwbrbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db26lp3db3r1db3lp7db6lp15ln1lp2/)
+(the same proportion at any scale), whose colour order is pattern [WWWBWBRBWBY](/stripes/wwwbwbrbwby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Vilaro-Thomas )
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2008 — Vilaro-Thomas (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800))
-- Feb 2008 — Vilaro-Thomas (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7848/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2008 — Vilaro-Thomas (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5800">record</a>)</li>
+<li>Feb 2008 — Vilaro-Thomas (Personal)) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7848/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

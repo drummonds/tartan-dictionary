@@ -2,9 +2,10 @@
 title: "Mull Rugby Club (Old)"
 date: 2023-03-18
 ---
-In pattern [GWGBKWRK](/stripes/gwgbkwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44n2g10b3k6n1r2k18/)
+(the same proportion at any scale), whose colour order is pattern [GWGBKWRK](/stripes/gwgbkwrk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3045
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Mull Rugby Club Corporate Sport
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Mull Rugby Club (Old) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3045))
-- pre 2002 — Mull Rugby Club (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5648/))
-- undated — Mull Rugby Club Corporate Sport Tartan Tartan Number: 5648. Earliest known date: pre 2002 Designed by Peter MacDonald at the suggestion of Mrs Ros Jones, Aros, Mull for the Mull Rugby Club. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5648))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Mull Rugby Club (Old) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3045">record</a>)</li>
+<li>pre 2002 — Mull Rugby Club (Sports) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5648/">record</a>)</li>
+<li>undated — Mull Rugby Club Corporate Sport Tartan Tartan Number: 5648. Earliest known date: pre 2002 Designed by Peter MacDonald at the suggestion of Mrs Ros Jones, Aros, Mull for the Mull Rugby Club. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5648">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

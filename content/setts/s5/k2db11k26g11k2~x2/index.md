@@ -2,9 +2,10 @@
 title: "Campbell of Lochawe"
 date: 2023-03-18
 ---
-In pattern [KBKGK](/stripes/kbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g11k26b11k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKGK](/stripes/kbkgk/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell of Loch Awe
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell of Lochawe (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Campbell of Lochawe Clan Tartan Tartan Number: 1038. Earliest known date: pre 2003 MacKinlay strip. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1038))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell of Lochawe (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Campbell of Lochawe Clan Tartan Tartan Number: 1038. Earliest known date: pre 2003 MacKinlay strip. Sample in STS collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1038">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G22 K52 B22 K/4

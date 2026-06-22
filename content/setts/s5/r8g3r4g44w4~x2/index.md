@@ -2,9 +2,10 @@
 title: "Welsh National (District)"
 date: 2023-03-18
 ---
-In pattern [RGRGW](/stripes/rgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g3r4g44ln4/)
+(the same proportion at any scale), whose colour order is pattern [RGRGW](/stripes/rgrgw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1523/
 

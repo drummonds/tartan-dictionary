@@ -2,9 +2,10 @@
 title: "Mars Exploration"
 date: 2023-03-18
 ---
-In pattern [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r23db1g1r3db2r1db12k3w6k6db4g2k2g3k2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGBKWKBRBRGBR](/stripes/kgkgbkwkbrbrgbr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11658
 

@@ -2,9 +2,10 @@
 title: "Hobkirk"
 date: 2023-03-18
 ---
-In pattern [BWRBRBGYGYGYGBRBRW](/stripes/bwrbrbgygygygbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5w1p9b5r4b5g20y1g1y1/)
+(the same proportion at any scale), whose colour order is pattern [BWRBRBGYGYGYGBRBRW](/stripes/bwrbrbgygygygbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1742
 

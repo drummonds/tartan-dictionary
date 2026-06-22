@@ -2,9 +2,10 @@
 title: "Stewart, Variant"
 date: 2023-03-18
 ---
-In pattern [KGWKWBWKYKGRGRW](/stripes/kgwkwbwkykgrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g10ln10k2ln23b10ln2k6y2k8g10r12g4r8ln4/)
+(the same proportion at any scale), whose colour order is pattern [KGWKWBWKYKGRGRW](/stripes/kgwkwbwkykgrgrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

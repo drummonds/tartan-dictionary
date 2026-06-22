@@ -2,9 +2,10 @@
 title: "MacGregor of Balquidder (Logan)"
 date: 2023-03-18
 ---
-In pattern [GRGRKW](/stripes/grgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r2g9r14k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKW](/stripes/grgrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacGregor of Balquidder
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1842 — MacGregor of Balquidder (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456))
-- undated — MacGregor of Balquhidder Clan Tartan Tartan Number: 988. Earliest known date: 1831 This sett is shown in the earliest publication of clan tartans. James Logan collected material for, 'The Scottish Gael', around 1826 and published in 1831. A number of minor anomilies in Logans method of recording tartans has led to errors appearing in some versions of the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=988))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — MacGregor of Balquidder (Logan) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2456">record</a>)</li>
+<li>undated — MacGregor of Balquhidder Clan Tartan Tartan Number: 988. Earliest known date: 1831 This sett is shown in the earliest publication of clan tartans. James Logan collected material for, 'The Scottish Gael', around 1826 and published in 1831. A number of minor anomilies in Logans method of recording tartans has led to errors appearing in some versions of the sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=988">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

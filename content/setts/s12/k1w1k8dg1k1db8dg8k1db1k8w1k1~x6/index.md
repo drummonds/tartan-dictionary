@@ -2,9 +2,10 @@
 title: "Chess (Universal)"
 date: 2023-03-18
 ---
-In pattern [KWKBKGBKGKWK](/stripes/kwkbkgbkgkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1k8dg1k1db8dg8k1db1k8ln1k1/)
+(the same proportion at any scale), whose colour order is pattern [KWKBKGBKGKWK](/stripes/kwkbkgbkgkwk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7824/
 

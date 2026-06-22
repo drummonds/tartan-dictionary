@@ -2,9 +2,10 @@
 title: "Belk Festive (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RRGBWBGRRGRRGRYGYR](/stripes/rrgbwbgrrgrrgrygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16r1dg4b2w1b2dg4r1dr1dg41r1dr36g2r3y1g3y1r4/)
+(the same proportion at any scale), whose colour order is pattern [RRGBWBGRRGRRGRYGYR](/stripes/rrgbwbgrrgrrgrygyr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8928/
 

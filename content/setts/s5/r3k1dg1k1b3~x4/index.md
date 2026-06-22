@@ -2,9 +2,10 @@
 title: "Clark"
 date: 2023-03-18
 ---
-In pattern [BKGKR](/stripes/bkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3k1dg1k1b3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKR](/stripes/bkgkr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

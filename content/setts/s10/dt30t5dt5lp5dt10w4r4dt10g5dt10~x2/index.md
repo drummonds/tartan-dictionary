@@ -2,9 +2,10 @@
 title: "Bukowski-Jackson (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBWBWRBGB](/stripes/bbbwbwrbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn30b5dn5lp5dn10w4r4dn10g5dn10/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBWRBGB](/stripes/bbbwbwrbgb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11484
 

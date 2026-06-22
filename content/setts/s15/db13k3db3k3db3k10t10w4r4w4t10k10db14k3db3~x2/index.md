@@ -2,9 +2,10 @@
 title: "Palatine Union Personal Tartan Tartan Number: 6802. Earliest known date: 2004 Designed as a unique tartan for the wedding of Traepischke Graves (Trapper Graves) and Steve Lalor in Seattle. Palatine is an old Scottish name and also a district in Seattle. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBWRWBKBKB](/stripes/bkbkbkbwrwbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13k3db3k3db3k10b10ln4r4ln4b10k10db14k3db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBWRWBKBKB](/stripes/bkbkbkbwrwbkbkb/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6802
 

@@ -2,9 +2,10 @@
 title: "B & Q (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6n2r6w1lg4y2w1y2lg4w1r5w1lg3y2w1y2lg3w1r40lg5y3n1w3/)
+(the same proportion at any scale), whose colour order is pattern [RBRWYYWYYWRWYYWYYWRYYBW](/stripes/rbrwyywyywrwyywyywryybw/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8806/
 

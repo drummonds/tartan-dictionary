@@ -2,9 +2,10 @@
 title: "Victorian Highland Pipe Band Association (Australia)"
 date: 2023-03-18
 ---
-In pattern [BWYGWRGW](/stripes/bwygwrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn46w1o3dg13w1dr7lg3w1/)
+(the same proportion at any scale), whose colour order is pattern [BWYGWRGW](/stripes/bwygwrgw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11050
 

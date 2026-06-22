@@ -2,9 +2,10 @@
 title: "Wombles #5"
 date: 2023-03-18
 ---
-In pattern [WBWRBRRRW](/stripes/wbwrbrrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db8ln1r1b6r3ra6r1ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBWRBRRRW](/stripes/wbwrbrrrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4776
 

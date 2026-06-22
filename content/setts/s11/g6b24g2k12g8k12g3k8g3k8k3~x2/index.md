@@ -2,9 +2,10 @@
 title: "South Australia (Disputed)"
 date: 2023-03-18
 ---
-In pattern [GBGKGKGKGKK](/stripes/gbgkgkgkgkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga6b24ga2k12ga8k12g3ka8g3ka8k3/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGKGKGKK](/stripes/gbgkgkgkgkk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2534/
 

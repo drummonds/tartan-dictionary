@@ -2,9 +2,10 @@
 title: "Ikelman No. 6"
 date: 2023-03-18
 ---
-In pattern [RGRGRKWKRKRY](/stripes/rgrgrkwkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16g2r3g2r13db12ln2db12r13k13r2y2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRKWKRKRY](/stripes/rgrgrkwkrkry/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

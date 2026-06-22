@@ -2,9 +2,10 @@
 title: "Hunter (1775)"
 date: 2023-03-18
 ---
-In pattern [RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW](/stripes/rrgyrrwrwybgywywygbywrrgrrwgwgygwgwgwgygwgwrrgrrwgywygwgwbwbwgwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30do4lg6lt4do4r16w2do4w2lt4db18lg6y3w2lt4w2y3lg6db18lt4w2do4r12lg2r12do3w2g10w2g2y4g2w2lg8w4lg8w2g2y4g2w2g10w2do4r12lg2r12do4w2g10lt4w4lt4g10w2lg6w2db12w2db12w2lg6w2do4r12w2/)
+(the same proportion at any scale), whose colour order is pattern [RRGYRRWRWYBGYWYWYGBYWRRGRRWGWGYGWGWGWGYGWGWRRGRRWGYWYGWGWBWBWGWRRW](/stripes/rrgyrrwrwybgywywygbywrrgrrwgwgygwgwgwgygwgwrrgrrwgywygwgwbwbwgwrrw/).
 
-This was sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
+Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1789
 

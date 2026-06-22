@@ -2,9 +2,10 @@
 title: "Kansai2"
 date: 2023-03-18
 ---
-In pattern [BRBGRBRRWRRBRGBR](/stripes/brbgrbrrwrrbrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba2r1ba8g7lr1b6n1r1w1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRBRRWRRBRGBR](/stripes/brbgrbrrwrrbrgbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1930
 

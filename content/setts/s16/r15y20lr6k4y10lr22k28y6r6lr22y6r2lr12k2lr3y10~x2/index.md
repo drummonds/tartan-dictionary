@@ -2,9 +2,10 @@
 title: "Alexander Brothers - 1993 (Corp.)"
 date: 2023-03-18
 ---
-In pattern [GYKYRGYRGKYGKYGR](/stripes/gykyrgyrgkygkygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr15n20na6k4n10na22k28n6dr6na22n6dr2na12k2na3n10/)
+(the same proportion at any scale), whose colour order is pattern [GYKYRGYRGKYGKYGR](/stripes/gykyrgyrgkygkygr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3050/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Alexander Brothers
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1994 — Alexander Brothers - 1993 (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3050/))
-- undated — Alexander (brothers) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5029))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1994 — Alexander Brothers - 1993 (Corp.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3050/">record</a>)</li>
+<li>undated — Alexander (brothers) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5029">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

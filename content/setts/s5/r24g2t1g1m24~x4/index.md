@@ -2,9 +2,10 @@
 title: "MacNab (Smith)"
 date: 2023-03-18
 ---
-In pattern [RGBGR](/stripes/rgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24g1b1g2ra24/)
+(the same proportion at any scale), whose colour order is pattern [RGBGR](/stripes/rgbgr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2671
 

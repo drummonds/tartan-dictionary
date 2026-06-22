@@ -2,9 +2,10 @@
 title: "Drummond - 1819 (Clan)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6dp2r2g24r2g2r2dp8r2b1r32dp2r2dp1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/457/
 

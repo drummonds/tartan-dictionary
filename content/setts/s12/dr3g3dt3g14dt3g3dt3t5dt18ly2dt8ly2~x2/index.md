@@ -2,18 +2,20 @@
 title: "California Burns (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBBBYBY](/stripes/bgbgbgbbbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g3db3g14db3g3db3b5db18y2db8y2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBBBYBY](/stripes/bgbgbgbbbyby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=480
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — California Burns (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=480))
-- 2004 — California Burns (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6663/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — California Burns (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=480">record</a>)</li>
+<li>2004 — California Burns (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6663/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Jacobite (1712) (Universal)"
 date: 2023-03-18
 ---
-In pattern [WRBWGWBRWRBWYWBRW](/stripes/wrbwgwbrwrbwywbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1r2db2ln1y8ln1db2r2ln1r2db2ln1g8ln1db2r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRBWGWBRWRBWYWBRW](/stripes/wrbwgwbrwrbwywbrw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1835/
 

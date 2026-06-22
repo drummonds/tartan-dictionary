@@ -2,9 +2,10 @@
 title: "McWilliams (2014)"
 date: 2023-03-18
 ---
-In pattern [GBGR](/stripes/gbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt22p1g22r4/)
+(the same proportion at any scale), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11134/
 

@@ -2,9 +2,10 @@
 title: "Robitaille, Jean-Francois (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWGWGWKWGBRY](/stripes/bwgwgwkwgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db21w2t3w2t2w2k12w2g6db15r2y4/)
+(the same proportion at any scale), whose colour order is pattern [BWGWGWKWGBRY](/stripes/bwgwgwkwgbry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Robitaille, Jean-Francois
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/2012 — Robitaille, Jean-Francois (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649))
-- undated — Robitaille, Jean-Francois (Perso Name Tartan Tartan Number: 10649. Earliest known date: 01/04/2012 This tartan is based on the history and the coat of arms of the Robitaille Family as well as those of the province of Quebec and Canada. Colours: blue represents the designer’s affiliation with the province of Quebec and his French ancestry. It is the official colour of both Quebec and France, as well as the background of the Robitaille Family coat of arms; yellow represents the gold chevron of the Robitaille Coat of arms, and the three fleurs-de-lys of the Quebec Coat of arms; red represents the crown found on the Quebec and Canadian coat of arms and the flags of Canada and the United Kingdom; green represents the maple leaf, the national symbol of Canada shown on the Quebec coat of arms. It also alludes to the park that has replaced the ancestral farm of the Robitaille family in Champigny; black represents the three waves found on the Robitaille coat of arms and the designer’s interest in transportation; tan represents the plough surmounted by four stalks of wheat of the Robitaille coat of arms, the stalks of grain representing the fruits of their labour and pays tribute to the heavy labour undertaken by the four Robitaille brothers to clear the ancestral land; white represents the dove with the olive branch on the Robitaille coat of arms; a symbol of purity, peace and descendants. It is also found on the coat of arms of Theodore Robitaille, lieutenant governor of Québec, one of the most renowned Robitaille family ancestors. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10649))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2012 — Robitaille, Jean-Francois (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10649">record</a>)</li>
+<li>undated — Robitaille, Jean-Francois (Perso Name Tartan Tartan Number: 10649. Earliest known date: 01/04/2012 This tartan is based on the history and the coat of arms of the Robitaille Family as well as those of the province of Quebec and Canada. Colours: blue represents the designer’s affiliation with the province of Quebec and his French ancestry. It is the official colour of both Quebec and France, as well as the background of the Robitaille Family coat of arms; yellow represents the gold chevron of the Robitaille Coat of arms, and the three fleurs-de-lys of the Quebec Coat of arms; red represents the crown found on the Quebec and Canadian coat of arms and the flags of Canada and the United Kingdom; green represents the maple leaf, the national symbol of Canada shown on the Quebec coat of arms. It also alludes to the park that has replaced the ancestral farm of the Robitaille family in Champigny; black represents the three waves found on the Robitaille coat of arms and the designer’s interest in transportation; tan represents the plough surmounted by four stalks of wheat of the Robitaille coat of arms, the stalks of grain representing the fruits of their labour and pays tribute to the heavy labour undertaken by the four Robitaille brothers to clear the ancestral land; white represents the dove with the olive branch on the Robitaille coat of arms; a symbol of purity, peace and descendants. It is also found on the coat of arms of Theodore Robitaille, lieutenant governor of Québec, one of the most renowned Robitaille family ancestors. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10649">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

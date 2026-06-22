@@ -2,18 +2,20 @@
 title: "Wallace"
 date: 2023-03-18
 ---
-In pattern [KRKY](/stripes/krky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r8k8y1/)
+(the same proportion at any scale), whose colour order is pattern [KRKY](/stripes/krky/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4482
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1800 — Wallace (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4482))
-- undated — Wallace Clan Tartan Tartan Number: 1208. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1208))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Wallace (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4482">record</a>)</li>
+<li>undated — Wallace Clan Tartan Tartan Number: 1208. Earliest known date: 1842 The design comes from the Vestiarium Scoticum (1842). The authors, the Sobieski Stuart brothers, enjoyed a popular following among the Scottish gentry in the early Victorian era, and in the spirit of the times, added mystery, romance and some spurious historical documentation to the subject of tartan. Of the better known tartans, the book offers some minor variation, but in other cases it provides the only recorded version of many tartans in use today. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1208">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

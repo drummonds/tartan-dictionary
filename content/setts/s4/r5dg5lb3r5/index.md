@@ -2,9 +2,10 @@
 title: "Menzies"
 date: 2023-03-18
 ---
-In pattern [RGWR](/stripes/rgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g5n3r5/)
+(the same proportion at any scale), whose colour order is pattern [RGWR](/stripes/rgwr/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

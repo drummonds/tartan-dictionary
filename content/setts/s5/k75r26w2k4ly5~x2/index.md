@@ -2,9 +2,10 @@
 title: "Perry / Pirrie (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRWKY](/stripes/krwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k75r26w2k4y5/)
+(the same proportion at any scale), whose colour order is pattern [KRWKY](/stripes/krwky/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3324
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Perry Pirrie
 - Perry, Pirrie
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1981 — Perry / Pirrie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3324))
-- 1982 — Perry (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1212/))
-- undated — Perry, Pirrie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Perry Pirrie Family Tartan Tartan Number: 1212. Earliest known date: 1982 A modern family tartan designed in 1981 for Dr J.R. Perry, Alberta, Canada. The name is most common in Aberdeen and Banffshire, although for many generations there have been several families of this name in and around the Wigtonshire area of Galloway. Various spellings include Pirrie, Pere, and Pire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1212))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1981 — Perry / Pirrie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3324">record</a>)</li>
+<li>1982 — Perry (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1212/">record</a>)</li>
+<li>undated — Perry, Pirrie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Perry Pirrie Family Tartan Tartan Number: 1212. Earliest known date: 1982 A modern family tartan designed in 1981 for Dr J.R. Perry, Alberta, Canada. The name is most common in Aberdeen and Banffshire, although for many generations there have been several families of this name in and around the Wigtonshire area of Galloway. Various spellings include Pirrie, Pere, and Pire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1212">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

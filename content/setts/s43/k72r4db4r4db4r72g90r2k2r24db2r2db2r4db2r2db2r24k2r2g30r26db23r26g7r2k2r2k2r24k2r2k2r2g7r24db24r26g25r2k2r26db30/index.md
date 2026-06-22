@@ -2,9 +2,10 @@
 title: "MacIntosh, Moy Hall Plaid"
 date: 2023-03-18
 ---
-In pattern [BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrkrbrbrbrbrkrgrbrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k72r4b4r4b4r72g90r2k2r24b2r2b2r4b2r2b2r24k2r2g30r26b23r26g7r2k2r2k2r24k2r2k2r2g7r24b24r26g25r2k2r26b30/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGRBRGRKRKRKRKRGRBRGRKRBRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrkrbrbrbrbrkrgrbrbrk/).
 
-This was sourced from weddslist.  It is a [43 stripe tartan](/stripes/stripes43/).
+Sourced from weddslist.  It is a [43 stripe tartan](/stripes/stripes43/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

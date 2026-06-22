@@ -2,9 +2,10 @@
 title: "Celtic Nations"
 date: 2023-03-18
 ---
-In pattern [BRBRYBKBKGKW](/stripes/brbrybkbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3r2b2r35y2b3k2b5k4g13k1w3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRYBKBKGKW](/stripes/brbrybkbkgkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10411
 

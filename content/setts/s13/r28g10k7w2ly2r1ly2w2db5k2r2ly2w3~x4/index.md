@@ -2,18 +2,20 @@
 title: "MacGill"
 date: 2023-03-18
 ---
-In pattern [RGKWYRYWBKRYW](/stripes/rgkwyrywbkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28g10k7ln2y2r1y2ln2db5k2r2y2ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGKWYRYWBKRYW](/stripes/rgkwyrywbkryw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2439
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1930 — MacGill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2439))
-- 1930 — MacGill (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1487/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — MacGill (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2439">record</a>)</li>
+<li>1930 — MacGill (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1487/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Callaway"
 date: 2023-03-18
 ---
-In pattern [RGWGKR](/stripes/rgwgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k28n5ln12n14r2/)
+(the same proportion at any scale), whose colour order is pattern [RGWGKR](/stripes/rgwgkr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

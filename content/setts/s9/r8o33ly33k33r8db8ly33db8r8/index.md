@@ -2,18 +2,20 @@
 title: "Jardine, of Castlemilk"
 date: 2023-03-18
 ---
-In pattern [RBYBRKYRR](/stripes/rbybrkyrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8lt33y33k33r8b8y33b8r8/)
+(the same proportion at any scale), whose colour order is pattern [RBYBRKYRR](/stripes/rbybrkyrr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Jardine, of Castlemilk (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Jardine, of Castlemilk (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Jardine, of Castlemilk (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Jardine, of Castlemilk (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 LT33 Y33 K33 R8 B8 Y33 B8 R/8

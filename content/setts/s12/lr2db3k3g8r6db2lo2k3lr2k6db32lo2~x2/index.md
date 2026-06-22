@@ -2,9 +2,10 @@
 title: "Talisman (Fashion)"
 date: 2023-03-18
 ---
-In pattern [YBKGRBYKYKBY](/stripes/ybkgrbykykby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2db32k6n2k3dy2db2dr6g8k3db3n2/)
+(the same proportion at any scale), whose colour order is pattern [YBKGRBYKYKBY](/stripes/ybkgrbykykby/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5146/
 

@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kgygy/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">KGYGY</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/k75g26lr2g4lo5~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KGYGY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

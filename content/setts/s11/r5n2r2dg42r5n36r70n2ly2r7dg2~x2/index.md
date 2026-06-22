@@ -2,9 +2,10 @@
 title: "MacPherson Of Cluny"
 date: 2023-03-18
 ---
-In pattern [GRYBRBRGRBR](/stripes/grybrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5n2dr2dg42dr5n36dr70n2lg2dr7dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRYBRBRGRBR](/stripes/grybrbrgrbr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

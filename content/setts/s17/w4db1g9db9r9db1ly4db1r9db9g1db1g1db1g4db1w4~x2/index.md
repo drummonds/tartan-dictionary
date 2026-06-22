@@ -2,9 +2,10 @@
 title: "Alaskan Scottish"
 date: 2023-03-18
 ---
-In pattern [WBGBGBGBRBYBRBGBW](/stripes/wbgbgbgbrbybrbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db1g9db9r9db1y4db1r9db9g1db1g1db1g4db1w4/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGBGBRBYBRBGBW](/stripes/wbgbgbgbrbybrbgbw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10851/
 

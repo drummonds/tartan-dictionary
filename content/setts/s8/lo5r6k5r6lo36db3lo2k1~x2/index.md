@@ -2,9 +2,10 @@
 title: "Lermontov Bicentenary"
 date: 2023-03-18
 ---
-In pattern [KYBYRKRY](/stripes/kybyrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy5dr6k5dr6dy36db3dy2k1/)
+(the same proportion at any scale), whose colour order is pattern [KYBYRKRY](/stripes/kybyrkry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11000/
 

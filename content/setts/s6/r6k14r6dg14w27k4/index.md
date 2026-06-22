@@ -2,9 +2,10 @@
 title: "Fraser Dress"
 date: 2023-03-18
 ---
-In pattern [KWGRKR](/stripes/kwgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6k14r6g14ln27k4/)
+(the same proportion at any scale), whose colour order is pattern [KWGRKR](/stripes/kwgrkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1253
 

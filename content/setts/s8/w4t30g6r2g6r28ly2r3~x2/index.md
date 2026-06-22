@@ -2,9 +2,10 @@
 title: "Scotland 2000 Commemorative Tartan Tartan Number: 2514. Earliest known date: 1999 Strathmore Woollen Mills Millenium tartan designed by Arthur Mackie of Strathmore Woollen Co., Forfar See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RYRGRGBW](/stripes/ryrgrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b30g6dr2g6dr28y2dr3/)
+(the same proportion at any scale), whose colour order is pattern [RYRGRGBW](/stripes/ryrgrgbw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2514
 

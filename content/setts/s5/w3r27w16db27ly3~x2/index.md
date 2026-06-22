@@ -2,9 +2,10 @@
 title: "Common Ground (Dress)"
 date: 2023-03-18
 ---
-In pattern [WRWBY](/stripes/wrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db27w16dr27w3/)
+(the same proportion at any scale), whose colour order is pattern [WRWBY](/stripes/wrwby/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10579
 

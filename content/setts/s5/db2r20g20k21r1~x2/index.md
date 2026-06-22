@@ -2,18 +2,20 @@
 title: "Skene of Cromar"
 date: 2023-03-18
 ---
-In pattern [BRGKR](/stripes/brgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r20g20k21r1/)
+(the same proportion at any scale), whose colour order is pattern [BRGKR](/stripes/brgkr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Skene of Cromar (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Skene of Cromar Clan Tartan Tartan Number: 535. Earliest known date: pre 2003 Count divided by 2 for display purposes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=535))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Skene of Cromar (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Skene of Cromar Clan Tartan Tartan Number: 535. Earliest known date: pre 2003 Count divided by 2 for display purposes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=535">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/4 R40 G40 K42 R/2

@@ -2,9 +2,10 @@
 title: "Saint Joseph de Sorel (District)"
 date: 2023-03-18
 ---
-In pattern [GGGRGYGRYGWGWGWG](/stripes/gggrgygrygwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8w1g3w1g3w1g8y2n9ga2lt5ga2r12g8g3g3/)
+(the same proportion at any scale), whose colour order is pattern [GGGRGYGRYGWGWGWG](/stripes/gggrgygrygwgwgwg/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2633/
 

@@ -3,9 +3,10 @@ title: "Unnamed C18th - Cant Counts"
 date: 2023-03-18
 slug_full: "db10t3w1r6r12w1r12r6w1t3db10r6w1dg10ly6w1t2w1t2w1ly6dg10w1t3db10t3w1r5r6w1r6r5w1t3db10t3w1dg10ly6w1t2w1t2w1ly6dg10w1r6db10t3w1r6r12w1r12r6w1t3db10r6r5w1dg10ly6w1t2w1t2w1ly6dg10w1t3db10t3w1r5r6w1r6r5w1~x2"
 ---
-In pattern [BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWRRW](/stripes/bbwrrwrrwbbrwgywbwbwygwbbbwrrwrrwbbbwgywbwbwygwrbbwrrwrrwbbrrwgywbwbwygwbbbwrrwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10b3ln1lr6r12ln1r12lr6ln1b3db10r6ln1dg10y6ln1b2ln1b2ln1y6dg10ln1b3db10b3ln1lr5r6ln1r6lr5ln1b3db10b3ln1dg10y6ln1b2ln1b2ln1y6dg10ln1r6db10b3ln1lr6r12ln1r12lr6ln1b3db10r6lr5ln1dg10y6ln1b2ln1b2ln1y6dg10ln1b3db10b3ln1lr5r6ln1r6lr5ln1/)
+(the same proportion at any scale), whose colour order is pattern [BBWRRWRRWBBRWGYWBWBWYGWBBBWRRWRRWBBBWGYWBWBWYGWRBBWRRWRRWBBRRWGYWBWBWYGWBBBWRRWRRW](/stripes/bbwrrwrrwbbrwgywbwbwygwbbbwrrwrrwbbbwgywbwbwygwrbbwrrwrrwbbrrwgywbwbwygwbbbwrrwrrw/).
 
-This was sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
+Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4414
 

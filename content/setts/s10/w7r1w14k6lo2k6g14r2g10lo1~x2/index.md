@@ -2,9 +2,10 @@
 title: "Spanish shirt"
 date: 2023-03-18
 ---
-In pattern [WRWKYKGRGY](/stripes/wrwkykgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln7ra1ln14k6dy2k6g14ra2g10dy1/)
+(the same proportion at any scale), whose colour order is pattern [WRWKYKGRGY](/stripes/wrwkykgrgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3851
 

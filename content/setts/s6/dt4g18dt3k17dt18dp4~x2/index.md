@@ -2,9 +2,10 @@
 title: "Scottish Airports"
 date: 2023-03-18
 ---
-In pattern [BBKBGB](/stripes/bbkbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g18db3k17db18p4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBGB](/stripes/bbkbgb/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

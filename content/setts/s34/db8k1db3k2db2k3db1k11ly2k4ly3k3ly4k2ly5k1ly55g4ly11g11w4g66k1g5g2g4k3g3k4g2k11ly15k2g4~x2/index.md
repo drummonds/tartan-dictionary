@@ -2,9 +2,10 @@
 title: "Unidentified"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKYKYKYKYKYGYGWGKGGGKGKGKYKG](/stripes/bkbkbkbkykykykykygygwgkgggkgkgkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1db3k2db2k3db1k11y2k4y3k3y4k2y5k1y55g4y11g11w4g66k1g5g2g4k3g3k4g2k11y15k2ga4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKYKYKYKYKYGYGWGKGGGKGKGKYKG](/stripes/bkbkbkbkykykykykygygwgkgggkgkgkykg/).
 
-This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4716/
 

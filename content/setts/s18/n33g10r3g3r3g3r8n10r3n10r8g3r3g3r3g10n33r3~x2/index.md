@@ -2,9 +2,10 @@
 title: "Gray (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGRGRGRBRBRGRGRGBR](/stripes/bgrgrgrbrbrgrgrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n33g10dra3g3dra3g3dra8n10dra3n10dra8g3dra3g3dra3g10n33dra3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGRBRBRGRGRGBR](/stripes/bgrgrgrbrbrgrgrgbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1517
 

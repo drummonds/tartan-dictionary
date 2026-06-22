@@ -2,9 +2,10 @@
 title: "Flowers of the Forest, The"
 date: 2023-03-18
 ---
-In pattern [BBBRBRBRBB](/stripes/bbbrbrbrbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8ba4dr5r1dr5r1dr5r1dr16b1/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRBRBB](/stripes/bbbrbrbrbb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10895
 

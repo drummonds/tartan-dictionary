@@ -2,9 +2,10 @@
 title: "Italian"
 date: 2023-03-18
 ---
-In pattern [BKBKWKGRKRGKWKBRWGBKWKGRKRGKWK](/stripes/bkbkwkgrkrgkwkbrwgbkwkgrkrgkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba24k2dba24k1n1k1ga12dr2k2dr2ga12k1n1k1dba24dr2n2g2dba24k1n1k1ga12dr2k2dr2ga12k1n1k1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKGRKRGKWKBRWGBKWKGRKRGKWK](/stripes/bkbkwkgrkrgkwkbrwgbkwkgrkrgkwk/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1870
 

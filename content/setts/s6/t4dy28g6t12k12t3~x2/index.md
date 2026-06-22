@@ -2,9 +2,10 @@
 title: "MacTavish Hunting"
 date: 2023-03-18
 ---
-In pattern [BGGBKB](/stripes/bggbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4t28g6b12k12b3/)
+(the same proportion at any scale), whose colour order is pattern [BGGBKB](/stripes/bggbkb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770
 
@@ -18,16 +19,17 @@ This cloth is also recorded under:
 - Thomson
 - Thomson Lord.. Personal
 
-## Attestations
-
-This cloth appears in 6 source records; the oldest owns this page.
-
-- 01/01/1850 — MacTavish Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770))
-- 1958 — MacTavish Htg (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/232/))
-- 01/01/1965 — Thomson (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4120))
-- 1965 — Thomson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/231/))
-- undated — Thompson Hunting Family Tartan Tartan Number: 2093. Earliest known date: 1958 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2093))
-- undated — Thomson Lord.. (Hunting) Personal Tartan Tartan Number: 231. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=231))
+<details class="attestations">
+<summary>6 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — MacTavish Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2770">record</a>)</li>
+<li>1958 — MacTavish Htg (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/232/">record</a>)</li>
+<li>01/01/1965 — Thomson (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4120">record</a>)</li>
+<li>1965 — Thomson (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/231/">record</a>)</li>
+<li>undated — Thompson Hunting Family Tartan Tartan Number: 2093. Earliest known date: 1958 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2093">record</a>)</li>
+<li>undated — Thomson Lord.. (Hunting) Personal Tartan Tartan Number: 231. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=231">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

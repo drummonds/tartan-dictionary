@@ -2,9 +2,10 @@
 title: "Dalziel Rugby Club (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKWBKWK](/stripes/bkwbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db56k4ln1db6k20ln2k20/)
+(the same proportion at any scale), whose colour order is pattern [BKWBKWK](/stripes/bkwbkwk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8472/
 

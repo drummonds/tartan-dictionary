@@ -2,9 +2,10 @@
 title: "MacHattie Family Tartan Tartan Number: 5917. Earliest known date: 2003 A tartan for the McHattie family of Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRRYWYRRBK](/stripes/brrywyrrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k45db2dr2r2y1ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRRYWYRRBK](/stripes/brrywyrrbk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5917
 

@@ -2,9 +2,10 @@
 title: "Strathclyde, University of"
 date: 2023-03-18
 ---
-In pattern [BKRKBKWKGKGGKWKGGKGKWKBKRK](/stripes/bkrkbkwkgkggkwkggkgkwkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7k1r3k1db24k1ln3k3ga3k3ga3g19k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKWKGKGGKWKGGKGKWKBKRK](/stripes/bkrkbkwkgkggkwkggkgkwkbkrk/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3982
 

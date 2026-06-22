@@ -2,9 +2,10 @@
 title: "Burnett of Powis (Modern) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGRGYGRGRBRGR](/stripes/gygrgygrgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g19y3g19ra3g19y3g19ra3g3ra21b3ra21g3ra3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGYGRGRBRGR](/stripes/gygrgygrgrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4948
 

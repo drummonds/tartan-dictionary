@@ -2,18 +2,20 @@
 title: "Davis"
 date: 2023-03-18
 ---
-In pattern [KYKRKRGR](/stripes/kykrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3y2k3dr8k8r8dg2r3/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKRGR](/stripes/kykrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — Davis (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898))
-- 2003 — Davis (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5770/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Davis (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=898">record</a>)</li>
+<li>2003 — Davis (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5770/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

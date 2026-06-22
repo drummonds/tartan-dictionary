@@ -2,18 +2,20 @@
 title: "Coulthard (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGGBKBW](/stripes/rggbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g9ga15db10k2db18ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGGBKBW](/stripes/rggbkbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 30/11/2001 — Coulthard (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777))
-- pre 2002 — Coulthard (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3999/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>30/11/2001 — Coulthard (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=777">record</a>)</li>
+<li>pre 2002 — Coulthard (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3999/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

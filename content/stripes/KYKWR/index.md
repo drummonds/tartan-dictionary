@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kykwr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KYKWR</span></div>
+
 It is a 5 stripe tartan.
 
-![Woven sample](/setts/s5/k23ly3k23w36r4~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KYKWR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

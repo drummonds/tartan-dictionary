@@ -2,9 +2,10 @@
 title: "Hebridean, North Uist"
 date: 2023-03-18
 ---
-In pattern [BRWBWRGYWYGRGRBRBRBRBWBW](/stripes/brwbwrgywygrgrbrbrbrbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5r3ln2db1ln2r3g9y2ln1y2g9r1g1r27db1r1db1r27db1r1db9ln1db1ln4/)
+(the same proportion at any scale), whose colour order is pattern [BRWBWRGYWYGRGRBRBRBRBWBW](/stripes/brwbwrgywygrgrbrbrbrbwbw/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Hebridean, North Uist
 - Hebrides North Uist
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hebridean, North Uist (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=583))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hebridean, North Uist (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hebridean Artifact Tartan Tartan Number: 583. Earliest known date: 1814 Sample from N. Uist. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=583">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/10 R6 LN4 DB2 LN4 R6 G18 Y4 LN2 Y4 G18 R2 G2 R54 DB2 R2 DB2 R54 DB2 R2 DB18 LN2 DB2 LN/8

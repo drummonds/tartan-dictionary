@@ -2,9 +2,10 @@
 title: "Wallace Red Dress Tartan Tartan Number: 8186. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKKRK](/stripes/bkkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r29k11w29b3/)
+(the same proportion at any scale), whose colour order is pattern [BKKRK](/stripes/bkkrk/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8186
 

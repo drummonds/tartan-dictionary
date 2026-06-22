@@ -2,9 +2,10 @@
 title: "MacLeod Black & Red"
 date: 2023-03-18
 ---
-In pattern [RKRKR](/stripes/rkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k1r8k12r1/)
+(the same proportion at any scale), whose colour order is pattern [RKRKR](/stripes/rkrkr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2633
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLeod, Black & Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLeod Black & Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2633))
-- undated — MacLeod, Black & Red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLeod Black & Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2633">record</a>)</li>
+<li>undated — MacLeod, Black & Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

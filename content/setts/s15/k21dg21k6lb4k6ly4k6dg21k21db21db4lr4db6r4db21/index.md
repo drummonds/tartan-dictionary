@@ -2,9 +2,10 @@
 title: "Malcolm (1840)"
 date: 2023-03-18
 ---
-In pattern [BRBYBBKGKYKWKGK](/stripes/brbybbkgkykwkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k21g21k6lb4k6y4k6g21k21db21db4lr4db6r4db21/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBBKGKYKWKGK](/stripes/brbybbkgkykwkgk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2793
 

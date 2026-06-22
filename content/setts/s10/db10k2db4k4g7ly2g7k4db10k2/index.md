@@ -2,9 +2,10 @@
 title: "Gordon, Miniature"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGKBK](/stripes/bkbkgygkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10k2b4k4g7y2g7k4b10k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGKBK](/stripes/bkbkgygkbk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

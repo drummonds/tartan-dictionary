@@ -2,9 +2,10 @@
 title: "Yorkland"
 date: 2023-03-18
 ---
-In pattern [BRBWRGYG](/stripes/brbwrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30r2b4ln1lt11g4y2g22/)
+(the same proportion at any scale), whose colour order is pattern [BRBWRGYG](/stripes/brbwrgyg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

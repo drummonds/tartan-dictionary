@@ -2,9 +2,10 @@
 title: "Finnish"
 date: 2023-03-18
 ---
-In pattern [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly8dn1b24dn2b1dn2b4dn2b1dn2b4dn1ly4b2ly1b2ly20dn1b5/)
+(the same proportion at any scale), whose colour order is pattern [BBWBWBWBBBBBBBBBBBW](/stripes/bbwbwbwbbbbbbbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5897
 

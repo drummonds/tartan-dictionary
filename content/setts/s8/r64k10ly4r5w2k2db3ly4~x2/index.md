@@ -2,9 +2,10 @@
 title: "Conroy"
 date: 2023-03-18
 ---
-In pattern [RKYRWKBY](/stripes/rkyrwkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r64k10y4dr5ln2k2b3y4/)
+(the same proportion at any scale), whose colour order is pattern [RKYRWKBY](/stripes/rkyrwkby/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

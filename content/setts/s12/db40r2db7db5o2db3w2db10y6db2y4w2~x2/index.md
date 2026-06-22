@@ -2,9 +2,10 @@
 title: "Plymouth/Armada 400, Armada"
 date: 2023-03-18
 ---
-In pattern [BRBBRBWBGBGW](/stripes/brbbrbwbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b40r2b7db5t2db3ln2db10n6b2n4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBRBWBGBGW](/stripes/brbbrbwbgbgw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

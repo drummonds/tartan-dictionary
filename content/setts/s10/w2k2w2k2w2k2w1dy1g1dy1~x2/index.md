@@ -2,9 +2,10 @@
 title: "Burns Check Trade Tartan Tartan Number: 1736. Earliest known date: 1959 Number of black stripes is not fixed. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k2ln2k2ln2k2ln1t1g1t1/)
+(the same proportion at any scale), whose colour order is pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1736
 

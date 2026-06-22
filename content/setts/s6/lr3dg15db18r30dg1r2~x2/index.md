@@ -2,18 +2,20 @@
 title: "Ruthven"
 date: 2023-03-18
 ---
-In pattern [RGRBGY](/stripes/rgrbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3dg15db18dr30dg1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBGY](/stripes/rgrbgy/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ruthven (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Ruthven (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ruthven (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Ruthven (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 N/6 DG30 DB36 DR60 DG2 DR/4

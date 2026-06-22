@@ -2,9 +2,10 @@
 title: "Hoban (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKWKGKBWBKGKWKWY](/stripes/wkwkgkbwbkgkwkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp9k3lp4k9g15k9db11w2db11k9g15k9lp4k3lp9y3/)
+(the same proportion at any scale), whose colour order is pattern [WKWKGKBWBKGKWKWY](/stripes/wkwkgkbwbkgkwkwy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1740
 

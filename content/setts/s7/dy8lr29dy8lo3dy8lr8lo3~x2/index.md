@@ -2,18 +2,20 @@
 title: "Lister (Misty Mountain)"
 date: 2023-03-18
 ---
-In pattern [GYGYGYY](/stripes/gygygyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8n29t8y3t8n8y3/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYY](/stripes/gygygyy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 07/07/2012 — Lister (Misty Mountain) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650))
-- undated — Lister (Misty Mountain) Name Tartan Tartan Number: 10650. Earliest known date: 07/07/2012 Inspired by a sponsored challenge to wear kilts for a year, David Lister designed this tartan for his family. Colours: grey represents mountain mists; brown represents the matriarchal line and mountains; gold represents the first rays of the morning sun. There are no restrictions as to who can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10650))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>07/07/2012 — Lister (Misty Mountain) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10650">record</a>)</li>
+<li>undated — Lister (Misty Mountain) Name Tartan Tartan Number: 10650. Earliest known date: 07/07/2012 Inspired by a sponsored challenge to wear kilts for a year, David Lister designed this tartan for his family. Colours: grey represents mountain mists; brown represents the matriarchal line and mountains; gold represents the first rays of the morning sun. There are no restrictions as to who can wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10650">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

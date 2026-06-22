@@ -2,9 +2,10 @@
 title: "Hardie Clan Tartan Tartan Number: 3903. Earliest known date: 2001 Designed by Paul Hardie of Ecclesmachan, West Lothian so that the Hardie family could have their own tartan. Hardie's have worn the MacHardie tartan till now. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBGWGR](/stripes/rbgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp4g9ln2g24db37r3/)
+(the same proportion at any scale), whose colour order is pattern [RBGWGR](/stripes/rbgwgr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3903
 

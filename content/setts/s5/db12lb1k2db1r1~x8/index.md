@@ -2,18 +2,20 @@
 title: "Lochcarron (1985)"
 date: 2023-03-18
 ---
-In pattern [BWKBR](/stripes/bwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12n1k2db1r1/)
+(the same proportion at any scale), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Lochcarron (1985) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167))
-- 1985 — Lochcarron (1985) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5462/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Lochcarron (1985) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2167">record</a>)</li>
+<li>1985 — Lochcarron (1985) (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5462/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

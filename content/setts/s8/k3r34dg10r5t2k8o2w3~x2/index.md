@@ -2,18 +2,20 @@
 title: "Lambert (Front Royal) Greer"
 date: 2023-03-18
 ---
-In pattern [KRGRBKRW](/stripes/krgrbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka3r34k10r5b2ka8lt2ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRGRBKRW](/stripes/krgrbkrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10673
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/01/2012 — Lambert (Front Royal) Greer (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10673))
-- undated — Lambert (Front Royal) Greer Name Tartan Tartan Number: 10673. Earliest known date: 14 August 2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family, to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Kai tartan (STR #10670) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10673))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/01/2012 — Lambert (Front Royal) Greer (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10673">record</a>)</li>
+<li>undated — Lambert (Front Royal) Greer Name Tartan Tartan Number: 10673. Earliest known date: 14 August 2012 Designed by Charles Lambert, using the Scotweb Tartan Designer, for his family, to celebrate their Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Kai tartan (STR #10670) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10673">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Glen Moriston Estate Check"
 date: 2023-03-18
 ---
-In pattern [BWW](/stripes/bww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn1n1ln1/)
+(the same proportion at any scale), whose colour order is pattern [BWW](/stripes/bww/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Glen Moriston Estate Check
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1840 — Glen Moriston Estate Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386))
-- 1840ish — Glen Moriston (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7331/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1840 — Glen Moriston Estate Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1386">record</a>)</li>
+<li>1840ish — Glen Moriston (Estate Check) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7331/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

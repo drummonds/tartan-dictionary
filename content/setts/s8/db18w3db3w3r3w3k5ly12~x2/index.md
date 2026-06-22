@@ -2,9 +2,10 @@
 title: "Kile (Red line) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBWRWKY](/stripes/bwbwrwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18w3db3w3dr3w3k5y12/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRWKY](/stripes/bwbwrwky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4180/
 

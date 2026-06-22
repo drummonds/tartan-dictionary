@@ -2,9 +2,10 @@
 title: "Clan Chattan"
 date: 2023-03-18
 ---
-In pattern [RKYGYYRKRYYBKRYY](/stripes/rkygyyrkryybkryy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr122k4n2dg32n4lg7dr7k2dr7lg7n4b32k8dr8lg12n4/)
+(the same proportion at any scale), whose colour order is pattern [RKYGYYRKRYYBKRYY](/stripes/rkygyyrkryybkryy/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

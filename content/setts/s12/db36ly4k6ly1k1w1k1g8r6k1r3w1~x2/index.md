@@ -2,9 +2,10 @@
 title: "MacBeth, MacLulich"
 date: 2023-03-18
 ---
-In pattern [BYKYKWKGRKRW](/stripes/bykykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b36y4k6y1k1ln1k1g8r6k1r3ln1/)
+(the same proportion at any scale), whose colour order is pattern [BYKYKWKGRKRW](/stripes/bykykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

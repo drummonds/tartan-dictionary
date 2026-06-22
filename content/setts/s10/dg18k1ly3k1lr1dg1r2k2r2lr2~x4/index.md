@@ -2,9 +2,10 @@
 title: "Anthony Plaid Stewart"
 date: 2023-03-18
 ---
-In pattern [GKYKYGRKRY](/stripes/gkykygrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18k1y3k1n1dg1dr2k2dr2n2/)
+(the same proportion at any scale), whose colour order is pattern [GKYKYGRKRY](/stripes/gkykygrkry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4989
 

@@ -2,9 +2,10 @@
 title: "Millennium (Texcraft) (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBBBGBBBBBBBBBGBBBBBBBBBBBBBBBBBBBGBBBBBBBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbbgbbbbbbbbbgbbbbbbbbbbbbbbbbbbbgbbbbbbbbbbbbbbbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dbb8db1dbb1dbc37db1dbb14dba2dbb2db1dbb1dbc37dbb1db1g2dbb18db1dba3db1dbb18db1dba3db1dbb18g2db1dbb1dbc37dbb1db1dbb3dba2dbb13db1dbc37dbb1db1dbb8dba2dbb10db1dbc1dbb1dbc1g2db1dbc33dbb1dba2dbc1dbb1db1dbb18dba2dbb18db1dbb1dbc1dba2dbb1dbc37db1g2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBGBBBBBBBBBGBBBBBBBBBBBBBBBBBBBGBBBBBBBBBBBBBBBBBG](/stripes/bbbbbbbbbbbbbgbbbbbbbbbgbbbbbbbbbbbbbbbbbbbgbbbbbbbbbbbbbbbbbg/).
 
-This was sourced from tartans-authority.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from tartans-authority.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2495/
 

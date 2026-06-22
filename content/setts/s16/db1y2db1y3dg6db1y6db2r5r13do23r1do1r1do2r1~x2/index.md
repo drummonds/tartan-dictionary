@@ -2,9 +2,10 @@
 title: "Langerman (Anchorage)"
 date: 2023-03-18
 ---
-In pattern [BGBGGBGBRRBRBRBR](/stripes/bgbggbgbrrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1n2db1n3na6db1n6db2dra5drb13dr23dra1dr1dra1dr2dra1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGBGBRRBRBRBR](/stripes/bgbggbgbrrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10191
 

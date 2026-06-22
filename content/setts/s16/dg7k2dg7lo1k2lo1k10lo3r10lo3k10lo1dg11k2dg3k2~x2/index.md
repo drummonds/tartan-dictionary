@@ -2,9 +2,10 @@
 title: "Blackburn Appalachian Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg7k2dg7dy1k2dy1k10dy3dr10dy3k10dy1dg11k2dg3k2/)
+(the same proportion at any scale), whose colour order is pattern [GKGYKYKYRYKYGKGK](/stripes/gkgykykyrykygkgk/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10703/
 

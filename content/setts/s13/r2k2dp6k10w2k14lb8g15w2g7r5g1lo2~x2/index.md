@@ -2,9 +2,10 @@
 title: "Nashotah House"
 date: 2023-03-18
 ---
-In pattern [RKBKWKWGWGRGY](/stripes/rkbkwkwgwgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k2p6k10w2k14lp8g15w2g7dr5g1dy2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKWKWGWGRGY](/stripes/rkbkwkwgwgrgy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3095
 

@@ -2,19 +2,21 @@
 title: "Old Brigade"
 date: 2023-03-18
 ---
-In pattern [BKRBKY](/stripes/bkrbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k9r3db9k9y1/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKY](/stripes/bkrbky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 08/10/2012 — Old Brigade (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718))
-- 08/10/2012 — Old Brigade (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10718/))
-- undated — Old Brigade Corporate Tartan Tartan Number: 10718. Earliest known date: 12/10/12 This tartan was designed to celebrate the 25th anniversary of the formation of the Old Brigade an informal fraternal society dedicated to good fellowship, formed in 1987. The colours relate to the regiment in which the founding members of the society were serving at the time, with the addition of a gold stripe for excellence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10718))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/10/2012 — Old Brigade (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10718">record</a>)</li>
+<li>08/10/2012 — Old Brigade (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10718/">record</a>)</li>
+<li>undated — Old Brigade Corporate Tartan Tartan Number: 10718. Earliest known date: 12/10/12 This tartan was designed to celebrate the 25th anniversary of the formation of the Old Brigade an informal fraternal society dedicated to good fellowship, formed in 1987. The colours relate to the regiment in which the founding members of the society were serving at the time, with the addition of a gold stripe for excellence. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10718">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

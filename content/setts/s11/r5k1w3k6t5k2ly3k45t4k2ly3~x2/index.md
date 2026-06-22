@@ -2,18 +2,20 @@
 title: "Williams Dress (Carolinas) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWKBKYKBKY](/stripes/rkwkbkykbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k1w3k6n5k2y3k45n4k2y3/)
+(the same proportion at any scale), whose colour order is pattern [RKWKBKYKBKY](/stripes/rkwkbkykbky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2012 — Williams Dress (Carolinas) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707))
-- undated — Williams Dress (Carolinas) Name Tartan Tartan Number: 10707. Earliest known date: 27 September 2012 Richard Williams designed this tartan for his family and to mark their Scottish connections. The term Carolinas refers to the collective states of North and South Carolina. Registrant details: Richard Williams, 144 Williams Cove Ln, , , United States, 28681 richard.williams@logan.edu See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10707))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2012 — Williams Dress (Carolinas) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10707">record</a>)</li>
+<li>undated — Williams Dress (Carolinas) Name Tartan Tartan Number: 10707. Earliest known date: 27 September 2012 Richard Williams designed this tartan for his family and to mark their Scottish connections. The term Carolinas refers to the collective states of North and South Carolina. Registrant details: Richard Williams, 144 Williams Cove Ln, , , United States, 28681 richard.williams@logan.edu See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10707">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,19 +2,21 @@
 title: "Mingulay (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBRBWBWRBRW](/stripes/bbrbwbwrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db45na5nb1k1n1k1n5nb3k1nb2n1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBWBWRBRW](/stripes/bbrbwbwrbrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3475/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1986 — Mingulay (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3475/))
-- undated — Mingulay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4872))
-- undated — Mingulay District Tartan Tartan Number: 3475. Earliest known date: 1986 A ladies skirt purchased in Scotland in 1986. Mingulay is the second most southern tiny island of Scotland's Outer Hebrides lying between Barra Head and Rosinish. Famous for the Mingulay Boat Song - a rowing shanty. Although this is just a fashion tartan, it conjures up evocative images for those who know the little island. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3475))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1986 — Mingulay (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3475/">record</a>)</li>
+<li>undated — Mingulay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4872">record</a>)</li>
+<li>undated — Mingulay District Tartan Tartan Number: 3475. Earliest known date: 1986 A ladies skirt purchased in Scotland in 1986. Mingulay is the second most southern tiny island of Scotland's Outer Hebrides lying between Barra Head and Rosinish. Famous for the Mingulay Boat Song - a rowing shanty. Although this is just a fashion tartan, it conjures up evocative images for those who know the little island. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3475">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

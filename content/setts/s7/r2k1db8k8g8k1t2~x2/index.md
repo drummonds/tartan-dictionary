@@ -2,9 +2,10 @@
 title: "Argyll"
 date: 2023-03-18
 ---
-In pattern [BKGKBKR](/stripes/bkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k1db8k8g8k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKR](/stripes/bkgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=109
 
@@ -15,15 +16,16 @@ This cloth is also recorded under:
 - Argyll / MacCorquodale
 - Campbell of Cawdor
 
-## Attestations
-
-This cloth appears in 5 source records; the oldest owns this page.
-
-- 01/01/1819 — Argyll (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=109))
-- 1819 — Argyll (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2079/))
-- undated — Argyll / MacCorquodale (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Campbell of Cawdor (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Argyll District Tartan Tartan Number: 2079. Earliest known date: 1798 W & S Smith (1850) records this pattern as Cawdor Campbell. Wilson records it as Argyll in 1819 (No. 230) and refers to an Argyll tartan in a letter of 1798. W. and A.K. Johnston (1906) calls it Argyll District tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2079))
+<details class="attestations">
+<summary>5 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Argyll (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=109">record</a>)</li>
+<li>1819 — Argyll (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2079/">record</a>)</li>
+<li>undated — Argyll / MacCorquodale (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Campbell of Cawdor (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Argyll District Tartan Tartan Number: 2079. Earliest known date: 1798 W & S Smith (1850) records this pattern as Cawdor Campbell. Wilson records it as Argyll in 1819 (No. 230) and refers to an Argyll tartan in a letter of 1798. W. and A.K. Johnston (1906) calls it Argyll District tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2079">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

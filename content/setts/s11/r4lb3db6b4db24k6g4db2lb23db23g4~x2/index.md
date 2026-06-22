@@ -2,18 +2,20 @@
 title: "New Millennium"
 date: 2023-03-18
 ---
-In pattern [GBWBGKBBBWR](/stripes/gbwbgkbbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4n3db6b4db24k6g4db2n23db23g4/)
+(the same proportion at any scale), whose colour order is pattern [GBWBGKBBBWR](/stripes/gbwbgkbbbwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — New Millennium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117))
-- pre 2002 — New Millennium (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5622/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — New Millennium (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3117">record</a>)</li>
+<li>pre 2002 — New Millennium (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5622/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

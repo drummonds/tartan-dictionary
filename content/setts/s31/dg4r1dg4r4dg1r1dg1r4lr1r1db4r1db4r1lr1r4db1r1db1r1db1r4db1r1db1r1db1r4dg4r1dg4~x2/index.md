@@ -2,18 +2,20 @@
 title: "MacRae"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRYRBRBRYRGRGRGRG](/stripes/grgrbrbrbrbrbrbryrbrbryrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4dr1dg4dr4dg1dr1dg1dr4n1dr1db4dr1db4dr1n1dr4db1dr1db1dr1db1dr4db1dr1db1dr1db1dr4dg4dr1dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRYRBRBRYRGRGRGRG](/stripes/grgrbrbrbrbrbrbryrbrbryrgrgrgrg/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacRae (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacRae (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacRae (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacRae (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/8 DR2 DG8 DR8 DG2 DR2 DG2 DR8 N2 DR2 DB8 DR2 DB8 DR2 N2 DR8 DB2 DR2 DB2 DR2 DB2 DR8 DB2 DR2 DB2 DR2 DB2 DR8 DG8 DR2 DG/8

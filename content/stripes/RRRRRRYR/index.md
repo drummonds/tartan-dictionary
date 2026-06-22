@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rrrrrryr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RRRRRRYR</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/r32lo4r32o23r4o23r4o23~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RRRRRRYR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

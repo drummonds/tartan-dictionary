@@ -2,9 +2,10 @@
 title: "Comyn / Cumming, Buchan"
 date: 2023-03-18
 ---
-In pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g6r1k8r1k1b1r1k8r1g6r6b1k6r1g8r1k1r1g8r1k6b1/)
+(the same proportion at any scale), whose colour order is pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
 
-This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Comyn / Cumming, Buchan
 - Cumming/Comyn/Buchan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Comyn / Cumming, Buchan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cumming Comyn Buchan Clan Tartan Tartan Number: 2012. Earliest known date: pre 2003 D.C.Stewart comments, "Still further confusion has arisen from Smibert's illustration.." The present editor is none the wiser. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2012))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Comyn / Cumming, Buchan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cumming Comyn Buchan Clan Tartan Tartan Number: 2012. Earliest known date: pre 2003 D.C.Stewart comments, "Still further confusion has arisen from Smibert's illustration.." The present editor is none the wiser. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2012">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 G12 R2 K16 R2 K2 B2 R2 K16 R2 G12 R12 B2 K12 R2 G16 R2 K2 R2 G16 R2 K12 B/2

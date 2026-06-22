@@ -2,18 +2,20 @@
 title: "Fitzpatrick"
 date: 2023-03-18
 ---
-In pattern [WKBKBGWYWYW](/stripes/wkbkbgwywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6y2ln2y3ln11g11b2k12b3k6ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBGWYWYW](/stripes/wkbkbgwywyw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1978 — Fitzpatrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199))
-- 1991 — Fitzpatrick (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1813/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1978 — Fitzpatrick (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1199">record</a>)</li>
+<li>1991 — Fitzpatrick (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1813/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

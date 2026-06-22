@@ -2,18 +2,20 @@
 title: "Davidson"
 date: 2023-03-18
 ---
-In pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k6g1k1g6k1g6db1g1db6r1/)
+(the same proportion at any scale), whose colour order is pattern [RBGBGKGKGKR](/stripes/rbgbgkgkgkr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Davidson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Davidson Clan Tartan Tartan Number: 1332. Earliest known date: 1893 (1822) D.C.Stewart calls this sett, 'the more recent Davidson', and the basis for the Henderson tartan. It was published by his father D. W. Stewart in 1893, in a beautifully illustrated book, 'Old and Rare Scottish Tartans', in which each sample was woven in silk. This version omits the white stripe of earlier setts recorded in the Highland Society of London collection and the Moy Hall collection. Uniquely among tartans, there is a 'Half' Davidson and a 'Double' Davidson. The former being simply a reduced pattern and the latter a version woven by Wilson's of Bannockburn around 1847 in which the red and white stripes are doubled. Davidsons of Clan Dhai, as they were known, were part of Clan Chattan confederation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1332))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Davidson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Davidson Clan Tartan Tartan Number: 1332. Earliest known date: 1893 (1822) D.C.Stewart calls this sett, 'the more recent Davidson', and the basis for the Henderson tartan. It was published by his father D. W. Stewart in 1893, in a beautifully illustrated book, 'Old and Rare Scottish Tartans', in which each sample was woven in silk. This version omits the white stripe of earlier setts recorded in the Highland Society of London collection and the Moy Hall collection. Uniquely among tartans, there is a 'Half' Davidson and a 'Double' Davidson. The former being simply a reduced pattern and the latter a version woven by Wilson's of Bannockburn around 1847 in which the red and white stripes are doubled. Davidsons of Clan Dhai, as they were known, were part of Clan Chattan confederation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1332">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 K24 G4 K4 G24 K4 G24 DB4 G4 DB24 R/4

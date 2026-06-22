@@ -2,9 +2,10 @@
 title: "Colin Wesley Webster"
 date: 2023-03-18
 ---
-In pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k100p5k4p3k2g1k2p2k4p5/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10119
 

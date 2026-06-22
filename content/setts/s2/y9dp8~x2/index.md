@@ -2,9 +2,10 @@
 title: "Wilson's No.116 (light)"
 date: 2023-03-18
 ---
-In pattern [BG](/stripes/bg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9dp8/)
+(the same proportion at any scale), whose colour order is pattern [BG](/stripes/bg/).
 
-This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4682
 

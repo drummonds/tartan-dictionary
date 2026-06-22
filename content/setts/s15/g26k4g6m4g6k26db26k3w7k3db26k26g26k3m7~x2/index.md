@@ -2,9 +2,10 @@
 title: "MacRae Hunting (Wilsons)"
 date: 2023-03-18
 ---
-In pattern [GKGRGKBKWKBKGKR](/stripes/gkgrgkbkwkbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g26k4g6r4g6k26db26k3w7k3db26k26g26k3r7/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKBKWKBKGKR](/stripes/gkgrgkbkwkbkgkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2746
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacRae Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1820 — MacRae Hunting (Wilsons) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2746))
-- undated — MacRae Hunting Clan Tartan Tartan Number: 800. Earliest known date: early 19th C Wilson's specimen of this sett is housed at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=800))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1820 — MacRae Hunting (Wilsons) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2746">record</a>)</li>
+<li>undated — MacRae Hunting Clan Tartan Tartan Number: 800. Earliest known date: early 19th C Wilson's specimen of this sett is housed at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=800">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

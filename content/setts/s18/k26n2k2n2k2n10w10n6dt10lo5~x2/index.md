@@ -2,9 +2,10 @@
 title: "Collister Personal Tartan Tartan Number: 6757. Earliest known date: 2005 To commemorate the wedding of Laura Jenkins and Gary Collister in October 2005. Organised through The House of Tartan, Comrie, Perthshire and woven by D C Dalgliesh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBWBBYBBWBKBKBK](/stripes/bkbkbwbbybbwbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k26n2k2n2k2n10w10n6db10o5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBWBBYBBWBKBKBK](/stripes/bkbkbwbbybbwbkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6757
 

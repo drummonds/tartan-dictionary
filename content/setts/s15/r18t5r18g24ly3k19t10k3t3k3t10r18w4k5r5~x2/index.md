@@ -2,9 +2,10 @@
 title: "MacPherson #5"
 date: 2023-03-18
 ---
-In pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18b5r18g24y3k19b10k3b3k3b10r18ln4k5r5/)
+(the same proportion at any scale), whose colour order is pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706
 
@@ -17,16 +18,17 @@ This cloth is also recorded under:
 - MacPherson #5
 - MacPherson, Wilson's No 43
 
-## Attestations
-
-This cloth appears in 6 source records; the oldest owns this page.
-
-- 01/01/1819 — MacPherson #5 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706))
-- 1819 — MacPherson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1410/))
-- undated — Kidd, Wilson's No 43 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPherson, Wilson's No 43 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Kidd Wilson's No 43 or.. Tartan Tartan Number: 1409. Earliest known date: 1819 This eventually became known as 'Clan MacPherson' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1409))
-- undated — MacPherson (Caledonia) Clan Tartan Tartan Number: 1410. Earliest known date: 1819 Also known as 'Caledonia' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1410))
+<details class="attestations">
+<summary>6 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — MacPherson #5 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2706">record</a>)</li>
+<li>1819 — MacPherson (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1410/">record</a>)</li>
+<li>undated — Kidd, Wilson's No 43 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPherson, Wilson's No 43 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Kidd Wilson's No 43 or.. Tartan Tartan Number: 1409. Earliest known date: 1819 This eventually became known as 'Clan MacPherson' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1409">record</a>)</li>
+<li>undated — MacPherson (Caledonia) Clan Tartan Tartan Number: 1410. Earliest known date: 1819 Also known as 'Caledonia' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1410">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

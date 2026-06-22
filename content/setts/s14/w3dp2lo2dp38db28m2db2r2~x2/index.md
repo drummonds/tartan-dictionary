@@ -2,9 +2,10 @@
 title: "Gretna Gold"
 date: 2023-03-18
 ---
-In pattern [BRBBYBWBYBBRBR](/stripes/brbbybwbybbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3pa2dy2pa38dba28p2dba2r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBYBWBYBBRBR](/stripes/brbbybwbybbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1539
 

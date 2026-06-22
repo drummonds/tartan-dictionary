@@ -2,9 +2,10 @@
 title: "Orlando Fire Department (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYRBRBRBY](/stripes/byrbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12y1r16db1r1db14r3db14y1/)
+(the same proportion at any scale), whose colour order is pattern [BYRBRBRBY](/stripes/byrbrbrby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3090/
 

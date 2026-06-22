@@ -2,9 +2,10 @@
 title: "MacKenzie Dress #2"
 date: 2023-03-18
 ---
-In pattern [RKBKGKWKGKWBWBW](/stripes/rkbkgkwkgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16b3ln3b3ln3k16g13k1ln3k1g13k16b16k1r3/)
+(the same proportion at any scale), whose colour order is pattern [RKBKGKWKGKWBWBW](/stripes/rkbkgkwkgkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2525
 

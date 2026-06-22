@@ -2,9 +2,10 @@
 title: "Fermanagh County, Crest Range"
 date: 2023-03-18
 ---
-In pattern [RWKBKRKGKW](/stripes/rwkbkrkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4ln6k10db5k3o16k3g33k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [RWKBKRKGKW](/stripes/rwkbkrkgkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5856
 

@@ -2,9 +2,10 @@
 title: "Seller, Sillar"
 date: 2023-03-18
 ---
-In pattern [WKBYBYBRRBRW](/stripes/wkbybybrrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln63k4b9y2b4y2b4lt11r8b2r4ln5/)
+(the same proportion at any scale), whose colour order is pattern [WKBYBYBRRBRW](/stripes/wkbybybrrbrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

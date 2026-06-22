@@ -2,9 +2,10 @@
 title: "Waggrall (Clan)"
 date: 2023-03-18
 ---
-In pattern [RWRRWBWWWBWGYWBWYGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGYWYGGWRRWR](/stripes/rwrrwbwwwbwgywbwygwggwggwwbwbwwrrwrwrrwwbwbwwggywyggwrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra4w1r11ra2w2dp11lb4w2lb4dp11w2g4y4w1dp5w1y4g4w2dg10g4w2g4dg10w2lb2dp6w1dp6lb2w2ra2r11w1ra4w1r11ra2w2lb2dp6w1dp6lb2w2dg6g2y2w1y2g2dg6w2ra2r11w1ra4/)
+(the same proportion at any scale), whose colour order is pattern [RWRRWBWWWBWGYWBWYGWGGWGGWWBWBWWRRWRWRRWWBWBWWGGYWYGGWRRWR](/stripes/rwrrwbwwwbwgywbwygwggwggwwbwbwwrrwrwrrwwbwbwwggywyggwrrwr/).
 
-This was sourced from tartans-authority.  It is a [57 stripe tartan](/stripes/stripes57/).
+Sourced from tartans-authority.  It is a [57 stripe tartan](/stripes/stripes57/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1691/
 

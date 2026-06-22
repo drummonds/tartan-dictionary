@@ -2,18 +2,20 @@
 title: "Starrett Company, L.S. (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRYRYRYRYRYRYRYRYR](/stripes/rkrkrkryryryryryryryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r34y3r6y4r4y6r4y8r26y8r4y6r4y4r6y3r34k8n3k6n4k10n10/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRYRYRYRYRYRYRYRYR](/stripes/rkrkrkryryryryryryryryr/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7621/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- April 2008 — Starrett Company, L.S. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7621/))
-- undated — Starrett Company, L.S. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5641))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>April 2008 — Starrett Company, L.S. (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7621/">record</a>)</li>
+<li>undated — Starrett Company, L.S. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5641">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

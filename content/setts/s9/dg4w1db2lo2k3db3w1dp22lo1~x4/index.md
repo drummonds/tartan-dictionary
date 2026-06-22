@@ -2,9 +2,10 @@
 title: "Town of Petawawa"
 date: 2023-03-18
 ---
-In pattern [GWBYKBWBY](/stripes/gwbykbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4w1db2o2k3db3w1ka22o1/)
+(the same proportion at any scale), whose colour order is pattern [GWBYKBWBY](/stripes/gwbykbwby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11483
 

@@ -2,18 +2,20 @@
 title: "Reagan (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGKGKGKGKY](/stripes/kgkgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g12k3g4k3g3k36g3k2y3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGKGKY](/stripes/kgkgkgkgky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1962 — Reagan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472))
-- 1962 — Reagan (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6612/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1962 — Reagan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3472">record</a>)</li>
+<li>1962 — Reagan (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6612/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

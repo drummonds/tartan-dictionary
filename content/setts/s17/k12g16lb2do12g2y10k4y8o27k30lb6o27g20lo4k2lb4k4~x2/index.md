@@ -2,18 +2,20 @@
 title: "Le Cercle des Femmes (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGWBGGKGRKWRGYKWK](/stripes/kgwbggkgrkwrgykwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g16n2t12g2lt10k4lt8na27k30n6na27g20dy4k2n4k4/)
+(the same proportion at any scale), whose colour order is pattern [KGWBGGKGRKWRGYKWK](/stripes/kgwbggkgrkwrgykwk/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3136/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Le Cercle des Femmes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3136/))
-- undated — Les Cercles de Femme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5233))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Le Cercle des Femmes (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3136/">record</a>)</li>
+<li>undated — Les Cercles de Femme (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5233">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

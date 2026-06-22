@@ -2,9 +2,10 @@
 title: "Seattle"
 date: 2023-03-18
 ---
-In pattern [GWBRGRBWGWBRGRBWGY](/stripes/gwbrgrbwgwbrgrbwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14n1db2lr1g1lr1db2n1g4n1db2lr1g1lr1db2n1g14dy1/)
+(the same proportion at any scale), whose colour order is pattern [GWBRGRBWGWBRGRBWGY](/stripes/gwbrgrbwgwbrgrbwgy/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3757
 

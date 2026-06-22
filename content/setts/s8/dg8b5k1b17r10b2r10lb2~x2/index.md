@@ -2,9 +2,10 @@
 title: "Harrower, John Anthony (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKBRBRW](/stripes/gbkbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg8b5k1b17r10b2r10n2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBRBRW](/stripes/gbkbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11205
 

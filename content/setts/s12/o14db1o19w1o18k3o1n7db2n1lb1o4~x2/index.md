@@ -2,9 +2,10 @@
 title: "Orkney Magnus"
 date: 2023-03-18
 ---
-In pattern [RBRWRKRBBBWR](/stripes/rbrwrkrbbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb14db1nb19w1nb18k3nb1n7db2n1na1nb4/)
+(the same proportion at any scale), whose colour order is pattern [RBRWRKRBBBWR](/stripes/rbrwrkrbbbwr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11158/
 

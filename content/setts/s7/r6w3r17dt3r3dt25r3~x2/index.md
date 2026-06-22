@@ -2,18 +2,20 @@
 title: "Bon Accord"
 date: 2023-03-18
 ---
-In pattern [RBRBRWR](/stripes/rbrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6w3r17db3r3db25r3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRWR](/stripes/rbrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=307
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Bon Accord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=307))
-- Apr. 1995 — Bon Accord (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2229/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Bon Accord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=307">record</a>)</li>
+<li>Apr. 1995 — Bon Accord (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2229/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

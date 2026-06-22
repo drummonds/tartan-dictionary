@@ -2,18 +2,20 @@
 title: "Anderson of Kinnedear Red"
 date: 2023-03-18
 ---
-In pattern [BRBGBRKGKYKYKRBRBRBR](/stripes/brbgbrkgkykykrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4db6dr2db2dr4db6dr3k4dy2k2dy2k4g2k4dr22db1g2db1dr6db3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBRKGKYKYKRBRBRBR](/stripes/brbgbrkgkykykrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1993 — Anderson of Kinnedear Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189))
-- 1993 — Anderson of Kinnedear Red (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3015/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1993 — Anderson of Kinnedear Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5189">record</a>)</li>
+<li>1993 — Anderson of Kinnedear Red (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3015/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

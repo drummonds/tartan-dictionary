@@ -2,9 +2,10 @@
 title: "Erskine, Green (Dance)"
 date: 2023-03-18
 ---
-In pattern [GWGWGW](/stripes/gwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6w2g29w29g2w6/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGW](/stripes/gwgwgw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/941/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Erskine, Green
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1980 — Erskine, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/941/))
-- undated — Erskine, Green (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Erskine Green Clan Tartan Tartan Number: 941. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=941))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1980 — Erskine, Green (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/941/">record</a>)</li>
+<li>undated — Erskine, Green (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Erskine Green Clan Tartan Tartan Number: 941. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=941">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/12 W4 G58 W58 G4 W/12

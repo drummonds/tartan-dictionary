@@ -2,9 +2,10 @@
 title: "MacLeods Highlanders"
 date: 2023-03-18
 ---
-In pattern [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r2ln2r2ln2k12g11k2ln2k2g11k12db11k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BRWRWKGKWKGKBKR](/stripes/brwrwkgkwkgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacLeod's Highlanders Regimental
 - MacLeods Highlanders
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1800 — MacLeods Highlanders (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648))
-- 1800 — MacLeods Highlanders (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/581/))
-- undated — MacLeod's Highlanders (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacLeod's Highlanders Regimental Tartan Tartan Number: 581. Earliest known date: 1800 There is a strong similarity to the Pipers plaids of the 92th Regiment where the stripe is yellow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=581))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — MacLeods Highlanders (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2648">record</a>)</li>
+<li>1800 — MacLeods Highlanders (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/581/">record</a>)</li>
+<li>undated — MacLeod's Highlanders (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacLeod's Highlanders Regimental Tartan Tartan Number: 581. Earliest known date: 1800 There is a strong similarity to the Pipers plaids of the 92th Regiment where the stripe is yellow. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=581">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

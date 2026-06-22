@@ -2,9 +2,10 @@
 title: "Highland Cathedral"
 date: 2023-03-18
 ---
-In pattern [GBBBRBRBBRBBBYBBBRBBRBRBBBGR](/stripes/gbbbrbrbbrbbbybbbrbbrbrbbbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g1db22dba2p2dr1p2dr4dba1p10dr2dba20p1dba2y2/)
+(the same proportion at any scale), whose colour order is pattern [GBBBRBRBBRBBBYBBBRBBRBRBBBGR](/stripes/gbbbrbrbbrbbbybbbrbbrbrbbbgr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1707
 

@@ -2,9 +2,10 @@
 title: "Quinn (Name?)"
 date: 2023-03-18
 ---
-In pattern [GRGRGKGYGRGR](/stripes/grgrgkgygrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20ga5r5ga30y8g10k10ga30r5ga5r20g20/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKGYGRGR](/stripes/grgrgkgygrgr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6390/
 

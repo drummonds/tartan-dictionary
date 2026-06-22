@@ -2,9 +2,10 @@
 title: "Silver Thistle"
 date: 2023-03-18
 ---
-In pattern [BKBKRKRKBKBG](/stripes/bkbkrkrkbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n2k46dba20k6db3g4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKRKBKBG](/stripes/bkbkrkrkbkbg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3789
 

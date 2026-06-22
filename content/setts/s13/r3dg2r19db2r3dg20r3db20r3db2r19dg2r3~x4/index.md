@@ -2,9 +2,10 @@
 title: "Robertson Curtain"
 date: 2023-03-18
 ---
-In pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g2r19b2r3g20r3b20r3b2r19g2r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRBRGRBRGR](/stripes/rgrbrbrgrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3529
 

@@ -2,9 +2,10 @@
 title: "Buchanan, Incorrect"
 date: 2023-03-18
 ---
-In pattern [BGKBKGBGRWRBYBYG](/stripes/bgkbkgbgrwrbybyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3g1k3b3k3g1b3g1r6ln1r6b4y5b1y5g1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKGBGRWRBYBYG](/stripes/bgkbkgbgrwrbybyg/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

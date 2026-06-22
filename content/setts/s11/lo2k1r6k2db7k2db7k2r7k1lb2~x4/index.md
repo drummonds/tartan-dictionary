@@ -2,9 +2,10 @@
 title: "Mount Isla"
 date: 2023-03-18
 ---
-In pattern [WKRKBKBKRKY](/stripes/wkrkbkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2k1dr6k2db7k2db7k2dr7k1n2/)
+(the same proportion at any scale), whose colour order is pattern [WKRKBKBKRKY](/stripes/wkrkbkbkrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Mount Isla Weavers
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Mount Isla (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030))
-- pre 2002 — Mount Isla (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5654/))
-- undated — Mount Isla Weavers Tartan Tartan Number: 5654. Earliest known date: pre 2002 From D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5654))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Mount Isla (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3030">record</a>)</li>
+<li>pre 2002 — Mount Isla (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5654/">record</a>)</li>
+<li>undated — Mount Isla Weavers Tartan Tartan Number: 5654. Earliest known date: pre 2002 From D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5654">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

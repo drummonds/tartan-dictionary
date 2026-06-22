@@ -2,9 +2,10 @@
 title: "Nairn (Edinburgh Woollen Mill)"
 date: 2023-03-18
 ---
-In pattern [RGBKBKGKBKY](/stripes/rgbkbkgkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2g10db10k5b2k5g10k10b2k10dy2/)
+(the same proportion at any scale), whose colour order is pattern [RGBKBKGKBKY](/stripes/rgbkbkgkbky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3090
 

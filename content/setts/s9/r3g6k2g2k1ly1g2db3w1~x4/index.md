@@ -2,18 +2,20 @@
 title: "Bisset"
 date: 2023-03-18
 ---
-In pattern [RGKGKYGBW](/stripes/rgkgkygbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g6k2g2k1y1g2b3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKYGBW](/stripes/rgkgkygbw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Bisset (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Bisset Clan Tartan Tartan Number: 1478. Earliest known date: 1976 One of the first tartans designed by the Scottish Tartans Society for a Mrs E. Bisset, who gave the following details for the colours of the sett: The blue and white of the Bisset shield, yellow and black representing the motto, red for the 'eternal flame' and the local tartan; all on a green background. The motto of the Bissets is 'Abscissa virescit' meaning 'Cut me down and I shall grow again'. The yellow represents the wood chips from the axe and the green for the fresh new growth. Bissets are represented in the histories of prominent Scottish families through the female line. Both Chisholms and Frasers married heiress's of the Bisset family. The result being that the Bisset surname has greatly reduced in number. There is no chief of the family at present (1993) but the senior branch are the Bissets of Lessendrum in Aberdeenshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1478))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Bisset (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Bisset Clan Tartan Tartan Number: 1478. Earliest known date: 1976 One of the first tartans designed by the Scottish Tartans Society for a Mrs E. Bisset, who gave the following details for the colours of the sett: The blue and white of the Bisset shield, yellow and black representing the motto, red for the 'eternal flame' and the local tartan; all on a green background. The motto of the Bissets is 'Abscissa virescit' meaning 'Cut me down and I shall grow again'. The yellow represents the wood chips from the axe and the green for the fresh new growth. Bissets are represented in the histories of prominent Scottish families through the female line. Both Chisholms and Frasers married heiress's of the Bisset family. The result being that the Bisset surname has greatly reduced in number. There is no chief of the family at present (1993) but the senior branch are the Bissets of Lessendrum in Aberdeenshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1478">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 G24 K8 G8 K4 Y4 G8 B12 LN/4

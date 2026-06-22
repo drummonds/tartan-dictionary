@@ -2,9 +2,10 @@
 title: "Ross Hunting Clan Tartan Tartan Number: 757. Earliest known date: 1908 Adam shows the six light green stripes in his publication of 1908 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGKGKGRGR](/stripes/gggggggkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2ga4g2ga2g1ga2g3k2g2k2g12r1g2r1/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGKGKGRGR](/stripes/gggggggkgkgrgr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=757
 

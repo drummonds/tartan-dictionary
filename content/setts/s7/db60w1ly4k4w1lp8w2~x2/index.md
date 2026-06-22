@@ -2,18 +2,20 @@
 title: "Nunavut Territory (District)"
 date: 2023-03-18
 ---
-In pattern [BWYKWWW](/stripes/bwykwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60ln1y4k4ln1lp8ln2/)
+(the same proportion at any scale), whose colour order is pattern [BWYKWWW](/stripes/bwykwww/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7705/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Aug 2008 — Nunavut Territory (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7705/))
-- undated — Nunavut Territory (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5697))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Aug 2008 — Nunavut Territory (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7705/">record</a>)</li>
+<li>undated — Nunavut Territory (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5697">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

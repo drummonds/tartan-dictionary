@@ -2,9 +2,10 @@
 title: "MacLachlan"
 date: 2023-03-18
 ---
-In pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k2r2k2r2k16db16g3db16k16r16k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
-This was sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from logan-1831.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link /posts/logans-scottish-gael/
 

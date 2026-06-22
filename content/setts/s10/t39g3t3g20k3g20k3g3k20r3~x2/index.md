@@ -2,9 +2,10 @@
 title: "Dunedin Chapter (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBGKGKGKR](/stripes/bgbgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b39g3b3g20k3g20k3g3k20r3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGKGKR](/stripes/bgbgkgkgkr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3905/
 

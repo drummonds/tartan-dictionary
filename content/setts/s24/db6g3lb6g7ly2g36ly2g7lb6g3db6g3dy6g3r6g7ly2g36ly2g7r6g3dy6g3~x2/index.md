@@ -2,9 +2,10 @@
 title: "Sea Bees Regimental Tartan Tartan Number: 2197. Earliest known date: 1986 US military unit. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGWGYGYGWGBGGGRGYGYGRGGG](/stripes/bgwgygygwgbgggrgygygrggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6g3lp6g7y2g36y2g7lp6g3db6g3t6g3r6g7y2g36y2g7r6g3t6g3/)
+(the same proportion at any scale), whose colour order is pattern [BGWGYGYGWGBGGGRGYGYGRGGG](/stripes/bgwgygygwgbgggrgygygrggg/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2197
 

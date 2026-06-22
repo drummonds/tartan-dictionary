@@ -2,9 +2,10 @@
 title: "MacDonald of The Isles"
 date: 2023-03-18
 ---
-In pattern [RBKGKGKGW](/stripes/rbkgkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4g30k1g1k1g3k12db10r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKGKGKGW](/stripes/rbkgkgkgw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2374
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacDonald of the Isles
 - MacDonald of the Isles VS
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1842 — MacDonald of The Isles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2374))
-- 1842 — MacDonald of The Isles - 1842 (Fash) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1366/))
-- undated — MacDonald of the Isles (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonald of the Isles VS Clan Tartan Tartan Number: 1366. Earliest known date: 1842 The design first appeared in the Vestiarium Scoticum and is different from earlier setts attributed to the Lord of the Isles or to any of the Clan Donald branches. It is not generally regarded as a clan tartan. The Sobieski Stuart brothers who published the Vestiarium claimed to be the heirs to a manuscript once in the hands of Prince Charles Edward himself but the original was never produced for public examination. The book appears to be a curious mixture of fact and fiction in keeping with the romantic ideals of the Victorian era. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1366))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — MacDonald of The Isles (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2374">record</a>)</li>
+<li>1842 — MacDonald of The Isles - 1842 (Fash) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1366/">record</a>)</li>
+<li>undated — MacDonald of the Isles (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonald of the Isles VS Clan Tartan Tartan Number: 1366. Earliest known date: 1842 The design first appeared in the Vestiarium Scoticum and is different from earlier setts attributed to the Lord of the Isles or to any of the Clan Donald branches. It is not generally regarded as a clan tartan. The Sobieski Stuart brothers who published the Vestiarium claimed to be the heirs to a manuscript once in the hands of Prince Charles Edward himself but the original was never produced for public examination. The book appears to be a curious mixture of fact and fiction in keeping with the romantic ideals of the Victorian era. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1366">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

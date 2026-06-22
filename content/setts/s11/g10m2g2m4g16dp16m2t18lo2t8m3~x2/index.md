@@ -2,9 +2,10 @@
 title: "Commonwealth Games 1998 (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRGRGBRBYBR](/stripes/grgrgbrbybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10r2g2ra4g16p16ra2b18dy2b8ra3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBRBYBR](/stripes/grgrgbrbybr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3080/
 

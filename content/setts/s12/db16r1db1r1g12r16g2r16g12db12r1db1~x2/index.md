@@ -2,9 +2,10 @@
 title: "Fraser, Stewart of Athol"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16r1b1r1g12r16g2r16g12b12r1b1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

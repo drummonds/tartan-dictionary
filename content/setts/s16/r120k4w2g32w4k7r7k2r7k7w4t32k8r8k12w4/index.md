@@ -2,9 +2,10 @@
 title: "Chattan, Clan"
 date: 2023-03-18
 ---
-In pattern [RKWGWKRKRKWBKRKW](/stripes/rkwgwkrkrkwbkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r120k4w2g32w4y7r7k2r7y7w4b32k8r8y12w4/)
+(the same proportion at any scale), whose colour order is pattern [RKWGWKRKRKWBKRKW](/stripes/rkwgwkrkrkwbkrkw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=622
 

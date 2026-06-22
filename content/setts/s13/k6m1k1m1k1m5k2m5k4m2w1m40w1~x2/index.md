@@ -2,9 +2,10 @@
 title: "Jupiter Shop Channel Co Ltd"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6lr1k1lr1k1lr5k2lr5k4lr2w1lr40w1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRWRW](/stripes/krkrkrkrkrwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10826
 

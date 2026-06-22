@@ -2,9 +2,10 @@
 title: "Ironside (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBKBKBKBK](/stripes/bwbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40p2k6b2k2b2k10p4ln2p5/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKBKBK](/stripes/bwbkbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3990/
 

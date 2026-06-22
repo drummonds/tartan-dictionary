@@ -2,9 +2,10 @@
 title: "Akins Red Dress"
 date: 2023-03-18
 ---
-In pattern [GRGRKWKRY](/stripes/grgrkwkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6r13k13w5k13r13g5r4g6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKWKRY](/stripes/grgrkwkry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Akins Red Dress
 - Akins, Red
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1986 — Akins Red Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32))
-- 1986 — Akins Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/997/))
-- undated — Akins, Red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Akins Red Family Tartan Tartan Number: 997. Earliest known date: 1986 . See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=997))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Akins Red Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=32">record</a>)</li>
+<li>1986 — Akins Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/997/">record</a>)</li>
+<li>undated — Akins, Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Akins Red Family Tartan Tartan Number: 997. Earliest known date: 1986 . See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=997">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Nolan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGYR](/stripes/bggyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra8g19dg42dy3dr1/)
+(the same proportion at any scale), whose colour order is pattern [BGGYR](/stripes/bggyr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10542/
 

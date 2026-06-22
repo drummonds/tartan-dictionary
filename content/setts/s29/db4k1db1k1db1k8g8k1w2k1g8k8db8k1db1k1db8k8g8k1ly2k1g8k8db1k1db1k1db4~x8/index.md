@@ -2,9 +2,10 @@
 title: "Campbell"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1db1k1db1k8g8k1y2k1g8k8db8k1db1k1db8k8g8k1ln2k1g8k8db1k1db1k1db4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKBKBKGKYKGKBKBKB](/stripes/bkbkbkgkwkgkbkbkbkgkykgkbkbkb/).
 
-This was sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link /posts/logans-scottish-gael/
 

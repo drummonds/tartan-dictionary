@@ -2,9 +2,10 @@
 title: "Australian Defence Force Academy (Co"
 date: 2023-03-18
 ---
-In pattern [GKBKWKYKRBRGKBR](/stripes/gkbkwkykrbrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dba1b34dba2w2dba2y2dba2r2db8r2g2dba1b2r2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKWKYKRBRGKBR](/stripes/gkbkwkykrbrgkbr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10856/
 

@@ -2,9 +2,10 @@
 title: "Unidentified #3"
 date: 2023-03-18
 ---
-In pattern [BBKGKGGKBKGWGRGRGBGKY](/stripes/bbkgkggkbkgwgrgrgbgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p128b20k3dg6k1dg4g8k2ba5k2g70ln6g12r24g5r5g8b4g12k2y7/)
+(the same proportion at any scale), whose colour order is pattern [BBKGKGGKBKGWGRGRGBGKY](/stripes/bbkgkggkbkgwgrgrgbgky/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204))
-- undated — Annandale (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5334))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4204">record</a>)</li>
+<li>undated — Annandale (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5334">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

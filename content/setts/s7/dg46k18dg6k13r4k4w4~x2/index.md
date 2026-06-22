@@ -2,9 +2,10 @@
 title: "Page"
 date: 2023-03-18
 ---
-In pattern [GKGKRKW](/stripes/gkgkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg46k18dg6k13r4k4ln4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKRKW](/stripes/gkgkrkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Page Clan/Family
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/11/2007 — Page (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513))
-- Nov. 2007 — Page (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7468/))
-- undated — Page Clan/Family Tartan Tartan Number: 7468. Earliest known date: 2007 Designed by George Page of Quebec, Canada and Trudie Ainsworth of House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7468))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2007 — Page (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5513">record</a>)</li>
+<li>Nov. 2007 — Page (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7468/">record</a>)</li>
+<li>undated — Page Clan/Family Tartan Tartan Number: 7468. Earliest known date: 2007 Designed by George Page of Quebec, Canada and Trudie Ainsworth of House of Edgar. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7468">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

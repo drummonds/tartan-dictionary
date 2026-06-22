@@ -2,9 +2,10 @@
 title: "Rankin"
 date: 2023-03-18
 ---
-In pattern [BGRGWGRGKRBRBRBW](/stripes/bgrgwgrgkrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b36g10r2g10ln2g10r2g10k14r2b12r3b2r2b4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGWGRGKRBRBRBW](/stripes/bgrgwgrgkrbrbrbw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

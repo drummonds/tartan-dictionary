@@ -2,9 +2,10 @@
 title: "Largs District Tartan Tartan Number: 478. Earliest known date: 1981 The Largs tartan is a new design created for the town and officially adopted in 1981. There is also a dress version. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBWBGBGBGBRW](/stripes/brbwbgbgbgbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba4dr4db44ln6db5t4db3t8db3t16dba4dr22ln4/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBGBGBGBRW](/stripes/brbwbgbgbgbrw/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=478
 

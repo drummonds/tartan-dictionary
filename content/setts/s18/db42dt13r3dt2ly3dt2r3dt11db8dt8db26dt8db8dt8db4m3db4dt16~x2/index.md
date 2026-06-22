@@ -2,18 +2,20 @@
 title: "Cordiner (Boddam)"
 date: 2023-03-18
 ---
-In pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42n13r3n2y3n2r3n11db8n8db26n8db8n8db4lr3db4n16/)
+(the same proportion at any scale), whose colour order is pattern [BBRBBBBBBBBRBYBRBB](/stripes/bbrbbbbbbbbrbybrbb/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 15/10/2012 — Cordiner (Boddam) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721))
-- undated — Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10721))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>15/10/2012 — Cordiner (Boddam) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10721">record</a>)</li>
+<li>undated — Cordiner (Boddam) Name Tartan Tartan Number: 10721. Earliest known date: 22 October 2012 The designer has created a modern tartan reflecting the history and ancestry of Cordiners from Boddam, Aberdeenshire. The designer is happy for all those with the surname Cordiner to wear this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10721">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

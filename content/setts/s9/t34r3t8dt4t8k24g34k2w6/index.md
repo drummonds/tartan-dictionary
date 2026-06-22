@@ -2,9 +2,10 @@
 title: "Hogg Dress"
 date: 2023-03-18
 ---
-In pattern [BRBBBKGKW](/stripes/brbbbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b34r3b8db4b8k24g34k2w6/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBKGKW](/stripes/brbbbkgkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10079
 

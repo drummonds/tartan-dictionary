@@ -2,9 +2,10 @@
 title: "de Meuron (Family)"
 date: 2023-03-18
 ---
-In pattern [GGGGBGBGGGGG](/stripes/ggggbgbggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9ga13dg26t6dp5t40dp5t6dg26ga13g9dg3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGBGBGGGGG](/stripes/ggggbgbggggg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10576/
 

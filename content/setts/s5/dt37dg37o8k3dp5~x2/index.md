@@ -2,9 +2,10 @@
 title: "Dallard Personal Tartan Tartan Number: 7424. Earliest known date: 2007 The material was going towards a kilt for my wedding in June 2008. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRKB](/stripes/bgrkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db37g37n8k3p5/)
+(the same proportion at any scale), whose colour order is pattern [BGRKB](/stripes/bgrkb/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7424
 

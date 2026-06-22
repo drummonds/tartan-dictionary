@@ -2,18 +2,20 @@
 title: "United Colours of Scotland (Corporat"
 date: 2023-03-18
 ---
-In pattern [BWBBGBG](/stripes/bwbbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg7dba3dg7db22dba22ln3dba5/)
+(the same proportion at any scale), whose colour order is pattern [BWBBGBG](/stripes/bwbbgbg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6504/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004, December — United Colours of Scotland (Corporat (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6504/))
-- undated — United Colours of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4978))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004, December — United Colours of Scotland (Corporat (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6504/">record</a>)</li>
+<li>undated — United Colours of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4978">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

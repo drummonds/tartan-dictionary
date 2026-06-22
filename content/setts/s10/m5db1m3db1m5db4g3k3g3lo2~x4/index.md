@@ -2,18 +2,20 @@
 title: "MacGaugh (Name)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBGKGY](/stripes/rbrbrbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5db1dr3db1dr5db4g3k3g3dy2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBGKGY](/stripes/rbrbrbgkgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3370/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — MacGaugh (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3370/))
-- undated — MacGaugh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5246))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacGaugh (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3370/">record</a>)</li>
+<li>undated — MacGaugh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5246">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

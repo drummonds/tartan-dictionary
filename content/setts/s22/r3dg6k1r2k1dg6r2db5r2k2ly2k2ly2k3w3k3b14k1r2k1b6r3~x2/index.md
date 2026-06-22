@@ -2,9 +2,10 @@
 title: "Anderson (Coulson Bonner #2)"
 date: 2023-03-18
 ---
-In pattern [RBKRKBKWKYKYKRBRGKRKGR](/stripes/rbkrkbkwkykykrbrgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g6k1r2k1g6r2db5r2k2y2k2y2k3ln3k3b14k1r2k1b6r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBKWKYKYKRBRGKRKGR](/stripes/rbkrkbkwkykykrbrgkrkgr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=79
 

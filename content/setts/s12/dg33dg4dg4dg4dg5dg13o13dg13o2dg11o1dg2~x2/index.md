@@ -2,9 +2,10 @@
 title: "Highlander (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGGGGGRGRGRG](/stripes/ggggggrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg33dga4dg4dga4dg5dg13n13dgb13n2dga11n1dgc2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGRGRGRG](/stripes/ggggggrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4211/
 

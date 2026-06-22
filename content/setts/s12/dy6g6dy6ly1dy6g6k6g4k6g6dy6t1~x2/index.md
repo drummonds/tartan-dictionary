@@ -2,9 +2,10 @@
 title: "Buchanan Hunting Clan Tartan Tartan Number: 2019. Earliest known date: 1850 The Scott Adie collection, a book of manufacturers samples, was recently sold at auction. The book is dated 1850 and the samples are thought to represent the tartans available for purchase between 1840-50. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGKGKGGYGGG](/stripes/bggkgkggyggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6g6t6y1t6g6k6g4k6g6t6b1/)
+(the same proportion at any scale), whose colour order is pattern [BGGKGKGGYGGG](/stripes/bggkgkggyggg/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2019
 

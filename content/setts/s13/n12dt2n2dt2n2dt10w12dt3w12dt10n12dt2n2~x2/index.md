@@ -2,9 +2,10 @@
 title: "Grey Watch Dress (1989)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12k2n2k2n2k10ln12k3ln12k10n12k2n2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBWBWBBBB](/stripes/bbbbbbwbwbbbb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1543
 

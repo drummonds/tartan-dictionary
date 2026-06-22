@@ -2,9 +2,10 @@
 title: "Phantom"
 date: 2023-03-18
 ---
-In pattern [WKRWKRW](/stripes/wkrwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3lt10k38wa11lt6k2w3/)
+(the same proportion at any scale), whose colour order is pattern [WKRWKRW](/stripes/wkrwkrw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10050
 

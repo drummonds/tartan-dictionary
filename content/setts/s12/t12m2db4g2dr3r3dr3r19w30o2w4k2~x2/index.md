@@ -2,9 +2,10 @@
 title: "MacLean of Duart Dress Clan Tartan Tartan Number: 573. Earliest known date: pre 2003 White and Yellow are in silk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBGBRBRWRWK](/stripes/brbgbrbrwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12p2db4g2dr3r3dr3r19ln30n2ln4k2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBRBRWRWK](/stripes/brbgbrbrwrwk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=573
 

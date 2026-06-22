@@ -2,9 +2,10 @@
 title: "Danzas"
 date: 2023-03-18
 ---
-In pattern [BBBBYBY](/stripes/bbbbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db3y1db17b40db2b3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBYBY](/stripes/bbbbyby/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

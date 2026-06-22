@@ -2,18 +2,20 @@
 title: "Murtaugh"
 date: 2023-03-18
 ---
-In pattern [KRWKYKWBKBKWYYYWYYYKR](/stripes/krwkykwbkbkwyyywyyykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k4o4y2o2w2o2y2o2w2k4db3k2db24w2k2o3k3w2r4k2/)
+(the same proportion at any scale), whose colour order is pattern [KRWKYKWBKBKWYYYWYYYKR](/stripes/krwkykwbkbkwyyywyyykr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3080
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 16/10/2001 — Murtaugh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3080))
-- Oct 2001 — Murtaugh (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4022/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>16/10/2001 — Murtaugh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3080">record</a>)</li>
+<li>Oct 2001 — Murtaugh (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4022/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

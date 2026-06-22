@@ -2,9 +2,10 @@
 title: "Unidentified Coat"
 date: 2023-03-18
 ---
-In pattern [GRGRBBRBRBBRGR](/stripes/grgrbbrbrbbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6r2g2r24b1ba1r2ba12r2ba1b1r2g24r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBBRBRBBRGR](/stripes/grgrbbrbrbbrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4288
 

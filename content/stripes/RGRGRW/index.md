@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rgrgrw/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-seq">RGRGRW</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/w11r32g12r5g12r5~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RGRGRW" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

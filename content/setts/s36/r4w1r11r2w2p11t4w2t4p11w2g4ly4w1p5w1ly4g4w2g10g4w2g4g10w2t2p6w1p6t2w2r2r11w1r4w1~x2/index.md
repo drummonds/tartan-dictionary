@@ -2,9 +2,10 @@
 title: "Waggrall"
 date: 2023-03-18
 ---
-In pattern [RWRRWBBWBBWGYWBWYGWGGWGGWBBWBBWRRWRW](/stripes/rwrrwbbwbbwgywbwygwggwggwbbwbbwrrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln1ra11r2ln2p11b4ln2b4p11ln2g4y4ln1p5ln1y4g4ln2ga10g4ln2g4ga10ln2b2p6ln1p6b2ln2r2ra11ln1r4ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWRRWBBWBBWGYWBWYGWGGWGGWBBWBBWRRWRW](/stripes/rwrrwbbwbbwgywbwygwggwggwbbwbbwrrwrw/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

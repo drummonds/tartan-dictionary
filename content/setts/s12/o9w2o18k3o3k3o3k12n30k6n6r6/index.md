@@ -2,9 +2,10 @@
 title: "Urquhart (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na9ln2na18k3na3k3na3k12n30k6n6r6/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKRKRKRWR](/stripes/rbkbkrkrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4432
 

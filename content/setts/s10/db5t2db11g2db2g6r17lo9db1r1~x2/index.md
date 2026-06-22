@@ -2,9 +2,10 @@
 title: "Clarks No. 1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBGBGRYBR](/stripes/bbbgbgrybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5b2db11g2db2g6r17dy9db1r1/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBGRYBR](/stripes/bbbgbgrybr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10678/
 

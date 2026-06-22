@@ -2,9 +2,10 @@
 title: "Hose #2"
 date: 2023-03-18
 ---
-In pattern [RKRRRWRR](/stripes/rkrrrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3r3n23r3dr3r23k2r3/)
+(the same proportion at any scale), whose colour order is pattern [RKRRRWRR](/stripes/rkrrrwrr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1768
 

@@ -2,9 +2,10 @@
 title: "Commonwealth Games - 2014"
 date: 2023-03-18
 ---
-In pattern [GYBYRRRRRRR](/stripes/gybyrrrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28o18db4o18r3ra2r3ra2r3ra2r3/)
+(the same proportion at any scale), whose colour order is pattern [GYBYRRRRRRR](/stripes/gybyrrrrrrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10971/
 

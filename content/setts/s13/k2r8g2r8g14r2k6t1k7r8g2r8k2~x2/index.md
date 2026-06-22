@@ -2,9 +2,10 @@
 title: "Nicolson, MacNicol"
 date: 2023-03-18
 ---
-In pattern [KRGRGRKBKRGRK](/stripes/krgrgrkbkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r8g2r8g14r2k6b1k7r8g2r8k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGRKBKRGRK](/stripes/krgrgrkbkrgrk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Nicolson, MacNicol
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Nicolson, MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Nicolson MacNicol Clan Tartan Tartan Number: 1148. Earliest known date: 1876 Given in 'The Highlander' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1148))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Nicolson, MacNicol (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Nicolson MacNicol Clan Tartan Tartan Number: 1148. Earliest known date: 1876 Given in 'The Highlander' See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1148">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 R16 G4 R16 G28 R4 K12 B2 K14 R16 G4 R16 K/4

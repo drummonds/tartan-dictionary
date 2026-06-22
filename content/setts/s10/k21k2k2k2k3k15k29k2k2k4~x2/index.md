@@ -2,9 +2,10 @@
 title: "City of Armadale Australian District Tartan Tartan Number: 5868. Earliest known date: pre 2003 No details known. City of Armadale is in Western Australia. Strictly speaking this should not be categorised as District without documented authorisation from a local government or business body for the area concerned. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k21g2k2g2k3g15sr29g2sr2g4/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKKKKK](/stripes/kkkkkkkkkk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5868
 

@@ -2,9 +2,10 @@
 title: "Union Club of British Columbia"
 date: 2023-03-18
 ---
-In pattern [RKBWWWBKBWBY](/stripes/rkbwwwbkbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2k1na4lb4ln1lb4b4k1b4lb2b4y1/)
+(the same proportion at any scale), whose colour order is pattern [RKBWWWBKBWBY](/stripes/rkbwwwbkbwby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11481
 

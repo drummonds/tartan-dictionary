@@ -2,9 +2,10 @@
 title: "MacRae Hunting"
 date: 2023-03-18
 ---
-In pattern [GKGRGKBW](/stripes/gkgrgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k4g6r4g6k19dn22w5/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKBW](/stripes/gkgrgkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacRae Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1715 — MacRae Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744))
-- 1893 — MacRae Htg - 1893 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/803/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1715 — MacRae Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2744">record</a>)</li>
+<li>1893 — MacRae Htg - 1893 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/803/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

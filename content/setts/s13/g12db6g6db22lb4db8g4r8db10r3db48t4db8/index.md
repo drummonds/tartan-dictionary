@@ -2,9 +2,10 @@
 title: "Massachusetts - The Bay State (Dist)"
 date: 2023-03-18
 ---
-In pattern [BBBRBRGBWBGBG](/stripes/bbbrbrgbwbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12db6g6db22lr4db8g4r8db10r3db48b4db8/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRGBWBGBG](/stripes/bbbrbrgbwbgbg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2138/
 

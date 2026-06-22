@@ -2,9 +2,10 @@
 title: "Idaho, Centennial"
 date: 2023-03-18
 ---
-In pattern [BRBRBGWR](/stripes/brbrbgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12r2b2r2b2g10ln12lt3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGWR](/stripes/brbrbgwr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

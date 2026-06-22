@@ -2,9 +2,10 @@
 title: "Glenorchy - National Archives"
 date: 2023-03-18
 ---
-In pattern [BBRRGRBBRGRBRBG](/stripes/bbrrgrbbrgrbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3db2lr1db17r2g8r4b1db8r2g17r2lr1db3b1/)
+(the same proportion at any scale), whose colour order is pattern [BBRRGRBBRGRBRBG](/stripes/bbrrgrbbrgrbrbg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8713/
 

@@ -2,18 +2,20 @@
 title: "Corries"
 date: 2023-03-18
 ---
-In pattern [BBRBWB](/stripes/bbrbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28db15r2db2ln1db6/)
+(the same proportion at any scale), whose colour order is pattern [BBRBWB](/stripes/bbrbwb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=774
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Corries (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=774))
-- 2006 — Corries (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7022/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Corries (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=774">record</a>)</li>
+<li>2006 — Corries (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7022/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

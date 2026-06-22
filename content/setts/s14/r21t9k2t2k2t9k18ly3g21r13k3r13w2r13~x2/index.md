@@ -2,9 +2,10 @@
 title: "Caledonia"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKYGRKRWR](/stripes/rbkbkbkygrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r21b9k2b2k2b9k18y3g21r13k3r13w2r13/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKYGRKRWR](/stripes/rbkbkbkygrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=467
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Caledonia No 155
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1800 — Caledonia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=467))
-- undated — Caledonia No 155 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Caledonia No 155 District Tartan Tartan Number: 1356. Earliest known date: 1819 Popular in the eighteenth century and appears in a number of guises. Romantic stories are told of its origin but in reality little is known. (G.Teall). J. Scarlett asserts that Wilson's No 155 has never been named, and that Miss Margaret MacDougall was in error when she included it in Robert Bain's 'Clans and Tartans of Scotland' (1953) as Caledonia. It is included here because of its obvious family resemblance to other Caledonia setts. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1356))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Caledonia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=467">record</a>)</li>
+<li>undated — Caledonia No 155 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Caledonia No 155 District Tartan Tartan Number: 1356. Earliest known date: 1819 Popular in the eighteenth century and appears in a number of guises. Romantic stories are told of its origin but in reality little is known. (G.Teall). J. Scarlett asserts that Wilson's No 155 has never been named, and that Miss Margaret MacDougall was in error when she included it in Robert Bain's 'Clans and Tartans of Scotland' (1953) as Caledonia. It is included here because of its obvious family resemblance to other Caledonia setts. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1356">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

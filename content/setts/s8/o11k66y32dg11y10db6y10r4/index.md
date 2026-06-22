@@ -2,9 +2,10 @@
 title: "Turnbull, Dress Bruce (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGBGGGKR](/stripes/rgbgggkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o11k66n32dg11n10b6n10r4/)
+(the same proportion at any scale), whose colour order is pattern [RGBGGGKR](/stripes/rgbgggkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5327
 

@@ -2,9 +2,10 @@
 title: "Fermanagh"
 date: 2023-03-18
 ---
-In pattern [GBBGBGBGBBYBYBGBG](/stripes/gbbgbgbgbbybybgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3b20db3ga3db3ga3db3ga3db4b13y2b2y2b3g2b3ga3/)
+(the same proportion at any scale), whose colour order is pattern [GBBGBGBGBBYBYBGBG](/stripes/gbbgbgbgbbybybgbg/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

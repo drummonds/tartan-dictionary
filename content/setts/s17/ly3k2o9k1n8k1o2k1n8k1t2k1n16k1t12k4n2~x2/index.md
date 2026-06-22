@@ -2,9 +2,10 @@
 title: "Golden Glow (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKRKBKRKY](/stripes/bkbkbkbkbkrkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3k2lr9k1lp8k1lr2k1n8k1b2k1n16k1b12k4n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKRKBKRKY](/stripes/bkbkbkbkbkrkbkrky/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10291/
 

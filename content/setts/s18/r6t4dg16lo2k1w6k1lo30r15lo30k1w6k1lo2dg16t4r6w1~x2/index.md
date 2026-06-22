@@ -2,9 +2,10 @@
 title: "Westwood"
 date: 2023-03-18
 ---
-In pattern [RBGYKWKYRYKWKYGBRW](/stripes/rbgykwkyrykwkygbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b4dg16lt2k1ln6k1lt30r15lt30k1ln6k1lt2dg16b4r6ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBGYKWKYRYKWKYGBRW](/stripes/rbgykwkyrykwkygbrw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5315
 

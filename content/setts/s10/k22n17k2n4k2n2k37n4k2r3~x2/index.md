@@ -2,9 +2,10 @@
 title: "Witches' Blood, The"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k22n17k2n4k2n2k37n4k2dr3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKR](/stripes/kbkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11495
 

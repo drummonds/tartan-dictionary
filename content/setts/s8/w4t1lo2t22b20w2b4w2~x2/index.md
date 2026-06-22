@@ -2,9 +2,10 @@
 title: "Gorman Blue (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBWBBYBW](/stripes/wbwbbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b1dy2b22ba20ln2ba4ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBBYBW](/stripes/wbwbbybw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10390/
 

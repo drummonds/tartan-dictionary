@@ -2,9 +2,10 @@
 title: "Kinnoull (MacRae) - Error?"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrwrgrgrgrgrgggrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24r7g24r26k2r2k5r2k2r24k2r2k5r2k2r26w3r12db33r12w3r26g4r12g4r26g12r8g12r12g8t7g8r12g9w3g16w2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrwrgrgrgrgrgggrgwgw/).
 
-This was sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from tartans-authority.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8707/
 

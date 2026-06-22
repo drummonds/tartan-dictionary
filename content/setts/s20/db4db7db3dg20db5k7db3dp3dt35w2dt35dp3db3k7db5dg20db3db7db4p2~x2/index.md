@@ -2,9 +2,10 @@
 title: "Spirit of the Glen"
 date: 2023-03-18
 ---
-In pattern [BBBBGBKBBBWBBBKBGBBB](/stripes/bbbbgbkbbbwbbbkbgbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dbc7db3ga20db5k7db3pa3dba35ln2dba35pa3db3k7db5ga20db3dbc7db4p2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGBKBBBWBBBKBGBBB](/stripes/bbbbgbkbbbwbbbkbgbbb/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5302
 

@@ -2,9 +2,10 @@
 title: "Walter (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWYGBGBGBGYW](/stripes/rwygbgbgbgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24w3y4dg18p18g3b4/)
+(the same proportion at any scale), whose colour order is pattern [RWYGBGBGBGYW](/stripes/rwygbgbgbgyw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4488
 

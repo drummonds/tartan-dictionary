@@ -2,9 +2,10 @@
 title: "Farquharson Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKBKGYGKWKWKW](/stripes/rkbkgygkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k1n1k1n1k8g8dy2g8k8db8k1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKGYGKWKWKW](/stripes/rkbkgygkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4839/
 

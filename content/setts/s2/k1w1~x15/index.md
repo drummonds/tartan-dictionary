@@ -2,9 +2,10 @@
 title: "Shepherd"
 date: 2023-03-18
 ---
-In pattern [KW](/stripes/kw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [KW](/stripes/kw/).
 
-This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -16,12 +17,13 @@ This cloth is also recorded under:
 - Shepherd Check
 - Shepherd Historic
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Shepherd (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Shepherd Historic Tartan Tartan Number: 1253. Earliest known date: 250 A.D. The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1253))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Shepherd (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Shepherd Historic Tartan Tartan Number: 1253. Earliest known date: 250 A.D. The Falkirk Tartan. An ornamental twill weave check of natural light and dark wool was discovered at Falkirk in the neck of a jar containing Roman coins. The find is thought to have been buried about 260 A.D. The black and white check is woven today as the Shepherd tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1253">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/15 LN/15

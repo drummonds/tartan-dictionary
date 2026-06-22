@@ -3,18 +3,20 @@ title: "Murray, Mungo"
 date: 2023-03-18
 slug_full: "dy10ly4k2ly2k2ly2k2ly4r1ly2r1ly4k4ly3r7ly3r7ly1k1ly1r7ly1k1ly1r7ly1k1ly1r7ly3r7ly3k4ly4k2ly2k2ly4k4ly6k2ly6k2ly6k2ly6k2ly6k2ly6k10ly4dy1w2dy1ly2dy1w2dy1ly4k6ly1w2ly1k6ly4dy1w2dy1ly2dy1w2dy1ly4k10ly6k2ly6k2ly6k2~x2"
 ---
-In pattern [GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK](/stripes/gykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykygwgygwgykywykygwgygwgykykykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t10y4k2y2k2y2k2y4r1y2r1y4k4y3r7y3r7y1k1y1r7y1k1y1r7y1k1y1r7y3r7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4t1ln2t1y2t1ln2t1y4k6y1ln2y1k6y4t1ln2t1y2t1ln2t1y4k10y6k2y6k2y6k2/)
+(the same proportion at any scale), whose colour order is pattern [GYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYGWGYGWGYKYWYKYGWGYGWGYKYKYKYK](/stripes/gykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykygwgygwgykywykygwgygwgykykykyk/).
 
-This was sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1670 — Murray, Mungo (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078))
-- circa 1670 — Murray, Mungo (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2173/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1670 — Murray, Mungo (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3078">record</a>)</li>
+<li>circa 1670 — Murray, Mungo (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2173/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

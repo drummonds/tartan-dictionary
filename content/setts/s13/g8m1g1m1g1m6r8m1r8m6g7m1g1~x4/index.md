@@ -2,9 +2,10 @@
 title: "MacNab (Logan)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1g1r1g1r6ra8r1ra8r6g7r1g1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRRRRRGRG](/stripes/grgrgrrrrrgrg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2669
 

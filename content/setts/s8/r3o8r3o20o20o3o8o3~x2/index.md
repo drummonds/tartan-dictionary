@@ -2,9 +2,10 @@
 title: "Miyuki, House Check Tan, 1004A"
 date: 2023-03-18
 ---
-In pattern [RRRRRRRR](/stripes/rrrrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3lt8r3lt20lta20lt3lta8lta3/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRRRR](/stripes/rrrrrrrr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

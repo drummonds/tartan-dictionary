@@ -2,9 +2,10 @@
 title: "McWilliams (2014)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db15k9t3k2t14k2t3k9db13k2db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKGKBK](/stripes/bkbkgkgkgkbk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11154/
 

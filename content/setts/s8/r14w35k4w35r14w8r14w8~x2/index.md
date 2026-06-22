@@ -2,9 +2,10 @@
 title: "Clayton Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [RWKWRWRW](/stripes/rwkwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr14w35k4w35dr14w8dr14w8/)
+(the same proportion at any scale), whose colour order is pattern [RWKWRWRW](/stripes/rwkwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=670
 

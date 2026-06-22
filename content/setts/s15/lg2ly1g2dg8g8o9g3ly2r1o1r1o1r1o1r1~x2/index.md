@@ -2,9 +2,10 @@
 title: "Dixon, Clyde (Personal)"
 date: 2023-03-18
 ---
-In pattern [RRRRRRRYGRGGGYY](/stripes/rrrrrrrygrgggyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2y1g2dg8g8lt9g3y2r1lt1r1lt1r1lt1r1/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRRRYGRGGGYY](/stripes/rrrrrrrygrgggyy/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10966/
 

@@ -2,9 +2,10 @@
 title: "Dabney Red (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRBGRBR](/stripes/brbrgrgrbgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5b3r24g7db6r3g3r3g11r6db3r3b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRBGRBR](/stripes/brbrgrgrbgrbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7877/
 

@@ -2,19 +2,21 @@
 title: "Mowat"
 date: 2023-03-18
 ---
-In pattern [BKBKYGK](/stripes/bkbkygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db26k1db2k18y2g16k16/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYGK](/stripes/bkbkygk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1900 — Mowat (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034))
-- pre 2002 — Mowat (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/258/))
-- undated — Mowat Clan Tartan Tartan Number: 258. Earliest known date: 1906. Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=258))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1900 — Mowat (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3034">record</a>)</li>
+<li>pre 2002 — Mowat (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/258/">record</a>)</li>
+<li>undated — Mowat Clan Tartan Tartan Number: 258. Earliest known date: 1906. Designed for Kincardine & Deeside branch of the National Trust for Scotland. Blue is a muted sky blue. Green is a dark pine green. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=258">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

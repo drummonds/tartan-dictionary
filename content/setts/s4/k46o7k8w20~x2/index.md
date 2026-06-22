@@ -2,9 +2,10 @@
 title: "Lords, of Skye"
 date: 2023-03-18
 ---
-In pattern [KRKW](/stripes/krkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k46lt7k8ln20/)
+(the same proportion at any scale), whose colour order is pattern [KRKW](/stripes/krkw/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

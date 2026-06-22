@@ -2,9 +2,10 @@
 title: "MacNicol D"
 date: 2023-03-18
 ---
-In pattern [KRGRGRKBKRGRK](/stripes/krgrgrkbkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr10dg2dr10dg13dr2k6b2k8dr10dg2dr10k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGRKBKRGRK](/stripes/krgrgrkbkrgrk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

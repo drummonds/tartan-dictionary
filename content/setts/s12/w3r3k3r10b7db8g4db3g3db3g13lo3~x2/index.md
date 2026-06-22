@@ -2,18 +2,20 @@
 title: "Chattahoochee River"
 date: 2023-03-18
 ---
-In pattern [WRKRBBGBGBGY](/stripes/wrkrbbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3g13db3g3db3g4db8b7dr10k3dr3w3/)
+(the same proportion at any scale), whose colour order is pattern [WRKRBBGBGBGY](/stripes/wrkrbbgbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=620
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1994 — Chattahoochee River (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=620))
-- 1994 — Chattahoochee River (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2203/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1994 — Chattahoochee River (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=620">record</a>)</li>
+<li>1994 — Chattahoochee River (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2203/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

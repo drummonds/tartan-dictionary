@@ -2,9 +2,10 @@
 title: "Bartlett from El Paso, Texas"
 date: 2023-03-18
 ---
-In pattern [KWKYKYKYKWR](/stripes/kwkykykykwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3w2dn2y1dn39y1dn1n2dn1wa15dn1/)
+(the same proportion at any scale), whose colour order is pattern [KWKYKYKYKWR](/stripes/kwkykykykwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10362
 

@@ -2,9 +2,10 @@
 title: "St. Margaret Youth Group (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBGKBW](/stripes/rbrbgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr30db5dr3db33g8k3db8ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGKBW](/stripes/rbrbgkbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10441/
 

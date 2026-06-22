@@ -2,18 +2,20 @@
 title: "Rikaco Classic (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBGBRBRBR](/stripes/bbbgbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b4db1dg24db10r1db2dr5b3r2/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBRBRBR](/stripes/bbbgbrbrbr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3931/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec 2001 — Rikaco Classic (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3931/))
-- undated — Rikaco Classic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4896))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec 2001 — Rikaco Classic (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3931/">record</a>)</li>
+<li>undated — Rikaco Classic (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4896">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

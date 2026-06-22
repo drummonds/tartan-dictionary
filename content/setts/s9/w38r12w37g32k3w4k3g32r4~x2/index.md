@@ -2,9 +2,10 @@
 title: "MacDiarmid Dress"
 date: 2023-03-18
 ---
-In pattern [RGKWKGWRW](/stripes/rgkwkgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln38r12ln37g32k3ln4k3g32r4/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKGWRW](/stripes/rgkwkgwrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDiarmid, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1830 — MacDiarmid Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332))
-- pre 1830 — MacDiarmid Dress (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1486/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1830 — MacDiarmid Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2332">record</a>)</li>
+<li>pre 1830 — MacDiarmid Dress (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1486/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

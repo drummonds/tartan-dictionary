@@ -2,9 +2,10 @@
 title: "Pride of Loch Leven (Fashion?)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg8k1dg1k1dg1k4lp10w2lp10k3dg3k6dg3k6dg3k3lp10w3r4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRWRKGKGKGKRWR](/stripes/gkgkgkrwrkgkgkgkrwr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8296/
 

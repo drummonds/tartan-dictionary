@@ -2,9 +2,10 @@
 title: "Stewart/Stuart Royal (B,W. & Grey)"
 date: 2023-03-18
 ---
-In pattern [KRKRKWKWKWKWKWKWKRKR](/stripes/krkrkwkwkwkwkwkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11k16n4k4ln4k4ln19k14ln4k14ln4k14ln19k4ln4k4n4k16n11k8/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKWKWKWKWKWKWKRKR](/stripes/krkrkwkwkwkwkwkwkrkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3955
 

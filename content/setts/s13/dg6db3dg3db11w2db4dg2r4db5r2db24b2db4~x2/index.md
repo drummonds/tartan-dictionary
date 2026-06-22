@@ -2,9 +2,10 @@
 title: "Massachusetts-The Bay State"
 date: 2023-03-18
 ---
-In pattern [BBBRBRGBWBGBG](/stripes/bbbrbrgbwbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6db3g3db11ly2db4g2r4db5r2db24b2db4/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRGBWBGBG](/stripes/bbbrbrgbwbgbg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2851
 

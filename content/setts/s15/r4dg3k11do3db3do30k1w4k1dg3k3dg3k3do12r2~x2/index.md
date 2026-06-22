@@ -2,9 +2,10 @@
 title: "Trew 40th (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGKGKWKBBBKGR](/stripes/rbkgkgkwkbbbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4na3k11n3db3n30k1ln4k1na3k3na3k3n12r2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGKGKWKBBBKGR](/stripes/rbkgkgkwkbbbkgr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10033/
 

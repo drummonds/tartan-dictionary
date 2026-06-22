@@ -2,9 +2,10 @@
 title: "Clack Personal Tartan Tartan Number: 3928. Earliest known date: Unknown J M Davidson of Letchworth, England. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGBKGGGKBGBWBGBKGGGKBGG](/stripes/bggbkgggkbgbwbgbkgggkbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17dg1db2k6g2dg12g2k6db2dg1db18ln2db18dg1db2k6g2dg12g2k6db2dg1g17dba4/)
+(the same proportion at any scale), whose colour order is pattern [BGGBKGGGKBGBWBGBKGGGKBGG](/stripes/bggbkgggkbgbwbgbkgggkbgg/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3928
 

@@ -2,9 +2,10 @@
 title: "Auld Lang Syne, Grey Weavers Tartan Tartan Number: 8081. Earliest known date: pre 2007 From a woven sample from the weavers, Marton Mills. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRRRKW](/stripes/krkrkrkrrrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k2n9n3dr3k3dr3k23n10k2n6k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRRRKW](/stripes/krkrkrkrrrkw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8081
 

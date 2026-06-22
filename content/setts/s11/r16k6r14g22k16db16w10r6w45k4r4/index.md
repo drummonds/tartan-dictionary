@@ -2,9 +2,10 @@
 title: "MacDuff, dress"
 date: 2023-03-18
 ---
-In pattern [RKRGKBWRWKR](/stripes/rkrgkbwrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k6r14g22k16db16ln10r6ln45k4r4/)
+(the same proportion at any scale), whose colour order is pattern [RKRGKBWRWKR](/stripes/rkrgkbwrwkr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

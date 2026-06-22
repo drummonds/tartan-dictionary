@@ -2,9 +2,10 @@
 title: "MacAlister (Cockburn Collection 1810-20)"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r32g8r4g8r8ba8r12b1r1g18r1b1r32b1r1g18r1b1r12g6r1b1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRGRBRBRGRBRBRGRGR](/stripes/rbrgrbrgrbrbrgrbrbrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2264
 

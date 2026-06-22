@@ -2,9 +2,10 @@
 title: "State Seal of Rhode Island (Fash.)"
 date: 2023-03-18
 ---
-In pattern [RKYRYKRYRKY](/stripes/rkyrykryrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2k1n28dy6n2k10dy2n6dy14k1n2/)
+(the same proportion at any scale), whose colour order is pattern [RKYRYKRYRKY](/stripes/rkyrykryrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8653/
 

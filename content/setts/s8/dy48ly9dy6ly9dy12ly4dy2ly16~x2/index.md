@@ -2,9 +2,10 @@
 title: "Yellow Pencil"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGY](/stripes/gygygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t48y9t6y9t12y4t2y16/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGY](/stripes/gygygygy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10761
 

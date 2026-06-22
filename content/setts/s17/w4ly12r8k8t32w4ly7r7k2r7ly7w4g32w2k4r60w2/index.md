@@ -2,9 +2,10 @@
 title: "Chattan Chief Clan Tartan Tartan Number: 1851. Earliest known date: 1816 Also known as Finzean's fancy. The record of the Lord Lyon states, 'Note - this tartan is specifically for the Chief of Clan Chattan and his immediate family.' Logan descibed this sett (without the chiefs extra white line) thus: 'The Chief also wears a particular tartan of a very showy pattern.' It is illustrated by Smith in 1850. Chief of the Clan Mackintosh Sir Aeneas Mackintosh of that Ilk, acknowledged this sett as the Clan tartan in 1816. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WRKWGWYRKRYWBKRYW](/stripes/wrkwgwyrkrywbkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4y12r8k8b32ln4y7r7k2r7y7ln4g32ln2k4r60ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKWGWYRKRYWBKRYW](/stripes/wrkwgwyrkrywbkryw/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1851
 

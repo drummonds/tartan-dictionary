@@ -2,9 +2,10 @@
 title: "Lindsay Dress Red"
 date: 2023-03-18
 ---
-In pattern [GRGRGRWRW](/stripes/grgrgrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g26r3g3r3g3r11ln27r3ln5/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRWRW](/stripes/grgrgrwrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2121
 

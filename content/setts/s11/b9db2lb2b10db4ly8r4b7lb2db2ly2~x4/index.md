@@ -2,9 +2,10 @@
 title: "Healy (Name)"
 date: 2023-03-18
 ---
-In pattern [BBWBBYRBWBY](/stripes/bbwbbyrbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9db2lb2b10db4y8r4b7lb2db2y2/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBYRBWBY](/stripes/bbwbbyrbwby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6236/
 

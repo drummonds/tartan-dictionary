@@ -2,9 +2,10 @@
 title: "Unidentified, 18th C plain weave"
 date: 2023-03-18
 ---
-In pattern [BRBRGYGRBRGRBRGWRBRGRGYGRBRGRBRGWR](/stripes/brbrgygrbrgrbrgwrbrgrgygrbrgrbrgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19r2db2r20g2y1g2r2db18r2g3r2db2r22g3ln1r3db17r2g2r24g2y1g2r2db19r3g3r2db2r21g3ln1r3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGYGRBRGRBRGWRBRGRGYGRBRGRBRGWR](/stripes/brbrgygrbrgrbrgwrbrgrgygrbrgrbrgwr/).
 
-This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

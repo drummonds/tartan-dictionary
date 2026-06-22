@@ -2,9 +2,10 @@
 title: "Falkirk"
 date: 2023-03-18
 ---
-In pattern [BRYRYRBKBKBK](/stripes/bryryrbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8lt27y2r3y2lt27b22k2b4k2b4k4/)
+(the same proportion at any scale), whose colour order is pattern [BRYRYRBKBKBK](/stripes/bryryrbkbkbk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

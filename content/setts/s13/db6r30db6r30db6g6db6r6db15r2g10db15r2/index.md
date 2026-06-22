@@ -2,19 +2,21 @@
 title: "Great Dane, The"
 date: 2023-03-18
 ---
-In pattern [BRBRBGBRBRGBR](/stripes/brbrbgbrbrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dbb6dr30dbb6dr30dbb6g6dbb6dr6dbb15r2g10dbb15r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGBRBRGBR](/stripes/brbrbgbrbrgbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1520
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2006 — Great Dane, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1520))
-- pre 2006 — Great Dane, The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7213/))
-- undated — Great Dane, The Corporate Tartan Tartan Number: 7213. Earliest known date: 2006 The Great Dane (Scottish shop) in Denmark promotes Irish and Scottish pubs, cultural events and folk music. This tartan uses the business corporate colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7213))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Great Dane, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1520">record</a>)</li>
+<li>pre 2006 — Great Dane, The (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7213/">record</a>)</li>
+<li>undated — Great Dane, The Corporate Tartan Tartan Number: 7213. Earliest known date: 2006 The Great Dane (Scottish shop) in Denmark promotes Irish and Scottish pubs, cultural events and folk music. This tartan uses the business corporate colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7213">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

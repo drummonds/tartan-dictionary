@@ -2,9 +2,10 @@
 title: "Okada, Yayoi (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRRKGKGKBGR](/stripes/brrkgkgkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1lp1r5k1dg1k1dg1k5db10dg1r1/)
+(the same proportion at any scale), whose colour order is pattern [BRRKGKGKBGR](/stripes/brrkgkgkbgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11407
 

@@ -2,9 +2,10 @@
 title: "Maguire"
 date: 2023-03-18
 ---
-In pattern [GRKRBRBRKRGWK](/stripes/grkrbrbrkrgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18r18k3r3db3r3db4r3k9r4g18w6k3/)
+(the same proportion at any scale), whose colour order is pattern [GRKRBRBRKRGWK](/stripes/grkrbrbrkrgwk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2784
 

@@ -2,9 +2,10 @@
 title: "Craig Family Tartan Tartan Number: 1574. Earliest known date: 1957 MacGregor Hastie wrote, \"This tartan was designed by me to meet a long felt want. Many people have asked if there was a Craig family tartan, and as the name is not connected with any Highland clan, yet the the family name is numerous, it seemed a good idea to design one. The design is based on the general colour of craigs and rocks.\" The Craig tartan is now in general production. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKGKRKRKRRKGKRYGRKR](/stripes/rkgkrkrkrrkgkrygrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k3g2k2n2k1n3k1n2r3k1g16k1n18y1g1n2k2r1/)
+(the same proportion at any scale), whose colour order is pattern [RKGKRKRKRRKGKRYGRKR](/stripes/rkgkrkrkrrkgkrygrkr/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1574
 

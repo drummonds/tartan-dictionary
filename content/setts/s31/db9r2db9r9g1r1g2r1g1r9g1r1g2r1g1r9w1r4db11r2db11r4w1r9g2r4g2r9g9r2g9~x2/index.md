@@ -2,9 +2,10 @@
 title: "Lumsden, of Clova"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG](/stripes/brbrgrgrgrgrgrgrwrbrbrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r2g9r9g2r4g2r9ln1r4b11r2b11r4ln1r9g1r1g2r1g1r9g1r1g2r1g1r9b9r2b9/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGRGRGRGRWRBRBRWRGRGRGRG](/stripes/brbrgrgrgrgrgrgrwrbrbrwrgrgrgrg/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

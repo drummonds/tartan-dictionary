@@ -2,9 +2,10 @@
 title: "Sackett"
 date: 2023-03-18
 ---
-In pattern [KRKRKYGKGKGKGYKRKR](/stripes/krkrkygkgkgkgykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dg8k1dg8n1k8lt8k1lt8k8/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKYGKGKGKGYKRKR](/stripes/krkrkygkgkgkgykrkr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3634
 

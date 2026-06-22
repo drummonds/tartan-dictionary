@@ -2,18 +2,20 @@
 title: "Turnbull of Thornton (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRGYBW](/stripes/krgybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r3g30y10db30w3/)
+(the same proportion at any scale), whose colour order is pattern [KRGYBW](/stripes/krgybw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Turnbull of Thornton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164))
-- 1996 — Turnbull of Thornton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5087/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Turnbull of Thornton (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4164">record</a>)</li>
+<li>1996 — Turnbull of Thornton (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5087/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

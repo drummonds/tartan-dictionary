@@ -2,9 +2,10 @@
 title: "Ravetta (Name)"
 date: 2023-03-18
 ---
-In pattern [GRYBWG](/stripes/grybwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20dr10y2db100w1lg10/)
+(the same proportion at any scale), whose colour order is pattern [GRYBWG](/stripes/grybwg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10756/
 

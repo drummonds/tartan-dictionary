@@ -2,9 +2,10 @@
 title: "Hek Family (Sunningdale, Berwick on Tweed)"
 date: 2023-03-18
 ---
-In pattern [WWGKWKBWY](/stripes/wwgkwkbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1b2n15k2b2k2g12ly2b1/)
+(the same proportion at any scale), whose colour order is pattern [WWGKWKBWY](/stripes/wwgkwkbwy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10562
 

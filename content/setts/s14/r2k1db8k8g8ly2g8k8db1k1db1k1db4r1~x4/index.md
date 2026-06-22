@@ -2,9 +2,10 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k1db8k8g8y2g8k8db1k1db1k1db4r1/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKGYGKBKR](/stripes/rbkbkbkgygkbkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1149
 

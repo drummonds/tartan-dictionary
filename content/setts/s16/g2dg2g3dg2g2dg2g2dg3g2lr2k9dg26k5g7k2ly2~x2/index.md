@@ -2,19 +2,21 @@
 title: "Hanly"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGGGYKGKGKY](/stripes/gggggggggykgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2g7k5dg26k9n2g2dg3g2dg2g2dg2g3dg2g2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGGGYKGKGKY](/stripes/gggggggggykgkgky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10027
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 14/01/2009 — Hanly (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10027))
-- Jan. 2009 — Hanly (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10027/))
-- undated — Hanly Name Tartan Tartan Number: 9027. Earliest known date: 2009 About a year and a half ago Peter Hanly started looking into Hanly history and traditions and became quite interested in finding a tartan common to Hanlys. Hanly, from the Gaelic O'hAinle, has its roots in Ireland, and did not have a family tartan. Coming from Canada, and having no real connection to County Roscommon, Ireland (where the name Hanly originates) I decided to create a family tartan. The colours are based on the Hanly family coat of arms, a green shield with a silver boar passant between two silver arrows barways, the hooves, mane and arrowheads being of gold. Having had my grandfather, father and myself serve in the military (British Army, Canadian Army and Royal Canadian Airforce respectively), I have a strong connection to the military and thus tried to incorporate the thin green stripe design from the RCAF tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9027))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/01/2009 — Hanly (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10027">record</a>)</li>
+<li>Jan. 2009 — Hanly (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10027/">record</a>)</li>
+<li>undated — Hanly Name Tartan Tartan Number: 9027. Earliest known date: 2009 About a year and a half ago Peter Hanly started looking into Hanly history and traditions and became quite interested in finding a tartan common to Hanlys. Hanly, from the Gaelic O'hAinle, has its roots in Ireland, and did not have a family tartan. Coming from Canada, and having no real connection to County Roscommon, Ireland (where the name Hanly originates) I decided to create a family tartan. The colours are based on the Hanly family coat of arms, a green shield with a silver boar passant between two silver arrows barways, the hooves, mane and arrowheads being of gold. Having had my grandfather, father and myself serve in the military (British Army, Canadian Army and Royal Canadian Airforce respectively), I have a strong connection to the military and thus tried to incorporate the thin green stripe design from the RCAF tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9027">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

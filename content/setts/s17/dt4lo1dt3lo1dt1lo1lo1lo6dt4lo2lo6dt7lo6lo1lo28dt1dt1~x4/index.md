@@ -2,9 +2,10 @@
 title: "Agincourt (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBYYYBYYBYYYBYBYB](/stripes/bbyyybyybyyybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dya1db3dy1db1dy1dy1dya6db4dy2dya6db7dya6dy1dy28db1db1/)
+(the same proportion at any scale), whose colour order is pattern [BBYYYBYYBYYYBYBYB](/stripes/bbyyybyybyyybybyb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3023/
 

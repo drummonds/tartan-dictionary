@@ -2,9 +2,10 @@
 title: "Fraser of Castle Leathers, Major James"
 date: 2023-03-18
 ---
-In pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2r19n2r5n2g13n2g12n2r5n2g14n2g12n2/)
+(the same proportion at any scale), whose colour order is pattern [WGWGWRWGWGWRWRW](/stripes/wgwgwrwgwgwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1272
 

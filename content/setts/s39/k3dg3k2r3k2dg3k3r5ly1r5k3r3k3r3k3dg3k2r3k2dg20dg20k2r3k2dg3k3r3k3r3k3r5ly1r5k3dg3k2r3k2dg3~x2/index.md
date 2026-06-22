@@ -2,9 +2,10 @@
 title: "Austrian Bowhunters Hunting Corporate Tartan Tartan Number: 6460. Earliest known date: October 2004 Designed online by Andrea Egelkraut for the Austrian Bowhunters. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKRKGKRYRKRKRKGKRKGGKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkryrkrkrkgkrkggkrkgkrkrkryrkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dg3k2dr3k2dg3k3dr5y1dr5k3r3k3r3k3dg3k2dr3k2dg20dg20k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3/)
+(the same proportion at any scale), whose colour order is pattern [GKRKGKRYRKRKRKGKRKGGKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkryrkrkrkgkrkggkrkgkrkrkryrkgkrkgk/).
 
-This was sourced from house-of-tartan.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from house-of-tartan.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6460
 

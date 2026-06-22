@@ -2,9 +2,10 @@
 title: "MacRae, (Rae)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p14g3p14g14p3g3p3g14p16g3p16g14p1g1p2g1p1g14p1g1p2g1p1g14p14g3p14/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
 
-This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

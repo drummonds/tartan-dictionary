@@ -2,9 +2,10 @@
 title: "Walkers Shortbread (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKRKRBRKRKRKRKR](/stripes/rkrkrbrkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k1r2k2r16b2r2k9r2k2r2k13r2k2r4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRBRKRKRKRKR](/stripes/rkrkrbrkrkrkrkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8808/
 

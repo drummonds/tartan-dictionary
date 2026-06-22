@@ -2,9 +2,10 @@
 title: "Stirling, Weavers Guild"
 date: 2023-03-18
 ---
-In pattern [GWGRBYRBRYBRGRBYR](/stripes/gwgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r46y2b2r5g46r5b2y2r5b10r5y2b2r49g5ln5g5/)
+(the same proportion at any scale), whose colour order is pattern [GWGRBYRBRYBRGRBYR](/stripes/gwgrbyrbrybrgrbyr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stirling Weavers Guild Artifact
 - Stirling, Weavers Guild
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stirling, Weavers Guild (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stirling Weavers Guild Artifact Tartan Tartan Number: 936. Earliest known date: 1820 Similar to King George IV tartan - See Wilson letters. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=936))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stirling, Weavers Guild (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stirling Weavers Guild Artifact Tartan Tartan Number: 936. Earliest known date: 1820 Similar to King George IV tartan - See Wilson letters. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=936">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/92 Y4 B4 R10 G92 R10 B4 Y4 R10 B20 R10 Y4 B4 R98 G10 LN10 G/10

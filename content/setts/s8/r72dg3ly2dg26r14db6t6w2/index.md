@@ -2,9 +2,10 @@
 title: "Stuart/Stewart of Fingask"
 date: 2023-03-18
 ---
-In pattern [RGYGRBBW](/stripes/rgygrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r72g3y2g26r14b6ba6ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRBBW](/stripes/rgygrbbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4019
 

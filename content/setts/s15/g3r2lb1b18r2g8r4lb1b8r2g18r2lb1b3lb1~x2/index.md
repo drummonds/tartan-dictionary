@@ -2,9 +2,10 @@
 title: "Glenorchy #2"
 date: 2023-03-18
 ---
-In pattern [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r2lr1b18r2g8r4lb1b8r2g18r2lr1b3lb1/)
+(the same proportion at any scale), whose colour order is pattern [GRWBRGRWBRGRWBW](/stripes/grwbrgrwbrgrwbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1434
 

@@ -2,9 +2,10 @@
 title: "Campbell Hunting"
 date: 2023-03-18
 ---
-In pattern [BKWKYRGKGR](/stripes/bkwkyrgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4t12k12t1n12y1k3w2k1b4/)
+(the same proportion at any scale), whose colour order is pattern [BKWKYRGKGR](/stripes/bkwkyrgkgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=510
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1945 — Campbell Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=510))
-- 1945 — Campbell Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/16/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1945 — Campbell Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=510">record</a>)</li>
+<li>1945 — Campbell Htg (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/16/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

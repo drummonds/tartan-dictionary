@@ -2,9 +2,10 @@
 title: "Confederate Memorial"
 date: 2023-03-18
 ---
-In pattern [BRRRKRRWBWBW](/stripes/brrrkrrwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba12n4r4n4yy2n56r18w1dba4w3dba4w1/)
+(the same proportion at any scale), whose colour order is pattern [BRRRKRRWBWBW](/stripes/brrrkrrwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=732
 

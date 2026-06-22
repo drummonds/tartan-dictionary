@@ -2,9 +2,10 @@
 title: "Stratford, (Oregon) City of (Dist.)"
 date: 2023-03-18
 ---
-In pattern [BWBWYBGWBR](/stripes/bwbwybgwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b42ln5b1ln1dy9b1g2ln1b1r1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWYBGWBR](/stripes/bwbwybgwbr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10363/
 

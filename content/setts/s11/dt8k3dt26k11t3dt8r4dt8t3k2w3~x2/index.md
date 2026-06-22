@@ -2,18 +2,20 @@
 title: "Dublin Lie-ins (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKBBRBBKW](/stripes/bkbkbbrbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k3db26k11b3db8dr4db8b3k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBBRBBKW](/stripes/bkbkbbrbbkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7724/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec. 2008 — Dublin Lie-ins (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7724/))
-- undated — Dublin Lie-ins (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5710))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec. 2008 — Dublin Lie-ins (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7724/">record</a>)</li>
+<li>undated — Dublin Lie-ins (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5710">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

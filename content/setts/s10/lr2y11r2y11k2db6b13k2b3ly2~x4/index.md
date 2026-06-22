@@ -2,18 +2,20 @@
 title: "RAF Leuchars"
 date: 2023-03-18
 ---
-In pattern [YBKBBKGRGY](/stripes/ybkbbkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2lg11r2lg11k2ba6b13k2b3y2/)
+(the same proportion at any scale), whose colour order is pattern [YBKBBKGRGY](/stripes/ybkbbkgrgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — RAF Leuchars (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438))
-- pre 1989 — RAF Leuchars (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5443/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — RAF Leuchars (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3438">record</a>)</li>
+<li>pre 1989 — RAF Leuchars (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5443/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

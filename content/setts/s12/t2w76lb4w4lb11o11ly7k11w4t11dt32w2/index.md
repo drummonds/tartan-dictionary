@@ -2,9 +2,10 @@
 title: "Antarctic"
 date: 2023-03-18
 ---
-In pattern [BWWWWRYKWBBW](/stripes/bwwwwrykwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2ln76n4ln4n11o11y7k11ln4b11db32ln2/)
+(the same proportion at any scale), whose colour order is pattern [BWWWWRYKWBBW](/stripes/bwwwwrykwbbw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

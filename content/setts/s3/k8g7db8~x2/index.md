@@ -2,9 +2,10 @@
 title: "Glen Lyon"
 date: 2023-03-18
 ---
-In pattern [BGK](/stripes/bgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8g7b8/)
+(the same proportion at any scale), whose colour order is pattern [BGK](/stripes/bgk/).
 
-This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

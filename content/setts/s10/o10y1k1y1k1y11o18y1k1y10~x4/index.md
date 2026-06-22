@@ -2,9 +2,10 @@
 title: "Donachie of Brockloch Ancient Hunting"
 date: 2023-03-18
 ---
-In pattern [GKGRGKGKGR](/stripes/gkgrgkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o10g1k1g1k1g11o18g1k1g10/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKGKGR](/stripes/gkgrgkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6004
 

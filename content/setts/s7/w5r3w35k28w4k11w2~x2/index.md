@@ -2,9 +2,10 @@
 title: "MacPherson of Cluny (Black and White)"
 date: 2023-03-18
 ---
-In pattern [WKWKWRW](/stripes/wkwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5r3w35k28w4k11w2/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWRW](/stripes/wkwkwrw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2724
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - MacPherson, of Cluny
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1850 — MacPherson of Cluny (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2724))
-- pre 1850 — MacPherson of Cluny (B & W) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1830/))
-- undated — MacPherson, of Cluny (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPherson of Cluny Clan Tartan Tartan Number: 1830. Earliest known date: 1948 Also known as MacPherson Dress often woven with purple in place of red See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1830))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — MacPherson of Cluny (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2724">record</a>)</li>
+<li>pre 1850 — MacPherson of Cluny (B & W) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1830/">record</a>)</li>
+<li>undated — MacPherson, of Cluny (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPherson of Cluny Clan Tartan Tartan Number: 1830. Earliest known date: 1948 Also known as MacPherson Dress often woven with purple in place of red See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1830">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

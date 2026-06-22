@@ -2,9 +2,10 @@
 title: "Lochiel, (Cameron)"
 date: 2023-03-18
 ---
-In pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36y2b2r3g40r3b2y2r3b12r3y2b2r36g3dr3g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

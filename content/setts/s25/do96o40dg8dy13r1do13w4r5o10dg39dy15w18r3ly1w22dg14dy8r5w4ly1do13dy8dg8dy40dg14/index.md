@@ -2,9 +2,10 @@
 title: "Wirth, Iwan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGGRBWRRGGWRYWGGRWYBGGGG](/stripes/brggrbwrrggwrywggrwybgggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr96n40dg8t13r1dr13w4dra5n10dg39t15w18dra3y1w22dg14t8dra5w4y1dr13t8dg8t40dg14/)
+(the same proportion at any scale), whose colour order is pattern [BRGGRBWRRGGWRYWGGRWYBGGGG](/stripes/brggrbwrrggwrywggrwybgggg/).
 
-This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10963/
 

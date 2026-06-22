@@ -2,9 +2,10 @@
 title: "Jubilee, South Canterbury Centre Piping & Dancing Association"
 date: 2023-03-18
 ---
-In pattern [BBGWRWRW](/stripes/bbgwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b36ba5g5ln2r4ln2dr9ln22/)
+(the same proportion at any scale), whose colour order is pattern [BBGWRWRW](/stripes/bbgwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1912
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - South Canterbury Centre P. & D. Assoc., Jubilee
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — Jubilee, South Canterbury Centre Piping & Dancing Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1912))
-- undated — South Canterbury Centre P. & D. Assoc., Jubilee (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — Jubilee, South Canterbury Centre Piping & Dancing Association (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1912">record</a>)</li>
+<li>undated — South Canterbury Centre P. & D. Assoc., Jubilee (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Longniddry Burgundy (Dance)"
 date: 2023-03-18
 ---
-In pattern [RRWRRRWR](/stripes/rrwrrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr42lr2ln2lr2dr5r12ln32dr4/)
+(the same proportion at any scale), whose colour order is pattern [RRWRRRWR](/stripes/rrwrrrwr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Longniddry, Burgundy
 - Longniddry, dress Burgundy
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Longniddry Burgundy (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206))
-- pre 2002 — Longniddry, Burgundy (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1651/))
-- undated — Longniddry, dress Burgundy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Longniddry Burgundy (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2206">record</a>)</li>
+<li>pre 2002 — Longniddry, Burgundy (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1651/">record</a>)</li>
+<li>undated — Longniddry, dress Burgundy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

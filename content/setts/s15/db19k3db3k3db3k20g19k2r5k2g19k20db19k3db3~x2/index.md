@@ -2,18 +2,20 @@
 title: "Safeway"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19k3db3k3db3k20g19k2r5k2g19k20db19k3db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1991 — Safeway (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636))
-- pre 1997 — Safeway (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2177/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1991 — Safeway (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3636">record</a>)</li>
+<li>pre 1997 — Safeway (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2177/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

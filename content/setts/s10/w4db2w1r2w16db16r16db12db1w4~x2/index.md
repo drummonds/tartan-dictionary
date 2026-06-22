@@ -2,9 +2,10 @@
 title: "Spirit of Russia, The"
 date: 2023-03-18
 ---
-In pattern [WBBRBWRWBW](/stripes/wbbrbwrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db2w1r2w16db16r16db12dba1w4/)
+(the same proportion at any scale), whose colour order is pattern [WBBRBWRWBW](/stripes/wbbrbwrwbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10945/
 

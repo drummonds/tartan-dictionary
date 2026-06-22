@@ -2,9 +2,10 @@
 title: "Allen - 2012 (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBBGWGBBYRY](/stripes/brbrbbgwgbbyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16dra2dr3dra4dr2n12t18lb2t18n12dr12dy2dra2dy2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBBGWGBBYRY](/stripes/brbrbbgwgbbyry/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10573/
 

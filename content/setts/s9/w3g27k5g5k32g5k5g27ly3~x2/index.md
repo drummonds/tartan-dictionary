@@ -2,9 +2,10 @@
 title: "MacIver hunting"
 date: 2023-03-18
 ---
-In pattern [WGKGKGKGY](/stripes/wgkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g27k5g5k32g5k5g27ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGKGKGKGY](/stripes/wgkgkgkgy/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

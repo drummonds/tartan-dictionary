@@ -2,9 +2,10 @@
 title: "Daks - Black House Check, C.6700.06"
 date: 2023-03-18
 ---
-In pattern [RKRKY](/stripes/rkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do3k7lt4k6y3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKY](/stripes/rkrky/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

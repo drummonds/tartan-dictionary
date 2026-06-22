@@ -2,9 +2,10 @@
 title: "Unnamed C19th"
 date: 2023-03-18
 ---
-In pattern [BWBYKWRKRKRWKYBWKY](/stripes/bwbykwrkrkrwkybwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n20na2dp70dy2k13na10dr5k2dr5k2dr5na10k13dy2ka25na18k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYKWRKRKRWKYBWKY](/stripes/bwbykwrkrkrwkybwky/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4424
 

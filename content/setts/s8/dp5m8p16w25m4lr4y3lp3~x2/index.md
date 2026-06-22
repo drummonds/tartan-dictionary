@@ -2,9 +2,10 @@
 title: "Thompson, Megan Kate (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBWRYGW](/stripes/brbwrygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p5r8pa16w25r4na4n3lp3/)
+(the same proportion at any scale), whose colour order is pattern [BRBWRYGW](/stripes/brbwrygw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11522
 

@@ -2,18 +2,20 @@
 title: "Cavan, County"
 date: 2023-03-18
 ---
-In pattern [GKGKGGGKRK](/stripes/gkgkgggkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r9k4t9lt3t9k4g26k2lt3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGGGKRK](/stripes/gkgkgggkrk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Cavan, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601))
-- 1996 — Cavan, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2274/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Cavan, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=601">record</a>)</li>
+<li>1996 — Cavan, County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2274/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

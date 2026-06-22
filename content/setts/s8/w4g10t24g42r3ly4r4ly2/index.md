@@ -2,9 +2,10 @@
 title: "Muskoka Canadian Tartan Tartan Number: 1799. Earliest known date: pre 2003 A note in the Highland Society of London collection reads, 'Murray (Tullibardine) This piece of cloth was made in 1794'. The sample is woven at 54 threads to the inch. The full sett measures 15 and one quarter inches. (A. Nisbet, 1988). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGBGRYRY](/stripes/wgbgryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4g10b24g42r3y4dr4ya2/)
+(the same proportion at any scale), whose colour order is pattern [WGBGRYRY](/stripes/wgbgryry/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1799
 

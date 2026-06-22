@@ -2,19 +2,21 @@
 title: "Fernandes (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGYRRR](/stripes/gygyrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5y5g5y35dr44r3dr3/)
+(the same proportion at any scale), whose colour order is pattern [GYGYRRR](/stripes/gygyrrr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3966/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 2001 — Fernandes (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3966/))
-- undated — Fernandes (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5028))
-- undated — Fernandes Family Tartan Tartan Number: 3225. Earliest known date: 2001 Designed by Antonio Fernandes See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3225))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2001 — Fernandes (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3966/">record</a>)</li>
+<li>undated — Fernandes (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5028">record</a>)</li>
+<li>undated — Fernandes Family Tartan Tartan Number: 3225. Earliest known date: 2001 Designed by Antonio Fernandes See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3225">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

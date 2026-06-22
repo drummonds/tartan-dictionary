@@ -2,9 +2,10 @@
 title: "St Andrew"
 date: 2023-03-18
 ---
-In pattern [GBGKGWGKGKGKBW](/stripes/gbgkgwgkgkgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db20k1g2k1g2k4g1w2g1k4g16p8g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGWGKGKGKBW](/stripes/gbgkgwgkgkgkbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4822
 

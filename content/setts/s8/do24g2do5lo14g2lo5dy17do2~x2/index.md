@@ -2,9 +2,10 @@
 title: "Loch Rannoch Trade Tartan Tartan Number: 1735. Earliest known date: 1975 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBYGYGB](/stripes/bgbygygb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24g2dr5lt14g2lt5t17dr2/)
+(the same proportion at any scale), whose colour order is pattern [BGBYGYGB](/stripes/bgbygygb/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1735
 

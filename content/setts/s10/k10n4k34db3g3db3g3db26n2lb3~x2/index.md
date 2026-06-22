@@ -2,18 +2,20 @@
 title: "Dugan (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBGBGBBW](/stripes/kbkbgbgbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10na4k34db3g3db3g3db26n2ln3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGBGBBW](/stripes/kbkbgbgbbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7483/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Nov 2007 — Dugan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7483/))
-- undated — Dugan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Nov 2007 — Dugan (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7483/">record</a>)</li>
+<li>undated — Dugan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5525">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

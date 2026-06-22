@@ -2,9 +2,10 @@
 title: "Recovery"
 date: 2023-03-18
 ---
-In pattern [BKBGBGBGKGKGKGKGRBRGR](/stripes/bkbgbgbgkgkgkgkgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6yy1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2ga1r5/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBGBGKGKGKGKGRBRGR](/stripes/bkbgbgbgkgkgkgkgrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3473
 

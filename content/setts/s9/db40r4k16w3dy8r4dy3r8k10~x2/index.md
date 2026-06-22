@@ -2,9 +2,10 @@
 title: "United Arrows House Check"
 date: 2023-03-18
 ---
-In pattern [BRKWGRGRK](/stripes/brkwgrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40r4k16w3t8dr4t3dr8k10/)
+(the same proportion at any scale), whose colour order is pattern [BRKWGRGRK](/stripes/brkwgrgrk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11037/
 

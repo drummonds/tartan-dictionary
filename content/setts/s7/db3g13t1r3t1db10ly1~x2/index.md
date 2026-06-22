@@ -2,9 +2,10 @@
 title: "Heckenberg Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBRBBY](/stripes/bgbrbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3g13b1r3b1db10y1/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBBY](/stripes/bgbrbby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10637/
 

@@ -2,9 +2,10 @@
 title: "Hynde (Sir John)"
 date: 2023-03-18
 ---
-In pattern [GRGRWRWRKBW](/stripes/grgrwrwrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28dr2g28dr7n2dr7n2dr7k5p4n2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRWRWRKBW](/stripes/grgrwrwrkbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1806
 

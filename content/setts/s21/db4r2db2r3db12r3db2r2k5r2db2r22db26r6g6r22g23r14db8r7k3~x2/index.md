@@ -2,9 +2,10 @@
 title: "Murray of Tullibardine 2"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r2b2r3b12r3b2r2k5r2b2r22b26r6g6r22g23r14b8r7k3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

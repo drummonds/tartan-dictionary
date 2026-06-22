@@ -2,19 +2,21 @@
 title: "Rattray of Lude"
 date: 2023-03-18
 ---
-In pattern [KGKRBRBRGW](/stripes/kgkrbrbrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g8k4r1db8r1db1r8g1w1/)
+(the same proportion at any scale), whose colour order is pattern [KGKRBRBRGW](/stripes/kgkrbrbrgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3468
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1830 — Rattray of Lude (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3468))
-- 1830 — Rattray of Lude (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1096/))
-- undated — Rattray of Lude (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1830 — Rattray of Lude (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3468">record</a>)</li>
+<li>1830 — Rattray of Lude (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1096/">record</a>)</li>
+<li>undated — Rattray of Lude (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

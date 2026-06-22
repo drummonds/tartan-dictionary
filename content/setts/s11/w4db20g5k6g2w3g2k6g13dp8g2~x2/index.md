@@ -2,9 +2,10 @@
 title: "Bowlers (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db20g5k6g2w3g2k6g13p8g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGWGKGBW](/stripes/gbgkgwgkgbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2625/
 

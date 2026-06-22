@@ -2,9 +2,10 @@
 title: "Royal College of Surgeons of Edinburgh, The"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKRW](/stripes/bbkbkbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ba16k2ba2k2ba2k13n20w4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKRW](/stripes/bbkbkbkrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3598
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal College of Surgeons of Edinburgh, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/1998 — Royal College of Surgeons of Edinburgh, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3598))
-- 1998 — Royal College of Surgeons. . .(Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2457/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/1998 — Royal College of Surgeons of Edinburgh, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3598">record</a>)</li>
+<li>1998 — Royal College of Surgeons. . .(Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2457/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

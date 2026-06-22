@@ -2,9 +2,10 @@
 title: "Glen Orchy"
 date: 2023-03-18
 ---
-In pattern [BBRRGRBBRGRBRRG](/stripes/bbrrgrbbrgrbrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3ra2r1b18ra2g8ra4ba1b8ra2g18ra2r1b3ba1/)
+(the same proportion at any scale), whose colour order is pattern [BBRRGRBBRGRBRRG](/stripes/bbrrgrbbrgrbrrg/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "MacFarlane Hunting (MacGregor Hastie)"
 date: 2023-03-18
 ---
-In pattern [GKGWRKRWKBKRWK](/stripes/gkgwrkrwkbkrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g42k2g12w2r3k2r3w2k2dp12k4r3w4k3/)
+(the same proportion at any scale), whose colour order is pattern [GKGWRKRWKBKRWK](/stripes/gkgwrkrwkbkrwk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacFarlane Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1906 — MacFarlane Hunting (MacGregor Hastie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434))
-- 1906 — MacFarlane Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/779/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1906 — MacFarlane Hunting (MacGregor Hastie) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2434">record</a>)</li>
+<li>1906 — MacFarlane Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/779/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Michigan, State of"
 date: 2023-03-18
 ---
-In pattern [GRGYGYWGWG](/stripes/grgygywgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18w1g4w1lg4n1lg2n12dr2n4/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGYWGWG](/stripes/grgygywgwg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5384
 

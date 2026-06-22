@@ -2,9 +2,10 @@
 title: "O'Neill Clan/Family Tartan Tartan Number: 4135. Earliest known date: 1999 Designed by Linda Clifford, USA for a Timothy O'Neill but may be used by anyone of the name O'Neill and its variants. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGRGWGRGKGK](/stripes/gkgkgrgwgrgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6g5dr5g45k4t24k4g5/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGRGWGRGKGK](/stripes/gkgkgrgwgrgkgk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4135
 

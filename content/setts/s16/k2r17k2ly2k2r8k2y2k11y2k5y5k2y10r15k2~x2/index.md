@@ -2,9 +2,10 @@
 title: "Large (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRGKGKGKGKRKYKRK](/stripes/krgkgkgkgkrkykrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr17k2y2k2dr8k2g2db11g2k5g5k2g10dr15k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGKGKGKGKRKYKRK](/stripes/krgkgkgkgkrkykrk/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10016/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Large Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Large (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10016/))
-- undated — Large Personal Tartan Tartan Number: 10016. Earliest known date: Mar. 2009 A family tartan for the Large family. A wedding gift for the castle-crazy daughter who is getting married in Leeds Castle, Kent in October and to welcome her new husband to the family. Aslo for her sister who is hoping to get her own 'castle' in the near future. Restricted to weaving via The House of Tartan, Comrie, Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10016))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Large (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10016/">record</a>)</li>
+<li>undated — Large Personal Tartan Tartan Number: 10016. Earliest known date: Mar. 2009 A family tartan for the Large family. A wedding gift for the castle-crazy daughter who is getting married in Leeds Castle, Kent in October and to welcome her new husband to the family. Aslo for her sister who is hoping to get her own 'castle' in the near future. Restricted to weaving via The House of Tartan, Comrie, Perthshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10016">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 DR34 K4 Y4 K4 DR16 K4 G4 DB22 G4 K10 G10 K4 G20 DR30 K/4

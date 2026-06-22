@@ -2,9 +2,10 @@
 title: "Aguilar Pardo, Luis Alejandro (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYRYWWWK](/stripes/gyrywwwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4ly3r2ly22lb22w2lb3k2/)
+(the same proportion at any scale), whose colour order is pattern [GYRYWWWK](/stripes/gyrywwwk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pardo, Luis Alejandro Aguilar
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 16/02/2014 — Aguilar Pardo, Luis Alejandro (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147))
-- 2014 — Pardo, Luis Alejandro Aguilar (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11147/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>16/02/2014 — Aguilar Pardo, Luis Alejandro (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11147">record</a>)</li>
+<li>2014 — Pardo, Luis Alejandro Aguilar (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11147/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

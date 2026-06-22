@@ -2,9 +2,10 @@
 title: "McCann of Castlecraig (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGBKRGY](/stripes/kgbkrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db64g12n6db15dy1g5na1/)
+(the same proportion at any scale), whose colour order is pattern [KGBKRGY](/stripes/kgbkrgy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8279/
 

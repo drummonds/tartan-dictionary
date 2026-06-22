@@ -2,9 +2,10 @@
 title: "Northern Guard Supporters"
 date: 2023-03-18
 ---
-In pattern [KRKWRYKRYKRKWYKR](/stripes/krkwrykrykrkwykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dr3k1w2n1o1k25n2o2k3dr5k1w3o7k1n1/)
+(the same proportion at any scale), whose colour order is pattern [KRKWRYKRYKRKWYKR](/stripes/krkwrykrykrkwykr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11445
 

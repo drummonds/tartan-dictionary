@@ -2,9 +2,10 @@
 title: "Aberdeen"
 date: 2023-03-18
 ---
-In pattern [GWRRWRRWBWBRRWRRBWKGKWBRRWRRBWBBWBBWKGWGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW](/stripes/gwrrwrrwbwbrrwrrbwkgkwbrrwrrbwbbwbbwkgwgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwgkwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4w1r6ra3w1ra3r6w1b10w2p3r8ra3w2ra3r8p3w2k12g4k12w2p3r8ra3w2ra3r8p3w2p6b4w2b4p6w2k16g4w2g4k16w2p6b4w2b4p6w2p3r8ra3w2ra3r8p3w2k12g4k12w2p3r8ra3w2ra3r8p3w2b10w1r6ra3w1ra3r6w1g4k16w2r23ra3w2/)
+(the same proportion at any scale), whose colour order is pattern [GWRRWRRWBWBRRWRRBWKGKWBRRWRRBWBBWBBWKGWGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW](/stripes/gwrrwrrwbwbrrwrrbwkgkwbrrwrrbwbbwbbwkgwgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwgkwrrw/).
 
-This was sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
+Sourced from register-of-tartans.  It is a [82 stripe tartan](/stripes/stripes82/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=13
 

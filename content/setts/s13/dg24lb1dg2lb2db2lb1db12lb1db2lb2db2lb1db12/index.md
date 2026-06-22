@@ -2,9 +2,10 @@
 title: "MacDonald Lord of the Isles Hunting"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24n1g2n2db2n1db12n1db2n2db2n1db12/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,9 +2,10 @@
 title: "Gary Personal Tartan Tartan Number: 564. Earliest known date: 1985 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2r1k4y2k12y8k12y2k4y1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=564
 

@@ -2,9 +2,10 @@
 title: "Glens of Corbie"
 date: 2023-03-18
 ---
-In pattern [RBGRGRGGY](/stripes/rbgrgrggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3g30ga20lt6ga3lt3ga3db20r2/)
+(the same proportion at any scale), whose colour order is pattern [RBGRGRGGY](/stripes/rbgrgrggy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1436
 

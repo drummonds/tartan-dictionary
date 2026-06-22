@@ -2,9 +2,10 @@
 title: "Ryutokukan High School (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRW](/stripes/rbrbrbrbrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3dr20g2r5n2r4n2r2n4r1n20na3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRW](/stripes/rbrbrbrbrgrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10646/
 

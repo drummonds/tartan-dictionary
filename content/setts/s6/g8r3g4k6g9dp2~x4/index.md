@@ -2,9 +2,10 @@
 title: "Milton (Name?)"
 date: 2023-03-18
 ---
-In pattern [BGKGRG](/stripes/bgkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8dr3g4k6g9p2/)
+(the same proportion at any scale), whose colour order is pattern [BGKGRG](/stripes/bgkgrg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4176/
 

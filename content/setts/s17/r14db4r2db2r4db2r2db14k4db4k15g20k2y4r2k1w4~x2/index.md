@@ -2,9 +2,10 @@
 title: "Caledonian Society of P.E.I. (Corp)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r14db4r2db2r4db2r2db14k4db4k15g20k2lg4r2k1w4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBKBKGKGRKW](/stripes/rbrbrbrbkbkgkgrkw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3783/
 

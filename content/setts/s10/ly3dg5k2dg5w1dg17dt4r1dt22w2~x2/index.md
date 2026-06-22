@@ -2,9 +2,10 @@
 title: "McAvoy (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBRBGWGKGY](/stripes/wbrbgwgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g5k2g5ln1g17db4r1db22ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBRBGWGKGY](/stripes/wbrbgwgkgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - McAvoy
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1975 — McAvoy (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869))
-- 1975 — McAvoy (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6687/))
-- undated — MacAvoy Clan Tartan Tartan Number: 6687. Earliest known date: 1975 The pattern was based on an existing weave about 30 year old which had been abandoned by the Macavoy clan. James Macavoy being the only member to wear a kilt of this design in the present day (2005). The origin and design of the original is obscure. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6687))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — McAvoy (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2869">record</a>)</li>
+<li>1975 — McAvoy (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6687/">record</a>)</li>
+<li>undated — MacAvoy Clan Tartan Tartan Number: 6687. Earliest known date: 1975 The pattern was based on an existing weave about 30 year old which had been abandoned by the Macavoy clan. James Macavoy being the only member to wear a kilt of this design in the present day (2005). The origin and design of the original is obscure. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6687">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

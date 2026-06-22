@@ -2,9 +2,10 @@
 title: "Hughes (USA) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12db3b4db3k3yy36db3b2yy3b2db3yy36k3db3b4db3k12b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBKKBBKBBKKBBBK](/stripes/bkbbbkkbbkbbkkbbbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1780
 

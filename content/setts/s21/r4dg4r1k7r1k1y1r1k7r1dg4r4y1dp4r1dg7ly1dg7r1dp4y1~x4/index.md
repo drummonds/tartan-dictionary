@@ -2,9 +2,10 @@
 title: "Gordonstoun #3"
 date: 2023-03-18
 ---
-In pattern [GBRGYGRBGRGRKRGKRKRGR](/stripes/gbrgygrbgrgrkrgkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg4dr1k7dr1k1lg1dr1k7dr1dg4dr4lg1dp4dr1dg7y1dg7dr1dp4lg1/)
+(the same proportion at any scale), whose colour order is pattern [GBRGYGRBGRGRKRGKRKRGR](/stripes/gbrgygrbgrgrkrgkrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1469
 

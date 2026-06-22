@@ -2,9 +2,10 @@
 title: "Murdoch Clebration (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBRBRBKW](/stripes/kbrbrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k21db8r4db2r2db23k4ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBRBRBKW](/stripes/kbrbrbkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8441/
 

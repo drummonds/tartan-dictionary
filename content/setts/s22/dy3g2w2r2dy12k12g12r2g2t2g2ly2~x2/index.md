@@ -2,9 +2,10 @@
 title: "Arizona American District Tartan Tartan Number: 5706. Earliest known date: 1995 Designed by Phil Smith and proclaimed by Governor Symington in December 1995. Green is for the forest that covers half the state; brown for the desert; azure for copper, white for silver; yellow for gold; red for the Native Americans and the red, white and green stripes for the Mexican population. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGWRGKGRGBGYGBGRGKGRWG](/stripes/ggwrgkgrgbgygbgrgkgrwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t3ga2w2r2t12k12ga12r2ga2ba2ga2y2/)
+(the same proportion at any scale), whose colour order is pattern [GGWRGKGRGBGYGBGRGKGRWG](/stripes/ggwrgkgrgbgygbgrgkgrwg/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5706
 

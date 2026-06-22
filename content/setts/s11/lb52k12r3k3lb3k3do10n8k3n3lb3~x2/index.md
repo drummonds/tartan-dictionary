@@ -2,9 +2,10 @@
 title: "Stewart Dress, Grey #1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBKBBKWKRKW](/stripes/wbkbbkwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n52k12dr3k3n3k3na10nb8k3nb3n3/)
+(the same proportion at any scale), whose colour order is pattern [WBKBBKWKRKW](/stripes/wbkbbkwkrkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5274/
 

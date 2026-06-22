@@ -2,18 +2,20 @@
 title: "Bullman (Name)"
 date: 2023-03-18
 ---
-In pattern [GYGGGKBRBW](/stripes/gygggkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2y1g13lg2g1k12db10r1db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [GYGGGKBRBW](/stripes/gygggkbrbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3763/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1993 — Bullman (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3763/))
-- undated — Bullman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4855))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1993 — Bullman (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3763/">record</a>)</li>
+<li>undated — Bullman (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4855">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

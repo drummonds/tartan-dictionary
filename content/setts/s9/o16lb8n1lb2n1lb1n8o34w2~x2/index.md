@@ -2,9 +2,10 @@
 title: "Stuart of Bute 2013 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RWBWBWBRW](/stripes/rwbwbwbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na16lb8n1lb2n1lb1n8na34ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWBWBWBRW](/stripes/rwbwbwbrw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10777/
 

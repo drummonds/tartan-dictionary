@@ -2,9 +2,10 @@
 title: "Twisted Kilt Society"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGYYY](/stripes/gygygygyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg7n3dg1n2dg1n3dg6n1y1n2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGYYY](/stripes/gygygygyyy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11508
 

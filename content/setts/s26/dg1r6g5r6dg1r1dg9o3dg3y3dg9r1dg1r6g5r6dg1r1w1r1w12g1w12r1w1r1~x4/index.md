@@ -2,9 +2,10 @@
 title: "Maple Leaf, dress"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGGGRGRGRGRWRWGWRWR](/stripes/grgrgrgrgggrgrgrgrwrwgwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1ln1dr1ln12ga1ln12dr1ln1dr1dg1dr6ga5dr6dg1dr1dg9g3dg3lt3dg9dr1dg1dr6ga5dr6dg1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGGGRGRGRGRWRWGWRWR](/stripes/grgrgrgrgggrgrgrgrwrwgwrwr/).
 
-This was sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

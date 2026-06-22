@@ -2,9 +2,10 @@
 title: "Orman (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKKKK](/stripes/bkgkgkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10db3k3db32dg1db1dg1db2n2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKKKK](/stripes/bkgkgkkkk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10744/
 

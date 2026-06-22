@@ -2,9 +2,10 @@
 title: "MacDonald of Glenaladale - 1772 (Cla"
 date: 2023-03-18
 ---
-In pattern [KWRKRWRGRKW](/stripes/kwrkrwrgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5lp2r50db50r5w2r5g42r50db5w2/)
+(the same proportion at any scale), whose colour order is pattern [KWRKRWRGRKW](/stripes/kwrkrwrgrkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/79/
 

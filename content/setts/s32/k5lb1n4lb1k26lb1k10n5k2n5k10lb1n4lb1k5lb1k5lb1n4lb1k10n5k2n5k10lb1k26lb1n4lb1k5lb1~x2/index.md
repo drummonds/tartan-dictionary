@@ -2,9 +2,10 @@
 title: "Clergy (Logan) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n1na4n1k26n1k10na5k2na5k10n1na4n1k5n1k5n1na4n1k10na5k2na5k10n1k26n1na4n1k5n1/)
+(the same proportion at any scale), whose colour order is pattern [KWBWKWKBKBKWBWKWKWBWKBKBKWKWBWKW](/stripes/kwbwkwkbkbkwbwkwkwbwkbkbkwkwbwkw/).
 
-This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1823/
 

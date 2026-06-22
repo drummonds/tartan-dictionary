@@ -2,9 +2,10 @@
 title: "Grey Spirit Fashion Tartan Tartan Number: 6594. Earliest known date: 01/03/2005 A fashion tartan from ACS Clothing of Glasgow for use in their kilt hire business. Woven by Lochcarron. The grey is actually a grey/black marl (mixture) which can't be shown graphically. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBK](/stripes/bkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k16n6k16n45k4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6594
 

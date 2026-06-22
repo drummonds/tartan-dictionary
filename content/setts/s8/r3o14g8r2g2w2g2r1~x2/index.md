@@ -2,9 +2,10 @@
 title: "Scott, hunting"
 date: 2023-03-18
 ---
-In pattern [RGWGRGRR](/stripes/rgwgrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3t14g8r2g2ln2g2r1/)
+(the same proportion at any scale), whose colour order is pattern [RGWGRGRR](/stripes/rgwgrgrr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

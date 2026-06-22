@@ -2,9 +2,10 @@
 title: "Patel (2013)"
 date: 2023-03-18
 ---
-In pattern [GYRGGGRGW](/stripes/gyrgggrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3y2dr10dg10b20dg12r3b10w2/)
+(the same proportion at any scale), whose colour order is pattern [GYRGGGRGW](/stripes/gyrgggrgw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10924/
 

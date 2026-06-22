@@ -2,9 +2,10 @@
 title: "Smeaton (Wedding) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKRKRWRKRWRKRKYKR](/stripes/kykrkrwrkrwrkrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r4n3r44k32r3k3dy3k2r3/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKRWRKRWRKRKYKR](/stripes/kykrkrwrkrwrkrkykr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5210
 

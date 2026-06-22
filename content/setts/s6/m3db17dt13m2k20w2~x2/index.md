@@ -2,9 +2,10 @@
 title: "Commonwealth Games"
 date: 2023-03-18
 ---
-In pattern [RBBRKW](/stripes/rbbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3db17k13p2bn20w2/)
+(the same proportion at any scale), whose colour order is pattern [RBBRKW](/stripes/rbbrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4920
 

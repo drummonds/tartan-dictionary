@@ -2,9 +2,10 @@
 title: "Largs Dress (1983)"
 date: 2023-03-18
 ---
-In pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4r21b4o16b4o8b4o4ln3b6ln49r3ln4/)
+(the same proportion at any scale), whose colour order is pattern [WRBRBRBRWBWRW](/stripes/wrbrbrbrwbwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2053
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Largs, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1983 — Largs Dress (1983) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2053))
-- undated — Largs, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1983 — Largs Dress (1983) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2053">record</a>)</li>
+<li>undated — Largs, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

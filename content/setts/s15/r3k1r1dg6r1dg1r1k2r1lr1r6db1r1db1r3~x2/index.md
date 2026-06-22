@@ -2,9 +2,10 @@
 title: "Drummond C"
 date: 2023-03-18
 ---
-In pattern [RBRBRYRKRGRGRKR](/stripes/rbrbryrkrgrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3k1dr1dg6dr1dg1dr1k2dr1n1dr6db1dr1db1dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRYRKRGRGRKR](/stripes/rbrbryrkrgrgrkr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

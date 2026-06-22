@@ -2,9 +2,10 @@
 title: "Ogilvie Clan Tartan Tartan Number: 2132. Earliest known date: 1831 The most complex of all tartans. The sett given by James Logan has 91 colour changes. The tartan must be woven double width to see the full sett unless woven in silk. Ogilvie became connected with the Drummonds of Strathallan in 1812 by a marriage between the two families. Since then the Drummond sett has also been known as Ogilvie. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWKYBYGYKRKRKRKYGYKRWRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/rwkybygykrkrkrkygykrwrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln1k2y2p4y2g6y2k2r2k2r2k2r2k2y4g8y4k2r8ln2r8ln2r8k2y2g8ln2g8y2p2r4k2r14ln1db2ln1r14ln1db2ln1r14k2r4p2y4g6y2g6y4k12ln1db4ln1k12r8ln2r8ln2r8k2y2g14k4g14k4g14y2k2r8ln2r8ln2r8k2y2g8ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWKYBYGYKRKRKRKYGYKRWRWRKYGWGYBRKRWBWRWBWRKRBYGYGYKWBWKRWRWRKYGKGKGYKRWRWRKYGW](/stripes/rwkybygykrkrkrkygykrwrwrkygwgybrkrwbwrwbwrkrbygygykwbwkrwrwrkygkgkgykrwrwrkygw/).
 
-This was sourced from house-of-tartan.  It is a [78 stripe tartan](/stripes/stripes78/).
+Sourced from house-of-tartan.  It is a [78 stripe tartan](/stripes/stripes78/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2132
 

@@ -2,9 +2,10 @@
 title: "Tartan Army Corporate/Sport Tartan Tartan Number: 2389. Earliest known date: 1997 A tartan designed for the Scottish football supporters at the 1997 World Cup. The supporters were affectionately known as the Tartan Army. A strick code of conduct earned the supporters praise worldwide. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22dba2db4dba2db4dba8ln2dba2ln2dba10r5y2r5dba10ln2dba2ln2dba8db18dba2db4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/).
 
-This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2389
 

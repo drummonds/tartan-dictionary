@@ -2,9 +2,10 @@
 title: "Daks Muted blue Trade Tartan Tartan Number: 1725. Earliest known date: 1987 Submitted in 1981 as a potential Currie sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBBBYBBG](/stripes/gbbbybbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t5db12dba4lt4dba22db3dba4t5/)
+(the same proportion at any scale), whose colour order is pattern [GBBBYBBG](/stripes/gbbbybbg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1725
 

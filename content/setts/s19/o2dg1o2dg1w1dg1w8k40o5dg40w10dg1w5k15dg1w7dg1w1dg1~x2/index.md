@@ -2,9 +2,10 @@
 title: "Shepherd, Derek (Modern)"
 date: 2023-03-18
 ---
-In pattern [GWGWGKWGWGRKWGWGRGR](/stripes/gwgwgkwgwgrkwgwgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2g1o2g1ln1g1ln8k40o5g40ln10g1ln5k15g1ln7g1ln1g1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGKWGWGRKWGWGRGR](/stripes/gwgwgkwgwgrkwgwgrgr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10142
 

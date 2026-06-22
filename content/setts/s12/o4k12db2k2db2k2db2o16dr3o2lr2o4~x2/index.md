@@ -2,9 +2,10 @@
 title: "Cailean #2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKBKBKBRBRYR](/stripes/rkbkbkbrbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4n2lt2dr3lt16db2k2db2k2db2k12lta4/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKBRBRYR](/stripes/rkbkbkbrbryr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3777/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cailean #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Cailean #2 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3777/))
-- undated — Cailean (Pendleton) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5314))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Cailean #2 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3777/">record</a>)</li>
+<li>undated — Cailean (Pendleton) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5314">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

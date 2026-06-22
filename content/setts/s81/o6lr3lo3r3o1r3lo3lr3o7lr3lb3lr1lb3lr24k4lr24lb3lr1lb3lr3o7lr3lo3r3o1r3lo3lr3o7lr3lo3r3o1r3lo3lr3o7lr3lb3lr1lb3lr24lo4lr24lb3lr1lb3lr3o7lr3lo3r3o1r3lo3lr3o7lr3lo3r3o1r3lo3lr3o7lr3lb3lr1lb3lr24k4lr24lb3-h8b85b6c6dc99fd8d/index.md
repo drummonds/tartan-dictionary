@@ -3,9 +3,10 @@ title: "Unidentified Scarlett #13"
 date: 2023-03-18
 slug_full: "o6lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24lo4lr24lb3lr1lb3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lo3r3o1r3lo3lr3o7lr3lb3lr1lb3lr24k4lr24lb3lr1lb3lr3o7lr3lo3r3o1~x2"
 ---
-In pattern [RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR](/stripes/rryyrywywykywywyryyrrryyryyrrryyrywywyyywywyryyrrryyryyrrryyrywywykywywyryyrrryyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na6n3o3lr3na1lr3o3n3na7n3lb3n1lb3n24k4n24lb3n1lb3n3na7n3o3lr3na1lr3o3n3na7n3o3lr3na1lr3o3n3na7n3lb3n1lb3n24o4n24lb3n1lb3n3na7n3o3lr3na1lr3o3n3na7n3o3lr3na1lr3o3n3na7n3lb3n1lb3n24k4n24lb3n1lb3n3na7n3o3lr3na1/)
+(the same proportion at any scale), whose colour order is pattern [RRYYRYWYWYKYWYWYRYYRRRYYRYYRRRYYRYWYWYYYWYWYRYYRRRYYRYYRRRYYRYWYWYKYWYWYRYYRRRYYR](/stripes/rryyrywywykywywyryyrrryyryyrrryyrywywyyywywyryyrrryyryyrrryyrywywykywywyryyrrryyr/).
 
-This was sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4369
 

@@ -2,9 +2,10 @@
 title: "Unidentified 22"
 date: 2023-03-18
 ---
-In pattern [BGBGBRRRRRRRRWRRRRRRRRBRB](/stripes/bgbgbrrrrrrrrwrrrrrrrrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p96g10p8g8p10lt34r1lt6r4lt4r6lt2r7ln3r7lt2r6lt4r4lt6r1lt34b36lt6b18/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRRRRRRRRWRRRRRRRRBRB](/stripes/bgbgbrrrrrrrrwrrrrrrrrbrb/).
 
-This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

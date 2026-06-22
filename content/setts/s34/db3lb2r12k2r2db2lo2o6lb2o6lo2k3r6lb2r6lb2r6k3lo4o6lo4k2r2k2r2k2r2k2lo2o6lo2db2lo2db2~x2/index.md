@@ -2,9 +2,10 @@
 title: "Ogilvie"
 date: 2023-03-18
 ---
-In pattern [BWRKRBYRWRYKRWRWRKYRYKRKRKRKYRYBYB](/stripes/bwrkrbyrwrykrwrwrkyrykrkrkrkyrybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3na2r12k2r2dba2dy2nb6na2nb6dy2k3r6na2r6na2r6k3dy4nb6dy4k2r2k2r2k2r2k2dy2nb6dy2dba2dy2dba2/)
+(the same proportion at any scale), whose colour order is pattern [BWRKRBYRWRYKRWRWRKYRYKRKRKRKYRYBYB](/stripes/bwrkrbyrwrykrwrwrkyrykrkrkrkyrybyb/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3222
 

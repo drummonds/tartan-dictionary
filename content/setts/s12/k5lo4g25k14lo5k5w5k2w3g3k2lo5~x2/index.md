@@ -2,9 +2,10 @@
 title: "Heritage of Ireland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KYGKYKWKWGKY](/stripes/kygkykwkwgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5o4g25k14o5k5ln5k2ln3g3k2o5/)
+(the same proportion at any scale), whose colour order is pattern [KYGKYKWKWGKY](/stripes/kygkykwkwgky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8282/
 

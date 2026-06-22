@@ -2,9 +2,10 @@
 title: "Forget Family (Red)"
 date: 2023-03-18
 ---
-In pattern [KWKWKR](/stripes/kwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r42k2w2k18w2k5/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKR](/stripes/kwkwkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11623
 

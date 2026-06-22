@@ -2,9 +2,10 @@
 title: "Mackintosh #7"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBBWBBWGGWBBWRWBBWGGWBBWBBWBRKR](/stripes/bwbwbwbbwbbwggwbbwrwbbwggwbbwbbwbrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p7ln1p7ln1p24ln1p2b2ln1b2p2ln1dg10g3ln1p4b2ln1r3ln1b2p3ln1g3dg10ln1p2b2ln1b2p2ln1p6r16k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBBWBBWGGWBBWRWBBWGGWBBWBBWBRKR](/stripes/bwbwbwbbwbbwggwbbwrwbbwggwbbwbbwbrkr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2565
 

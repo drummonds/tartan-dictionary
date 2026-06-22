@@ -2,18 +2,20 @@
 title: "Einigkeit"
 date: 2023-03-18
 ---
-In pattern [YKRKRKRYKY](/stripes/ykrkrkryky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6k2y2r10k4r4k4r2k35y2/)
+(the same proportion at any scale), whose colour order is pattern [YKRKRKRYKY](/stripes/ykrkrkryky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10949
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 19/10/2013 — Einigkeit (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10949))
-- 2013 — Einigkeit (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10949/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>19/10/2013 — Einigkeit (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10949">record</a>)</li>
+<li>2013 — Einigkeit (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10949/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

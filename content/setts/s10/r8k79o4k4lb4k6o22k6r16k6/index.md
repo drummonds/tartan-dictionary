@@ -2,9 +2,10 @@
 title: "King Robert the Bruce Memorial (Com"
 date: 2023-03-18
 ---
-In pattern [KRKRKWKRKR](/stripes/krkrkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k79na4k4n4k6na22k6r16k6/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKWKRKR](/stripes/krkrkwkrkr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10796/
 

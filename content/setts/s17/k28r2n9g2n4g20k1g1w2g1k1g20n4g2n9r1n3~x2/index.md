@@ -2,9 +2,10 @@
 title: "Blairlogie (District)"
 date: 2023-03-18
 ---
-In pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k28r2n9g2n4g20k1g1ln2g1k1g20n4g2n9r1n3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/443/
 

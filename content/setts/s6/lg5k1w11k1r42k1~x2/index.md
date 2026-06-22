@@ -2,9 +2,10 @@
 title: "Davet (2014)"
 date: 2023-03-18
 ---
-In pattern [KRKWKY](/stripes/krkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1w11k1r42k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKY](/stripes/krkwky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10984
 

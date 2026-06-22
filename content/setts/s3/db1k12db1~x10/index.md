@@ -2,9 +2,10 @@
 title: "Staines (2013)"
 date: 2023-03-18
 ---
-In pattern [BKB](/stripes/bkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1k12b1/)
+(the same proportion at any scale), whose colour order is pattern [BKB](/stripes/bkb/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10857
 

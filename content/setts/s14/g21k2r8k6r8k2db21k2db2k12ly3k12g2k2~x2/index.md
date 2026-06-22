@@ -2,18 +2,20 @@
 title: "Deas"
 date: 2023-03-18
 ---
-In pattern [GKRKRKBKBKYKGK](/stripes/gkrkrkbkbkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21k2r8k6r8k2b21k2b2k12y3k12g2k2/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKBKBKYKGK](/stripes/gkrkrkbkbkykgk/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Deas (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Deas Clan Tartan Tartan Number: 2139. Earliest known date: pre 2003 The name Deas is described as an 'alias' for Davidson in historic records, and is a recognised sept of Clan Dhai (Davidson). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2139))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Deas (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Deas Clan Tartan Tartan Number: 2139. Earliest known date: pre 2003 The name Deas is described as an 'alias' for Davidson in historic records, and is a recognised sept of Clan Dhai (Davidson). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2139">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/42 K4 R16 K12 R16 K4 B42 K4 B4 K24 Y6 K24 G4 K/4

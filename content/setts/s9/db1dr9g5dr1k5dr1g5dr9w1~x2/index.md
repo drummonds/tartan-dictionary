@@ -2,9 +2,10 @@
 title: "Duchess of York Family Tartan Tartan Number: 607. Earliest known date: 1941 Found in sample books. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGBKBGBW](/stripes/bbgbkbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1dr9g5dr1k5dr1g5dr9ln1/)
+(the same proportion at any scale), whose colour order is pattern [BBGBKBGBW](/stripes/bbgbkbgbw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=607
 

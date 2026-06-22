@@ -2,19 +2,21 @@
 title: "Karibu"
 date: 2023-03-18
 ---
-In pattern [GWRWRWRYR](/stripes/gwrwrwryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12w1r1w4r1w1r8y2r1/)
+(the same proportion at any scale), whose colour order is pattern [GWRWRWRYR](/stripes/gwrwrwryr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 26/03/2012 — Karibu (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674))
-- 26/03/2012 — Karibu (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10674/))
-- undated — Karibu Corporate Tartan Tartan Number: 10674. Earliest known date: 15 August 2012 The colours of the Karibu tartan are those of Karibu Scotland. Karibu (meaning 'welcome' in Swahili) was set-up in 2004 by Henriette Koubakouenda in her living room in Glasgow. She saw a need to provide support to the refugees and asylum seekers arriving in Glasgow at that time as part of the Asylum Seeker's Dispersal Programme. Karibu Scotland now has over 100 members, representing 12 African countries, with premises in the Pearce Institute in the Govan area of Glasgow. The organisation runs multiple projects throughout the city to promote the confidence, skills and integration of African women. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10674))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>26/03/2012 — Karibu (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10674">record</a>)</li>
+<li>26/03/2012 — Karibu (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10674/">record</a>)</li>
+<li>undated — Karibu Corporate Tartan Tartan Number: 10674. Earliest known date: 15 August 2012 The colours of the Karibu tartan are those of Karibu Scotland. Karibu (meaning 'welcome' in Swahili) was set-up in 2004 by Henriette Koubakouenda in her living room in Glasgow. She saw a need to provide support to the refugees and asylum seekers arriving in Glasgow at that time as part of the Asylum Seeker's Dispersal Programme. Karibu Scotland now has over 100 members, representing 12 African countries, with premises in the Pearce Institute in the Govan area of Glasgow. The organisation runs multiple projects throughout the city to promote the confidence, skills and integration of African women. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10674">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

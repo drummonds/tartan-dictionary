@@ -2,9 +2,10 @@
 title: "Unidentified #19"
 date: 2023-03-18
 ---
-In pattern [BKYBBBKYBKBKRBBBKRB](/stripes/bkybbbkybkbkrbbbkrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db85r2k2db4b4db2r2k2db20k42ba20y2k2ba4bb4ba4y2k2ba83/)
+(the same proportion at any scale), whose colour order is pattern [BKYBBBKYBKBKRBBBKRB](/stripes/bkybbbkybkbkrbbbkrb/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4220
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified #19
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified #19 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4220))
-- undated — Unidentified 6 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified #19 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4220">record</a>)</li>
+<li>undated — Unidentified 6 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Unidentified #55"
 date: 2023-03-18
 ---
-In pattern [YBRYWYBRBWY](/stripes/ybrywybrbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg2db10dr3lg2n3lg2db3dr3db3n3lg2/)
+(the same proportion at any scale), whose colour order is pattern [YBRYWYBRBWY](/stripes/ybrywybrbwy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4256
 

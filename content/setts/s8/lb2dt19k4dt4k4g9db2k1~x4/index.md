@@ -2,9 +2,10 @@
 title: "Dollar Academy (1999)"
 date: 2023-03-18
 ---
-In pattern [KBGKBKBW](/stripes/kbgkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2db19k4db4k4g9dba2k1/)
+(the same proportion at any scale), whose colour order is pattern [KBGKBKBW](/stripes/kbgkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=946
 

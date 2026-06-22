@@ -2,18 +2,20 @@
 title: "Maynard"
 date: 2023-03-18
 ---
-In pattern [YRGRBWBWBRKRY](/stripes/yrgrbwbwbrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3r25k8r4db8ln2db3ln2db8r4g8r25y3/)
+(the same proportion at any scale), whose colour order is pattern [YRGRBWBWBRKRY](/stripes/yrgrbwbwbrkry/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/06/2000 — Maynard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866))
-- pre 2007 — Maynard (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7379/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/06/2000 — Maynard (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2866">record</a>)</li>
+<li>pre 2007 — Maynard (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7379/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

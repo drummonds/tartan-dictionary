@@ -2,9 +2,10 @@
 title: "Lochaber #2"
 date: 2023-03-18
 ---
-In pattern [GBBRKGRG](/stripes/gbbrkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r1g18k20r1ba18b1g2/)
+(the same proportion at any scale), whose colour order is pattern [GBBRKGRG](/stripes/gbbrkgrg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2160
 

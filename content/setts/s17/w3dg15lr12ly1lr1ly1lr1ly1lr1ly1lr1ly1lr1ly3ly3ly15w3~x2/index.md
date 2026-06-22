@@ -2,9 +2,10 @@
 title: "Green Thistle"
 date: 2023-03-18
 ---
-In pattern [WGYYYYYYYYYYYYYYW](/stripes/wgyyyyyyyyyyyyyyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3g15n12lg1n1lg1n1lg1n1lg1n1lg1n1lg3lga3lg15ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGYYYYYYYYYYYYYYW](/stripes/wgyyyyyyyyyyyyyyw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11322
 

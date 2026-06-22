@@ -2,18 +2,20 @@
 title: "Great Scot (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBRBR](/stripes/bbbbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba12b6dba52db41pa12p6pa12/)
+(the same proportion at any scale), whose colour order is pattern [BBBBRBR](/stripes/bbbbrbr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6106/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Jan 2004 — Great Scot (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6106/))
-- undated — Great Scot (Fashion) Fashion Tartan Tartan Number: 6106. Earliest known date: Jan 2004 Fashion tartan from Marton Mills of Yorkshire launched at the 2004 International Gift Fair in Glasgow. "Designed as a modern multi-purpose tartan that can be worn with pride on any occasion." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6106))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Jan 2004 — Great Scot (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6106/">record</a>)</li>
+<li>undated — Great Scot (Fashion) Fashion Tartan Tartan Number: 6106. Earliest known date: Jan 2004 Fashion tartan from Marton Mills of Yorkshire launched at the 2004 International Gift Fair in Glasgow. "Designed as a modern multi-purpose tartan that can be worn with pride on any occasion." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6106">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DBa/12 B6 DBa52 DB41 Pa12 P6 Pa/12

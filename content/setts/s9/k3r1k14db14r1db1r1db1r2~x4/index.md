@@ -2,18 +2,20 @@
 title: "Angus"
 date: 2023-03-18
 ---
-In pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dr1k14dba14dr1dba1dr1dba1dr2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBRBRBR](/stripes/krkbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — Angus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88))
-- 1880 — Angus (District/Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1179/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Angus (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=88">record</a>)</li>
+<li>1880 — Angus (District/Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1179/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

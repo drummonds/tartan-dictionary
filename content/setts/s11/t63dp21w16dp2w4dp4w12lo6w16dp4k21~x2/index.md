@@ -2,9 +2,10 @@
 title: "Xain (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBWBWBWYWBK](/stripes/bbwbwbwywbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b63p21ln16p2ln4p4ln12o6ln16p4k21/)
+(the same proportion at any scale), whose colour order is pattern [BBWBWBWYWBK](/stripes/bbwbwbwywbk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10125/
 

@@ -2,9 +2,10 @@
 title: "Newcastle"
 date: 2023-03-18
 ---
-In pattern [KWKYKYKBKW](/stripes/kwkykykbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln8k1db2k4y2k2y2k24ln8k2/)
+(the same proportion at any scale), whose colour order is pattern [KWKYKYKBKW](/stripes/kwkykykbkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3126
 

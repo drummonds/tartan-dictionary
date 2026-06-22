@@ -2,18 +2,20 @@
 title: "Nova Scotia"
 date: 2023-03-18
 ---
-In pattern [RYGGGGGBW](/stripes/rygggggbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2b20dg2g2dg2g4dg8y2r1/)
+(the same proportion at any scale), whose colour order is pattern [RYGGGGGBW](/stripes/rygggggbw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Nova Scotia (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Nova Scotia Canadian District Tartan Tartan Number: 1713. Earliest known date: 1956 Mrs Douglas Murray designed a panel for a historical display showing a shepherd tending his flock on the hills of Cape Breton. To avoid trouble amongst the clansfolk of Nova Scotia she designed a new tartan for the shepherds kilt. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1713))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Nova Scotia (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Nova Scotia Canadian District Tartan Tartan Number: 1713. Earliest known date: 1956 Mrs Douglas Murray designed a panel for a historical display showing a shepherd tending his flock on the hills of Cape Breton. To avoid trouble amongst the clansfolk of Nova Scotia she designed a new tartan for the shepherds kilt. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1713">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/4 B40 DG4 G4 DG4 G8 DG16 Y4 R/2

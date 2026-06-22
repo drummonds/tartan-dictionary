@@ -2,9 +2,10 @@
 title: "All Ireland Blue (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BWBBGBYGYGYGYWBY](/stripes/bwbbgbygygygywby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6lb2db2b30g2b2dy2ga4dy2g2dy1g18dy1lb2db2dy4/)
+(the same proportion at any scale), whose colour order is pattern [BWBBGBYGYGYGYWBY](/stripes/bwbbgbygygygywby/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4066/
 

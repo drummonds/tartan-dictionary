@@ -2,18 +2,20 @@
 title: "Diana Princess of Wales"
 date: 2023-03-18
 ---
-In pattern [GRRBRGBRR](/stripes/grrbrgbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg5r1dr4db2dr20dg12db16dr4r1/)
+(the same proportion at any scale), whose colour order is pattern [GRRBRGBRR](/stripes/grrbrgbrr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Diana Princess of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931))
-- 1997 — Diana Princess of Wales (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4683/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Diana Princess of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=931">record</a>)</li>
+<li>1997 — Diana Princess of Wales (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4683/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

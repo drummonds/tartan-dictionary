@@ -2,9 +2,10 @@
 title: "Black Water"
 date: 2023-03-18
 ---
-In pattern [BGKBKGKBGBG](/stripes/bgkbkgkbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1b6g1b2k2g1k3b1k2g6b1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKGKBGBG](/stripes/bgkbkgkbgbg/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

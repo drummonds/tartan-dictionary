@@ -2,9 +2,10 @@
 title: "St. Margaret's School Edinburgh"
 date: 2023-03-18
 ---
-In pattern [KGGKRKRKGKWGWGGKW](/stripes/kggkrkrkgkwgwggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16ga3g8k3p12k3p12k3g8k3n12g8n12g8ga3k16w3/)
+(the same proportion at any scale), whose colour order is pattern [KGGKRKRKGKWGWGGKW](/stripes/kggkrkrkgkwgwggkw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - St. Margaret's School Edinburgh
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — St. Margaret's School Edinburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900))
-- pre 2004 — St. Margaret's (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6232/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — St. Margaret's School Edinburgh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3900">record</a>)</li>
+<li>pre 2004 — St. Margaret's (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6232/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "McBrayer Dress"
 date: 2023-03-18
 ---
-In pattern [RWRGWRKW](/stripes/rwrgwrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w57k1r12w1lg12r14w1r2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGWRKW](/stripes/rwrgwrkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1982 — McBrayer Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301))
-- 1982? — McBrayer Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7205/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1982 — McBrayer Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2301">record</a>)</li>
+<li>1982? — McBrayer Dress (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7205/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

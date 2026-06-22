@@ -2,9 +2,10 @@
 title: "Sydney Academy"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBWKRBRBR](/stripes/bkbkbkbwkrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n31k4n4k4n4k4n6w5k4do3p19do3n4r3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBWKRBRBR](/stripes/bkbkbkbwkrbrbr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11245/
 

@@ -2,9 +2,10 @@
 title: "Bannockbane, Modern Silver"
 date: 2023-03-18
 ---
-In pattern [BRBRWGRG](/stripes/brbrwgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3t2n18ln10t1b18t2b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWGRG](/stripes/brbrwgrg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

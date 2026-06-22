@@ -2,9 +2,10 @@
 title: "Shapiro (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWWYWWYWYWYWYWYYWYWWYYWYWYWYWYWYWYWYWWY](/stripes/kwwywwywywywywyywywwyywywywywywywywywwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16n2lp2lg2lp10n4lg6n10lg6n10lg4n10lg4n10lg1lg1n32lg2n10lp4lg10lg4n10lg10n6lg10n6lg10n6lg10n4lg10n2lg28n3lg10lp6n4lg16/)
+(the same proportion at any scale), whose colour order is pattern [KWWYWWYWYWYWYWYYWYWWYYWYWYWYWYWYWYWYWWY](/stripes/kwwywwywywywywyywywwyywywywywywywywywwy/).
 
-This was sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4864
 

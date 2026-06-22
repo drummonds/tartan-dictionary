@@ -2,9 +2,10 @@
 title: "Forster (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRGGGYGGYGYGY](/stripes/rgrgggyggygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1t1n1t1n1t4dg1y1dg1t2dg1lr1dg20r1/)
+(the same proportion at any scale), whose colour order is pattern [RGRGGGYGGYGYGY](/stripes/rgrgggyggygygy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8506/
 

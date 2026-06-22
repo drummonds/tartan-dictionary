@@ -2,9 +2,10 @@
 title: "Wellecomme, Bernard (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGKBYGKWKW](/stripes/bgkbygkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g8k8db4y3g21k3lr4k3lr4/)
+(the same proportion at any scale), whose colour order is pattern [BGKBYGKWKW](/stripes/bgkbygkwkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11410
 

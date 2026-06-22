@@ -2,9 +2,10 @@
 title: "Campbell of Loudoun Plaid"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRGRGRBR](/stripes/brbrgrgrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db5r10g10r14g4r3db1r1db1r3db14r18db1r1db3r1db1r3db9r3db1r1db3r1db1r3db9r3db1r1db3r1db1r18db14r3db1r1db1r3g4r14g10r10db5r4db1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRBRGRGRBR](/stripes/brbrgrgrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrbrgrgrbr/).
 
-This was sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
+Sourced from register-of-tartans.  It is a [48 stripe tartan](/stripes/stripes48/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=526
 

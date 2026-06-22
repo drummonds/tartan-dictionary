@@ -2,9 +2,10 @@
 title: "Jahore District Tartan Tartan Number: 1309. Earliest known date: c.1890 [50% actual count] Reputed to have been presented to the Sultan of Jahore by Queen Victoria during his visit to Balmoral around 1890. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWGRY](/stripes/rwgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n57ln5g20n5y10/)
+(the same proportion at any scale), whose colour order is pattern [RWGRY](/stripes/rwgry/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1309
 

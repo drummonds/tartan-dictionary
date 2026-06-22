@@ -2,9 +2,10 @@
 title: "Rutledge"
 date: 2023-03-18
 ---
-In pattern [GRGKGKWKBK](/stripes/grgkgkwkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db10k2ln1k2g10k2dg10r1dg1/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGKWKBK](/stripes/grgkgkwkbk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3623
 

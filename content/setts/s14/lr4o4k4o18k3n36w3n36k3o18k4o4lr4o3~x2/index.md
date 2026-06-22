@@ -2,9 +2,10 @@
 title: "Hebridean Granite"
 date: 2023-03-18
 ---
-In pattern [RYRKRKBWBKRKRY](/stripes/ryrkrkbwbkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb4na4k4na18k3n36w3n36k3na18k4na4nb4na3/)
+(the same proportion at any scale), whose colour order is pattern [RYRKRKBWBKRKRY](/stripes/ryrkrkbwbkrkry/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1653
 

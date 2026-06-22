@@ -2,9 +2,10 @@
 title: "Haggis Hostels"
 date: 2023-03-18
 ---
-In pattern [BWBR](/stripes/bwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr10b5lr5dn4/)
+(the same proportion at any scale), whose colour order is pattern [BWBR](/stripes/bwbr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11035
 

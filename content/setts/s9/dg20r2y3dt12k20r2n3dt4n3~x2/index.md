@@ -2,9 +2,10 @@
 title: "Ithilien Heather (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRKBGRG](/stripes/bbbrkbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka20dr2g3db12k20dr2n3db4n3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRKBGRG](/stripes/bbbrkbgrg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10026
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ithilien Heather
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 12/01/2009 — Ithilien Heather (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10026))
-- undated — Ithilien Commemorative Tartan Tartan Number: 10026. Earliest known date: 2009 Based on the colours of the Black Watch. The desire to design tartan was prompted by my forthcoming wedding. The design itself is built from the favourite colours of my immediate family members. The lighter green represents my maternal grandmother, the darker green my mother, the darker blue my father and the middle of the three lighter blue lines represents my paternal grandmother, with the outer two representing my paternal grandfather (whom in his own words 'started it all'). The red represents both my maternal grandfather and my bride-to-be, and finally the black is me. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10026))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>12/01/2009 — Ithilien Heather (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10026">record</a>)</li>
+<li>undated — Ithilien Commemorative Tartan Tartan Number: 10026. Earliest known date: 2009 Based on the colours of the Black Watch. The desire to design tartan was prompted by my forthcoming wedding. The design itself is built from the favourite colours of my immediate family members. The lighter green represents my maternal grandmother, the darker green my mother, the darker blue my father and the middle of the three lighter blue lines represents my paternal grandmother, with the outer two representing my paternal grandfather (whom in his own words 'started it all'). The red represents both my maternal grandfather and my bride-to-be, and finally the black is me. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10026">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

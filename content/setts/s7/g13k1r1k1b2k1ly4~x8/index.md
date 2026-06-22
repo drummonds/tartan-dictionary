@@ -2,9 +2,10 @@
 title: "Alberta (Province)"
 date: 2023-03-18
 ---
-In pattern [GKRKBKY](/stripes/gkrkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13k1lr1k1b2k1y4/)
+(the same proportion at any scale), whose colour order is pattern [GKRKBKY](/stripes/gkrkbky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=39
 

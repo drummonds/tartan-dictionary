@@ -2,9 +2,10 @@
 title: "MacDonald of Glencoe #3"
 date: 2023-03-18
 ---
-In pattern [GRRGRGKRGRKRR](/stripes/grrgrgkrgrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1ra6g3ra40lg2db12ra6g30ra3db2r1ra6/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRGKRGRKRR](/stripes/grrgrgkrgrkrr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDonald of Glencoe #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1800 — MacDonald of Glencoe #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361))
-- c1950 — MacDonald of Glencoe - 1950 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1012/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — MacDonald of Glencoe #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2361">record</a>)</li>
+<li>c1950 — MacDonald of Glencoe - 1950 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1012/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

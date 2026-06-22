@@ -2,9 +2,10 @@
 title: "Earthrise"
 date: 2023-03-18
 ---
-In pattern [KBKRBRKBKBBW](/stripes/kbkrbrkbkbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n6k4na4n29na6k64db10k4db6b4w2/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBRKBKBBW](/stripes/kbkrbrkbkbbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10983/
 

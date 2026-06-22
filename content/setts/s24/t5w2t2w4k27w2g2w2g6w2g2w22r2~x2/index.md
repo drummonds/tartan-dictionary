@@ -2,9 +2,10 @@
 title: "Wiseman, Robert"
 date: 2023-03-18
 ---
-In pattern [BWBWKWGWGWGWRWGWGWGWKWBW](/stripes/bwbwkwgwgwgwrwgwgwgwkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5ln2b2ln4k27ln2g2ln2g6ln2g2ln22dr2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWKWGWGWGWRWGWGWGWKWBW](/stripes/bwbwkwgwgwgwrwgwgwgwkwbw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4767
 

@@ -2,9 +2,10 @@
 title: "Sandilands-Watson (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBBBGGGGGGGKBBBK](/stripes/bkbbbgggggggkbbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2db2p2db2dg16n1dg2n3dg2n1dg16k20db2p2db2k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBGGGGGGGKBBBK](/stripes/bkbbbgggggggkbbbk/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11551
 

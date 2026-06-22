@@ -2,9 +2,10 @@
 title: "Proctor"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBKGY](/stripes/gkgkgkbkwkbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g78k4g4k4g4k6b26k4w8k4b26k6g48y3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBKGY](/stripes/gkgkgkbkwkbkgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10015
 

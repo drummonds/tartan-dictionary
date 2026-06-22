@@ -2,9 +2,10 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-In pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6w1r24db6g2db1g2db1g12r1/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Chisholm, The
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1842 — Chisholm (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638))
-- 1842 — Chisholm - 1842 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1454/))
-- undated — Chisholm, The (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Chisholm (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=638">record</a>)</li>
+<li>1842 — Chisholm - 1842 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1454/">record</a>)</li>
+<li>undated — Chisholm, The (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Ritch (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RWRWRWWWBWBWWWGGWGGWRWRWGWGYGWWWWWGYGWGWRWRWBWWYWGWYWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggwrwrwgwgygwwwwwgygwgwrwrwbwwywgwywwbwrwwwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6w2r3w2r20w2lb6w2dp10w2dp10w2lb6w2dg10g4w2g4dg10w2r14w2r14w2dg3w2dg2y2dg2w2lb4w2lb4w2dg2y2dg2w2dg3w2r14w2r14w2dp10lb2w2y4w2g4w2y4w2lb2dp10w2r20w2lb6w2r14w1/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWWWBWBWWWGGWGGWRWRWGWGYGWWWWWGYGWGWRWRWBWWYWGWYWWBWRWWWRW](/stripes/rwrwrwwwbwbwwwggwggwrwrwgwgygwwwwwgygwgwrwrwbwwywgwywwbwrwwwrw/).
 
-This was sourced from tartans-authority.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from tartans-authority.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1698/
 

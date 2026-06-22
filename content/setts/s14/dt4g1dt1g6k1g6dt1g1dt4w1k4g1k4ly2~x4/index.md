@@ -2,9 +2,10 @@
 title: "MacAlpine"
 date: 2023-03-18
 ---
-In pattern [BGBGKGBGBWKGKY](/stripes/bgbgkgbgbwkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g1db1g6k1g6db1g1db4ln1k4g1k4y2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGBGBWKGKY](/stripes/bgbgkgbgbwkgky/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

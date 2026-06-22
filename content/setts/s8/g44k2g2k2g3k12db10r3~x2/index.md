@@ -2,9 +2,10 @@
 title: "Celtic (New) Corporate Sport Tartan Tartan Number: 2232. Earliest known date: 1842 Should have a white line (?). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBR](/stripes/gkgkgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44k2g2k2g3k12db10r3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBR](/stripes/gkgkgkbr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2232
 

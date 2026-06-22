@@ -2,9 +2,10 @@
 title: "Mayo Irish County Tartan Tartan Number: 2270. Earliest known date: 1994 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGRBGK](/stripes/gygrbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g16db11dr16g25y2b3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBGK](/stripes/gygrbgk/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2270
 

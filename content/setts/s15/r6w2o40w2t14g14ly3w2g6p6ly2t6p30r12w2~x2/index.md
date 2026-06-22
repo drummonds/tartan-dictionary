@@ -2,9 +2,10 @@
 title: "Stuart / Stewart, Plaid"
 date: 2023-03-18
 ---
-In pattern [RWRWBGYWGBYBBRW](/stripes/rwrwbgywgbybbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2t40ln2b14g14y3ln2g6p6y2b6p30r12ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWBGYWGBYBBRW](/stripes/rwrwbgywgbybbrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

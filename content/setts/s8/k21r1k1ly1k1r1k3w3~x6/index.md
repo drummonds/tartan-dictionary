@@ -2,18 +2,20 @@
 title: "Black Country (District)"
 date: 2023-03-18
 ---
-In pattern [KRKYKRKW](/stripes/krkykrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k21r1k1y1k1r1k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKRKW](/stripes/krkykrkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7844/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec. 2008 — Black Country (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7844/))
-- undated — Black Country (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec. 2008 — Black Country (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7844/">record</a>)</li>
+<li>undated — Black Country (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5796">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

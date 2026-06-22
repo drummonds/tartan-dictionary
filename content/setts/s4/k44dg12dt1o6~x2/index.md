@@ -2,9 +2,10 @@
 title: "Heslop, William D Name Tartan Tartan Number: 10331. Earliest known date: 2011 This tartan was created for the Heslop family descended from William Douglas Heslop, who was born on 1st December 1857. His father, John Heslop was born in Lurdenlaw by Kelso in 1825 and his mother, Jessie Turnbull, was born in Jedburgh in 1826. They married in 1849 and sailed to the USA. The tartan may be worn by anyone with the surname Heslop. The copyright owner is William D Heslop. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGBR](/stripes/kgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k44dg12db1dr6/)
+(the same proportion at any scale), whose colour order is pattern [KGBR](/stripes/kgbr/).
 
-This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10331
 

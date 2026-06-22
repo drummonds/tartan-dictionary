@@ -2,9 +2,10 @@
 title: "Cornish Flag (District)"
 date: 2023-03-18
 ---
-In pattern [RKWKW](/stripes/rkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k20ln10k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWKW](/stripes/rkwkw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1618/
 
@@ -16,13 +17,14 @@ This cloth is also recorded under:
 - St Piran, Cornish Flag
 - St. Piran Cornish Flag
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1984 — Cornish Flag (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1618/))
-- undated — St Piran, Cornish Flag (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — St Piran Cornish Flag District Tartan Tartan Number: 1618. Earliest known date: 1983 An alternative source gives this sett as having been produced by Thomas Gordon of Glasgow around 1973. There is (c.1982) a pipe band in New York that wears this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1618))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1984 — Cornish Flag (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1618/">record</a>)</li>
+<li>undated — St Piran, Cornish Flag (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — St Piran Cornish Flag District Tartan Tartan Number: 1618. Earliest known date: 1983 An alternative source gives this sett as having been produced by Thomas Gordon of Glasgow around 1973. There is (c.1982) a pipe band in New York that wears this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1618">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/10 K40 LN20 K2 R/4

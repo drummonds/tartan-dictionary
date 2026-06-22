@@ -2,9 +2,10 @@
 title: "Veere (District)"
 date: 2023-03-18
 ---
-In pattern [BKBBKYGBBKW](/stripes/bkbbkygbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k2b2db8k18dy2g20db8b3k10n6/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKYGBBKW](/stripes/bkbbkygbbkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2670/
 

@@ -2,9 +2,10 @@
 title: "Lumsden (Waistcoat)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21ln2g20r8g6y3g6r8g10r9g11r22g3r9g3r21ln2r10db26r6db26r10ln2r19g2r2g3r2g2r20g2r2g3r2g2r19g20r6g20/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGRGRWRBRBRWRGRGRGRGRGYGRGWG](/stripes/grgrgrgrgrgrgrgrwrbrbrwrgrgrgrgrgygrgwg/).
 
-This was sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from register-of-tartans.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2244
 

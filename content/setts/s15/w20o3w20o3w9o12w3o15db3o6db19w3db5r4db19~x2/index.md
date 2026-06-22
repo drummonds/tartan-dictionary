@@ -2,9 +2,10 @@
 title: "Black and White, Colourway"
 date: 2023-03-18
 ---
-In pattern [BRBWBRBRWRWRWRW](/stripes/brbwbrbrwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln20lt3ln20lt3ln9lt12ln3lt15b3lt6b19ln3b5r4b19/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBRBRWRWRWRW](/stripes/brbwbrbrwrwrwrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

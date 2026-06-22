@@ -2,9 +2,10 @@
 title: "Campbell of Glenlyon"
 date: 2023-03-18
 ---
-In pattern [BKBKG](/stripes/bkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7k6b7k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKG](/stripes/bkbkg/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5456
 

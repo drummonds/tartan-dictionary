@@ -2,9 +2,10 @@
 title: "Baudoux et amis picards"
 date: 2023-03-18
 ---
-In pattern [RWRWGKGBYBY](/stripes/rwrwgkgbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db7y4db26g3k1g3w9lr2w4lr2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWGKGBYBY](/stripes/rwrwgkgbyby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10619
 

@@ -2,9 +2,10 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-In pattern [BRGRBWBRBWBWBRGR](/stripes/brgrbwbrbwbwbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g16r5db4ln2db4ln2db4r22db4ln2db4r5g16r5db2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBWBRBWBWBRGR](/stripes/brgrbwbrbwbwbrgr/).
 
-This was sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link /posts/logans-scottish-gael/
 

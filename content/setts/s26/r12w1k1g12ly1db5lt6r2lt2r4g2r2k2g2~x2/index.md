@@ -2,9 +2,10 @@
 title: "Norwich No.058"
 date: 2023-03-18
 ---
-In pattern [RWKGYBWRWRGRKGKRGRWRWBYGKW](/stripes/rwkgybwrwrgrkgkrgrwrwbygkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra12w1k1g12y1dba5lb6ra2lb2ra4g2ra2k2g2/)
+(the same proportion at any scale), whose colour order is pattern [RWKGYBWRWRGRKGKRGRWRWBYGKW](/stripes/rwkgybwrwrgrkgkrgrwrwbygkw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3189
 

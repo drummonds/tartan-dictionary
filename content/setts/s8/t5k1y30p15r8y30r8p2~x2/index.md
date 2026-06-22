@@ -2,9 +2,10 @@
 title: "Shaw of Tordarroch, hunting"
 date: 2023-03-18
 ---
-In pattern [BKGBRGRB](/stripes/bkgbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1g30p15r8g30r8p2/)
+(the same proportion at any scale), whose colour order is pattern [BKGBRGRB](/stripes/bkgbrgrb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Lumsden Green Clan Tartan Tartan Number: 2366. Earliest known date: 1997 Designed by Peter MacDonald at the request of David Lumsden of Cushnie to provide a hunting tartan for the clan. Can be worn by all in the Lumsden clan ( House of Lumsden). Medium green used here to show graphic instead of required dark green. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGBKRBRBRGBKBGBKBGRBRBRKBGBGBK](/stripes/bgbgbkrbrbrgbkbgbkbgrbrbrkbgbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g34db2k2db2g34r3db34r2db34r3k33db2g2db2g2db2k33/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBKRBRBRGBKBGBKBGRBRBRKBGBGBK](/stripes/bgbgbkrbrbrgbkbgbkbgrbrbrkbgbgbk/).
 
-This was sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2366
 

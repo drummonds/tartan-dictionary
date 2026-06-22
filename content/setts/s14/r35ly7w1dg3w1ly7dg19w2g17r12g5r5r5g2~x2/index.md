@@ -2,9 +2,10 @@
 title: "Unidentified 9"
 date: 2023-03-18
 ---
-In pattern [GRRGRGWGYWGWYR](/stripes/grrgrgwgywgwyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra35y7ln1dg3ln1y7dg19ln2g17ra12g5r5ra5g2/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRGWGYWGWYR](/stripes/grrgrgwgywgwyr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

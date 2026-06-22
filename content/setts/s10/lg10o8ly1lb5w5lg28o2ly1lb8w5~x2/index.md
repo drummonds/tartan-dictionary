@@ -2,9 +2,10 @@
 title: "Banatherton Union"
 date: 2023-03-18
 ---
-In pattern [WWYRYWWYRY](/stripes/wwyrywwyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10na8y1n5w5b28na2y1n8w5/)
+(the same proportion at any scale), whose colour order is pattern [WWYRYWWYRY](/stripes/wwyrywwyry/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11088/
 

@@ -2,9 +2,10 @@
 title: "Isle of Skye (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GGWGWGGWGGYWGWY](/stripes/ggwgwggwggywgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8g1lr6t8lr3t4g1lr8g1t6lt20lr29t3lr7lt7/)
+(the same proportion at any scale), whose colour order is pattern [GGWGWGGWGGYWGWY](/stripes/ggwgwggwggywgwy/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6091/
 

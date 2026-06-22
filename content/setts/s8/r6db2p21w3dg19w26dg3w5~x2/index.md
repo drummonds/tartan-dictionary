@@ -2,9 +2,10 @@
 title: "Culloden, dress Ancient"
 date: 2023-03-18
 ---
-In pattern [RBBWGWGW](/stripes/rbbwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b2p21ln3dg19ln26dg3ln5/)
+(the same proportion at any scale), whose colour order is pattern [RBBWGWGW](/stripes/rbbwgwgw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

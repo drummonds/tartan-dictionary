@@ -2,18 +2,20 @@
 title: "MacMichael"
 date: 2023-03-18
 ---
-In pattern [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1db1dr8n1k2db16k2n1g8db1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2655
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1991 — MacMichael (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2655))
-- 1991 — MacMichael (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2063/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1991 — MacMichael (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2655">record</a>)</li>
+<li>1991 — MacMichael (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2063/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

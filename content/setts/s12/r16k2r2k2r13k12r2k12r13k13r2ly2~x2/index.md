@@ -2,9 +2,10 @@
 title: "German National (US) (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRKRKRY](/stripes/rkrkrkrkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2r2k2r13k12r2k12r13k13r2y2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRKRKRY](/stripes/rkrkrkrkrkry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1095/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Ikelman No. 5
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- Aug. 1995 — German National (US) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1095/))
-- 01/07/1996 — German National (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1337))
-- undated — Ikelman No. 5 (German National) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Aug. 1995 — German National (US) (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1095/">record</a>)</li>
+<li>01/07/1996 — German National (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1337">record</a>)</li>
+<li>undated — Ikelman No. 5 (German National) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

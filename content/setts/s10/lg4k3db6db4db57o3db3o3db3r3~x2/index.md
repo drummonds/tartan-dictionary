@@ -2,18 +2,20 @@
 title: "U.S. Law Enforcement"
 date: 2023-03-18
 ---
-In pattern [RBRBRBBBKY](/stripes/rbrbrbbbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na4k3dba6db4dba57n3dba3n3dba3r3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBBBKY](/stripes/rbrbrbbbky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/2007 — U.S. Law Enforcement (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186))
-- April 2007 — U.S. Law Enforcement (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7173/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2007 — U.S. Law Enforcement (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4186">record</a>)</li>
+<li>April 2007 — U.S. Law Enforcement (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7173/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

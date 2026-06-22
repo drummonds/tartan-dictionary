@@ -2,9 +2,10 @@
 title: "MacLellan, Blue McLellan"
 date: 2023-03-18
 ---
-In pattern [KWBKRBRBWBRBRGWY](/stripes/kwbkrbrbwbrbrgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ln1b7k4r1b4r2b4ln2b4r2b4r1g7ln1y2/)
+(the same proportion at any scale), whose colour order is pattern [KWBKRBRBWBRBRGWY](/stripes/kwbkrbrbwbrbrgwy/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLellan, Blue McLellan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLellan, Blue McLellan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacLellan Blue McLellan Clan Tartan Tartan Number: 1224. Earliest known date: 1981 Dgn. J.R. McLellan, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1224))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLellan, Blue McLellan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacLellan Blue McLellan Clan Tartan Tartan Number: 1224. Earliest known date: 1981 Dgn. J.R. McLellan, Edinburgh See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1224">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 LN2 B14 K8 R2 B8 R4 B8 LN4 B8 R4 B8 R2 G14 LN2 Y/4

@@ -2,9 +2,10 @@
 title: "MacFarhadian Canadian Personal Tartan Tartan Number: 6375. Earliest known date: 2003 During the design process, a version missing the white pivot was woven. A new piece was woven to replace the first but, in old Scots style, the original was put to good use. This tartan, therefore, has two versions extant. Designed to be woven with a 6 inch repeat and 2 thread stripes. Andre said, \"I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart.\". See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYRBRYBRGRBYKWGRKRGWKYBRGRBYRBRYBR](/stripes/byrbrybrgrbykwgrkrgwkybrgrbyrbrybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r55p1y1r3p7r3y1p1r3g16r3p1y1k3w1g5r3k2/)
+(the same proportion at any scale), whose colour order is pattern [BYRBRYBRGRBYKWGRKRGWKYBRGRBYRBRYBR](/stripes/byrbrybrgrbykwgrkrgwkybrgrbyrbrybr/).
 
-This was sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6375
 

@@ -2,9 +2,10 @@
 title: "Skye, Green (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWBWGY](/stripes/bwbwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4w2n1w36g21ly4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWGY](/stripes/bwbwgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7601/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Skye, Green
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Skye, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7601/))
-- undated — Skye Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Skye, Green (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7601/">record</a>)</li>
+<li>undated — Skye Green (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5625">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

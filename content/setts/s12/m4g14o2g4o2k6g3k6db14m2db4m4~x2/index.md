@@ -2,9 +2,10 @@
 title: "Kinloch Anderson, hunting"
 date: 2023-03-18
 ---
-In pattern [RBRBKGKRGRGR](/stripes/rbrbkgkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g14o2g4o2k6g3k6b14dr2b4dr4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKGKRGRGR](/stripes/rbrbkgkrgrgr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

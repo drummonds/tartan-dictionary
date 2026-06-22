@@ -2,9 +2,10 @@
 title: "Orlando, City of"
 date: 2023-03-18
 ---
-In pattern [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba12yy1g16dba1g1dba14g3dba14r2/)
+(the same proportion at any scale), whose colour order is pattern [BKGBGBGBRBGBGBGK](/stripes/bkgbgbgbrbgbgbgk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4957
 

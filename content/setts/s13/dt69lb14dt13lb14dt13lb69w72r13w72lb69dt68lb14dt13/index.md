@@ -2,9 +2,10 @@
 title: "Poulter Sonic"
 date: 2023-03-18
 ---
-In pattern [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db69lb14db13lb14db13lb69w72r13w72lb69db68lb14db13/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWWRWWBWB](/stripes/bwbwbwwrwwbwb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11242
 

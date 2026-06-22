@@ -2,9 +2,10 @@
 title: "Anderson Green"
 date: 2023-03-18
 ---
-In pattern [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg32t1o1dg1k1lt1k1lt1k1t3dg2k1lt4k1o1/)
+(the same proportion at any scale), whose colour order is pattern [GBYGKRKRKBGKRKY](/stripes/gbygkrkrkbgkrky/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4887
 

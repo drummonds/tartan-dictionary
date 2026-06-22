@@ -2,9 +2,10 @@
 title: "Baker (Name)"
 date: 2023-03-18
 ---
-In pattern [BYWYBWBW](/stripes/bywybwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28lt3ly1lt3db4ly2p1ly5/)
+(the same proportion at any scale), whose colour order is pattern [BYWYBWBW](/stripes/bywybwbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/613/
 

@@ -2,9 +2,10 @@
 title: "Daks (House)"
 date: 2023-03-18
 ---
-In pattern [BGKGY](/stripes/bgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g7k4g7y4/)
+(the same proportion at any scale), whose colour order is pattern [BGKGY](/stripes/bgkgy/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=870
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Daks
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Daks (House) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=870))
-- undated — DAKS House (C.6700.040) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Daks (House) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=870">record</a>)</li>
+<li>undated — DAKS House (C.6700.040) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

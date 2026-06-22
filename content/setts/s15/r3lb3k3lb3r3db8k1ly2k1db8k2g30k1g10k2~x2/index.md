@@ -2,18 +2,20 @@
 title: "Coigach"
 date: 2023-03-18
 ---
-In pattern [KGKGKBKYKBRWKWR](/stripes/kgkgkbkykbrwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3lr3k3lr3dr3db8k1y2k1db8k2g30k1g10k2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKBKYKBRWKWR](/stripes/kgkgkbkykbrwkwr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Coigach (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706))
-- 2005 Janaury — Coigach (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6570/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Coigach (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=706">record</a>)</li>
+<li>2005 Janaury — Coigach (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6570/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

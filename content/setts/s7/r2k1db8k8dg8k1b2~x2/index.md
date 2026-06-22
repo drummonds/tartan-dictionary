@@ -2,18 +2,20 @@
 title: "Campbell of Cawdor"
 date: 2023-03-18
 ---
-In pattern [BKGKBKR](/stripes/bkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k1db8k8dg8k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKR](/stripes/bkgkbkr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell of Cawdor (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Campbell of Cawdor (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell of Cawdor (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Campbell of Cawdor (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/4 K2 DB16 K16 DG16 K2 B/4

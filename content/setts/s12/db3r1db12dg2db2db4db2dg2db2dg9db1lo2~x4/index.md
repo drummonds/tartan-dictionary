@@ -2,9 +2,10 @@
 title: "St. Andrew's Soc. of Philadelphia (C"
 date: 2023-03-18
 ---
-In pattern [BRBGBBBGBGBY](/stripes/brbgbbbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3r1db12g2db2dba4db2g2db2g9dba1dy2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBBBGBGBY](/stripes/brbgbbbgbgby/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8393/
 

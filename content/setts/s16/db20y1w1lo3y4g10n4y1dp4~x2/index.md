@@ -2,9 +2,10 @@
 title: "St. Columba (two greens)"
 date: 2023-03-18
 ---
-In pattern [BGWYGGBGBGBGGYWG](/stripes/bgwyggbgbgbggywg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20lg1w1lt3ga4g10n4lg1p4/)
+(the same proportion at any scale), whose colour order is pattern [BGWYGGBGBGBGGYWG](/stripes/bgwyggbgbgbggywg/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4849
 

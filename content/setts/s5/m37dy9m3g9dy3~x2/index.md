@@ -2,9 +2,10 @@
 title: "Glen Shee Trade Tartan Tartan Number: 1662. Earliest known date: pre 2003 May have been obtained from a hand made design procured in the Highlands for The Highland Society of London. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGRGR](/stripes/ggrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r37t9r3g9t3/)
+(the same proportion at any scale), whose colour order is pattern [GGRGR](/stripes/ggrgr/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1662
 

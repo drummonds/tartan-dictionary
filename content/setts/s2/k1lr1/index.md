@@ -2,18 +2,20 @@
 title: "Shepherd"
 date: 2023-03-18
 ---
-In pattern [KY](/stripes/ky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1n1/)
+(the same proportion at any scale), whose colour order is pattern [KY](/stripes/ky/).
 
-This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Shepherd (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Shepherd (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Shepherd (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Shepherd (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/1 N/1

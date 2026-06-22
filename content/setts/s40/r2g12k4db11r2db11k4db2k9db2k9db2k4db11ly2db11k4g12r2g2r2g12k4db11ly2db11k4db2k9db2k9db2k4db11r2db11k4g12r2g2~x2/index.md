@@ -2,9 +2,10 @@
 title: "Allen Personal Tartan Tartan Number: 2482. Earliest known date: 1997 Designed for Christopher Allen Holler of Winter Park Florida and for use by anyone of the name Allen or any of its variations. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGKBRBKBKBKBKBYBKGRGRGKBYBKBKBKBKBRBKGR](/stripes/grgkbrbkbkbkbkbybkgrgrgkbybkbkbkbkbrbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g12k4db11r2db11k4db2k9db2k9db2k4db11y2db11k4g12r2g2r2g12k4db11y2db11k4db2k9db2k9db2k4db11r2db11k4g12r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBRBKBKBKBKBYBKGRGRGKBYBKBKBKBKBRBKGR](/stripes/grgkbrbkbkbkbkbybkgrgrgkbybkbkbkbkbrbkgr/).
 
-This was sourced from house-of-tartan.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from house-of-tartan.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2482
 

@@ -2,18 +2,20 @@
 title: "Dohmen Family (Zuid-Nederland)"
 date: 2023-03-18
 ---
-In pattern [GYBR](/stripes/gybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg30y3b8r25/)
+(the same proportion at any scale), whose colour order is pattern [GYBR](/stripes/gybr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 30/07/2012 — Dohmen Family (Zuid-Nederland) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665))
-- undated — Dohmen Family (Zuid-Nederland) Name Tartan Tartan Number: 10665. Earliest known date: 6 August 2012 Designed by Hub Dohmen to celebrate his family’s strong affinity with Scotland. Colours: green represents a link with Scotland and the mountains of Zuid-Limburg, from where the family originates; blue represents the dominant eye colour of the Dohmen family; rust represents the McDohmen Reserve whisky, bottled at the Bruichladdich Distillery (Islay); gold/orange represents the family hair colour and the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10665))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>30/07/2012 — Dohmen Family (Zuid-Nederland) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10665">record</a>)</li>
+<li>undated — Dohmen Family (Zuid-Nederland) Name Tartan Tartan Number: 10665. Earliest known date: 6 August 2012 Designed by Hub Dohmen to celebrate his family’s strong affinity with Scotland. Colours: green represents a link with Scotland and the mountains of Zuid-Limburg, from where the family originates; blue represents the dominant eye colour of the Dohmen family; rust represents the McDohmen Reserve whisky, bottled at the Bruichladdich Distillery (Islay); gold/orange represents the family hair colour and the Netherlands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10665">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Spirit of Scotland"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBGBKBKBGBBBBBB](/stripes/bbbbbbbgbkbkbgbbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db96pa8db12b3db3b3db3dg20pa8k3pa14/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBGBKBKBGBBBBBB](/stripes/bbbbbbbgbkbkbgbbbbbb/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3865
 

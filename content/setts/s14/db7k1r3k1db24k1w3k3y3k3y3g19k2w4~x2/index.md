@@ -2,9 +2,10 @@
 title: "Strathclyde, University of (Corporat"
 date: 2023-03-18
 ---
-In pattern [BKRKBKWKGKGGKW](/stripes/bkrkbkwkgkggkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7k1r3k1db24k1ln3k3ga3k3ga3g19k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKWKGKGGKW](/stripes/bkrkbkwkgkggkw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2419/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Strathclyde, University of (Corporat
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1997 — Strathclyde, University of (Corporat (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2419/))
-- undated — Strathclyde, University of (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Strathclyde, University of Corporate Tartan Tartan Number: 2419. Earliest known date: 1971 University of Strathclyde, Scotland See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2419))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1997 — Strathclyde, University of (Corporat (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2419/">record</a>)</li>
+<li>undated — Strathclyde, University of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Strathclyde, University of Corporate Tartan Tartan Number: 2419. Earliest known date: 1971 University of Strathclyde, Scotland See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2419">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/14 K2 R6 K2 DB48 K2 LN6 K6 Ga6 K6 Ga6 G38 K4 LN/8

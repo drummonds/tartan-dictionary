@@ -2,9 +2,10 @@
 title: "Arbuthnott (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b15k2b2k2b2k14g12ln2g4b4g4ln2g12k14b15k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/204/
 

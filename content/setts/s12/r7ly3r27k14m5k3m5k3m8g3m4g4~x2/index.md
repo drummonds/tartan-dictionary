@@ -2,18 +2,20 @@
 title: "Scotland's People"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRYR](/stripes/grgrkrkrkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7y3r27k14p5k3p5k3p8g3p4g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRYR](/stripes/grgrkrkrkryr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3685
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2003 — Scotland's People (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3685))
-- Feb 2004 — Scotland's People (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6122/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2003 — Scotland's People (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3685">record</a>)</li>
+<li>Feb 2004 — Scotland's People (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6122/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

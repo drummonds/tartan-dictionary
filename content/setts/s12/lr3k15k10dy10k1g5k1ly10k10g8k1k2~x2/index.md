@@ -2,9 +2,10 @@
 title: "Blue Castlefield (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KKGKYKGKGKKY](/stripes/kkgkykgkgkky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k15db10t10k1g5k1y10k10g8k1db2/)
+(the same proportion at any scale), whose colour order is pattern [KKGKYKGKGKKY](/stripes/kkgkykgkgkky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10312/
 

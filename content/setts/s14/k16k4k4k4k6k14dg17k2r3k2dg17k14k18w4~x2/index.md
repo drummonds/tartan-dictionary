@@ -2,9 +2,10 @@
 title: "Humphries (Personal)"
 date: 2023-03-18
 ---
-In pattern [KKKKKKGKRKGKKW](/stripes/kkkkkkgkrkgkkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k4db4k4db6k14dg17k2r3k2dg17k14db18ln4/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKGKRKGKKW](/stripes/kkkkkkgkrkgkkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1784
 

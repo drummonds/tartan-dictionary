@@ -2,9 +2,10 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-In pattern [RBWKGR](/stripes/rbwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36b8ln1k5g20r18/)
+(the same proportion at any scale), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
 
-This was sourced from logan-1831.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from logan-1831.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link /posts/logans-scottish-gael/
 

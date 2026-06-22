@@ -2,9 +2,10 @@
 title: "Hawes (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBGKGBWBKY](/stripes/wbgkgbwbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2k2b3ln2dr3g4k50g5dr3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKGBWBKY](/stripes/wbgkgbwbky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8357/
 

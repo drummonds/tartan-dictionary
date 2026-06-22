@@ -2,9 +2,10 @@
 title: "Norwegian Night"
 date: 2023-03-18
 ---
-In pattern [BWRKYKWKWKY](/stripes/bwrkykwkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6w3r14k3o2k2w2k38w2k2o2/)
+(the same proportion at any scale), whose colour order is pattern [BWRKYKWKWKY](/stripes/bwrkykwkwky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10772
 

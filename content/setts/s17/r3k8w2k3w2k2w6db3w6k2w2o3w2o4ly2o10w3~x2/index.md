@@ -2,9 +2,10 @@
 title: "Clanedin"
 date: 2023-03-18
 ---
-In pattern [RKWKWKWBWKWRWRYRW](/stripes/rkwkwkwbwkwrwryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k8ln2k3ln2k2ln6b3ln6k2ln2lt3ln2lt4y2lt10ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKWKWKWBWKWRWRYRW](/stripes/rkwkwkwbwkwrwryrw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

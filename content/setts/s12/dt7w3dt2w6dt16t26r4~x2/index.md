@@ -2,9 +2,10 @@
 title: "Keela"
 date: 2023-03-18
 ---
-In pattern [BWBWBBRBBWBW](/stripes/bwbwbbrbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba7w3dba2w6dba16b26dr4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBBRBBWBW](/stripes/bwbwbbrbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1933
 

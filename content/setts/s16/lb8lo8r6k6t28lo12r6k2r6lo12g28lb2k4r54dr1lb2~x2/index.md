@@ -2,18 +2,20 @@
 title: "Finzean's Fancy"
 date: 2023-03-18
 ---
-In pattern [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8dy8dr6k6b28dy12dr6k2dr6dy12g28n2k4dr54dra1n2/)
+(the same proportion at any scale), whose colour order is pattern [WBRKWGYRKRYBKRYW](/stripes/wbrkwgyrkrybkryw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Finzean's Fancy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186))
-- pre 1985? — Finzean's Fancy (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1860/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Finzean's Fancy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1186">record</a>)</li>
+<li>pre 1985? — Finzean's Fancy (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1860/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

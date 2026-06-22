@@ -2,9 +2,10 @@
 title: "Orlando Dress, City of"
 date: 2023-03-18
 ---
-In pattern [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12yy1wa16b1wa1b14wa3b14r2/)
+(the same proportion at any scale), whose colour order is pattern [BKWBWBWBRBWBWBWK](/stripes/bkwbwbwbrbwbwbwk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3264
 

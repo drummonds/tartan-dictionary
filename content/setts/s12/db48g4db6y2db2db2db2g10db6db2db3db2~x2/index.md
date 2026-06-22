@@ -2,9 +2,10 @@
 title: "Damson (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBGBBBGBGB](/stripes/bbbbgbbbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db48b4db6lt2db2dba2db2b10dba6db2dba3dba2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGBBBGBGB](/stripes/bbbbgbbbgbgb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4658/
 

@@ -2,9 +2,10 @@
 title: "Omega Delta Sigma, National Veterans"
 date: 2023-03-18
 ---
-In pattern [KBKR](/stripes/kbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15db40k9n10/)
+(the same proportion at any scale), whose colour order is pattern [KBKR](/stripes/kbkr/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11189/
 

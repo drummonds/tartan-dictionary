@@ -2,9 +2,10 @@
 title: "Inneryne (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKGRG](/stripes/bkbkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k3db16k14g14r3g3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRG](/stripes/bkbkgrg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7769/
 

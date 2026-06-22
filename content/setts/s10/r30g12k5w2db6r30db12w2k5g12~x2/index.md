@@ -2,9 +2,10 @@
 title: "Sinclair"
 date: 2023-03-18
 ---
-In pattern [GKWBRBWKGR](/stripes/gkwbrbwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30g12k5ln2db6r30db12ln2k5g12/)
+(the same proportion at any scale), whose colour order is pattern [GKWBRBWKGR](/stripes/gkwbrbwkgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3792
 

@@ -2,9 +2,10 @@
 title: "Naysmith, William A (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRBKWKWKRW](/stripes/wrbkwkwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dr2db14k4n4k3n3k2dr2lp2/)
+(the same proportion at any scale), whose colour order is pattern [WRBKWKWKRW](/stripes/wrbkwkwkrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Naysmith, William A
 - Naysmith, William S
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/08/1996 — Naysmith, William A (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105))
-- pre 2002 — Naysmith (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2319/))
-- undated — Naysmith, William S Family Tartan Tartan Number: 2319. Earliest known date: pre 2002 Based loosely on Gunn and designed by William A Naysmith who was a professional textile designer and one time Governor of the Edinburgh College of Art. Controlled by the designer for use by his family and descendents. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2319))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1996 — Naysmith, William A (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3105">record</a>)</li>
+<li>pre 2002 — Naysmith (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2319/">record</a>)</li>
+<li>undated — Naysmith, William S Family Tartan Tartan Number: 2319. Earliest known date: pre 2002 Based loosely on Gunn and designed by William A Naysmith who was a professional textile designer and one time Governor of the Edinburgh College of Art. Controlled by the designer for use by his family and descendents. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2319">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

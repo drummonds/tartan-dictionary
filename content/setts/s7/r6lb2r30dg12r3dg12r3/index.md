@@ -2,9 +2,10 @@
 title: "Crawford"
 date: 2023-03-18
 ---
-In pattern [RGRGRWR](/stripes/rgrgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6n2r30g12r3g12r3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRWR](/stripes/rgrgrwr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

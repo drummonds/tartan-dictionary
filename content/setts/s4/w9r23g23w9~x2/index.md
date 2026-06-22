@@ -2,9 +2,10 @@
 title: "Quaboos Pipers Plaid"
 date: 2023-03-18
 ---
-In pattern [WGRW](/stripes/wgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9r23g23ln9/)
+(the same proportion at any scale), whose colour order is pattern [WGRW](/stripes/wgrw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420
 
@@ -17,15 +18,16 @@ This cloth is also recorded under:
 - Quaboos Pipers Plaid Regimental
 - Quaboos, Pipers Plaid
 
-## Attestations
-
-This cloth appears in 5 source records; the oldest owns this page.
-
-- 01/01/2002 — Quaboos Pipers Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420))
-- pre 2002 — Qaboos (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1806/))
-- pre 2006 — Omani Regiment 2nd Pipe Sqn. (Mil.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6852/))
-- undated — Quaboos, Pipers Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Quaboos Pipers Plaid Regimental Tartan Tartan Number: 1806. Earliest known date: 1983 The Sultan of Oman is the ruler of Quaboos. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1806))
+<details class="attestations">
+<summary>5 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Quaboos Pipers Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3420">record</a>)</li>
+<li>pre 2002 — Qaboos (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1806/">record</a>)</li>
+<li>pre 2006 — Omani Regiment 2nd Pipe Sqn. (Mil.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6852/">record</a>)</li>
+<li>undated — Quaboos, Pipers Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Quaboos Pipers Plaid Regimental Tartan Tartan Number: 1806. Earliest known date: 1983 The Sultan of Oman is the ruler of Quaboos. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1806">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

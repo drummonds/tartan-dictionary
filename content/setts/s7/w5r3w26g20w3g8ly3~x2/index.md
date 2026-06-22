@@ -2,9 +2,10 @@
 title: "MacPherson Dress Green (Dance)"
 date: 2023-03-18
 ---
-In pattern [WRWGWGY](/stripes/wrwgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5r3ln26g20ln3g8y3/)
+(the same proportion at any scale), whose colour order is pattern [WRWGWGY](/stripes/wrwgwgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2718
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacPherson Dress, Green
 - MacPherson, dress green
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1980 — MacPherson Dress Green (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2718))
-- 1980 — MacPherson Dress, Green (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1870/))
-- undated — MacPherson, dress green (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPherson Dress Green Tartan Tartan Number: 1870. Earliest known date: c.1980 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1870))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — MacPherson Dress Green (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2718">record</a>)</li>
+<li>1980 — MacPherson Dress, Green (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1870/">record</a>)</li>
+<li>undated — MacPherson, dress green (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPherson Dress Green Tartan Tartan Number: 1870. Earliest known date: c.1980 There are a great number of variations of the Dress MacPherson, many of them modern trade designs which are popular with country dancers. Hugh Macpherson of Edinburgh, kiltmaker and tartan designer some decades ago, supplied samples of these to the Scottish Tartan Society around 1980. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1870">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

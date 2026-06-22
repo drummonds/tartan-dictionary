@@ -2,9 +2,10 @@
 title: "Anderson of Kinnedar, hunting"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRKYKYKWKGRKRGR](/stripes/rbrbrbrkykykwkgrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8ba10r4ba14r8b10r5k9y4k4y4k7ln8k8g36r2k4r2g8r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRKYKYKWKGRKRGR](/stripes/rbrbrbrkykykwkgrkrgr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

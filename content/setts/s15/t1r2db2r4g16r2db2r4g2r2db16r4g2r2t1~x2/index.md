@@ -2,9 +2,10 @@
 title: "MacIntyre of Whitehouse (Clan?)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1r2db2r4g16r2db2r4g2r2db16r4g2r2b1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBRGRBRGRB](/stripes/brbrgrbrgrbrgrb/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7805/
 

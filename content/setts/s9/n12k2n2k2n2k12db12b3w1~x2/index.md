@@ -2,9 +2,10 @@
 title: "de Franck, Matt (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBBW](/stripes/bkbkbkbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12k2n2k2n2k12db12b3w1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBBW](/stripes/bkbkbkbbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10449
 

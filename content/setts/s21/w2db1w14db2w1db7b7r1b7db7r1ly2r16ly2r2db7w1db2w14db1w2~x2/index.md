@@ -2,9 +2,10 @@
 title: "New Providence Presbyterian Church"
 date: 2023-03-18
 ---
-In pattern [WBWBWBBRBBRYRYRBWBWBW](/stripes/wbwbwbbrbbryryrbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2db1w14db2w1db7b7r1b7db7r1y2r16y2r2db7w1db2w14db1w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWBBRBBRYRYRBWBWBW](/stripes/wbwbwbbrbbryryrbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - New Providence Presb. Church
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 15/10/2000 — New Providence Presbyterian Church (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861))
-- 2000 — New Providence Presb. Church (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3885/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>15/10/2000 — New Providence Presbyterian Church (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4861">record</a>)</li>
+<li>2000 — New Providence Presb. Church (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3885/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

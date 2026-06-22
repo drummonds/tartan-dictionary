@@ -2,18 +2,20 @@
 title: "Hannay"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9ln4k2ln4k2ln30k9ln4b14y2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hannay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hannay Family Tartan Tartan Number: 1255. Earliest known date: c.1810-44 The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. He created a new design based on the old which included a red stripe. This sett was produced around 1950 by Messrs Galt of Galloway. The black and white check is a common feature of Lowland tartans, originally woven with the undyed wool and found in the earliest of tartans, the Shepherds Plaid. It is interesting to note that the colours of the armourial bearings of the Chiefly House of Hannay of Scorbie are Sable, Argent and Azure - black, silver and blue. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1255))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hannay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hannay Family Tartan Tartan Number: 1255. Earliest known date: c.1810-44 The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. He created a new design based on the old which included a red stripe. This sett was produced around 1950 by Messrs Galt of Galloway. The black and white check is a common feature of Lowland tartans, originally woven with the undyed wool and found in the earliest of tartans, the Shepherds Plaid. It is interesting to note that the colours of the armourial bearings of the Chiefly House of Hannay of Scorbie are Sable, Argent and Azure - black, silver and blue. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1255">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/18 LN8 K4 LN8 K4 LN60 K18 LN8 B28 Y/4

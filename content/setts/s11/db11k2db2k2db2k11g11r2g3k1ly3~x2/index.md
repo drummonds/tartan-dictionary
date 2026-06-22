@@ -2,9 +2,10 @@
 title: "Grant, hunting"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKY](/stripes/bkbkbkgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11k2b2k2b2k11g11r2g3k1y3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKY](/stripes/bkbkbkgrgky/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Grant, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Grant, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Grant Hunting Clan Tartan Tartan Number: 311. Earliest known date: 1819 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. James Cant notes say: "This clan had no hunting tartan of its own until about 1730. At that time many of the Cadets of the Clan were officers in the Black Watch and they adopted the tartan of the Watch as their Hunting Tartan". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=311))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Grant, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Grant Hunting Clan Tartan Tartan Number: 311. Earliest known date: 1819 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. James Cant notes say: "This clan had no hunting tartan of its own until about 1730. At that time many of the Cadets of the Clan were officers in the Black Watch and they adopted the tartan of the Watch as their Hunting Tartan". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=311">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/22 K4 B4 K4 B4 K22 G22 R4 G6 K2 Y/6

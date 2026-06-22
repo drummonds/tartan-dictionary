@@ -2,9 +2,10 @@
 title: "Fitzgibbon Red (Name)"
 date: 2023-03-18
 ---
-In pattern [RKRGRRRKR](/stripes/rkrgrrrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k6dr24g2dr2r1dr6k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRRRKR](/stripes/rkrgrrrkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10035/
 

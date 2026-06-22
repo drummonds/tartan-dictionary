@@ -2,9 +2,10 @@
 title: "Donachie of Brockloch Htg (Clan)"
 date: 2023-03-18
 ---
-In pattern [GGRGGGGGRG](/stripes/ggrgggggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24dr2g2dg40g25dg2g2dr2g2dg20/)
+(the same proportion at any scale), whose colour order is pattern [GGRGGGGGRG](/stripes/ggrgggggrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6703/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Donachie of Brockloch Htg
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2005 — Donachie of Brockloch Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6703/))
-- undated — Donachie of Brockloch Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4997))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Donachie of Brockloch Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6703/">record</a>)</li>
+<li>undated — Donachie of Brockloch Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4997">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

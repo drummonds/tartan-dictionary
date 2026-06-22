@@ -2,18 +2,20 @@
 title: "Doyel (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBRKRKRBKGKG](/stripes/bkbkbrkrkrbkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg38k3dg3k3db6n1k2r2k2n1db6k3db3k3db19/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBRKRKRBKGKG](/stripes/bkbkbrkrkrbkgkg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7684/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Doyel (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7684/))
-- undated — Doyel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Doyel (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7684/">record</a>)</li>
+<li>undated — Doyel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5686">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

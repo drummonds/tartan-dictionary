@@ -2,18 +2,20 @@
 title: "Munster"
 date: 2023-03-18
 ---
-In pattern [BRBGBGBRKGBKGKGR](/stripes/brbgbgbrkgbkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r2b3g1b1g2b18r1k12ga21b1k3ga1k2ga4r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGBRKGBKGKGR](/stripes/brbgbgbrkgbkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Munster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052))
-- 1997 — Munster (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4061/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Munster (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3052">record</a>)</li>
+<li>1997 — Munster (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4061/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

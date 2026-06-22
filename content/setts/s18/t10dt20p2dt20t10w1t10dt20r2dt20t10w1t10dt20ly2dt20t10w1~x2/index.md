@@ -2,9 +2,10 @@
 title: "Vilario (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBWBBRBBWBBYBBW](/stripes/bbbbbwbbrbbwbbybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10db20p2db20b10w1b10db20r2db20b10w1b10db20y2db20b10w1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBWBBRBBWBBYBBW](/stripes/bbbbbwbbrbbwbbybbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4460
 

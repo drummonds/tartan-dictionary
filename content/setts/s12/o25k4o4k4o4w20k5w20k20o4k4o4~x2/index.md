@@ -2,9 +2,10 @@
 title: "Grey Watch Trade Tartan Tartan Number: 1286. Earliest known date: pre 2003 From a sample woven by Peter Anderson Ltd, Galashiels. The Gray family can be Septs of either Clan Stewart or Clan Sutherland. A rebel son of the Stewarts changed his name to MacGlashan (anglicised to Gray). In the north the Grays of Sutherland possessed lands at Skibo, Sordell and Ardinish. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKRKRWKWKRKR](/stripes/rkrkrwkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n25k4n4k4n4ln20k5ln20k20n4k4n4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRWKWKRKR](/stripes/rkrkrwkwkrkr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1286
 

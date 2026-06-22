@@ -2,18 +2,20 @@
 title: "Glen Tilt #1"
 date: 2023-03-18
 ---
-In pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1dr1g1dr11db6dr1g14dr1g1n1/)
+(the same proportion at any scale), whose colour order is pattern [WBGBBBGBGW](/stripes/wbgbbbgbgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1800 — Glen Tilt #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399))
-- pre 1800 — Glen Tilt #1 (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2076/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Glen Tilt #1 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1399">record</a>)</li>
+<li>pre 1800 — Glen Tilt #1 (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2076/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Glasgow Cathedral"
 date: 2023-03-18
 ---
-In pattern [BYBGBBBBBG](/stripes/bybgbbbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18p3dba10db2dba10p20g20p3dy2dba2/)
+(the same proportion at any scale), whose colour order is pattern [BYBGBBBBBG](/stripes/bybgbbbbbg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1353
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Glasgow Cathedral (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1353))
-- undated — Glasgow Cathedral Corporate Tartan Tartan Number: 4996. Earliest known date: 1996 Colours completely different to Glasgow Cathedral 2000. Have these changed since 1995/6? Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4996))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Glasgow Cathedral (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1353">record</a>)</li>
+<li>undated — Glasgow Cathedral Corporate Tartan Tartan Number: 4996. Earliest known date: 1996 Colours completely different to Glasgow Cathedral 2000. Have these changed since 1995/6? Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4996">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

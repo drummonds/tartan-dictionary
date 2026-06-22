@@ -2,9 +2,10 @@
 title: "Stuart/Stewart of Ardshiel"
 date: 2023-03-18
 ---
-In pattern [BKRRGRKBRKRBKRKRRGRRKRKBRKRBKRGRRK](/stripes/bkrrgrkbrkrbkrkrrgrrkrkbrkrbkrgrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14r6lr2db3r65db2b2r6db34r6b2db2r4g66r12lr2db2b4/)
+(the same proportion at any scale), whose colour order is pattern [BKRRGRKBRKRBKRKRRGRRKRKBRKRBKRGRRK](/stripes/bkrrgrkbrkrbkrkrrgrrkrkbrkrbkrgrrk/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4017
 

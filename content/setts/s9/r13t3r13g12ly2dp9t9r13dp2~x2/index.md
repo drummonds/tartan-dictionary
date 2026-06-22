@@ -2,18 +2,20 @@
 title: "Caledonia No 3"
 date: 2023-03-18
 ---
-In pattern [BRBBYGRBR](/stripes/brbbygrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r13b3r13g12y2dp9b9r13dp2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBYGRBR](/stripes/brbbygrbr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Caledonia No 3 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Caledonia No 3 District Tartan Tartan Number: 455. Earliest known date: 1819 See letter 14/10/1820. This tartan was available in the 1820's alongside Caledonia No 43 (later MacPherson), and No 155. All of them appear in the 1819 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=455))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Caledonia No 3 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Caledonia No 3 District Tartan Tartan Number: 455. Earliest known date: 1819 See letter 14/10/1820. This tartan was available in the 1820's alongside Caledonia No 43 (later MacPherson), and No 155. All of them appear in the 1819 pattern book of Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=455">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/26 B6 R26 G24 Y4 DP18 B18 R26 DP/4

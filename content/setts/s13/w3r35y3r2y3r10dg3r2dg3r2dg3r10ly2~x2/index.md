@@ -2,9 +2,10 @@
 title: "Glencross (Haverlands House) (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRGRGRGRGRGRY](/stripes/wrgrgrgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3dr35lg3dr2lg3dr10dg3dr2dg3dr2dg3dr10y2/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGRGRGRGRY](/stripes/wrgrgrgrgrgry/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11458
 

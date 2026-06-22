@@ -2,9 +2,10 @@
 title: "Lumsden Boghead"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1r5g4r1g1r1dn4r5dn1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2247
 

@@ -2,9 +2,10 @@
 title: "MacAlister of Glenbarr Clan Tartan Tartan Number: 910. Earliest known date: pre 1984 This version of the MacAlister of Glenbarr tartan is the same as the MacGillivray hunting tartan. This sample was taken from a piece woven by Lochcarron Weavers around 1984. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGBGGGBGGGGGG](/stripes/gbgbgggbgggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4t2g2t2g2t3db1t1g4t1db1t12db2t3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGGGBGGGGGG](/stripes/gbgbgggbgggggg/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=910
 

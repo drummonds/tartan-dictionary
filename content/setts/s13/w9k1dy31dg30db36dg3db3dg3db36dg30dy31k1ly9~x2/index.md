@@ -2,9 +2,10 @@
 title: "Campbell Brown"
 date: 2023-03-18
 ---
-In pattern [WKGGBGBGBGGKY](/stripes/wkggbgbgbggky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y9k1t31g30b36g3b3g3b36g30t31k1ln9/)
+(the same proportion at any scale), whose colour order is pattern [WKGGBGBGBGGKY](/stripes/wkggbgbgbggky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=504
 

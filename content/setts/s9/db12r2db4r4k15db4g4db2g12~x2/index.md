@@ -2,9 +2,10 @@
 title: "Alexander Hunting (Name)"
 date: 2023-03-18
 ---
-In pattern [BRBRKBGBG](/stripes/brbrkbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r2db4r4k15db4g4db2g12/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKBGBG](/stripes/brbrkbgbg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/411/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Alexander, hunting
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1995 — Alexander Hunting (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/411/))
-- 01/01/2002 — Alexander Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46))
-- undated — Alexander, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1995 — Alexander Hunting (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/411/">record</a>)</li>
+<li>01/01/2002 — Alexander Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=46">record</a>)</li>
+<li>undated — Alexander, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

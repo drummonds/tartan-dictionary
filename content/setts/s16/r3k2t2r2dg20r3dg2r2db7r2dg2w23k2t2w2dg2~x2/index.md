@@ -2,9 +2,10 @@
 title: "Stuart/Stewart of Appin (Dress Hunting Stewart)"
 date: 2023-03-18
 ---
-In pattern [GWBKWGRBRGRGRBKR](/stripes/gwbkwgrbrgrgrbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k2b2r2g20r3g2r2ba7r2g2ln23k2b2ln2g2/)
+(the same proportion at any scale), whose colour order is pattern [GWBKWGRBRGRGRBKR](/stripes/gwbkwgrbrgrgrbkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4015
 

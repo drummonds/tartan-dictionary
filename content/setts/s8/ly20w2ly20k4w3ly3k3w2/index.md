@@ -2,18 +2,20 @@
 title: "Guzzo Check (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKYWKYWY](/stripes/wkywkywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y20w2y20k4w3y3k3w2/)
+(the same proportion at any scale), whose colour order is pattern [WKYWKYWY](/stripes/wkywkywy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6012
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2009 — Guzzo Check (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6012))
-- pre 2009 — Guzzo Check (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8036/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2009 — Guzzo Check (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6012">record</a>)</li>
+<li>pre 2009 — Guzzo Check (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8036/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

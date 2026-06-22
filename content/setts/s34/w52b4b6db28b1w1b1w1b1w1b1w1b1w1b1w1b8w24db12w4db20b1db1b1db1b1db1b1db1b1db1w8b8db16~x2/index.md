@@ -2,9 +2,10 @@
 title: "Lake Superior Ice Water Mansion"
 date: 2023-03-18
 ---
-In pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w52b4ba6db28ba1w1ba1w1ba1w1ba1w1ba1w1ba1w1ba8w24db12w4db20b1db1b1db1b1db1b1db1b1db1w8b8db16/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10198
 

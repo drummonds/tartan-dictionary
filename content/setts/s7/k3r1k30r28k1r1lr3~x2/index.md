@@ -2,18 +2,20 @@
 title: "Cunningham D"
 date: 2023-03-18
 ---
-In pattern [KRKRKRY](/stripes/krkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dr1k30dr28k1dr1n3/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRY](/stripes/krkrkry/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cunningham D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Cunningham D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cunningham D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Cunningham D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 DR2 K60 DR56 K2 DR2 N/6

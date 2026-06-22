@@ -2,9 +2,10 @@
 title: "Alberta"
 date: 2023-03-18
 ---
-In pattern [GKYKBKY](/stripes/gkykbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18k2lr2k2b3k2y6/)
+(the same proportion at any scale), whose colour order is pattern [GKYKBKY](/stripes/gkykbky/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

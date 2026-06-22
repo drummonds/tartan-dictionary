@@ -2,9 +2,10 @@
 title: "Poulter SG 097 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRWRWRYWYRWRW](/stripes/wrwrwrywyrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln25r8ln8r8ln8r46lr46ln8lr46r46ln46r8ln8/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWRYWYRWRW](/stripes/wrwrwrywyrwrw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7715/
 

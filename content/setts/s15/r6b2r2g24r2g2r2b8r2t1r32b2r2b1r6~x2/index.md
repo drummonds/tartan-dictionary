@@ -2,9 +2,10 @@
 title: "Drummond"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ba2r2g24r2g2r2ba8r2b1r32ba2r2ba1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=980
 

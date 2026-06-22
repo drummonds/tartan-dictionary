@@ -2,9 +2,10 @@
 title: "Welsh National (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KGRGKGY](/stripes/kgrgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4t2lr2t2k2t15dy2/)
+(the same proportion at any scale), whose colour order is pattern [KGRGKGY](/stripes/kgrgkgy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2167/
 

@@ -2,9 +2,10 @@
 title: "Ramsay"
 date: 2023-03-18
 ---
-In pattern [BKBKWK](/stripes/bkbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln2k28b30k1b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWK](/stripes/bkbkwk/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Ramsay Blue
 - Ramsay Blue New Blue
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Ramsay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ramsay Blue Clan Tartan Tartan Number: 259. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=259))
-- undated — Ramsay Blue New Blue Clan Tartan Tartan Number: 25999. Earliest known date: This is a copy of the Ramsay Blue saved without changes, only suppose to suggest the brighter Ramsay New Blue polyvis tartan fabric for customers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=25999))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ramsay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ramsay Blue Clan Tartan Tartan Number: 259. Earliest known date: 1930 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=259">record</a>)</li>
+<li>undated — Ramsay Blue New Blue Clan Tartan Tartan Number: 25999. Earliest known date: This is a copy of the Ramsay Blue saved without changes, only suppose to suggest the brighter Ramsay New Blue polyvis tartan fabric for customers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=25999">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 LN4 K56 B60 K2 B/6

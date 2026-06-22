@@ -2,9 +2,10 @@
 title: "Greer (Name?)"
 date: 2023-03-18
 ---
-In pattern [BBBRBBRW](/stripes/bbbrbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16db3b3n3b3db10dr12w4/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBBRW](/stripes/bbbrbbrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5117/
 

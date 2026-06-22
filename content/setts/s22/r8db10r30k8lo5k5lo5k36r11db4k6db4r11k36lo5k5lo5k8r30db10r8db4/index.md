@@ -2,9 +2,10 @@
 title: "Johnnie Walker (2003)"
 date: 2023-03-18
 ---
-In pattern [BRBRKYKYKRBKBRKYKYKRBR](/stripes/brbrkykykrbkbrkykykrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr8db10dr30k8dy5k5dy5k36dr11db4k6db4dr11k36dy5k5dy5k8dr30db10dr8db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKYKYKRBKBRKYKYKRBR](/stripes/brbrkykykrbkbrkykykrbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1895
 

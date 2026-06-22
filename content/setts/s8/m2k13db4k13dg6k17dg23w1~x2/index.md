@@ -2,9 +2,10 @@
 title: "Meiklejohn (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKBKGKGW](/stripes/rkbkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k13db4k13dg6k17dg23ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKBKGKGW](/stripes/rkbkgkgw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5932
 

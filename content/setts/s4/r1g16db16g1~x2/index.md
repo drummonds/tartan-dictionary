@@ -2,9 +2,10 @@
 title: "Barclay"
 date: 2023-03-18
 ---
-In pattern [GBGR](/stripes/gbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1dbc16g16ra1/)
+(the same proportion at any scale), whose colour order is pattern [GBGR](/stripes/gbgr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=215
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Barclay Hunting
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1842 — Barclay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=215))
-- undated — Barclay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Barclay Hunting Clan Tartan Tartan Number: 705. Earliest known date: 1842 The 'Vestiarium' attempted to persuade its readers that the illustrated tartans were of great antiquity. Despite this fault the work contains the earliest record of many tartans some of which have been verified by other means. Innes, Stewart, and W & A K Johnston, also record this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=705))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Barclay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=215">record</a>)</li>
+<li>undated — Barclay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Barclay Hunting Clan Tartan Tartan Number: 705. Earliest known date: 1842 The 'Vestiarium' attempted to persuade its readers that the illustrated tartans were of great antiquity. Despite this fault the work contains the earliest record of many tartans some of which have been verified by other means. Innes, Stewart, and W & A K Johnston, also record this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=705">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Dickson (Kirkcudbrightshire) (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBGBWB](/stripes/bbbgbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6db8b8g12dn29w3dn4/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBWB](/stripes/bbbgbwb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10140/
 

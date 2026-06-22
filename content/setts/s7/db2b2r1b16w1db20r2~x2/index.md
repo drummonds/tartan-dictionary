@@ -2,9 +2,10 @@
 title: "British American School (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBRBWBR](/stripes/bbrbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2b2r1b16ln1db20r2/)
+(the same proportion at any scale), whose colour order is pattern [BBRBWBR](/stripes/bbrbwbr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7465/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - British American School of Charlotte
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Jan 2008 — British American School (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7465/))
-- undated — British American School of Charlotte (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5510))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Jan 2008 — British American School (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7465/">record</a>)</li>
+<li>undated — British American School of Charlotte (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5510">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

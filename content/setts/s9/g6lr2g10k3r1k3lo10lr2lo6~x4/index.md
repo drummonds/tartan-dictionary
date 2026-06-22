@@ -2,9 +2,10 @@
 title: "Eire (District?)"
 date: 2023-03-18
 ---
-In pattern [GYGKRKYYY](/stripes/gygkrkyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o6n2o10k3dr1k3g10n2g6/)
+(the same proportion at any scale), whose colour order is pattern [GYGKRKYYY](/stripes/gygkrkyyy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4801/
 

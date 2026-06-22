@@ -2,9 +2,10 @@
 title: "Pendleton dress"
 date: 2023-03-18
 ---
-In pattern [BKGRGKGYGKB](/stripes/bkgrgkgygkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6db40dg34r5dg34k6dg34y5dg34db40b6/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKGYGKB](/stripes/bkgrgkgygkb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

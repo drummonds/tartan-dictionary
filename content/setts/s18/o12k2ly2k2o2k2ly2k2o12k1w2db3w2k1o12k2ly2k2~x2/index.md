@@ -2,9 +2,10 @@
 title: "City of New Bern 300"
 date: 2023-03-18
 ---
-In pattern [KYKRKWBWKRKYKRKYKR](/stripes/kykrkwbwkrkykrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12k2y2k2dr2k2y2k2dr12k1w2db3w2k1dr12k2y2k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKWBWKRKYKRKYKR](/stripes/kykrkwbwkrkykrkykr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10034
 

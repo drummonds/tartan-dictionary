@@ -2,9 +2,10 @@
 title: "Lorne, Marquis of #2"
 date: 2023-03-18
 ---
-In pattern [BGGGGGGYGWGRGGGGGG](/stripes/bggggggygwgrgggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10g8dg46g3dg3g55r4g5ln4g5y4g55dg3g3dg46g8dg10b10/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGGYGWGRGGGGGG](/stripes/bggggggygwgrgggggg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2220
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lorne, Marquis of #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Lorne, Marquis of #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2220))
-- undated — Lorne, Marquis of (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Lorne, Marquis of #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2220">record</a>)</li>
+<li>undated — Lorne, Marquis of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

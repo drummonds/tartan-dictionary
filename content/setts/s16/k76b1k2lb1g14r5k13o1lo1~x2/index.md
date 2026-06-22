@@ -2,9 +2,10 @@
 title: "Royal Canadian Mounted Police Corporate Tartan Tartan Number: 2447. Earliest known date: 05/05/1998 Designed by Violet Holmes, B.C. Canada and adopted as the official RCMP tartan. Weft differs in having red in place of orange so making 6 weft colours. Sample presented to the RCMP by Priness Anne during a visit to New Brunswick on 25th June 1998. Lochcarron records say December 1997. Different weft - orange missing. Original count had dark blue in place of the black shown here in the Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKWGRKRYRKRGWKBK](/stripes/bkwgrkryrkrgwkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/bn76b1bn2n1g14dr5bn13do1dy1/)
+(the same proportion at any scale), whose colour order is pattern [BKWGRKRYRKRGWKBK](/stripes/bkwgrkryrkrgwkbk/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2447
 

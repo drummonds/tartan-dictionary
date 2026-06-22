@@ -2,9 +2,10 @@
 title: "Auto Docs"
 date: 2023-03-18
 ---
-In pattern [BBKWBWKB](/stripes/bbkwbwkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30b2k9w3db6w4k3b6/)
+(the same proportion at any scale), whose colour order is pattern [BBKWBWKB](/stripes/bbkwbwkb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11431
 

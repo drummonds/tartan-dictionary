@@ -2,9 +2,10 @@
 title: "Head of the Lakes"
 date: 2023-03-18
 ---
-In pattern [BKWBWBGKWG](/stripes/bkwbwbgkwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6ln1db12ga6p2ln1p2ln1db12b1/)
+(the same proportion at any scale), whose colour order is pattern [BKWBWBGKWG](/stripes/bkwbwbgkwg/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Highland Hospice (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGYGBGBGY](/stripes/gbgygbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g51dp3g5dy3g5dp5g5dp5g5dy3/)
+(the same proportion at any scale), whose colour order is pattern [GBGYGBGBGY](/stripes/gbgygbgbgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5189/
 

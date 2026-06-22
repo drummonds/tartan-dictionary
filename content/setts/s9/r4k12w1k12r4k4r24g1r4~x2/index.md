@@ -2,18 +2,20 @@
 title: "Wemyss"
 date: 2023-03-18
 ---
-In pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k12ln1k12r4k4r24g1r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRKWKR](/stripes/rgrkrkwkr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Wemyss (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Wemyss Clan Tartan Tartan Number: 1512. Earliest known date: 1842 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1512))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Wemyss (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Wemyss Clan Tartan Tartan Number: 1512. Earliest known date: 1842 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1512">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 K24 LN2 K24 R8 K8 R48 G2 R/8

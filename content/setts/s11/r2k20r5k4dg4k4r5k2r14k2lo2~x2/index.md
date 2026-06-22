@@ -2,9 +2,10 @@
 title: "Canterbury (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKRKGKRKRKY](/stripes/rkrkgkrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k20dr5k4g4k4dr5k2dr14k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKGKRKRKY](/stripes/rkrkgkrkrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3265/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Canterbury New Zealand
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1999 — Canterbury (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3265/))
-- 01/01/2000 — Canterbury (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326))
-- undated — Canterbury New Zealand District Tartan Tartan Number: 3265. Earliest known date: 1999 Designed by Blair Urquhart of the House of Tartan, for Clinton John MacInnes, Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3265))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1999 — Canterbury (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3265/">record</a>)</li>
+<li>01/01/2000 — Canterbury (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5326">record</a>)</li>
+<li>undated — Canterbury New Zealand District Tartan Tartan Number: 3265. Earliest known date: 1999 Designed by Blair Urquhart of the House of Tartan, for Clinton John MacInnes, Timely Marketing & Promotions Ltd, PO Box 28168, Christchurch, NZ. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3265">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

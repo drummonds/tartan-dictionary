@@ -2,9 +2,10 @@
 title: "Lauder Dress"
 date: 2023-03-18
 ---
-In pattern [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db4ln52db5ln5k26g25r6g28k25g3db26g6db25g3k27ln50db4r4/)
+(the same proportion at any scale), whose colour order is pattern [RBWBWKGRGKGBGBGKWBR](/stripes/rbwbwkgrgkgbgbgkwbr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2058
 

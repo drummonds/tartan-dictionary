@@ -2,9 +2,10 @@
 title: "House of Edgar Shotts & Dykehead"
 date: 2023-03-18
 ---
-In pattern [BWBYBWBBRBRBRBRBBWBYBW](/stripes/bwbybwbbrbrbrbrbbwbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10ln2dba3y2dba2ln2dba2n14r22db2r6dba2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBWBBRBRBRBRBBWBYBW](/stripes/bwbybwbbrbrbrbrbbwbybw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1772
 

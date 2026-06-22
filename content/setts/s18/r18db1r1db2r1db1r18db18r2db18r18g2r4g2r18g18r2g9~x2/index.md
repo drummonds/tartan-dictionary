@@ -2,9 +2,10 @@
 title: "MacTier of Durris"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr18db1dr1db2dr1db1dr18db18dr2db18dr18g2dr4g2dr18g18dr2g9/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2773
 

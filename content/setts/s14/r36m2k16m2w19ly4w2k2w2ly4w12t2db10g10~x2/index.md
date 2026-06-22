@@ -2,9 +2,10 @@
 title: "Dundee Dress District Tartan Tartan Number: 691. Earliest known date: 1986 Original index card confused. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBBWYWKWYWRKRR](/stripes/gbbwywkwywrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra36r2k16r2ln19y4ln2k2ln2y4ln12b2db10g10/)
+(the same proportion at any scale), whose colour order is pattern [GBBWYWKWYWRKRR](/stripes/gbbwywkwywrkrr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=691
 

@@ -2,9 +2,10 @@
 title: "Auld Lang Syne, Blue (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k2b9k3p3k3p3k23g10k2p6ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBKGKBKBKBKW](/stripes/wbkgkbkbkbkw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7250/
 

@@ -2,9 +2,10 @@
 title: "Pina (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBGBGRGBGRGBBBG](/stripes/bbbgbgrgbgrgbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2db1b6db6g4r1g18db1g1r1g1db1g4db10b6db1/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBGRGBGRGBBBG](/stripes/bbbgbgrgbgrgbbbg/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8550/
 

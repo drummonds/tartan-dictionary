@@ -2,9 +2,10 @@
 title: "Harris, Jeffrey S (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBGBRGRGRKRY](/stripes/kbgbrgrgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db2g2db22dr4g3dr3g2dr22k2dr2y2/)
+(the same proportion at any scale), whose colour order is pattern [KBGBRGRGRKRY](/stripes/kbgbrgrgrkry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11261/
 

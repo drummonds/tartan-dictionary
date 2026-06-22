@@ -2,9 +2,10 @@
 title: "Grant of Ballindalloch (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRBRGRBRGRGRBR](/stripes/rbrbrgrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db3r3g16r3g3r3db5r3lg5r12db5r3db3r5/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRGRBRGRGRBR](/stripes/rbrbrgrbrgrgrbr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2149/
 

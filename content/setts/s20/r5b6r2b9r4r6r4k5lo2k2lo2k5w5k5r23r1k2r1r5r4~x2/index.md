@@ -2,18 +2,20 @@
 title: "Westwood Red Anderson (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr5b6lr2b9lr4r6lr4k5dy2k2dy2k5ln5k5r23lr1k2lr1r5lr4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRRRKYKYKWKRRKRRR](/stripes/rbrbrrrkykykwkrrkrrr/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7490/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Westwood Red Anderson (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7490/))
-- undated — Westwood Red Anderson (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Westwood Red Anderson (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7490/">record</a>)</li>
+<li>undated — Westwood Red Anderson (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5531">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

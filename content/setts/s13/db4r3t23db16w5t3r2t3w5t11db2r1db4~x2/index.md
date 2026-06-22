@@ -2,9 +2,10 @@
 title: "Illinois St Andrews Society Corporate Tartan Tartan Number: 2051. Earliest known date: 1991 A philanthropic society founded by Scots around 1840. The tartan was designed to mark the 150th anniversary. The colours represent the State of Illinois Flag, the Chicago sports teams and the St Andrew's flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r3b23db16ln5b3r2b3ln5b11db2r1db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBWBRBWBBRB](/stripes/brbbwbrbwbbrb/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2051
 

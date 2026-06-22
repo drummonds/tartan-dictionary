@@ -2,18 +2,20 @@
 title: "Spirit of Scotland (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db96p8db12dba3db3dba3db3dg20p8k3p14/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBGBKB](/stripes/bbbbbbbgbkb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2451/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1998 — Spirit of Scotland (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2451/))
-- undated — Spirit of Scotland Corporate Tartan Tartan Number: 2451. Earliest known date: 2002 Designed by Michael King of Philip King Tailoring Ltd, Aberdeen. The design was adopted by the National Trust for Scotland for Fyvie Castle in Aberdeenshire. Woven by Lochcarron and Strathmore. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2451))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1998 — Spirit of Scotland (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2451/">record</a>)</li>
+<li>undated — Spirit of Scotland Corporate Tartan Tartan Number: 2451. Earliest known date: 2002 Designed by Michael King of Philip King Tailoring Ltd, Aberdeen. The design was adopted by the National Trust for Scotland for Fyvie Castle in Aberdeenshire. Woven by Lochcarron and Strathmore. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2451">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/192 P16 DB24 DBa6 DB6 DBa6 DB6 DG40 P16 K6 P/28

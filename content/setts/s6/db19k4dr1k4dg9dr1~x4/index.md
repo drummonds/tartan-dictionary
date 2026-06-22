@@ -2,19 +2,21 @@
 title: "Monarchs"
 date: 2023-03-18
 ---
-In pattern [BGKBKB](/stripes/bgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19k4dr1k4g9dr1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKB](/stripes/bgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1996 — Monarchs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979))
-- pre 2002 — Monarchs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2222/))
-- undated — Monarchs (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Monarchs (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2979">record</a>)</li>
+<li>pre 2002 — Monarchs (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2222/">record</a>)</li>
+<li>undated — Monarchs (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

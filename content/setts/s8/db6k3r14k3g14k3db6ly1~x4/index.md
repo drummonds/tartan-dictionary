@@ -2,18 +2,20 @@
 title: "Kilgour (Asymmetrical)"
 date: 2023-03-18
 ---
-In pattern [BKRKGKBY](/stripes/bkrkgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6k3r14k3g14k3dba6y1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKGKBY](/stripes/bkrkgkby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — Kilgour (Asymmetrical) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968))
-- 1880 — Kilgour (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1979/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Kilgour (Asymmetrical) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1968">record</a>)</li>
+<li>1880 — Kilgour (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1979/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

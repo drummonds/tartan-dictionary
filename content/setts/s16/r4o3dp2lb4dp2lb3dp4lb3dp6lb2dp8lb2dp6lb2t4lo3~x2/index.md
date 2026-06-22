@@ -2,9 +2,10 @@
 title: "Bradwell, Amy (Personal) XXXXXXXXXX"
 date: 2023-03-18
 ---
-In pattern [RRBWBWBWBWBWBWBY](/stripes/rrbwbwbwbwbwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4n3p2lr4p2lr3p4lr3p6lr2p8lr2p6lr2b4o3/)
+(the same proportion at any scale), whose colour order is pattern [RRBWBWBWBWBWBWBY](/stripes/rrbwbwbwbwbwbwby/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10735/
 

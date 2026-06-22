@@ -2,9 +2,10 @@
 title: "Drummond of Perth"
 date: 2023-03-18
 ---
-In pattern [RWBYGRBW](/stripes/rwbygrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36n1db3y1g16r8db3n5/)
+(the same proportion at any scale), whose colour order is pattern [RWBYGRBW](/stripes/rwbygrbw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

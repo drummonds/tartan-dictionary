@@ -2,9 +2,10 @@
 title: "Quigley of Knockcroghery (Modern)"
 date: 2023-03-18
 ---
-In pattern [BWKBYBYBKWGR](/stripes/bwkbybybkwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25w2k2db15y2db1y2db15k2w2g16r1/)
+(the same proportion at any scale), whose colour order is pattern [BWKBYBYBKWGR](/stripes/bwkbybybkwgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10515
 

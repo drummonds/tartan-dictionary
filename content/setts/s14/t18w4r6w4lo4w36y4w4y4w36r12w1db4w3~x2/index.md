@@ -2,9 +2,10 @@
 title: "Confederate Memorial Dress"
 date: 2023-03-18
 ---
-In pattern [BWRWYWGWGWRWBW](/stripes/bwrwywgwgwrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba18w4r6w4dy4w36n4w4n4w36r12w1db4w3/)
+(the same proportion at any scale), whose colour order is pattern [BWRWYWGWGWRWBW](/stripes/bwrwywgwgwrwbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=733
 

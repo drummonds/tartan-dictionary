@@ -2,9 +2,10 @@
 title: "Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGYG](/stripes/bgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg21y43dg86b10/)
+(the same proportion at any scale), whose colour order is pattern [BGYG](/stripes/bgyg/).
 
-This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=201
 

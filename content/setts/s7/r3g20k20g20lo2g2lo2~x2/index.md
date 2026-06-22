@@ -2,18 +2,20 @@
 title: "Paton (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGKGYGY](/stripes/rgkgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g20k20g20dy2g2dy2/)
+(the same proportion at any scale), whose colour order is pattern [RGKGYGY](/stripes/rgkgygy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1930 — Paton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302))
-- 1930s — Paton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2128/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Paton (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3302">record</a>)</li>
+<li>1930s — Paton (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2128/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

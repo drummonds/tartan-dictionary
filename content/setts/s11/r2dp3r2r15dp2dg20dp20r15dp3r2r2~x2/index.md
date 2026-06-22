@@ -2,9 +2,10 @@
 title: "Drumlithie - 1790 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2dp3do2r15dp2g20dp20r15dp3do2r2/)
+(the same proportion at any scale), whose colour order is pattern [RBRRBGBRBRR](/stripes/rbrrbgbrbrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1414/
 

@@ -2,9 +2,10 @@
 title: "City of Edinburgh (2001) (District)"
 date: 2023-03-18
 ---
-In pattern [KWKWKRGRRBWGKRBR](/stripes/kwkwkrgrrbwgkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18b1n18k1g18w1b18r1n18g1r18k3w4k3w4k3/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKRGRRBWGKRBR](/stripes/kwkwkrgrrbwgkrbr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6396/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Edinburgh, City of..
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1999 — City of Edinburgh (2001) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6396/))
-- 01/06/2001 — City of Edinburgh (2001) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=656))
-- undated — Edinburgh, City of.. (2001) District Tartan Tartan Number: 6396. Earliest known date: June 2001 Asymmetric tartan. Lochcarron swatch. Note says June 2001 Trial. Muted version woven in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6396))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1999 — City of Edinburgh (2001) (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6396/">record</a>)</li>
+<li>01/06/2001 — City of Edinburgh (2001) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=656">record</a>)</li>
+<li>undated — Edinburgh, City of.. (2001) District Tartan Tartan Number: 6396. Earliest known date: June 2001 Asymmetric tartan. Lochcarron swatch. Note says June 2001 Trial. Muted version woven in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6396">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Empire Golf Check (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2p4db2g25db4g2db4k11p4ln2p4g11db2k2db24p4db2r2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBKBGBWBKBGBGBBR](/stripes/rbbbkbgbwbkbgbgbbr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6888/
 

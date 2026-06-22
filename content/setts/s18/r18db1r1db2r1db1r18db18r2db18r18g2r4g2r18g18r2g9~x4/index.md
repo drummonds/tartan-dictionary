@@ -2,9 +2,10 @@
 title: "Ross"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18db1r1db2r1db1r18db18r2db18r18g2r4g2r18g18r2g9/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRBRBRBRBRBR](/stripes/grgrgrgrbrbrbrbrbr/).
 
-This was sourced from logan-1831.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from logan-1831.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link /posts/logans-scottish-gael/
 

@@ -2,19 +2,21 @@
 title: "Leith"
 date: 2023-03-18
 ---
-In pattern [BKBBBBBGBBBKR](/stripes/bkbbbbbgbbbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k2b17db3b3db22b3dg22b3db3b27k2dr4/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBBBGBBBKR](/stripes/bkbbbbbgbbbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2090
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1995 — Leith (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2090))
-- pre 1996 — Leith (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2333/))
-- undated — Leith District Tartan Tartan Number: 2333. Earliest known date: 1995 Designed by Kinloch Anderson & John Bain of Peter MacArthur for the Tall Ships event in 1995. The design is based on the Robertson tartan in honour of Henry Robb - Leith shipbuilders. The red line marks Leith's strong links with the Claret Trade. The tartan was later formally adopted as the Leith District tartan. Worn by staff at the Royal Yacht Britannia and is sometimes misnamed as that attraction's tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2333))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Leith (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2090">record</a>)</li>
+<li>pre 1996 — Leith (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2333/">record</a>)</li>
+<li>undated — Leith District Tartan Tartan Number: 2333. Earliest known date: 1995 Designed by Kinloch Anderson & John Bain of Peter MacArthur for the Tall Ships event in 1995. The design is based on the Robertson tartan in honour of Henry Robb - Leith shipbuilders. The red line marks Leith's strong links with the Claret Trade. The tartan was later formally adopted as the Leith District tartan. Worn by staff at the Royal Yacht Britannia and is sometimes misnamed as that attraction's tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2333">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

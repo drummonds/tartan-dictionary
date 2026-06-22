@@ -2,9 +2,10 @@
 title: "MacRae The Princes Own Clan Tartan Tartan Number: 982. Earliest known date: c.1815 Two MacRae setts, of which this is one, are contained in the Highland Society collection and presumably sealed by the Chief around 1815. Unless he recognised both, perhaps one is the clan and the other the Chief's own See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g29r5g28r22k2r2k4r2k2r22k2r2k4r2k2r20ln2r9db26r5db28r9ln2r22g3r8g3r22g8r6g8r6g5y3g5r7g12ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGYGRGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgygrgw/).
 
-This was sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=982
 

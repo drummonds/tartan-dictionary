@@ -2,9 +2,10 @@
 title: "Douglas"
 date: 2023-03-18
 ---
-In pattern [WBGBKBGBW](/stripes/wbgbkbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2db16g16b4k4b4g16db16ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBGBKBGBW](/stripes/wbgbkbgbw/).
 
-This was sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from logan-1831.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link /posts/logans-scottish-gael/
 

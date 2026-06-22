@@ -2,9 +2,10 @@
 title: "Paget Family Tartan Tartan Number: 2072. Earliest known date: 1992 Designed as a 'Family' tartan and woven by Peter MacDonald in Crieff. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g4ga2g10k18g2db18g3db18g2k18g16ln1r3/)
+(the same proportion at any scale), whose colour order is pattern [RGGGKGBGBGKGWR](/stripes/rgggkgbgbgkgwr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2072
 

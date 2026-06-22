@@ -2,9 +2,10 @@
 title: "Scottish Association for Neurological Sciences"
 date: 2023-03-18
 ---
-In pattern [BYBYBKBWR](/stripes/bybybkbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db46y4db4y4db6k16n66na11r6/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBKBWR](/stripes/bybybkbwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5851
 

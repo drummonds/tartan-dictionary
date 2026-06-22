@@ -2,18 +2,20 @@
 title: "Schwarzen Keiler, Die"
 date: 2023-03-18
 ---
-In pattern [GKRWKGKRWKGY](/stripes/gkrwkgkrwkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6k6r1w1k6dg32k6r1w1k6dg6y2/)
+(the same proportion at any scale), whose colour order is pattern [GKRWKGKRWKGY](/stripes/gkrwkgkrwkgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 26/08/2013 — Schwarzen Keiler, Die (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906))
-- 2013 — Schwarzen Keiler, Die (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10906/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>26/08/2013 — Schwarzen Keiler, Die (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10906">record</a>)</li>
+<li>2013 — Schwarzen Keiler, Die (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10906/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

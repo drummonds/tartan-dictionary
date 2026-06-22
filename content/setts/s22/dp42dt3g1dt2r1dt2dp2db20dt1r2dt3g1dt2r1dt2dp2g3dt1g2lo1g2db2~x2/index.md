@@ -2,18 +2,20 @@
 title: "Monarch of the Glen"
 date: 2023-03-18
 ---
-In pattern [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p42dba3g1dba2dr1dba2p2db20dba1dr2dba3g1dba2dr1dba2p2g3dba1g2dy1g2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBRBBBBRBGBRBBGBGYGB](/stripes/bbgbrbbbbrbgbrbbgbgygb/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 05/07/2002 — Monarch of the Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978))
-- 2002 — Monarch of the Glen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4542/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>05/07/2002 — Monarch of the Glen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2978">record</a>)</li>
+<li>2002 — Monarch of the Glen (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4542/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

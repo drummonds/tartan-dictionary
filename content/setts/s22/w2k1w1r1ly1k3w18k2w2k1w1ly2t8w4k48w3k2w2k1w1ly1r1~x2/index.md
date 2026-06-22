@@ -2,9 +2,10 @@
 title: "Normandy Bay Myth (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYWKWKWKWBYWKWKWKYRWKW](/stripes/rywkwkwkwbywkwkwkyrwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1ln1r1y1k3ln18k2ln2k1ln1y2b8ln4k48ln3k2ln2k1ln1y1r1/)
+(the same proportion at any scale), whose colour order is pattern [RYWKWKWKWBYWKWKWKYRWKW](/stripes/rywkwkwkwbywkwkwkyrwkw/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10747/
 

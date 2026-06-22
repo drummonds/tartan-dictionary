@@ -2,9 +2,10 @@
 title: "New Brunswick, or Beaverbrook"
 date: 2023-03-18
 ---
-In pattern [BYBGGGGGGGBYBYBGRRRYRRRBYGYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrrryrrrbygyrgbybybgggggggbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1y1b1dg18r16y1n2y3b4r8t9r3y2r9t5r6dg18b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBGGGGGGGBYBYBGRRRYRRRBYGYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrrryrrrbygyrgbybybgggggggbyb/).
 
-This was sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

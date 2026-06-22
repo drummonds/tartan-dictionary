@@ -2,9 +2,10 @@
 title: "Blue Matheson Hunting (Kinloch Anderson)"
 date: 2023-03-18
 ---
-In pattern [YBYBYBKWBYBYBYBYBKYBY](/stripes/ybybybkwbybybybybkyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy7db3dy2db2dy2db30k9n2db2dy2db2dy3db5dy2db2dy2db2k9dy5db3dy4/)
+(the same proportion at any scale), whose colour order is pattern [YBYBYBKWBYBYBYBYBKYBY](/stripes/ybybybkwbybybybybkyby/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5272
 

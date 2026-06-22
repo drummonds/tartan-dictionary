@@ -2,18 +2,20 @@
 title: "MacCraig"
 date: 2023-03-18
 ---
-In pattern [BWGRKGBRG](/stripes/bwgrkgbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2dr1db7g1k7dr1g7lp1dra2/)
+(the same proportion at any scale), whose colour order is pattern [BWGRKGBRG](/stripes/bwgrkgbrg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5171
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1746 — MacCraig (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5171))
-- circa 1746? — MacCraig (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3337/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1746 — MacCraig (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5171">record</a>)</li>
+<li>circa 1746? — MacCraig (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3337/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

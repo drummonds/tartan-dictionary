@@ -2,9 +2,10 @@
 title: "MacInroy"
 date: 2023-03-18
 ---
-In pattern [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkrkrkgkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18k3r3k11g9k2g9k11r2k11r3k3r9g2k3g2r9k3r3k11r2k11r3k3r18b2r3b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKRKRKRKRGKGRKRKRKGKGKRKR](/stripes/brbrkrkrkrkrgkgrkrkrkgkgkrkr/).
 
-This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "MacRae Dress Red Fancy Tartan Tartan Number: 6529. Earliest known date: 2000 A dance version of MacRae Dress. From a sample provided by Tartantown. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKWRWKWKWBWKWKWRWKR](/stripes/brkwrwkwkwbwkwkwrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k2w1r8w1k2w9k1w3b1w3k1w9k2w1r8w1k2r3b1/)
+(the same proportion at any scale), whose colour order is pattern [BRKWRWKWKWBWKWKWRWKR](/stripes/brkwrwkwkwbwkwkwrwkr/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6529
 

@@ -2,9 +2,10 @@
 title: "Gemmell Blue (2001) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKBBWBWRW](/stripes/kwkbbwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n2k2b5db48n7ba6n2dr2n2/)
+(the same proportion at any scale), whose colour order is pattern [KWKBBWBWRW](/stripes/kwkbbwbwrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4103/
 

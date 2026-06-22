@@ -2,18 +2,20 @@
 title: "Glen Chalmadale"
 date: 2023-03-18
 ---
-In pattern [GWGKRKRBR](/stripes/gwgkrkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13ln2g10k5r13k3r5db15dr5/)
+(the same proportion at any scale), whose colour order is pattern [GWGKRKRBR](/stripes/gwgkrkrbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1369
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Glen Chalmadale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1369))
-- 2006 — Glen Chalmadale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7093/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Glen Chalmadale (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1369">record</a>)</li>
+<li>2006 — Glen Chalmadale (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7093/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

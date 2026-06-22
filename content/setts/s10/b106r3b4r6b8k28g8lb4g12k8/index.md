@@ -2,18 +2,20 @@
 title: "Parr"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b106r3b4r6b8k28g8lr4g12k8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGWGK](/stripes/brbrbkgwgk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Parr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297))
-- 1985 — Parr (white lines) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/439/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Parr (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3297">record</a>)</li>
+<li>1985 — Parr (white lines) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/439/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

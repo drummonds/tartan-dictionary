@@ -2,9 +2,10 @@
 title: "Barnaby Brown Pibroch"
 date: 2023-03-18
 ---
-In pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2r1dg8db2dg1db2dg1db10r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGBGBR](/stripes/grgbgbgbr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

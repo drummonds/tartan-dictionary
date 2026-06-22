@@ -2,9 +2,10 @@
 title: "Rob Roy, Blue & Red (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BR](/stripes/br/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1db1/)
+(the same proportion at any scale), whose colour order is pattern [BR](/stripes/br/).
 
-This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3156/
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Cairnbulg & Inverllocjy Fisher Plaid
 - Rob Roy, Blue & Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Rob Roy, Blue & Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3156/))
-- pre 2010 — Dice (Name?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8114/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Rob Roy, Blue & Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3156/">record</a>)</li>
+<li>pre 2010 — Dice (Name?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8114/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/100 DB/100

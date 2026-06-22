@@ -2,9 +2,10 @@
 title: "Brown Family Tartan Tartan Number: 432. Earliest known date: 1850 The Scott Adie collection, a book of manufacturers samples, was recently sold at auction. The book is dated 1850 and the samples are thought to represent the tartans available for purchase between 1840-50. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBKRG](/stripes/brbrbkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r1db2r1db2k18r8g2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKRG](/stripes/brbrbkrg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=432
 

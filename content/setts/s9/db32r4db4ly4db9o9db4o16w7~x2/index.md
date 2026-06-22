@@ -2,9 +2,10 @@
 title: "Nevada State American District Tartan Tartan Number: 3091. Earliest known date: 2001 Blue and Silver represent the state colours of Nevada. Red represents the Virgin Valley black fire opal, the official state precious gemstone, and the red rock formations of southern Nevada; Yellow represents sagebrush, the official state flower; White represents the name of this state meaning snow-covered; Other synbolic reference are made in the US Senate Bill No. 347. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBYBRBRW](/stripes/brbybrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db32r4db4y4db9n9db4n16ln7/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBRBRW](/stripes/brbybrbrw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3091
 

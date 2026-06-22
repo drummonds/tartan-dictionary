@@ -2,9 +2,10 @@
 title: "Malone, Keagan Allen (Personal)"
 date: 2023-03-18
 ---
-In pattern [WRGGWYGWGYGYGY](/stripes/wrggwygwgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2lg3n2lg12y5lg12w1dg16y3w3lg3dg2lt2w1/)
+(the same proportion at any scale), whose colour order is pattern [WRGGWYGWGYGYGY](/stripes/wrggwygwgygygy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11625
 

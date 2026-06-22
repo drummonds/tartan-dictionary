@@ -2,9 +2,10 @@
 title: "Unidentified Fisherwife's Plaid"
 date: 2023-03-18
 ---
-In pattern [RWRBRBW](/stripes/rwrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln80b1r14b9r24ln2r4/)
+(the same proportion at any scale), whose colour order is pattern [RWRBRBW](/stripes/rwrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4293
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Unidentified, Fisherwife's Plaid
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unidentified Fisherwife's Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4293))
-- undated — Unidentified, Fisherwife's Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unidentified Fisherwife's Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4293">record</a>)</li>
+<li>undated — Unidentified, Fisherwife's Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

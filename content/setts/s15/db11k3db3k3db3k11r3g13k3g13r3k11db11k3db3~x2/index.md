@@ -2,9 +2,10 @@
 title: "Fletcher"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRGKGRKBKB](/stripes/bkbkbkrgkgrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11k3b3k3b3k11r3g13k3g13r3k11b11k3b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRGKGRKBKB](/stripes/bkbkbkrgkgrkbkb/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

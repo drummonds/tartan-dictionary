@@ -2,9 +2,10 @@
 title: "Gillies, dress Red"
 date: 2023-03-18
 ---
-In pattern [BWBWKRGRKY](/stripes/bwbwkrgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6k2r15g5r8k12ln24b2ln4b2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWKRGRKY](/stripes/bwbwkrgrky/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gillies, dress Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gillies, dress Red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gillies Dress Red Clan Tartan Tartan Number: 639. Earliest known date: pre 2003 MacKinlay Scale See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=639))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gillies, dress Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gillies Dress Red Clan Tartan Tartan Number: 639. Earliest known date: pre 2003 MacKinlay Scale See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=639">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/12 K4 R30 G10 R16 K24 LN48 B4 LN8 B/4

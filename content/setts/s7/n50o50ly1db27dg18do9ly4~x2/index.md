@@ -2,9 +2,10 @@
 title: "Lachance (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BRYBGBY](/stripes/brybgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n50na50y1db27dg18dr9y4/)
+(the same proportion at any scale), whose colour order is pattern [BRYBGBY](/stripes/brybgby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10645/
 

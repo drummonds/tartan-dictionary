@@ -2,18 +2,20 @@
 title: "Raymond of Doune"
 date: 2023-03-18
 ---
-In pattern [RBWBWYGR](/stripes/rbwbwygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg10dy1n1dn4n1dn25dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBWBWYGR](/stripes/rbwbwygr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Raymond of Doune (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469))
-- 1997 — Raymond of Doune (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5437/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Raymond of Doune (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3469">record</a>)</li>
+<li>1997 — Raymond of Doune (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5437/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

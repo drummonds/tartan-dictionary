@@ -2,9 +2,10 @@
 title: "Dark Island Navy Fashion Tartan Tartan Number: 5833. Earliest known date: May 2003 An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed navy blue. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey blue so as to be discernible. This new category of tartan has been described as a Solid Sett - a solid colour but with a sett still showing. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba4db2dba43db20dba4db2dba2db4dba2db2dba4db20dba43db2dba4db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBBBBB](/stripes/bbbbbbbbbbbbbbbb/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5833
 

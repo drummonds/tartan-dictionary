@@ -2,9 +2,10 @@
 title: "Dunfermline Athletic (2008) (Corp)"
 date: 2023-03-18
 ---
-In pattern [KWKWKRR](/stripes/kwkwkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11ln1k1ln1k4n8r1/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKRR](/stripes/kwkwkrr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7538/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dunfermline Athletic Football Club New Pars
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2005 — Dunfermline Athletic (2008) (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7538/))
-- undated — Dunfermline Athletic Football Club New Pars (2008) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5573))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2005 — Dunfermline Athletic (2008) (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7538/">record</a>)</li>
+<li>undated — Dunfermline Athletic Football Club New Pars (2008) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5573">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

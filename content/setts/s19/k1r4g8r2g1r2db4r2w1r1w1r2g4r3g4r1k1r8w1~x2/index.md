@@ -2,9 +2,10 @@
 title: "MacDougal 5"
 date: 2023-03-18
 ---
-In pattern [KRGRGRBRWRWRGRGRKRW](/stripes/krgrgrbrwrwrgrgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r4g8r2g1r2b4r2ln1r1ln1r2g4r3g4r1k1r8ln1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGRBRWRWRGRGRKRW](/stripes/krgrgrbrwrwrgrgrkrw/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

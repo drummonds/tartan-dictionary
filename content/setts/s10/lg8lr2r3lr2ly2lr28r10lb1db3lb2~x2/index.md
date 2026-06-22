@@ -2,9 +2,10 @@
 title: "Confederate Memorial Commemmorative Tartan Tartan Number: 2501. Earliest known date: 1995 Designed by Dr. Philip Smith in 1995. Grey is the colour of the Confederate States of America. The fields represent the Confederate Army in line of battle-- light blue for infantry, flanked by red for artilllery and yellow for outriding cavalry. The red field represents the Confederate flag in true proportions. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBWRYYYRYY](/stripes/wbwryyyryy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8na2dr3na2y2na28dr10n1db3n2/)
+(the same proportion at any scale), whose colour order is pattern [WBWRYYYRYY](/stripes/wbwryyyryy/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2501
 

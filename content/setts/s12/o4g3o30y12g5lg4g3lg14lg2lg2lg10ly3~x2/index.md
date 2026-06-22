@@ -2,18 +2,20 @@
 title: "Shrek"
 date: 2023-03-18
 ---
-In pattern [RGRGGYGYYYYY](/stripes/rgrggygyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4g3lt30gb12g5lga4g3lga14lg2lga2lg10y3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGGYGYYYYY](/stripes/rgrggygyyyyy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Shrek (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783))
-- 2009 — Shrek (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7259/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Shrek (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3783">record</a>)</li>
+<li>2009 — Shrek (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7259/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Durie Clan Tartan Tartan Number: 2228. Earliest known date: 1988 When the matriculation of the Durie 'Arms' was updated in June 1988, this tartan was designed for family use by Harry G Lindlay of Kinloch & Anderson of Edinburgh. The design is said to be based on the Argyle & Southern Highlanders regimental tartan - the yellow is from the mess dress (military uniform evening wear) facings (lapels) and the burgundy represents the Durie family's French connections. Andrew, son of Lt. Col. Raymond Varley Dewar Durie succeded his father as clan chieftain in 1999. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGRBRBRBRBRBRGY](/stripes/gygrbrbrbrbrbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12dr1db1dr1db1dr4g12y1g2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBRBRBRBRBRGY](/stripes/gygrbrbrbrbrbrgy/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2228
 

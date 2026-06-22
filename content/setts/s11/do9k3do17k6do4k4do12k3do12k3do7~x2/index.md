@@ -2,9 +2,10 @@
 title: "Black Shadow Fashion Tartan Tartan Number: 3193. Earliest known date: 01/01/2007 Designed as a combination of two shades of black, shown here as black and dark grey to illustrate the sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn9k3dn17k6dn4k4dn12k3dn12k3dn7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3193
 

@@ -2,18 +2,20 @@
 title: "Lennie"
 date: 2023-03-18
 ---
-In pattern [GBKGGK](/stripes/gbkggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dg10lg2k9p8dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBKGGK](/stripes/gbkggk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Lennie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095))
-- 1819 — Lennie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/725/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Lennie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2095">record</a>)</li>
+<li>1819 — Lennie (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/725/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

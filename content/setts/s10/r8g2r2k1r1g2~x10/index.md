@@ -2,9 +2,10 @@
 title: "Waverley Care Aids Trust"
 date: 2023-03-18
 ---
-In pattern [GRKRGRKRGR](/stripes/grkrgrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr8g2dr2k1dr1g2/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRKRGR](/stripes/grkrgrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5147
 

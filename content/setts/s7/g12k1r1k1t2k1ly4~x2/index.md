@@ -2,9 +2,10 @@
 title: "Alberta District Tartan Tartan Number: 2055. Earliest known date: 1961 Designed for the Edmonton Rehabilitation Society as a project for handloom weaving by disabled students. The Provincial Legislative of Alberta gave formal approval for the Alberta tartan in 1961. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKRKBKY](/stripes/gkrkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12k1do1k1b2k1y4/)
+(the same proportion at any scale), whose colour order is pattern [GKRKBKY](/stripes/gkrkbky/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2055
 

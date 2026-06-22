@@ -2,18 +2,20 @@
 title: "MacInnes"
 date: 2023-03-18
 ---
-In pattern [RGBKBKGKGKGKY](/stripes/rgbkbkgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g6b12k3ba3k3g16k2g2k2g2k12y2/)
+(the same proportion at any scale), whose colour order is pattern [RGBKBKGKGKGKY](/stripes/rgbkbkgkgkgky/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacInnes (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacInnes Clan Tartan Tartan Number: 1464. Earliest known date: 1908 Recorded by Adam in 1908. The Clan MacInnes of the West and the Clan Innes of Moray are two separate clans. The similarity in the structure of the MacInnes green tartan and the Innes red have resulted in the use of both tartans as 'dress' and 'hunting' tartans by both clans. The notes in the archives of the Scottish Tartans Society attribute the design to the 'Onich Grocer' with no further explanation. MacInneses are hereditary bowmen to the Chief of MacKinnon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1464))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacInnes (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacInnes Clan Tartan Tartan Number: 1464. Earliest known date: 1908 Recorded by Adam in 1908. The Clan MacInnes of the West and the Clan Innes of Moray are two separate clans. The similarity in the structure of the MacInnes green tartan and the Innes red have resulted in the use of both tartans as 'dress' and 'hunting' tartans by both clans. The notes in the archives of the Scottish Tartans Society attribute the design to the 'Onich Grocer' with no further explanation. MacInneses are hereditary bowmen to the Chief of MacKinnon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1464">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 G12 B24 K6 Ba6 K6 G32 K4 G4 K4 G4 K24 Y/4

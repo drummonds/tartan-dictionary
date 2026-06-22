@@ -2,9 +2,10 @@
 title: "Letang (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWYWBKWRWRWRWR](/stripes/bwywbkwrwrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14lb2y2lb2b25k6ln17r3ln3r3ln3r3ln3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWYWBKWRWRWRWR](/stripes/bwywbkwrwrwrwr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10416/
 

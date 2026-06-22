@@ -2,9 +2,10 @@
 title: "Kinnear, Pilette of"
 date: 2023-03-18
 ---
-In pattern [KRKGKGKGRYRYRGKGKGKRK](/stripes/krkgkgkgryryrgkgkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r1k6g2k6g24k4g2dr3n1dr2y1dr3g2k4g24k6g2k6r1k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKGKGRYRYRGKGKGKRK](/stripes/krkgkgkgryryrgkgkgkrk/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kinnear, Pilette of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Kinnear, Pilette of (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Kinnear Barony of.. Family Tartan Tartan Number: 2136. Earliest known date: 13/10/92 Michael Jean George Pilette (Vlug) of Kinnear, Baron of Kinnear, commissioned the design of this new tartan. Based on the 'Duke of Fife' or Fife district tartan with an overcheck in the colours of the Kinnear Arms. The tartan was designed by Blair Urquhart for the Scottish Tartans Society and is intended for association with the bearer of the Kinnear Arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2136))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Kinnear, Pilette of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Kinnear Barony of.. Family Tartan Tartan Number: 2136. Earliest known date: 13/10/92 Michael Jean George Pilette (Vlug) of Kinnear, Baron of Kinnear, commissioned the design of this new tartan. Based on the 'Duke of Fife' or Fife district tartan with an overcheck in the colours of the Kinnear Arms. The tartan was designed by Blair Urquhart for the Scottish Tartans Society and is intended for association with the bearer of the Kinnear Arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2136">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 R2 K12 G4 K12 G48 K8 G4 DR6 N2 DR4 Y2 DR6 G4 K8 G48 K12 G4 K12 R2 K/4

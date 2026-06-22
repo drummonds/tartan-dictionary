@@ -2,9 +2,10 @@
 title: "Impulse"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2dba10k9b13k7db3k2db3k2db3dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKBR](/stripes/rbkbkbkbkbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1818
 

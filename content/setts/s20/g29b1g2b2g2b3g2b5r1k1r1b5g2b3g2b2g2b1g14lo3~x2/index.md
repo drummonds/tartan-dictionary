@@ -2,9 +2,10 @@
 title: "Murphy & his Gang (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g29b1g2b2g2b3g2b5r1k1r1b5g2b3g2b2g2b1g14dy3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10419/
 

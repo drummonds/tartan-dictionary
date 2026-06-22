@@ -2,9 +2,10 @@
 title: "Gunning, Robert Maxwell Stewart (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKBKGRGKGKGKGKGRGKBKBG](/stripes/gbkbkgrgkgkgkgkgrgkbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2b5k2b2k3dg15dr2dg15k3dg2k5dg2k5dg2k3dg15lr2dg15k3b2k2b5dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKGRGKGKGKGKGRGKBKBG](/stripes/gbkbkgrgkgkgkgkgrgkbkbg/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11525
 

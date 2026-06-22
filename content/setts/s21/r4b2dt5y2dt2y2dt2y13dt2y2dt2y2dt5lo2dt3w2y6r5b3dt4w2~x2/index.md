@@ -2,9 +2,10 @@
 title: "Lundie"
 date: 2023-03-18
 ---
-In pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b2db5ga2db2ga2db2ga13db2ga2db2ga2db5dy2db3ln2ga6r5b3db4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBBGBGBGBGBGBYBWGRBBW](/stripes/rbbgbgbgbgbgbybwgrbbw/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10022
 

@@ -2,9 +2,10 @@
 title: "Blue Dunnett (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBGBWBBBKBW](/stripes/wbgbwbbbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na50db14ba2db2na2db2n10b6k2b3na2/)
+(the same proportion at any scale), whose colour order is pattern [WBGBWBBBKBW](/stripes/wbgbwbbbkbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3706/
 

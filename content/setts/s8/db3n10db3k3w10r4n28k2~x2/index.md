@@ -2,9 +2,10 @@
 title: "Moorpark Primary School (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBKWRBK](/stripes/bbbkwrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3n10db3k3ln10r4n28k2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKWRBK](/stripes/bbbkwrbk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8274/
 

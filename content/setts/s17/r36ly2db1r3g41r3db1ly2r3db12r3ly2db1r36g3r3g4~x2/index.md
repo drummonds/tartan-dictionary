@@ -2,9 +2,10 @@
 title: "Munro (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra36y2db1ra3g41ra3db1y2ra3db12ra3y2db1ra36g3r3g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBYRBRYBRGRBYR](/stripes/grgrbyrbrybrgrbyr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/974/
 

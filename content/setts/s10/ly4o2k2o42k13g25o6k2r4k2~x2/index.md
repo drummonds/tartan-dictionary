@@ -2,9 +2,10 @@
 title: "Dinwiddie Clan Tartan Tartan Number: 3212. Earliest known date: 2001 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKRGKRKRY](/stripes/krkrgkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4n2k2n42k13g25n6k2r4k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRGKRKRY](/stripes/krkrgkrkry/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3212
 

@@ -2,9 +2,10 @@
 title: "Moray Plaid Artifact Tartan Tartan Number: 991. Earliest known date: 1820 Early 19thC. MacGregor-Hastie's list of unknowns. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r1g2r3g1r16g1r3g2r1g14k3y3k3db3k3r48ln3r3ln3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=991
 

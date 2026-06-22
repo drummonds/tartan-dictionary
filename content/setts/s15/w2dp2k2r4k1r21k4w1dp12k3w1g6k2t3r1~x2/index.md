@@ -2,9 +2,10 @@
 title: "Gaudet-Hillan (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2p2k2r4k1r21k4w1p12k3w1g6k2b3r1/)
+(the same proportion at any scale), whose colour order is pattern [RBKGWKBWKRKRKBW](/stripes/rbkgwkbwkrkrkbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11408
 

@@ -2,18 +2,20 @@
 title: "Palmer, General W.J."
 date: 2023-03-18
 ---
-In pattern [RRWRWRRRWRWBYKBW](/stripes/rrwrwrrrwrwbykbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr4dr2n2dr23n2dr2lr4dr2n2dr2n12db6y2k4na2n2/)
+(the same proportion at any scale), whose colour order is pattern [RRWRWRRRWRWBYKBW](/stripes/rrwrwrrrwrwbykbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Palmer, General W.J. (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289))
-- 1995 — Palmer, General W.J. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4971/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Palmer, General W.J. (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3289">record</a>)</li>
+<li>1995 — Palmer, General W.J. (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4971/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

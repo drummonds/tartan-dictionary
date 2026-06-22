@@ -2,18 +2,20 @@
 title: "University Plaid"
 date: 2023-03-18
 ---
-In pattern [GRGGBGBGRGR](/stripes/grggbgbgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg3dr4lt1db3lt1db3lt1dg3dr1dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRGGBGBGRGR](/stripes/grggbgbgrgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4405
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — University Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4405))
-- 1995 — University Plaid (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4390/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — University Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4405">record</a>)</li>
+<li>1995 — University Plaid (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4390/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

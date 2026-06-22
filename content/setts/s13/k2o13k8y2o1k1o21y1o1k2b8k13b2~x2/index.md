@@ -2,18 +2,20 @@
 title: "Alyssa's Theme"
 date: 2023-03-18
 ---
-In pattern [BKBKRGRKRGKRK](/stripes/bkbkrgrkrgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr13k8n2dr1k1dr21n1dr1k2b8k13b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRGRKRGKRK](/stripes/bkbkrgrkrgkrk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/07/2012 — Alyssa's Theme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656))
-- undated — Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10656))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/07/2012 — Alyssa's Theme (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10656">record</a>)</li>
+<li>undated — Alyssa's Theme Fashion Tartan Tartan Number: 10656. Earliest known date: 10/07/2012 This tartan was created for Alyssa Elliott as a thank-you for helping the designer recover from two reconstructive surgeries, one in 2006 and one in 2007. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10656">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

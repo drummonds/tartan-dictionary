@@ -2,9 +2,10 @@
 title: "Humble, Gordon (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGKGYGKBRGRGR](/stripes/gkgkgygkbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4t2n14t4n4p1k8dg13y3dg13k8t10k3t3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGYGKBRGRGR](/stripes/gkgkgygkbrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11520
 

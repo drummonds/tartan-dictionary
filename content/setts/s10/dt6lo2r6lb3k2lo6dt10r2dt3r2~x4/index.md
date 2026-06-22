@@ -2,18 +2,20 @@
 title: "Commonwealth"
 date: 2023-03-18
 ---
-In pattern [BYRWKYBRBR](/stripes/byrwkybrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn6lt2r6n3k2lt6dn10r2dn3r2/)
+(the same proportion at any scale), whose colour order is pattern [BYRWKYBRBR](/stripes/byrwkybrbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1986 — Commonwealth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721))
-- 1986 — Commonwealth (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/610/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Commonwealth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=721">record</a>)</li>
+<li>1986 — Commonwealth (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/610/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

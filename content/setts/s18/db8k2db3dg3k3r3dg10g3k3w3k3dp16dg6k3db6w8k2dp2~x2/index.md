@@ -2,9 +2,10 @@
 title: "Kukri"
 date: 2023-03-18
 ---
-In pattern [BKBGKRGGKWKBGKBWKB](/stripes/bkbgkrggkwkbgkbwkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k2db3dg3k3r3dg10g3k3w3k3p16dg6k3db6w8k2p2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGKRGGKWKBGKBWKB](/stripes/bkbgkrggkwkbgkbwkb/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11032/
 

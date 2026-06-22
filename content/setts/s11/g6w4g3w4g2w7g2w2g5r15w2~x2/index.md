@@ -2,9 +2,10 @@
 title: "Prince George (Royal)"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6w4g3w4g2w7g2w2g5r15w2/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGRW](/stripes/gwgwgwgwgrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/942/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Prince George Royal
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1918 — Prince George (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/942/))
-- undated — Prince George (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Prince George Royal Family Tartan Tartan Number: 942. Earliest known date: pre 2003 The warmth and glow of the fertile soil, The green field and tree, The yellow and the brown of Autumn, The white of surf or a summer snow, Rust, green, yellow and white, Yes! That's our Island Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=942))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1918 — Prince George (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/942/">record</a>)</li>
+<li>undated — Prince George (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Prince George Royal Family Tartan Tartan Number: 942. Earliest known date: pre 2003 The warmth and glow of the fertile soil, The green field and tree, The yellow and the brown of Autumn, The white of surf or a summer snow, Rust, green, yellow and white, Yes! That's our Island Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=942">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/12 W8 G6 W8 G4 W14 G4 W4 G10 R30 W/4

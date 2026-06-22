@@ -2,9 +2,10 @@
 title: "Blaylock Annandale (Name)"
 date: 2023-03-18
 ---
-In pattern [GBBKBKG](/stripes/gbbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24db6b3k6db12k15g4/)
+(the same proportion at any scale), whose colour order is pattern [GBBKBKG](/stripes/gbbkbkg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10405/
 

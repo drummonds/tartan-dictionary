@@ -2,9 +2,10 @@
 title: "O'Kelly Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRBWRGBYBYBGBWYWBGR](/stripes/grbwrgbybybgbwywbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28dr12db1w2dr1g4db20o2db3o2db3g7db3w1o2w1db20g4dr12/)
+(the same proportion at any scale), whose colour order is pattern [GRBWRGBYBYBGBWYWBGR](/stripes/grbwrgbybybgbwywbgr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11415
 

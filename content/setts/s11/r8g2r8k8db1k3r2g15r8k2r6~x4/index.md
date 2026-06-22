@@ -2,9 +2,10 @@
 title: "MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)"
 date: 2023-03-18
 ---
-In pattern [RGRKBKRGRKR](/stripes/rgrkbkrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g2r8k8db1k3r2g15r8k2r6/)
+(the same proportion at any scale), whose colour order is pattern [RGRKBKRGRKR](/stripes/rgrkbkrgrkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2692
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - MacNicol/Nicolson
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1869 — MacNicol/Nicolson (Inverness Tweed Mill Co Ltd) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2692))
-- undated — MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacNicol Clan Tartan Tartan Number: 1508. Earliest known date: 1869 One of the variations deduced from the McIan drawing of 1845-7. This sett was woven by the Inverness Tweed Mill company in 1869. In 1980 the Nicholsons and the MacNicols became separate clans. When Lord Carnock was recognised as chief of the Nicolsons, Lord Lyon accepted the petition of Ian Nicholson of Scorrybreac, to change his name and re-matriculate his arms as Iain Macneacail of Macneacail and Scorrybreac. Thus the Skye MacNicols are now members of the Clan MacNeacail. See Nicholson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1508))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1869 — MacNicol/Nicolson (Inverness Tweed Mill Co Ltd) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2692">record</a>)</li>
+<li>undated — MacNicol (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacNicol Clan Tartan Tartan Number: 1508. Earliest known date: 1869 One of the variations deduced from the McIan drawing of 1845-7. This sett was woven by the Inverness Tweed Mill company in 1869. In 1980 the Nicholsons and the MacNicols became separate clans. When Lord Carnock was recognised as chief of the Nicolsons, Lord Lyon accepted the petition of Ian Nicholson of Scorrybreac, to change his name and re-matriculate his arms as Iain Macneacail of Macneacail and Scorrybreac. Thus the Skye MacNicols are now members of the Clan MacNeacail. See Nicholson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1508">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

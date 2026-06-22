@@ -2,9 +2,10 @@
 title: "Edgar (2014)"
 date: 2023-03-18
 ---
-In pattern [WBKBBBKBKBKBW](/stripes/wbkbbbkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1db16k12b2dp3b2k12db2k2db2k2db7w1/)
+(the same proportion at any scale), whose colour order is pattern [WBKBBBKBKBKBW](/stripes/wbkbbbkbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11125
 

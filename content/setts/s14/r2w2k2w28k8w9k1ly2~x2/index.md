@@ -2,9 +2,10 @@
 title: "Summer Spirit"
 date: 2023-03-18
 ---
-In pattern [KWKWKWRWKWKWKY](/stripes/kwkwkwrwkwkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2wa2k2wa28k8wa9k1y2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWRWKWKWKY](/stripes/kwkwkwrwkwkwky/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4038
 

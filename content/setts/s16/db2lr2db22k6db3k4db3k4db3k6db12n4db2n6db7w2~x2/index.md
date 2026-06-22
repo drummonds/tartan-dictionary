@@ -2,9 +2,10 @@
 title: "World Corporate Golf Challenge"
 date: 2023-03-18
 ---
-In pattern [BYBKBKBKBKBBBBBW](/stripes/bybkbkbkbkbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2dbb7b6dbb2b4dbb12db6dba3db4dba3db4dba3db6dba22n2dba2/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKBKBKBBBBBW](/stripes/bybkbkbkbkbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10778
 

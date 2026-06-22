@@ -2,9 +2,10 @@
 title: "Sterling, Rob (Florida) (Persona Name Tartan Tartan Number: 10653. Earliest known date: 10/07/2012 Designed by Rob Sterling, St. Petersburg, Florida, for use by his family and associates. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYBBW](/stripes/gybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg11y10n11b33w3/)
+(the same proportion at any scale), whose colour order is pattern [GYBBW](/stripes/gybbw/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10653
 

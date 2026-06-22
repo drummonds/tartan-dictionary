@@ -2,9 +2,10 @@
 title: "Junor (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRBBBBYBRBYBBBBR](/stripes/krbbbbybrbybbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9b2db2b2db11y2db6r72db6y2db11b2db2b2r9k2/)
+(the same proportion at any scale), whose colour order is pattern [KRBBBBYBRBYBBBBR](/stripes/krbbbbybrbybbbbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1914
 

@@ -2,9 +2,10 @@
 title: "Scottish-Shop Switzerland"
 date: 2023-03-18
 ---
-In pattern [BBRBRBRBBBBBBBY](/stripes/bbrbrbrbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4dn1n15dn2n2dn2n2dn12p2dn2p2dn2p14dn1lg4/)
+(the same proportion at any scale), whose colour order is pattern [BBRBRBRBBBBBBBY](/stripes/bbrbrbrbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11630
 

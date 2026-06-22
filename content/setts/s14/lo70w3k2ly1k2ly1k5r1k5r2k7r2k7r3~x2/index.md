@@ -2,18 +2,20 @@
 title: "Desert"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRKYKYKWY](/stripes/rkrkrkrkykykwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt70w3k2y1k2y1k5r1k5r2k7r2k7r3/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRKYKYKWY](/stripes/rkrkrkrkykykwy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=918
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1979 — Desert (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=918))
-- 1979 — Desert (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7055/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1979 — Desert (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=918">record</a>)</li>
+<li>1979 — Desert (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7055/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

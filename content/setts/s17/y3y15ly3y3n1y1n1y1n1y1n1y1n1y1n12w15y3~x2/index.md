@@ -2,9 +2,10 @@
 title: "Prickly Thistle"
 date: 2023-03-18
 ---
-In pattern [GGYGBGBGBGBGBGBWG](/stripes/ggygbgbgbgbgbgbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3g15lga3g3lp1g1lp1g1lp1g1lp1g1lp1g1lp12w15lg3/)
+(the same proportion at any scale), whose colour order is pattern [GGYGBGBGBGBGBGBWG](/stripes/ggygbgbgbgbgbgbwg/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10805
 

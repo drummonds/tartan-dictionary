@@ -2,9 +2,10 @@
 title: "Balmoral"
 date: 2023-03-18
 ---
-In pattern [GRGWKGWGWGKGR](/stripes/grgwkgwgwgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2r1n8lp2k2n1lp1n1lp4n2k1n1r1/)
+(the same proportion at any scale), whose colour order is pattern [GRGWKGWGWGKGR](/stripes/grgwkgwgwgkgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "University of Edinburgh Business School, The"
 date: 2023-03-18
 ---
-In pattern [WBKBWRGRBY](/stripes/wbkbwrgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db25r4g4r4w3db3k3db6w2/)
+(the same proportion at any scale), whose colour order is pattern [WBKBWRGRBY](/stripes/wbkbwrgrby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1081
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - University of Edinburgh Business School, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2002 — University of Edinburgh Business School, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1081))
-- Aug 2002 — University of Edinburgh Business Sch (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6107/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2002 — University of Edinburgh Business School, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1081">record</a>)</li>
+<li>Aug 2002 — University of Edinburgh Business Sch (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6107/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

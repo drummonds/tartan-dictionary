@@ -2,9 +2,10 @@
 title: "Scottish National (hunting)"
 date: 2023-03-18
 ---
-In pattern [BBGBGBGBG](/stripes/bbgbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n65p3g3p3g16dra8g3dra3dr4/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBGBG](/stripes/bbgbgbgbg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

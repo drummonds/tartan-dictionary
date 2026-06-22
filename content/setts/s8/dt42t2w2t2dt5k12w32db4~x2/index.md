@@ -2,9 +2,10 @@
 title: "Comrie, Navy Blue (Dance)"
 date: 2023-03-18
 ---
-In pattern [BBWBBKWB](/stripes/bbwbbkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba42b2w2b2dba5k12w32db4/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBKWB](/stripes/bbwbbkwb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7593/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Comrie, Navy Blue
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Comrie, Navy Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7593/))
-- undated — Comrie Navy Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5617))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Comrie, Navy Blue (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7593/">record</a>)</li>
+<li>undated — Comrie Navy Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5617">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "MacLachlan #2"
 date: 2023-03-18
 ---
-In pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k2r2k2r2k16b16g3b16k16r16k2r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKBGBKRKRKR](/stripes/rkrkbgbkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2582
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLachlan #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacLachlan #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2582))
-- undated — MacLachlan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacLachlan #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2582">record</a>)</li>
+<li>undated — MacLachlan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

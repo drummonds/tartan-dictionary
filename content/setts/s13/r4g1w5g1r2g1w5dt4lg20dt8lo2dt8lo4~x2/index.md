@@ -2,9 +2,10 @@
 title: "Pille Family (Belgium) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGWGRGWBYBYBY](/stripes/rgwgrgwbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4lg1w5lg1dr2lg1w5n4b20n8y2n8y4/)
+(the same proportion at any scale), whose colour order is pattern [RGWGRGWBYBYBY](/stripes/rgwgrgwbybyby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10345
 

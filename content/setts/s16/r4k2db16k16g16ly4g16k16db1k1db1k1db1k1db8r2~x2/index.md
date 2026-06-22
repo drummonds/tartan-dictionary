@@ -2,9 +2,10 @@
 title: "Farquharson"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKBKGYGKBKR](/stripes/rbkbkbkbkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2db16k16g16y4g16k16db1k1db1k1db1k1db8r2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKGYGKBKR](/stripes/rbkbkbkbkgygkbkr/).
 
-This was sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from logan-1831.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link /posts/logans-scottish-gael/
 

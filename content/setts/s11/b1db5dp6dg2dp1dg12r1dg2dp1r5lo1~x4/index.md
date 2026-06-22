@@ -2,9 +2,10 @@
 title: "Telfer, Jamie of the Fair Dodhead"
 date: 2023-03-18
 ---
-In pattern [BBBGBGRGBRY](/stripes/bbbgbgrgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy1dr5n1dg2dr1dg12n1dg2n6db5b1/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBGRGBRY](/stripes/bbbgbgrgbry/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10112
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Telfer, Jamie
 - Telfer, Jamie of the Fair Dodhead
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 24/11/2009 — Telfer, Jamie of the Fair Dodhead (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10112))
-- 24th Nov. 2009 — Telfer, Jamie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10112/))
-- undated — Jamie Telfer of the Fair Dodhead Commemorative Tartan Tartan Number: 10112. Earliest known date: 24th Nov. 2009 Is it a true story? We may never know for certain. In a Border Reivers ballad, recorded by Sir Walter Scott and others, the story is about a poor farmer Jamie Telfer. A threat to his livelihood by English raiders was averted by timely intervention of neighbouring clans, but sadly not without losses to his valiant helpers. If true, this tartan serves to commemorate our heroic distant kinsman, but in any case celebrates the instances of friendship and cooperation between clans and families - all too rare a commodity in those wild days of the Border conflicts. Structure of this tartan was evolved from the Telfer (green) and here the costs of conflict are signified with red and the thin gold line symbolises Jamie's recovery of livelihood. Other colours denote the moorland heather (purple) and wooded landscapes (green) under a blue sky, and the many burns that run (light blue) across the beautiful regions of Ettrick and Teviotdale. This tartan is for the use of all of the name of Telfer and is dedicated to all with interest in Scottish language, literature and history. Although there are no restrictions, anyone intending to manufacture or use this tartan is encouraged to contact the designer (or his direct descendants) at dtelf@talktalk.net, and a choice of preferred charities will be offered for a suggested donation. Copyright of this design belongs to Duncan Telfer. It was developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10112))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>24/11/2009 — Telfer, Jamie of the Fair Dodhead (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10112">record</a>)</li>
+<li>24th Nov. 2009 — Telfer, Jamie (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10112/">record</a>)</li>
+<li>undated — Jamie Telfer of the Fair Dodhead Commemorative Tartan Tartan Number: 10112. Earliest known date: 24th Nov. 2009 Is it a true story? We may never know for certain. In a Border Reivers ballad, recorded by Sir Walter Scott and others, the story is about a poor farmer Jamie Telfer. A threat to his livelihood by English raiders was averted by timely intervention of neighbouring clans, but sadly not without losses to his valiant helpers. If true, this tartan serves to commemorate our heroic distant kinsman, but in any case celebrates the instances of friendship and cooperation between clans and families - all too rare a commodity in those wild days of the Border conflicts. Structure of this tartan was evolved from the Telfer (green) and here the costs of conflict are signified with red and the thin gold line symbolises Jamie's recovery of livelihood. Other colours denote the moorland heather (purple) and wooded landscapes (green) under a blue sky, and the many burns that run (light blue) across the beautiful regions of Ettrick and Teviotdale. This tartan is for the use of all of the name of Telfer and is dedicated to all with interest in Scottish language, literature and history. Although there are no restrictions, anyone intending to manufacture or use this tartan is encouraged to contact the designer (or his direct descendants) at dtelf@talktalk.net, and a choice of preferred charities will be offered for a suggested donation. Copyright of this design belongs to Duncan Telfer. It was developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10112">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

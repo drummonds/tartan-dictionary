@@ -2,9 +2,10 @@
 title: "Brooks Brothers Tattersall Camel"
 date: 2023-03-18
 ---
-In pattern [BYBYR](/stripes/bybyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1lt9db2lt9db1/)
+(the same proportion at any scale), whose colour order is pattern [BYBYR](/stripes/bybyr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=383
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Brooks Brothers Tattersall Camel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Brooks Brothers Tattersall Camel (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=383))
-- pre 2005 — Brooks Bros Tattersall Camel (Fashio (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6571/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Brooks Brothers Tattersall Camel (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=383">record</a>)</li>
+<li>pre 2005 — Brooks Bros Tattersall Camel (Fashio (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6571/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

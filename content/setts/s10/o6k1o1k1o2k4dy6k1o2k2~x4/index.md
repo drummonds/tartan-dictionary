@@ -2,9 +2,10 @@
 title: "Tyndrum District Tartan Tartan Number: 1128. Earliest known date: 1983 Tyndrum is a village in northwest Perthshire on the rail line between Glasgow and Fort William. Specimen seen in Mairi MacIntyre's shop, Fort William 1983. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKGKRKRKR](/stripes/krkgkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k1n1k1n2k4t6k1n2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKRKRKR](/stripes/krkgkrkrkr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1128
 

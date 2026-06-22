@@ -2,18 +2,20 @@
 title: "Caithness (District)"
 date: 2023-03-18
 ---
-In pattern [BRKRKRRYKYKYKYK](/stripes/brkrkrrykykykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr28r3k2n2k2r3n8lt2k8lt5k3lg2k2lt3k1/)
+(the same proportion at any scale), whose colour order is pattern [BRKRKRRYKYKYKYK](/stripes/brkrkrrykykykyk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2466/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1991 — Caithness (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2466/))
-- 01/01/1995 — Caithness (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=465))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1991 — Caithness (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2466/">record</a>)</li>
+<li>01/01/1995 — Caithness (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=465">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

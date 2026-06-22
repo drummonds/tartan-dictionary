@@ -2,9 +2,10 @@
 title: "Scotland Forever Fashion Weavers Tartan Tartan Number: 6038. Earliest known date: pre 2003 For Alec Scott. The Lochcarron notes on this tartan say: Scotland Forever! is without doubt the best known war cry of the traditional Scottish regiments. It was most famously used by the Scots Greys on their timely and victorious charge at Waterloo in 1815. It spread throughout the ranks of the other Scottish regiments including the Royals, the 42nd and the Cameron Highlanders. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k3db19k6db4k3n12g4n12w2b5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBGBWB](/stripes/bkbkbkbgbwb/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6038
 

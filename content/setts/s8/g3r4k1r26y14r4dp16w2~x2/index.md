@@ -2,9 +2,10 @@
 title: "MacQueen of Dalmagarry (Clan?)"
 date: 2023-03-18
 ---
-In pattern [GRKRGRBW](/stripes/grkrgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r4k1r26ga14r4dp16w2/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRBW](/stripes/grkrgrbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8892/
 

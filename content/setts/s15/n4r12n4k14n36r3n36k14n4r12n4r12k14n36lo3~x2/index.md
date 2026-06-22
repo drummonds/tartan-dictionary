@@ -2,18 +2,20 @@
 title: "Cornwall"
 date: 2023-03-18
 ---
-In pattern [BRBKBRBKBRBRKBY](/stripes/brbkbrbkbrbrkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dr12g4k14g36dr3g36k14g4dr12g4dr12k14g36dy3/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBRBKBRBRKBY](/stripes/brbkbrbkbrbrkby/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Cornwall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769))
-- pre 2006 — Cornwall (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7057/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Cornwall (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=769">record</a>)</li>
+<li>pre 2006 — Cornwall (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7057/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

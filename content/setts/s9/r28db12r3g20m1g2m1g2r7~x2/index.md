@@ -2,9 +2,10 @@
 title: "Carrick"
 date: 2023-03-18
 ---
-In pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28db12r3g20p1g2p1g2r7/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRGRGR](/stripes/rbrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=575
 

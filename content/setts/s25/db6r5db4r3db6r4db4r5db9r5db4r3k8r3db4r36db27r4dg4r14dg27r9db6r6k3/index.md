@@ -2,9 +2,10 @@
 title: "Murray of Tullibardine #4"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrbrbrkrbrbrgrgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4g4r14g27r9db6r6k3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrbrbrkrbrbrgrgrbrk/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3074
 

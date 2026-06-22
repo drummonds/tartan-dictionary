@@ -2,9 +2,10 @@
 title: "Tyneside Scottish (Khaki)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11lt1k1lt1k1lt8k8lt1k8lt8k8lt1k1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Tyneside Scottish Khaki
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1914 — Tyneside Scottish (Khaki) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176))
-- 1914 — Tyneside Scottish Khaki (Milit/Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5082/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1914 — Tyneside Scottish (Khaki) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4176">record</a>)</li>
+<li>1914 — Tyneside Scottish Khaki (Milit/Dist) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5082/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

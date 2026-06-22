@@ -2,9 +2,10 @@
 title: "St Brigid's Parish Triple Celebratio"
 date: 2023-03-18
 ---
-In pattern [BGKBWBKGY](/stripes/bgkbwbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g30k1b5w3b5k1t12ba2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBWBKGY](/stripes/bgkbwbkgy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11066/
 

@@ -2,9 +2,10 @@
 title: "Blais (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYGBKRKRKRR](/stripes/bygbkrkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20y1t1db3k1n2k1r10k1n2r4/)
+(the same proportion at any scale), whose colour order is pattern [BYGBKRKRKRR](/stripes/bygbkrkrkrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2321/
 

@@ -2,9 +2,10 @@
 title: "(5) Ruxton hunting"
 date: 2023-03-18
 ---
-In pattern [RKRBKBKRKRBRKRKR](/stripes/rkrbkbkrkrbrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16y1dr8db2k1db16y3dr1w1dr15db4dr2w3dr1w1dr16/)
+(the same proportion at any scale), whose colour order is pattern [RKRBKBKRKRBRKRKR](/stripes/rkrbkbkrkrbrkrkr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

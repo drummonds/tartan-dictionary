@@ -2,9 +2,10 @@
 title: "MacAlister Clan Tartan Tartan Number: 1465. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland'. The Smith's sources included the findings of George Hunter, an Army clothier, who toured the Highlands in search of old tartans prior to 1822. MacAlisters are descendants of Donald of Islay, Lord of the Isles. Contemporary accounts of Flora MacDonald (1746) suggest that MacAlisters wore the MacDonald tartan at that time. The MacAlister tartan certified by the chief in 1816 shows the MacDonald connection in its design. The present day Chief MacAlister of Loup was granted by Lord Lyon in 1991. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g1dg2r2b1r1ln1r1b1r2dg3r1ln1r6b1r1dg12r1b1r16b1r1dg12r1b1r6ln1r1db4r1ln1r2dg3g1r2g1dg3r3ln1r1db2r1ln1r8/)
+(the same proportion at any scale), whose colour order is pattern [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrbrwr/).
 
-This was sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1465
 

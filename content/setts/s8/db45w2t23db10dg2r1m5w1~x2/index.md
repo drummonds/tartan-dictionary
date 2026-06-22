@@ -2,9 +2,10 @@
 title: "Hier Family, Kilcreggan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBBGRRW](/stripes/bwbbgrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db45ly2b23db10n2r1ra5w1/)
+(the same proportion at any scale), whose colour order is pattern [BWBBGRRW](/stripes/bwbbgrrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10531
 

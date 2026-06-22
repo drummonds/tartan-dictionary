@@ -2,9 +2,10 @@
 title: "Scotland 2000"
 date: 2023-03-18
 ---
-In pattern [RYRGRGBW](/stripes/ryrgrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5y2dr35g6dr2g6b38ln4/)
+(the same proportion at any scale), whose colour order is pattern [RYRGRGBW](/stripes/ryrgrgbw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "St. Leonards"
 date: 2023-03-18
 ---
-In pattern [BBBKRRBRBRRKBB](/stripes/bbbkrrbrbrrkbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40b2k4r3n6db2r16db2n6r3k4b2db40b6/)
+(the same proportion at any scale), whose colour order is pattern [BBBKRRBRBRRKBB](/stripes/bbbkrrbrbrrkbb/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3899
 

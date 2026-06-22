@@ -2,9 +2,10 @@
 title: "Gray, Sir John Hamilton (Commem)"
 date: 2023-03-18
 ---
-In pattern [WBRBBYWYBY](/stripes/wbrbbywyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly4k6r3k10b14dy6ly18dy6b4dy2/)
+(the same proportion at any scale), whose colour order is pattern [WBRBBYWYBY](/stripes/wbrbbywyby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1808/
 

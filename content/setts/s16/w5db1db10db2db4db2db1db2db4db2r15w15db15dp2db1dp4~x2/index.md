@@ -2,9 +2,10 @@
 title: "Auld Alliance"
 date: 2023-03-18
 ---
-In pattern [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5db1b10db2b4db2b1db2b4db2r15ln15db15p2db1p4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWRBBBBBBBBBW](/stripes/bbbbwrbbbbbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5824
 

@@ -2,9 +2,10 @@
 title: "Spice of Life (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k1dr1k3dr1k1g1dr1g3dr1g1na1n3na1n1w1na3w1na1w10/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKGRGRGYBYBWYWYW](/stripes/gkrkrkgrgrgybybwywyw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10165/
 

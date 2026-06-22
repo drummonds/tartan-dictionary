@@ -2,9 +2,10 @@
 title: "Connaught Ancestry (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBKBYBBBKW](/stripes/bbbkbybbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n21db8k4db4y4db9n9db38k1lr3/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBYBBBKW](/stripes/bbbkbybbbkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10797/
 

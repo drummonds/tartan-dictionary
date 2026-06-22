@@ -2,9 +2,10 @@
 title: "St. Andrew Society, Sao Paulo (Corp)"
 date: 2023-03-18
 ---
-In pattern [BWBGYG](/stripes/bwbgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5ln3db36g38y5g5/)
+(the same proportion at any scale), whose colour order is pattern [BWBGYG](/stripes/bwbgyg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8121/
 

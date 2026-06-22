@@ -2,9 +2,10 @@
 title: "Gordon"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2db2k12dg12lg2dg12k12db11k2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

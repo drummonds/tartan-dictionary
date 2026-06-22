@@ -2,9 +2,10 @@
 title: "MacKerrell"
 date: 2023-03-18
 ---
-In pattern [BBYBBWBBRBBW](/stripes/bbybbwbbrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba34b60y3b60ba34ln4ba34b60r3b60ba34ln4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBWBBRBBW](/stripes/bbybbwbbrbbw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

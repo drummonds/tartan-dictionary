@@ -2,9 +2,10 @@
 title: "Cockburn, Old pattern"
 date: 2023-03-18
 ---
-In pattern [RKGKYKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkykbkwkbkgkgkgkgkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6k1g34k2y4k5b5k1ln5k1b34k5g2k2g2k2g86k2g2k2g2k5b34k1ln5/)
+(the same proportion at any scale), whose colour order is pattern [RKGKYKBKWKBKGKGKGKGKGKBKW](/stripes/rkgkykbkwkbkgkgkgkgkgkbkw/).
 
-This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

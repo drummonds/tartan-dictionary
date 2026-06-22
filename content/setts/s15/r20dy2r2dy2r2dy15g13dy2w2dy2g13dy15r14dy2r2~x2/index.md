@@ -2,9 +2,10 @@
 title: "Mauthe Unidentified (Name?)"
 date: 2023-03-18
 ---
-In pattern [RGRGGGWGGGRGRGR](/stripes/rgrgggwgggrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20t2r2t2r2t15g13t2ln2t2g13t15r14t2r2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGGGWGGGRGRGR](/stripes/rgrgggwgggrgrgr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6000/
 

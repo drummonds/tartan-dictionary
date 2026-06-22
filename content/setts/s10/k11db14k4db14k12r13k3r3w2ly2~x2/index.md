@@ -2,9 +2,10 @@
 title: "Huntly Fire Protection District (Cor"
 date: 2023-03-18
 ---
-In pattern [KBKBKRKRWY](/stripes/kbkbkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11db14k4db14k12r13k3r3ln2y2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKRKRWY](/stripes/kbkbkrkrwy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10195/
 

@@ -2,9 +2,10 @@
 title: "Children In Need"
 date: 2023-03-18
 ---
-In pattern [KBKBKWKYKYKWKYKYKW](/stripes/kbkbkwkykykwkykykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5b5k1b5k5ln1k5lr5k1lr5k5ln1k5y5k1y5k5ln1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKWKYKYKWKYKYKW](/stripes/kbkbkwkykykwkykykw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5813
 

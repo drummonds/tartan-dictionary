@@ -2,9 +2,10 @@
 title: "Albannach"
 date: 2023-03-18
 ---
-In pattern [KBRBGBBW](/stripes/kbrbgbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dp2r7dp60g15db60b5ln3/)
+(the same proportion at any scale), whose colour order is pattern [KBRBGBBW](/stripes/kbrbgbbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5762
 

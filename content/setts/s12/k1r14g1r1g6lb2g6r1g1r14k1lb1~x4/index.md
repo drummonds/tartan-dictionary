@@ -2,9 +2,10 @@
 title: "MacMaster Clan/Family Tartan Tartan Number: 3493. Earliest known date: 1986 Designed by Phil Smith in 1986 for all of the names MacMaster, MacMasters etc. See MacMasters Canada. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRGRGWGRGRKW](/stripes/krgrgwgrgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dr14g1dr1g6n2g6dr1g1dr14k1lp1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGWGRGRKW](/stripes/krgrgwgrgrkw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3493
 

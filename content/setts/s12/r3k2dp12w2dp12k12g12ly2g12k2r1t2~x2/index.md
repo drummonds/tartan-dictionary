@@ -2,9 +2,10 @@
 title: "Rust Personal Tartan Tartan Number: 555. Earliest known date: Oman 1983 Amended sett from T.S.D See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRKGYGKBWBKR](/stripes/brkgygkbwbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k2p12ln2p12k12g12y2g12k2r1b2/)
+(the same proportion at any scale), whose colour order is pattern [BRKGYGKBWBKR](/stripes/brkgygkbwbkr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=555
 

@@ -2,9 +2,10 @@
 title: "Rothesay, Duke of"
 date: 2023-03-18
 ---
-In pattern [RWBWKWGRKRW](/stripes/rwbwkwgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln28b4ln2k6ln2g7r4k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKWGRKRW](/stripes/rwbwkwgrkrw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

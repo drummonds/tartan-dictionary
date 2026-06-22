@@ -2,9 +2,10 @@
 title: "Brodie, Silver"
 date: 2023-03-18
 ---
-In pattern [RBYBGWR](/stripes/rbybgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3n20y2n20nb20na20r3/)
+(the same proportion at any scale), whose colour order is pattern [RBYBGWR](/stripes/rbybgwr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

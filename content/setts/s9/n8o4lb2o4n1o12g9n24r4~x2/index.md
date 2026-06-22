@@ -2,9 +2,10 @@
 title: "Willsher Wedding (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRWRBRGBR](/stripes/brwrbrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8na4lr2na4n1na12g9n24dr4/)
+(the same proportion at any scale), whose colour order is pattern [BRWRBRGBR](/stripes/brwrbrgbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10793/
 

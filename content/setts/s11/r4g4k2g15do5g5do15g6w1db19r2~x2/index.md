@@ -2,9 +2,10 @@
 title: "Adams"
 date: 2023-03-18
 ---
-In pattern [RBWGBGBGKGR](/stripes/rbwgbgbgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra4g4k2g15dr5g5dr15g6w1db19dra2/)
+(the same proportion at any scale), whose colour order is pattern [RBWGBGBGKGR](/stripes/rbwgbgbgkgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=24
 

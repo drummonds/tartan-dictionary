@@ -2,9 +2,10 @@
 title: "Manitoba (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [KBKKBKBKBKBKBKBKBKKKYBYBYBYBYBYBYBYK](/stripes/kbkkbkbkbkbkbkbkbkkkybybybybybybybyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka50db16ka8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40ka12k24dy8db1dy1db1dy1db1dy1db1dy1db1dy1db1dy1db28dy6k4/)
+(the same proportion at any scale), whose colour order is pattern [KBKKBKBKBKBKBKBKBKKKYBYBYBYBYBYBYBYK](/stripes/kbkkbkbkbkbkbkbkbkkkybybybybybybybyk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7726/
 

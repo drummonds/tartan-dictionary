@@ -2,18 +2,20 @@
 title: "Holland & Sherry (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBRBKGKR](/stripes/bbbrbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr20k4g21k10db3dr3db4b3db20/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBKGKR](/stripes/bbbrbkgkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7720/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- August 2008 — Holland & Sherry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7720/))
-- undated — Holland & Sherry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>August 2008 — Holland & Sherry (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7720/">record</a>)</li>
+<li>undated — Holland & Sherry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5706">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

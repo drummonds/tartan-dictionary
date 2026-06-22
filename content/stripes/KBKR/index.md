@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/kbkr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KBKR</span></div>
+
 It is a 4 stripe tartan.
 
-![Woven sample](/setts/s4/k15dt40k9o10~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KBKR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

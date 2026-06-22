@@ -2,9 +2,10 @@
 title: "O'Neill (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGGGWGGGYGRG](/stripes/gggggwgggygrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg24g2dg4g16dg1n2dg1g16dg3y1dg12na2dg5/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGWGGGYGRG](/stripes/gggggwgggygrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5967/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - O'Neill Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2003 — O'Neill (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5967/))
-- undated — O'Neill Personal Tartan Tartan Number: 5967. Earliest known date: 2003 Designed for personal use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5967))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2003 — O'Neill (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5967/">record</a>)</li>
+<li>undated — O'Neill Personal Tartan Tartan Number: 5967. Earliest known date: 2003 Designed for personal use. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5967">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/48 G4 DG8 G32 DG2 N4 DG2 G32 DG6 Y2 DG24 Na4 DG/10

@@ -2,9 +2,10 @@
 title: "Robertson #2"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15r1g1r1g1r18g24r1g1r18g1r1g1r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGR](/stripes/grgrgrgrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3523
 

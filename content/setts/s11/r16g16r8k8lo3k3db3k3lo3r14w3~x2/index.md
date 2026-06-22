@@ -2,9 +2,10 @@
 title: "Mars Family Tartan Tartan Number: 3817. Earliest known date: March 2002 Based on the Hay Clan tartan, red/green, with the yellow stripes of the Hay Clan Tartan encompassing dark blue to signify service to the Royal Family and Corps of Royal Engineers. The white stripe of the Hay Clan tartan to the side superimposed over black signifying Highland Regimental Military service. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGRKYKBKYRW](/stripes/rgrkykbkyrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16g16dr8k8dy3k3db3k3dy3dr14ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGRKYKBKYRW](/stripes/rgrkykbkyrw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3817
 

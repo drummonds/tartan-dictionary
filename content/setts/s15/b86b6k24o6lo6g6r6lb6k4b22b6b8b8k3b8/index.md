@@ -2,9 +2,10 @@
 title: "Euler Hermes"
 date: 2023-03-18
 ---
-In pattern [BBKRYGRWKBBBBKB](/stripes/bbkrygrwkbbbbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b86ba6k24lt6o6lg6r6lb6k4ba22b6ba8b8k3ba8/)
+(the same proportion at any scale), whose colour order is pattern [BBKRYGRWKBBBBKB](/stripes/bbkrygrwkbbbbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11026
 

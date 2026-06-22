@@ -2,9 +2,10 @@
 title: "Weathered Cyclist"
 date: 2023-03-18
 ---
-In pattern [GWGYGRR](/stripes/gwgygrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32w2g9y2g12lt21dr1/)
+(the same proportion at any scale), whose colour order is pattern [GWGYGRR](/stripes/gwgygrr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Weathered Cyclist Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2012 — Weathered Cyclist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732))
-- undated — Weathered Cyclist Commemorative Tartan Tartan Number: 10732. Earliest known date: 6 November 2012 Designed for The Tartan Ride, a charity cycling event. Once woven, this tartan is for all to wear, however the design as an entity may not be used without the designer's express permission. The design is the intellectual property of Ali Campbell and is a device of The Tartan Ride. Any use of the design must be authorised by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10732))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2012 — Weathered Cyclist (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10732">record</a>)</li>
+<li>undated — Weathered Cyclist Commemorative Tartan Tartan Number: 10732. Earliest known date: 6 November 2012 Designed for The Tartan Ride, a charity cycling event. Once woven, this tartan is for all to wear, however the design as an entity may not be used without the designer's express permission. The design is the intellectual property of Ali Campbell and is a device of The Tartan Ride. Any use of the design must be authorised by the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10732">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

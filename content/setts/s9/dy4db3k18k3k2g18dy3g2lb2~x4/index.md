@@ -2,18 +2,20 @@
 title: "Tombow 21st School Memorial"
 date: 2023-03-18
 ---
-In pattern [GBKKKGGGW](/stripes/gbkkkgggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t4dba3db18k3db2g18t3g2n2/)
+(the same proportion at any scale), whose colour order is pattern [GBKKKGGGW](/stripes/gbkkkgggw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2000 — Tombow 21st School Memorial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136))
-- 2000 — Tombow 21st School Memorial (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4216/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Tombow 21st School Memorial (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4136">record</a>)</li>
+<li>2000 — Tombow 21st School Memorial (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4216/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

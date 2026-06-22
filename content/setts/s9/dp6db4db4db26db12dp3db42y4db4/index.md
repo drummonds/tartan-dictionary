@@ -2,9 +2,10 @@
 title: "Goldblatt, Joe Jeff (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBGB](/stripes/bbbbbbbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p6db4dba4db26dba12p3b42lt4b4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBGB](/stripes/bbbbbbbgb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11231
 

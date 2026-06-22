@@ -2,9 +2,10 @@
 title: "Lions International"
 date: 2023-03-18
 ---
-In pattern [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p60lp2k2p2dy2p10n3dy12p10k2lp5p5n2lp2n2p5lp4p4k4n8/)
+(the same proportion at any scale), whose colour order is pattern [BWKBYBWYBKWBWWWBWBKW](/stripes/bwkbybwybkwbwwwbwbkw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2123
 

@@ -2,18 +2,20 @@
 title: "Minster"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRGRBBBR](/stripes/brbrbrbrgrbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6dba2b3dba3r2g18dr2dba16dr18db3dr3db2dr2dba6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRGRBBBR](/stripes/brbrbrbrgrbbbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1986 — Minster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961))
-- pre 1986 — Minster (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5679/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Minster (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2961">record</a>)</li>
+<li>pre 1986 — Minster (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5679/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "New South Wales"
 date: 2023-03-18
 ---
-In pattern [GGGGGGKGKGRGYG](/stripes/ggggggkgkgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3ga2g1ga2g1ga3k1ga3k2ga14r1ga3y1ga3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGKGKGRGYG](/stripes/ggggggkgkgrgyg/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Kelley Oliphint"
 date: 2023-03-18
 ---
-In pattern [BKBWK](/stripes/bkbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3w2n27k31p3/)
+(the same proportion at any scale), whose colour order is pattern [BKBWK](/stripes/bkbwk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10184
 

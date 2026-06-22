@@ -2,9 +2,10 @@
 title: "Cumming #2"
 date: 2023-03-18
 ---
-In pattern [KRGRGWGR](/stripes/krgrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g9w1g9r3g6r18k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGWGR](/stripes/krgrgwgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Comyn, or MacAulay
 - Cumming #2
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1850 — Cumming #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835))
-- 1850 — Cumming - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1157/))
-- undated — Comyn, or MacAulay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Comyn or MacAulay Tartan Tartan Number: 1157. Earliest known date: 1850 This sett closely resembles the 'Vestiarium' version, but is in fact the one given by Logan as MacAuley and illustrated by MacIan in 'The Clans of the Scottish Highlands', 1847. The Smith brothers said that the sett had the approval of the head of the family og Cumming. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1157))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — Cumming #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=835">record</a>)</li>
+<li>1850 — Cumming - 1850 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1157/">record</a>)</li>
+<li>undated — Comyn, or MacAulay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Comyn or MacAulay Tartan Tartan Number: 1157. Earliest known date: 1850 This sett closely resembles the 'Vestiarium' version, but is in fact the one given by Logan as MacAuley and illustrated by MacIan in 'The Clans of the Scottish Highlands', 1847. The Smith brothers said that the sett had the approval of the head of the family og Cumming. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1157">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Victoria Highland Dress Artifact Tartan Tartan Number: 1677. Earliest known date: 19th C. The sett from late Victorian child's Highland Dress. The proportions differ slightly from the pattern recorded by W and A Smith (1850) as 'Victoria', possibly to allow tailoring of this miniature outfit. There is a minor variation between warp and weft in this sample which is not usually reproduced in the manufactured cloth. This tartan is sometimes called Royal Stewart Dress. It is known to have been favourably regarded by Queen Victoria. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWBWKYKWKGRGRWRGRGKWKYKWBW](/stripes/rwbwkykwkgrgrwrgrgkwkykwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln23db5ln5k7y3k3ln2k3g16r8g3r6ln3r6g3r8g16k3ln2k3y3k7ln5db5ln23r5/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKYKWKGRGRWRGRGKWKYKWBW](/stripes/rwbwkykwkgrgrwrgrgkwkykwbw/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1677
 

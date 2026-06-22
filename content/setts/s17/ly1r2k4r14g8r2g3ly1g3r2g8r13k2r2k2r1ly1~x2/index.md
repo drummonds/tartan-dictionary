@@ -2,9 +2,10 @@
 title: "Gaffney (2016)"
 date: 2023-03-18
 ---
-In pattern [YRKRGRGYGRGRKRKRY](/stripes/yrkrgrgygrgrkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1r2k4r14g8r2g3y1g3r2g8r13k2r2k2r1y1/)
+(the same proportion at any scale), whose colour order is pattern [YRKRGRGYGRGRKRKRY](/stripes/yrkrgrgygrgrkrkry/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11560
 

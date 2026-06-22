@@ -2,9 +2,10 @@
 title: "Forbes Dress"
 date: 2023-03-18
 ---
-In pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k2db16k12g16k2n4k2g16k12n4db4n16db2n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

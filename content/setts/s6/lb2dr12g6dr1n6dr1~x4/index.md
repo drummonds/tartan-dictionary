@@ -2,9 +2,10 @@
 title: "Fraser Green"
 date: 2023-03-18
 ---
-In pattern [BBBGBW](/stripes/bbbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dr12g6dr1na6dr1/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBW](/stripes/bbbgbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1257
 

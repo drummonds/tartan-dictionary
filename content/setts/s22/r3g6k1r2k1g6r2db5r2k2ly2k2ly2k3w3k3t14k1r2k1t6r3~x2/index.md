@@ -2,9 +2,10 @@
 title: "Anderson Variant Clan Tartan Tartan Number: 1350. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKRKBKWKYKYKRBRGKRKGR](/stripes/rbkrkbkwkykykrbrgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g6k1r2k1g6r2db5r2k2y2k2y2k3ln3k3b14k1r2k1b6r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBKWKYKYKRBRGKRKGR](/stripes/rbkrkbkwkykykrbrgkrkgr/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1350
 

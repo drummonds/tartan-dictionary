@@ -2,9 +2,10 @@
 title: "U.S. Marine Corps (Military?)"
 date: 2023-03-18
 ---
-In pattern [GRGRGBYR](/stripes/grgrgbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40r3g4r3g12db32y4r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBYR](/stripes/grgrgbyr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/975/
 

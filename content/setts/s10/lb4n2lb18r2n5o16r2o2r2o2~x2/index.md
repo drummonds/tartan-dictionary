@@ -2,9 +2,10 @@
 title: "Clyde Trade Tartan Tartan Number: 1296. Earliest known date: pre 1992 See Strathclyde District See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRRRRBRWBW](/stripes/rrrrrbrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb4n2nb18r2n5na16r2na2r2na2/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRBRWBW](/stripes/rrrrrbrwbw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1296
 

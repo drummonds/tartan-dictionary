@@ -2,9 +2,10 @@
 title: "Mitsukoshi"
 date: 2023-03-18
 ---
-In pattern [GKWKWKGBBR](/stripes/gkwkwkgbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12k3ln3k3ln3k3n13b6db17dr3/)
+(the same proportion at any scale), whose colour order is pattern [GKWKWKGBBR](/stripes/gkwkwkgbbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2966
 

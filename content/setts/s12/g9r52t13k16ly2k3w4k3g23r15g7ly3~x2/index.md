@@ -2,9 +2,10 @@
 title: "Stewart of Galloway Clan Tartan Tartan Number: 851. Earliest known date: c.1820 Count taken from the specimen at the Smith Institute in Stirling. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRBKYKWKGRGY](/stripes/grbkykwkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r52b13k16y2k3ln4k3g23r15g7y3/)
+(the same proportion at any scale), whose colour order is pattern [GRBKYKWKGRGY](/stripes/grbkykwkgrgy/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=851
 

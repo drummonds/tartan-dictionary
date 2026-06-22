@@ -2,9 +2,10 @@
 title: "Roberts of Wales"
 date: 2023-03-18
 ---
-In pattern [BKBKBBKBKBBBKBKBBKBKBR](/stripes/bkbkbbkbkbbbkbkbbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba24k3dba2k3dba24b20k3b2k3b20dba4b20k3b2k3b20dba24k3dba2k3dba24r4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBBKBKBBBKBKBBKBKBR](/stripes/bkbkbbkbkbbbkbkbbkbkbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3521
 

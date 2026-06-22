@@ -2,9 +2,10 @@
 title: "Murtaugh Hunting Tartan Tartan Number: 5818. Earliest known date: 2003 After original Murtaugh by Don Smith, Heraldic Graphics See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRWKBKWGKGKWBYBWBYBKR](/stripes/krwkbkwgkgkwbybwbybkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k4n4y2n2ln2n2y2n2ln2k4g3k2g24ln2k2n3k3ln2dr4k2/)
+(the same proportion at any scale), whose colour order is pattern [KRWKBKWGKGKWBYBWBYBKR](/stripes/krwkbkwgkgkwbybwbybkr/).
 
-This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5818
 

@@ -2,9 +2,10 @@
 title: "Swiss Highlander"
 date: 2023-03-18
 ---
-In pattern [GGBRWRBYGG](/stripes/ggbrwrbygg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12ga24b48r23w8r23b24y4ga12g12/)
+(the same proportion at any scale), whose colour order is pattern [GGBRWRBYGG](/stripes/ggbrwrbygg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10123
 

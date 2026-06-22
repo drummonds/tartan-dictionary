@@ -2,9 +2,10 @@
 title: "Marine Harvest (Scotland)"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKY](/stripes/bbkbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10n2k2b1k6n1k45y2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKY](/stripes/bbkbkbky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10382
 

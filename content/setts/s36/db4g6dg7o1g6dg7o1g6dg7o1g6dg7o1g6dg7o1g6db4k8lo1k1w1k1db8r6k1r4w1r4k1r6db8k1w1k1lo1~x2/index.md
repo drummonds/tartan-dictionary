@@ -2,9 +2,10 @@
 title: "Unidentified, Cotton sample"
 date: 2023-03-18
 ---
-In pattern [BGGRGGRGGRGGRGGRGBKYKWKBRKRWRKRBKWKY](/stripes/bggrggrggrggrggrgbkykwkbrkrwrkrbkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g6dg7lt1g6dg7lt1g6dg7lt1g6dg7lt1g6dg7lt1g6b4k8o1k1ln1k1b8r6k1r4ln1r4k1r6b8k1ln1k1o1/)
+(the same proportion at any scale), whose colour order is pattern [BGGRGGRGGRGGRGGRGBKYKWKBRKRWRKRBKWKY](/stripes/bggrggrggrggrggrgbkykwkbrkrwrkrbkwky/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

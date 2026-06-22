@@ -2,9 +2,10 @@
 title: "Islander Dress"
 date: 2023-03-18
 ---
-In pattern [KWRWK](/stripes/kwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ln29lp9lb19k3/)
+(the same proportion at any scale), whose colour order is pattern [KWRWK](/stripes/kwrwk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10248
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Islander Dress Fancy
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/06/2010 — Islander Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10248))
-- 1st June 2010 — Islander Dress (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10248/))
-- undated — Islander Dress Fancy Tartan Tartan Number: 10248. Earliest known date: 1st June 2010 This tartan was designed by Acacia Bingham based on the Manx Dress tartan to be used for her Highland dancing. Colours: turquoise is for the sea and sky around our island home; purple is for Mt Wellington which stands above our city; black is for the strength and white is for the grace needed for highland dancing. This tartan is only to be worn by permission of the designer. It is intended for those people who live on islands separate from the mainland of a country. (House of Tartan, Scotland) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10248))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2010 — Islander Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10248">record</a>)</li>
+<li>1st June 2010 — Islander Dress (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10248/">record</a>)</li>
+<li>undated — Islander Dress Fancy Tartan Tartan Number: 10248. Earliest known date: 1st June 2010 This tartan was designed by Acacia Bingham based on the Manx Dress tartan to be used for her Highland dancing. Colours: turquoise is for the sea and sky around our island home; purple is for Mt Wellington which stands above our city; black is for the strength and white is for the grace needed for highland dancing. This tartan is only to be worn by permission of the designer. It is intended for those people who live on islands separate from the mainland of a country. (House of Tartan, Scotland) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10248">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

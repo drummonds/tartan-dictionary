@@ -2,18 +2,20 @@
 title: "Devon 2000"
 date: 2023-03-18
 ---
-In pattern [BGGGGGBGRYBGRY](/stripes/bgggggbgrybgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24g4dg2g8dg2g4db12g3r22y3b8g3r22y6/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGBGRYBGRY](/stripes/bgggggbgrybgry/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=921
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 20/05/1999 — Devon 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=921))
-- May 1999 — Devon 2000 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2614/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>20/05/1999 — Devon 2000 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=921">record</a>)</li>
+<li>May 1999 — Devon 2000 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2614/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

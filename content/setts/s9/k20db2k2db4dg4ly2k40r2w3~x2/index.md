@@ -2,9 +2,10 @@
 title: "McCuaig (Glenelg and the Western Isles) Hunting"
 date: 2023-03-18
 ---
-In pattern [KBKBGYKRW](/stripes/kbkbgykrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20db2k2db4dg4y2k40r2w3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGYKRW](/stripes/kbkbgykrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11347
 

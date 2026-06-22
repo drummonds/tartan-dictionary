@@ -2,18 +2,20 @@
 title: "Canadian Caledonian"
 date: 2023-03-18
 ---
-In pattern [BGYRWRGRGW](/stripes/bgyrwrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3g16y1r1ln1r6g3r1g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [BGYRWRGRGW](/stripes/bgyrwrgrgw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Canadian Caledonian (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Canadian Caledonian District Tartan Tartan Number: 203. Earliest known date: 1939 MacKinlay strip. Designers Hastie-Cochrane and George MacBeth of Vancouver. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=203))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Canadian Caledonian (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Canadian Caledonian District Tartan Tartan Number: 203. Earliest known date: 1939 MacKinlay strip. Designers Hastie-Cochrane and George MacBeth of Vancouver. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=203">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/6 G32 Y2 R2 LN2 R12 G6 R2 G6 LN/2

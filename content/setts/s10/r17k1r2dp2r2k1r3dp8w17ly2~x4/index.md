@@ -2,9 +2,10 @@
 title: "Kyle, Pink (Dance)"
 date: 2023-03-18
 ---
-In pattern [RKRBRKRBWY](/stripes/rkrbrkrbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr17k1lr2p2lr2k1lr3dp8w17y2/)
+(the same proportion at any scale), whose colour order is pattern [RKRBRKRBWY](/stripes/rkrbrkrbwy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7588/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kyle, Pink
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Kyle, Pink (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7588/))
-- undated — Kyle Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5612))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Kyle, Pink (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7588/">record</a>)</li>
+<li>undated — Kyle Pink (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5612">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

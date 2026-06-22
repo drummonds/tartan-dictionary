@@ -2,9 +2,10 @@
 title: "New Elgin Primary School"
 date: 2023-03-18
 ---
-In pattern [BWBWBWRWYRYGYWRWBWBWBWRWGRGYGWRW](/stripes/bwbwbwrwyrygywrwbwbwbwrwgrgygwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8ln5db5ln5db8ln2r1ln2y3r6y3g6y14ln2r1ln2db8ln5db5ln5db8ln2r1ln2g3r6g3y6g14ln2r1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWRWYRYGYWRWBWBWBWRWGRGYGWRW](/stripes/bwbwbwrwyrygywrwbwbwbwrwgrgygwrw/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5832
 

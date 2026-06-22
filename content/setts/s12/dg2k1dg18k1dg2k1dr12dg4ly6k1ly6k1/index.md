@@ -2,9 +2,10 @@
 title: "MacMillan Ancient"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBGYKYK](/stripes/gkgkgkbgykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2k1dg18k1dg2k1dr12dg4lg6k1lg6k1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBGYKYK](/stripes/gkgkgkbgykyk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

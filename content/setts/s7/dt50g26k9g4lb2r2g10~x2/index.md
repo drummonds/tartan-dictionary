@@ -2,9 +2,10 @@
 title: "Java Saint Andrew Society Hunting"
 date: 2023-03-18
 ---
-In pattern [BGKGWRG](/stripes/bgkgwrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db50g26k9g4n2dr2g10/)
+(the same proportion at any scale), whose colour order is pattern [BGKGWRG](/stripes/bgkgwrg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Java Saint Andrew Society Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 05/07/2001 — Java Saint Andrew Society Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886))
-- Jun. 2001 — Java Saint Andrew Society Htg (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4105/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>05/07/2001 — Java Saint Andrew Society Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1886">record</a>)</li>
+<li>Jun. 2001 — Java Saint Andrew Society Htg (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4105/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

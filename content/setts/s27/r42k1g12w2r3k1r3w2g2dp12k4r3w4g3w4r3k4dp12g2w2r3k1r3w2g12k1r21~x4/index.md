@@ -2,9 +2,10 @@
 title: "MacFarlane"
 date: 2023-03-18
 ---
-In pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r42k1g12ln2r3k1r3ln2g2p12k4r3ln4g3ln4r3k4p12g2ln2r3k1r3ln2g12k1r21/)
+(the same proportion at any scale), whose colour order is pattern [RKGWRKRWGBKRWGWRKBGWRKRWGKR](/stripes/rkgwrkrwgbkrwgwrkbgwrkrwgkr/).
 
-This was sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from logan-1831.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link /posts/logans-scottish-gael/
 

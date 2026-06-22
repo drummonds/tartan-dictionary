@@ -2,9 +2,10 @@
 title: "Innes of Learney Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGYGBGBGKGWGKGBGBGYGKGKGK](/stripes/bkgkgkgygbgbgkgwgkgbgbgygkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18t3k3t3k3t18dy3t3db8t3db3g15k3t3w3t3k3g15db3t3db8t3dy3t18k3t3k3t3k18b3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGYGBGBGKGWGKGBGBGYGKGKGK](/stripes/bkgkgkgygbgbgkgwgkgbgbgygkgkgk/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1833
 

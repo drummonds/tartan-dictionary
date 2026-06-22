@@ -2,9 +2,10 @@
 title: "Kinnison (Clan?)"
 date: 2023-03-18
 ---
-In pattern [KYKWGWGWKRKWYWYW](/stripes/kykwgwgwkrkwywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k17y2k17ln12g2ln12g2ln12k17r2k17ln12y2ln12y2ln12/)
+(the same proportion at any scale), whose colour order is pattern [KYKWGWGWKRKWYWYW](/stripes/kykwgwgwkrkwywyw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1994/
 

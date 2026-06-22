@@ -2,9 +2,10 @@
 title: "Gordon Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [WBWBWKBKBKBKYKYKWBWBW](/stripes/wbwbwkbkbkbkykykwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2db1w12db2w2ka8db8ka2db2ka2db8ka8y8k2y8ka8w2db2w12db1w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWKBKBKBKYKYKWBWBW](/stripes/wbwbwkbkbkbkykykwbwbw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1782/
 

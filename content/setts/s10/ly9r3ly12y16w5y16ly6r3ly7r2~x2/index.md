@@ -2,9 +2,10 @@
 title: "J & B Whisky (Original) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RYRYGWGYRY](/stripes/ryrygwgyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y9r3y12g16w5g16y6r3y7r2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYGWGYRY](/stripes/ryrygwgyry/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6073/
 

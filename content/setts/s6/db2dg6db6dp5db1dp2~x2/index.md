@@ -2,9 +2,10 @@
 title: "Unidentified no. 54"
 date: 2023-03-18
 ---
-In pattern [BBBBGB](/stripes/bbbbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2g6db6dp5db1dp2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGB](/stripes/bbbbgb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4334
 

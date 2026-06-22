@@ -2,9 +2,10 @@
 title: "State Seal of Illinois (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGGBGGGGGWRY](/stripes/gbggbgggggwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4db34g4t4db4t4g3t13g21t4lr3dr11dy3/)
+(the same proportion at any scale), whose colour order is pattern [GBGGBGGGGGWRY](/stripes/gbggbgggggwry/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8627/
 

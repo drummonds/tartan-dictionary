@@ -2,18 +2,20 @@
 title: "Hunter of Hunterston"
 date: 2023-03-18
 ---
-In pattern [GBGBRBWGRGY](/stripes/gbgbrbwgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5b2g12b12r2b12ln2g12r2g4y3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBRBWGRGY](/stripes/gbgbrbwgrgy/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hunter of Hunterston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hunter of Hunterston Clan Tartan Tartan Number: 719. Earliest known date: 1985 Authorized by Clan Society 1985. Chiefship of the Clan Hunter passed to the Cochrane-Patrick family who have changed their name to Hunter of Hunterston. Hunterston House belongs to British Nuclear Fuels. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=719))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hunter of Hunterston (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hunter of Hunterston Clan Tartan Tartan Number: 719. Earliest known date: 1985 Authorized by Clan Society 1985. Chiefship of the Clan Hunter passed to the Cochrane-Patrick family who have changed their name to Hunter of Hunterston. Hunterston House belongs to British Nuclear Fuels. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=719">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/10 B4 G24 B24 R4 B24 LN4 G24 R4 G8 Y/6

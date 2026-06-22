@@ -2,9 +2,10 @@
 title: "Sommerville"
 date: 2023-03-18
 ---
-In pattern [WRRRBRGRRRBRGRGRRY](/stripes/wrrrbrgrrrbrgrgrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2lr5r3ga54r5ga3r5dba20lr5r3lr5ga16r2dba4r48lr6r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRRRBRGRRRBRGRGRRY](/stripes/wrrrbrgrrrbrgrgrry/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3835
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Sommerville
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1930 — Sommerville (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3835))
-- 1930 — Somerville (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1861/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Sommerville (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3835">record</a>)</li>
+<li>1930 — Somerville (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1861/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

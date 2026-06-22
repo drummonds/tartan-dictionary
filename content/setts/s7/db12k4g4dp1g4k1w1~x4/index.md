@@ -2,9 +2,10 @@
 title: "Alexander - 2000 (Name)"
 date: 2023-03-18
 ---
-In pattern [BKGBGKW](/stripes/bkgbgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k4g4dp1g4k1w1/)
+(the same proportion at any scale), whose colour order is pattern [BKGBGKW](/stripes/bkgbgkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5686/
 

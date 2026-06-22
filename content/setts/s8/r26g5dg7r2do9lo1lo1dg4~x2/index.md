@@ -2,18 +2,20 @@
 title: "Tartan Army Whisky"
 date: 2023-03-18
 ---
-In pattern [GYYBRGGR](/stripes/gyybrggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r26g5dg7dr2dra9o1oa1dg4/)
+(the same proportion at any scale), whose colour order is pattern [GYYBRGGR](/stripes/gyybrggr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10975
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 18/12/2013 — Tartan Army Whisky (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10975))
-- 2014 — Tartan Army Whisky (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10975/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>18/12/2013 — Tartan Army Whisky (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10975">record</a>)</li>
+<li>2014 — Tartan Army Whisky (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10975/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

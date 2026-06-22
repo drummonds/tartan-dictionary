@@ -2,9 +2,10 @@
 title: "Grant, or Drummond"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b2r2g24r2g2r2b8r2ba1r32b2r2b1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRGRBR](/stripes/rbrbrbrbrgrgrbr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

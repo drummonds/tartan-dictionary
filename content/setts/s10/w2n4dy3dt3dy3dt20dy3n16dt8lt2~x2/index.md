@@ -2,9 +2,10 @@
 title: "Sverker"
 date: 2023-03-18
 ---
-In pattern [WBBGBGBGBW](/stripes/wbbgbgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2b4t3dn3t3dn20t3b16dn8lb2/)
+(the same proportion at any scale), whose colour order is pattern [WBBGBGBGBW](/stripes/wbbgbgbgbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11637
 

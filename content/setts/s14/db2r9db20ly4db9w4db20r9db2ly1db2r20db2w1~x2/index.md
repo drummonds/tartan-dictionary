@@ -2,9 +2,10 @@
 title: "Unidentified (Knapp)"
 date: 2023-03-18
 ---
-In pattern [BRBYBWBRBYBRBW](/stripes/brbybwbrbybrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r9db20y4db9ln4db20r9db2y1db2r20db2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBWBRBYBRBW](/stripes/brbybwbrbybrbw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8473/
 

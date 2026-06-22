@@ -2,9 +2,10 @@
 title: "St. Andrews Old Course Hotel (Corp)"
 date: 2023-03-18
 ---
-In pattern [BGBKBG](/stripes/bgbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g26db10k3db2t2db10/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBG](/stripes/bgbkbg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2332/
 

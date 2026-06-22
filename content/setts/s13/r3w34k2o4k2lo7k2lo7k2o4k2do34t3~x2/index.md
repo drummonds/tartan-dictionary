@@ -2,9 +2,10 @@
 title: "Buchanan Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBKRKYKYKRKWR](/stripes/bbkrkykykrkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3ln34k2n4k2dy7k2dy7k2n4k2dra34b3/)
+(the same proportion at any scale), whose colour order is pattern [BBKRKYKYKRKWR](/stripes/bbkrkykykrkwr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/608/
 

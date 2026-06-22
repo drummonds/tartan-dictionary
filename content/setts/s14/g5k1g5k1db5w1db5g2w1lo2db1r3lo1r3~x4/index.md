@@ -2,9 +2,10 @@
 title: "Festival Celtique de Québec"
 date: 2023-03-18
 ---
-In pattern [GKGKBWBGWYBRYR](/stripes/gkgkbwbgwybryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5k1g5k1db5w1db5g2w1dy2db1r3dy1r3/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBWBGWYBRYR](/stripes/gkgkbwbgwybryr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11047
 

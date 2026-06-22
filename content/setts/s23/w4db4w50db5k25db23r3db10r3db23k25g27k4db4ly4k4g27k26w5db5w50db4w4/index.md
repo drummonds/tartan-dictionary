@@ -2,9 +2,10 @@
 title: "Malcolm, Dress"
 date: 2023-03-18
 ---
-In pattern [WBWBKBRBRBKGKBYKGKWBWBW](/stripes/wbwbkbrbrbkgkbykgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db4ln50db5k25db23r3db10r3db23k25g27k4dba4y4k4g27k26ln5db5ln50db4ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBWBKBRBRBKGKBYKGKWBWBW](/stripes/wbwbkbrbrbkgkbykgkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2797
 

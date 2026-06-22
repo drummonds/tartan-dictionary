@@ -2,9 +2,10 @@
 title: "Lauder Dress (Can)"
 date: 2023-03-18
 ---
-In pattern [BWBWKGRGKGBGBGKWBRBWKGBGBGKGRGKWBWBR](/stripes/bwbwkgrgkgbgbgkwbrbwkgbgbgkgrgkwbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln52db5ln5k26g25r6g28k25g3db26g6db25g3k27ln50db4r4db4ln50k27g3db25g6db26g3k25g28r6g25k26ln5db5ln52db4r4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWKGRGKGBGBGKWBRBWKGBGBGKGRGKWBWBR](/stripes/bwbwkgrgkgbgbgkwbrbwkgbgbgkgrgkwbwbr/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1435/
 

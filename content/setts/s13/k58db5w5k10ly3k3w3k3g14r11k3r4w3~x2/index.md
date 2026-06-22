@@ -2,9 +2,10 @@
 title: "Stewart Black"
 date: 2023-03-18
 ---
-In pattern [KBWKYKWKGRKRW](/stripes/kbwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k58b5ln5k10y3k3ln3k3g14r11k3r4ln3/)
+(the same proportion at any scale), whose colour order is pattern [KBWKYKWKGRKRW](/stripes/kbwkykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stewart Black..
 - Stuart/Stewart Black #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart Black (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Black.. Clan Tartan Tartan Number: 1073. Earliest known date: c.1830 This sett appears in Paton's collection housed in the Scottish Tartans Museum, Tolbooth, Stirling (1995). The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. The tartan is worn by the Royal Scots Dragoon Guards pipe band and the Grampian Police pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1073))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart Black (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Black.. Clan Tartan Tartan Number: 1073. Earliest known date: c.1830 This sett appears in Paton's collection housed in the Scottish Tartans Museum, Tolbooth, Stirling (1995). The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. The tartan is worn by the Royal Scots Dragoon Guards pipe band and the Grampian Police pipe band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1073">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/116 B10 LN10 K20 Y6 K6 LN6 K6 G28 R22 K6 R8 LN/6

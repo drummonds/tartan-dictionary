@@ -2,9 +2,10 @@
 title: "Unnamed C20th - Unregistered Error"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13r2db2r6db25r2k27y2g25r6g2r2g13/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8727/
 

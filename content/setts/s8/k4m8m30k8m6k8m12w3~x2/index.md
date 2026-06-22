@@ -2,9 +2,10 @@
 title: "Believe - Corinna"
 date: 2023-03-18
 ---
-In pattern [KRRKRKRW](/stripes/krrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4pa8p30k8pa6k8pa12w3/)
+(the same proportion at any scale), whose colour order is pattern [KRRKRKRW](/stripes/krrkrkrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11005/
 

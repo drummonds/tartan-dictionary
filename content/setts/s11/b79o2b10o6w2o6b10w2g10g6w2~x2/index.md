@@ -2,18 +2,20 @@
 title: "Dallas (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRWRBWGGW](/stripes/brbrwrbwggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b79n2b10n6ln2n6b10ln2g10ga6ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWRBWGGW](/stripes/brbrwrbwggw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7513/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1980s — Dallas (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7513/))
-- undated — Dallas Family Tartan Tartan Number: 7513. Earliest known date: 1980 In February 2010 Dr Phil Smith provided information that a Dr. Dallas said he had first seen the Dallas tartan in the 1940s in the home of an old woman in the Carse of Gowrie (near Dundee). This pattern has been woven by Lochcarron. It is similar but not exactly the same as another version woven by D C Dalgliesh in the 1980s when he supplied a kilt length to US kiltmaker Kathy Lare of New Mexico. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7513))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1980s — Dallas (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7513/">record</a>)</li>
+<li>undated — Dallas Family Tartan Tartan Number: 7513. Earliest known date: 1980 In February 2010 Dr Phil Smith provided information that a Dr. Dallas said he had first seen the Dallas tartan in the 1940s in the home of an old woman in the Carse of Gowrie (near Dundee). This pattern has been woven by Lochcarron. It is similar but not exactly the same as another version woven by D C Dalgliesh in the 1980s when he supplied a kilt length to US kiltmaker Kathy Lare of New Mexico. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7513">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/158 N4 B20 N12 LN4 N12 B20 LN4 G20 Ga12 LN/4

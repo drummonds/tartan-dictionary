@@ -2,9 +2,10 @@
 title: "Strathearn (Royal)"
 date: 2023-03-18
 ---
-In pattern [GRYRGYGRGRY](/stripes/gryrgygrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1r1g6r6g1y1g1r6y8r1g1/)
+(the same proportion at any scale), whose colour order is pattern [GRYRGYGRGRY](/stripes/gryrgygrgry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1890/
 

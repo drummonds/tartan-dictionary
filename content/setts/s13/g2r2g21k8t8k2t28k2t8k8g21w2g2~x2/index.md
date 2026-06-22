@@ -2,9 +2,10 @@
 title: "Mack Original (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGKBKBKBKGWG](/stripes/grgkbkbkbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2r2g21k8b8k2b28k2b8k8g21w2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBKBKBKGWG](/stripes/grgkbkbkbkgwg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2495
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mack Original
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2003 — Mack Original (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2495))
-- pre 2004 — Mack (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6209/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2003 — Mack Original (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2495">record</a>)</li>
+<li>pre 2004 — Mack (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6209/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

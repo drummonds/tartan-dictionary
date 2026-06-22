@@ -2,9 +2,10 @@
 title: "Boucherville Formal District Tartan Tartan Number: 2118. Earliest known date: 1990 Three designers from La Navette d'Art ENR, Jeanette Blanchette, Pauline Bastien and Jacqueline Provost, based their design on symbolic colours. Le bleu azur represente la loyaute, le gris argent la serenite, le jaune (l'or) la generosite, le vert represente l'esperance, et le blanc symbole de purete et d'innocence \"nous rappelle notre appartenance au Quebec.\" \"Les tisserands, c'est nous tous...!\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRBRBWRYW](/stripes/grbrbwryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln40y4n10ln8db4n4db4n4g1/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBWRYW](/stripes/grbrbwryw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2118
 

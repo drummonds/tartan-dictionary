@@ -2,9 +2,10 @@
 title: "Red Hackle (Military)"
 date: 2023-03-18
 ---
-In pattern [BKRKRKGKGKBKR](/stripes/bkrkrkgkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp11k1dr1k1dr1k7g8k1g8k7dp8k1r1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKGKGKBKR](/stripes/bkrkrkgkgkbkr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10124/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Red Hackle Regimental
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1st Oct. 2009 — Red Hackle (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10124/))
-- undated — Red Hackle Regimental Tartan Tartan Number: 10124. Earliest known date: 1st Oct. 2009 The Red Hackle tartan has been designed as a tribute to the men and women of The Black Watch, both past and present. Originally used to identify troops in the midst of battle, it is not known whether it was first used during the American War of Independence or later during the battle of Geldermaisen campaign on January 5th, 1795, what is beyond dispute is that in 1822 the Army's Adjutant General confirmed the unique right of the 42nd Regiment (Black Watch) to wear the Red Hackle in their bonnets. In memory of Geldermeisen, the 5th January subsequently became the regimental day, and is now known as Red Hackle Day. The new tartan is based on Black Watch tartan, to which a series of overchecks in two shades of red has been added. It was selected from a number of designs submitted to the regimental headquarters at Balhousie Castle in Perth. A portion of all sales of the tartan will be donated to The Black Watch Heritage Appeal. This tartan may only be woven by House of Edgar or its sub-licencees. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10124))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1st Oct. 2009 — Red Hackle (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10124/">record</a>)</li>
+<li>undated — Red Hackle Regimental Tartan Tartan Number: 10124. Earliest known date: 1st Oct. 2009 The Red Hackle tartan has been designed as a tribute to the men and women of The Black Watch, both past and present. Originally used to identify troops in the midst of battle, it is not known whether it was first used during the American War of Independence or later during the battle of Geldermaisen campaign on January 5th, 1795, what is beyond dispute is that in 1822 the Army's Adjutant General confirmed the unique right of the 42nd Regiment (Black Watch) to wear the Red Hackle in their bonnets. In memory of Geldermeisen, the 5th January subsequently became the regimental day, and is now known as Red Hackle Day. The new tartan is based on Black Watch tartan, to which a series of overchecks in two shades of red has been added. It was selected from a number of designs submitted to the regimental headquarters at Balhousie Castle in Perth. A portion of all sales of the tartan will be donated to The Black Watch Heritage Appeal. This tartan may only be woven by House of Edgar or its sub-licencees. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10124">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DP/44 K4 DR4 K4 DR4 K28 G32 K4 G32 K28 DP32 K4 R/4

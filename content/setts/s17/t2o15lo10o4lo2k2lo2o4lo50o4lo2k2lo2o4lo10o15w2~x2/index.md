@@ -2,9 +2,10 @@
 title: "Australian, The"
 date: 2023-03-18
 ---
-In pattern [BRYRYKYRYRYKYRYRW](/stripes/bryrykyryrykyryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2lt15o10lt4o2k2o2lt4o50lt4o2k2o2lt4o10lt15ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRYRYKYRYRYKYRYRW](/stripes/bryrykyryrykyryrw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

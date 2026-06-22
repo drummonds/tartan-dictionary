@@ -2,9 +2,10 @@
 title: "Letang Family (Neuilly sur Seine, France) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYYYBKWRWRWRWR](/stripes/byyybkwrwrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14n2y2n2b25k6w17r3w3r3w3r3w3r3/)
+(the same proportion at any scale), whose colour order is pattern [BYYYBKWRWRWRWR](/stripes/byyybkwrwrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10416
 

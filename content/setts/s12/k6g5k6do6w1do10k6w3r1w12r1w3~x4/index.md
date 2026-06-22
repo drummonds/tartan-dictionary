@@ -2,9 +2,10 @@
 title: "Forbes - 1970 (WCWM #1)"
 date: 2023-03-18
 ---
-In pattern [KGKBWBKWRWRW](/stripes/kgkbwbkwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g5k6t6ln1t10k6ln3dr1ln12dr1ln3/)
+(the same proportion at any scale), whose colour order is pattern [KGKBWBKWRWRW](/stripes/kgkbwbkwrwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4882/
 

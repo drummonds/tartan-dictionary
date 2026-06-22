@@ -2,9 +2,10 @@
 title: "Polaris"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGBGYGKBKB](/stripes/bkbkbkgygbgygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6k1db1k1db1k7g6y1g1b1g1y1g6k7db7k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGBGYGKBKB](/stripes/bkbkbkgygbgygkbkb/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

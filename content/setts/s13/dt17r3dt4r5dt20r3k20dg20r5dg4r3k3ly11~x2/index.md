@@ -2,9 +2,10 @@
 title: "MacSporran Clan Tartan Tartan Number: 495. Earliest known date: 1978 Adopted by the Clan MacSporran Association in 1978 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n17r3n4r5n20r3k20g20r5g4r3k3y11/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=495
 

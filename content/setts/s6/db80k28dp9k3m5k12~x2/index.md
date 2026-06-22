@@ -2,18 +2,20 @@
 title: "Earl Blue Marl"
 date: 2023-03-18
 ---
-In pattern [BKBKRK](/stripes/bkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db80k28p9k3lp5k12/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRK](/stripes/bkbkrk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2005 — Earl Blue Marl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063))
-- 2005 May — Earl Blue Marl (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6867/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2005 — Earl Blue Marl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1063">record</a>)</li>
+<li>2005 May — Earl Blue Marl (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6867/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

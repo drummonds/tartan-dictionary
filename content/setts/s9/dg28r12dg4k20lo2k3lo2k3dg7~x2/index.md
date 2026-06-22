@@ -2,9 +2,10 @@
 title: "Cork, County (District)"
 date: 2023-03-18
 ---
-In pattern [GKYKYKGRG](/stripes/gkykykgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg28dr12dg4db20dy2db3dy2db3dg7/)
+(the same proportion at any scale), whose colour order is pattern [GKYKYKGRG](/stripes/gkykykgrg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2253/
 

@@ -2,9 +2,10 @@
 title: "Manx, hunting"
 date: 2023-03-18
 ---
-In pattern [BGGGWGYGGGB](/stripes/bgggwgygggb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b38dg1n11dg1ln4dg1y4dg1g20dg1ba6/)
+(the same proportion at any scale), whose colour order is pattern [BGGGWGYGGGB](/stripes/bgggwgygggb/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "MacEdward"
 date: 2023-03-18
 ---
-In pattern [RBKBKBGRYR](/stripes/rbkbkbgryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6y1r24g6b2k1b2k1b12r1/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBGRYR](/stripes/rbkbkbgryr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

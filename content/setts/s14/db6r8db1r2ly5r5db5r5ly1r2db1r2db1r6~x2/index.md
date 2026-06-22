@@ -2,9 +2,10 @@
 title: "Munro (Culloden)"
 date: 2023-03-18
 ---
-In pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r8db1r2y5r5db5r5y1r2db1r2db1r6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRYRBRYRBRBR](/stripes/brbryrbryrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Munro, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1746 — Munro (Culloden) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050))
-- undated — Munro, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1746 — Munro (Culloden) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3050">record</a>)</li>
+<li>undated — Munro, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

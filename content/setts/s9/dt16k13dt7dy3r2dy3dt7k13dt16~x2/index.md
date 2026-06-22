@@ -2,9 +2,10 @@
 title: "Klappert, Denmark (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBGRGBKB](/stripes/bkbgrgbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16k13n7t3r2t3n7k13n16/)
+(the same proportion at any scale), whose colour order is pattern [BKBGRGBKB](/stripes/bkbgrgbkb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10468
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Klappert, Denmark
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 02/08/2011 — Klappert, Denmark (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10468))
-- undated — Klappert Name Tartan Tartan Number: 10468. Earliest known date: 2011 This tartan was designed to celebrate the advent of the third generation of Klapperts in Denmark. The Klappert family name is currently only shared by four people in Denmark, all closely related. The family has visited Scotland frequently and has embraced the Scottish culture. This tartan represents the family's love of Scotland. The colours reflect the family's heritage and enviroment: black symbolises the dark Nordic winter and the dark grey is the cold sea which embraces the vast Danish coastline. The dark red symbolises this family's foundation in Denmark. The brown is a reference to the longships which carried the Vikings to Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10468))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>02/08/2011 — Klappert, Denmark (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10468">record</a>)</li>
+<li>undated — Klappert Name Tartan Tartan Number: 10468. Earliest known date: 2011 This tartan was designed to celebrate the advent of the third generation of Klapperts in Denmark. The Klappert family name is currently only shared by four people in Denmark, all closely related. The family has visited Scotland frequently and has embraced the Scottish culture. This tartan represents the family's love of Scotland. The colours reflect the family's heritage and enviroment: black symbolises the dark Nordic winter and the dark grey is the cold sea which embraces the vast Danish coastline. The dark red symbolises this family's foundation in Denmark. The brown is a reference to the longships which carried the Vikings to Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10468">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

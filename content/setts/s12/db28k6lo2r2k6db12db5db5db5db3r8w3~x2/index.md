@@ -2,9 +2,10 @@
 title: "Meirhaeghe, Van"
 date: 2023-03-18
 ---
-In pattern [BKYRKBBBBBRW](/stripes/bkyrkbbbbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28k6y2dr2k6db12dba5db5dba5db3dr8w3/)
+(the same proportion at any scale), whose colour order is pattern [BKYRKBBBBBRW](/stripes/bkyrkbbbbbrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11014
 

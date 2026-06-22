@@ -2,9 +2,10 @@
 title: "Harmon Hunting"
 date: 2023-03-18
 ---
-In pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g6y2g2y2g19db2dr2db2g2dg4k2dg11dr2dg2dr2dg6y2/)
+(the same proportion at any scale), whose colour order is pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10017
 

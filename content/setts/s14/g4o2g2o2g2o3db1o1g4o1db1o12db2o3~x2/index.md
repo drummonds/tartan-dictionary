@@ -2,9 +2,10 @@
 title: "MacAlister of Glenbarr"
 date: 2023-03-18
 ---
-In pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4lt2g2lt2g2lt3b1lt1g4lt1b1lt12b2lt3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

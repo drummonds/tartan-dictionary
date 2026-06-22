@@ -2,18 +2,20 @@
 title: "Dow - Aerlift"
 date: 2023-03-18
 ---
-In pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n14k2n2k14ka2k14ka2k2ka9r2ka8y2ka9k2ka2k14ka2k14n2k2n14w2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10704
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 06/09/2012 — Dow - Aerlift (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10704))
-- undated — Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10704))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>06/09/2012 — Dow - Aerlift (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10704">record</a>)</li>
+<li>undated — Dow - Aerlift Name Tartan Tartan Number: 10704. Earliest known date: 24 September 2012 This tartan, a 6.3" sett, is based on the Davidson tartan (#891) with complementary strips of red and gold for Buchanan. The surname Dow can be a Sept of either Davidson or Buchanan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10704">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

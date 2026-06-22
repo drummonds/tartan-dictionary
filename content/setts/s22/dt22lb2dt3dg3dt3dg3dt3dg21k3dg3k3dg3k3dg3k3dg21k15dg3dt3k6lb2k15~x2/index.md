@@ -2,9 +2,10 @@
 title: "Wilson-Blyth Name Tartan Tartan Number: 11127. Earliest known date: 23/08/2014 The Wilson-Blyth tartan takes the set of the Clan Wilson tartan and uses the colours of the Clan Blyth (Tweedside District) tartan. It was designed for the marriage of Prof. Nancy J Devlin (nee Wilson) to Mr David R Blyth, in Rushden, Hertfordshire on 23rd August 2014, wherein both will take the new name Wilson-Blyth. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22lr2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lr2k15/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11127
 

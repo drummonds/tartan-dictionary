@@ -2,9 +2,10 @@
 title: "Chalk (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGWGBWB](/stripes/bgbgbgwgbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2ln5db5g11ln5dg12b1dg2b26dg2db2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGWGBWB](/stripes/bgbgbgwgbwb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10421/
 

@@ -2,9 +2,10 @@
 title: "Mackenzie"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k2b2k2b2k12g12k1ln2k1g12k12b12k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKR](/stripes/bkbkbkgkwkgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mackenzie
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1778 — Mackenzie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520))
-- 1819 — MacKenzie - 1780 (Clan) as 78th (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/267/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1778 — Mackenzie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2520">record</a>)</li>
+<li>1819 — MacKenzie - 1780 (Clan) as 78th (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/267/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

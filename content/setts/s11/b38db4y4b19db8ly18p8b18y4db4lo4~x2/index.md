@@ -2,9 +2,10 @@
 title: "Cian of Ely"
 date: 2023-03-18
 ---
-In pattern [BBGBBYBBGBY](/stripes/bbgbbybbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b38db4lga4b19db8lg18p8b18lga4db4dy4/)
+(the same proportion at any scale), whose colour order is pattern [BBGBBYBBGBY](/stripes/bbgbbybbgby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=651
 

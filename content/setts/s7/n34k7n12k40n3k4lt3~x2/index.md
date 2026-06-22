@@ -2,9 +2,10 @@
 title: "TACC"
 date: 2023-03-18
 ---
-In pattern [BKBKBKW](/stripes/bkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n34k7n12k40n3k4lb3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKW](/stripes/bkbkbkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10578
 

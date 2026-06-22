@@ -2,9 +2,10 @@
 title: "Italian American (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKWKBKGWR](/stripes/rkwkbkgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2ln6k2b40k80g10ln6r3/)
+(the same proportion at any scale), whose colour order is pattern [RKWKBKGWR](/stripes/rkwkbkgwr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10135/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Italian
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 5th Jan. 2010 — Italian American (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10135/))
-- undated — Italian American Corporate Tartan Tartan Number: 10135. Earliest known date: 5th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts and was commissioned by Tony Licalzi, to celebrate the creativity and passion of Italian Americans. The green, white and red represent the colours of the Italian flag and the red, white and blue, the American flag. This is a Universal tartan that is available for anyone to wear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10135))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>5th Jan. 2010 — Italian American (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10135/">record</a>)</li>
+<li>undated — Italian American Corporate Tartan Tartan Number: 10135. Earliest known date: 5th Jan. 2010 This tartan was designed by Rocky Roeger of USA Kilts and was commissioned by Tony Licalzi, to celebrate the creativity and passion of Italian Americans. The green, white and red represent the colours of the Italian flag and the red, white and blue, the American flag. This is a Universal tartan that is available for anyone to wear. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10135">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 K2 LN6 K2 B40 K80 G10 LN6 R/3

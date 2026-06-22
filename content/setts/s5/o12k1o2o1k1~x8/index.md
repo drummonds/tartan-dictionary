@@ -2,9 +2,10 @@
 title: "Lochcarron, Camel (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRRKR](/stripes/krrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt12k1lta2lt1r1/)
+(the same proportion at any scale), whose colour order is pattern [KRRKR](/stripes/krrkr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5461/
 

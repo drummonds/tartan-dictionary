@@ -2,9 +2,10 @@
 title: "Terry"
 date: 2023-03-18
 ---
-In pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g33y1g3r3ga3y1ga21y1ga3r3ga3y1ga21/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGYGYGRGYG](/stripes/gygrgygygrgyg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

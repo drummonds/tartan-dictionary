@@ -2,9 +2,10 @@
 title: "Romsdal, Tresfjord"
 date: 2023-03-18
 ---
-In pattern [KRKRK](/stripes/krkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr4k7r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRK](/stripes/krkrk/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

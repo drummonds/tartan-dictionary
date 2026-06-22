@@ -2,9 +2,10 @@
 title: "Stewart/Stuart Dress (Four red lines)"
 date: 2023-03-18
 ---
-In pattern [RKRGWBYBKWRWRWRWRWKBYBWGRKRW](/stripes/rkrgwbybkwrwrwrwrwkbybwgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k3r15g42w5db3dy3db13k13w66r4w2r2w10r2w2r4w66k13db13dy3db3w5g42r15k3r4w2/)
+(the same proportion at any scale), whose colour order is pattern [RKRGWBYBKWRWRWRWRWKBYBWGRKRW](/stripes/rkrgwbybkwrwrwrwrwkbybwgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3946
 

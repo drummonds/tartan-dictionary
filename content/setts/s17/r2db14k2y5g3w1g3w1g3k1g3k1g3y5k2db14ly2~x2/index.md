@@ -2,9 +2,10 @@
 title: "Service, of Drymen"
 date: 2023-03-18
 ---
-In pattern [RBKGGWGWGKGKGGKBY](/stripes/rbkggwgwgkgkggkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b14k2n5g3ln1g3ln1g3k1g3k1g3n5k2b14y2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGGWGWGKGKGGKBY](/stripes/rbkggwgwgkgkggkby/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

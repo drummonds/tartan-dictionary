@@ -2,9 +2,10 @@
 title: "Chartered Institute of Bankers"
 date: 2023-03-18
 ---
-In pattern [KGKGKGWGWYWGWGKGKGKY](/stripes/kgkgkgwgwywgwgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k34n5k5n8k5n56lb5n5lb36y5lb36n5lb5n56k5n8k5n5k34y5/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGWGWYWGWGKGKGKY](/stripes/kgkgkgwgwywgwgkgkgky/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=617
 

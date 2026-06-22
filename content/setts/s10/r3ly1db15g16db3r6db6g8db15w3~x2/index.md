@@ -2,9 +2,10 @@
 title: "Steve Walls"
 date: 2023-03-18
 ---
-In pattern [RYBGBRBGBW](/stripes/rybgbrbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3y1db15g16db3r6db6g8db15w3/)
+(the same proportion at any scale), whose colour order is pattern [RYBGBRBGBW](/stripes/rybgbrbgbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10891/
 

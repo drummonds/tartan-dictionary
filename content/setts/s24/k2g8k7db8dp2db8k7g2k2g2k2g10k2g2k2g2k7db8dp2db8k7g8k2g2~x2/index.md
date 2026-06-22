@@ -2,9 +2,10 @@
 title: "Lochinvar Marine Harvest (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKGKBBBKGKGKGKGKGKBBBKGK](/stripes/gkgkbbbkgkgkgkgkgkbbbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g8k7db8p2db8k7g2k2g2k2g10k2g2k2g2k7db8p2db8k7g8k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBBBKGKGKGKGKGKBBBKGK](/stripes/gkgkbbbkgkgkgkgkgkbbbkgk/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2102/
 

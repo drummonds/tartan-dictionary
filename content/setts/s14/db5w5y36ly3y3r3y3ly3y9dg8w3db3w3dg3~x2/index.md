@@ -2,9 +2,10 @@
 title: "Freiburg"
 date: 2023-03-18
 ---
-In pattern [BWGYGRGYGGWBWG](/stripes/bwgygrgyggwbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5ln5n36y3n3r3n3y3n9dg8ln3b3ln3dg3/)
+(the same proportion at any scale), whose colour order is pattern [BWGYGRGYGGWBWG](/stripes/bwgygrgyggwbwg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5954
 

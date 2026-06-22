@@ -2,9 +2,10 @@
 title: "Stevenson (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYRYRYBYBYRYRYGR](/stripes/gyryrybybyryrygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6y1dr2y1dr2y1db6y1db6y1dr2y1dr2y1g6dr1/)
+(the same proportion at any scale), whose colour order is pattern [GYRYRYBYBYRYRYGR](/stripes/gyryrybybyryrygr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3927
 

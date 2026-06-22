@@ -2,19 +2,21 @@
 title: "MacInroy (Wedding) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGKRGRGR](/stripes/bgbgbgkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10g1db2g3db16g1k16r16g3r2g1r10/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGKRGRGR](/stripes/bgbgbgkrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1850 — MacInroy (Wedding) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479))
-- 1850 — MacInroy (Wedding) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/133/))
-- undated — MacInroy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — MacInroy (Wedding) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2479">record</a>)</li>
+<li>1850 — MacInroy (Wedding) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/133/">record</a>)</li>
+<li>undated — MacInroy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

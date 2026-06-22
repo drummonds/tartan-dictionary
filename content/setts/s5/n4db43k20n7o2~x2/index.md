@@ -2,9 +2,10 @@
 title: "Deighan (Burham Kent) (Name)"
 date: 2023-03-18
 ---
-In pattern [BBKBR](/stripes/bbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4db43k20n7na2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBR](/stripes/bbkbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10287/
 

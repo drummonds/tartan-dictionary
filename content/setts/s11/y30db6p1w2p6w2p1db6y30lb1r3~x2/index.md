@@ -2,9 +2,10 @@
 title: "Kuehle Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBBWBWBBGWR](/stripes/gbbwbwbbgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n30db6b1w2b6w2b1db6n30lb1lr3/)
+(the same proportion at any scale), whose colour order is pattern [GBBWBWBBGWR](/stripes/gbbwbwbbgwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10063
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kuehle Family Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 03/08/2009 — Kuehle Family (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10063))
-- 01/07/2010 — Kuehle Family Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10272))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>03/08/2009 — Kuehle Family (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10063">record</a>)</li>
+<li>01/07/2010 — Kuehle Family Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10272">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

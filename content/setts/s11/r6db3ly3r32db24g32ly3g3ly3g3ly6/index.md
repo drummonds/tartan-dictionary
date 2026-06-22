@@ -2,9 +2,10 @@
 title: "Bonnie Brae Corporate Tartan Tartan Number: 1450. Earliest known date: 1987 Y = Mustard. BR = brick. For Bonnie Brae School Millington See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBYRBGYGYGY](/stripes/rbyrbgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6g3y3g3y3g32db24r32y3db3ra6/)
+(the same proportion at any scale), whose colour order is pattern [RBYRBGYGYGY](/stripes/rbyrbgygygy/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1450
 

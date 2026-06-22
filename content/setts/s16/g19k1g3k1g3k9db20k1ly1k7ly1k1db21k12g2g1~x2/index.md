@@ -2,9 +2,10 @@
 title: "Hope Vere Family Tartan Tartan Number: 759. Earliest known date: c.1815 Hopetoun House, South Queensferry, home of the Marquesses of Linlithgow, was built by Robert Adam. The Highland Society of London collected specimens of tartan sealed with the signature of the Clan Chief or Head of the family, from 1815 onwards. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGKBKYKYKBKGKGKG](/stripes/ggkbkykykbkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga19k1g3k1ga3k9db20k1y1k7y1k1db21k12ga2g1/)
+(the same proportion at any scale), whose colour order is pattern [GGKBKYKYKBKGKGKG](/stripes/ggkbkykykbkgkgkg/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=759
 

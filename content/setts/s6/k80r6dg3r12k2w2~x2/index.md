@@ -2,9 +2,10 @@
 title: "Dellen"
 date: 2023-03-18
 ---
-In pattern [KRGRKW](/stripes/krgrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k80r6dg3r12k2w2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKW](/stripes/krgrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11271
 

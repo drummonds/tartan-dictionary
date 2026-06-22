@@ -2,9 +2,10 @@
 title: "St Johnstone F.C."
 date: 2023-03-18
 ---
-In pattern [KWKGYGW](/stripes/kwkgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19ln8k19g16y4g16ln2/)
+(the same proportion at any scale), whose colour order is pattern [KWKGYGW](/stripes/kwkgygw/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

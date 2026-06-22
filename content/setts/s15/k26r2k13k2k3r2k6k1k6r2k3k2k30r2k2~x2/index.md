@@ -2,9 +2,10 @@
 title: "Williams (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [KRKKKRKKKRKKKRK](/stripes/krkkkrkkkrkkkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka26dr2ka13k2ka3dra2ka6k1ka6dra2ka3k2ka30dra2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKKKRKKKRKKKRK](/stripes/krkkkrkkkrkkkrk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3234/
 

@@ -2,18 +2,20 @@
 title: "Ogilvy"
 date: 2023-03-18
 ---
-In pattern [BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWR](/stripes/bkbykrwrwrkybwbykrwrwrkybkbkbykrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5k1db5y2k1r3ln1r3ln1r3k1y1db3ln1db3y1k1r3ln1r3ln1r3k1y1db5k1db5k1db5y1k1r3ln1r3ln1r3/)
+(the same proportion at any scale), whose colour order is pattern [BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWR](/stripes/bkbykrwrwrkybwbykrwrwrkybkbkbykrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3235
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ogilvy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3235))
-- undated — Ogilvy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3235">record</a>)</li>
+<li>undated — Ogilvy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Wallace Green Dress Fashion Tartan Tartan Number: 2212. Earliest known date: pre 2004 A dancers tartan based on the Wallace See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGWGWY](/stripes/wgwgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln12g12ln1g12ln12lt1/)
+(the same proportion at any scale), whose colour order is pattern [WGWGWY](/stripes/wgwgwy/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2212
 

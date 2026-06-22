@@ -2,9 +2,10 @@
 title: "Thom(p)son's, Fancy"
 date: 2023-03-18
 ---
-In pattern [BKBBRR](/stripes/bkbbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2lt8b2ba4k4ba1/)
+(the same proportion at any scale), whose colour order is pattern [BKBBRR](/stripes/bkbbrr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

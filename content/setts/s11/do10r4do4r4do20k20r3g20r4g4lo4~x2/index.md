@@ -2,9 +2,10 @@
 title: "Cameron of Erracht (WCWM)"
 date: 2023-03-18
 ---
-In pattern [BRBRBKRGRGY](/stripes/brbrbkrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t10dr4t4dr4t20k20dr3g20dr4g4dy4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKRGRGY](/stripes/brbrbkrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5258
 

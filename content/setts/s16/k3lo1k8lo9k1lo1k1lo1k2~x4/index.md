@@ -2,9 +2,10 @@
 title: "Justus Black & Gold (Angus) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy1k8dy9k1dy1k1dy1k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYKYKYKYKYKY](/stripes/kykykykykykykyky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1918
 

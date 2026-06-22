@@ -2,9 +2,10 @@
 title: "Shapiro (Personal)"
 date: 2023-03-18
 ---
-In pattern [WWKWKWWWWWWWWWWWWWWKWWWWWWWWWWWWWWWWKWW](/stripes/wwkwkwwwwwwwwwwwwwwkwwwwwwwwwwwwwwwwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp16n2k2na2k10n4na6n10na6n10na4n10na4n10na1na1n32na2n10k4na10na4n10na10n6na10n6na10n6na10n4na10n2na28n3na10k6n4na16/)
+(the same proportion at any scale), whose colour order is pattern [WWKWKWWWWWWWWWWWWWWKWWWWWWWWWWWWWWWWKWW](/stripes/wwkwkwwwwwwwwwwwwwwkwwwwwwwwwwwwwwwwkww/).
 
-This was sourced from tartans-authority.  It is a [39 stripe tartan](/stripes/stripes39/).
+Sourced from tartans-authority.  It is a [39 stripe tartan](/stripes/stripes39/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3200/
 

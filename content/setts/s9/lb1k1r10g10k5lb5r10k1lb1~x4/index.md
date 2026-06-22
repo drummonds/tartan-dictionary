@@ -2,9 +2,10 @@
 title: "Graham of Montrose Red"
 date: 2023-03-18
 ---
-In pattern [WKRGKWRKW](/stripes/wkrgkwrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp1k1dr10g10k5lpa5dr10k1lp1/)
+(the same proportion at any scale), whose colour order is pattern [WKRGKWRKW](/stripes/wkrgkwrkw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/350/
 

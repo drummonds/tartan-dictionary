@@ -2,9 +2,10 @@
 title: "Metropolitan Atlanta Police (Corp)"
 date: 2023-03-18
 ---
-In pattern [RKBKBKGBGKBKR](/stripes/rkbkbkgbgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k2db21k8g16db3g16k8db3k3db21k2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKGBGKBKR](/stripes/rkbkbkgbgkbkr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2491/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Metropolitan Atlanta Police, Emerald Society
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- September 1998 — Metropolitan Atlanta Police (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2491/))
-- undated — Metropolitan Atlanta Police, Emerald Society (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>September 1998 — Metropolitan Atlanta Police (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2491/">record</a>)</li>
+<li>undated — Metropolitan Atlanta Police, Emerald Society (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/4 K4 DB42 K16 G32 DB6 G32 K16 DB6 K6 DB42 K4 DR/4

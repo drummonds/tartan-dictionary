@@ -2,9 +2,10 @@
 title: "Rikaco Heirloom (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBGBBBBBY](/stripes/bbbgbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3db3dba1g26dba10b1dba3p5db4lt2/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBBBBBY](/stripes/bbbgbbbbby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6393/
 

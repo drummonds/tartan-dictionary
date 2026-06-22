@@ -2,9 +2,10 @@
 title: "Nickel Lodge Centennial Corporate Tartan Tartan Number: 920. Earliest known date: 1988 1989 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGWBRYRYR](/stripes/ggwbryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n18y1n2y1n2db6ln4t1g6/)
+(the same proportion at any scale), whose colour order is pattern [GGWBRYRYR](/stripes/ggwbryryr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=920
 

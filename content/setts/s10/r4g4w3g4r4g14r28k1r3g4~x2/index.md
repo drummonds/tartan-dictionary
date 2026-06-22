@@ -2,9 +2,10 @@
 title: "Scott - 1842 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRKRGRGWGR](/stripes/grkrgrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g4w3g4r4g14r28k1r3g4/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRGWGR](/stripes/grkrgrgwgr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1005/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scott, red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1829 — Scott - 1842 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1005/))
-- undated — Scott, red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1829 — Scott - 1842 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1005/">record</a>)</li>
+<li>undated — Scott, red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 G8 W6 G8 R8 G28 R56 K2 R6 G/8

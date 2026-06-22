@@ -2,9 +2,10 @@
 title: "Campbell, Marquis of Lorne"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGYGWGRGKGKGK](/stripes/bkgkgkgygwgrgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g4k22g3k3g32r3g3ln3g3y3g32k3g3k22g4k6p6/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGYGWGRGKGKGK](/stripes/bkgkgkgygwgrgkgkgk/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

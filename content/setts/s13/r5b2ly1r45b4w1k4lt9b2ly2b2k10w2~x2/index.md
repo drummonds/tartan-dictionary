@@ -2,18 +2,20 @@
 title: "Stratford Police Pipe Band (Ontario)"
 date: 2023-03-18
 ---
-In pattern [RBYRBWKWBYBKW](/stripes/rbyrbwkwbybkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5b2y1r45b4w1k4lb9b2y2b2k10w2/)
+(the same proportion at any scale), whose colour order is pattern [RBYRBWKWBYBKW](/stripes/rbyrbwkwbybkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10638
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/06/2012 — Stratford Police Pipe Band (Ontario) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10638))
-- undated — Stratford Police Pipe Band Corporate Tartan Tartan Number: 10638. Earliest known date: 14/06/2012 Designed by Scott Baughman for the Stratford Police Pipe Band also known as Perth County Pipe Band Incorporated. Colours: blue white and gold are for the city of Stratford; red and black are for the Stratford Police Service, Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10638))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/06/2012 — Stratford Police Pipe Band (Ontario) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10638">record</a>)</li>
+<li>undated — Stratford Police Pipe Band Corporate Tartan Tartan Number: 10638. Earliest known date: 14/06/2012 Designed by Scott Baughman for the Stratford Police Pipe Band also known as Perth County Pipe Band Incorporated. Colours: blue white and gold are for the city of Stratford; red and black are for the Stratford Police Service, Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10638">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

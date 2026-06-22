@@ -2,9 +2,10 @@
 title: "Buildbase"
 date: 2023-03-18
 ---
-In pattern [RWKRKWKWKRKW](/stripes/rwkrkwkwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr8w1k3dr3k10w3k5w25k3dr3k12w3/)
+(the same proportion at any scale), whose colour order is pattern [RWKRKWKWKRKW](/stripes/rwkrkwkwkrkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5027
 

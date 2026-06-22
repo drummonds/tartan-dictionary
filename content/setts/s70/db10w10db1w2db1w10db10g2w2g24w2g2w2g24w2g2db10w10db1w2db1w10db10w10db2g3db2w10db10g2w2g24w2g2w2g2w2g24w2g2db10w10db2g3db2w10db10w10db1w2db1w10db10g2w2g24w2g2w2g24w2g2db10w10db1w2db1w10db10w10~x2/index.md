@@ -2,9 +2,10 @@
 title: "Campbell of Cawdor Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW](/stripes/bwbwbwbgwgwgwgwgbwbwbwbwbgbwbgwgwgwgwgwgbwbgbwbwbwbwbgwgwgwgwgbwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10wa10db1w2db1wa10db10g2w2g24w2g2w2g24w2g2db10wa10db1w2db1wa10db10w10db2ga3db2w10db10g2w2g24w2g2w2g2w2g24w2g2db10w10db2ga3db2w10db10wa10db1w2db1wa10db10g2w2g24w2g2w2g24w2g2db10wa10db1w2db1wa10db10w10/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBGWGWGWGWGBWBWBWBWBGBWBGWGWGWGWGWGBWBGBWBWBWBWBGWGWGWGWGBWBWBWBW](/stripes/bwbwbwbgwgwgwgwgbwbwbwbwbgbwbgwgwgwgwgwgbwbgbwbwbwbwbgwgwgwgwgbwbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [70 stripe tartan](/stripes/stripes70/).
+Sourced from tartans-authority.  It is a [70 stripe tartan](/stripes/stripes70/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1975/
 

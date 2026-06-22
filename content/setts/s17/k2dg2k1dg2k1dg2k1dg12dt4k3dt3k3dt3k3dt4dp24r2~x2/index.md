@@ -2,18 +2,20 @@
 title: "Rendell, Charles"
 date: 2023-03-18
 ---
-In pattern [KGKGKGKGBKBKBKBBR](/stripes/kgkgkgkgbkbkbkbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dg2lp1dg2lp1dg2lp1dg12dn4k3dn3k3dn3k3dn4db24dr2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGKGBKBKBKBBR](/stripes/kgkgkgkgbkbkbkbbr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 06/09/2012 — Rendell, Charles (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699))
-- undated — Rendell, Charles Name Tartan Tartan Number: 10699. Earliest known date: 13 September 2012 Ailsa and Alex Rendell designed this tartan to celebrate their father’s 60th birthday. The colours and threadcount are inspired by the Kennedy tartan STR #1942 with purple as the main base colour to give it a modern feel. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10699))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>06/09/2012 — Rendell, Charles (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10699">record</a>)</li>
+<li>undated — Rendell, Charles Name Tartan Tartan Number: 10699. Earliest known date: 13 September 2012 Ailsa and Alex Rendell designed this tartan to celebrate their father’s 60th birthday. The colours and threadcount are inspired by the Kennedy tartan STR #1942 with purple as the main base colour to give it a modern feel. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10699">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

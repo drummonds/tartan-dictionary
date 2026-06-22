@@ -2,9 +2,10 @@
 title: "Leslie Hunting"
 date: 2023-03-18
 ---
-In pattern [KGWKBR](/stripes/kgwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g8ln1k8db8r1/)
+(the same proportion at any scale), whose colour order is pattern [KGWKBR](/stripes/kgwkbr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Leslie Hunting
 - Syme
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1810 — Leslie Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103))
-- 1850 — Leslie Htg - 1850 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1113/))
-- 1882 — Syme (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6376/))
-- 01/01/1888 — Syme (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4059))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1810 — Leslie Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2103">record</a>)</li>
+<li>1850 — Leslie Htg - 1850 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1113/">record</a>)</li>
+<li>1882 — Syme (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6376/">record</a>)</li>
+<li>01/01/1888 — Syme (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4059">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

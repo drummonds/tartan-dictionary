@@ -2,9 +2,10 @@
 title: "Rob Roy Clan Tartan Tartan Number: 1504. Earliest known date: 1815 - 16 A specimen of the Rob Roy sett exists in the collection of the Highland Society of London, bearing the Seal of Arms of Sir John MacGregor Murray of MacGregor, Baronet, and signed John M. Murray. The specimens were collected during the period 1815-16. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KR](/stripes/kr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1/)
+(the same proportion at any scale), whose colour order is pattern [KR](/stripes/kr/).
 
-This was sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1504
 

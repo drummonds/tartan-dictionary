@@ -2,9 +2,10 @@
 title: "Gary"
 date: 2023-03-18
 ---
-In pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2r1k4y2k12y8k12y2k4y1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKYKYKYW](/stripes/brkykykykyw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

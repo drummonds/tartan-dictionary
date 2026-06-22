@@ -2,9 +2,10 @@
 title: "Masai Shuka 19 (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BRR](/stripes/brr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10r10dr3/)
+(the same proportion at any scale), whose colour order is pattern [BRR](/stripes/brr/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7279/
 

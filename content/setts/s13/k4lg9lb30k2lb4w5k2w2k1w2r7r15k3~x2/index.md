@@ -2,9 +2,10 @@
 title: "Un-named (USA Bedheads)"
 date: 2023-03-18
 ---
-In pattern [KRRWKWKWWKWYK](/stripes/krrwkwkwwkwyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4b9lb30k2lb4ln5k2ln2k1ln2dr7r15k3/)
+(the same proportion at any scale), whose colour order is pattern [KRRWKWKWWKWYK](/stripes/krrwkwkwwkwyk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8537/
 

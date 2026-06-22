@@ -2,9 +2,10 @@
 title: "Total"
 date: 2023-03-18
 ---
-In pattern [BYBKWKYKGKYKWKRYG](/stripes/bybkwkykgkykwkryg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db48o4db28k5ln4k6o4k7g8k7o4k6ln4k5r24o4g48/)
+(the same proportion at any scale), whose colour order is pattern [BYBKWKYKGKYKWKRYG](/stripes/bybkwkykgkykwkryg/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

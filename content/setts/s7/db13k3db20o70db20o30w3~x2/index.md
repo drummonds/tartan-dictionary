@@ -2,9 +2,10 @@
 title: "Unidentified 21"
 date: 2023-03-18
 ---
-In pattern [BKBRBRW](/stripes/bkbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b13k3b20lt70b20lt30ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBRBRW](/stripes/bkbrbrw/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Hewitt"
 date: 2023-03-18
 ---
-In pattern [RBKGYGW](/stripes/rbkgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30b12k6g12y2g3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGYGW](/stripes/rbkgygw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5929
 

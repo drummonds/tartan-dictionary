@@ -2,9 +2,10 @@
 title: "State Seal of Nevada (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBRYRYGR](/stripes/gbryrygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do49g13dy4do12lt10n23b13t3/)
+(the same proportion at any scale), whose colour order is pattern [GBRYRYGR](/stripes/gbryrygr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8642/
 

@@ -2,9 +2,10 @@
 title: "Balmoral (Pendleton)"
 date: 2023-03-18
 ---
-In pattern [BKBKBRBKRBKB](/stripes/bkbkbrbkrbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k2n19r3k1n3r4n3k1n2k1n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBRBKRBKB](/stripes/bkbkbrbkrbkb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5163
 

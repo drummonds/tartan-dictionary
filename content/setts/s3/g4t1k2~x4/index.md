@@ -2,9 +2,10 @@
 title: "Wilson's, No 45"
 date: 2023-03-18
 ---
-In pattern [GBK](/stripes/gbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4b1k2/)
+(the same proportion at any scale), whose colour order is pattern [GBK](/stripes/gbk/).
 
-This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

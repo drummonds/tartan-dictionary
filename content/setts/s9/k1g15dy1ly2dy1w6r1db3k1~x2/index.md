@@ -2,9 +2,10 @@
 title: "Nor Westers Tartan Tartan Number: 1069. Earliest known date: 1963 Named after the Nor Westers Mountain Range in Ontario. Designed by Miss Evelyn B Halliday in February 1963 to commemorate the naming of the range in that year See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBRWGYGGK](/stripes/kbrwgyggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g15t1y2t1ln6r1db3k1/)
+(the same proportion at any scale), whose colour order is pattern [KBRWGYGGK](/stripes/kbrwgyggk/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1069
 

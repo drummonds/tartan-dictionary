@@ -2,9 +2,10 @@
 title: "Auld Lang Syne (red) Tartan Tartan Number: 2402. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGRKRGR](/stripes/rgrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g14r5k6r24g2r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRGR](/stripes/rgrkrgr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2402
 

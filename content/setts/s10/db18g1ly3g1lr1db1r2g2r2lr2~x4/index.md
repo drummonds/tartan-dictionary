@@ -2,9 +2,10 @@
 title: "Anthony Plaid Blue"
 date: 2023-03-18
 ---
-In pattern [BGYGYBRGRY](/stripes/bgygybrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18g1y3g1n1db1dr2g2dr2n2/)
+(the same proportion at any scale), whose colour order is pattern [BGYGYBRGRY](/stripes/bgygybrgry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5018
 

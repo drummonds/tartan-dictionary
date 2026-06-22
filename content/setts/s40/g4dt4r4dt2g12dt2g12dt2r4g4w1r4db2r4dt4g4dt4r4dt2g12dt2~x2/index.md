@@ -2,18 +2,20 @@
 title: "Otago Peninsula"
 date: 2023-03-18
 ---
-In pattern [BRBGBGBRGWRBRBGBRBGBGBRBGBRBRWGRBGBGBRBG](/stripes/brbgbgbrgwrbrbgbrbgbgbrbgbrbrwgrbgbgbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dba4dr4dba2g12dba2g12dba2dr4g4ln1lr4db2dr4dba4g4dba4dr4dba2g12dba2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGBRGWRBRBGBRBGBGBRBGBRBRWGRBGBGBRBG](/stripes/brbgbgbrgwrbrbgbrbgbgbrbgbrbrwgrbgbgbrbg/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Otago Peninsula (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276))
-- pre 1996 — Otago Peninsula (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2110/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Otago Peninsula (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3276">record</a>)</li>
+<li>pre 1996 — Otago Peninsula (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2110/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

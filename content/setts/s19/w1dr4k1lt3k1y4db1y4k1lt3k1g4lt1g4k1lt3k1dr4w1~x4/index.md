@@ -2,9 +2,10 @@
 title: "Caribou"
 date: 2023-03-18
 ---
-In pattern [WBKWKGBGKWKGWGKWKBW](/stripes/wbkwkgbgkwkgwgkwkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1dr4k1lb3k1n4b1n4k1lb3k1g4lb1g4k1lb3k1dr4ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBKWKGBGKWKGWGKWKBW](/stripes/wbkwkgbgkwkgwgkwkbw/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

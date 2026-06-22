@@ -2,9 +2,10 @@
 title: "Stewart Hunting"
 date: 2023-03-18
 ---
-In pattern [GBKBKBKGRGKGKGKGKGYGKBKBKBG](/stripes/gbkbkbkgrgkgkgkgkgygkbkbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2db7k1db1k1db1k3dg11dr4dg11k3dg2k6dg4k6dg2k3dg11lg4dg11k3db1k1db1k1db7dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBKGRGKGKGKGKGYGKBKBKBG](/stripes/gbkbkbkgrgkgkgkgkgygkbkbkbg/).
 
-This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

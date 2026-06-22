@@ -2,9 +2,10 @@
 title: "Bendigo"
 date: 2023-03-18
 ---
-In pattern [RWRWBWGWYWR](/stripes/rwrwbwgwywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra22lr1y7lr1dg21lr1db12lr1dr1lr1dra8/)
+(the same proportion at any scale), whose colour order is pattern [RWRWBWGWYWR](/stripes/rwrwbwgwywr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11359
 

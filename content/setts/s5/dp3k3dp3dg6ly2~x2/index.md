@@ -2,9 +2,10 @@
 title: "Austin (Wilson's No 173)"
 date: 2023-03-18
 ---
-In pattern [BKBGY](/stripes/bkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3k3p3g6y2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGY](/stripes/bkbgy/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=136
 

@@ -2,9 +2,10 @@
 title: "MacDougall - 1970 (William) (Comm)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBKBRKY](/stripes/rbrbrbkbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k5r5k5r5k14ka16dn14r3ka3y3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBKBRKY](/stripes/rbrbrbkbrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3353/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDougall, William
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — MacDougall - 1970 (William) (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3353/))
-- undated — MacDougall, William (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacDougall - 1970 (William) (Comm) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3353/">record</a>)</li>
+<li>undated — MacDougall, William (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5348">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

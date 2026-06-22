@@ -2,9 +2,10 @@
 title: "Coronation"
 date: 2023-03-18
 ---
-In pattern [BWRBRBW](/stripes/bwrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b7ln1r7b4r2b4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BWRBRBW](/stripes/bwrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=770
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Coronation Commemorative
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Coronation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=770))
-- undated — Coronation (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Coronation Commemorative Tartan Tartan Number: 661. Earliest known date: 1936 Designed to commemorate the coronation of King George VI and Queen Elizabeth in 1936. There is another count estimated from a drawing by Coulson Bonner which is now in the possession of the Scottish Tartan Society. B22 W2 R24 B12 R2 B12 W2 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=661))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Coronation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=770">record</a>)</li>
+<li>undated — Coronation (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Coronation Commemorative Tartan Tartan Number: 661. Earliest known date: 1936 Designed to commemorate the coronation of King George VI and Queen Elizabeth in 1936. There is another count estimated from a drawing by Coulson Bonner which is now in the possession of the Scottish Tartan Society. B22 W2 R24 B12 R2 B12 W2 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=661">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

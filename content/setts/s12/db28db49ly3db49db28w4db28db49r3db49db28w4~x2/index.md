@@ -2,9 +2,10 @@
 title: "MacKerrell, of Hillhouse hunting"
 date: 2023-03-18
 ---
-In pattern [BBYBBWBBRBBW](/stripes/bbybbwbbrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28db49y3db49b28ln4b28db49r3db49b28ln4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBWBBRBBW](/stripes/bbybbwbbrbbw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Sutherland of Duffus"
 date: 2023-03-18
 ---
-In pattern [YYYKYKYWRWYKYKYYYY](/stripes/yyykykywrwykykyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt14y3lt14k3lt14k3lt14lp3r22lp3lt14k3lt14k3lt14y3lt14y3/)
+(the same proportion at any scale), whose colour order is pattern [YYYKYKYWRWYKYKYYYY](/stripes/yyykykywrwykykyyyy/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5355
 

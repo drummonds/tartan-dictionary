@@ -2,9 +2,10 @@
 title: "Young"
 date: 2023-03-18
 ---
-In pattern [BGRBBGBK](/stripes/bgrbbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b3g15db15p5o3lg2p1/)
+(the same proportion at any scale), whose colour order is pattern [BGRBBGBK](/stripes/bgrbbgbk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

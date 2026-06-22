@@ -2,9 +2,10 @@
 title: "Pagus Wasia"
 date: 2023-03-18
 ---
-In pattern [RBBBBBYBY](/stripes/rbbbbbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1dba2dn1db3dn19dba3y1dba2y1/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBBYBY](/stripes/rbbbbbyby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10962
 

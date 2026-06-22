@@ -2,9 +2,10 @@
 title: "Campbell Brown Personal Tartan Tartan Number: 17. Earliest known date: pre 1992 Specially made for Captain Campbell of the Blythswood family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WKBGBGBGBGBKY](/stripes/wkbgbgbgbgbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y9k1dr31g30db36g3db3g3db36g30dr31k1ln9/)
+(the same proportion at any scale), whose colour order is pattern [WKBGBGBGBGBKY](/stripes/wkbgbgbgbgbky/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=17
 

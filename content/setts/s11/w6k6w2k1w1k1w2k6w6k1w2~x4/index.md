@@ -2,9 +2,10 @@
 title: "Scott - 1850 B & W (Clan)"
 date: 2023-03-18
 ---
-In pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6k6w2k1w1k1w2k6w6k1w2/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1826/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scott Black and White Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1850 — Scott - 1850 B & W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1826/))
-- undated — Scott Black and White Personal Tartan Tartan Number: 1826. Earliest known date: 1822 Smibert (1850) publishes this design which he says, "..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1826))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1850 — Scott - 1850 B & W (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1826/">record</a>)</li>
+<li>undated — Scott Black and White Personal Tartan Tartan Number: 1826. Earliest known date: 1822 Smibert (1850) publishes this design which he says, "..was produced for his own use by Sir Walter Scott in 1822, and that he wore it in private, in the form of a Lowland shepherd's plaid." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1826">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 W/24 K24 W8 K4 W4 K4 W8 K24 W24 K4 W/8

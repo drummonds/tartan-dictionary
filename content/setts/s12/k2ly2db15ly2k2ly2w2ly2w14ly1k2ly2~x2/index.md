@@ -2,9 +2,10 @@
 title: "Independence"
 date: 2023-03-18
 ---
-In pattern [KYBYKYWYWYKY](/stripes/kybykywywyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2y2b15y2k2y2ln2y2ln14y1k2y2/)
+(the same proportion at any scale), whose colour order is pattern [KYBYKYWYWYKY](/stripes/kybykywywyky/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

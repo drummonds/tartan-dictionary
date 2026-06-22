@@ -2,18 +2,20 @@
 title: "MacNicol Hunting"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRKRGKYKYKG](/stripes/bkgkgkbrkrgkykykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10k1n1k1lg1k1dg10dr3k10dr3db10k1dg1k1dg1k1db10/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRKRGKYKYKG](/stripes/bkgkgkbrkrgkykykg/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNicol Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacNicol Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNicol Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacNicol Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/20 K2 N2 K2 LG2 K2 DG20 DR6 K20 DR6 DB20 K2 DG2 K2 DG2 K2 DB/20

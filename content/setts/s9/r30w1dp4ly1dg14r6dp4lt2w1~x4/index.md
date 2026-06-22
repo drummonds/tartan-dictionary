@@ -2,9 +2,10 @@
 title: "Perth - 1819 (District)"
 date: 2023-03-18
 ---
-In pattern [RWBYGRBWW](/stripes/rwbygrbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30w1dp4y1dg14r6dp4lb2w1/)
+(the same proportion at any scale), whose colour order is pattern [RWBYGRBWW](/stripes/rwbygrbww/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5508/
 

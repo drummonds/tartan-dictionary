@@ -2,9 +2,10 @@
 title: "Peter Rabbit™"
 date: 2023-03-18
 ---
-In pattern [RWBWBWBWYY](/stripes/rwbwbwbwyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly7b2w2ba5w3ba7w5ba14w5lr5/)
+(the same proportion at any scale), whose colour order is pattern [RWBWBWBWYY](/stripes/rwbwbwbwyy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10469
 

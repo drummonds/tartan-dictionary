@@ -2,9 +2,10 @@
 title: "Williamson (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGKRKR](/stripes/bgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr7ka20dr4k18g20dp5/)
+(the same proportion at any scale), whose colour order is pattern [BGKRKR](/stripes/bgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4629
 

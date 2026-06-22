@@ -2,19 +2,21 @@
 title: "Bruce (Vestiarium)"
 date: 2023-03-18
 ---
-In pattern [WRGRGRGRGRY](/stripes/wrgrgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1r8g2r2g6r1g6r2g2r8ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGRGRGRY](/stripes/wrgrgrgrgry/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1797 — Bruce (Vestiarium) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399))
-- 1797 — Bruce (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1848/))
-- undated — Bruce (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1797 — Bruce (Vestiarium) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=399">record</a>)</li>
+<li>1797 — Bruce (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1848/">record</a>)</li>
+<li>undated — Bruce (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

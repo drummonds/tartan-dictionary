@@ -2,18 +2,20 @@
 title: "Jardine"
 date: 2023-03-18
 ---
-In pattern [BRGRGRGR](/stripes/brgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n9do9na9r1lg1do9lg1r1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGR](/stripes/brgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/1978 — Jardine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881))
-- 1978 May — Jardine (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1432/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/1978 — Jardine (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1881">record</a>)</li>
+<li>1978 May — Jardine (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1432/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Arran"
 date: 2023-03-18
 ---
-In pattern [BGBGBKRKRKRKRWRKRKRKRKGKG](/stripes/bgbgbkrkrkrkrwrkrkrkrkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p80g4p4g4p4k14r2k4r3k3r4k2r5ln3r5k2r4k3r3k4r2k14n19k5n9/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBKRKRKRKRWRKRKRKRKGKG](/stripes/bgbgbkrkrkrkrwrkrkrkrkgkg/).
 
-This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

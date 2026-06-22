@@ -2,9 +2,10 @@
 title: "MacIntosh Ancient"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRRRGRGRRR](/stripes/grgrgrgrgrgrrrgrgrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRRRGRGRRR](/stripes/grgrgrgrgrgrrrgrgrrr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2481
 

@@ -2,9 +2,10 @@
 title: "Morgan in Maryland (USA) (Name)"
 date: 2023-03-18
 ---
-In pattern [BKGGGGYKR](/stripes/bkggggykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1lg18t2lg11t11n18k1r4/)
+(the same proportion at any scale), whose colour order is pattern [BKGGGGYKR](/stripes/bkggggykr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10088/
 

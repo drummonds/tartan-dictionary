@@ -2,9 +2,10 @@
 title: "Tartan for London, A (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GWRGYGR](/stripes/gwrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr30dg18n3dg18dr20lb3g3/)
+(the same proportion at any scale), whose colour order is pattern [GWRGYGR](/stripes/gwrgygr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8128/
 

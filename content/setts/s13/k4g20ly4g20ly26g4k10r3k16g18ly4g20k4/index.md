@@ -2,9 +2,10 @@
 title: "Greenshields, Alan (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGYGKRKGYGYGK](/stripes/kgygkrkgygygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g20y4g20y26g4k10dr3k16g18y4g20k4/)
+(the same proportion at any scale), whose colour order is pattern [KGYGKRKGYGYGK](/stripes/kgygkrkgygygk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5115/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Greenshields, Alan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1997 — Greenshields, Alan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5115/))
-- undated — Greenshields Personal Tartan Tartan Number: 5115. Earliest known date: 1997 Designed by Peter MacDoanld in 1997 for Alan Greenshields, Glasgow as a family tartan. Based by request of the customer on the MacNichol given by both Ross-Craven and Robert Bain but using yellow form the MacLeod. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5115))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1997 — Greenshields, Alan (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5115/">record</a>)</li>
+<li>undated — Greenshields Personal Tartan Tartan Number: 5115. Earliest known date: 1997 Designed by Peter MacDoanld in 1997 for Alan Greenshields, Glasgow as a family tartan. Based by request of the customer on the MacNichol given by both Ross-Craven and Robert Bain but using yellow form the MacLeod. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5115">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G20 Y4 G20 Y26 G4 K10 DR3 K16 G18 Y4 G20 K/4

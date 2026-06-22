@@ -2,9 +2,10 @@
 title: "Huntly Old"
 date: 2023-03-18
 ---
-In pattern [BYBYKBYBYGBGRKRK](/stripes/bybykbybygbgrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16na2dra7na2k14b6na2n15na2dg17b6dg6dr8k6dr8k2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYKBYBYGBGRKRK](/stripes/bybykbybygbgrkrk/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

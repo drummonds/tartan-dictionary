@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Ancient"
 date: 2023-03-18
 ---
-In pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17k4b2k4g17r6k12r4k12r6b17g4k4g4b17/)
+(the same proportion at any scale), whose colour order is pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3993
 

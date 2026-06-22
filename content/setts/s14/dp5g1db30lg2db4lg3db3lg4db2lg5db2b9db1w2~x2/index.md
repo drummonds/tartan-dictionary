@@ -2,9 +2,10 @@
 title: "Crombie, Harry (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBYBYBYBYBBBW](/stripes/bgbybybybybbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p5g1db30ba2db4ba3db3ba4db2ba5db2b9db1w2/)
+(the same proportion at any scale), whose colour order is pattern [BGBYBYBYBYBBBW](/stripes/bgbybybybybbbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11584
 

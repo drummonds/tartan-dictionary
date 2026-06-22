@@ -2,9 +2,10 @@
 title: "Craik of Assington (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBGRGKY](/stripes/brbgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dr11db1g8dr2g4k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGKY](/stripes/brbgrgky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=789
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Craik of Assington
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1980 — Craik of Assington (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=789))
-- 1980 — Craik (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/494/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — Craik of Assington (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=789">record</a>)</li>
+<li>1980 — Craik (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/494/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

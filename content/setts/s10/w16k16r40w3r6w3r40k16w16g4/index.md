@@ -2,9 +2,10 @@
 title: "Nisbett Rose Dress Family Tartan Tartan Number: 946. Earliest known date: 1981 This is the sett that appears in the Vestiarium Scoticum as Mackintosh. There is no connection between the names, historically, to explain the position and it is interesting to note the similarity with the Dunbar tartan which also originates in the Vestiarium. The Nisbets came from the old barony of Nisbet in the parish of Edrom, Berwickshire, as early as 1160. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWKRWRWRKW](/stripes/gwkrwrwrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16k16do40ln3r6ln3r40k16ln16g4/)
+(the same proportion at any scale), whose colour order is pattern [GWKRWRWRKW](/stripes/gwkrwrwrkw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=946
 

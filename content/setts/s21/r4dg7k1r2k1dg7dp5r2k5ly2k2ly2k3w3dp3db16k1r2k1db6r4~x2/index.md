@@ -2,9 +2,10 @@
 title: "Anderson (W L Anderson, Stirling)"
 date: 2023-03-18
 ---
-In pattern [RBKRKBBWKYKYKRBGKRKGR](/stripes/rbkrkbbwkykykrbgkrkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g7k1r2k1g7p5r2k5y2k2y2k3ln3p3b16k1r2k1b6r4/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBBWKYKYKRBGKRKGR](/stripes/rbkrkbbwkykykrbgkrkgr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=76
 

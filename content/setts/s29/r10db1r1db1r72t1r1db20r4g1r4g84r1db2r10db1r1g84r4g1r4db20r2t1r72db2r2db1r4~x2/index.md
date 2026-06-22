@@ -2,9 +2,10 @@
 title: "Grant"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBRGRGRBRBRGRGRBRBRBRBR](/stripes/rbrbrbrbrgrgrbrbrgrgrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10db1r1db1r72b1r1db20r4g1r4g84r1db2r10db1r1g84r4g1r4db20r2b1r72db2r2db1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBRGRGRBRBRGRGRBRBRBRBR](/stripes/rbrbrbrbrgrgrbrbrgrgrbrbrbrbr/).
 
-This was sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link /posts/logans-scottish-gael/
 

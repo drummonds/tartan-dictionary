@@ -2,9 +2,10 @@
 title: "Scottish Borders Tourist Board (Corp"
 date: 2023-03-18
 ---
-In pattern [BGBGWGRGY](/stripes/bgbgwgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3g8r3g4lr3g6db24g4db3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGWGRGY](/stripes/bgbgwgrgy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4040/
 

@@ -2,18 +2,20 @@
 title: "Cairn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RWRBRBRBRBRBGY](/stripes/rwrbrbrbrbrbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3ln20dr1db1dr1db3dr4db2dr4db2dr4db1g8y1/)
+(the same proportion at any scale), whose colour order is pattern [RWRBRBRBRBRBGY](/stripes/rwrbrbrbrbrbgy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3778/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1984 — Cairn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3778/))
-- undated — Cairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1984 — Cairn (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3778/">record</a>)</li>
+<li>undated — Cairn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5010">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

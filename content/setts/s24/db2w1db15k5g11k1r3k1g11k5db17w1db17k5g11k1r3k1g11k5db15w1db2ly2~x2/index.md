@@ -2,9 +2,10 @@
 title: "Sacramento City Fire Department"
 date: 2023-03-18
 ---
-In pattern [BWBKGKRKGKBWBKGKRKGKBWBY](/stripes/bwbkgkrkgkbwbkgkrkgkbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2w1db15k5g11k1r3k1g11k5db17w1db17k5g11k1r3k1g11k5db15w1db2y2/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGKRKGKBWBKGKRKGKBWBY](/stripes/bwbkgkrkgkbwbkgkrkgkbwby/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3635
 

@@ -2,9 +2,10 @@
 title: "Ogilvie Hunting Clan/Family Tartan Tartan Number: 6082. Earliest known date: pre 2000 Samples in STA Dalgety Collection labelled \"Restricted, Hunting Ogilvie, Family Only\". However, the major weavers have this in their swatch books so the restriction mentioned above seems to have been lifted at some stage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBKGKGR](/stripes/bybkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30y3b4k25lg26k3lg3lr4/)
+(the same proportion at any scale), whose colour order is pattern [BYBKGKGR](/stripes/bybkgkgr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6082
 

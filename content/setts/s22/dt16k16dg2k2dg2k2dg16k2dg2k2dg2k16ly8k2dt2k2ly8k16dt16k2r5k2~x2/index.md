@@ -2,9 +2,10 @@
 title: "Lamquet (2015)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGKGKGKYKBKYKBKRK](/stripes/bkgkgkgkgkgkykbkykbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k16g2k2g2k2g16k2g2k2g2k16y8k2db2k2y8k16db16k2dr5k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGKGKGKYKBKYKBKRK](/stripes/bkgkgkgkgkgkykbkykbkrk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11217
 

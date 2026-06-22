@@ -2,18 +2,20 @@
 title: "MacIver"
 date: 2023-03-18
 ---
-In pattern [KRKRW](/stripes/krkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16r2k2r12ln1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRW](/stripes/krkrw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2489
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacIver (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2489))
-- undated — MacIver (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacIver (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2489">record</a>)</li>
+<li>undated — MacIver (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

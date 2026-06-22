@@ -2,9 +2,10 @@
 title: "Cherry Valley New York"
 date: 2023-03-18
 ---
-In pattern [RRRKGBGBGRGBGBGKRRRRR](/stripes/rrrkgbgbgrgbgbgkrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16dr2n2dr2n2k16ga2b2ga2b2ga10dr2g10b2g2b2g2k16n15dr2n2/)
+(the same proportion at any scale), whose colour order is pattern [RRRKGBGBGRGBGBGKRRRRR](/stripes/rrrkgbgbgrgbgbgkrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=628
 

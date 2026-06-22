@@ -2,9 +2,10 @@
 title: "Buchanan Clan Tartan Tartan Number: 1947. Earliest known date: 1843 There is some discussion in the archives of the Scottish Tartans Society that suggests that McIan may be responsible for the change to an asymmetrical sett from Logan's earlier symmetrical version. However, it appears that Wilson, the foremost weaver of the time, may have agreed with McIan and favoured the unusual asymmetrical design. The last chief of the Buchanans died in 1682. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k1db4k1y6k1y6k1db4k1r8ln1r8k1db4k1g6db4/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1947
 

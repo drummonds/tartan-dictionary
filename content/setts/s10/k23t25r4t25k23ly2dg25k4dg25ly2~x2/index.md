@@ -2,9 +2,10 @@
 title: "Forsyth"
 date: 2023-03-18
 ---
-In pattern [KBRBKYGKGY](/stripes/kbrbkygkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k23b25r4b25k23y2g25k4g25y2/)
+(the same proportion at any scale), whose colour order is pattern [KBRBKYGKGY](/stripes/kbrbkygkgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1235
 

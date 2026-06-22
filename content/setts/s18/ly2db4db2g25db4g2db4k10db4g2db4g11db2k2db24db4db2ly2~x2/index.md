@@ -2,9 +2,10 @@
 title: "LS Curling"
 date: 2023-03-18
 ---
-In pattern [YBBBKBGBGBKBGBGBBY](/stripes/ybbbkbgbgbkbgbgbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db4dba2g25dba4g2dba4k10db4g2db4g11dba2k2dba24db4dba2y2/)
+(the same proportion at any scale), whose colour order is pattern [YBBBKBGBGBKBGBGBBY](/stripes/ybbbkbgbgbkbgbgbby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2241
 

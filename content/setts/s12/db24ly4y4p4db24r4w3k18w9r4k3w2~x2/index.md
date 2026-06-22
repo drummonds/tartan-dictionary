@@ -2,9 +2,10 @@
 title: "Queen Mary, RMS"
 date: 2023-03-18
 ---
-In pattern [BYGBBRWKWRKW](/stripes/bygbbrwkwrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24y4n4p4b24r4ln3k18ln9r4k3ln2/)
+(the same proportion at any scale), whose colour order is pattern [BYGBBRWKWRKW](/stripes/bygbbrwkwrkw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

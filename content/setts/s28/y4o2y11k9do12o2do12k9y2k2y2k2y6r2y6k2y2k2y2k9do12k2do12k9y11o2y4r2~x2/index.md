@@ -2,9 +2,10 @@
 title: "Shearer (Name)"
 date: 2023-03-18
 ---
-In pattern [GRGKBRBKGKGKGRGKGKGKBKBKGRGR](/stripes/grgkbrbkgkgkgrgkgkgkbkbkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4n2g11db9dra12lt2dra12db9g2db2g2db2g6dr2g6db2g2db2g2db9dra12db2dra12db9g11n2g4dr2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKBRBKGKGKGRGKGKGKBKBKGRGR](/stripes/grgkbrbkgkgkgrgkgkgkbkbkgrgr/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3202/
 

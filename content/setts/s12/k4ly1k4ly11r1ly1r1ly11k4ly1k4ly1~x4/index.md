@@ -2,9 +2,10 @@
 title: "Baillieville Family Tartan Tartan Number: 2326. Earliest known date: Oct. 1882 By David R Gurney of Russell Gurney Weavers, Turiff, Aberdeen for Charles D. Fitzhardinge Bailey of Baileville. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYKYRYRYKYKY](/stripes/kykyryrykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y1k4y11dr1y1dr1y11k4y1k4y1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYRYRYKYKY](/stripes/kykyryrykyky/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2326
 

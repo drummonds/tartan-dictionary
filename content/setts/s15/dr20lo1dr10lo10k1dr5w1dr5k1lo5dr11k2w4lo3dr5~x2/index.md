@@ -2,9 +2,10 @@
 title: "Motherwell Football Club Official"
 date: 2023-03-18
 ---
-In pattern [BYBYKBWBKYBKWYB](/stripes/bybykbwbkybkwyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr20y1dr10y10k1dr5w1dr5k1y5dr11k2w4y3dr5/)
+(the same proportion at any scale), whose colour order is pattern [BYBYKBWBKYBKWYB](/stripes/bybykbwbkybkwyb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11432
 

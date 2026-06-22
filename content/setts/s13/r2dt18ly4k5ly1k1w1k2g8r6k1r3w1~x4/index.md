@@ -2,9 +2,10 @@
 title: "Beaton (Name)"
 date: 2023-03-18
 ---
-In pattern [RBYKYKWKGRKRW](/stripes/rbykykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2n18y4k5y1k1w1k2g8r6k1r3w1/)
+(the same proportion at any scale), whose colour order is pattern [RBYKYKWKGRKRW](/stripes/rbykykwkgrkrw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3668/
 

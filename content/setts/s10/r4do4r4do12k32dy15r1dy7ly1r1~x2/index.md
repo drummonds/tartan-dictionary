@@ -2,9 +2,10 @@
 title: "Hard Rock Café"
 date: 2023-03-18
 ---
-In pattern [RBRBKGRGYR](/stripes/rbrbkgrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4t4dr4t12k32ta15r1ta7y1r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKGRGYR](/stripes/rbrbkgrgyr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10399
 

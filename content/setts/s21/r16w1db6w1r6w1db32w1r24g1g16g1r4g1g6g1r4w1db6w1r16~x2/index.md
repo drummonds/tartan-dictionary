@@ -2,18 +2,20 @@
 title: "MacDonald of Boisdale"
 date: 2023-03-18
 ---
-In pattern [RWBWRGGGRGGGRWBWRWBWR](/stripes/rwbwrgggrgggrwbwrwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16ln1b6ln1r6ln1b32ln1r24g1ga16g1r4g1ga6g1r4ln1b6ln1r16/)
+(the same proportion at any scale), whose colour order is pattern [RWBWRGGGRGGGRWBWRWBWR](/stripes/rwbwrgggrgggrwbwrwbwr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald of Boisdale (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonald of Boisdale Clan Tartan Tartan Number: 1668. Earliest known date: 1810-15 Highland Society of London. The Setts No: 118. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1668))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald of Boisdale (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonald of Boisdale Clan Tartan Tartan Number: 1668. Earliest known date: 1810-15 Highland Society of London. The Setts No: 118. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1668">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/32 LN2 B12 LN2 R12 LN2 B64 LN2 R48 G2 Ga32 G2 R8 G2 Ga12 G2 R8 LN2 B12 LN2 R/32

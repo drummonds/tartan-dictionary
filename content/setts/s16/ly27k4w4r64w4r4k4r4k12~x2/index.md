@@ -2,9 +2,10 @@
 title: "O'Meehan"
 date: 2023-03-18
 ---
-In pattern [KWRWRKRKRKRWRWKY](/stripes/kwrwrkrkrkrwrwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y27k4ln4r64ln4r4k4r4k12/)
+(the same proportion at any scale), whose colour order is pattern [KWRWRKRKRKRWRWKY](/stripes/kwrwrkrkrkrwrwky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5303
 

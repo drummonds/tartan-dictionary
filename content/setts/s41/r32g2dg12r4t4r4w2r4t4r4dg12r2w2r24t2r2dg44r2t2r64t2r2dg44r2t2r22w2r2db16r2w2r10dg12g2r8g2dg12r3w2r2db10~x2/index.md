@@ -2,18 +2,20 @@
 title: "MacAlister (Logan 1831)"
 date: 2023-03-18
 ---
-In pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r32g2dg12r4ba4r4ln2r4ba4r4dg12r2ln2r24ba2r2dg44r2ba2r64ba2r2dg44r2ba2r22ln2r2b16r2ln2r10dg12g2r8g2dg12r3ln2r2b10/)
+(the same proportion at any scale), whose colour order is pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
 
-This was sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
+Sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2263
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacAlister (Logan 1831) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2263))
-- undated — MacAlister (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacAlister (Logan 1831) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2263">record</a>)</li>
+<li>undated — MacAlister (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

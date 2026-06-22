@@ -2,18 +2,20 @@
 title: "Balmoral"
 date: 2023-03-18
 ---
-In pattern [RYKYGYGYKGYRY](/stripes/rykygygykgyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na4dr2na11n2k2na1n1na1n4na2k1na1dr1/)
+(the same proportion at any scale), whose colour order is pattern [RYKYGYGYKGYRY](/stripes/rykygygykgyry/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Balmoral (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Balmoral (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Balmoral (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Balmoral (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Na/8 DR4 Na22 N4 K4 Na2 N2 Na2 N8 Na4 K2 Na2 DR/2

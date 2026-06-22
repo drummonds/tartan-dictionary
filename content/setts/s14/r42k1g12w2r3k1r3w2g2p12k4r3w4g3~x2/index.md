@@ -2,9 +2,10 @@
 title: "MacFarlane, or Lendrum"
 date: 2023-03-18
 ---
-In pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr42k1g12ln2dr3k1dr3ln2g2p12k4dr3ln4g3/)
+(the same proportion at any scale), whose colour order is pattern [GWRKBGWRKRWGKR](/stripes/gwrkbgwrkrwgkr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

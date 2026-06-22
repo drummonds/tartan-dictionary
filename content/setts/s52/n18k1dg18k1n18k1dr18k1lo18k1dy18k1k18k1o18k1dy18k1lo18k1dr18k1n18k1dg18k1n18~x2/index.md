@@ -2,9 +2,10 @@
 title: "MacKay, of Strathnaver"
 date: 2023-03-18
 ---
-In pattern [BKGKBKBKYKGKRKKKGKYKBKBKGKBKGKBKBKYKGKKKRKGKYKBKBKGK](/stripes/bkgkbkbkykgkrkkkgkykbkbkgkbkgkbkbkykgkkkrkgkykbkbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb18k1g18k1n18k1dr18k1lt18k1t18k1ka18k1na18k1t18k1lt18k1dr18k1n18k1g18k1nb18/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKBKYKGKRKKKGKYKBKBKGKBKGKBKBKYKGKKKRKGKYKBKBKGK](/stripes/bkgkbkbkykgkrkkkgkykbkbkgkbkgkbkbkykgkkkrkgkykbkbkgk/).
 
-This was sourced from tartans-authority.  It is a [52 stripe tartan](/stripes/stripes52/).
+Sourced from tartans-authority.  It is a [52 stripe tartan](/stripes/stripes52/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2037/
 

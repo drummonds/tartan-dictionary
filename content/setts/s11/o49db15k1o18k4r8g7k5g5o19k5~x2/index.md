@@ -2,9 +2,10 @@
 title: "State Seal of Virginia (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRGKGRKRKBR](/stripes/krgkgrkrkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n49db15k1n18k4r8g7k5g5n19k5/)
+(the same proportion at any scale), whose colour order is pattern [KRGKGRKRKBR](/stripes/krgkgrkrkbr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8660/
 

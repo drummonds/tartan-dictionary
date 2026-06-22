@@ -2,9 +2,10 @@
 title: "West Point"
 date: 2023-03-18
 ---
-In pattern [KRKRKRYR](/stripes/krkrkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13n1k1n1k4n10y1n1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRYR](/stripes/krkrkryr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4604
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - West Point Regimental
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — West Point (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4604))
-- undated — West Point Regimental Tartan Tartan Number: 1130. Earliest known date: 1986 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1130))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — West Point (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4604">record</a>)</li>
+<li>undated — West Point Regimental Tartan Tartan Number: 1130. Earliest known date: 1986 Wemyss means cave and probably originates from the caves beneath MacDuff castle. There is a long and interesting article on the family of Wemyss in William Anderson's 'The Scottish Nation' published by A Fullarton in 1874. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1130">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

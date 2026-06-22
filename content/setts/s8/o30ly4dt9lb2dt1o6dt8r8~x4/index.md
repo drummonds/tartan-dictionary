@@ -2,9 +2,10 @@
 title: "Norwegian Migration Period"
 date: 2023-03-18
 ---
-In pattern [RBRBWBYR](/stripes/rbrbwbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n30ly4k9na2k1lt6k8dr8/)
+(the same proportion at any scale), whose colour order is pattern [RBRBWBYR](/stripes/rbrbwbyr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Norwegian Migration Period (Artefact
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1901 — Norwegian Migration Period (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165))
-- 400 - 600AD — Norwegian Migration Period (Artefact (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5584/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1901 — Norwegian Migration Period (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3165">record</a>)</li>
+<li>400 - 600AD — Norwegian Migration Period (Artefact (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5584/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

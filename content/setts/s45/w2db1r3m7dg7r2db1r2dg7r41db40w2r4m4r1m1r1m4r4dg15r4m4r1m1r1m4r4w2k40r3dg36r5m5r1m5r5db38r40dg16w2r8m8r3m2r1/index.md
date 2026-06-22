@@ -2,9 +2,10 @@
 title: "Unnamed C18th - Hynde Cotton Plaid"
 date: 2023-03-18
 ---
-In pattern [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/rrrrrwgrbrrrrrgrkwrrrrrrrgrrrrrrrwbrgrbrgrrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2db1r3ra7g7r2db1r2g7r41db40w2r4ra4r1ra1r1ra4r4g15r4ra4r1ra1r1ra4r4w2k40r3g36r5ra5r1ra5r5db38r40g16w2r8ra8r3ra2r1/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRWGRBRRRRRGRKWRRRRRRRGRRRRRRRWBRGRBRGRRBW](/stripes/rrrrrwgrbrrrrrgrkwrrrrrrrgrrrrrrrwbrgrbrgrrbw/).
 
-This was sourced from tartans-authority.  It is a [45 stripe tartan](/stripes/stripes45/).
+Sourced from tartans-authority.  It is a [45 stripe tartan](/stripes/stripes45/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8419/
 

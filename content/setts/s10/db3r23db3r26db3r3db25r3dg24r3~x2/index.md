@@ -2,9 +2,10 @@
 title: "Unidentified Early 18th Centuary"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRGR](/stripes/brbrbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g24r3b25r3b3r26b3r23b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRGR](/stripes/brbrbrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4291
 

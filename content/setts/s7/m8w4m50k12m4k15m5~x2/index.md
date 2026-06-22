@@ -2,9 +2,10 @@
 title: "Instakilt, Pink (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKRKRWR](/stripes/rkrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr8w4lr50k12lr4k15p5/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRWR](/stripes/rkrkrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7550/
 

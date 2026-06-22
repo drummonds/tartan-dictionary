@@ -2,9 +2,10 @@
 title: "Newmill Corporate Tartan Tartan Number: 2053. Earliest known date: March 1992 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRBBBRY](/stripes/rrbbbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5lt20dba13db42dba13lt20o5/)
+(the same proportion at any scale), whose colour order is pattern [RRBBBRY](/stripes/rrbbbry/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2053
 

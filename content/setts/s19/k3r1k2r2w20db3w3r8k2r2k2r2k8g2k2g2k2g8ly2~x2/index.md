@@ -2,9 +2,10 @@
 title: "Princess Beatrice Dress (1880)"
 date: 2023-03-18
 ---
-In pattern [KRKRWBWRKRKRKGKGKGY](/stripes/krkrwbwrkrkrkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1k2r2ly20db3ly3r8k2r2k2r2k8g2k2g2k2g8y2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRWBWRKRKRKGKGKGY](/stripes/krkrwbwrkrkrkgkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Princess Beatrice Dress (Fash
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — Princess Beatrice Dress (1880) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397))
-- 1880 — Princess Beatrice Dress (1880) (Fash (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1206/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Princess Beatrice Dress (1880) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3397">record</a>)</li>
+<li>1880 — Princess Beatrice Dress (1880) (Fash (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1206/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

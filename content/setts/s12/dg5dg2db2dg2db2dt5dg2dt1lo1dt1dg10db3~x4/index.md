@@ -2,18 +2,20 @@
 title: "Protheroe (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [BGBYBGBBGBGG](/stripes/bgbybgbbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5dg2dba2dg2dba2db5dg2db1lt1db1dg10dba3/)
+(the same proportion at any scale), whose colour order is pattern [BGBYBGBBGBGG](/stripes/bgbybgbbgbgg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5752/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Protheroe (Welsh Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5752/))
-- undated — Protheroe Welsh Name Tartan Tartan Number: 5752. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Prothero, Protheroe, Prothers, Prytherch, Rothero, Rotherough, Ruddock, Rudz, Ruther, Rutherch, Rhydderch, Rhodri, Roderick, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5752))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Protheroe (Welsh Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5752/">record</a>)</li>
+<li>undated — Protheroe Welsh Name Tartan Tartan Number: 5752. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Prothero, Protheroe, Prothers, Prytherch, Rothero, Rotherough, Ruddock, Rudz, Ruther, Rutherch, Rhydderch, Rhodri, Roderick, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5752">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/20 DG8 DBa8 DG8 DBa8 DB20 DG8 DB4 LT4 DB4 DG40 DBa/12

@@ -2,9 +2,10 @@
 title: "Joss"
 date: 2023-03-18
 ---
-In pattern [RGBGBKBKBGYKW](/stripes/rgbgbkbkbgykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g1b2g4b30k2b4k2b30g27y3k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBKBKBGYKW](/stripes/rgbgbkbkbgykw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

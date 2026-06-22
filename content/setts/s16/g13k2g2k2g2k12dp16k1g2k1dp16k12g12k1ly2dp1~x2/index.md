@@ -2,9 +2,10 @@
 title: "Kettles, Ryan & Alan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYKGKBKGKBKGKGKG](/stripes/bykgkbkgkbkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1y2dp1/)
+(the same proportion at any scale), whose colour order is pattern [BYKGKBKGKBKGKGKG](/stripes/bykgkbkgkbkgkgkg/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11061/
 

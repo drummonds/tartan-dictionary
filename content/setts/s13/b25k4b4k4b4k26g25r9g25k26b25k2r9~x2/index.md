@@ -2,9 +2,10 @@
 title: "Atholl"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b25k4b4k4b4k26g25r9g25k26b25k2r9/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=125
 

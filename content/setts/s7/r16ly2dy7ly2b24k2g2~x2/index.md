@@ -2,9 +2,10 @@
 title: "Traill Clan/Family Weavers Tartan Tartan Number: 3093. Earliest known date: 2002 The Traill tartan is for anyone tracing their ancestry to the Scottish 'Traills' - Traill of Blebo and descendants in Orkney and elsewhere. Blue is poor. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBYGYR](/stripes/gkbygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16y2t7y2b24k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GKBYGYR](/stripes/gkbygyr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3093
 

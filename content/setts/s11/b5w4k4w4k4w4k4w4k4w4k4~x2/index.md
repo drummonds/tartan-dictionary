@@ -2,9 +2,10 @@
 title: "Buccleuch Check (9 squares)"
 date: 2023-03-18
 ---
-In pattern [BWKWKWKWKWK](/stripes/bwkwkwkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5ln4k4ln4k4ln4k4ln4k4ln4k4/)
+(the same proportion at any scale), whose colour order is pattern [BWKWKWKWKWK](/stripes/bwkwkwkwkwk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scott of Buccleuch
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1908 — Buccleuch Check (9 squares) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412))
-- 1908 — Scott of Buccleuch (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/647/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1908 — Buccleuch Check (9 squares) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=412">record</a>)</li>
+<li>1908 — Scott of Buccleuch (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/647/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

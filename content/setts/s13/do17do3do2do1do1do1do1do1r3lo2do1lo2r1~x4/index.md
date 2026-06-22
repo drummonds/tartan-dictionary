@@ -2,18 +2,20 @@
 title: "Kinnaird (1984)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBRYBYR](/stripes/bbbbbbbbrybyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr17t3dr2t1dr1t1dr1t1dra3dy2dr1dy2lr1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBRYBYR](/stripes/bbbbbbbbrybyr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1984 — Kinnaird (1984) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992))
-- 1984 — Kinnaird - 1984 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5356/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1984 — Kinnaird (1984) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1992">record</a>)</li>
+<li>1984 — Kinnaird - 1984 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5356/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

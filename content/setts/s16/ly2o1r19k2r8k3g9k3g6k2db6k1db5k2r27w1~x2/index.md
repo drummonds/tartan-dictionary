@@ -2,9 +2,10 @@
 title: "Muzzi, Massimiliano Baron of Striche"
 date: 2023-03-18
 ---
-In pattern [WRKBKBKGKGKRKRRY](/stripes/wrkbkbkgkgkrkrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2n1r19k2r8k3g9k3g6k2db6k1db5k2r27w1/)
+(the same proportion at any scale), whose colour order is pattern [WRKBKBKGKGKRKRRY](/stripes/wrkbkbkgkgkrkrry/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11214/
 

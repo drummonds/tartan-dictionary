@@ -2,9 +2,10 @@
 title: "Dollar Academy (1930s) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKBW](/stripes/bkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k9db9k9db42ln5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBW](/stripes/bkbkbw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/290/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Dollar, Academy
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1930s — Dollar Academy (1930s) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/290/))
-- undated — Dollar, Academy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Dollar Academy Corporate Tartan Tartan Number: 290. Earliest known date: pre 2003 No information on the original of this school tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=290))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1930s — Dollar Academy (1930s) (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/290/">record</a>)</li>
+<li>undated — Dollar, Academy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Dollar Academy Corporate Tartan Tartan Number: 290. Earliest known date: pre 2003 No information on the original of this school tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=290">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/18 K18 DB18 K18 DB84 LN/10

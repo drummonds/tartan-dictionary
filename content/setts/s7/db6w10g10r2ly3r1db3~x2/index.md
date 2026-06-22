@@ -2,9 +2,10 @@
 title: "Ainslie, Lake"
 date: 2023-03-18
 ---
-In pattern [BRYRGWB](/stripes/bryrgwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6w10g10r2y3r1db3/)
+(the same proportion at any scale), whose colour order is pattern [BRYRGWB](/stripes/bryrgwb/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=30
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Ainslie, Lake
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1985 — Ainslie, Lake (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=30))
-- undated — Ainslie, Lake (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ainslie Lake.. District Tartan Tartan Number: 586. Earliest known date: 1985 On the occasion of the Cape Breton Bicentennial. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=586))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Ainslie, Lake (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=30">record</a>)</li>
+<li>undated — Ainslie, Lake (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ainslie Lake.. District Tartan Tartan Number: 586. Earliest known date: 1985 On the occasion of the Cape Breton Bicentennial. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=586">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

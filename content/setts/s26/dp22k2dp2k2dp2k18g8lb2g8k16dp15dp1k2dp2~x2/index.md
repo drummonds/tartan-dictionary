@@ -2,9 +2,10 @@
 title: "Scottish Heritage Preservation"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKBBKBKBBKGWGKBKBK](/stripes/bkbkbkgwgkbbkbkbbkgwgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p22k2p2k2p2k18g8n2g8k16p15p1k2p2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKBBKBKBBKGWGKBKBK](/stripes/bkbkbkgwgkbbkbkbbkgwgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3721
 

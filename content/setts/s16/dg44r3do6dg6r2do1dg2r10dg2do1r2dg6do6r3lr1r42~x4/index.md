@@ -2,9 +2,10 @@
 title: "Gudbrandsdalen of Mannsdrakt"
 date: 2023-03-18
 ---
-In pattern [GRBGRBGRGBRGBRYR](/stripes/grbgrbgrgbrgbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44dr3k6g6dr2k1g2dr10g2k1dr2g6k6dr3n1dr42/)
+(the same proportion at any scale), whose colour order is pattern [GRBGRBGRGBRGBRYR](/stripes/grbgrbgrgbrgbryr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1555
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Norwegian
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1830 — Gudbrandsdalen of Mannsdrakt (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1555))
-- 01/01/1992 — Norwegian - Guldbrandsdalen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164))
-- pre 1992 — Gudbrandsdalen of Mannsdrakt (Dist) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2081/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1830 — Gudbrandsdalen of Mannsdrakt (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1555">record</a>)</li>
+<li>01/01/1992 — Norwegian - Guldbrandsdalen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3164">record</a>)</li>
+<li>pre 1992 — Gudbrandsdalen of Mannsdrakt (Dist) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2081/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

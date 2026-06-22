@@ -2,9 +2,10 @@
 title: "Spirit of Bannockburn"
 date: 2023-03-18
 ---
-In pattern [BRBGBKBKBKBWBKBKBKBGBRBK](/stripes/brbgbkbkbkbwbkbkbkbgbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4pa4p3g20p5k4p3k7p3k3db35w2db35k3p3k7p3k4p5g20p3pa4p4k2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBKBKBKBWBKBKBKBGBRBK](/stripes/brbgbkbkbkbwbkbkbkbgbrbk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5066
 

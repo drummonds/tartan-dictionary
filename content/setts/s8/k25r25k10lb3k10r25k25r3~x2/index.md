@@ -2,9 +2,10 @@
 title: "bodog.com Corporate Tartan Tartan Number: 6889. Earliest known date: 2006 Corporate brand name and colours, red, black and silver grey used to support brand identification. Company owner and executive is Scottish. First tartan to be name after a web site and first ever tartan for Costa Rica. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKWKRKR](/stripes/krkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k25r25k10n3k10r25k25r3/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKRKR](/stripes/krkwkrkr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6889
 

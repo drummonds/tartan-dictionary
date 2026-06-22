@@ -2,9 +2,10 @@
 title: "Bannockbane Blue #3"
 date: 2023-03-18
 ---
-In pattern [BBBBWWBW](/stripes/bbbbwwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp3b2lp14ln18b1ba30b2ba3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWWBW](/stripes/bbbbwwbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5046
 

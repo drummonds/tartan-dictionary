@@ -2,9 +2,10 @@
 title: "Ellenee"
 date: 2023-03-18
 ---
-In pattern [BKBKGKRKRKBKGKGKGKBKRK](/stripes/bkbkgkrkrkbkgkgkgkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9dr3k3n11k3g11k3g3k3g11k3n11k3dr3k9dr3k3g11k3n11k3n3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKRKRKBKGKGKGKBKRK](/stripes/bkbkgkrkrkbkgkgkgkbkrk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ellenee
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2006 — Ellenee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101))
-- November 2006 — Ellene (Personal)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7050/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2006 — Ellenee (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1101">record</a>)</li>
+<li>November 2006 — Ellene (Personal)) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7050/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

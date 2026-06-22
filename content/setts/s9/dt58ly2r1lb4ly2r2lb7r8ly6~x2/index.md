@@ -2,9 +2,10 @@
 title: "Hybelius, J-A (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYRWYRWRY](/stripes/byrwyrwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn58y2r1lb4y2r2lb7r8y6/)
+(the same proportion at any scale), whose colour order is pattern [BYRWYRWRY](/stripes/byrwyrwry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11370
 

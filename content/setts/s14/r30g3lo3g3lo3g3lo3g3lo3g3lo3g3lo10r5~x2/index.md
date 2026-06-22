@@ -2,18 +2,20 @@
 title: "Antigua & Barbuda"
 date: 2023-03-18
 ---
-In pattern [RGYGYGYGYGYGYR](/stripes/rgygygygygygyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r30ga3o3ga3o3ga3o3ga3o3ga3o3ga3o10r5/)
+(the same proportion at any scale), whose colour order is pattern [RGYGYGYGYGYGYR](/stripes/rgygygygygygyr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=96
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Antigua & Barbuda (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=96))
-- pre 2007 — Antigua & Barbuda (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7185/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Antigua & Barbuda (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=96">record</a>)</li>
+<li>pre 2007 — Antigua & Barbuda (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7185/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

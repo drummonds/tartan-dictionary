@@ -2,9 +2,10 @@
 title: "Prince David Royal Family Tartan Tartan Number: 2125. Earliest known date: 1930 Mackinlay suggests that David was the pet name of the Duke of Windsor when he was a boy and that the tartan was designed for his personal use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGYGGYGGGGGGGGY](/stripes/ggyggyggggggggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3g1o2dg3g1o2t21dg18t2dg3t2dg18t21g1o2/)
+(the same proportion at any scale), whose colour order is pattern [GGYGGYGGGGGGGGY](/stripes/ggyggyggggggggy/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2125
 

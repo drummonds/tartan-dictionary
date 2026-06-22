@@ -2,9 +2,10 @@
 title: "Huntly"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrgrgrbrbrbrbrbrbrwrybrbyrwrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg8r2dg8r12dg2r3dg2r12w1r3y1dp12r3dp12y1r3w1r12dp1r1dp2r1dp1r12dp1r1dp2r1dp1r12dg8r2dg8/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRWRYBRBYRWRBRBRBRBRBRBRGRGRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGR](/stripes/grgrgrgrwrybrbyrwrbrbrbrbrbrbrgrgrgrbrbrbrbrbrbrwrybrbyrwrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
+Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1795
 

@@ -2,9 +2,10 @@
 title: "Botherston (Name)"
 date: 2023-03-18
 ---
-In pattern [RYRYRGKY](/stripes/ryryrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2lt24dr2lt3dr2g24k8y2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRGKY](/stripes/ryryrgky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8585/
 

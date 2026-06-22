@@ -2,9 +2,10 @@
 title: "Jones Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBBKBGBGG](/stripes/bbbbkbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4b2p2b8k3p8ga3p4ga24g2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBGBGG](/stripes/bbbbkbgbgg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3237/
 

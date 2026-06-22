@@ -2,9 +2,10 @@
 title: "St. Andrews"
 date: 2023-03-18
 ---
-In pattern [BWBWBBGBGBGBGYGBGBGBGBBWBW](/stripes/bwbwbbgbgbgbgygbgbgbgbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba48ln3dba4ln3dba3b16g2b5g3b4g4b3g5y2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBBGBGBGBGYGBGBGBGBBWBW](/stripes/bwbwbbgbgbgbgygbgbgbgbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - St. Andrews
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2003 — St. Andrews (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874))
-- undated — St Andrews District Tartan Tartan Number: 5899. Earliest known date: August 2003 Designed by Robin Elliot of Elliots of Selkirk for a company called St Andrews Ltd of 19 Rutland Square, Edinburgh. Sample in STA Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5899))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2003 — St. Andrews (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3874">record</a>)</li>
+<li>undated — St Andrews District Tartan Tartan Number: 5899. Earliest known date: August 2003 Designed by Robin Elliot of Elliots of Selkirk for a company called St Andrews Ltd of 19 Rutland Square, Edinburgh. Sample in STA Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5899">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

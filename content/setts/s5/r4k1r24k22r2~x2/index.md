@@ -2,9 +2,10 @@
 title: "Campbell Red (artefact)"
 date: 2023-03-18
 ---
-In pattern [RKRKR](/stripes/rkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k1r24k22r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKR](/stripes/rkrkr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Campbell, Red
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell Red (artefact) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528))
-- undated — Campbell, Red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell Red (artefact) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=528">record</a>)</li>
+<li>undated — Campbell, Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

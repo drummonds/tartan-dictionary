@@ -2,9 +2,10 @@
 title: "Hewett"
 date: 2023-03-18
 ---
-In pattern [KRWRBKYKWWKWWKYKBRWR](/stripes/krwrbkykwwkwwkykbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6w3r8b7k4y2k2lb4w8k5w8lb4k2y2k4b7r8w3r6k4/)
+(the same proportion at any scale), whose colour order is pattern [KRWRBKYKWWKWWKYKBRWR](/stripes/krwrbkykwwkwwkykbrwr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1700
 

@@ -2,9 +2,10 @@
 title: "Highlander"
 date: 2023-03-18
 ---
-In pattern [GBGBGGGBGBGR](/stripes/gbgbgggbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g33b4g4b4g5g13ga13p13ga2b11ga1n2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGGGBGBGR](/stripes/gbgbgggbgbgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1726
 

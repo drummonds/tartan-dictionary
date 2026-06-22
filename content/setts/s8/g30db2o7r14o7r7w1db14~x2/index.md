@@ -2,9 +2,10 @@
 title: "Harding Personal Tartan Tartan Number: 6796. Earliest known date: 2005 The tartan is part of a personal design project bringing together textile, silver and jewelry design and leatherworking, all inspired by the richness of the Scottish design and craft heritage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRRRRBG](/stripes/bwrrrrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30db2n7r14n7r7ln1db14/)
+(the same proportion at any scale), whose colour order is pattern [BWRRRRBG](/stripes/bwrrrrbg/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6796
 

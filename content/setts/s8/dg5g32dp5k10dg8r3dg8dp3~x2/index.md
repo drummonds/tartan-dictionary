@@ -2,18 +2,20 @@
 title: "Scottish Power (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGRGKBGG](/stripes/bgrgkbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga5g32p5k10ga8dr3ga8p3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGKBGG](/stripes/bgrgkbgg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2435/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1996 — Scottish Power (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2435/))
-- 01/01/1997 — Scottish Power (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3739))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1996 — Scottish Power (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2435/">record</a>)</li>
+<li>01/01/1997 — Scottish Power (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3739">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

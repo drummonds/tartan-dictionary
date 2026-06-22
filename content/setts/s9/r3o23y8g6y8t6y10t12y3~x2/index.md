@@ -2,9 +2,10 @@
 title: "Lawrence's Seven Pillars of Khaki"
 date: 2023-03-18
 ---
-In pattern [GBGBGGGRR](/stripes/gbgbgggrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3do23g8ga6g8b6g10b12g3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGGGRR](/stripes/gbgbgggrr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11062
 

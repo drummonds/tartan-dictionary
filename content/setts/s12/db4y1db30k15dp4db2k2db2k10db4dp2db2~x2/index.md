@@ -2,9 +2,10 @@
 title: "Scotland's Own (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBKBKBBKBGB](/stripes/bbbkbkbbkbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n1db30k15p4db2k2db2k10db4p2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBKBBKBGB](/stripes/bbbkbkbbkbgb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2592/
 

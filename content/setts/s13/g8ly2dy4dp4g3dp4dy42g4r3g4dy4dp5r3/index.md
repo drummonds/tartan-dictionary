@@ -2,18 +2,20 @@
 title: "Sarna (District)"
 date: 2023-03-18
 ---
-In pattern [GYGBGBGGRGGBR](/stripes/gygbgbggrggbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8y2t4p4g3p4t42g4r3g4t4p5r3/)
+(the same proportion at any scale), whose colour order is pattern [GYGBGBGGRGGBR](/stripes/gygbgbggrggbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2558/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Sarna (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2558/))
-- Historic — Sarna (State) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3654))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Sarna (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2558/">record</a>)</li>
+<li>Historic — Sarna (State) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3654">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

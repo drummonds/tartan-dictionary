@@ -2,18 +2,20 @@
 title: "Robertson"
 date: 2023-03-18
 ---
-In pattern [RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1dg1dr9dg1dr1db9dr1dg9dr1db1dr9dg1dr1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Robertson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Robertson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Robertson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Robertson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/2 DG2 DR18 DG2 DR2 DB18 DR2 DG18 DR2 DB2 DR18 DG2 DR/2

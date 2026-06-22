@@ -2,9 +2,10 @@
 title: "MacRurie, MacRory"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRYRGR](/stripes/rgrgrgrgryrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10g12r3g12r12g4r5g5r12y4r5g12r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRYRGR](/stripes/rgrgrgrgryrgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacRurie, MacRory
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacRurie, MacRory (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacRurie MacRory Tartan Tartan Number: 1498. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1498))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacRurie, MacRory (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacRurie MacRory Tartan Tartan Number: 1498. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1498">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/20 G24 R6 G24 R24 G8 R10 G10 R24 Y8 R10 G24 R/8

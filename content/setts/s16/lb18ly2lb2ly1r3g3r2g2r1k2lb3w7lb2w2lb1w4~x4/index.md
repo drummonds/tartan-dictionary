@@ -2,18 +2,20 @@
 title: "Inverness County (Canada)"
 date: 2023-03-18
 ---
-In pattern [WWWWWWKRGRGRYWYW](/stripes/wwwwwwkrgrgrywyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb18y2lb2y1r3g3r2g2r1k2lb3ln7lb2ln2lb1ln4/)
+(the same proportion at any scale), whose colour order is pattern [WWWWWWKRGRGRYWYW](/stripes/wwwwwwkrgrgrywyw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1844
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2003 — Inverness County (Canada) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1844))
-- Oct 2003 — Inverness County (Canada) (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6164/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2003 — Inverness County (Canada) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1844">record</a>)</li>
+<li>Oct 2003 — Inverness County (Canada) (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6164/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

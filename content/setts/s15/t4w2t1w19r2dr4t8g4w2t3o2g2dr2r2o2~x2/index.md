@@ -2,9 +2,10 @@
 title: "Highlands of Haliburton Dress"
 date: 2023-03-18
 ---
-In pattern [BWBWRBBGWBRGBRR](/stripes/bwbwrbbgwbrgbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4w2b1w19r2dr4b8g4w2b3dy2g2dr2r2dy2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRBBGWBRGBRR](/stripes/bwbwrbbgwbrgbrr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10474
 

@@ -2,9 +2,10 @@
 title: "Unidentified (R.J.Forsyth)"
 date: 2023-03-18
 ---
-In pattern [RKGKGKYRKRKBKWKGKBKGKYKBKRKRYKGKGKR](/stripes/rkgkgkyrkrkbkwkgkbkgkykbkrkrykgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k6g2k2g14k1y1r1k1r1k3ba9k1y2k1g11k1ba2k1g11k1ln2k1ba9k1r1k1r1y1k1g14k2g2k6r2/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKYRKRKBKWKGKBKGKYKBKRKRYKGKGKR](/stripes/rkgkgkyrkrkbkwkgkbkgkykbkrkrykgkgkr/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4270
 

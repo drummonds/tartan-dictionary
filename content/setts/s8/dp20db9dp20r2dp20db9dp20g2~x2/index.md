@@ -2,9 +2,10 @@
 title: "Scottish Netball Association (1987)"
 date: 2023-03-18
 ---
-In pattern [BBBRBBBG](/stripes/bbbrbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p20db9p20r2p20db9p20g2/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBBBG](/stripes/bbbrbbbg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3734
 

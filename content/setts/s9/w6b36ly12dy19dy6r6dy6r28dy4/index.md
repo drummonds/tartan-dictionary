@@ -2,9 +2,10 @@
 title: "Derry Family (Olney, Buckinghamshire) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGRGGYBW](/stripes/grgrggybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6b36lg12n19t6r6t6r28t4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGGYBW](/stripes/grgrggybw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10377
 

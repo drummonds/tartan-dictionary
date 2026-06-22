@@ -2,9 +2,10 @@
 title: "Martha De Laurentiis Name Tartan Tartan Number: 10651. Earliest known date: 05/07/2012 Designed for Martha De Laurentiis. Colours taken from the Italian and American flags to symbolise her American Italian family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKWRBRBWBWBRBRBWBWBR](/stripes/bkwrbrbwbwbrbrbwbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db35g3w3r3db35r2db3w2db5w1db5r1db8r1db5w1db5w2db3r2/)
+(the same proportion at any scale), whose colour order is pattern [BKWRBRBWBWBRBRBWBWBR](/stripes/bkwrbrbwbwbrbrbwbwbr/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10651
 

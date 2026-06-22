@@ -2,9 +2,10 @@
 title: "Queensferry High (School)"
 date: 2023-03-18
 ---
-In pattern [WWBBWYWWY](/stripes/wwbbwywwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na5n3lp7na5lp27b8db43ln3lp3/)
+(the same proportion at any scale), whose colour order is pattern [WWBBWYWWY](/stripes/wwbbwywwy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10176/
 

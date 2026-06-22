@@ -2,18 +2,20 @@
 title: "Ogilvy of Airlie"
 date: 2023-03-18
 ---
-In pattern [BYBYBYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWR](/stripes/bybybykrkrkrkybykrwrwrkybwbybrkrwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r14ln2db3ln2r14k2r2db2y2b7ln2b7y2k4r7ln1r7ln1r7k4y5b7y5k2r2k2r2k2r2k2y2b7y2db3y2db3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYKRKRKRKYBYKRWRWRKYBWBYBRKRWBWR](/stripes/bybybykrkrkrkybykrwrwrkybwbybrkrwbwr/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ogilvy of Airlie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Ogilvy of Airlie Clan Tartan Tartan Number: 234. Earliest known date: 1830 Ogilvy of Airlie is the most usual form of the Ogilvy or Ogilvie tartan. The enormous complexity of the pattern makes it impossible to say whether accuracy of design has been maintained over the years, however, this count has been derived from an actual sample in the Paton collection housed at the Scottish Tartans Museum. The sett differs from the 'Drummond or Ogilvie' in detail but the overall design is the same. One full sett (repeat) of the pattern takes up the width of the loom. . See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=234))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvy of Airlie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Ogilvy of Airlie Clan Tartan Tartan Number: 234. Earliest known date: 1830 Ogilvy of Airlie is the most usual form of the Ogilvy or Ogilvie tartan. The enormous complexity of the pattern makes it impossible to say whether accuracy of design has been maintained over the years, however, this count has been derived from an actual sample in the Paton collection housed at the Scottish Tartans Museum. The sett differs from the 'Drummond or Ogilvie' in detail but the overall design is the same. One full sett (repeat) of the pattern takes up the width of the loom. . See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=234">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/28 LN4 DB6 LN4 R28 K4 R4 DB4 Y4 B14 LN4 B14 Y4 K8 R14 LN2 R14 LN2 R14 K8 Y10 B14 Y10 K4 R4 K4 R4 K4 R4 K4 Y4 B14 Y4 DB6 Y4 DB/6

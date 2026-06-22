@@ -2,9 +2,10 @@
 title: "Kreutz, Arthur (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBYRRGBYRRR](/stripes/gbyrrgbyrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8dr8ra8y3db1g1r8ra8y3db1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBYRRGBYRRR](/stripes/gbyrrgbyrrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10977/
 

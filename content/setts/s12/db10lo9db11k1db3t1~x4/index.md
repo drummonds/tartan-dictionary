@@ -2,9 +2,10 @@
 title: "Scottish Womens Rural Institute (Cor"
 date: 2023-03-18
 ---
-In pattern [BBKBYBBBKBYB](/stripes/bbkbybbbkbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10dy9dba11k1dba3b1dba10dy9db11k1db3b1/)
+(the same proportion at any scale), whose colour order is pattern [BBKBYBBBKBYB](/stripes/bbkbybbbkbyb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2329/
 

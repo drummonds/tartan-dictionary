@@ -2,9 +2,10 @@
 title: "Allandale Blue Dress Tartan Tartan Number: 8453. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRWYRBWKWK](/stripes/brbrwyrbwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ln2k1ln40b17r5y3ln2r9b1r2b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWYRBWKWK](/stripes/brbrwyrbwkwk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8453
 

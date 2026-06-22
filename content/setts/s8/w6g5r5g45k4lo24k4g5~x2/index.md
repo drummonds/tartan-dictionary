@@ -2,18 +2,20 @@
 title: "O'Neill (Name)"
 date: 2023-03-18
 ---
-In pattern [GKYKGRGW](/stripes/gkykgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6g5dr5g45k4lt24k4g5/)
+(the same proportion at any scale), whose colour order is pattern [GKYKGRGW](/stripes/gkykgrgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2663/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1999 — O'Neill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2663/))
-- 01/01/2000 — O'Neill (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4824))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1999 — O'Neill (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2663/">record</a>)</li>
+<li>01/01/2000 — O'Neill (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4824">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

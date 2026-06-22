@@ -2,9 +2,10 @@
 title: "Crane of Cluny Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [YKYKRKYY](/stripes/ykykrkyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt83k6lt3k9r2k5lt2y2/)
+(the same proportion at any scale), whose colour order is pattern [YKYKRKYY](/stripes/ykykrkyy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Crane of Cluny Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2003 — Crane of Cluny Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793))
-- pre 2004 — Crane of Cluny Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6143/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2003 — Crane of Cluny Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=793">record</a>)</li>
+<li>pre 2004 — Crane of Cluny Htg (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6143/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

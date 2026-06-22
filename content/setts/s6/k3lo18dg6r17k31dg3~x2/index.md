@@ -2,9 +2,10 @@
 title: "MacMillan - 2002 (Black - Unofficial"
 date: 2023-03-18
 ---
-In pattern [GKRGYK](/stripes/gkrgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy18dg6dr17k31dg3/)
+(the same proportion at any scale), whose colour order is pattern [GKRGYK](/stripes/gkrgyk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2581/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacMillan Black
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — MacMillan - 2002 (Black - Unofficial (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2581/))
-- undated — MacMillan Black Fashion Tartan Tartan Number: 2581. Earliest known date: pre 2002 This unauthorised and symmetrical version of the traditional asymmetrical MacMillan clan tartan is produced by Marton Mills of Yorkshire. Although not recognised as a MacMillan tartan by the Chief (Jan. 2008), it seems to have gained some popularity in the USA. Originally brought to light by a Graeme Ross of Aberdeen, there may be a sample in the Scottish Tartans Society archives. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2581))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacMillan - 2002 (Black - Unofficial (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2581/">record</a>)</li>
+<li>undated — MacMillan Black Fashion Tartan Tartan Number: 2581. Earliest known date: pre 2002 This unauthorised and symmetrical version of the traditional asymmetrical MacMillan clan tartan is produced by Marton Mills of Yorkshire. Although not recognised as a MacMillan tartan by the Chief (Jan. 2008), it seems to have gained some popularity in the USA. Originally brought to light by a Graeme Ross of Aberdeen, there may be a sample in the Scottish Tartans Society archives. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2581">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 DY36 DG12 DR34 K62 DG/6

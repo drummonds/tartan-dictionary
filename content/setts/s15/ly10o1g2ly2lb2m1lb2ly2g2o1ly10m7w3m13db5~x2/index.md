@@ -2,9 +2,10 @@
 title: "Contrecoeur"
 date: 2023-03-18
 ---
-In pattern [BRWRYRGYWRWYGRY](/stripes/brwryrgywrwygry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y10lt1g2y2n2dr1n2y2g2lt1y10dr7ln3dr13b5/)
+(the same proportion at any scale), whose colour order is pattern [BRWRYRGYWRWYGRY](/stripes/brwryrgywrwygry/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

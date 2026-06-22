@@ -2,9 +2,10 @@
 title: "Wilson-Blyth"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22lr2db3dg3db3dg3db3dg21k3dg3k3dg3k3dg3k3dg21k15dg3db3k6lr2k15/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBGKGKGKGKGKGBKWK](/stripes/bwbgbgbgkgkgkgkgkgbkwk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11127
 

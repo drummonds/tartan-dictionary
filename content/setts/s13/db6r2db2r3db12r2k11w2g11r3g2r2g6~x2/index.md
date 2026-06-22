@@ -2,9 +2,10 @@
 title: "MacDonald of Clanranald #3"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r2db2r3db12r2k11w2g11r3g2r2g6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacDonald of Clanranald #3
 - MacDonald of Clanranald 4
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1819 — MacDonald of Clanranald #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354))
-- 1819 — MacDonald of Clanranald - 1819 (Clan (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/427/))
-- undated — MacDonald of Clanranald 4 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonald of Clanranald Clan Tartan Tartan Number: 427. Earliest known date: 1850 This is the count from the Lord Lyons records multiplied by four. It corresponds to the sett given by A. and W. Smith in 'The Authenticated Tartans of the Clans and Families of Scotland' (1850) and in the work of J.Grant (1886). The tartan is distinguished by the two white lines. There is a certified example in the Highland Society of London collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=427))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — MacDonald of Clanranald #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2354">record</a>)</li>
+<li>1819 — MacDonald of Clanranald - 1819 (Clan (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/427/">record</a>)</li>
+<li>undated — MacDonald of Clanranald 4 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonald of Clanranald Clan Tartan Tartan Number: 427. Earliest known date: 1850 This is the count from the Lord Lyons records multiplied by four. It corresponds to the sett given by A. and W. Smith in 'The Authenticated Tartans of the Clans and Families of Scotland' (1850) and in the work of J.Grant (1886). The tartan is distinguished by the two white lines. There is a certified example in the Highland Society of London collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=427">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Ferguson (Tarlogie)"
 date: 2023-03-18
 ---
-In pattern [BKGRGKWKG](/stripes/bkgrgkwkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24k8g8r2g4k1w2k1g4/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKWKG](/stripes/bkgrgkwkg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11585
 

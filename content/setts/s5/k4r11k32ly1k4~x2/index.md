@@ -2,19 +2,21 @@
 title: "Harvie"
 date: 2023-03-18
 ---
-In pattern [KRKYK](/stripes/krkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r11k32y1k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKYK](/stripes/krkyk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1623
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Harvie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1623))
-- undated — Harvie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Harvie Family Tartan Tartan Number: 1177. Earliest known date: 1985 LT = Grey-Brown See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1177))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Harvie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1623">record</a>)</li>
+<li>undated — Harvie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Harvie Family Tartan Tartan Number: 1177. Earliest known date: 1985 LT = Grey-Brown See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1177">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

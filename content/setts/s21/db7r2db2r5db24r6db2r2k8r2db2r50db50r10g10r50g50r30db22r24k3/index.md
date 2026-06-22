@@ -2,9 +2,10 @@
 title: "Murray of Tullibardine - 1820 (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7r2db2r5db24r6db2r2k8r2db2r50db50r10g10r50g50r30db22r24k3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRBRBRGRGRBRK](/stripes/brbrbrbrkrbrbrgrgrbrk/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/415/
 

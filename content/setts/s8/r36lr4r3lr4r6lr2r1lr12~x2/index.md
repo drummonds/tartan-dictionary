@@ -2,9 +2,10 @@
 title: "Menzies Dress"
 date: 2023-03-18
 ---
-In pattern [RYRYRYRY](/stripes/ryryryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr36n4dr3n4dr6n2dr1n12/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYRY](/stripes/ryryryry/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

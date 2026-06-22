@@ -2,9 +2,10 @@
 title: "Clydebank (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2p3r1p16b2p9b9p3b15g1b3g2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBBBBBBRBR](/stripes/gbgbbbbbbrbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8137/
 

@@ -2,9 +2,10 @@
 title: "Hay - 1842 (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g2y1g18r1g1r1g6r24g2r1k1r1ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGRGRKRW](/stripes/rgygrgrgrgrkrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1555/
 

@@ -2,18 +2,20 @@
 title: "Cromdale"
 date: 2023-03-18
 ---
-In pattern [RWRKRGYKBKBRBKBKGYRKRWR](/stripes/rwrkrgykbkbrbkbkgyrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20ln1r20k2r20g8y1k4db1k1db4r1db4k1db1k4g8y1r20k2r20ln1r20/)
+(the same proportion at any scale), whose colour order is pattern [RWRKRGYKBKBRBKBKGYRKRWR](/stripes/rwrkrgykbkbrbkbkgyrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=810
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Cromdale (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=810))
-- pre 2007 — Cromdale (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7121/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Cromdale (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=810">record</a>)</li>
+<li>pre 2007 — Cromdale (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7121/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

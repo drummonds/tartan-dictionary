@@ -2,9 +2,10 @@
 title: "Scottish Wildcat"
 date: 2023-03-18
 ---
-In pattern [BWBWRBBKBBRKYK](/stripes/bwbwrbbkbbrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr10w1dra1w2n10dr8dra2k17dra2dr7n19k3y1k1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRBBKBBRKYK](/stripes/bwbwrbbkbbrkyk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11196/
 

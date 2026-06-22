@@ -2,9 +2,10 @@
 title: "Ryder Cup 2014 (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBBBBBBBBBBBBBBY](/stripes/wbbbbbbbbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dbb5b12db1b3db1b2db2b2db3b1db4b1db8dba21w3/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBBBBBBBBBBBY](/stripes/wbbbbbbbbbbbbbby/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10855/
 

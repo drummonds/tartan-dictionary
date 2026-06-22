@@ -2,19 +2,21 @@
 title: "Carnegie"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3r1db1r2db6r1k6g6r2g1r1g2y1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Carnegie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Carnegie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Carnegie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/6 R2 DB2 R4 DB12 R2 K12 G12 R4 G2 R2 G4 Y/2

@@ -2,9 +2,10 @@
 title: "Fowdar (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKBRBRBRGRY](/stripes/kwkbrbrbrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9w6k46db24r8db6r6db6r16g6r6y6/)
+(the same proportion at any scale), whose colour order is pattern [KWKBRBRBRGRY](/stripes/kwkbrbrbrgry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10078
 

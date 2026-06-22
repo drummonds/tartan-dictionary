@@ -2,9 +2,10 @@
 title: "Walker, Michael (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBYBBBWRWBBBBBWRWBBBYB](/stripes/bbybbbwrwbbbbbwrwbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14db14b14w2do3w2db14b14db6y2db6b14/)
+(the same proportion at any scale), whose colour order is pattern [BBYBBBWRWBBBBBWRWBBBYB](/stripes/bbybbbwrwbbbbbwrwbbbyb/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4481
 

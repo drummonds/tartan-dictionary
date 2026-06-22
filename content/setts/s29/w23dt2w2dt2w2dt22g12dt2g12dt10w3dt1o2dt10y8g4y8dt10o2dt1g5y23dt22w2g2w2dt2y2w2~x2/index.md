@@ -2,9 +2,10 @@
 title: "House of Timber Wolf (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbgggbrbggbwgwbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w23k2w2k2w2k22g12k2g12k10w3k1o2k10lg8g4lg8k10o2k1g5lg23k22w2g2w2k2lg2w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWBGBGBWBRBGGGBRBGGBWGWBGW](/stripes/wbwbwbgbgbwbrbgggbrbggbwgwbgw/).
 
-This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8527/
 

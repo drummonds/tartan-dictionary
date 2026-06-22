@@ -2,9 +2,10 @@
 title: "Hopetoun, Rejected design"
 date: 2023-03-18
 ---
-In pattern [GBKGKYKGKGKGKY](/stripes/gbkgkykgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11b1k1g2k12y1k12g2k2g11k2g2k12y1/)
+(the same proportion at any scale), whose colour order is pattern [GBKGKYKGKGKGKY](/stripes/gbkgkykgkgkgky/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

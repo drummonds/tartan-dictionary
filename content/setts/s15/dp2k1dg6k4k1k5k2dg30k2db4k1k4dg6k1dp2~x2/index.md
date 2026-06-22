@@ -2,9 +2,10 @@
 title: "Letham Hunting"
 date: 2023-03-18
 ---
-In pattern [BKGKKBKGKKKKGKB](/stripes/bkgkkbkgkkkkgkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp2ka1dg6k4ka1k5ka2dg30ka2db4ka1k4dg6ka1dp2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKKBKGKKKKGKB](/stripes/bkgkkbkgkkkkgkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10025
 

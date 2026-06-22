@@ -2,9 +2,10 @@
 title: "Oliphant (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBGWG](/stripes/bkbgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k4db24g32w1g2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGWG](/stripes/bkbgwg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/242/
 

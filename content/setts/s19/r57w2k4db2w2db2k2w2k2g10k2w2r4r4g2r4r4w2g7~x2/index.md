@@ -2,9 +2,10 @@
 title: "MacBean Clan Tartan Tartan Number: 952. Earliest known date: pre 1963 The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. A slightly different version is recorded by Lord Lyon (P.R.A. 43/108 - 8th March 1960) under the name MacBain. This version is available from the House of Edgar Old and Rare range. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWRRGRRWKGKWKBWBKWR](/stripes/gwrrgrrwkgkwkbwbkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r57ln2k4db2ln2db2k2ln2k2g10k2ln2r4dr4g2dr4r4ln2g7/)
+(the same proportion at any scale), whose colour order is pattern [GWRRGRRWKGKWKBWBKWR](/stripes/gwrrgrrwkgkwkbwbkwr/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=952
 

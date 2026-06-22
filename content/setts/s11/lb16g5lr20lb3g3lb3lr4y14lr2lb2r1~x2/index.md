@@ -2,9 +2,10 @@
 title: "Bouguet, Adrian Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWYGYWGWYGW](/stripes/rwygywgwygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb16g5lr20n3g3n3lr4ga14lr2n2dr1/)
+(the same proportion at any scale), whose colour order is pattern [RWYGYWGWYGW](/stripes/rwygywgwygw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11265
 

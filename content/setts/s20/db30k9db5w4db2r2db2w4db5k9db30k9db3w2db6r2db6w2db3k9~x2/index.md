@@ -2,9 +2,10 @@
 title: "Rangers F. C. Dress Corporate Tartan Tartan Number: 2171. Earliest known date: 1994 Chris Aitken designed the new 'dress' version of the Rangers F.C. tartan in 1994 to complement the existing corporate tartan which was slightly modified at the same time. The Rangers football club first introduced their clubs tartan in 1989. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBWBRBWBKBKBWBRBWBK](/stripes/bkbwbrbwbkbkbwbrbwbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db30k9dba5ln4dba2r2dba2ln4dba5k9db30k9dba3ln2dba6r2dba6ln2dba3k9/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBRBWBKBKBWBRBWBK](/stripes/bkbwbrbwbkbkbwbrbwbk/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2171
 

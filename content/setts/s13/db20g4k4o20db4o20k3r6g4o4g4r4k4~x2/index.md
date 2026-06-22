@@ -2,9 +2,10 @@
 title: "Gayre Hunting"
 date: 2023-03-18
 ---
-In pattern [BGKRBRKRGRGRK](/stripes/bgkrbrkrgrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20g4k4n20db4n20k3dr6g4n4g4dr4k4/)
+(the same proportion at any scale), whose colour order is pattern [BGKRBRKRGRGRK](/stripes/bgkrbrkrgrgrk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gayre Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1981 — Gayre Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324))
-- 1981 — Gayre Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/165/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1981 — Gayre Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1324">record</a>)</li>
+<li>1981 — Gayre Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/165/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

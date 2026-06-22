@@ -2,9 +2,10 @@
 title: "Hayes"
 date: 2023-03-18
 ---
-In pattern [GYGRGRGRGRGRYRGRGRGRGRGYGR](/stripes/gygrgrgrgrgryrgrgrgrgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2r2g1r2g3r17g4r1g1r1g12dy1g1r2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGRGRGRGRYRGRGRGRGRGYGR](/stripes/gygrgrgrgrgryrgrgrgrgrgygr/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1636
 

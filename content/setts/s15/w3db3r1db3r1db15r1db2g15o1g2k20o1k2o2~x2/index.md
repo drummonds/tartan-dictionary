@@ -2,9 +2,10 @@
 title: "Joseph Linn Family (Monohon 2012) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKRKGRGBRBRBRBW](/stripes/rkrkgrgbrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3db3r1db3r1db15r1db2g15lt1g2k20lt1k2lt2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKGRGBRBRBRBW](/stripes/rkrkgrgbrbrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10722
 

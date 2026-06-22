@@ -2,9 +2,10 @@
 title: "Confederate (Military)"
 date: 2023-03-18
 ---
-In pattern [KGKRKBR](/stripes/kgkrkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12b18k1r4k1g6k2/)
+(the same proportion at any scale), whose colour order is pattern [KGKRKBR](/stripes/kgkrkbr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4565/
 

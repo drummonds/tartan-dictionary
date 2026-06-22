@@ -2,9 +2,10 @@
 title: "Fermanagh Irish County Tartan Tartan Number: 2273. Earliest known date: 1997 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGBYBYBBGBGBGBBY](/stripes/gbgbybybbgbgbgbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3b3n2b3lg2b2lg2b13ba4g3ba3g3ba3g3ba4b20lt3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBYBYBBGBGBGBBY](/stripes/gbgbybybbgbgbgbby/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2273
 

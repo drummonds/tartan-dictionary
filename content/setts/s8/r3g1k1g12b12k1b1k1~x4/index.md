@@ -2,18 +2,20 @@
 title: "Peter of Lee (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBGKGR](/stripes/kbkbgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g1k1g12b12k1b1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKGR](/stripes/kbkbgkgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Peter of Lee (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328))
-- pre 1988 — Peter of Lee (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1055/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Peter of Lee (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3328">record</a>)</li>
+<li>pre 1988 — Peter of Lee (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1055/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

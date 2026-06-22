@@ -2,9 +2,10 @@
 title: "Wombles"
 date: 2023-03-18
 ---
-In pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5b2ln1o8ln1b2dr2ln1dr2b2ln1g8ln1b2ln5/)
+(the same proportion at any scale), whose colour order is pattern [WBWGWBRWRBWYWBW](/stripes/wbwgwbrwrbwywbw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

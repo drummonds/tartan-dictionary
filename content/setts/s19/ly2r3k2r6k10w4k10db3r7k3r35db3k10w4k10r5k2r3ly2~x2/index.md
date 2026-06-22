@@ -2,9 +2,10 @@
 title: "Cornish Brewery, Red"
 date: 2023-03-18
 ---
-In pattern [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg2r3k2r6k10ln4k10db3r7k3r35db3k10ln4k10r5k2r3lg2/)
+(the same proportion at any scale), whose colour order is pattern [YRKRKWKBRKRBKWKRKRY](/stripes/yrkrkwkbrkrbkwkrkry/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=762
 

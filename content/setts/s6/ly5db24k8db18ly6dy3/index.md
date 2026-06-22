@@ -2,18 +2,20 @@
 title: "Cala Homes (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GYBKBY](/stripes/gybkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5dba24k8db18y6t3/)
+(the same proportion at any scale), whose colour order is pattern [GYBKBY](/stripes/gybkby/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/1999 — Cala Homes (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466))
-- Feb. 1999 — Cala Homes (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2527/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/1999 — Cala Homes (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=466">record</a>)</li>
+<li>Feb. 1999 — Cala Homes (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2527/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

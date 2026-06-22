@@ -2,9 +2,10 @@
 title: "Maxwell Htg (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRGKGRG](/stripes/grgkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dr16g4k6g28dr2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGRG](/stripes/grgkgrg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/865/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Maxwell Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1980 — Maxwell Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/865/))
-- 01/01/1981 — Maxwell Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2863))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1980 — Maxwell Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/865/">record</a>)</li>
+<li>01/01/1981 — Maxwell Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2863">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

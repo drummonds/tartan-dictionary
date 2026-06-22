@@ -2,9 +2,10 @@
 title: "Malcolm, dress"
 date: 2023-03-18
 ---
-In pattern [WBWBWKBRBRBKGKBYKGKWBWBW](/stripes/wbwbwkbrbrbkgkbykgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b4ln50b5ln5k26g27k4y4db4k4g27k25b23r3b10r3b23k25ln5b5ln50b4ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWKBRBRBKGKBYKGKWBWBW](/stripes/wbwbwkbrbrbkgkbykgkwbwbw/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Malcolm, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Malcolm, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Malcolm Dress Clan Tartan Tartan Number: 1785. Earliest known date: c.1890 Paton's collection dates from 1830 and spans the whole of the Victorian era. This dress sett probably dates from 1890's when many new dress tartans were introduced. Dress Malcolm is based on the sett first recorded in Wilson's of Bannockburn's pattern books of 1847. The gold and azure colours can be found in the Malcolm family armourial bearings. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1785))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Malcolm, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Malcolm Dress Clan Tartan Tartan Number: 1785. Earliest known date: c.1890 Paton's collection dates from 1830 and spans the whole of the Victorian era. This dress sett probably dates from 1890's when many new dress tartans were introduced. Dress Malcolm is based on the sett first recorded in Wilson's of Bannockburn's pattern books of 1847. The gold and azure colours can be found in the Malcolm family armourial bearings. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1785">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/4 B4 LN50 B5 LN5 K26 G27 K4 Y4 DB4 K4 G27 K25 B23 R3 B10 R3 B23 K25 LN5 B5 LN50 B4 LN/4

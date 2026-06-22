@@ -2,9 +2,10 @@
 title: "Jones Hunting"
 date: 2023-03-18
 ---
-In pattern [GBGBKBBBBBBBKBGBGG](/stripes/gbgbkbbbbbbbkbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24p4g3p8k3b8p2b2p4b2p2b8k3p8g3p4g24ga2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBKBBBBBBBKBGBGG](/stripes/gbgbkbbbbbbbkbgbgg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5241
 

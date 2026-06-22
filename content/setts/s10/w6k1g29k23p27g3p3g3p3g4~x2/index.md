@@ -2,9 +2,10 @@
 title: "Rennie"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6k1g29k23p27g3p3g3p3g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKGKW](/stripes/gbgbgbkgkw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

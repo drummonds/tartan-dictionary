@@ -2,9 +2,10 @@
 title: "Auld Reekie"
 date: 2023-03-18
 ---
-In pattern [BRBRGR](/stripes/brbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r3db3r22dg8r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGR](/stripes/brbrgr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

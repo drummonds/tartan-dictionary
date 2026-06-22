@@ -1,0 +1,12 @@
+---
+title: "MacGregor Dress Burgundy (Dance)"
+date: 2023-03-18
+---
+The **MacGregor Dress Burgundy (Dance)** tartan is one sett proportion (`w52dr22w6dr8k1lr3`) recorded at 2 scales — the
+same cloth woven fine or broad. Its colour order is pattern [RKRWRW](/stripes/rkrwrw/); each scale
+below is its own sett page.
+
+| Scale | Sett | |
+|---|---|---|
+| ×2 | [MacGregor Dress Burgundy (Dance)](/setts/s6/w52r22w6r8k1r3~x2/) | ![MacGregor Dress Burgundy (Dance) sett](/setts/s6/w52r22w6r8k1r3~x2/sett.png) |
+| ×2 | [MacGregor Dress Burgundy Fancy Tartan Tartan Number: 6533. Earliest known date: 1975 A dancers tartan based on MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/w52r22w6r8k1r3~x2/) | ![MacGregor Dress Burgundy Fancy Tartan Tartan Number: 6533. Earliest known date: 1975 A dancers tartan based on MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 sett](/setts/s10/w52r22w6r8k1r3~x2/sett.png) |

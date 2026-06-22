@@ -2,9 +2,10 @@
 title: "Haig & Haig Whisky (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RKRKY](/stripes/rkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r26k18r7k4y4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKY](/stripes/rkrky/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1609/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Haig & Haig Whisky
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1979 — Haig & Haig Whisky (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1609/))
-- undated — Haig Corporate Tartan Tartan Number: 1609. Earliest known date: 1979 For Messrs John Haig. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1609))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1979 — Haig & Haig Whisky (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1609/">record</a>)</li>
+<li>undated — Haig Corporate Tartan Tartan Number: 1609. Earliest known date: 1979 For Messrs John Haig. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1609">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/52 K36 R14 K8 Y/8

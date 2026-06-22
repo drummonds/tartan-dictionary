@@ -2,9 +2,10 @@
 title: "Holman (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGKGKRKGKG](/stripes/bgkgkrkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7k12g12k9dr3k9g20k16g7b3/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKRKGKG](/stripes/bgkgkrkgkg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1751
 

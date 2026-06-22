@@ -2,9 +2,10 @@
 title: "Diana Pink (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [RWKWGWGWKBWWW](/stripes/rwkwgwgwkbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr2ln1lr12ba6k3ln1b1ln1b4ln2k1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [RWKWGWGWKBWWW](/stripes/rwkwgwgwkbwww/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7955/
 

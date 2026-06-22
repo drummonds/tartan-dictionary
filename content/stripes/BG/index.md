@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BG</span></div>
+
 It is a 2 stripe tartan.
 
-![Woven sample](/setts/s2/n1g1~x130/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,9 +2,10 @@
 title: "Swankie"
 date: 2023-03-18
 ---
-In pattern [BRGRBBG](/stripes/brgrbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3db22dr10lt5dg21r6db3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBBG](/stripes/brgrbbg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Dogwood Trade Tartan Tartan Number: 913. Earliest known date: 1968 The registered tartan of the Dinwiddie Clan. Dinwiddies are normally associated with the Maxwells, but Lord Lyon stated, in 1988, that Dinwiddies were a sept of no other clan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGYRWGR](/stripes/grgyrwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dr12g12lt5dr1ln25g2dr1/)
+(the same proportion at any scale), whose colour order is pattern [GRGYRWGR](/stripes/grgyrwgr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=913
 

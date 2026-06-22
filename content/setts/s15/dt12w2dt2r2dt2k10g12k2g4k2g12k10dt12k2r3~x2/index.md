@@ -2,9 +2,10 @@
 title: "Scotland's National (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BWBRBKGKGKGKBKR](/stripes/bwbrbkgkgkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn12ln2dn2dr2dn2k10g12k2g4k2g12k10dn12k2dr3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBKGKGKGKBKR](/stripes/bwbrbkgkgkgkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2154/
 

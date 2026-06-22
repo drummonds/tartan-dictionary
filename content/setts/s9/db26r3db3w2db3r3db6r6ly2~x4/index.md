@@ -2,9 +2,10 @@
 title: "Newton Primary School"
 date: 2023-03-18
 ---
-In pattern [BRBWBRBRY](/stripes/brbwbrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db26r3db3ln2db3r3db6r6y2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBRBRY](/stripes/brbwbrbry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Newton Primary School
 - Newton Primary School, Dunblane
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1997 — Newton Primary School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131))
-- 1998 — Newton Primary (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2417/))
-- undated — Newton Primary School, Dunblane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Newton Primary School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3131">record</a>)</li>
+<li>1998 — Newton Primary (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2417/">record</a>)</li>
+<li>undated — Newton Primary School, Dunblane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

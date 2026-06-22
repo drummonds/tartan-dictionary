@@ -2,9 +2,10 @@
 title: "RAF Kinloss (Military)"
 date: 2023-03-18
 ---
-In pattern [BGBYBYBYBBYBRB](/stripes/bgbybybybbybrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba10r4ba44na8bb8ba4na4ba4na50ba8n6ba5g4b6/)
+(the same proportion at any scale), whose colour order is pattern [BGBYBYBYBBYBRB](/stripes/bgbybybybbybrb/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10120/
 

@@ -2,18 +2,20 @@
 title: "Aberdeen Mither Kirk (St Nicholas)"
 date: 2023-03-18
 ---
-In pattern [BRGRYGBRR](/stripes/brgrygbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db58n3g16dr3dya2g7db29dr3n2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRYGBRR](/stripes/brgrygbrr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=19
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Aberdeen Mither Kirk (St Nicholas) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=19))
-- pre 2006 — Aberdeen Mither Kirk (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6976/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Aberdeen Mither Kirk (St Nicholas) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=19">record</a>)</li>
+<li>pre 2006 — Aberdeen Mither Kirk (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6976/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

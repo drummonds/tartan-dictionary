@@ -2,9 +2,10 @@
 title: "Ferguson - 1830 of Atholl (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKGRGKW](/stripes/bkgrgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18k10g6r4g6k1w2/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKW](/stripes/bkgrgkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/337/
 

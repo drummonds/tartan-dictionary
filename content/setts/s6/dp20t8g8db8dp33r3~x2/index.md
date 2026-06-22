@@ -2,9 +2,10 @@
 title: "McIntosh, Stuart (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGBBR](/stripes/bbgbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p20b8g8db8p33r3/)
+(the same proportion at any scale), whose colour order is pattern [BBGBBR](/stripes/bbgbbr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10215/
 

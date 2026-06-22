@@ -2,18 +2,20 @@
 title: "Celtic Women International"
 date: 2023-03-18
 ---
-In pattern [RBRBRKGKW](/stripes/rbrbrkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db16p2db2p12k8g12k12ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRKGKW](/stripes/rbrbrkgkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2003 — Celtic Women International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608))
-- June 2003 — Celtic Women International (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5877/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2003 — Celtic Women International (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=608">record</a>)</li>
+<li>June 2003 — Celtic Women International (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5877/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

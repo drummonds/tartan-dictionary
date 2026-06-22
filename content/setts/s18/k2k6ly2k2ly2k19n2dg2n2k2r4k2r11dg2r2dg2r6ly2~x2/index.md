@@ -2,9 +2,10 @@
 title: "Harmon Family Tartan Tartan Number: 7792. Earliest known date: 2006 The original design had no black stripe though the red. Mr Harmon designed the tartan because, as he said, there does not appear to be any Harmon tartan, nor do the Harmons in Scotland appear to have any historical clan affiliation. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KKYKYKBGBKRKRGRGRY](/stripes/kkykykbgbkrkrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2xr6y2xr2y2xr19b2dn2b2xr2dra4k2dra11dn2dra2dn2dra6y2/)
+(the same proportion at any scale), whose colour order is pattern [KKYKYKBGBKRKRGRGRY](/stripes/kkykykbgbkrkrgrgry/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7792
 

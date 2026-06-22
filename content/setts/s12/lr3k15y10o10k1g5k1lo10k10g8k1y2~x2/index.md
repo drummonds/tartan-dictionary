@@ -2,9 +2,10 @@
 title: "Castlefield (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGKYKGKRGKY](/stripes/gkgkykgkrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na3k15n10lt10k1g5k1y10k10g8k1n2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKYKGKRGKY](/stripes/gkgkykgkrgky/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10154
 

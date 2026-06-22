@@ -2,9 +2,10 @@
 title: "Lander (2013)"
 date: 2023-03-18
 ---
-In pattern [YBYBGRYRGBYBYBY](/stripes/ybybgryrgbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt18t3lt3t3lt3t16g16dr2y2dr2g16t16lt17t3lt3/)
+(the same proportion at any scale), whose colour order is pattern [YBYBGRYRGBYBYBY](/stripes/ybybgryrgbybyby/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10951
 

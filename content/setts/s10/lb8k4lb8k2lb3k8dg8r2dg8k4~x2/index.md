@@ -2,9 +2,10 @@
 title: "Ferguson Dress variation"
 date: 2023-03-18
 ---
-In pattern [KGRGKWKWKW](/stripes/kgrgkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8k4n8k2n3k8g8r2g8k4/)
+(the same proportion at any scale), whose colour order is pattern [KGRGKWKWKW](/stripes/kgrgkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1164
 

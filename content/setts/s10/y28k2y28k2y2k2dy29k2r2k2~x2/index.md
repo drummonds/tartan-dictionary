@@ -2,9 +2,10 @@
 title: "Ulster (Peat) (District"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGKRK](/stripes/gkgkgkgkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ta28k2ta28k2ta2k2t29k2r2k2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGKRK](/stripes/gkgkgkgkrk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1196/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ulster (District
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1590-1650 — Ulster (Peat) (District (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1196/))
-- 01/01/1600 — Ulster (Peat) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4196))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1590-1650 — Ulster (Peat) (District (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1196/">record</a>)</li>
+<li>01/01/1600 — Ulster (Peat) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4196">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

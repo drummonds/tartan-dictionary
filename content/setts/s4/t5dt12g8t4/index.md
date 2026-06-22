@@ -2,9 +2,10 @@
 title: "Sheffield High (School)"
 date: 2023-03-18
 ---
-In pattern [BBGB](/stripes/bbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5db12g8b4/)
+(the same proportion at any scale), whose colour order is pattern [BBGB](/stripes/bbgb/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3203/
 

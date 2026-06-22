@@ -2,19 +2,21 @@
 title: "Aquascutum"
 date: 2023-03-18
 ---
-In pattern [BWR](/stripes/bwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1w1r1/)
+(the same proportion at any scale), whose colour order is pattern [BWR](/stripes/bwr/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8978/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2015 — Aquascutum (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8978/))
-- undated — Aquascutum (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Aquascutum Trade Tartan Tartan Number: 657. Earliest known date: pre 2003 Named after the district in which it was found. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=657))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2015 — Aquascutum (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8978/">record</a>)</li>
+<li>undated — Aquascutum (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Aquascutum Trade Tartan Tartan Number: 657. Earliest known date: pre 2003 Named after the district in which it was found. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=657">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/22 W22 R/22

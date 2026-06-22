@@ -2,9 +2,10 @@
 title: "Murphy and his Gang (Phoenix Arizona) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g29b1g2b2g2b3g2b5dr1k1dr1b5g2b3g2b2g2b1g14o3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGBRKRBGBGBGBGY](/stripes/gbgbgbgbrkrbgbgbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10419
 

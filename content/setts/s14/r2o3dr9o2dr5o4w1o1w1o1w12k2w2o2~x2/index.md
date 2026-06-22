@@ -2,9 +2,10 @@
 title: "Harrods"
 date: 2023-03-18
 ---
-In pattern [RRBRBRWRWRWKWR](/stripes/rrbrbrwrwrwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2lta3dr9lt2dr5lt4ln1lta1ln1lta1ln12k2ln2lta2/)
+(the same proportion at any scale), whose colour order is pattern [RRBRBRWRWRWKWR](/stripes/rrbrbrwrwrwkwr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

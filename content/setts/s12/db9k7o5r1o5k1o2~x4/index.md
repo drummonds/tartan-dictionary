@@ -2,9 +2,10 @@
 title: "Greyhound Grenadiers #2"
 date: 2023-03-18
 ---
-In pattern [BKRRRKRKRRRK](/stripes/bkrrrkrkrrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k7n5r1n5k1n2/)
+(the same proportion at any scale), whose colour order is pattern [BKRRRKRKRRRK](/stripes/bkrrrkrkrrrk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1545
 

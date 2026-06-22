@@ -2,9 +2,10 @@
 title: "JMAR Unlimited"
 date: 2023-03-18
 ---
-In pattern [GWWBBBWWW](/stripes/gwwbbbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6w1lb3bb6ba12b15lp3w1n1/)
+(the same proportion at any scale), whose colour order is pattern [GWWBBBWWW](/stripes/gwwbbbwww/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11523
 

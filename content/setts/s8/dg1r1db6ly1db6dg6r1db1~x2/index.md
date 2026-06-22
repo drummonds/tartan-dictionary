@@ -2,9 +2,10 @@
 title: "MacHardy"
 date: 2023-03-18
 ---
-In pattern [BRGBYBRG](/stripes/brgbybrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1r1b6y1b6g6r1b1/)
+(the same proportion at any scale), whose colour order is pattern [BRGBYBRG](/stripes/brgbybrg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2466
 

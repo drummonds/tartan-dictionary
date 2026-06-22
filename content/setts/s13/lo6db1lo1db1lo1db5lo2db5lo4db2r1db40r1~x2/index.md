@@ -2,18 +2,20 @@
 title: "Angotta (Name)"
 date: 2023-03-18
 ---
-In pattern [RBRBYBYBYBYBY](/stripes/rbrbybybybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy6db1dy1db1dy1db5dy2db5dy4db2r1db40r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBYBYBYBYBY](/stripes/rbrbybybybyby/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10038/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Angotta (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10038/))
-- undated — Angotta Name Tartan Tartan Number: 10038. Earliest known date: 2009 Designed by Scottish Tartans Authority for the armigerous Donald Paul Angotta of the USA, based on an unidentified 19th century sett. The yellow and blue are the major colours of the Angotta arms granted in South Africa in 2001 and the red highlights are from the helm in that coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10038))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Angotta (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10038/">record</a>)</li>
+<li>undated — Angotta Name Tartan Tartan Number: 10038. Earliest known date: 2009 Designed by Scottish Tartans Authority for the armigerous Donald Paul Angotta of the USA, based on an unidentified 19th century sett. The yellow and blue are the major colours of the Angotta arms granted in South Africa in 2001 and the red highlights are from the helm in that coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10038">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DY/12 DB2 DY2 DB2 DY2 DB10 DY4 DB10 DY8 DB4 R2 DB80 R/2

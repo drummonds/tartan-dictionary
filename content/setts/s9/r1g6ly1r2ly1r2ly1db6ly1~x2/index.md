@@ -2,9 +2,10 @@
 title: "Stevenson"
 date: 2023-03-18
 ---
-In pattern [RGYRYRYBY](/stripes/rgyryryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g6y1r2y1r2y1b6y1/)
+(the same proportion at any scale), whose colour order is pattern [RGYRYRYBY](/stripes/rgyryryby/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "Platt"
 date: 2023-03-18
 ---
-In pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8b3y1g6r1g7b7y1b6r1g3b12g3y1r1/)
+(the same proportion at any scale), whose colour order is pattern [GBYGRGBYBRGBGYR](/stripes/gbygrgbybrgbgyr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Platt (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Platt Family Tartan Tartan Number: 749. Earliest known date: pre 1966 Appears near the end of the Provosts collection - 'which he placed in the book in the order of receiving them. The patterns at the end of the book are all modern.' (Arthur Peters, librarian at Inverness Public library) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=749))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Platt (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Platt Family Tartan Tartan Number: 749. Earliest known date: pre 1966 Appears near the end of the Provosts collection - 'which he placed in the book in the order of receiving them. The patterns at the end of the book are all modern.' (Arthur Peters, librarian at Inverness Public library) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=749">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/16 B6 Y2 G12 R2 G14 B14 Y2 B12 R2 G6 B24 G6 Y2 R/2

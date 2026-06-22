@@ -2,9 +2,10 @@
 title: "MacIntyre Hunting (VS)"
 date: 2023-03-18
 ---
-In pattern [GBRBGW](/stripes/gbrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4db12r3db12g32w4/)
+(the same proportion at any scale), whose colour order is pattern [GBRBGW](/stripes/gbrbgw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2485
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - MacIntyre Hunting
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1840 — MacIntyre Hunting (VS) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2485))
-- 1840 — MacIntyre - 1842 (VS) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/743/))
-- undated — MacIntyre Hunting Clan Tartan Tartan Number: 743. Earliest known date: 1800 There is a doublet in Kingussie Museum dated 1800 in this tartan. It also appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=743))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1840 — MacIntyre Hunting (VS) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2485">record</a>)</li>
+<li>1840 — MacIntyre - 1842 (VS) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/743/">record</a>)</li>
+<li>undated — MacIntyre Hunting Clan Tartan Tartan Number: 743. Earliest known date: 1800 There is a doublet in Kingussie Museum dated 1800 in this tartan. It also appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=743">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

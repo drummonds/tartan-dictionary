@@ -2,9 +2,10 @@
 title: "Canmore Highland Games"
 date: 2023-03-18
 ---
-In pattern [GBKWKBKBGKGR](/stripes/gbkwkbkbgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g70db3k9w4k4p4k3db12g9k4g4do4/)
+(the same proportion at any scale), whose colour order is pattern [GBKWKBKBGKGR](/stripes/gbkwkbkbgkgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10008
 

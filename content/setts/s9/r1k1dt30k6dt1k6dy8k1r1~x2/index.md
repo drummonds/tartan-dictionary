@@ -2,18 +2,20 @@
 title: "Klappert Original (Odsherred, Denmark) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKBKBKGKR](/stripes/rkbkbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k1n30k6n1k6t8k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKGKR](/stripes/rkbkbkgkr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10475
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 12/08/2011 — Klappert Original (Odsherred, Denmark) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10475))
-- undated — Klappert Original Name Tartan Tartan Number: 10475. Earliest known date: 2011 This tartan was designed to commemorate the original family of Klapperts in Denmark. The colours chosen represent the Klappert family heritage and their enviroment. The black symbolises the dark Nordic winter and the dark grey is the cold sea which embraces the vast Danish coastline. The dark red symbolises this family's Danish origins. The brown is a reference to the longships which brought the Vikings to Scotland, representing the connection between the Nordic and Scottish cultures. This tartan may only be worn/used by members/descendants of the original Klappert family from Odsherred in Denmark. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10475))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>12/08/2011 — Klappert Original (Odsherred, Denmark) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10475">record</a>)</li>
+<li>undated — Klappert Original Name Tartan Tartan Number: 10475. Earliest known date: 2011 This tartan was designed to commemorate the original family of Klapperts in Denmark. The colours chosen represent the Klappert family heritage and their enviroment. The black symbolises the dark Nordic winter and the dark grey is the cold sea which embraces the vast Danish coastline. The dark red symbolises this family's Danish origins. The brown is a reference to the longships which brought the Vikings to Scotland, representing the connection between the Nordic and Scottish cultures. This tartan may only be worn/used by members/descendants of the original Klappert family from Odsherred in Denmark. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10475">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Amble"
 date: 2023-03-18
 ---
-In pattern [BKBKRBBKBKBKBKR](/stripes/bkbkrbbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka20k6ka5k8t4ka6b3k1ka3k1b3k9b11k1t1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRBBKBKBKBKR](/stripes/bkbkrbbkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10280
 

@@ -2,9 +2,10 @@
 title: "William Murdoch, (Scottish Gas)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11db2b4db2b4db11ba11db2bb4db2ba11db11b11db2b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkb/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

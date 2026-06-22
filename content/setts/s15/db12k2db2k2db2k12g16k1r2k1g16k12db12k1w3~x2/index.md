@@ -2,9 +2,10 @@
 title: "Robertson of Kindeace"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k2b2k2b2k12g16k1r2k1g16k12b12k1ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKW](/stripes/bkbkbkgkrkgkbkw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Robertson of Kindeace
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Robertson of Kindeace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Robertson Hunting Clan Tartan Tartan Number: 299. Earliest known date: 1810-15 Also known as the 'Hunting Robertson'. The sett is reputedly ancient, and resembles the 'Athol Murray', though used by only by the Robertsons of the North. The Cockburn Collection is housed in the Mitchell Library in Glasgow. It contains some of the oldest preserved specimens of tartan which were collected between 1810 and 1815. The Robertsons claim descent from 'Donnachaidh Reamhair' who led the clan at the battle of Bannockburn. The Clan Donnachaidh museum is at Blair Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=299))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Robertson of Kindeace (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Robertson Hunting Clan Tartan Tartan Number: 299. Earliest known date: 1810-15 Also known as the 'Hunting Robertson'. The sett is reputedly ancient, and resembles the 'Athol Murray', though used by only by the Robertsons of the North. The Cockburn Collection is housed in the Mitchell Library in Glasgow. It contains some of the oldest preserved specimens of tartan which were collected between 1810 and 1815. The Robertsons claim descent from 'Donnachaidh Reamhair' who led the clan at the battle of Bannockburn. The Clan Donnachaidh museum is at Blair Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=299">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/24 K4 B4 K4 B4 K24 G32 K2 R4 K2 G32 K24 B24 K2 LN/6

@@ -2,9 +2,10 @@
 title: "Innes"
 date: 2023-03-18
 ---
-In pattern [RKRKRKWKRKRKRYRBRKGKRW](/stripes/rkrkrkwkrkrkryrbrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24k4r4k4r4k24lb7k24r4k4r4k4r24y4r6db12r6k4g20k4r6w4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKWKRKRKRYRBRKGKRW](/stripes/rkrkrkwkrkrkryrbrkgkrw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6022
 

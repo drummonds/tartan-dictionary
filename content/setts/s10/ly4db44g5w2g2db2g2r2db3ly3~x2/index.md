@@ -2,9 +2,10 @@
 title: "Oxford University Dress (Corporate)"
 date: 2023-03-18
 ---
-In pattern [YBGWGBGRBY](/stripes/ybgwgbgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg4db44g5w2g2db2g2r2db3lg3/)
+(the same proportion at any scale), whose colour order is pattern [YBGWGBGRBY](/stripes/ybgwgbgrby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2653/
 

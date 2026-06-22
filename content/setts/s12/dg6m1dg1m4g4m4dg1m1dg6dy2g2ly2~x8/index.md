@@ -2,9 +2,10 @@
 title: "Maple Leaf Canadian District Tartan Tartan Number: 2034. Earliest known date: 1964 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) The sett is now regarded as a National tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGGGY](/stripes/grgrgrgrgggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6r1dg1r4g4r4dg1r1dg6t2g2y2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGGGY](/stripes/grgrgrgrgggy/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2034
 

@@ -2,9 +2,10 @@
 title: "MacSporran"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b17r3b4r5b20r3k20g20r5g4r3k3y11/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRKY](/stripes/brbrbrkgrgrky/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

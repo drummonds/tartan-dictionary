@@ -2,9 +2,10 @@
 title: "Urquhart - 1810 ((Clan)"
 date: 2023-03-18
 ---
-In pattern [KGKBKBKBR](/stripes/kgkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9db11k3db3k3db3k20g20k3/)
+(the same proportion at any scale), whose colour order is pattern [KGKBKBKBR](/stripes/kgkbkbkbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1086/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Urquhart Broad Red
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1822 — Urquhart - 1810 ((Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1086/))
-- undated — Urquhart (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Urquhart Broad Red Clan Tartan Tartan Number: 1086. Earliest known date: 1810-15 Registered with Lord Lyon on 14th October, 1991. Lord Lyon also registered the 'Urquhart White Line' in the same entry. The proportions of the count given here are taken from the sample in the Cockburn Collection in the Mitchell Library in Glasgow. The sett also appears in the work of W and A Smith (1850) who claim that their sample was collected in the Highlands around 1822, possibly by George Hunter, the Army clothier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1086))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1822 — Urquhart - 1810 ((Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1086/">record</a>)</li>
+<li>undated — Urquhart (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Urquhart Broad Red Clan Tartan Tartan Number: 1086. Earliest known date: 1810-15 Registered with Lord Lyon on 14th October, 1991. Lord Lyon also registered the 'Urquhart White Line' in the same entry. The proportions of the count given here are taken from the sample in the Cockburn Collection in the Mitchell Library in Glasgow. The sett also appears in the work of W and A Smith (1850) who claim that their sample was collected in the Highlands around 1822, possibly by George Hunter, the Army clothier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1086">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/18 DB22 K6 DB6 K6 DB6 K40 G40 K/6

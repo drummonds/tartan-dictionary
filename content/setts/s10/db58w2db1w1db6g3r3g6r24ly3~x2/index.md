@@ -2,9 +2,10 @@
 title: "Chinese Scottish (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBWBGRGRY](/stripes/bwbwbgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db58ln2db1ln1db6g3r3g6r24y3/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBGRGRY](/stripes/bwbwbgrgry/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6807/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Chinese
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2006 March — Chinese Scottish (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6807/))
-- undated — Chinese Scottish District Tartan Tartan Number: 6807. Earliest known date: 2006 The Chinese Scottish tartan was originally created to signify the special relationship that exists between Scotland and China and between the Scots and the Chinese community in Scotland. The inspiration for this tartan came from Madam Guo Guifang, Chinese Consul General, who once spoke of the unique Scottish tartan as one of the major tourist attractions for the Chinese and suggested the idea of creating a specific tartan for the Chinese people. Designed by Heather Yellowley of the Strathmore Woollen Company of Forfar and facilitated by Angus Council and the Scottish Tartans Authority, the tartan incorporates the colours of the Scottish Saltire together with the red and yellow of the Chinese flag. These are interwoven with green bands to symbolise the great co-operation between Scottish and Chinese botanists in the Botanic Gardens of Edinburgh - home to the world's largest collection of Chinese plants outside China itself. The yellow crosses the red in five places which signifies the five stars of the Chinese Flag, the biggest and brightest being represented by the yellow cross in the middle of the red. The tartan was presented to Madam Guo on 6th April 2006 as part of the Tartan Day Celebrations which took place in the Scottish county of Angus. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6807))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2006 March — Chinese Scottish (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6807/">record</a>)</li>
+<li>undated — Chinese Scottish District Tartan Tartan Number: 6807. Earliest known date: 2006 The Chinese Scottish tartan was originally created to signify the special relationship that exists between Scotland and China and between the Scots and the Chinese community in Scotland. The inspiration for this tartan came from Madam Guo Guifang, Chinese Consul General, who once spoke of the unique Scottish tartan as one of the major tourist attractions for the Chinese and suggested the idea of creating a specific tartan for the Chinese people. Designed by Heather Yellowley of the Strathmore Woollen Company of Forfar and facilitated by Angus Council and the Scottish Tartans Authority, the tartan incorporates the colours of the Scottish Saltire together with the red and yellow of the Chinese flag. These are interwoven with green bands to symbolise the great co-operation between Scottish and Chinese botanists in the Botanic Gardens of Edinburgh - home to the world's largest collection of Chinese plants outside China itself. The yellow crosses the red in five places which signifies the five stars of the Chinese Flag, the biggest and brightest being represented by the yellow cross in the middle of the red. The tartan was presented to Madam Guo on 6th April 2006 as part of the Tartan Day Celebrations which took place in the Scottish county of Angus. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6807">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/116 LN4 DB2 LN2 DB12 G6 R6 G12 R48 Y/6

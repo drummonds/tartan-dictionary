@@ -2,9 +2,10 @@
 title: "Miyuki #3"
 date: 2023-03-18
 ---
-In pattern [BWBWRRWRWRRWBWRRWB](/stripes/bwbwrrwrwrrwbwrrwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12nb14r3na6nb10n28nb10na6r3nb8na10nb8r3na6nb40n6nb6n6/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRRWRWRRWBWRRWB](/stripes/bwbwrrwrwrrwbwrrwb/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2969
 

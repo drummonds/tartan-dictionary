@@ -2,9 +2,10 @@
 title: "Hand Name Tartan Tartan Number: 10640. Earliest known date: 2012 James Hand designed this tartan to celebrate his marriage to Miss Gail Wheatley. Colours: green for the Hand family name which originates from Ireland; blue and purple to signify a Scottish connection; charcoal and granite, colours which reflect a modern tartan. Weavers note: the granite and charcoal colours are woven with melange (blended) yarns of grey and black. Developed for weaving by House of Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBYBYBYBYGYW](/stripes/gbybybybygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg1n8na5n23na5db3na5dp3na5dg5na3ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBYBYBYBYGYW](/stripes/gbybybybygyw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10640
 

@@ -2,9 +2,10 @@
 title: "Sinclair Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRBKGWG](/stripes/brbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r2b31k10g4ln21g2/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGWG](/stripes/brbkgwg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2434/
 

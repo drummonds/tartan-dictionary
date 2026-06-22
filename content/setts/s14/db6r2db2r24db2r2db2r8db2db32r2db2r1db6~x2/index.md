@@ -2,9 +2,10 @@
 title: "Grant of Glenmoriston (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRBBRBRBRBRB](/stripes/brbrbbrbrbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r2db2ra24db2ra2db2r8db2db32r2db2r1db6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBBRBRBRBRB](/stripes/brbrbbrbrbrbrb/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8267/
 

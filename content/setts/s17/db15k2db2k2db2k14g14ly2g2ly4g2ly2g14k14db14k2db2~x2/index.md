@@ -2,9 +2,10 @@
 title: "Gordon of Esselmont (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db15k2db2k2db2k14g14y2g2y4g2y2g14k14db14k2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/215/
 

@@ -2,9 +2,10 @@
 title: "Urquhart"
 date: 2023-03-18
 ---
-In pattern [BYBKBKBKGKGR](/stripes/bybkbkbkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4n2db24k3db3k3db8k24dg48k3dg3dr2/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKBKGKGR](/stripes/bybkbkbkgkgr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

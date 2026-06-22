@@ -2,18 +2,20 @@
 title: "MacLagan of Glenquiech"
 date: 2023-03-18
 ---
-In pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db6r3db3r3db28k21g28r21k2y4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1856 — MacLagan of Glenquiech (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771))
-- pre 1856 — MacLagan of Glenquiech (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7813/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1856 — MacLagan of Glenquiech (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5771">record</a>)</li>
+<li>pre 1856 — MacLagan of Glenquiech (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7813/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

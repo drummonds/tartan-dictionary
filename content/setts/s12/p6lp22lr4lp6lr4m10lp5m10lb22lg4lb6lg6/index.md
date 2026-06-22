@@ -2,9 +2,10 @@
 title: "Kinloch Anderson, Romance of"
 date: 2023-03-18
 ---
-In pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6lb6g4lb22pa10lp5pa10lr4lp6lr4lp22p6/)
+(the same proportion at any scale), whose colour order is pattern [BWYWYRWRWYWY](/stripes/bwywyrwrwywy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5969
 

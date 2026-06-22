@@ -2,9 +2,10 @@
 title: "Campbell Collegiate"
 date: 2023-03-18
 ---
-In pattern [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y18k3y3k3y3k13g16k4g16k13y16k3y3/)
+(the same proportion at any scale), whose colour order is pattern [YKYKGKGKYKYKY](/stripes/ykykgkgkykyky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10456
 

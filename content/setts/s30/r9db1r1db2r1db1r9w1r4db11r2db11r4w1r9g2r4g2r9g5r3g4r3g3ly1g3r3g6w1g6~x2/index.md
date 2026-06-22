@@ -2,9 +2,10 @@
 title: "Lumsden (Short)"
 date: 2023-03-18
 ---
-In pattern [GWGRGYGRGRGRGRGRWRBRBRWRBRBRBR](/stripes/gwgrgygrgrgrgrgrwrbrbrwrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9db1r1db2r1db1r9ln1r4db11r2db11r4ln1r9g2r4g2r9g5r3g4r3g3y1g3r3g6ln1g6/)
+(the same proportion at any scale), whose colour order is pattern [GWGRGYGRGRGRGRGRWRBRBRWRBRBRBR](/stripes/gwgrgygrgrgrgrgrwrbrbrwrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2243
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Lumsden Short Version
 - Lumsden Short version
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Lumsden (Short) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2243))
-- Unknown — Lumsden (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/931/))
-- undated — Lumsden Short Version (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Lumsden Short version Family Tartan Tartan Number: 931. Earliest known date: 0 One of a set of three similar designs for Laurie, Lawrie and Lowry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=931))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Lumsden (Short) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2243">record</a>)</li>
+<li>Unknown — Lumsden (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/931/">record</a>)</li>
+<li>undated — Lumsden Short Version (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Lumsden Short version Family Tartan Tartan Number: 931. Earliest known date: 0 One of a set of three similar designs for Laurie, Lawrie and Lowry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=931">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

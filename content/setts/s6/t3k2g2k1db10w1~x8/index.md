@@ -2,9 +2,10 @@
 title: "Isle of Harris (District)"
 date: 2023-03-18
 ---
-In pattern [BKGKBW](/stripes/bkgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k2g2k1db10w1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBW](/stripes/bkgkbw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6198/
 

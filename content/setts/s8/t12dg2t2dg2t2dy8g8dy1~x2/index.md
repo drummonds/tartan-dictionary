@@ -2,9 +2,10 @@
 title: "Universal Ancient"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGG](/stripes/bgbgbggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12g2b2g2b2t8ga8t1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGG](/stripes/bgbgbggg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4401
 

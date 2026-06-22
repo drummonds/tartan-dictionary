@@ -2,18 +2,20 @@
 title: "Graham of Montrose"
 date: 2023-03-18
 ---
-In pattern [KBKGWGK](/stripes/kbkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g4ln1g4k4b4k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGWGK](/stripes/kbkgwgk/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Graham of Montrose (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Graham of Montrose Clan Tartan Tartan Number: 1044. Earliest known date: 1810-15 This sett was woven by Wilson's of Bannockburn around 1819. Wilson called it the No. 64 or 'Abercrombie' pattern, and produced it in various colours. In yellow it becomes the Breadalbane and in red, the MacCallum. The white striped Graham tartan is also known as MacLaggan. It is worn unofficially by 205 (sc) General Hospital RAMCV. There is a sample dating from 1815, labelled 'Graham', in the Cockburn Collection. It was first published in the Smith's book of 1850. See also Montrose, Menteith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1044))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Graham of Montrose (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Graham of Montrose Clan Tartan Tartan Number: 1044. Earliest known date: 1810-15 This sett was woven by Wilson's of Bannockburn around 1819. Wilson called it the No. 64 or 'Abercrombie' pattern, and produced it in various colours. In yellow it becomes the Breadalbane and in red, the MacCallum. The white striped Graham tartan is also known as MacLaggan. It is worn unofficially by 205 (sc) General Hospital RAMCV. There is a sample dating from 1815, labelled 'Graham', in the Cockburn Collection. It was first published in the Smith's book of 1850. See also Montrose, Menteith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1044">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/16 G16 LN4 G16 K16 B16 K/4

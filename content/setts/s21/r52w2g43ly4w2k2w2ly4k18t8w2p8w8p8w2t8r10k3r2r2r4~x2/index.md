@@ -2,9 +2,10 @@
 title: "Dundee, Wallace"
 date: 2023-03-18
 ---
-In pattern [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/rb52ln2g43y4ln2k2ln2y4k18b8ln2p8ln8p8ln2b8rb10k3r2ra2rb4/)
+(the same proportion at any scale), whose colour order is pattern [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

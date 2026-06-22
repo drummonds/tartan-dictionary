@@ -2,9 +2,10 @@
 title: "Znaimer (Canada)"
 date: 2023-03-18
 ---
-In pattern [WKWYWKKWRYKYKYKYKYRWKKWYWKWWWW](/stripes/wkwywkkwrykykykykyrwkkwywkwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb8w21lb8w7k2w3lt3w3t6k6w2r8lt3t3lt3t3lt3t3lt3t3lt3r8w2t6k6w3lt3w3k2w7/)
+(the same proportion at any scale), whose colour order is pattern [WKWYWKKWRYKYKYKYKYRWKKWYWKWWWW](/stripes/wkwywkkwrykykykykyrwkkwywkwwww/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10373
 

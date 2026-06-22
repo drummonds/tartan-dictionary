@@ -2,9 +2,10 @@
 title: "Watkins (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [BBGBGGBBBBBBBGBGGGB](/stripes/bbgbggbbbbbbbgbgggb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2ba2g5ba4g10ga15ba10dba12ba6db4ba6dba12ba10ga18b2g2ga18g1db2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGGBBBBBBBGBGGGB](/stripes/bbgbggbbbbbbbgbgggb/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6169/
 

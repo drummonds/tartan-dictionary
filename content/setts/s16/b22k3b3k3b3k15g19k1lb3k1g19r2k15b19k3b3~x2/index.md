@@ -2,9 +2,10 @@
 title: "Sempill (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGRKBKB](/stripes/bkbkbkgkwkgrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22k3b3k3b3k15g19k1lp3k1g19r2k15b19k3b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGRKBKB](/stripes/bkbkbkgkwkgrkbkb/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2420/
 

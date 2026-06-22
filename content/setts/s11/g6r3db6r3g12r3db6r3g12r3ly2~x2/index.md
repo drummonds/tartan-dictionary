@@ -2,19 +2,21 @@
 title: "Hall (1994)"
 date: 2023-03-18
 ---
-In pattern [GRBRGRBRGRY](/stripes/grbrgrbrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6r3db6r3g12r3db6r3g12r3y2/)
+(the same proportion at any scale), whose colour order is pattern [GRBRGRBRGRY](/stripes/grbrgrbrgry/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1992 — Hall (1994) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572))
-- 1992 — Hall (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2092/))
-- undated — Hall Family Tartan Tartan Number: 2092. Earliest known date: 1992 Designed by the late Atlas D. Hall for Hall sept members of the Clan Skene Association with help from the late Scotty Thompson of the Tartan Educational and Cultural Association, in 1992. The Clan Hall Society was organized in Pikeville, Kentucky, August 1993 when the Rev. Altas D. Hall became president. This image shows the new version of the sett which was slightly modified in 1994. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2092))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1992 — Hall (1994) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1572">record</a>)</li>
+<li>1992 — Hall (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2092/">record</a>)</li>
+<li>undated — Hall Family Tartan Tartan Number: 2092. Earliest known date: 1992 Designed by the late Atlas D. Hall for Hall sept members of the Clan Skene Association with help from the late Scotty Thompson of the Tartan Educational and Cultural Association, in 1992. The Clan Hall Society was organized in Pikeville, Kentucky, August 1993 when the Rev. Altas D. Hall became president. This image shows the new version of the sett which was slightly modified in 1994. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2092">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "MacDonell of Glengarry #3"
 date: 2023-03-18
 ---
-In pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16r5db30r2k33g30r5g2r2g7ln4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKGRGRGW](/stripes/brbrkgrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2382
 

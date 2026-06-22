@@ -2,9 +2,10 @@
 title: "Scottish Rugby Union Corporate Tartan Tartan Number: 2101. Earliest known date: 1990 S.R.U. requested that the Navy of their jersey should be prominent, including the green and lilac of the thistle, and the white of the shorts. This version is approved by the Scottish Rugby Union. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGWGWGKW](/stripes/bkbkgwgwgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k2db22k9g2lp2g2lp2g8k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGWGWGKW](/stripes/bkbkgwgwgkw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2101
 

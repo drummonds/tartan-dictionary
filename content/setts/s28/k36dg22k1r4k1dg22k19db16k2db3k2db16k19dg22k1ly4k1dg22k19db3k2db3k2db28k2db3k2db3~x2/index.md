@@ -2,9 +2,10 @@
 title: "Farquharson (Vestiarium Scoticum) or MacEwen/MacEwan"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGKYKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkykgkbkbkbkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36g22k1r4k1g22k19b16k2b3k2b16k19g22k1y4k1g22k19b3k2b3k2b28k2b3k2b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGKYKGKBKBKBKGKRKGK](/stripes/bkbkbkbkbkgkykgkbkbkbkgkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1150
 

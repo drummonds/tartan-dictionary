@@ -2,9 +2,10 @@
 title: "Fothergill, Baron of Kinross (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBGGBRBBWBW](/stripes/wbggbrbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w50b3w8b8db12r4db12g16ga12n4w4/)
+(the same proportion at any scale), whose colour order is pattern [WBGGBRBBWBW](/stripes/wbggbrbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10695
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Fothergill, Baron of Kinross
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 24/05/2012 — Fothergill, Baron of Kinross (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10695))
-- undated — Fothergill, Baron of Kinross (P Name Tartan Tartan Number: 10695. Earliest known date: 12 September 2012 The design of this tartan was commissioned by Donald Fothergill, Baron of Kinross, to celebrate the beauty of Kinross House, its gardens and its vista across Loch Leven to Loch Leven Castle. The design is based on the Royal Stewart tartan in reference to the fact that Mary Queen of Scots abdicated in favour of her son James VI whilst imprisoned in Loch Leven Castle. Sir William Bruce, who built Kinross House, deliberately set it in a designed landscape that included Loch Leven Castle. The colours used for the Fothergill tartan were specifically chosen to represent the stone from the local Cleish quarry, from which Kinross House was built, and the spectacular gardens and loch that fall within the designed landscape. The blue and parchment white shades and the rich red found in the tartan also reflect the heraldic colours in the Arms of Donald Fothergill. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10695))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>24/05/2012 — Fothergill, Baron of Kinross (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10695">record</a>)</li>
+<li>undated — Fothergill, Baron of Kinross (P Name Tartan Tartan Number: 10695. Earliest known date: 12 September 2012 The design of this tartan was commissioned by Donald Fothergill, Baron of Kinross, to celebrate the beauty of Kinross House, its gardens and its vista across Loch Leven to Loch Leven Castle. The design is based on the Royal Stewart tartan in reference to the fact that Mary Queen of Scots abdicated in favour of her son James VI whilst imprisoned in Loch Leven Castle. Sir William Bruce, who built Kinross House, deliberately set it in a designed landscape that included Loch Leven Castle. The colours used for the Fothergill tartan were specifically chosen to represent the stone from the local Cleish quarry, from which Kinross House was built, and the spectacular gardens and loch that fall within the designed landscape. The blue and parchment white shades and the rich red found in the tartan also reflect the heraldic colours in the Arms of Donald Fothergill. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10695">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Borthwick (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKRKRKRKR](/stripes/gkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17k1dr16k2n14k19n14k2dr6/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKRKR](/stripes/gkrkrkrkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/816/
 

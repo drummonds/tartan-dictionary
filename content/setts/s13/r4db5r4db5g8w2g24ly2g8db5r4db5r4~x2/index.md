@@ -2,9 +2,10 @@
 title: "Clackson Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRBGWGYGBRBR](/stripes/rbrbgwgygbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db5r4db5g8y2g24w2g8db5r4db5r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGWGYGBRBR](/stripes/rbrbgwgygbrbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11315
 

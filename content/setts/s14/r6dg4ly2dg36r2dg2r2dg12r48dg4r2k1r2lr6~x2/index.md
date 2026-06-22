@@ -2,18 +2,20 @@
 title: "Hay"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGRGRKRY](/stripes/rgygrgrgrgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6dg4lg2dg36dr2dg2dr2dg12dr48dg4dr2k1dr2n6/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGRGRKRY](/stripes/rgygrgrgrgrkry/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Hay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Hay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/12 DG8 LG4 DG72 DR4 DG4 DR4 DG24 DR96 DG8 DR4 K2 DR4 N/12

@@ -2,9 +2,10 @@
 title: "Dalziel #1"
 date: 2023-03-18
 ---
-In pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r40ln2b1r3g31r3b1ln2r3b8r3ln2b1r34g4r4g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=885
 

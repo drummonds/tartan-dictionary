@@ -2,9 +2,10 @@
 title: "Down Irish County Tartan Tartan Number: 2266. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGRKBYYKY](/stripes/kgrkbyyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t65k9r11t5b2lr2lt5t2lr13/)
+(the same proportion at any scale), whose colour order is pattern [KGRKBYYKY](/stripes/kgrkbyyky/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2266
 

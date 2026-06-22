@@ -2,9 +2,10 @@
 title: "King George VI"
 date: 2023-03-18
 ---
-In pattern [RGKYKBKRKRW](/stripes/rgkykbkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g24k4y2k3b2k6r4k2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGKYKBKRKRW](/stripes/rgkykbkrkrw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1984
 

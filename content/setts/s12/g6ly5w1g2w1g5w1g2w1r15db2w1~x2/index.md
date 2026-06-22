@@ -2,18 +2,20 @@
 title: "Dunblane"
 date: 2023-03-18
 ---
-In pattern [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6y5ln1g2ln1g5ln1g2ln1r15b2ln1/)
+(the same proportion at any scale), whose colour order is pattern [GYWGWGWGWRBW](/stripes/gywgwgwgwrbw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Dunblane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Dunblane District Tartan Tartan Number: 1022. Earliest known date: 1729 Peregrine, 2nd Viscount Dunblane in a portrait hanging in Hornby Castle, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1022))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Dunblane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Dunblane District Tartan Tartan Number: 1022. Earliest known date: 1729 Peregrine, 2nd Viscount Dunblane in a portrait hanging in Hornby Castle, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1022">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/12 Y10 LN2 G4 LN2 G10 LN2 G4 LN2 R30 B4 LN/2

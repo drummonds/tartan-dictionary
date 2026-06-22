@@ -2,9 +2,10 @@
 title: "Sugell (Name?)"
 date: 2023-03-18
 ---
-In pattern [GRYW](/stripes/gryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g72r25y8ln5/)
+(the same proportion at any scale), whose colour order is pattern [GRYW](/stripes/gryw/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7880/
 

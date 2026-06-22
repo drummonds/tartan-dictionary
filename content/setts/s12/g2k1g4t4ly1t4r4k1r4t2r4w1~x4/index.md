@@ -2,18 +2,20 @@
 title: "British Columbia"
 date: 2023-03-18
 ---
-In pattern [GKGBYBRKRBRW](/stripes/gkgbybrkrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2k1g4b4y1b4r4k1r4b2r4ln1/)
+(the same proportion at any scale), whose colour order is pattern [GKGBYBRKRBRW](/stripes/gkgbybrkrbrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — British Columbia (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — British Columbia District Tartan Tartan Number: 808. Earliest known date: 1966 The British Columbia Provincial tartan was produced by the Pik Mills of Quebec in connection with the Centennial Celebration of 1966 which marked the unification of the administration of the mainland and Vancouver Island a hundred years earlier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=808))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — British Columbia (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — British Columbia District Tartan Tartan Number: 808. Earliest known date: 1966 The British Columbia Provincial tartan was produced by the Pik Mills of Quebec in connection with the Centennial Celebration of 1966 which marked the unification of the administration of the mainland and Vancouver Island a hundred years earlier. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=808">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/8 K4 G16 B16 Y4 B16 R16 K4 R16 B8 R16 LN/4

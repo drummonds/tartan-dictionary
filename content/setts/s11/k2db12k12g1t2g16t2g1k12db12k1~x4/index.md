@@ -2,9 +2,10 @@
 title: "Graham"
 date: 2023-03-18
 ---
-In pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db12k12g1b2g16b2g1k12db12k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGBGBGKBK](/stripes/kbkgbgbgkbk/).
 
-This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

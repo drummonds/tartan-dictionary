@@ -2,18 +2,20 @@
 title: "Carrick (Clan)"
 date: 2023-03-18
 ---
-In pattern [RBRGBGBGR](/stripes/rbrgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28db12r3g20dp1g2dp1g2r7/)
+(the same proportion at any scale), whose colour order is pattern [RBRGBGBGR](/stripes/rbrgbgbgr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1389/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1930 — Carrick (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1389/))
-- undated — Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1389))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1930 — Carrick (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1389/">record</a>)</li>
+<li>undated — Carrick District Tartan Tartan Number: 1389. Earliest known date: c.1930 The Ayrshire Earldom of Carrick is associated with two major families, the Fergusons and the Kennedys. The tartan was designed for Councillor John Hannay by Arthur Galt of Messrs Hugh Galt & Sons, Girvan. There is also a Carrick Green sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1389">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/56 DB24 R6 G40 DP2 G4 DP2 G4 R/14

@@ -2,9 +2,10 @@
 title: "Harmon of Plenderleith (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBYBYBRGRBBKBGBGBY](/stripes/kbybybrgrbbkbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2db6dy2db2dy2db19r2g2r2db2dba4k2dba11g2dba2g2dba6dy2/)
+(the same proportion at any scale), whose colour order is pattern [KBYBYBRGRBBKBGBGBY](/stripes/kbybybrgrbbkbgbgby/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10021/
 

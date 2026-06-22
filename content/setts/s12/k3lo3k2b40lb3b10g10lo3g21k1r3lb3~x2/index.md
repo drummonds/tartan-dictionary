@@ -2,9 +2,10 @@
 title: "State Seal of Maryland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KYKBWBGYGKRW](/stripes/kykbwbgygkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy3k2b40lr3b10g10dy3g21k1dr3lr3/)
+(the same proportion at any scale), whose colour order is pattern [KYKBWBGYGKRW](/stripes/kykbwbgygkrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8634/
 

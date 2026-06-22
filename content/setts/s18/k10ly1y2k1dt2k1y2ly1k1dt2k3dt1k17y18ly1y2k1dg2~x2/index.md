@@ -2,9 +2,10 @@
 title: "Raznotravie"
 date: 2023-03-18
 ---
-In pattern [GKGYGKBKBKYGKBKGYK](/stripes/gkgygkbkbkygkbkgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10ly1g2k1ka2k1g2ly1k1ka2k3ka1k17g18ly1g2k1kb2/)
+(the same proportion at any scale), whose colour order is pattern [GKGYGKBKBKYGKBKGYK](/stripes/gkgygkbkbkygkbkgyk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10771
 

@@ -2,9 +2,10 @@
 title: "St. Andrews Golf Club (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBKGKGWGY](/stripes/wbkgkgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1g3lb1g5k1g1k9db12w1/)
+(the same proportion at any scale), whose colour order is pattern [WBKGKGWGY](/stripes/wbkgkgwgy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10643/
 

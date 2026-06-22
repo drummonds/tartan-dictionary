@@ -2,9 +2,10 @@
 title: "Williams of Wales"
 date: 2023-03-18
 ---
-In pattern [GKRGRKRGRKRGRYRYRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgryryrgrkrgrkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr30dg2dr3k2dr6dg1dr6k2dr3dg2dr13y2dr26y2dr13dg2dr3k2dr6dg1dr6k2dr3dg2dr30k2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GKRGRKRGRKRGRYRYRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgryryrgrkrgrkrgrk/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5153
 

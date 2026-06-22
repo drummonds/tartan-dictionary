@@ -2,18 +2,20 @@
 title: "Racing Stewart"
 date: 2023-03-18
 ---
-In pattern [BWKWKWKGRW](/stripes/bwkwkwkgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db54n3k5n1k2n1k2g8dr8n2/)
+(the same proportion at any scale), whose colour order is pattern [BWKWKWKGRW](/stripes/bwkwkwkgrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/1995 — Racing Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940))
-- pre 1997 — Racing Stewart (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2306/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1995 — Racing Stewart (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3940">record</a>)</li>
+<li>pre 1997 — Racing Stewart (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2306/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

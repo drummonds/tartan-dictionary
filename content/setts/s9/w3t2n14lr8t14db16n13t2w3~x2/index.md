@@ -2,9 +2,10 @@
 title: "Caitriot"
 date: 2023-03-18
 ---
-In pattern [WBBBBYBBW](/stripes/wbbbbybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3b2na14n8b14db16na13b2w3/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBYBBW](/stripes/wbbbbybbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11111
 

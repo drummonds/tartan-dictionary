@@ -2,9 +2,10 @@
 title: "Kang Personal Tartan Tartan Number: 7425. Earliest known date: 2007 Designed by Catriona Duffy and David Kang See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KKKKKKYKWKW](/stripes/kkkkkkykwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/rb44k3rb3k3rb3k14yc4k3ln2k2ln2/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKYKWKW](/stripes/kkkkkkykwkw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7425
 

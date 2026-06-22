@@ -2,9 +2,10 @@
 title: "Ogilvie #3"
 date: 2023-03-18
 ---
-In pattern [RKRKYBYKRWRWRKYBWBYKRKRWKWRWKWRKRKYBY](/stripes/rkrkybykrwrwrkybwbykrkrwkwrwkwrkrkyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6k6r6k6y7b7y7k8r6ln5r6ln5r6k8y8b8ln7b7y7k8r8k8r15ln2k2ln2r14ln2k2ln2r14k8r8k8y6b6y6/)
+(the same proportion at any scale), whose colour order is pattern [RKRKYBYKRWRWRKYBWBYKRKRWKWRWKWRKRKYBY](/stripes/rkrkybykrwrwrkybwbykrkrwkwrwkwrkrkyby/).
 
-This was sourced from register-of-tartans.  It is a [37 stripe tartan](/stripes/stripes37/).
+Sourced from register-of-tartans.  It is a [37 stripe tartan](/stripes/stripes37/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3224
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ogilvie #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ogilvie #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3224))
-- undated — Ogilvie 5 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvie #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3224">record</a>)</li>
+<li>undated — Ogilvie 5 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

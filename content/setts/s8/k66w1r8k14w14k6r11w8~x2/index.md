@@ -2,9 +2,10 @@
 title: "University of Cincinnati"
 date: 2023-03-18
 ---
-In pattern [KWRKWKRW](/stripes/kwrkwkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k66w1r8k14w14k6r11w8/)
+(the same proportion at any scale), whose colour order is pattern [KWRKWKRW](/stripes/kwrkwkrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11224/
 

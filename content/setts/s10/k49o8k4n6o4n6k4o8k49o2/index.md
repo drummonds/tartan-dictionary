@@ -2,9 +2,10 @@
 title: "Harley Davidson"
 date: 2023-03-18
 ---
-In pattern [KRKBRBKRKR](/stripes/krkbrbkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k49do8k4n6na4n6k4do8k49na2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBRBKRKR](/stripes/krkbrbkrkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1599
 

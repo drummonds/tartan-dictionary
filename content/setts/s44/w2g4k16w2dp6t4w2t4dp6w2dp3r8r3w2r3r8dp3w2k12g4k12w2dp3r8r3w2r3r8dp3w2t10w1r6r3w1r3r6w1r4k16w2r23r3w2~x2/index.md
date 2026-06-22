@@ -2,9 +2,10 @@
 title: "Aberdeen District Tartan Tartan Number: 1801. Earliest known date: pre 1794 There is evidence to suggest that the sett was introduced and named by Wilsons of Bannockburn during the period 1746-82 when tartan was proscribed by law. Aberdeen is one of Scotlands oldest district tartans. The first documentary evidence is contained in a purchase order, addressed to Wilson's, from Scott and Anderson, dated 20th June 1794. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWRKWRRW](/stripes/wgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwrkwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2g4k16ln2p6b4ln2b4p6ln2p3r8do3ln2do3r8p3ln2k12g4k12ln2p3r8do3ln2do3r8p3ln2b10ln1r6do3ln1do3r6ln1do4k16ln2r23do3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWRKWRRW](/stripes/wgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwrkwrrw/).
 
-This was sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from house-of-tartan.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1801
 

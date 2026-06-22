@@ -2,9 +2,10 @@
 title: "MacDuff Hunting Clan Tartan Tartan Number: 1654. Earliest known date: 1906 STS records (sic) 'Sett may be quite wrong. (S.S. May 86)' See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGGKBGR](/stripes/grggkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t8r1t8g8k8db8t8r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGGKBGR](/stripes/grggkbgr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1654
 

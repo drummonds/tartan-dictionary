@@ -2,9 +2,10 @@
 title: "Stewart of Appin Htg (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r3g3r5g26t7b3db28r3db6/)
+(the same proportion at any scale), whose colour order is pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/430/
 

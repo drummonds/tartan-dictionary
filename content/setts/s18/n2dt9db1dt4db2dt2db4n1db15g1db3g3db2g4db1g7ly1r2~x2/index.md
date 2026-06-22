@@ -2,9 +2,10 @@
 title: "Glaz (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBGBGBGBGYR](/stripes/bbbbbbbbbgbgbgbgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dba9db1dba4db2dba2db4n1db15g1db3g3db2g4db1g7y1r2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBGBGBGBGYR](/stripes/bbbbbbbbbgbgbgbgyr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10774/
 

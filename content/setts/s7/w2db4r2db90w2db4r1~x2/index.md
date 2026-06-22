@@ -2,18 +2,20 @@
 title: "Spirit of Ulster"
 date: 2023-03-18
 ---
-In pattern [RBWBRBW](/stripes/rbwbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2db4r2db90ln2db4r1/)
+(the same proportion at any scale), whose colour order is pattern [RBWBRBW](/stripes/rbwbrbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2007 — Spirit of Ulster (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866))
-- March 2007 — Spirit of Ulster (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7194/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2007 — Spirit of Ulster (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3866">record</a>)</li>
+<li>March 2007 — Spirit of Ulster (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7194/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

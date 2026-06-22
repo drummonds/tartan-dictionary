@@ -2,9 +2,10 @@
 title: "Juchter (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWR](/stripes/gwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg20ln5r3/)
+(the same proportion at any scale), whose colour order is pattern [GWR](/stripes/gwr/).
 
-This was sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3092/
 

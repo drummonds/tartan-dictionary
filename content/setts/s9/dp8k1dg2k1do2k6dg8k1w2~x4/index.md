@@ -2,9 +2,10 @@
 title: "Coffield-Limesand (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKBKGKW](/stripes/bkgkbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp8kb1k2kb1ka2kb6k8kb1lr2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKGKW](/stripes/bkgkbkgkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10596
 

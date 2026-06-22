@@ -2,9 +2,10 @@
 title: "Pringle"
 date: 2023-03-18
 ---
-In pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g64y4g4k6db4y4db56ln4db4ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGYGKBYBWBW](/stripes/rgygkbybwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3410
 

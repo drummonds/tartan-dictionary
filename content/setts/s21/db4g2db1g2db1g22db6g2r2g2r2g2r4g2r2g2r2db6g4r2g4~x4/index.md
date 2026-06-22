@@ -2,9 +2,10 @@
 title: "Matheson Hunting (Highland Society of London)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGRGRGRGRGRBGRG](/stripes/bgbgbgbgrgrgrgrgrbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g2db1g2db1g22db6g2r2g2r2g2r4g2r2g2r2db6g4r2g4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGRGRGRGRGRBGRG](/stripes/bgbgbgbgrgrgrgrgrbgrg/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5061
 

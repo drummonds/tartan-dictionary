@@ -2,9 +2,10 @@
 title: "Commonwealth, Games 1986"
 date: 2023-03-18
 ---
-In pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12ln4r12ln5k4ln12b20r4b5r4/)
+(the same proportion at any scale), whose colour order is pattern [BWRWKWBRBR](/stripes/bwrwkwbrbr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Commonwealth, Games 1986
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Commonwealth, Games 1986 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Commonwealth Games 1986 Special Event Tartan Tartan Number: 655. Earliest known date: 1984 Used in the uniforms of Games Officials. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=655))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Commonwealth, Games 1986 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Commonwealth Games 1986 Special Event Tartan Tartan Number: 655. Earliest known date: 1984 Used in the uniforms of Games Officials. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=655">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/24 LN8 R24 LN10 K8 LN24 B40 R8 B10 R/8

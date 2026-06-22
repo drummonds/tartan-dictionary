@@ -2,18 +2,20 @@
 title: "MacInnes Homecoming"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKBKBKR](/stripes/rbkbkbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3k19dn2k2dn2k2dn18k3db3k3dn23r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKBKBKR](/stripes/rbkbkbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/12/2008 — MacInnes Homecoming (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772))
-- Dec. 2008 — MacInnes Homecoming (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7815/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/12/2008 — MacInnes Homecoming (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5772">record</a>)</li>
+<li>Dec. 2008 — MacInnes Homecoming (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7815/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

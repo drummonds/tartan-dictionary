@@ -2,9 +2,10 @@
 title: "Red, White, Blue Watch (Dance)"
 date: 2023-03-18
 ---
-In pattern [RKRKKKKKRKRKR](/stripes/rkrkkkkkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12k2dr2k2dr2k10bb12k3bb12k10dr12k2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKKKKKRKRKR](/stripes/rkrkkkkkrkrkr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5424/
 

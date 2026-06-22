@@ -2,9 +2,10 @@
 title: "Hunter (Wilsons1819)"
 date: 2023-03-18
 ---
-In pattern [WRWKWWWGGGGGGYRWRYGGWRWGWWWGKWWWRW](/stripes/wrwkwwwggggggyrwryggwrwgwwwgkwwwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2r8w2k15w2lb5w2g20t2g4t2g20t3y3r2w2r2y3t3g20w2r32w2g20w2lb5w2t4k15w2lb5w2r8w2/)
+(the same proportion at any scale), whose colour order is pattern [WRWKWWWGGGGGGYRWRYGGWRWGWWWGKWWWRW](/stripes/wrwkwwwggggggyrwryggwrwgwwwgkwwwrw/).
 
-This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1866/
 

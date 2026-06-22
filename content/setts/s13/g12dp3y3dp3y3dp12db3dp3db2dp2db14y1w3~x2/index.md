@@ -2,9 +2,10 @@
 title: "Scottish Tourist Guides Association"
 date: 2023-03-18
 ---
-In pattern [GBGBGBBBBBBGW](/stripes/gbgbgbbbbbbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12p3n3p3n3p12db3p3db2p2db14lg1w3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBBBBBBGW](/stripes/gbgbgbbbbbbgw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10138
 

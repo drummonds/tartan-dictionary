@@ -2,9 +2,10 @@
 title: "Drummond of Perth Dress #3"
 date: 2023-03-18
 ---
-In pattern [RYBWWRBWW](/stripes/rybwwrbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r67y3n6na3ln25r10n6na7ln3/)
+(the same proportion at any scale), whose colour order is pattern [RYBWWRBWW](/stripes/rybwwrbww/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=991
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Drummond of Perth, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Drummond of Perth Dress #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=991))
-- undated — Drummond of Perth, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond of Perth Dress #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=991">record</a>)</li>
+<li>undated — Drummond of Perth, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

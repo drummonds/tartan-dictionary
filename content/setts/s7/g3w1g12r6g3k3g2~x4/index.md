@@ -2,9 +2,10 @@
 title: "Arkansas"
 date: 2023-03-18
 ---
-In pattern [GKGRGWG](/stripes/gkgrgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3w1ga12r6ga3k3ga2/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGWG](/stripes/gkgrgwg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=112
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Arkansas State
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1998 — Arkansas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=112))
-- 1998 — Arkansas (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2678/))
-- undated — Arkansas State American District Tartan Tartan Number: 2678. Earliest known date: 1998 The official Arkansas state tartan. At one time there were two other contenders for this honour but this database only has details of one other - # 3264. Green represents the "Natural State" (the State's nickname), red the original settlers, white for the diamonds and black for the rich oil reserves. Approved by State Governor Mike Huckabee in the State Captal of Little Rock on 1st September, 1998. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2678))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Arkansas (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=112">record</a>)</li>
+<li>1998 — Arkansas (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2678/">record</a>)</li>
+<li>undated — Arkansas State American District Tartan Tartan Number: 2678. Earliest known date: 1998 The official Arkansas state tartan. At one time there were two other contenders for this honour but this database only has details of one other - # 3264. Green represents the "Natural State" (the State's nickname), red the original settlers, white for the diamonds and black for the rich oil reserves. Approved by State Governor Mike Huckabee in the State Captal of Little Rock on 1st September, 1998. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2678">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

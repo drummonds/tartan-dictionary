@@ -2,9 +2,10 @@
 title: "Prince of Denmark (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBWRGRGR](/stripes/bwbwrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52g2r2g2r3ln3db2ln2db2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWRGRGR](/stripes/bwbwrgrgr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2377/
 

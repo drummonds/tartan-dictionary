@@ -2,18 +2,20 @@
 title: "Glen Elg"
 date: 2023-03-18
 ---
-In pattern [GRGWGRWGWGWGWGGWGWGWGR](/stripes/grgwgrwgwgwgwggwgwgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2lg1g32ln1g6lg1ln1g3ln2ga1ln2g2ln2ga2g3ln1ga3ln4ga1ln4g1lg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGWGRWGWGWGWGGWGWGWGR](/stripes/grgwgrwgwgwgwggwgwgwgr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Glen Elg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374))
-- pre 2002 — Glen Elg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5004/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Glen Elg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1374">record</a>)</li>
+<li>pre 2002 — Glen Elg (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5004/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

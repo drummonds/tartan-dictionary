@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rbrgry/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">RBRGRY</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/r5db10r5dg5r25ly1~x4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RBRGRY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

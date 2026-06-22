@@ -2,9 +2,10 @@
 title: "MacArthur Fox Green (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBYKBKBR](/stripes/kbkbykbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db4k2db31k10y3db5k11db6k3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBYKBKBR](/stripes/kbkbykbkbr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10927/
 

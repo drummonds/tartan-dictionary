@@ -2,9 +2,10 @@
 title: "Hayden, Thomas (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGWYGBGGGY](/stripes/ggwygbgggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga60g5ln5y5g5p4g5ga5g1y5/)
+(the same proportion at any scale), whose colour order is pattern [GGWYGBGGGY](/stripes/ggwygbgggy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10378/
 

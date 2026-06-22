@@ -2,9 +2,10 @@
 title: "New Brunswick (CIDD 28101)"
 date: 2023-03-18
 ---
-In pattern [KRGRGRGRGRGRGRGRKYKGKGKGKGKGKGKGKYGY](/stripes/krgrgrgrgrgrgrgrkykgkgkgkgkgkgkgkygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg50dg16lg8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40lg12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGRGRGRGRGRGRKYKGKGKGKGKGKGKGKYGY](/stripes/krgrgrgrgrgrgrgrkykgkgkgkgkgkgkgkygy/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5702
 

@@ -2,9 +2,10 @@
 title: "State Seal of Oregon (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKYKBKBKBKYBY](/stripes/bkykbkbkbkyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4b5lt11k7b4k5b4k17b34k3dy3k7b4/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBKBKBKYBY](/stripes/bkykbkbkbkyby/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8651/
 

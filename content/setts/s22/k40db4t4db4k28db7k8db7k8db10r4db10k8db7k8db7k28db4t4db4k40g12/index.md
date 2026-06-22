@@ -2,9 +2,10 @@
 title: "Pride (Wales)"
 date: 2023-03-18
 ---
-In pattern [GKBBBKBKBKBRBKBKBKBBBK](/stripes/gkbbbkbkbkbrbkbkbkbbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40db4b4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4b4db4k40g12/)
+(the same proportion at any scale), whose colour order is pattern [GKBBBKBKBKBRBKBKBKBBBK](/stripes/gkbbbkbkbkbrbkbkbkbbbk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3370
 

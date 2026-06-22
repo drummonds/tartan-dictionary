@@ -2,9 +2,10 @@
 title: "Wilson's No.113"
 date: 2023-03-18
 ---
-In pattern [GBWBGR](/stripes/gbwbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dp3ln1dp3g3r1/)
+(the same proportion at any scale), whose colour order is pattern [GBWBGR](/stripes/gbwbgr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4680
 

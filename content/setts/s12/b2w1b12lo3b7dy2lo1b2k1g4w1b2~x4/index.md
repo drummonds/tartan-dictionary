@@ -2,18 +2,20 @@
 title: "Fife (Mann)"
 date: 2023-03-18
 ---
-In pattern [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2w1b12dy3b7t2dy1b2k1g4w1b2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBGYBKGWB](/stripes/bwbybgybkgwb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/1992 — Fife (Mann) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179))
-- Mar 1992 — Fife (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6159/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/1992 — Fife (Mann) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1179">record</a>)</li>
+<li>Mar 1992 — Fife (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6159/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

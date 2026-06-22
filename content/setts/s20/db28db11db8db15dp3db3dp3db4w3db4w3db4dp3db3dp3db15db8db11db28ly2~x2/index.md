@@ -2,9 +2,10 @@
 title: "Kilmarnock Football Club (2005)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBWBWBBBBBBBBY](/stripes/bbbbbbbbwbwbbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba28db11dba8db15p3db3p3db4ln3db4ln3db4p3db3p3db15dba8db11dba28y2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBWBWBBBBBBBBY](/stripes/bbbbbbbbwbwbbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1974
 

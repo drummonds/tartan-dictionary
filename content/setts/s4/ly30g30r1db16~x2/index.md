@@ -2,9 +2,10 @@
 title: "Barber Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGY](/stripes/brgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y30g30r1db16/)
+(the same proportion at any scale), whose colour order is pattern [BRGY](/stripes/brgy/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10535/
 

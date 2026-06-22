@@ -2,9 +2,10 @@
 title: "Waipu (District)"
 date: 2023-03-18
 ---
-In pattern [GBRBKYBYKBGW](/stripes/gbrbkybykbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16db7r2db7k5y2p1y2k5db16g8ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBRBKYBYKBGW](/stripes/gbrbkybykbgw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6510/
 

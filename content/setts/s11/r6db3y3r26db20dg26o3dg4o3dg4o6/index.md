@@ -2,9 +2,10 @@
 title: "Bonnie Brae"
 date: 2023-03-18
 ---
-In pattern [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt6dg4lt3dg4lt3dg26db20dr26lg3db3dra6/)
+(the same proportion at any scale), whose colour order is pattern [RBGRBGRGRGR](/stripes/rbgrbgrgrgr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

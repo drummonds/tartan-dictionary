@@ -2,9 +2,10 @@
 title: "Dyce"
 date: 2023-03-18
 ---
-In pattern [KYGKBW](/stripes/kygkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2y1g6k6b6ln1/)
+(the same proportion at any scale), whose colour order is pattern [KYGKBW](/stripes/kygkbw/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dyce #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Dyce (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Dyce Family Tartan Tartan Number: 1266. Earliest known date: 1880 From Ross-Craven research. Black guards on the white. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1266))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Dyce (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Dyce Family Tartan Tartan Number: 1266. Earliest known date: 1880 From Ross-Craven research. Black guards on the white. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1266">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 Y4 G24 K24 B24 LN/4

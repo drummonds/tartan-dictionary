@@ -2,9 +2,10 @@
 title: "Cochrane Hunting"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGBRGRGY](/stripes/grgrgrgrgbrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g46r6g6r2g8r2g6r2g6t36r2lg47r6lg24o6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGBRGRGY](/stripes/grgrgrgrgbrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11165
 

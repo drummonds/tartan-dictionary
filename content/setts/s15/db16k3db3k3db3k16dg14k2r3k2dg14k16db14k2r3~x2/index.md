@@ -2,9 +2,10 @@
 title: "77th Regiment"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k3db3k3db3k16g14k2r3k2g14k16db14k2r3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKR](/stripes/bkbkbkgkrkgkbkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8414/
 

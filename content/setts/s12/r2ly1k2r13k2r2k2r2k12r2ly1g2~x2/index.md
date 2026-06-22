@@ -2,19 +2,21 @@
 title: "Hallingdal (District)"
 date: 2023-03-18
 ---
-In pattern [GYRKRKRKRKYR](/stripes/gyrkrkrkrkyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2y1k2r13k2r2k2r2k12r2y1g2/)
+(the same proportion at any scale), whose colour order is pattern [GYRKRKRKRKYR](/stripes/gyrkrkrkrkyr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1021/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1970 — Hallingdal (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1021/))
-- undated — Hallingdal (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hallingdal District Tartan Tartan Number: 1021. Earliest known date: 1970 Hallingdal is a secluded valley in central Norway. This pattern was produced around 1970 and is similar but not identical to much older specimens. Erik Paulsen (MSTS) says that in Hallingdal there is a living tradition of tartan, but he can find no concrete evidence of Scottish influence in this area. Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1021))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1970 — Hallingdal (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1021/">record</a>)</li>
+<li>undated — Hallingdal (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hallingdal District Tartan Tartan Number: 1021. Earliest known date: 1970 Hallingdal is a secluded valley in central Norway. This pattern was produced around 1970 and is similar but not identical to much older specimens. Erik Paulsen (MSTS) says that in Hallingdal there is a living tradition of tartan, but he can find no concrete evidence of Scottish influence in this area. Plain weave. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1021">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 Y2 K4 R26 K4 R4 K4 R4 K24 R4 Y2 G/4

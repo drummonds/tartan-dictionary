@@ -2,9 +2,10 @@
 title: "Life Goes On Foundation (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKBYBKBWBWY](/stripes/bkbkbybkbwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8na17p5na5p5k10p5n5p32k5p5k4p6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBYBKBWBWY](/stripes/bkbkbybkbwbwy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8033/
 

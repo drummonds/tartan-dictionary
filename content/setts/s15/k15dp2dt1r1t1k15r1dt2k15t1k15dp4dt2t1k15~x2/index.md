@@ -2,9 +2,10 @@
 title: "GOLF (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBBBKBKBRKBRBBK](/stripes/kbbbkbkbrkbrbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15dp2dn1r1b1k15r1dn2k15b1k15dp4dn2b1k15/)
+(the same proportion at any scale), whose colour order is pattern [KBBBKBKBRKBRBBK](/stripes/kbbbkbkbrkbrbbk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10698/
 

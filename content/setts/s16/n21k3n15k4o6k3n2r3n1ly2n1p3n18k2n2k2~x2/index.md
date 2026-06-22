@@ -2,9 +2,10 @@
 title: "Pounds"
 date: 2023-03-18
 ---
-In pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b21k3b15k4n6k3b2dr3b1o2b1p3b18k2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKBRBYBBBKBK](/stripes/bkbkrkbrbybbbkbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10070
 

@@ -2,9 +2,10 @@
 title: "Glassary (Initial)"
 date: 2023-03-18
 ---
-In pattern [WRGRWKWRKGKGKWBWKGKGKYWKWYGYW](/stripes/wrgrwkwrkgkgkwbwkgkgkywkwygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r2g3r6ln1k1ln1r6k1g3k1t4k1ln1b2ln1k1t4k1g3k1y6ln1k1ln1y6g3y2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRGRWKWRKGKGKWBWKGKGKYWKWYGYW](/stripes/wrgrwkwrkgkgkwbwkgkgkywkwygyw/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1364
 

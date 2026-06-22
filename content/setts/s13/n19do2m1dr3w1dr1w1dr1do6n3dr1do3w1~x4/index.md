@@ -2,9 +2,10 @@
 title: "Leando Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBRBWBWBBBBBW](/stripes/bbrbwbwbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n19dra2r1dr3ln1dr1ln1dr1dra6n3dr1dra3ln1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBWBWBBBBBW](/stripes/bbrbwbwbbbbbw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10368/
 

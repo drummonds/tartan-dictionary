@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/brr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">BRR</span></div>
+
 It is a 3 stripe tartan.
 
-![Woven sample](/setts/s3/b10r10r3~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BRR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

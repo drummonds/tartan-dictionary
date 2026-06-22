@@ -2,9 +2,10 @@
 title: "Wilson's, No 220"
 date: 2023-03-18
 ---
-In pattern [BKGW](/stripes/bkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p8k11g9ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKGW](/stripes/bkgw/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

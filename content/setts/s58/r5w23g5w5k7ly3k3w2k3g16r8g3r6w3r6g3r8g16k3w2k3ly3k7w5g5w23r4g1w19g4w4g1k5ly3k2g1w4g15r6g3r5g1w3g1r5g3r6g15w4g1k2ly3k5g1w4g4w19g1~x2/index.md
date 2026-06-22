@@ -2,9 +2,10 @@
 title: "Victoria, Highland dress"
 date: 2023-03-18
 ---
-In pattern [GWGWGKYKGWGRGRGWGRGRGWGKYKGWGWGRWGWKYKWKGRGRWRGRGKWKYKWGWR](/stripes/gwgwgkykgwgrgrgwgrgrgwgkykgwgwgrwgwkykwkgrgrwrgrgkwkykwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5ln23g5ln5k7y3k3ln2k3ga16r8ga3r6ln3r6ga3r8ga16k3ln2k3y3k7ln5g5ln23r4ga1ln19g4ln4g1k5y3k2g1ln4ga15r6ga3r5ga1ln3ga1r5ga3r6ga15ln4g1k2y3k5g1ln4g4ln19ga1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGKYKGWGRGRGWGRGRGWGKYKGWGWGRWGWKYKWKGRGRWRGRGKWKYKWGWR](/stripes/gwgwgkykgwgrgrgwgrgrgwgkykgwgwgrwgwkykwkgrgrwrgrgkwkykwgwr/).
 
-This was sourced from weddslist.  It is a [58 stripe tartan](/stripes/stripes58/).
+Sourced from weddslist.  It is a [58 stripe tartan](/stripes/stripes58/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

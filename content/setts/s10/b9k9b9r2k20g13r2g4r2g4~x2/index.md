@@ -2,18 +2,20 @@
 title: "Newlands of Lauriston"
 date: 2023-03-18
 ---
-In pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9k9b9r2k20g13r2g4r2g4/)
+(the same proportion at any scale), whose colour order is pattern [BKBRKGRGRG](/stripes/bkbrkgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/1986 — Newlands of Lauriston (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128))
-- March 1986 — Newlands of Lauriston (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2175/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/1986 — Newlands of Lauriston (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3128">record</a>)</li>
+<li>March 1986 — Newlands of Lauriston (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2175/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

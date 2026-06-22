@@ -2,18 +2,20 @@
 title: "Jubilee (Artefact)"
 date: 2023-03-18
 ---
-In pattern [GWGWGRGWGWGYGWGWG](/stripes/gwgwgrgwgwgygwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3lp24g8lp12g44dr6g44lp48g6lp48g44dy6g44lp12g8lp24g3/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGRGWGWGYGWGWG](/stripes/gwgwgrgwgwgygwgwg/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1911/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1936 — Jubilee (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1911/))
-- 01/04/1950 — Jubilee (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1936 — Jubilee (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1911/">record</a>)</li>
+<li>01/04/1950 — Jubilee (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1911">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

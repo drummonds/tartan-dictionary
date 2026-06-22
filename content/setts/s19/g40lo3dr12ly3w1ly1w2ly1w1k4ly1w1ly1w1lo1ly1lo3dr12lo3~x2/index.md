@@ -2,9 +2,10 @@
 title: "Tenon Tours"
 date: 2023-03-18
 ---
-In pattern [GYBYWYWYWKYWYWYYYBY](/stripes/gybywywywkywywyyyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40dy3dr12y3w1y1w2y1w1k4y1w1y1w1dy1y1dy3dr12dy3/)
+(the same proportion at any scale), whose colour order is pattern [GYBYWYWYWKYWYWYYYBY](/stripes/gybywywywkywywyyyby/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10990
 

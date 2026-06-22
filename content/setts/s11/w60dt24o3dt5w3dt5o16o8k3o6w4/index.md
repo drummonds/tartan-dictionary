@@ -2,9 +2,10 @@
 title: "Glenmore Pink"
 date: 2023-03-18
 ---
-In pattern [WBRBWBRRKRW](/stripes/wbrbwbrrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly60k24na3k5ly3k5n16na8ka3na6ly4/)
+(the same proportion at any scale), whose colour order is pattern [WBRBWBRRKRW](/stripes/wbrbwbrrkrw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Glenmore, Pink
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Glenmore Pink (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429))
-- pre 1988 — Glenmore, Pink (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5042/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Glenmore Pink (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1429">record</a>)</li>
+<li>pre 1988 — Glenmore, Pink (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5042/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

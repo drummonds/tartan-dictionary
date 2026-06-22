@@ -2,9 +2,10 @@
 title: "Thormanby Buccaneer Bay"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBRBKGKGKGY](/stripes/gkgkgkbrbkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg17k2dg2k2dg2k15db15r7db15k15dg2k2dg2k2dg17y2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBRBKGKGKGY](/stripes/gkgkgkbrbkgkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10238
 

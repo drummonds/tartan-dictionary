@@ -2,9 +2,10 @@
 title: "Utah State University"
 date: 2023-03-18
 ---
-In pattern [WBKBBBKGBKW](/stripes/wbkbbbkgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w7ba10k7ba7b7ba45k21g21b4k4w7/)
+(the same proportion at any scale), whose colour order is pattern [WBKBBBKGBKW](/stripes/wbkbbbkgbkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10817
 

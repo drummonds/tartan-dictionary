@@ -2,9 +2,10 @@
 title: "Moggach (Strathspey)"
 date: 2023-03-18
 ---
-In pattern [KBBYKRKBKBK](/stripes/kbbykrkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n4k4n18k9r2k9na1n18b2k3/)
+(the same proportion at any scale), whose colour order is pattern [KBBYKRKBKBK](/stripes/kbbykrkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10875
 

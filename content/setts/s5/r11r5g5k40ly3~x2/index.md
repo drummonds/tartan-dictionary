@@ -2,18 +2,20 @@
 title: "MacShimsi"
 date: 2023-03-18
 ---
-In pattern [RRGKY](/stripes/rrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r11dr5g5k40y3/)
+(the same proportion at any scale), whose colour order is pattern [RRGKY](/stripes/rrgky/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — MacShimsi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763))
-- pre 2007 — MacShimsi (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7318/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — MacShimsi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2763">record</a>)</li>
+<li>pre 2007 — MacShimsi (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7318/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

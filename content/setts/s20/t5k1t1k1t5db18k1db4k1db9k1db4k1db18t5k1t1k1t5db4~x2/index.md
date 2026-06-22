@@ -2,9 +2,10 @@
 title: "Indigo Blue"
 date: 2023-03-18
 ---
-In pattern [BBKBKBBKBKBKBKBBKBKB](/stripes/bbkbkbbkbkbkbkbbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1b1k1b5dba18k1db4k1dba9k1db4k1dba18b5k1b1k1b5dba4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBBKBKBKBKBBKBKB](/stripes/bbkbkbbkbkbkbkbbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Indigo Blue Works
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Indigo Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823))
-- undated — Indigo Blue Works Corporate Tartan Tartan Number: 2352. Earliest known date: January 1997 Indigo Blue Works is a UK blue (indigo) denim material weaver and this tartan was designed to promote their products in the Japaneses market. (STS data). The tartan was launched at a filmed ceremony in Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2352))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Indigo Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1823">record</a>)</li>
+<li>undated — Indigo Blue Works Corporate Tartan Tartan Number: 2352. Earliest known date: January 1997 Indigo Blue Works is a UK blue (indigo) denim material weaver and this tartan was designed to promote their products in the Japaneses market. (STS data). The tartan was launched at a filmed ceremony in Pitlochry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2352">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

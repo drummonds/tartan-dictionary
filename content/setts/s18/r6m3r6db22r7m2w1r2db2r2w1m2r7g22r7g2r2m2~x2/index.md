@@ -2,9 +2,10 @@
 title: "MacColl Hunting"
 date: 2023-03-18
 ---
-In pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra6r3ra6db22ra7r2ln1ra2db2ra2ln1r2ra7g22ra7g2ra2r2/)
+(the same proportion at any scale), whose colour order is pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacColl Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1950 — MacColl Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319))
-- pre 1950 — MacColl - 1950 (Htg) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1637/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — MacColl Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2319">record</a>)</li>
+<li>pre 1950 — MacColl - 1950 (Htg) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1637/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

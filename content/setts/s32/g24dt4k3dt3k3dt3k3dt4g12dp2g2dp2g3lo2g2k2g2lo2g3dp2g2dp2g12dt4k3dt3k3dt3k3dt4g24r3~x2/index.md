@@ -2,9 +2,10 @@
 title: "Kennedy #3"
 date: 2023-03-18
 ---
-In pattern [GBKBKBKBGBGBGYGKGYGBGBGBKBKBKBGR](/stripes/gbkbkbkbgbgbgygkgygbgbgbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24n4k3n3k3n3k3n4g12p2g2p2g3dy2g2k2g2dy2g3p2g2p2g12n4k3n3k3n3k3n4g24r3/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBKBGBGBGYGKGYGBGBGBKBKBKBGR](/stripes/gbkbkbkbgbgbgygkgygbgbgbkbkbkbgr/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1944
 

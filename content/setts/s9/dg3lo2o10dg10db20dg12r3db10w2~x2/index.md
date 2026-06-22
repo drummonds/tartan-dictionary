@@ -2,9 +2,10 @@
 title: "Patel Name Tartan Tartan Number: 10924. Earliest known date: 2013 Designed for the Patel family using colours associated with the Gujarat, a state in the North-West coast of India known locally as Jewel of the West. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYRGBGRBW](/stripes/gyrgbgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3dy2dr10dg10b20dg12dra3b10ln2/)
+(the same proportion at any scale), whose colour order is pattern [GYRGBGRBW](/stripes/gyrgbgrbw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10924
 

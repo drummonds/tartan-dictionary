@@ -2,9 +2,10 @@
 title: "Stephenson Hunting Tartan Tartan Number: 770. Earliest known date: 1981 Based on an old and un-named sett in the records of Messrs Bolingbroke and Jones of Norwich, prior to 1870. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBKGKWKWKGKBKR](/stripes/gkbkgkwkwkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k3db25k25g25k3ln3k6ln3k3g25k25db25k3g5/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKWKWKGKBKR](/stripes/gkbkgkwkwkgkbkr/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=770
 

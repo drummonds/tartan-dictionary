@@ -2,9 +2,10 @@
 title: "Satchidananda (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWRYRWBYGYBWRYRW](/stripes/gwryrwbygybwryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t18y4b10ln2r20y5r2ln2t6/)
+(the same proportion at any scale), whose colour order is pattern [GWRYRWBYGYBWRYRW](/stripes/gwryrwbygybwryrw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3657
 

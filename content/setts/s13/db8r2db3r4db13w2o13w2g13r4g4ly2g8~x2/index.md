@@ -2,9 +2,10 @@
 title: "Bowie"
 date: 2023-03-18
 ---
-In pattern [BRBRBWRWGRGYG](/stripes/brbrbwrwgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8y2g4r4g13ln2t13ln2b13r4b3r2b8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWRWGRGYG](/stripes/brbrbwrwgrgyg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

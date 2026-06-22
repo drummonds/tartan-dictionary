@@ -2,9 +2,10 @@
 title: "Oban Grey District Tartan Tartan Number: 1237. Earliest known date: pre 2003 Not an official district but a name chosen by the weavers. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKRR](/stripes/kwkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln3k4n9r1/)
+(the same proportion at any scale), whose colour order is pattern [KWKRR](/stripes/kwkrr/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1237
 

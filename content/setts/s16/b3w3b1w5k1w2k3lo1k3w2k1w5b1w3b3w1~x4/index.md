@@ -2,9 +2,10 @@
 title: "Henderson Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3w3b1w5k1w2k3dy1k3w2k1w5b1w3b3w1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWKWKYKWKWBWBW](/stripes/bwbwkwkykwkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1684
 

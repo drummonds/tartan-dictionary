@@ -2,9 +2,10 @@
 title: "Royal Highland"
 date: 2023-03-18
 ---
-In pattern [BRBKBKGW](/stripes/brbkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dg17k10db3k3db17dr3db3/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBKGW](/stripes/brbkbkgw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3601
 

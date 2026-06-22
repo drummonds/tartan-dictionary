@@ -2,9 +2,10 @@
 title: "Michigan, State of (District)"
 date: 2023-03-18
 ---
-In pattern [GRGYGYWGWG](/stripes/grgygywgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18w1b4w1o4g1o2g12dr2g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGYWGWG](/stripes/grgygywgwg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3473/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Michigan, State of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Michigan, State of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3473/))
-- undated — Michigan State District Tartan Tartan Number: 3473. Earliest known date: 2002 Designed by Michigan weaver Kati Meek, this was originally called 'Michigan up North' referring to Upper Northern Michigan whose landscape inspired the colours. Scottish groups had been campaigning for years for a State tartan and the process of seeking State approval and adoption was initiated in February 2007 with increased pressure when Wisconsin became the latest Midwest state to adopt its own tartan, leaving Michigan as the only Great Lakes State without one. In 2010 Gov. Jennifer Granholm and Lt. Gov. John Cherry proclaimed the design to be the official Michigan State Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3473))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Michigan, State of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3473/">record</a>)</li>
+<li>undated — Michigan State District Tartan Tartan Number: 3473. Earliest known date: 2002 Designed by Michigan weaver Kati Meek, this was originally called 'Michigan up North' referring to Upper Northern Michigan whose landscape inspired the colours. Scottish groups had been campaigning for years for a State tartan and the process of seeking State approval and adoption was initiated in February 2007 with increased pressure when Wisconsin became the latest Midwest state to adopt its own tartan, leaving Michigan as the only Great Lakes State without one. In 2010 Gov. Jennifer Granholm and Lt. Gov. John Cherry proclaimed the design to be the official Michigan State Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3473">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/36 W2 B8 W2 O8 G2 O4 G24 DR4 G/8

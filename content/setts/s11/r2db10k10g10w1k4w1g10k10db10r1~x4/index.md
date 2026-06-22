@@ -2,9 +2,10 @@
 title: "Rose"
 date: 2023-03-18
 ---
-In pattern [RBKGWKWGKBR](/stripes/rbkgwkwgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db10k10g10ln1k4ln1g10k10db10r1/)
+(the same proportion at any scale), whose colour order is pattern [RBKGWKWGKBR](/stripes/rbkgwkwgkbr/).
 
-This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

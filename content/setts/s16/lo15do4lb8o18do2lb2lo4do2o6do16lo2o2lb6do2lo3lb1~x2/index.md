@@ -2,9 +2,10 @@
 title: "Setting Sun, The (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy15dr4n8o18dr2n2dy4dr2o6dr16dy2o2n6dr2dy3n1/)
+(the same proportion at any scale), whose colour order is pattern [WYBWRYBRBYWBRWBY](/stripes/wybwrybrbywbrwby/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3199/
 

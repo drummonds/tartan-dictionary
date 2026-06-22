@@ -2,9 +2,10 @@
 title: "Grey Watch"
 date: 2023-03-18
 ---
-In pattern [GKGKGWKWKGKG](/stripes/gkgkgwkwkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n25k4n4k4n4ln20k5ln20k20n4k4n4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGWKWKGKG](/stripes/gkgkgwkwkgkg/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

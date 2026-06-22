@@ -2,9 +2,10 @@
 title: "Nithsdale"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga10dr2g2dr6g16dr1g2dr1g3dr6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGR](/stripes/grgrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3142
 

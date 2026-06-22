@@ -2,9 +2,10 @@
 title: "Fraser Hunting Dress Clan Tartan Tartan Number: 603. Earliest known date: pre 2003 In the Hunting Fraser, brown replaces the red of the Clan sett. The late Charles Ian Fraser of Reeling said, in his publication, \"Clan Fraser\", that this sett was designed by the Sobieski Stuart brothers at the request of Lord Lovat for use by the Inverness and Nairn militia. A letter to Lord Lovat from the War Office, c.1855, authorised the use of the Fraser tartan for the corps. The tartan is worn by the Boghall & Bathgate pipe bands. (Strathallan 1994) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGGWGWGGGR](/stripes/bgggwgwgggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4t24g17t3ln18t3ln18t3g17t24r4/)
+(the same proportion at any scale), whose colour order is pattern [BGGGWGWGGGR](/stripes/bgggwgwgggr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=603
 

@@ -2,9 +2,10 @@
 title: "Rose Hunting Clan Tartan Tartan Number: 1226. Earliest known date: 1831 First recorded in James Logan's, 'The Scottish Gael' in 1831. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWGKBR](/stripes/kwgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln1g10k10db10r2/)
+(the same proportion at any scale), whose colour order is pattern [KWGKBR](/stripes/kwgkbr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1226
 

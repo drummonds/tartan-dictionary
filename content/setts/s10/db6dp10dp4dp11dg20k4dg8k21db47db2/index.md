@@ -2,9 +2,10 @@
 title: "Spirit of Alva (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBGKGKBB](/stripes/bbbbgkgkbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6p10dp4p11g20k4g8k21dba47db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGKGKBB](/stripes/bbbbgkgkbb/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6514/
 

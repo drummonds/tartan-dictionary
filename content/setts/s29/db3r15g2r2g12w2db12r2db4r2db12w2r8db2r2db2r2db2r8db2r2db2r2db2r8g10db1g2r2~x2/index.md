@@ -2,9 +2,10 @@
 title: "Summerville Presbyterian Church (Cor"
 date: 2023-03-18
 ---
-In pattern [BRGRGWBRBRBWRBRBRBRBRBRBRGBGR](/stripes/brgrgwbrbrbwrbrbrbrbrbrbrgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3r15g2r2g12w2db12r2db4r2db12w2r8db2r2db2r2db2r8db2r2db2r2db2r8g10db1g2r2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGWBRBRBWRBRBRBRBRBRBRGBGR](/stripes/brgrgwbrbrbwrbrbrbrbrbrbrgbgr/).
 
-This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8390/
 

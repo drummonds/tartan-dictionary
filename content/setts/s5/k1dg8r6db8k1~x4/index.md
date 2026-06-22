@@ -2,18 +2,20 @@
 title: "Edinburgh Military Tattoo 50th"
 date: 2023-03-18
 ---
-In pattern [KBRGK](/stripes/kbrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dg8r6db8k1/)
+(the same proportion at any scale), whose colour order is pattern [KBRGK](/stripes/kbrgk/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Edinburgh Military Tattoo 50th (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960))
-- undated — Edinburgh Military Tattoo 50th Military Tartan Tartan Number: 3614. Earliest known date: 1998 Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Edinburgh Military Tattoo 50th (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4960">record</a>)</li>
+<li>undated — Edinburgh Military Tattoo 50th Military Tartan Tartan Number: 3614. Earliest known date: 1998 Based on a Wilsons of Bannockburn sett, designed by Peter MacDonald in 1998 for the Edinburgh Military Tattoo to celebrate their 50th anniversary in 2000. The colours depict the three military forces - Navy, Army & Air Force with the black from Edinburgh's heraldic arms. Launched on June 16th 1999 in time for the final Tattoo of the 20th century. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3614">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

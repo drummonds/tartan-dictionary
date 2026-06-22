@@ -2,9 +2,10 @@
 title: "Hanna of Stirlingshire (Clan)"
 date: 2023-03-18
 ---
-In pattern [RKYKYKYKBY](/stripes/rkykykykby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1k1n2k2n2k1n4k1db9dy1/)
+(the same proportion at any scale), whose colour order is pattern [RKYKYKYKBY](/stripes/rkykykykby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5150/
 

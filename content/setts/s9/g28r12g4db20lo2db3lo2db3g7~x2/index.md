@@ -2,9 +2,10 @@
 title: "Cork Irish County Tartan Tartan Number: 2253. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBYBYBGRG](/stripes/gbybybgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28dr12g4db20dy2db3dy2db3g7/)
+(the same proportion at any scale), whose colour order is pattern [GBYBYBGRG](/stripes/gbybybgrg/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2253
 

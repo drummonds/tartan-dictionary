@@ -2,9 +2,10 @@
 title: "MacDonald Lord of the Isles Portrait Tartan Tartan Number: 618. Earliest known date: pre 1893 From a painting in Armadale Castle, discovered by D. W. Stewart for his book, 'Old and Rare Scottish Tartans' published in 1893. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24ln1g2ln2db2ln1db12ln1db2ln2db2ln1db12/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWGWG](/stripes/bwbwbwbwbwgwg/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=618
 

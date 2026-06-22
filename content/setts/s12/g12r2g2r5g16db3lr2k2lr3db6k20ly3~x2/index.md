@@ -2,9 +2,10 @@
 title: "Kelsey, William (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGRGBYKYBKY](/stripes/grgrgbykybky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r2g2r5g16b3n2k2n3b6k20dy3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBYKYBKY](/stripes/grgrgbykybky/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11198
 

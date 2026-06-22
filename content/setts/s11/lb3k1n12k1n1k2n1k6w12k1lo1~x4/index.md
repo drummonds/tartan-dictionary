@@ -2,9 +2,10 @@
 title: "McCandlish Arisaid, Grey (Name)"
 date: 2023-03-18
 ---
-In pattern [WKBKBKBKWKY](/stripes/wkbkbkbkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp3k1n12k1n1k2n1k6ln12k1dy1/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBKBKWKY](/stripes/wkbkbkbkwky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8232/
 

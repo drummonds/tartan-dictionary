@@ -2,9 +2,10 @@
 title: "Ofsharick, Matthew (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWYRGBWBR](/stripes/kwyrgbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n55b8w8b8g5n8y4w4k4/)
+(the same proportion at any scale), whose colour order is pattern [KWYRGBWBR](/stripes/kwyrgbwbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11209/
 

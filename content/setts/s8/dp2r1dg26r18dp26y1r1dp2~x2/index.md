@@ -2,9 +2,10 @@
 title: "Robb Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGBRGRB](/stripes/brgbrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp2r1dg26r18dp26lg1r1dp2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBRGRB](/stripes/brgbrgrb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3158/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Robb Red
 - Robb Red Personal
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1994 — Robb Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3158/))
-- undated — Robb Red (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4850))
-- undated — Robb Red (Personal) Personal Tartan Tartan Number: 3158. Earliest known date: 1994 Designed by Peter MacDonald for Martin Robb of Carroglen, Comrie, Perthshire, Scotland. Can be worn by anyone of the name but Martin Robb would appreciate being advised. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3158))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1994 — Robb Dress (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3158/">record</a>)</li>
+<li>undated — Robb Red (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4850">record</a>)</li>
+<li>undated — Robb Red (Personal) Personal Tartan Tartan Number: 3158. Earliest known date: 1994 Designed by Peter MacDonald for Martin Robb of Carroglen, Comrie, Perthshire, Scotland. Can be worn by anyone of the name but Martin Robb would appreciate being advised. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3158">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

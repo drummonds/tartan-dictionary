@@ -2,9 +2,10 @@
 title: "Williams Welsh Name Tartan Tartan Number: 3234. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Williamson, Wills, Gwylim, is commercially accepted as a tartan or plaid in Wales, this is one of the tartans actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe , vertically noticeable in the finished Kilt, or Cilt in Wales. Available from Wales Tartan Centres in Swansea, +44 (0)1792 474685. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKRGRKRGRKRGRYRYRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgryryrgrkrgrkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr30g2dr3k2dr6g1dr6k2dr3g2dr13y2dr26y2dr13g2dr3k2dr6g1dr6k2dr3g2dr30k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GKRGRKRGRKRGRYRYRGRKRGRKRGRK](/stripes/gkrgrkrgrkrgryryrgrkrgrkrgrk/).
 
-This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3234
 

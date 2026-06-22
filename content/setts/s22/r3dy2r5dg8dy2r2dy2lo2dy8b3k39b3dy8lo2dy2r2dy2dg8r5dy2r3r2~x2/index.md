@@ -2,9 +2,10 @@
 title: "GRM"
 date: 2023-03-18
 ---
-In pattern [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra3t2dra5dg8t2ra2t2lt2t8b3k39b3t8lt2t2ra2t2dg8dra5t2dra3ra2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGGRGYGBKBGYGRGGRGRR](/stripes/rgrggrgygbkbgygrggrgrr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1551
 

@@ -2,18 +2,20 @@
 title: "MacKenzie (MacGregor-Hastie)"
 date: 2023-03-18
 ---
-In pattern [RWKGKWKGWKWKWKW](/stripes/rwkgkwkgwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln10k3ln3k3ln3k5ln5g9k1ln2k1g9k10ln13r2/)
+(the same proportion at any scale), whose colour order is pattern [RWKGKWKGWKWKWKW](/stripes/rwkgkwkgwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2522
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1950 — MacKenzie (MacGregor-Hastie) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2522))
-- undated — MacKenzie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — MacKenzie (MacGregor-Hastie) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2522">record</a>)</li>
+<li>undated — MacKenzie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

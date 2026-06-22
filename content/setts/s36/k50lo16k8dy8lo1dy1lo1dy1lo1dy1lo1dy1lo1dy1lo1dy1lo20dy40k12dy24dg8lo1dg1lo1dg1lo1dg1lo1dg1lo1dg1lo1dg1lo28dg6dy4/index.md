@@ -2,9 +2,10 @@
 title: "Alberta (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK](/stripes/ggygygygygygygyggkgygygygygygygygkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50dy16k8t8dy1t1dy1t1dy1t1dy1t1dy1t1dy1t1dy20t40k12t24dg8dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy28dg6t4/)
+(the same proportion at any scale), whose colour order is pattern [GGYGYGYGYGYGYGYGGKGYGYGYGYGYGYGYGKYK](/stripes/ggygygygygygygyggkgygygygygygygygkyk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7712/
 

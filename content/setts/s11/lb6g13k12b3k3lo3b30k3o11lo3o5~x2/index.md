@@ -2,9 +2,10 @@
 title: "State Seal of Kentucky (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYRKBYKBKGW](/stripes/ryrkbykbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb6g13k12b3k3dy3b30k3n11dy3n5/)
+(the same proportion at any scale), whose colour order is pattern [RYRKBYKBKGW](/stripes/ryrkbykbkgw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8913/
 

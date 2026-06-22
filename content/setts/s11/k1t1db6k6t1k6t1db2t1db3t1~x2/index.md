@@ -2,9 +2,10 @@
 title: "Clergy (Smith)"
 date: 2023-03-18
 ---
-In pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1b1db6k6b1k6b1db2b1db3b1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=682
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Clergy 1
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1850 — Clergy (Smith) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=682))
-- undated — Clergy 1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — Clergy (Smith) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=682">record</a>)</li>
+<li>undated — Clergy 1 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

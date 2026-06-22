@@ -2,9 +2,10 @@
 title: "Marshall, Fields"
 date: 2023-03-18
 ---
-In pattern [GBWBYBGR](/stripes/gbwbybgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40db2ln2db2y2db23g32r2/)
+(the same proportion at any scale), whose colour order is pattern [GBWBYBGR](/stripes/gbwbybgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Marshall, Fields
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Marshall, Fields (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Marshall Fields Corporate Tartan Tartan Number: 747. Earliest known date: 1986 Long established and famous mail order company based in Chicago. For use in their production launch for the opening of the British production, Augst 1986 - Christmas 1986. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=747))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Marshall, Fields (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Marshall Fields Corporate Tartan Tartan Number: 747. Earliest known date: 1986 Long established and famous mail order company based in Chicago. For use in their production launch for the opening of the British production, Augst 1986 - Christmas 1986. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=747">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/80 DB4 LN4 DB4 Y4 DB46 G64 R/4

@@ -2,9 +2,10 @@
 title: "Breckon (Name)"
 date: 2023-03-18
 ---
-In pattern [KRKRRRRRK](/stripes/krkrrrrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3dy1db14dr14dy1dr1dy1dr1db2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRRRRRK](/stripes/krkrrrrrk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7908/
 

@@ -2,9 +2,10 @@
 title: "Lloyd of Dolobran Family Tartan Tartan Number: 1970. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g4ln1g4k1g4r1g4k5db5k1db5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGKGWGK](/stripes/bkbkgrgkgwgk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1970
 

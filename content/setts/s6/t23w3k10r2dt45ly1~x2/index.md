@@ -2,9 +2,10 @@
 title: "Kirkcaldy Name Tartan Tartan Number: 9072. Earliest known date: 2008 Blue and white for the Scottish flag, the red and yellow is from William Kirkcaldy's shield (it is also my son's army colours). It is for general use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWKRBY](/stripes/bwkrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b23w3k10dr2db45o1/)
+(the same proportion at any scale), whose colour order is pattern [BWKRBY](/stripes/bwkrby/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=9072
 

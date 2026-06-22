@@ -2,9 +2,10 @@
 title: "Caledonian Brewery (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GRWRGGW](/stripes/grwrggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dg13g6dr16lp2dr2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRWRGGW](/stripes/grwrggw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2315/
 

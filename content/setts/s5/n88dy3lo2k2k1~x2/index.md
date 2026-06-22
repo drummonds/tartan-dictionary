@@ -2,9 +2,10 @@
 title: "Eternity Fashion Tartan Tartan Number: 10214. Earliest known date: 01/02/2010 This tartan was designed for day wear grey tweed jackets. It has been shown in the Dedicated to Wedding magazine (April 2010). Perfection leads to eternity is the goal for all eternal marriage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGYKK](/stripes/bgykk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n88t3lt2k2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BGYKK](/stripes/bgykk/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10214
 

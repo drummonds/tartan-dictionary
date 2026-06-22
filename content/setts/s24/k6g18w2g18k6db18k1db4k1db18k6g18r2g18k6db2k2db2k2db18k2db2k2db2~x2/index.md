@@ -2,9 +2,10 @@
 title: "MacKenzie, Bailey"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGRGKBKBKBKGWGK](/stripes/bkbkbkbkbkgrgkbkbkbkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g18ln2g18k6b18k1b4k1b18k6g18r2g18k6b2k2b2k2b18k2b2k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGRGKBKBKBKGWGK](/stripes/bkbkbkbkbkgrgkbkbkbkgwgk/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

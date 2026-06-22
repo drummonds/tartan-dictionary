@@ -2,9 +2,10 @@
 title: "Gordon Dress (MacGregor-Hastie)"
 date: 2023-03-18
 ---
-In pattern [WKWKWKGKY](/stripes/wkwkwkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k4g12k37ln4k4ln16k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKGKY](/stripes/wkwkwkgky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1459
 

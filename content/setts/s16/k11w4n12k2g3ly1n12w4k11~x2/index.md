@@ -2,9 +2,10 @@
 title: "Hancock Personal Tartan Tartan Number: 6469. Earliest known date: 2004, October A personal tartan designed by Trevor Hancock from Crickhowell. He designed the tartan online in November and had the fabric woven and made into a kilt by Christmas 2004 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWBKGYBWKWBYGKBW](/stripes/kwbkgybwkwbygkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11ln4n12k2g3y1n12ln4k11/)
+(the same proportion at any scale), whose colour order is pattern [KWBKGYBWKWBYGKBW](/stripes/kwbkgybwkwbygkbw/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6469
 

@@ -2,9 +2,10 @@
 title: "Crombie House Check Corporate Tartan Tartan Number: 2302. Earliest known date: pre 1997 A Corporate tartan for a general merchandising company whose mills were at Langholm, Dumfriesshire. Dark green and royal blue called for but lighter colours used here to display the sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBWKWBGBG](/stripes/bgbwkwbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18g6db2n10k3n10db2g6db18g2/)
+(the same proportion at any scale), whose colour order is pattern [BGBWKWBGBG](/stripes/bgbwkwbgbg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2302
 

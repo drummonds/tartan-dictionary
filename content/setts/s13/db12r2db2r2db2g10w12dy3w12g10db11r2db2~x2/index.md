@@ -2,9 +2,10 @@
 title: "Idaho (District)"
 date: 2023-03-18
 ---
-In pattern [BRBGWGWGBRBRB](/stripes/brbgwgwgbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r2db2r2db2g10ln12t3ln12g10db11r2db2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGWGWGBRBRB](/stripes/brbgwgwgbrbrb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2116/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Idaho Centennial Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1990 — Idaho (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2116/))
-- undated — Idaho Centennial Commemorative Tartan Tartan Number: 2116. Earliest known date: 1989 Approved by the Idaho Centennial Commission as the official Idaho tartan. The Lasting Legacy Committee of the Centennial Commission also made mention of a "Mr John McEwing who contributed so much to the heritage of the Scots in Idaho." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2116))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1990 — Idaho (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2116/">record</a>)</li>
+<li>undated — Idaho Centennial Commemorative Tartan Tartan Number: 2116. Earliest known date: 1989 Approved by the Idaho Centennial Commission as the official Idaho tartan. The Lasting Legacy Committee of the Centennial Commission also made mention of a "Mr John McEwing who contributed so much to the heritage of the Scots in Idaho." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2116">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/24 R4 DB4 R4 DB4 G20 LN24 T6 LN24 G20 DB22 R4 DB/4

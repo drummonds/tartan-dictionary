@@ -2,9 +2,10 @@
 title: "Katie Targett-Adams"
 date: 2023-03-18
 ---
-In pattern [RBRBKRBBKBKBKR](/stripes/rbrbkrbbkbkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2dp5dr2dp10k16p6b2pa14k1pa14k6dp12k16p1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKRBBKBKBKR](/stripes/rbrbkrbbkbkbkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5998
 

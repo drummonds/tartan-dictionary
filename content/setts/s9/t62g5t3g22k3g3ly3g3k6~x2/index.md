@@ -2,9 +2,10 @@
 title: "Oliver Hunting - 1973 (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGBGKGYGK](/stripes/bgbgkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b62g5b3g22k3g3y3g3k6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGYGK](/stripes/bgbgkgygk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/126/
 

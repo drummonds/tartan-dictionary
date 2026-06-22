@@ -2,9 +2,10 @@
 title: "Rangers F.C."
 date: 2023-03-18
 ---
-In pattern [RGKBKGKGKGR](/stripes/rgkbkgkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g16k12b34k12g2k2g2k2g7r3/)
+(the same proportion at any scale), whose colour order is pattern [RGKBKGKGKGR](/stripes/rgkbkgkgkgr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Int. Police Association (Official)"
 date: 2023-03-18
 ---
-In pattern [BRBBBBY](/stripes/brbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7r3db26b2db2b26y4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBBY](/stripes/brbbbby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10174/
 

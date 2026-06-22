@@ -2,9 +2,10 @@
 title: "Valdres, Kvam & Vang (Artefact)"
 date: 2023-03-18
 ---
-In pattern [RRRGRRRRR](/stripes/rrrgrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5ra2r1g16ra2r11ra1r1ra2/)
+(the same proportion at any scale), whose colour order is pattern [RRRGRRRRR](/stripes/rrrgrrrrr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2124/
 

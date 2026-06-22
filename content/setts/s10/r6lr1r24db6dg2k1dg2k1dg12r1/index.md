@@ -2,9 +2,10 @@
 title: "Chisholm VS"
 date: 2023-03-18
 ---
-In pattern [RGKGKGBRYR](/stripes/rgkgkgbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6n1dr24db6dg2k1dg2k1dg12dr1/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGBRYR](/stripes/rgkgkgbryr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

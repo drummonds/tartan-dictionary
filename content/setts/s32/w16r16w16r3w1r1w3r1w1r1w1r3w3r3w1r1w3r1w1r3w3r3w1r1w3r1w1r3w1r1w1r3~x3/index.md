@@ -2,9 +2,10 @@
 title: "Boy Scouts of Canada (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16r16ln16r3ln1r1ln3r1ln1r1ln1r3ln3r3ln1r1ln3r1ln1r3ln3r3ln1r1ln3r1ln1r3ln1r1ln1r3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWRWRWRWRWRWRWRWRWRWRWRWRWRW](/stripes/rwrwrwrwrwrwrwrwrwrwrwrwrwrwrwrw/).
 
-This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8023/
 

@@ -2,9 +2,10 @@
 title: "Outpost Club"
 date: 2023-03-18
 ---
-In pattern [RRRRBBBWRW](/stripes/rrrrbbbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr6r5lr9db2b3db2t36r2t4r2/)
+(the same proportion at any scale), whose colour order is pattern [RRRRBBBWRW](/stripes/rrrrbbbwrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11421
 

@@ -2,9 +2,10 @@
 title: "National Millennium (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [WKBYGKKYW](/stripes/wkbygkkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2k4db16dy12g36ka1k6dy2w2/)
+(the same proportion at any scale), whose colour order is pattern [WKBYGKKYW](/stripes/wkbygkkyw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3186/
 

@@ -2,9 +2,10 @@
 title: "Read Dress, Peter (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKGKGKGKGKGKGKGRYW](/stripes/rkgkgkgkgkgkgkgryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k24n1k1n1k1n1k1n8k1n1k1n1k1n1r20dy1ly1/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKGKGKGKGKGRYW](/stripes/rkgkgkgkgkgkgkgryw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11008
 

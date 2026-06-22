@@ -2,18 +2,20 @@
 title: "MacRaes of America"
 date: 2023-03-18
 ---
-In pattern [RBBBBYBW](/stripes/rbbbbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly8db4y2db36b48db2b4r5/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBYBW](/stripes/rbbbbybw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2758
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2007 — MacRaes of America (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2758))
-- Octpber 2007 — MacRaes of America (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7304/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2007 — MacRaes of America (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2758">record</a>)</li>
+<li>Octpber 2007 — MacRaes of America (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7304/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

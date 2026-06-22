@@ -2,9 +2,10 @@
 title: "Clerke of Ulva Family Tartan Tartan Number: 168. Earliest known date: Unknown Said to have been copied from an old kilt. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3g3k4g14k4g3k14db18r1db4r2/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=168
 

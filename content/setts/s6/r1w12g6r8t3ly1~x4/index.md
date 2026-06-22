@@ -2,9 +2,10 @@
 title: "MacLean, dress"
 date: 2023-03-18
 ---
-In pattern [RWGRBY](/stripes/rwgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1ln12g6r8b3y1/)
+(the same proportion at any scale), whose colour order is pattern [RWGRBY](/stripes/rwgrby/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

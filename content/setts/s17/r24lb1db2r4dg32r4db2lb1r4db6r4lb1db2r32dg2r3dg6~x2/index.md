@@ -2,9 +2,10 @@
 title: "Dalzell"
 date: 2023-03-18
 ---
-In pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24n1db2r4g32r4db2n1r4db6r4n1db2r32g2r3g6/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBWRBRWBRGRBWR](/stripes/grgrbwrbrwbrgrbwr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

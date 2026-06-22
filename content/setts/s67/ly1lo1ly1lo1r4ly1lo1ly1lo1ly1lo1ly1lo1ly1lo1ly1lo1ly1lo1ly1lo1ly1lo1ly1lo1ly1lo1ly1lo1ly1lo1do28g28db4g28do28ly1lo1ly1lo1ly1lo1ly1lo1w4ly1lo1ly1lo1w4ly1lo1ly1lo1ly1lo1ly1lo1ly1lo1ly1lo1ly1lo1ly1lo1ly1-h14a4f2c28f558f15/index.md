@@ -3,18 +3,20 @@ title: "Hash House Harriers Trail (Corp)"
 date: 2023-03-18
 slug_full: "ly1lo1ly1lo1r4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1do28g28db4g28do28ly1lo1ly1lo1ly1lo1ly1lo1w4ly1lo1ly1lo1w4ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1lo1ly1~x2"
 ---
-In pattern [YYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYBGBGBYYYYYYYYWYYYYWYYYYYYYYYYYYYYYYY](/stripes/yyyyryyyyyyyyyyyyyyyyyyyyyyyyyybgbgbyyyyyyyywyyyywyyyyyyyyyyyyyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1dy1y1dy1r4y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1dr28g28db4g28dr28y1dy1y1dy1y1dy1y1dy1ln4y1dy1y1dy1ln4y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1dy1y1/)
+(the same proportion at any scale), whose colour order is pattern [YYYYRYYYYYYYYYYYYYYYYYYYYYYYYYYBGBGBYYYYYYYYWYYYYWYYYYYYYYYYYYYYYYY](/stripes/yyyyryyyyyyyyyyyyyyyyyyyyyyyyyybgbgbyyyyyyyywyyyywyyyyyyyyyyyyyyyyy/).
 
-This was sourced from tartans-authority.  It is a [67 stripe tartan](/stripes/stripes67/).
+Sourced from tartans-authority.  It is a [67 stripe tartan](/stripes/stripes67/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7628/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- April 2008 — Hash House Harriers Trail (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7628/))
-- undated — Hash House Harriers Trail (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5646))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>April 2008 — Hash House Harriers Trail (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7628/">record</a>)</li>
+<li>undated — Hash House Harriers Trail (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5646">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

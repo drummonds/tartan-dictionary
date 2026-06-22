@@ -2,9 +2,10 @@
 title: "Caledonia, Variant"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKYGRBRWR](/stripes/rbkbkbkygrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7ba3k2ba2k2ba3k6y2g7r4b2r4ln2r5/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKYGRBRWR](/stripes/rbkbkbkygrbrwr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

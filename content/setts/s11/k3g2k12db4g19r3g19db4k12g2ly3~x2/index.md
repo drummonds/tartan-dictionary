@@ -2,9 +2,10 @@
 title: "Loch Lomond Millenium Comemmorative Tartan Tartan Number: 2520. Earliest known date: 2002 Designed by Claire Donaldson of the House of Edgar. The application states that it is restricted to H of E by copyright. However, the fabric is produced by Lochcarron. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGKBGRGBKGY](/stripes/kgkbgrgbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b2k12db4g19dr3g19db4k12b2y3/)
+(the same proportion at any scale), whose colour order is pattern [KGKBGRGBKGY](/stripes/kgkbgrgbkgy/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2520
 

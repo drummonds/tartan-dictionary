@@ -2,9 +2,10 @@
 title: "Zibrant"
 date: 2023-03-18
 ---
-In pattern [KBKBKRKBKRKBKBKBYKYKRKR](/stripes/kbkbkrkbkrkbkbkbykykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8n1k3n1k8dr9k6n4k6dr9k8n1k3n1k8n13dy1k13y5k3r5k3r5/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKRKBKRKBKBKBYKYKRKR](/stripes/kbkbkrkbkrkbkbkbykykrkr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5960
 

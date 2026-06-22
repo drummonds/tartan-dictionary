@@ -2,9 +2,10 @@
 title: "Black and White Golf"
 date: 2023-03-18
 ---
-In pattern [KWYWGKY](/stripes/kwywgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg9k32g6w20lg3w9k5/)
+(the same proportion at any scale), whose colour order is pattern [KWYWGKY](/stripes/kwywgky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10782
 

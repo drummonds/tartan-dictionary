@@ -2,9 +2,10 @@
 title: "Spirit of Dunkeld (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRYRBBRY](/stripes/brbrbryrbbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b38r1b2r2b2r6o4r10db8b11r3o1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRYRBBRY](/stripes/brbrbryrbbry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10564/
 

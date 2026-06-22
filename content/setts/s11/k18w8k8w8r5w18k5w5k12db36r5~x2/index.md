@@ -2,9 +2,10 @@
 title: "Merchiston, Castle School Pipers"
 date: 2023-03-18
 ---
-In pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18ln8k8ln8r5ln18k5ln5k12b36r5/)
+(the same proportion at any scale), whose colour order is pattern [KWKWRWKWKBR](/stripes/kwkwrwkwkbr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

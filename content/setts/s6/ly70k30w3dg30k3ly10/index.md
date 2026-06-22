@@ -2,9 +2,10 @@
 title: "Jacobite #2"
 date: 2023-03-18
 ---
-In pattern [YKGWKY](/stripes/ykgwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y70k30ln3g30k3y10/)
+(the same proportion at any scale), whose colour order is pattern [YKGWKY](/stripes/ykgwky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1874
 

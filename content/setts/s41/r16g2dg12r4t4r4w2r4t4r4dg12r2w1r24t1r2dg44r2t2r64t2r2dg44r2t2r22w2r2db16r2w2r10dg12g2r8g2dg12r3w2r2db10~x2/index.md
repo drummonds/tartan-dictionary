@@ -2,9 +2,10 @@
 title: "MacAlister"
 date: 2023-03-18
 ---
-In pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16g2dg12r4b4r4ln2r4b4r4dg12r2ln1r24b1r2dg44r2b2r64b2r2dg44r2b2r22ln2r2db16r2ln2r10dg12g2r8g2dg12r3ln2r2db10/)
+(the same proportion at any scale), whose colour order is pattern [BRWRGGRGGRWRBRWRBRGRBRBRGRBRWRGRBRWRBRGGR](/stripes/brwrggrggrwrbrwrbrgrbrbrgrbrwrgrbrwrbrggr/).
 
-This was sourced from logan-1831.  It is a [41 stripe tartan](/stripes/stripes41/).
+Sourced from logan-1831.  It is a [41 stripe tartan](/stripes/stripes41/).
 
 Original link /posts/logans-scottish-gael/
 

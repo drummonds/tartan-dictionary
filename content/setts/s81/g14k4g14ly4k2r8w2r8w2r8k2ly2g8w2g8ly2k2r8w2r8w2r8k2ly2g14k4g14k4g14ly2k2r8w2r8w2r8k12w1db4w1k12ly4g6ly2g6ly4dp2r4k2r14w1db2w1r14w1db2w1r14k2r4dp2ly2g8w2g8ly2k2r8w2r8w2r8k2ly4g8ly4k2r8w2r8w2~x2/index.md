@@ -2,18 +2,20 @@
 title: "Ogilvie - 1831 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYGYKRWRW](/stripes/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkygykrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14k4g14y4k2r8ln2r8ln2r8k2y2g8ln2g8y2k2r8ln2r8ln2r8k2y2g14k4g14k4g14y2k2r8ln2r8ln2r8k12ln1db4ln1k12y4g6y2g6y4p2r4k2r14ln1db2ln1r14ln1db2ln1r14k2r4p2y2g8ln2g8y2k2r8ln2r8ln2r8k2y4g8y4k2r8ln2r8ln2/)
+(the same proportion at any scale), whose colour order is pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYGYKRWRW](/stripes/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkygykrwrw/).
 
-This was sourced from tartans-authority.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from tartans-authority.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2132/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1812 — Ogilvie - 1831 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2132/))
-- 01/01/2002 — Ogilvie (Logan) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3228))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1812 — Ogilvie - 1831 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2132/">record</a>)</li>
+<li>01/01/2002 — Ogilvie (Logan) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3228">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

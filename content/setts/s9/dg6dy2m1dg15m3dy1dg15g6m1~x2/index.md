@@ -2,9 +2,10 @@
 title: "McCall, F.W. (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGRGRGGGR](/stripes/ggrgrgggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6t2lp1dg15lp3t1dg15g6lp1/)
+(the same proportion at any scale), whose colour order is pattern [GGRGRGGGR](/stripes/ggrgrgggr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11183/
 

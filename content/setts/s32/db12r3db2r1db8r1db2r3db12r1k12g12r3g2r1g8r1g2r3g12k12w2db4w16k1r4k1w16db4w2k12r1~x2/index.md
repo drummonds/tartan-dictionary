@@ -2,18 +2,20 @@
 title: "MacDonald Dress"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r3db2r1db8r1db2r3db12r1k12g12r3g2r1g8r1g2r3g12k12ln2db4ln16k1r4k1ln16db4ln2k12r1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRKGRGRGRGRGKWBWKRKWBWKR](/stripes/brbrbrbrbrkgrgrgrgrgkwbwkrkwbwkr/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — MacDonald Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343))
-- 1880 — MacDonald Dress - 1880 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1997/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — MacDonald Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2343">record</a>)</li>
+<li>1880 — MacDonald Dress - 1880 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1997/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

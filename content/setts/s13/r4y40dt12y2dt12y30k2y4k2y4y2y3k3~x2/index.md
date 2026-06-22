@@ -2,9 +2,10 @@
 title: "Bartlett, Chris (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGGGKGKGBGBGR](/stripes/kgggkgkgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4n40nb12na2nb12n30k2n4k2n4na2n3k3/)
+(the same proportion at any scale), whose colour order is pattern [KGGGKGKGBGBGR](/stripes/kgggkgkgbgbgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10553
 

@@ -2,9 +2,10 @@
 title: "Greenock Morton F. C. (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBYB](/stripes/bwbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19ln6db105y4db5/)
+(the same proportion at any scale), whose colour order is pattern [BWBYB](/stripes/bwbyb/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7467/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Greenock Morton F. C.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Greenock Morton F. C. (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7467/))
-- undated — Greenock Morton Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5512))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Greenock Morton F. C. (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7467/">record</a>)</li>
+<li>undated — Greenock Morton Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5512">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

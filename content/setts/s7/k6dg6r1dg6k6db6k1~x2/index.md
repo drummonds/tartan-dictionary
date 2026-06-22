@@ -2,9 +2,10 @@
 title: "MacCallum #2"
 date: 2023-03-18
 ---
-In pattern [KBKGRGK](/stripes/kbkgrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g6r1g6k6b6k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGRGK](/stripes/kbkgrgk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacCallum
 - MacCallum #2
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — MacCallum #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307))
-- undated — MacCallum W (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — MacCallum W (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacCallum W (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacCallum #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307">record</a>)</li>
+<li>undated — MacCallum W (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — MacCallum W (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacCallum W (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

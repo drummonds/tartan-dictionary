@@ -2,9 +2,10 @@
 title: "Guszcza, The (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBWBGWYW](/stripes/brbwbgwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n28r2n3ln2n17na8nb16lt3nb3/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBGWYW](/stripes/brbwbgwyw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5989
 

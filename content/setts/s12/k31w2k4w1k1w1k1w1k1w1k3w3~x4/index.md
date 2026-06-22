@@ -2,9 +2,10 @@
 title: "Scott"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k31ln2k4ln1k1ln1k1ln1k1ln1k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKW](/stripes/kwkwkwkwkwkw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

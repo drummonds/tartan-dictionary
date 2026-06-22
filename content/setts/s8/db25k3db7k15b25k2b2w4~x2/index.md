@@ -2,9 +2,10 @@
 title: "Sabema"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBW](/stripes/bkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25k3db7k15b25k2b2w4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBW](/stripes/bkbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3631
 

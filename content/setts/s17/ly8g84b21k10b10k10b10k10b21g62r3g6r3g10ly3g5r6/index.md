@@ -2,9 +2,10 @@
 title: "King Edward VII (Royal)"
 date: 2023-03-18
 ---
-In pattern [RGYGRGRGBKBKBKBGY](/stripes/rgygrgrgbkbkbkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8g84b21k10b10k10b10k10b21g62r3g6r3g10y3g5r6/)
+(the same proportion at any scale), whose colour order is pattern [RGYGRGRGBKBKBKBGY](/stripes/rgygrgrgbkbkbkbgy/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1559/
 

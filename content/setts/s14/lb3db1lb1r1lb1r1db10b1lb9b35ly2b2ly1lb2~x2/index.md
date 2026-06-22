@@ -2,18 +2,20 @@
 title: "De Clercq, Christian Family (Belgium)"
 date: 2023-03-18
 ---
-In pattern [WBWRWRBBWBYBYW](/stripes/wbwrwrbbwbybyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3b1n1r1n1r1b10ba1n9ba35y2ba2y1n2/)
+(the same proportion at any scale), whose colour order is pattern [WBWRWRBBWBYBYW](/stripes/wbwrwrbbwbybyw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/11/2012 — De Clercq, Christian Family (Belgium) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741))
-- undated — De Clercq, Christian Family Name Tartan Tartan Number: 10741. Earliest known date: 22/11/2012 The De Clercq Family tartan is based on the Coat of Arms granted to Christian De Clercq by the Walloon Government. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10741))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/11/2012 — De Clercq, Christian Family (Belgium) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10741">record</a>)</li>
+<li>undated — De Clercq, Christian Family Name Tartan Tartan Number: 10741. Earliest known date: 22/11/2012 The De Clercq Family tartan is based on the Coat of Arms granted to Christian De Clercq by the Walloon Government. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10741">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Aelfleda Arisaid (Personal)"
 date: 2023-03-18
 ---
-In pattern [YBYBWGWRWBYBY](/stripes/ybybwgwrwbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db5y4db5lr8r2lr24g2lr8db5y4db5y4/)
+(the same proportion at any scale), whose colour order is pattern [YBYBWGWRWBYBY](/stripes/ybybwgwrwbyby/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10936/
 

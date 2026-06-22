@@ -2,9 +2,10 @@
 title: "Bannockbane Brown #2"
 date: 2023-03-18
 ---
-In pattern [BGBGYGY](/stripes/bgbgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3n2db30n19lt14n2lt3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGYGY](/stripes/bgbgygy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4977
 

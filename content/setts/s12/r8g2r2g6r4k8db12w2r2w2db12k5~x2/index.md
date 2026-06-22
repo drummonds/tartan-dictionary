@@ -2,9 +2,10 @@
 title: "Glengarry Highland Games"
 date: 2023-03-18
 ---
-In pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g2r2g6r4k8b12ln2r2ln2b12k5/)
+(the same proportion at any scale), whose colour order is pattern [KBWRWBKRGRGR](/stripes/kbwrwbkrgrgr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

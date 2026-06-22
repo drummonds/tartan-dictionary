@@ -2,9 +2,10 @@
 title: "Webb (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKYBWGKWKWKWRWKWKWKGWBYKBKR](/stripes/kbkybwgkwkwkwrwkwkwkgwbykbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2k3ln2k3ln2k3g16ln2db6y3k2db10k2r4/)
+(the same proportion at any scale), whose colour order is pattern [KBKYBWGKWKWKWRWKWKWKGWBYKBKR](/stripes/kbkybwgkwkwkwrwkwkwkgwbykbkr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4580
 

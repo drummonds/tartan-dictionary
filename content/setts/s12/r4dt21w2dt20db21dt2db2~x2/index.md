@@ -2,9 +2,10 @@
 title: "St. George's School (Birmingham)"
 date: 2023-03-18
 ---
-In pattern [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4dba21w2dba20db21dba2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBRBWBBB](/stripes/bbbbwbrbwbbb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3891
 

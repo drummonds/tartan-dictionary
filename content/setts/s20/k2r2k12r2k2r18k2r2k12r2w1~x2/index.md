@@ -2,9 +2,10 @@
 title: "Hebrides #12"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRWRKRKRKRKR](/stripes/krkrkrkrkrwrkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r2k12r2k2r18k2r2k12r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRWRKRKRKRKR](/stripes/krkrkrkrkrwrkrkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1657
 

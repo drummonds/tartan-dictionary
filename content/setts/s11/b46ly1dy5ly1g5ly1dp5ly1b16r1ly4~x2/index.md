@@ -2,9 +2,10 @@
 title: "Craven County (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BYGYGYBYBRY](/stripes/bygygybybry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b46y1t5y1g5y1dp5y1b16r1y4/)
+(the same proportion at any scale), whose colour order is pattern [BYGYGYBYBRY](/stripes/bygygybybry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10679/
 

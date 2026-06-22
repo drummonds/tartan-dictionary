@@ -2,9 +2,10 @@
 title: "Baker Dress Family Tartan Tartan Number: 2180. Earliest known date: 1999 STS notes 'Sample in trade specimens file.' See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYWYBWRW](/stripes/bywybwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28y3ln1y3db4ln2r1ln5/)
+(the same proportion at any scale), whose colour order is pattern [BYWYBWRW](/stripes/bywybwrw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2180
 

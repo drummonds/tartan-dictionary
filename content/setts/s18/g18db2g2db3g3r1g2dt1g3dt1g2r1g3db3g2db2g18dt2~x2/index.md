@@ -2,9 +2,10 @@
 title: "Owen of Wales"
 date: 2023-03-18
 ---
-In pattern [BGBGBGRGBGBGRGBGBG](/stripes/bgbgbgrgbgbgrgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18dbb2g2dbb3g3r1g2db1g3db1g2r1g3dbb3g2dbb2g18db2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGRGBGBGRGBGBG](/stripes/bgbgbgrgbgbgrgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3279
 

@@ -2,9 +2,10 @@
 title: "Ontario, Ensign of (District)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3dr16dg3dr3dg3dr16k2dra4k2dg18dr3dg3dr3dg16t3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3140/
 

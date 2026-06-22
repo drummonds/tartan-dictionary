@@ -2,18 +2,20 @@
 title: "Lanyard Blue (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKYKWKBRKRW](/stripes/bkykwkbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db90k10y2k4ln2k4b14r12k2r5ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKYKWKBRKRW](/stripes/bkykwkbrkrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7529/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb 2008 — Lanyard Blue (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7529/))
-- undated — Lanyard Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5565))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb 2008 — Lanyard Blue (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7529/">record</a>)</li>
+<li>undated — Lanyard Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5565">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

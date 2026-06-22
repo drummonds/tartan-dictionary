@@ -2,18 +2,20 @@
 title: "Bailey, The House of"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28k4b4k4db4k4g26k2y5k2g26k4db40k4r10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=161
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2005 — Bailey, The House of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=161))
-- 2005 July — Bailey, The House of (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6675/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2005 — Bailey, The House of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=161">record</a>)</li>
+<li>2005 July — Bailey, The House of (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6675/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

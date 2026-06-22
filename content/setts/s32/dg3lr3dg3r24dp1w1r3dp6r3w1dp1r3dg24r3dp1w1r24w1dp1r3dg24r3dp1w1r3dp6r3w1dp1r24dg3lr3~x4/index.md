@@ -2,9 +2,10 @@
 title: "King George IV"
 date: 2023-03-18
 ---
-In pattern [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr3ga3r24dp1w1r3dp6r3w1dp1r3ga24r3dp1w1r24w1dp1r3ga24r3dp1w1r3dp6r3w1dp1r24ga3lr3ga3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRBWRBRWBRGRBWRWBRGRBWRBRWBRGY](/stripes/gygrbwrbrwbrgrbwrwbrgrbwrbrwbrgy/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1983
 

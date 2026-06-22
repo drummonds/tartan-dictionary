@@ -2,18 +2,20 @@
 title: "Braemar Castle"
 date: 2023-03-18
 ---
-In pattern [RKYYBKRKY](/stripes/rkyybkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52k5y5lt5dra5k2r6k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RKYYBKRKY](/stripes/rkyybkrky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — Braemar Castle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333))
-- circa 1989 — Braemar Castle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1628/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — Braemar Castle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=333">record</a>)</li>
+<li>circa 1989 — Braemar Castle (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1628/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Pompili, Antonio and Alessandro (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRBWBRBWBW](/stripes/krbwbrbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k80lr1dn25w1dn3r2dn3w1dn25lb1/)
+(the same proportion at any scale), whose colour order is pattern [KRBWBRBWBW](/stripes/krbwbrbwbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11578
 

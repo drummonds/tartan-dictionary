@@ -2,9 +2,10 @@
 title: "St Andrews Links Corporate Tartan Tartan Number: 2391. Earliest known date: May 1997 Designed by Polly Wittering of the House of Edgar 1997. Corporate tartan for use on merchandise. Green lightened here to show the sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGYGRGYGBG](/stripes/bgbgygrgygbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn16g4dn3g3dy2g24dr2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGYGRGYGBG](/stripes/bgbgygrgygbg/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2391
 

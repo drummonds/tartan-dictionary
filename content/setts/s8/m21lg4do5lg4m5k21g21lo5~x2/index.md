@@ -2,9 +2,10 @@
 title: "Caledonian Labrador Retrievers"
 date: 2023-03-18
 ---
-In pattern [RYBYRKGY](/stripes/rybyrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp21lg4dr5lg4lp5k21g21y5/)
+(the same proportion at any scale), whose colour order is pattern [RYBYRKGY](/stripes/rybyrkgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11077
 

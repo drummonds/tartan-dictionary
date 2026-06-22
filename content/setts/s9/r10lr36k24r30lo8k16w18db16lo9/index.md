@@ -2,9 +2,10 @@
 title: "Tipperary County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYKRYKWBY](/stripes/rykrykwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr10n36k24dr30dy8k16ln18db16dy9/)
+(the same proportion at any scale), whose colour order is pattern [RYKRYKWBY](/stripes/rykrykwby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7433/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Tipperary County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Tipperary County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7433/))
-- 01/05/2005 — Tipperary County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Tipperary County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7433/">record</a>)</li>
+<li>01/05/2005 — Tipperary County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5051">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

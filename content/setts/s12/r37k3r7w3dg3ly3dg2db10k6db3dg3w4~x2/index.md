@@ -2,9 +2,10 @@
 title: "Strathclyde Fire Services (Corporate"
 date: 2023-03-18
 ---
-In pattern [RKRWGYGBKBGW](/stripes/rkrwgygbkbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r37k3r7ln3dg3y3dg2db10k6db3dg3ln4/)
+(the same proportion at any scale), whose colour order is pattern [RKRWGYGBKBGW](/stripes/rkrwgygbkbgw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8469/
 

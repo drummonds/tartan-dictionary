@@ -2,9 +2,10 @@
 title: "Grand Lodge of Scotland Corporate Weavers Tartan Tartan Number: 5776. Earliest known date: 2002 This is not a general Masonic tartan but one designed for the Grand Lodge of Scotland which is custodian to the oldest Lodge Minutes in the world dating from 1599. Masons in other parts of the world wishing to obtain this tartan must, in the first instance, contact the Curator of the Grand Lodge of Scotland Museum, Robert L D Cooper See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKBKBKBKBKGKGY](/stripes/gkgkbkbkbkbkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18k6dg1k1db1k6db1k2db1k6db1k1dg1k6dg21y1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBKBKBKBKGKGY](/stripes/gkgkbkbkbkbkgkgy/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5776
 

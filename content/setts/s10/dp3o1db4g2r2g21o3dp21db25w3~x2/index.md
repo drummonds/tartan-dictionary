@@ -2,18 +2,20 @@
 title: "Accenture"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRBBW](/stripes/brbgrgrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3n1db4g2r2g21n3p21db25ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRBBW](/stripes/brbgrgrbbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5564
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2008 — Accenture (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5564))
-- Feb 2008 — Accenture (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7527/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2008 — Accenture (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5564">record</a>)</li>
+<li>Feb 2008 — Accenture (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7527/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Dunn (Canada) (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKKKKWB](/stripes/bkbkbkkkkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k2p14k5p14k3db4k6db24w2p6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKKKKWB](/stripes/bkbkbkkkkwb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6785/
 

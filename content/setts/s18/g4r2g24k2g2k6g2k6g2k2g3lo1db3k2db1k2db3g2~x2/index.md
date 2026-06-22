@@ -2,9 +2,10 @@
 title: "Hyslop Hunting (Name)"
 date: 2023-03-18
 ---
-In pattern [GBKBKBYGKGKGKGKGRG](/stripes/gbkbkbygkgkgkgkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dr2g24k2g2k6g2k6g2k2g3dy1db3k2db1k2db3g2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBYGKGKGKGKGRG](/stripes/gbkbkbygkgkgkgkgrg/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3847/
 

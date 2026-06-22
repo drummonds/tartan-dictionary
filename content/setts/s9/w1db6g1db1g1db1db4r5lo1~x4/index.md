@@ -2,18 +2,20 @@
 title: "McLion (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBGBGBBRY](/stripes/wbgbgbbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1dr5dba4db1g1db1g1db6ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGBBRY](/stripes/wbgbgbbry/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2658/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Sep. 1999 — McLion (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2658/))
-- 08/03/2000 — McLion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2897))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Sep. 1999 — McLion (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2658/">record</a>)</li>
+<li>08/03/2000 — McLion (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2897">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

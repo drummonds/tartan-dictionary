@@ -2,9 +2,10 @@
 title: "MacDougall - 1970 (H of E)"
 date: 2023-03-18
 ---
-In pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g10r2db2r30p3r2w1r2p3r30db2r2g10r10g10p4r2p4db10r4g2r4g30r2p3w1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-This was sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1519/
 

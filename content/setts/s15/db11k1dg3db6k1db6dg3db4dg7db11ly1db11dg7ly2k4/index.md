@@ -2,9 +2,10 @@
 title: "Beynon"
 date: 2023-03-18
 ---
-In pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k1g3db6k1db6g3db4g7db11y1db11g7y2k4/)
+(the same proportion at any scale), whose colour order is pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=258
 

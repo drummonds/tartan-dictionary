@@ -2,9 +2,10 @@
 title: "Selby"
 date: 2023-03-18
 ---
-In pattern [GBGBKBKBKGW](/stripes/gbgbkbkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3db1ga1db12k2db2k2db3k12g24ln3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBKBKBKGW](/stripes/gbgbkbkbkgw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10040
 

@@ -2,9 +2,10 @@
 title: "Scottish American Military"
 date: 2023-03-18
 ---
-In pattern [BKBWRKGKGKBBWRBKGKGKBWRKB](/stripes/bkbwrkgkgkbbwrbkgkgkbwrkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11k2r2w2b2k16g16k2g16k16db16r2w2b2db16k16g16k2g16k16r2w2b2k2db11/)
+(the same proportion at any scale), whose colour order is pattern [BKBWRKGKGKBBWRBKGKGKBWRKB](/stripes/bkbwrkgkgkbbwrbkgkgkbwrkb/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10084
 

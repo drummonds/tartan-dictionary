@@ -2,9 +2,10 @@
 title: "Scotia"
 date: 2023-03-18
 ---
-In pattern [BBWRBBBG](/stripes/bbwrbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3p7b11db3lt8ln2db3b3/)
+(the same proportion at any scale), whose colour order is pattern [BBWRBBBG](/stripes/bbwrbbbg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

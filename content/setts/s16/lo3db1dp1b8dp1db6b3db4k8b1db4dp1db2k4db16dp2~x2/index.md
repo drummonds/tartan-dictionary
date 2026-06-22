@@ -2,9 +2,10 @@
 title: "Midnight Sunrise"
 date: 2023-03-18
 ---
-In pattern [BBKBBBBKBBBBBBBY](/stripes/bbkbbbbkbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o3db1dp1b8dp1db6b3db4k8b1db4dp1db2k4db16dp2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBBBBKBBBBBBBY](/stripes/bbkbbbbkbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11638
 

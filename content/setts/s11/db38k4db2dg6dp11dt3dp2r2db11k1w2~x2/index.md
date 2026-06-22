@@ -2,9 +2,10 @@
 title: "Highland Pride 2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db38k4db2dg6dp11dba3dp2dr2db11k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8591/
 

@@ -2,18 +2,20 @@
 title: "Munro"
 date: 2023-03-18
 ---
-In pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24lg1db1dr3dg16dr3db1lg1dr3db6dr3lg1db1dr16dg2dra2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Munro (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Munro (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Munro (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Munro (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/48 LG2 DB2 DR6 DG32 DR6 DB2 LG2 DR6 DB12 DR6 LG2 DB2 DR32 DG4 DRa4 DG/4

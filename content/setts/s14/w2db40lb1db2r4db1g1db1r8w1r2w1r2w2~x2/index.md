@@ -2,9 +2,10 @@
 title: "St. Andrew's Soc. of Singapore (Corp"
 date: 2023-03-18
 ---
-In pattern [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2db40lb1db2r4db1g1db1r8ln1r2ln1r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBRBGBRWRWRW](/stripes/wbwbrbgbrwrwrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8597/
 

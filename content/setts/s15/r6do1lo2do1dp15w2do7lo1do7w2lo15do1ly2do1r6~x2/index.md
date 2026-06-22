@@ -2,9 +2,10 @@
 title: "Wells, Greg Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBYBBWBYBWYBYBR](/stripes/rbybbwbybwybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6t1y2t1p15lya2t7y1t7lya2y15t1ly2t1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBYBBWBYBWYBYBR](/stripes/rbybbwbybwybybr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11558
 

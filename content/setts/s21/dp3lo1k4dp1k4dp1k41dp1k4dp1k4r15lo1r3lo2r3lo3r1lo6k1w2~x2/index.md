@@ -2,9 +2,10 @@
 title: "New Star (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3dy1k4p1k4p1k41p1k4p1k4dr15dy1dr3dy2dr3dy3dr1dy6k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10144/
 

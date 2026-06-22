@@ -2,9 +2,10 @@
 title: "Kelvingrove (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBKBKBK](/stripes/brbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16b1k1b1k1b9lt18b1/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBKBK](/stripes/brbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5326/
 

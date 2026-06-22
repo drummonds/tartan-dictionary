@@ -2,9 +2,10 @@
 title: "Wells (1970) (Name)"
 date: 2023-03-18
 ---
-In pattern [RGGBGBGBGWR](/stripes/rggbgbgbgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5ln2g30db6g4db3g4db24g4t5r3/)
+(the same proportion at any scale), whose colour order is pattern [RGGBGBGBGWR](/stripes/rggbgbgbgwr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8225/
 

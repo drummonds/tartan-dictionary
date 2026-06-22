@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gkgkggk/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-seq">GKGKGGK</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/k1dy4g1k1g1k1dy1~x14/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GKGKGGK" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

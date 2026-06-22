@@ -2,18 +2,20 @@
 title: "Duffy"
 date: 2023-03-18
 ---
-In pattern [GGGWKGYGYGKWG](/stripes/gggwkgygygkwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga25ln1k23g7y2g2y2g7k23ln1ga39g4ga14/)
+(the same proportion at any scale), whose colour order is pattern [GGGWKGYGYGKWG](/stripes/gggwkgygygkwg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Duffy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Duffy Family Tartan Tartan Number: 2172. Earliest known date: 1995 Designed by G. Duffy and Connell Reid, the kiltmaker from Blairgowrie in Perthshire, Scotland. The colours were chosen to accord with the Duffy crest which is a yellow lion on a green field. The lion is outlined in black. The new tartan was recorded by the Scottish Tartan Society in 1995. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2172))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Duffy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Duffy Family Tartan Tartan Number: 2172. Earliest known date: 1995 Designed by G. Duffy and Connell Reid, the kiltmaker from Blairgowrie in Perthshire, Scotland. The colours were chosen to accord with the Duffy crest which is a yellow lion on a green field. The lion is outlined in black. The new tartan was recorded by the Scottish Tartan Society in 1995. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2172">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Ga/50 LN2 K46 G14 Y4 G4 Y4 G14 K46 LN2 Ga78 G8 Ga/28

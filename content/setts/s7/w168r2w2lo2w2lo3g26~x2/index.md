@@ -2,9 +2,10 @@
 title: "Whisky Kilt (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GYWYWRW](/stripes/gywywrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly168dra2ly2dy2ly2lt3g26/)
+(the same proportion at any scale), whose colour order is pattern [GYWYWRW](/stripes/gywywrw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8264/
 

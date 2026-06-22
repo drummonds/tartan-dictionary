@@ -2,9 +2,10 @@
 title: "MacLean of Duart Dress"
 date: 2023-03-18
 ---
-In pattern [BRGYGWGWRRRG](/stripes/brgygwgwrrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na12n2t4dy2t3ln3t3ln19r30n2r4t2/)
+(the same proportion at any scale), whose colour order is pattern [BRGYGWGWRRRG](/stripes/brgygwgwrrrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2612
 

@@ -2,9 +2,10 @@
 title: "Angove, the Black Swan"
 date: 2023-03-18
 ---
-In pattern [BBKBBKBKGYGKBKG](/stripes/bbkbbkbkgygkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18n2k2db2n2k1db2k8lg1ly1lg6k8db14k2lg2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBBKBKGYGKBKG](/stripes/bbkbbkbkgygkbkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10339
 

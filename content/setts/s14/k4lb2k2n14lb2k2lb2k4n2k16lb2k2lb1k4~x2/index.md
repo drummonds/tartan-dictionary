@@ -2,9 +2,10 @@
 title: "Drummond (Grey)"
 date: 2023-03-18
 ---
-In pattern [KWKBWKWKBKWKWK](/stripes/kwkbwkwkbkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n2k2na14n2k2n2k4na2k16n2k2n1k4/)
+(the same proportion at any scale), whose colour order is pattern [KWKBWKWKBKWKWK](/stripes/kwkbwkwkbkwkwk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=983
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Drummond,
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Drummond (Grey) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=983))
-- undated — Drummond, (Grey) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Drummond (Grey) Clan Tartan Tartan Number: 1125. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1125))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Drummond (Grey) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=983">record</a>)</li>
+<li>undated — Drummond, (Grey) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Drummond (Grey) Clan Tartan Tartan Number: 1125. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1125">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

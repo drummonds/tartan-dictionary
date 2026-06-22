@@ -2,9 +2,10 @@
 title: "Drummond - 1739 Lord John (Artefact)"
 date: 2023-03-18
 ---
-In pattern [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20r6db4r6g15w2t5w2g15r30db4r5lb2r6/)
+(the same proportion at any scale), whose colour order is pattern [KRKRGWGWGRKRWR](/stripes/krkrgwgwgrkrwr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8294/
 

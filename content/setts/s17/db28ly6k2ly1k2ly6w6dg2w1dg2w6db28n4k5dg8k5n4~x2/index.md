@@ -2,9 +2,10 @@
 title: "Bog Myrtle Corner"
 date: 2023-03-18
 ---
-In pattern [BKGKBBWGWGWYKYKYB](/stripes/bkgkbbwgwgwykykyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28y6k2y1k2y6ly6g2ly1g2ly6db28n4k5g8k5n4/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBBWGWGWYKYKYB](/stripes/bkgkbbwgwgwykykyb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11367
 

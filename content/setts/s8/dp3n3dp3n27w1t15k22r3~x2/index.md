@@ -2,9 +2,10 @@
 title: "Beauly Firth and Glens"
 date: 2023-03-18
 ---
-In pattern [BBBBWBKR](/stripes/bbbbwbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k22b15ln1n27p3n3p3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBKR](/stripes/bbbbwbkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=237
 

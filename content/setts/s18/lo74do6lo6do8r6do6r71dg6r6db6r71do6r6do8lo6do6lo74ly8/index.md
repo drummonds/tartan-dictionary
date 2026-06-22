@@ -2,18 +2,20 @@
 title: "Macallan The"
 date: 2023-03-18
 ---
-In pattern [YBYBRBRGRBRBRBYBYY](/stripes/ybybrbrgrbrbrbybyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o74dr6o6dr8r6dr6r71dg6r6db6r71dr6r6dr8o6dr6o74y8/)
+(the same proportion at any scale), whose colour order is pattern [YBYBRBRGRBRBRBYBYY](/stripes/ybybrbrgrbrbrbybyy/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/1999 — Macallan The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273))
-- Feb 1999 — Macallan The (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5837/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/1999 — Macallan The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2273">record</a>)</li>
+<li>Feb 1999 — Macallan The (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5837/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

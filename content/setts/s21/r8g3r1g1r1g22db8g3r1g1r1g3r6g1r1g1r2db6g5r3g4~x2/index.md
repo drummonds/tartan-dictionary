@@ -2,9 +2,10 @@
 title: "Matheson, hunting"
 date: 2023-03-18
 ---
-In pattern [GRGBRGRGRGRGRGBGRGRGR](/stripes/grgbrgrgrgrgrgbgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g3r1g1r1g22b8g3r1g1r1g3r6g1r1g1r2b6g5r3g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGBRGRGRGRGRGBGRGRGR](/stripes/grgbrgrgrgrgrgbgrgrgr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Matheson, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Matheson, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Matheson Hunting (Red) Clan Tartan Tartan Number: 902. Earliest known date: pre 2003 Incomplete sett. Second pivot is assumed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=902))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Matheson, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Matheson Hunting (Red) Clan Tartan Tartan Number: 902. Earliest known date: pre 2003 Incomplete sett. Second pivot is assumed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=902">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/16 G6 R2 G2 R2 G44 B16 G6 R2 G2 R2 G6 R12 G2 R2 G2 R4 B12 G10 R6 G/8

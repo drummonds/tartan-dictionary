@@ -2,9 +2,10 @@
 title: "Manchester City Football Club \"Blue Moon\""
 date: 2023-03-18
 ---
-In pattern [BBBRBKBWBYBB](/stripes/bbbrbkbwbybb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b16db4dr2db2k2db2w5db3y2db2b2/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBKBWBYBB](/stripes/bbbrbkbwbybb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11119
 

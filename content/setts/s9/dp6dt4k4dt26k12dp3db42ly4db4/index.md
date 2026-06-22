@@ -2,9 +2,10 @@
 title: "Goldblatt, Joe, Jeff (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBKBKBBYB](/stripes/bbkbkbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p6db4dbb4db26dbb12p3dba42y4dba4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBBYB](/stripes/bbkbkbbyb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11231/
 

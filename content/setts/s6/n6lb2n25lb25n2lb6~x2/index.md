@@ -2,9 +2,10 @@
 title: "Erskine, Grey"
 date: 2023-03-18
 ---
-In pattern [BWBWBW](/stripes/bwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6na2n25na25n2na6/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1129
 

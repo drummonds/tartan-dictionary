@@ -2,9 +2,10 @@
 title: "Christian Dewar (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYG](/stripes/bkbkbkgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16dr2db2dr2db2dr6k13lt2k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYG](/stripes/bkbkbkgyg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=645
 

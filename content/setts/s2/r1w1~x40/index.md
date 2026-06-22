@@ -2,9 +2,10 @@
 title: "MacMedic"
 date: 2023-03-18
 ---
-In pattern [RW](/stripes/rw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RW](/stripes/rw/).
 
-This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2654
 
@@ -16,13 +17,14 @@ This cloth is also recorded under:
 - Spare
 - Spare #2
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1997 — MacMedic (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2654))
-- pe 1998 — McMedic (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2684/))
-- undated — MacMedic (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — MacMedic (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2654">record</a>)</li>
+<li>pe 1998 — McMedic (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2684/">record</a>)</li>
+<li>undated — MacMedic (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

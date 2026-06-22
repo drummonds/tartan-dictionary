@@ -2,9 +2,10 @@
 title: "Strathearn Dress (Fashion?)"
 date: 2023-03-18
 ---
-In pattern [GWGWRGYGYGYGYGRYGYGYGYGYGYRWGWGY](/stripes/gwgwrgygygygygrygygygygygyrwgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2t2ln10t4ln4dr7o2t7o4t2o2t5o2t2o5t7o2dr7g10o4g2o2g5o2g2o4g10dr7ln4t4ln10t2/)
+(the same proportion at any scale), whose colour order is pattern [GWGWRGYGYGYGYGRYGYGYGYGYGYRWGWGY](/stripes/gwgwrgygygygygrygygygygygyrwgwgy/).
 
-This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8823/
 

@@ -2,9 +2,10 @@
 title: "Unnamed C18th - Pr Ch Ed Plaid?"
 date: 2023-03-18
 ---
-In pattern [RGYWKWYGWRW](/stripes/rgywkwygwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10dg3y3w1k2w1y3dg12w2r3w1/)
+(the same proportion at any scale), whose colour order is pattern [RGYWKWYGWRW](/stripes/rgywkwygwrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8420/
 

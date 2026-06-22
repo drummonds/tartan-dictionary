@@ -2,9 +2,10 @@
 title: "Semper"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGG](/stripes/gggggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16dg1lg4dg41lg1dg6ga2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGG](/stripes/gggggggg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11007/
 

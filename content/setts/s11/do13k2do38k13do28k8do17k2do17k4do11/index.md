@@ -2,9 +2,10 @@
 title: "Bute Heather, Black (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n13k2n38k13n28k8n17k2n17k4n11/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6886/
 

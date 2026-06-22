@@ -2,9 +2,10 @@
 title: "St. Andrew Quebec City (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RWRGYGBY](/stripes/rwrgygby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln1r5g5o1g10db40y2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGYGBY](/stripes/rwrgygby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5814/
 

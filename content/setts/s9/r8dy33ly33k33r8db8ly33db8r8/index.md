@@ -2,9 +2,10 @@
 title: "Jardine of Castlemilk"
 date: 2023-03-18
 ---
-In pattern [RBYBRKYGR](/stripes/rbybrkygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8t33y33k33r8b8y33b8r8/)
+(the same proportion at any scale), whose colour order is pattern [RBYBRKYGR](/stripes/rbybrkygr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1884
 

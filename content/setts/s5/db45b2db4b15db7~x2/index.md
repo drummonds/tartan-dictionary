@@ -2,9 +2,10 @@
 title: "Asahi (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBBB](/stripes/bbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db45b2db4b15db7/)
+(the same proportion at any scale), whose colour order is pattern [BBBBB](/stripes/bbbbb/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6677/
 

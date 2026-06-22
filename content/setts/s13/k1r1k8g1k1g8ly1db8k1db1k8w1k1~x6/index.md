@@ -2,9 +2,10 @@
 title: "Survivor"
 date: 2023-03-18
 ---
-In pattern [KRKGKGYBKBKWK](/stripes/krkgkgybkbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1k8g1k1g8y1db8k1db1k8w1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKGYBKBKWK](/stripes/krkgkgybkbkwk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5853
 

@@ -2,18 +2,20 @@
 title: "Canfield (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWRGRYRGKBY](/stripes/rwrgryrgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5w1dr18dg4dr6dy4dr1g6k13db5dy2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGRYRGKBY](/stripes/rwrgryrgkby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10077
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/09/2009 — Canfield (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10077))
-- 8th Sept. 2009 — Canfield (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10077/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/09/2009 — Canfield (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10077">record</a>)</li>
+<li>8th Sept. 2009 — Canfield (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10077/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

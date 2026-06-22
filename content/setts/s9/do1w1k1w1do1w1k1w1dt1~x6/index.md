@@ -2,9 +2,10 @@
 title: "Strathspey (Estate Check)"
 date: 2023-03-18
 ---
-In pattern [BWKWBWKWB](/stripes/bwkwbwkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1w1k1w1dr1w1k1w1db1/)
+(the same proportion at any scale), whose colour order is pattern [BWKWBWKWB](/stripes/bwkwbwkwb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3226/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Strathspey Estate Check
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1968 — Strathspey (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3226/))
-- undated — Strathspey Estate Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5229))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1968 — Strathspey (Estate Check) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3226/">record</a>)</li>
+<li>undated — Strathspey Estate Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5229">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

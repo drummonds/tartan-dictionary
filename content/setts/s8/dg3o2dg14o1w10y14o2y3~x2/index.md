@@ -2,9 +2,10 @@
 title: "Bannockbane Hunting (MacBean and Bishop)"
 date: 2023-03-18
 ---
-In pattern [GRGRWGRG](/stripes/grgrwgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg3do2dg14do1ln10n14do2n3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRWGRG](/stripes/grgrwgrg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=201
 

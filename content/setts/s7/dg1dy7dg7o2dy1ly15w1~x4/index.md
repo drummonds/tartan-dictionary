@@ -2,18 +2,20 @@
 title: "Regalia"
 date: 2023-03-18
 ---
-In pattern [GGGRGYW](/stripes/gggrgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg1t7dg7n2t1lg15w1/)
+(the same proportion at any scale), whose colour order is pattern [GGGRGYW](/stripes/gggrgyw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3487
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1975 — Regalia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3487))
-- pre1975 — Regalia (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5418/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Regalia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3487">record</a>)</li>
+<li>pre1975 — Regalia (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5418/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

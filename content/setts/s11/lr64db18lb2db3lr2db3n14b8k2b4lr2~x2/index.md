@@ -2,9 +2,10 @@
 title: "Bennet Dress"
 date: 2023-03-18
 ---
-In pattern [YBKBBBYBWBY](/stripes/ybkbbbybwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n64db18lp2db3n2db3b14ba8k2ba4n2/)
+(the same proportion at any scale), whose colour order is pattern [YBKBBBYBWBY](/stripes/ybkbbbybwby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5381
 

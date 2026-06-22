@@ -2,9 +2,10 @@
 title: "Down, County"
 date: 2023-03-18
 ---
-In pattern [RBRBWYBBY](/stripes/rbrbwybby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t64dr9do11dr4lp2o2n5dr2o13/)
+(the same proportion at any scale), whose colour order is pattern [RBRBWYBBY](/stripes/rbrbwybby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Down, County District)
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Down, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968))
-- 1997 — Down, County District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2266/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Down, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=968">record</a>)</li>
+<li>1997 — Down, County District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2266/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

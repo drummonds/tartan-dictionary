@@ -2,9 +2,10 @@
 title: "Pike Personal Weavers Tartan Tartan Number: 3229. Earliest known date: 2/4/02 Darker version, final design See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k3g3k20g3k5p3k20g3k3g10/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKGKGKGKBKGKGK](/stripes/gkgkgkbkgkgkgkbkgkgk/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3229
 

@@ -2,9 +2,10 @@
 title: "Heather (R.S.S.P.C.C.) Corporate Tartan Tartan Number: 2108. Earliest known date: 1990 The design 'Heather Tartan' has been produced at the request of the Royal Society for Prevention of Cruelty to Children, as the Society's corporate tartan. The colours of the design are taken from the Society's badge and lettrhead. Dark Pink Mix, Light Pink Mix, Kingfisher and Emerald. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWWWBWBWG](/stripes/bwwwbwbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln3n28ln3p16ln4p8lp46g4/)
+(the same proportion at any scale), whose colour order is pattern [BWWWBWBWG](/stripes/bwwwbwbwg/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2108
 

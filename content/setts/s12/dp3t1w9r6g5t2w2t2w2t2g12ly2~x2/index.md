@@ -2,9 +2,10 @@
 title: "Fredericton District Tartan Tartan Number: 96. Earliest known date: 1967 Fredericton, capital city of New Brunswick, takes its name from Prince Frederick, the second son of King George III. The tartan was designed and woven by the Loomcrofters of Frederickton who weave in their own homes on their own looms. (From 'District Tartans', G. Teall and P. Smith, 1992) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBWRGBWBWBGY](/stripes/bbwrgbwbwbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3b1ln9r6g5b2ln2b2ln2b2g12y2/)
+(the same proportion at any scale), whose colour order is pattern [BBWRGBWBWBGY](/stripes/bbwrgbwbwbgy/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=96
 

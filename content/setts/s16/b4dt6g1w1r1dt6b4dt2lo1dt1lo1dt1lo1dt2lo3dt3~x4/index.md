@@ -2,9 +2,10 @@
 title: "De Baseggio (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4db6g1w1r1db6b4db2dy1db1dy1db1dy1db2dy3db3/)
+(the same proportion at any scale), whose colour order is pattern [BBGWRBBBYBYBYBYB](/stripes/bbgwrbbbybybybyb/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10628/
 

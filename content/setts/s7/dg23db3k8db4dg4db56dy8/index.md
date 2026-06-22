@@ -2,9 +2,10 @@
 title: "Tern House"
 date: 2023-03-18
 ---
-In pattern [GBGBKBG](/stripes/gbgbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg23db3k8db4dg4db56t8/)
+(the same proportion at any scale), whose colour order is pattern [GBGBKBG](/stripes/gbgbkbg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11247
 

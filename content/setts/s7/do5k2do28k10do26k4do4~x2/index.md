@@ -2,9 +2,10 @@
 title: "Dunbar, John Telfer (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKB](/stripes/bkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5k2dr28k10dr26k4dr4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKB](/stripes/bkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1020
 

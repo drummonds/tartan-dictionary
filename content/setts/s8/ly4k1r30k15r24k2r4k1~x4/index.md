@@ -2,9 +2,10 @@
 title: "Oilmens (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKY](/stripes/krkrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k1r30k15r24k2r4k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKY](/stripes/krkrkrky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3843/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Barkwell, The
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Oilmens (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3843/))
-- undated — Barkwell, The (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2044))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Oilmens (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3843/">record</a>)</li>
+<li>undated — Barkwell, The (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Oilmens Corporate Tartan Tartan Number: 2044. Earliest known date: pre 1992 Genuinely asymmetrical design by Don Barkwell. No further details. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2044">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/16 K4 R120 K60 R96 K8 R16 K/4

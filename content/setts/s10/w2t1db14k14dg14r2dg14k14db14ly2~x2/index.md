@@ -2,9 +2,10 @@
 title: "Erskine Veterans (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBBKGRGKBY](/stripes/wbbkgrgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db14k14g14r2g14k14db14b1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBBKGRGKBY](/stripes/wbbkgrgkby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7008/
 

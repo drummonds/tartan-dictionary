@@ -2,9 +2,10 @@
 title: "Scottish Claymores"
 date: 2023-03-18
 ---
-In pattern [KBKBKWKKWK](/stripes/kbkbkwkkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9ln2db24k8ln5k8b15k3b15k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKWKKWK](/stripes/kbkbkwkkwk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

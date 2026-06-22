@@ -2,9 +2,10 @@
 title: "Shepherd Check (Universal)"
 date: 2023-03-18
 ---
-In pattern [KW](/stripes/kw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [KW](/stripes/kw/).
 
-This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1253/
 
@@ -16,12 +17,13 @@ This cloth is also recorded under:
 - Shepherd Check
 - Shepherd Historic
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 260 AD — Shepherd Check (Universal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1253/))
-- 260 AD — Northumberland (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6765/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>260 AD — Shepherd Check (Universal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1253/">record</a>)</li>
+<li>260 AD — Northumberland (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6765/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 LN/6

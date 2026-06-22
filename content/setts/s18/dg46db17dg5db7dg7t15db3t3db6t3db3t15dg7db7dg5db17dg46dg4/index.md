@@ -2,9 +2,10 @@
 title: "Jones of Wales"
 date: 2023-03-18
 ---
-In pattern [GBGBGBBBBBBBGBGBGG](/stripes/gbgbgbbbbbbbgbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg46db17dg5db7dg7b15db3b3db6b3db3b15dg7db7dg5db17dg46g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBBBBBBBGBGBGG](/stripes/gbgbgbbbbbbbgbgbgg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1905
 

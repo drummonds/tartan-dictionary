@@ -2,9 +2,10 @@
 title: "Miyuki, Check Ecru Beige, No 1001A"
 date: 2023-03-18
 ---
-In pattern [KGKRKGKGKR](/stripes/kgkrkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40lg1db1r9db1lg1db6lg1db1r9/)
+(the same proportion at any scale), whose colour order is pattern [KGKRKGKGKR](/stripes/kgkrkgkgkr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

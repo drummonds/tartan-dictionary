@@ -2,9 +2,10 @@
 title: "Reid Red Clan/Family Tartan Tartan Number: 5415. Earliest known date: pre 1991 Found in Dalgleish swatch files 1991, but in use long before then. known to be worn by James Reid of Washington D.C. Modification of Robertson. see 1428 for \"Reid - green\" designed by Phil Smith 1991 for Wm. M. Reid, Jr. (perhaps without knowledge of the previously existing \"Reid - red\"). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g3dr18g6dr4db3n3db18dr6g18n3g3dr3db4dr18g3dr3/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5415
 

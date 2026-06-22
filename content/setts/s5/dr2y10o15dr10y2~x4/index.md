@@ -2,9 +2,10 @@
 title: "Harmony 8"
 date: 2023-03-18
 ---
-In pattern [BGRBG](/stripes/bgrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2n10lt15dr10n2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBG](/stripes/bgrbg/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Princess Mary"
 date: 2023-03-18
 ---
-In pattern [GBKYKWKGRKRW](/stripes/gbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44b3k8y2k2ln2k2g9r5k2r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBKYKWKGRKRW](/stripes/gbkykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Princess Mary Royal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Princess Mary (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Princess Mary Royal Family Tartan Tartan Number: 735. Earliest known date: pre 1930 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=735))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Princess Mary (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Princess Mary Royal Family Tartan Tartan Number: 735. Earliest known date: pre 1930 Colours reversed from MacGregor See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=735">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/88 B6 K16 Y4 K4 LN4 K4 G18 R10 K4 R4 LN/4

@@ -2,9 +2,10 @@
 title: "Killen (Name)"
 date: 2023-03-18
 ---
-In pattern [GKGBKRBRKBKGKGKGKGKGKBKWKG](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k1ln2k1db8k8g1k1g1k1g8k1g1k1g1k8db8k1dr2db1dr2k1db8g8k1g5/)
+(the same proportion at any scale), whose colour order is pattern [GKGBKRBRKBKGKGKGKGKGKBKWKG](/stripes/gkgbkrbrkbkgkgkgkgkgkbkwkg/).
 
-This was sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from tartans-authority.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6575/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Killen Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Killen (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6575/))
-- undated — Killen Personal Tartan Tartan Number: 6575. Earliest known date: 2004 Designed by Paul Killen for his wedding in July 2004 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6575))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Killen (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6575/">record</a>)</li>
+<li>undated — Killen Personal Tartan Tartan Number: 6575. Earliest known date: 2004 Designed by Paul Killen for his wedding in July 2004 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6575">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/16 K2 LN4 K2 DB16 K16 G2 K2 G2 K2 G16 K2 G2 K2 G2 K16 DB16 K2 DR4 DB2 DR4 K2 DB16 G16 K2 G/10

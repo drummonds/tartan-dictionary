@@ -2,18 +2,20 @@
 title: "Boucherville Dress"
 date: 2023-03-18
 ---
-In pattern [GBBBBWBYW](/stripes/gbbbbwbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w20dy2n5w4db2n2db2n2dg1/)
+(the same proportion at any scale), whose colour order is pattern [GBBBBWBYW](/stripes/gbbbbwbyw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=320
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Boucherville Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=320))
-- pre 2002 — Boucherville Dress (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2118/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Boucherville Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=320">record</a>)</li>
+<li>pre 2002 — Boucherville Dress (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2118/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Hutchens (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGWY](/stripes/bkgkgkgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k12dg3k1dg1k1dg30ln4dy4/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGWY](/stripes/bkgkgkgwy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10148/
 

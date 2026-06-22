@@ -2,9 +2,10 @@
 title: "Hello Kitty Red"
 date: 2023-03-18
 ---
-In pattern [WGKGRBRGRY](/stripes/wgkgrbrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2r3t3r21b3r2t6k6t4w2/)
+(the same proportion at any scale), whose colour order is pattern [WGKGRBRGRY](/stripes/wgkgrbrgry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11491
 

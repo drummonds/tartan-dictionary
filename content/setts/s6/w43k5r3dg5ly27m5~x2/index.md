@@ -2,18 +2,20 @@
 title: "Reekie, Charlene"
 date: 2023-03-18
 ---
-In pattern [RYGRKW](/stripes/rygrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w43k5r3dg5lg27dr5/)
+(the same proportion at any scale), whose colour order is pattern [RYGRKW](/stripes/rygrkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/09/2012 — Reekie, Charlene (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701))
-- undated — Reekie, Charlene Name Tartan Tartan Number: 10701. Earliest known date: 19 September 2012 Robert Reekie designed this tartan for his sister to thank her for her dedication and commitment to the study of Reekie heraldry. Colours: magenta is for dedication; yellow is one of the family colours; green is for patience; red represents a passion for heraldry; black ties the family together; white is for compassion and purity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10701))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/09/2012 — Reekie, Charlene (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10701">record</a>)</li>
+<li>undated — Reekie, Charlene Name Tartan Tartan Number: 10701. Earliest known date: 19 September 2012 Robert Reekie designed this tartan for his sister to thank her for her dedication and commitment to the study of Reekie heraldry. Colours: magenta is for dedication; yellow is one of the family colours; green is for patience; red represents a passion for heraldry; black ties the family together; white is for compassion and purity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10701">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

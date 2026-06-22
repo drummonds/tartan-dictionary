@@ -2,9 +2,10 @@
 title: "Edinburgh Tattoo 50th (Commemorative"
 date: 2023-03-18
 ---
-In pattern [KBRGK](/stripes/kbrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1db8r6g8k1/)
+(the same proportion at any scale), whose colour order is pattern [KBRGK](/stripes/kbrgk/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3614/
 

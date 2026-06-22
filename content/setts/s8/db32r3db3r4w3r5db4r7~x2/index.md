@@ -2,18 +2,20 @@
 title: "Edinburgh TIC (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBRWRBR](/stripes/brbrwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db32r3db3r4ln3r5db4r7/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWRBR](/stripes/brbrwrbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3944/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Late 1980's — Edinburgh TIC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3944/))
-- undated — Edinburgh TIC (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4980))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Late 1980's — Edinburgh TIC (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3944/">record</a>)</li>
+<li>undated — Edinburgh TIC (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4980">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

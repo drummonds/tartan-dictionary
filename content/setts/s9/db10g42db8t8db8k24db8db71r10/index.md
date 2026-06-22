@@ -2,9 +2,10 @@
 title: "Robert Burns Legacy"
 date: 2023-03-18
 ---
-In pattern [BGBBBKBBR](/stripes/bgbbbkbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10g42dba8b8dba8k24dba8db71r10/)
+(the same proportion at any scale), whose colour order is pattern [BGBBBKBBR](/stripes/bgbbbkbbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Robert Burns of Ayr
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2006 — Robert Burns Legacy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518))
-- 2006 February — Robert Burns of Ayr (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6843/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2006 — Robert Burns Legacy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3518">record</a>)</li>
+<li>2006 February — Robert Burns of Ayr (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6843/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

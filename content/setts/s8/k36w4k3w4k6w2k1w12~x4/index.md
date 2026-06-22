@@ -2,9 +2,10 @@
 title: "Menzies (1938)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKW](/stripes/kwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36w4k3w4k6w2k1w12/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKW](/stripes/kwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Menzies 1938
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1934 — Menzies (1938) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924))
-- pre 1934 — Menzies 1938 - Mourning (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1244/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1934 — Menzies (1938) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2924">record</a>)</li>
+<li>pre 1934 — Menzies 1938 - Mourning (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1244/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

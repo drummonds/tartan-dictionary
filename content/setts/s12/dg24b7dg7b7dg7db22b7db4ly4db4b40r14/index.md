@@ -2,9 +2,10 @@
 title: "Powys Welsh District Tartan Tartan Number: 5747. Earliest known date: 2002 Tartan the Welsh County of Powys in Mid Wales. Differing in warp and weft, the threads and colours create an unusual striped effect, designed and woven at the Cambrian Woollen Mill which has been in existence since c.1830. Woven for Wales Tartan Centres, Swansea. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGBGBBBYBBR](/stripes/gbgbgbbbybbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24b7g7b7g7db22b7db4y4db4b40r14/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBBBYBBR](/stripes/gbgbgbbbybbr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5747
 

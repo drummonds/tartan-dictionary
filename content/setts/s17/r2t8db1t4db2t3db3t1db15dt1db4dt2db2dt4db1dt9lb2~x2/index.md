@@ -2,9 +2,10 @@
 title: "Pride of Lorient (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBBBBBBBBBBBBBBBW](/stripes/rbbbbbbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b8db1b4db2b3db3b1db15dba1db4dba2db2dba4db1dba9lr2/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBBBBBBBBBBBBW](/stripes/rbbbbbbbbbbbbbbbw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10787/
 

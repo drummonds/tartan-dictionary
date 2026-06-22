@@ -2,9 +2,10 @@
 title: "Watertown Library Assoc. (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGK](/stripes/gkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4lg2k27lg2k8lg31k2lg4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGK](/stripes/gkgkgkgk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6268/
 

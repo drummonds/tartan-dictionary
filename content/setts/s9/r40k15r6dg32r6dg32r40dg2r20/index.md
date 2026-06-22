@@ -2,9 +2,10 @@
 title: "Maxwell Variant"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRKR](/stripes/rgrgrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r40k15r6g32r6g32r40g2r20/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRKR](/stripes/rgrgrgrkr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2864
 

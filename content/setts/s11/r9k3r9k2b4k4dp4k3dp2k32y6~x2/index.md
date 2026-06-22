@@ -2,9 +2,10 @@
 title: "Brotherhood of Dirk (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKBKBKBKRKR](/stripes/gkbkbkbkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9k3r9k2b4k4p4k3p2k32g6/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBKRKR](/stripes/gkbkbkbkrkr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10343/
 

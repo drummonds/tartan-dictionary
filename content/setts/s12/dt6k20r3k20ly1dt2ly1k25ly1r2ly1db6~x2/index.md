@@ -2,9 +2,10 @@
 title: "Martinez (2014)"
 date: 2023-03-18
 ---
-In pattern [BKRKYBYKYRYB](/stripes/bkrkybykyryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y1dr2y1k25y1dba2y1k20dr3k20dba6/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYBYKYRYB](/stripes/bkrkybykyryb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11118
 

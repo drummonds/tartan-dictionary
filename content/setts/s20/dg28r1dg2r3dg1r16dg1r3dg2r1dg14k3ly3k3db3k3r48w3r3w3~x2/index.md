@@ -2,9 +2,10 @@
 title: "Moray Plaid"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r1g2r3g1r16g1r3g2r1g14k3y3k3b3k3r48ln3r3ln3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGKYKBKRWRW](/stripes/grgrgrgrgrgkykbkrwrw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3011
 

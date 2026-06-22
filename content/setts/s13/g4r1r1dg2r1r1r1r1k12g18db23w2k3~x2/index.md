@@ -2,9 +2,10 @@
 title: "St. Andrews Grand (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRRGRRRRKGBWK](/stripes/grrgrrrrkgbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r1lr1dg2r1lr1r1lr1k12g18db23w2k3/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRRRRKGBWK](/stripes/grrgrrrrkgbwk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6743/
 

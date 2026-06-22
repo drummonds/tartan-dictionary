@@ -2,18 +2,20 @@
 title: "Sinclair Hunting"
 date: 2023-03-18
 ---
-In pattern [GRGKYBR](/stripes/grgkybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2db16n1k16dg30dr1dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKYBR](/stripes/grgkybr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Sinclair Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Sinclair Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Sinclair Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Sinclair Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/4 DB32 N2 K32 DG60 DR2 DG/4

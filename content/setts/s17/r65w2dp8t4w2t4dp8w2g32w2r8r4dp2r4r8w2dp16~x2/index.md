@@ -2,9 +2,10 @@
 title: "Birral (Clan)"
 date: 2023-03-18
 ---
-In pattern [BWRRBRRWGWBBWBBWR](/stripes/bwrrbrrwgwbbwbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r65ln2dp8b4ln2b4dp8ln2g32ln2r8do4dp2do4r8ln2dp16/)
+(the same proportion at any scale), whose colour order is pattern [BWRRBRRWGWBBWBBWR](/stripes/bwrrbrrwgwbbwbbwr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/658/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Birral Burrell
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1797 — Birral (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/658/))
-- undated — Birral Burrell Clan Tartan Tartan Number: 658. Earliest known date: 1819 The accounts books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=658))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1797 — Birral (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/658/">record</a>)</li>
+<li>undated — Birral Burrell Clan Tartan Tartan Number: 658. Earliest known date: 1819 The accounts books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=658">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/130 LN4 DP16 B8 LN4 B8 DP16 LN4 G64 LN4 R16 DO8 DP4 DO8 R16 LN4 DP/32

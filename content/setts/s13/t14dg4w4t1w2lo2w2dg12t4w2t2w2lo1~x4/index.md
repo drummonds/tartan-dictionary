@@ -2,9 +2,10 @@
 title: "Entrelacs"
 date: 2023-03-18
 ---
-In pattern [BGWBWYWGBWBWY](/stripes/bgwbwywgbwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b14dg4ln4b1ln2dy2ln2dg12b4ln2b2ln2dy1/)
+(the same proportion at any scale), whose colour order is pattern [BGWBWYWGBWBWY](/stripes/bgwbwywgbwbwy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1116
 

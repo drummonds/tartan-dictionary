@@ -2,9 +2,10 @@
 title: "Dundee F.C. Corporate Tartan Tartan Number: 2058. Earliest known date: 1990 The tartan of the Dundee Football Club launched on the 10th December, 1990. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBWBYBYBR](/stripes/bwbwbybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6ln4db3ln6db8o3db52o3db8r4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBYBYBR](/stripes/bwbwbybybr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2058
 

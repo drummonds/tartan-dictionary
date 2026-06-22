@@ -2,9 +2,10 @@
 title: "Rendell, Charles (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGBGBGBGBKBKBKBBR](/stripes/kgbgbgbgbkbkbkbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2p1g2p1g2p1g12b4k3b3k3b3k3b4dp24r2/)
+(the same proportion at any scale), whose colour order is pattern [KGBGBGBGBKBKBKBBR](/stripes/kgbgbgbgbkbkbkbbr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10699/
 

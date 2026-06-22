@@ -2,18 +2,20 @@
 title: "Fiddes - 2007 (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGKBKBGG](/stripes/bggkbkbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14ga14b14k1b1k1ga38g9b9/)
+(the same proportion at any scale), whose colour order is pattern [BGGKBKBGG](/stripes/bggkbkbgg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7618/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Fiddes - 2007 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7618/))
-- undated — Fiddes (2007) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5638))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Fiddes - 2007 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7618/">record</a>)</li>
+<li>undated — Fiddes (2007) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5638">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

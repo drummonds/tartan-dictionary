@@ -2,9 +2,10 @@
 title: "Irving of Bonshaw"
 date: 2023-03-18
 ---
-In pattern [GGBGY](/stripes/ggbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g27b14db2b2y2/)
+(the same proportion at any scale), whose colour order is pattern [GGBGY](/stripes/ggbgy/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1859
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Irving of Bonshaw Clan/Family
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1992 — Irving of Bonshaw (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1859))
-- 1st Jan. 1992 — Irving of Bonshaw (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2609/))
-- undated — Irving of Bonshaw Clan/Family Tartan Tartan Number: 2609. Earliest known date: c. 1992 Designed by the Scottish Tartans Society for Captain R.A.S. Irving RN (Retd) and Mr R.C. Irving, for all those of the original Border Clan Irving of Bonshaw and for all Border Irvings, Irvines and variant spellings of the name. The purpose is to distinguish from other persons bearing the name who may wish to wear the Clan Irvine. The tartan is a variation on the historic Irvine tartan. Its purpose is to include all persons related to Clan Irving of Bonshaw. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2609))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1992 — Irving of Bonshaw (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1859">record</a>)</li>
+<li>1st Jan. 1992 — Irving of Bonshaw (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2609/">record</a>)</li>
+<li>undated — Irving of Bonshaw Clan/Family Tartan Tartan Number: 2609. Earliest known date: c. 1992 Designed by the Scottish Tartans Society for Captain R.A.S. Irving RN (Retd) and Mr R.C. Irving, for all those of the original Border Clan Irving of Bonshaw and for all Border Irvings, Irvines and variant spellings of the name. The purpose is to distinguish from other persons bearing the name who may wish to wear the Clan Irvine. The tartan is a variation on the historic Irvine tartan. Its purpose is to include all persons related to Clan Irving of Bonshaw. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2609">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

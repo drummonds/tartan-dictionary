@@ -2,9 +2,10 @@
 title: "Mayo, County"
 date: 2023-03-18
 ---
-In pattern [BYGRBGKGBRGY](/stripes/bygrbgkgbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dg16db11dr16dg25dy2b3/)
+(the same proportion at any scale), whose colour order is pattern [BYGRBGKGBRGY](/stripes/bygrbgkgbrgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2867
 

@@ -2,9 +2,10 @@
 title: "Spirit of the Glen (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBBGBKBBBW](/stripes/bbbbgbkbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2db4dba7db3g20db5k7db3pa3dbb35ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGBKBBBW](/stripes/bbbbgbkbbbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3923/
 

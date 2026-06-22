@@ -2,9 +2,10 @@
 title: "Gray, Thomas (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWRWBWRBYB](/stripes/bwrwbwrbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y1db1n6ln16na1ln1n2ln1na1/)
+(the same proportion at any scale), whose colour order is pattern [BWRWBWRBYB](/stripes/bwrwbwrbyb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11628
 

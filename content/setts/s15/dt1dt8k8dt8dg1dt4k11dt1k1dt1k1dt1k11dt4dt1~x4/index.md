@@ -2,9 +2,10 @@
 title: "ShadowHalls"
 date: 2023-03-18
 ---
-In pattern [BBKBGBKBKBKBKBB](/stripes/bbkbgbkbkbkbkbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1dn4k11dn1k1dn1k1db1k11ka4n1ka8k8dn8ka1/)
+(the same proportion at any scale), whose colour order is pattern [BBKBGBKBKBKBKBB](/stripes/bbkbgbkbkbkbkbb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11013
 

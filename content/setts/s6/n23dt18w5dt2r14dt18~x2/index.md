@@ -2,9 +2,10 @@
 title: "Pitt (Glasgow)"
 date: 2023-03-18
 ---
-In pattern [BBWBRB](/stripes/bbwbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba23db18ln5db2r14db18/)
+(the same proportion at any scale), whose colour order is pattern [BBWBRB](/stripes/bbwbrb/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10376
 

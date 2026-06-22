@@ -2,9 +2,10 @@
 title: "Kirkcaldy Tartan Army (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBWBY](/stripes/brbrbrbrbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn36r3dn1r2dn3r6db1r2db35w1db1dy2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBWBY](/stripes/brbrbrbrbwby/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6842/
 

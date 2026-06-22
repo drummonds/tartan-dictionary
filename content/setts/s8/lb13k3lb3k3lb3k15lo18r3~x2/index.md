@@ -2,9 +2,10 @@
 title: "Holden Beige (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RYKWKWKW](/stripes/rykwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr13k3lr3k3lr3k15lt18r3/)
+(the same proportion at any scale), whose colour order is pattern [RYKWKWKW](/stripes/rykwkwkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8680/
 

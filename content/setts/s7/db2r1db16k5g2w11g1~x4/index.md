@@ -2,9 +2,10 @@
 title: "Sinclair dress"
 date: 2023-03-18
 ---
-In pattern [BRBKGWG](/stripes/brbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2r1b16k5g2ln11g1/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGWG](/stripes/brbkgwg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

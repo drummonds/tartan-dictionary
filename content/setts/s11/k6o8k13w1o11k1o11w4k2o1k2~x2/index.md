@@ -2,9 +2,10 @@
 title: "Oregon State University"
 date: 2023-03-18
 ---
-In pattern [KRKWRKRWKRK](/stripes/krkwrkrwkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6do8k13w1do11k1do11w4k2do1k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKWRKRWKRK](/stripes/krkwrkrwkrk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10131
 

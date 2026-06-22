@@ -2,9 +2,10 @@
 title: "Louise of Lorne"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKGRK](/stripes/bkbkgkgkgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1g6k1g1k1g1k6b9k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKGRK](/stripes/bkbkgkgkgrk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2230
 

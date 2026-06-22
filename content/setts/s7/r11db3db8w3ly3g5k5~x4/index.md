@@ -2,9 +2,10 @@
 title: "Nicolson of Taransay Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGYWBBR](/stripes/kgywbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r11db3dba8ln3y3g5k5/)
+(the same proportion at any scale), whose colour order is pattern [KGYWBBR](/stripes/kgywbbr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5753
 

@@ -2,9 +2,10 @@
 title: "Old England House Check"
 date: 2023-03-18
 ---
-In pattern [GWGWGWRWKWRW](/stripes/gwgwgwrwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln46n9ln4k8ln9r4ln9t2ln2t2ln2t1/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWRWKWRW](/stripes/gwgwgwrwkwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11148/
 

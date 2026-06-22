@@ -2,9 +2,10 @@
 title: "MacThomas"
 date: 2023-03-18
 ---
-In pattern [BRBKGRG](/stripes/brbkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5p3g32k16b32lr3b5/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2772
 

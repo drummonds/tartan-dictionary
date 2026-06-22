@@ -2,9 +2,10 @@
 title: "Harmon (Name)"
 date: 2023-03-18
 ---
-In pattern [KRYRYRBGBRRKRGRGRY](/stripes/kryryrbgbrrkrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r6dy2r2dy2r19db2g2db2r2dr4k2dr11g2dr2g2dr6dy2/)
+(the same proportion at any scale), whose colour order is pattern [KRYRYRBGBRRKRGRGRY](/stripes/kryryrbgbrrkrgrgry/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7792/
 

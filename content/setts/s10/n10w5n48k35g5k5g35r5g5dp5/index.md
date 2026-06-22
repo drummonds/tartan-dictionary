@@ -2,9 +2,10 @@
 title: "Big Rory (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGRGKGKBWB](/stripes/bgrgkgkbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10ln5b48k35g5k5g35r5g5p5/)
+(the same proportion at any scale), whose colour order is pattern [BGRGKGKBWB](/stripes/bgrgkgkbwb/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8011/
 

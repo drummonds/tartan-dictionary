@@ -2,9 +2,10 @@
 title: "Norwegian Centennial"
 date: 2023-03-18
 ---
-In pattern [BWRKBKBKBKBW](/stripes/bwrkbkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w24b50k2b8k4b2k4b8k2r40w5b10/)
+(the same proportion at any scale), whose colour order is pattern [BWRKBKBKBKBW](/stripes/bwrkbkbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5412
 

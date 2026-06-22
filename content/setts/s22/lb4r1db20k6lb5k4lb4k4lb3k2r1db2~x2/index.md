@@ -2,9 +2,10 @@
 title: "Scottish Knights Templar St. Andrews"
 date: 2023-03-18
 ---
-In pattern [BRKWKWKWKBRWRBKWKWKWKR](/stripes/brkwkwkwkbrwrbkwkwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4r1dba20k6n5k4n4k4n3k2r1dba2/)
+(the same proportion at any scale), whose colour order is pattern [BRKWKWKWKBRWRBKWKWKWKR](/stripes/brkwkwkwkbrwrbkwkwkwkr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3728
 

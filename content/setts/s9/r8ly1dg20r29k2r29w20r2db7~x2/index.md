@@ -2,9 +2,10 @@
 title: "Unidentified Travelling costume"
 date: 2023-03-18
 ---
-In pattern [BRWRKRGYR](/stripes/brwrkrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8y1g20r29k2r29ln20r2b7/)
+(the same proportion at any scale), whose colour order is pattern [BRWRKRGYR](/stripes/brwrkrgyr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4389
 

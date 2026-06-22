@@ -2,9 +2,10 @@
 title: "London Fog Camel 2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WYKYWYBYWY](/stripes/wykywybywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na3n2na18b9na18n2na18k9na18n2/)
+(the same proportion at any scale), whose colour order is pattern [WYKYWYBYWY](/stripes/wykywybywy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7315/
 

@@ -2,19 +2,21 @@
 title: "Varrie"
 date: 2023-03-18
 ---
-In pattern [BBWY](/stripes/bbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11db1ln1y1/)
+(the same proportion at any scale), whose colour order is pattern [BBWY](/stripes/bbwy/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10113
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 20/11/2009 — Varrie (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10113))
-- 20th Nov. 2009 — Varrie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10113/))
-- undated — Varrie Name Tartan Tartan Number: 10113. Earliest known date: 20th Nov. 2009 Designed in remembrance of the designer's mother, Jean Alexander Varrie, and her Scottish heritage. The light blue represents the rivers crossed by the family, the medium blue represents the oceans crossed, yellow represents the land and mountains where they settled and white represents their peace and tranquility. All Varrie families may use this design. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10113))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>20/11/2009 — Varrie (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10113">record</a>)</li>
+<li>20th Nov. 2009 — Varrie (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10113/">record</a>)</li>
+<li>undated — Varrie Name Tartan Tartan Number: 10113. Earliest known date: 20th Nov. 2009 Designed in remembrance of the designer's mother, Jean Alexander Varrie, and her Scottish heritage. The light blue represents the rivers crossed by the family, the medium blue represents the oceans crossed, yellow represents the land and mountains where they settled and white represents their peace and tranquility. All Varrie families may use this design. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10113">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

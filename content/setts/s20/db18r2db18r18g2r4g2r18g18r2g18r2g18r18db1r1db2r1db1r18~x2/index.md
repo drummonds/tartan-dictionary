@@ -2,9 +2,10 @@
 title: "Ross 3"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRGRGRGRBRBRBR](/stripes/brbrgrgrgrgrgrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18b1r1b2r1b1r18g18r2g18r2g18r18g2r4g2r18b18r2b18/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGRGRGRBRBRBR](/stripes/brbrgrgrgrgrgrbrbrbr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Forbes of Druminnor Artifact Tartan Tartan Number: 592. Earliest known date: 1968 Inspired by an old rug belonging to Hon. Peggy Forbes Semphill. A sample was woven by A Stewart while acting as Director of Research at the Scottish Tartans Society in 1968. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBWBGBBBBB](/stripes/bbbbbbgbwbgbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6dr2db2dr2db2t6g8t1ln2t1g8dra2t4db8dr2db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBWBGBBBBB](/stripes/bbbbbbgbwbgbbbbb/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=592
 

@@ -2,9 +2,10 @@
 title: "Baluch Regiment"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g24r6g4r4g6r44g1wa4/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGW](/stripes/rgrgrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=188
 

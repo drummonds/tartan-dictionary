@@ -2,18 +2,20 @@
 title: "Shaughnessy"
 date: 2023-03-18
 ---
-In pattern [BWBYBWBGBBBW](/stripes/bwbybwbgbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db68lb4t10y2t3w3t3g11db8t3db3w3/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBWBGBBBW](/stripes/bwbybwbgbbbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2003 — Shaughnessy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774))
-- May 2003 — Shaughnessy (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6033/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2003 — Shaughnessy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3774">record</a>)</li>
+<li>May 2003 — Shaughnessy (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6033/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

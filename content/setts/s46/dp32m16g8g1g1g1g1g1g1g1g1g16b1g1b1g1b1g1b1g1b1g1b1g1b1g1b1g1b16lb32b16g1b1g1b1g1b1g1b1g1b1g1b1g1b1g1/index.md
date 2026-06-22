@@ -2,9 +2,10 @@
 title: "Virginia (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG](/stripes/brggggggggggbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p32lp16g8ga1g1ga1g1ga1g1ga1g1ga16b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b16lpa32b16ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1b1ga1/)
+(the same proportion at any scale), whose colour order is pattern [BRGGGGGGGGGGBGBGBGBGBGBGBGBGBWBGBGBGBGBGBGBGBG](/stripes/brggggggggggbgbgbgbgbgbgbgbgbwbgbgbgbgbgbgbgbg/).
 
-This was sourced from tartans-authority.  It is a [46 stripe tartan](/stripes/stripes46/).
+Sourced from tartans-authority.  It is a [46 stripe tartan](/stripes/stripes46/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4060/
 

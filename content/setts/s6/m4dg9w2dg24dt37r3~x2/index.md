@@ -2,9 +2,10 @@
 title: "Hardie (Name)"
 date: 2023-03-18
 ---
-In pattern [RBGWGR](/stripes/rbgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4dg9ln2dg24db37r3/)
+(the same proportion at any scale), whose colour order is pattern [RBGWGR](/stripes/rbgwgr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3903/
 

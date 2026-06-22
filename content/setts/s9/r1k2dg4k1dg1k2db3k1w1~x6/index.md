@@ -2,9 +2,10 @@
 title: "MacKean dress"
 date: 2023-03-18
 ---
-In pattern [RKGKGKBKW](/stripes/rkgkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k2dg4k1dg1k2b3k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKBKW](/stripes/rkgkgkbkw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

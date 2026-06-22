@@ -2,9 +2,10 @@
 title: "Cumming, Comyn"
 date: 2023-03-18
 ---
-In pattern [KRGRGRGWGR](/stripes/krgrgrgwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g8ln1g8r4g4r2g4r24k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGRGWGR](/stripes/krgrgrgwgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Cumming, Comyn
 - Cumming/Comyn
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cumming, Comyn (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cumming Clan Tartan Tartan Number: 1158. Earliest known date: 1842 John, Lord of Badenoch - the Red Comyn, fought Robert the Bruce for the Scottish throne, and died in the attempt. The Comyns of Altyre became Chiefs of the Clan. The true origins of the tartan are unknown as the claims of antiquity made in the Vestiarium Scoticum, where this version of the tartan was first recorded, are unreliable. Ref: The Setts No 32. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1158))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cumming, Comyn (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cumming Clan Tartan Tartan Number: 1158. Earliest known date: 1842 John, Lord of Badenoch - the Red Comyn, fought Robert the Bruce for the Scottish throne, and died in the attempt. The Comyns of Altyre became Chiefs of the Clan. The true origins of the tartan are unknown as the claims of antiquity made in the Vestiarium Scoticum, where this version of the tartan was first recorded, are unreliable. Ref: The Setts No 32. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1158">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 G16 LN2 G16 R8 G8 R4 G8 R48 K/4

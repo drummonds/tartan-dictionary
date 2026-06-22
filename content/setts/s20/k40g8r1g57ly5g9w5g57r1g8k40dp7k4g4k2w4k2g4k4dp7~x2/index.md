@@ -2,9 +2,10 @@
 title: "Unidentified, Phyllis Gordon"
 date: 2023-03-18
 ---
-In pattern [BKGKWKGKBKGRGWGYGRGK](/stripes/bkgkwkgkbkgrgwgygrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40g8r1g57y5g9ln5g57r1g8k40p7k4g4k2ln4k2g4k4p7/)
+(the same proportion at any scale), whose colour order is pattern [BKGKWKGKBKGRGWGYGRGK](/stripes/bkgkwkgkbkgrgwgygrgk/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

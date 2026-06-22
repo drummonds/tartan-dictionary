@@ -2,18 +2,20 @@
 title: "Brown, George"
 date: 2023-03-18
 ---
-In pattern [WRKRGRKGY](/stripes/wrkrgrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g24k18r4g22r6k4r3w3/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGRKGY](/stripes/wrkrgrkgy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Brown, George (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395))
-- pre 2002 — Brown, George (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1853/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Brown, George (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=395">record</a>)</li>
+<li>pre 2002 — Brown, George (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1853/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

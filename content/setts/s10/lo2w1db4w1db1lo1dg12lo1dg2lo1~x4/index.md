@@ -2,9 +2,10 @@
 title: "Henry, David G (Personal)"
 date: 2023-03-18
 ---
-In pattern [YGYGYBWBWY](/stripes/ygygybwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2w1db4w1db1o1dg12o1dg2o1/)
+(the same proportion at any scale), whose colour order is pattern [YGYGYBWBWY](/stripes/ygygybwbwy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11600
 

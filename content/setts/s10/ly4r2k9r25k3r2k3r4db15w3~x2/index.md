@@ -2,9 +2,10 @@
 title: "Royal & Ancient/Golfing Stewart"
 date: 2023-03-18
 ---
-In pattern [WBRKRKRKRY](/stripes/wbrkrkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4r2k9r25k3r2k3r4db15w3/)
+(the same proportion at any scale), whose colour order is pattern [WBRKRKRKRY](/stripes/wbrkrkrkry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1448
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal & Ancient/Golfing Stewart
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/1999 — Royal & Ancient/Golfing Stewart (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1448))
-- August 1999 — Golfing Stewart (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2626/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1999 — Royal & Ancient/Golfing Stewart (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1448">record</a>)</li>
+<li>August 1999 — Golfing Stewart (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2626/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

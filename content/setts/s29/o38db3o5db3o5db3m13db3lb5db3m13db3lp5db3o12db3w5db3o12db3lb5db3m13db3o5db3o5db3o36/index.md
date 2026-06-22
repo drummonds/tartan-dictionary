@@ -2,9 +2,10 @@
 title: "Kumikyoku - Wind of Thistle"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRBWBRBWBRBWBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbwbrbwbrbwbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n38db3n5db3n5db3r13db3lb5db3r13db3lp5db3n12db3w5db3n12db3lb5db3r13db3n5db3n5db3n36/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRBWBRBWBRBWBRBWBRBRBRBR](/stripes/rbrbrbrbwbrbwbrbwbrbwbrbrbrbr/).
 
-This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11284/
 

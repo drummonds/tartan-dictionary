@@ -2,9 +2,10 @@
 title: "Melville Family Tartan Tartan Number: 1050. Earliest known date: 1847 There is a sample in the Moy Hall collection.(1848). This sett, also known as Oliphant and Melville, appears in one of Wilson's notebooks in 1847. It is mentioned in a letter dated June 1824 but without any means of identification. It is also to be found in the Scott Adie (London) collection and in the MacPherson Museum in Newtonmore. Wilson records the second pivot (between the white lines) as blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k2db12k13g13ln2k4ln2g13k13db4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGWKWGKB](/stripes/bkbkgwkwgkb/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1050
 

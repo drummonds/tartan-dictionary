@@ -2,18 +2,20 @@
 title: "Australia Dress"
 date: 2023-03-18
 ---
-In pattern [BRGRGKGRY](/stripes/brgrgkgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11dr4lt2k4lt2dr4lt12dr20b2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGKGRY](/stripes/brgrgkgry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Australia Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139))
-- 1988 — Australia Dress (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/612/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Australia Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=139">record</a>)</li>
+<li>1988 — Australia Dress (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/612/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

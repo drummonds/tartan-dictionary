@@ -2,9 +2,10 @@
 title: "Huntly Gordon Fancy Tartan Tartan Number: 3215. Earliest known date: 2001 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGYGKBKR](/stripes/bkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22k12g11y2g11k12b11k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKGYGKBKR](/stripes/bkgygkbkr/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3215
 

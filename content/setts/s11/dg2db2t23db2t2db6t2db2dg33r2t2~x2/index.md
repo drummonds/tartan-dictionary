@@ -2,18 +2,20 @@
 title: "Maine, Original State of (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRGBBBBBBBG](/stripes/brgbbbbbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2db2b23db2b2db6b2db2g33r2b2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBBBBBBBG](/stripes/brgbbbbbbbg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/502/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1964 — Maine, Original State of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/502/))
-- 01/01/1965 — Maine, Original State of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2788))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1964 — Maine, Original State of (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/502/">record</a>)</li>
+<li>01/01/1965 — Maine, Original State of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2788">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "MacLachlan Dress Clan Tartan Tartan Number: 828. Earliest known date: 1990 Based on the MacLachlan pattern in Old And Rare See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKWGGWR](/stripes/gkwggwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do34ln3g4ga23ln24k3g4/)
+(the same proportion at any scale), whose colour order is pattern [GKWGGWR](/stripes/gkwggwr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=828
 

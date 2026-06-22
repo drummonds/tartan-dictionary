@@ -2,9 +2,10 @@
 title: "Unnamed C19th (Silk Sash)"
 date: 2023-03-18
 ---
-In pattern [BYBYGYRYRYB](/stripes/bybygyryryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7n2dp5y2g7y2r5n2r5y2db7/)
+(the same proportion at any scale), whose colour order is pattern [BYBYGYRYRYB](/stripes/bybygyryryb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8490/
 

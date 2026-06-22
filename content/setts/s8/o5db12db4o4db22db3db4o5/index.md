@@ -2,9 +2,10 @@
 title: "Daks, Muted blue"
 date: 2023-03-18
 ---
-In pattern [RBBBRBBR](/stripes/rbbbrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta5b12db4lt4db22b3db4lta5/)
+(the same proportion at any scale), whose colour order is pattern [RBBBRBBR](/stripes/rbbbrbbr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

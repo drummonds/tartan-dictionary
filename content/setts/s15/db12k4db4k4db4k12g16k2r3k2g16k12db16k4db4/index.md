@@ -2,9 +2,10 @@
 title: "MacKinlay (2/4 black stripes)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k4db4k4db4k12g16k2dr3k2g16k12db16k4db4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5201
 

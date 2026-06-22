@@ -2,9 +2,10 @@
 title: "MacKinnon Dress Trade Tartan Tartan Number: 921. Earliest known date: 1970-80 Canada. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBWR](/stripes/gbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9dr7ln7r1/)
+(the same proportion at any scale), whose colour order is pattern [GBWR](/stripes/gbwr/).
 
-This was sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=921
 

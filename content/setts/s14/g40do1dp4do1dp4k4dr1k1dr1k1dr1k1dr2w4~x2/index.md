@@ -2,9 +2,10 @@
 title: "Mighty Men"
 date: 2023-03-18
 ---
-In pattern [GBBBBKBKBKBKBW](/stripes/gbbbbkbkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40n1dp4n1dp4k4dr1k1dr1k1dr1k1dr2w4/)
+(the same proportion at any scale), whose colour order is pattern [GBBBBKBKBKBKBW](/stripes/gbbbbkbkbkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10270
 

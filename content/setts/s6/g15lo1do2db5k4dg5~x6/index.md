@@ -2,9 +2,10 @@
 title: "Dobson (Palm Bay) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKBBYG](/stripes/gkbbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15y1dr2db5k4dg5/)
+(the same proportion at any scale), whose colour order is pattern [GKBBYG](/stripes/gkbbyg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10943
 

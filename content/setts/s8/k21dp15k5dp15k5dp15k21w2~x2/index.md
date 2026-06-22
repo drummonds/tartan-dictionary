@@ -2,9 +2,10 @@
 title: "Highland Spirit"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKW](/stripes/kbkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba21p15dba5p15dba5p15dba21ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKW](/stripes/kbkbkbkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1718
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Highland Spirit Weavers
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Highland Spirit (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1718))
-- undated — Highland Spirit Weavers Tartan Tartan Number: 5739. Earliest known date: 2002 Purple of the mountains, the dark of night and the "magic silver lining of Scottish freedom which gives pride, respect, excitement and honour about the wearer." Originally for T J Matthews, Blantyre See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5739))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Highland Spirit (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1718">record</a>)</li>
+<li>undated — Highland Spirit Weavers Tartan Tartan Number: 5739. Earliest known date: 2002 Purple of the mountains, the dark of night and the "magic silver lining of Scottish freedom which gives pride, respect, excitement and honour about the wearer." Originally for T J Matthews, Blantyre See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5739">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

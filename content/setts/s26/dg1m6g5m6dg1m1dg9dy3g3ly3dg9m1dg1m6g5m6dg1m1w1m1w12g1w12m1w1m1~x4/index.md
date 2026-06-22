@@ -2,9 +2,10 @@
 title: "Maple Leaf Dress District Tartan Tartan Number: 2033. Earliest known date: pre 1992 In creating the Maple Leaf Tartan fabric, David Weiser captured the natural phenomena of these leaves turning from summer into autumn. (The Office of the High Commissioner for Canada.) This is a dress version of the Maple Leaf tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGGGYGRGRGRGRWRWGWRWR](/stripes/grgrgrgggygrgrgrgrwrwgwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg1r6g5r6dg1r1dg9t3g3y3dg9r1dg1r6g5r6dg1r1ln1r1ln12g1ln12r1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGGGYGRGRGRGRWRWGWRWR](/stripes/grgrgrgggygrgrgrgrwrwgwrwr/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2033
 

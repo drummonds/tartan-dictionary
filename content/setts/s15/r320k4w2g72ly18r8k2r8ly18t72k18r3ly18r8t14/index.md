@@ -2,9 +2,10 @@
 title: "Crubin Plaid (MacPherson)"
 date: 2023-03-18
 ---
-In pattern [BRYRKBYRKRYGWKR](/stripes/bryrkbyrkrygwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r320k4ln2g72y18r8k2r8y18b72k18r3y18r8b14/)
+(the same proportion at any scale), whose colour order is pattern [BRYRKBYRKRYGWKR](/stripes/bryrkbyrkrygwkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4844
 

@@ -2,9 +2,10 @@
 title: "Hawick Common Riding"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBBY](/stripes/bbbbbbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b23db8b1db3b2db2b2db2b3db1b4y4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBBY](/stripes/bbbbbbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10601
 

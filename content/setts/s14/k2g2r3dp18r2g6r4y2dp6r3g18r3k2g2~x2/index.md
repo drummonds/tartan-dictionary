@@ -2,9 +2,10 @@
 title: "MacIntyre and Glenorchy"
 date: 2023-03-18
 ---
-In pattern [GKRGRBGRGRBRGK](/stripes/gkrgrbgrgrbrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2r3dp18r2g6r4lg2dp6r3g18r3k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GKRGRBGRGRBRGK](/stripes/gkrgrbgrgrbrgk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5059
 

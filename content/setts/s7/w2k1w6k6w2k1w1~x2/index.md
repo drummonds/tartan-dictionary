@@ -2,18 +2,20 @@
 title: "Scott (Abbreviated)"
 date: 2023-03-18
 ---
-In pattern [WKWKWKW](/stripes/wkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1ln6k6ln2k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKW](/stripes/wkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scott (Abbreviated) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690))
-- undated — Scott (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scott (Abbreviated) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3690">record</a>)</li>
+<li>undated — Scott (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

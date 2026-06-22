@@ -2,9 +2,10 @@
 title: "MacPerl (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKWGGGWKWGGGKGGGKGWGKGGGKGWG](/stripes/gkwgggwkwgggkgggkgwgkgggkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18db5ln3dg1dga3dg1ln3db5lna8dga1dg18dg18db5dg1dga1dg1db3dga1ln3dga1db3dg1dga1dg1db5dg18lna8dga1/)
+(the same proportion at any scale), whose colour order is pattern [GKWGGGWKWGGGKGGGKGWGKGGGKGWG](/stripes/gkwgggwkwgggkgggkgwgkgggkgwg/).
 
-This was sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from tartans-authority.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10122/
 

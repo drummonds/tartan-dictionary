@@ -2,18 +2,20 @@
 title: "Registers of Scotland, The (Corp)"
 date: 2023-03-18
 ---
-In pattern [GBYBYBWBBBYBR](/stripes/gbybybwbbbybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2n1na1n3nc2db2lp1db1n5db2nb1db42t2/)
+(the same proportion at any scale), whose colour order is pattern [GBYBYBWBBBYBR](/stripes/gbybybwbbbybr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7830/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Nov. 2008 — Registers of Scotland, The (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7830/))
-- undated — Registers of Scotland, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5784))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Nov. 2008 — Registers of Scotland, The (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7830/">record</a>)</li>
+<li>undated — Registers of Scotland, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5784">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

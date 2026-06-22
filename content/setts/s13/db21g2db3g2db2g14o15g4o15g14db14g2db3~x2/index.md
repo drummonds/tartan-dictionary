@@ -2,9 +2,10 @@
 title: "Montmorency"
 date: 2023-03-18
 ---
-In pattern [BGBGBGRGRGBGB](/stripes/bgbgbgrgrgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b21g2b3g2b2g14lt15g4lt15g14b14g2b3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGRGRGBGB](/stripes/bgbgbgrgrgbgb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "Guide Dogs (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWYRGBK](/stripes/bwyrgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db67ln1dy6r5dg25db3k5/)
+(the same proportion at any scale), whose colour order is pattern [BWYRGBK](/stripes/bwyrgbk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7537/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2006 — Guide Dogs (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7537/))
-- undated — Guide Dogs (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5572))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2006 — Guide Dogs (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7537/">record</a>)</li>
+<li>undated — Guide Dogs (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5572">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

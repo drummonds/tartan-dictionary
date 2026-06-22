@@ -2,9 +2,10 @@
 title: "Ramsay, Red"
 date: 2023-03-18
 ---
-In pattern [KRKGRGW](/stripes/krkgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4do9k13g6do3g9ln4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGRGW](/stripes/krkgrgw/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

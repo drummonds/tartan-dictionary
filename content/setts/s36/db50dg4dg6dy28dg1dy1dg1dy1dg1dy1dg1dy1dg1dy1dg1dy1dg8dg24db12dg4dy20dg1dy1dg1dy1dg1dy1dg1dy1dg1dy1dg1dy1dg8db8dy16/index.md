@@ -2,9 +2,10 @@
 title: "Nova Scotia #2"
 date: 2023-03-18
 ---
-In pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b50dg4g6t28g1t1g1t1g1t1g1t1g1t1g1t1g8dg24b12dg4t20dg1t1dg1t1dg1t1dg1t1dg1t1dg1t1dg8b8t16/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGGGGGGGGGGGGGBGGGGGGGGGGGGGGGBG](/stripes/bgggggggggggggggggbgggggggggggggggbg/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3201
 

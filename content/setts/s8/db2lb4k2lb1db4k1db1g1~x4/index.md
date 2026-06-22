@@ -2,9 +2,10 @@
 title: "Culloden - 1977 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BWKWBKBG](/stripes/bwkwbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2n4k2n1b4k1b1g1/)
+(the same proportion at any scale), whose colour order is pattern [BWKWBKBG](/stripes/bwkwbkbg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4622/
 

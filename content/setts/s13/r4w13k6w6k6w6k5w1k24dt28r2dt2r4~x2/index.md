@@ -2,9 +2,10 @@
 title: "Hogmany Plaid"
 date: 2023-03-18
 ---
-In pattern [RBRBKWKWKWKWR](/stripes/rbrbkwkwkwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln13dba6ln6dba6ln6dba5ln1dba24db28r2db2r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKWKWKWKWR](/stripes/rbrbkwkwkwkwr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

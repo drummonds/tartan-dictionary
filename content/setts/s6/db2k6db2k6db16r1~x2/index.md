@@ -2,9 +2,10 @@
 title: "MacKay V"
 date: 2023-03-18
 ---
-In pattern [BKBKBR](/stripes/bkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k6db2k6db16r1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBR](/stripes/bkbkbr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - MacKay V
 - MacKay VS
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — MacKay V (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — MacKay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacKay VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacKay VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacKay V (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — MacKay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacKay VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacKay VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 K12 DB4 K12 DB32 R/2

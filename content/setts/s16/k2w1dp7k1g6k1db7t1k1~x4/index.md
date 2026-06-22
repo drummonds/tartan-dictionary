@@ -2,9 +2,10 @@
 title: "South Lanarkshire"
 date: 2023-03-18
 ---
-In pattern [BBKGKBWKWBKGKBBK](/stripes/bbkgkbwkwbkgkbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ln1p7k1ga6k1dba7b1k1/)
+(the same proportion at any scale), whose colour order is pattern [BBKGKBWKWBKGKBBK](/stripes/bbkgkbwkwbkgkbbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3843
 

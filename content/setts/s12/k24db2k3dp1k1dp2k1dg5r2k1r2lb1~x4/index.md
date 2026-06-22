@@ -2,9 +2,10 @@
 title: "Braveheart Warrior"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k24db2k3dp1k1dp2k1dg5dr2k1dr2n1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKGRKRW](/stripes/kbkbkbkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=343
 

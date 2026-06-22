@@ -2,9 +2,10 @@
 title: "Rankin (Dalgleish) #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKKWGRGKRBRBRBW](/stripes/bkbkbkgrgkkwgrgkrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db3k2db3k16g8dr2g8k1k1w2g8dr2g8k16dr2db8dr3db2dr2db3w2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKKWGRGKRBRBRBW](/stripes/bkbkbkgrgkkwgrgkrbrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5184
 

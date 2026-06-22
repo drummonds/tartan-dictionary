@@ -2,9 +2,10 @@
 title: "Historic Scotland Corporate Tartan Tartan Number: 2122. Earliest known date: 1988 Custodians at Historic Scotland properties throughout Scotland, including Edinburgh Castle, wear this distinctive tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGGKGK](/stripes/grgrggkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g7k1g9t21n2t1n1t2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGGKGK](/stripes/grgrggkgk/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2122
 

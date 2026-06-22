@@ -2,9 +2,10 @@
 title: "Brooks Brothers Signature"
 date: 2023-03-18
 ---
-In pattern [BYGRBRYBY](/stripes/bygrbryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5y1g7dr1db45dr5y3db4y3/)
+(the same proportion at any scale), whose colour order is pattern [BYGRBRYBY](/stripes/bygrbryby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10652
 

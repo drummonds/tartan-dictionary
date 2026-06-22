@@ -2,9 +2,10 @@
 title: "Hebrides, Inner #01"
 date: 2023-03-18
 ---
-In pattern [GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBWBRYKGYGKYBYBRYRBYBYKGYGKYBGGYKBY](/stripes/gybkyggbykgygkybybryrbybykgygkyrbwbrykgygkybybryrbybykgygkybggykby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3y1db2k3y1ga4g5db8y1k2g3y1g3k2y1db22y1db4r4y1r4db4y1db22y1k2g3y1g3k2y1r14b6w1/)
+(the same proportion at any scale), whose colour order is pattern [GYBKYGGBYKGYGKYBYBRYRBYBYKGYGKYRBWBRYKGYGKYBYBRYRBYBYKGYGKYBGGYKBY](/stripes/gybkyggbykgygkybybryrbybykgygkyrbwbrykgygkybybryrbybykgygkybggykby/).
 
-This was sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
+Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1672
 

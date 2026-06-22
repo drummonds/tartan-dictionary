@@ -2,9 +2,10 @@
 title: "Heart of Alba"
 date: 2023-03-18
 ---
-In pattern [GKBBGRRGKBBGRR](/stripes/gkbbgrrgkbbgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg48k5db4b2dg1r2n4dg20k3db4b2dg1n4r2/)
+(the same proportion at any scale), whose colour order is pattern [GKBBGRRGKBBGRR](/stripes/gkbbgrrgkbbgrr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11507
 

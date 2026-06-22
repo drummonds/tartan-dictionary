@@ -2,9 +2,10 @@
 title: "Remember the Somme 1916"
 date: 2023-03-18
 ---
-In pattern [GGBBRYGR](/stripes/ggbbrygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg5g2db2dba15dr2b2dg5dr2/)
+(the same proportion at any scale), whose colour order is pattern [GGBBRYGR](/stripes/ggbbrygr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11098/
 

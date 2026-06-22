@@ -2,9 +2,10 @@
 title: "Lennox Dress District Tartan Tartan Number: 1649. Earliest known date: 1986 Families with the surname 'Lennox' are usually considered related to Clans Stewart or MacFarlane. Some of this surname also choose to wear the distinctive and ancient 'Lennox' tartan. D W Stewart reproduced the sett from a 'lost' portrait of the Countess of Lennox dating from the 16th century. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRRRWGW](/stripes/rrrrwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln8t2ln25r5ra24r2ra8/)
+(the same proportion at any scale), whose colour order is pattern [RRRRWGW](/stripes/rrrrwgw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1649
 

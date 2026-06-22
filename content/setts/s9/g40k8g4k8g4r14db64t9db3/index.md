@@ -2,9 +2,10 @@
 title: "West Lothian"
 date: 2023-03-18
 ---
-In pattern [BBBRGKGKG](/stripes/bbbrgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40k8g4k8g4dr14db64b9db3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRGKGKG](/stripes/bbbrgkgkg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4603
 

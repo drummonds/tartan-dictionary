@@ -2,9 +2,10 @@
 title: "MacDonald of Clanranald 2"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1g2r3g12ln1k12r1b12r3b2r1b8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKWGRGRG](/stripes/brbrbrkwgrgrg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Cumming"
 date: 2023-03-18
 ---
-In pattern [KBRKRGRBKRGRK](/stripes/kbrkrgrbkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dr1dg8dr1k6db1dr6dg6dr1k8dr1db1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBRKRGRBKRGRK](/stripes/kbrkrgrbkrgrk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

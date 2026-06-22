@@ -2,9 +2,10 @@
 title: "Waverly, Check"
 date: 2023-03-18
 ---
-In pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr44lt5t8lt2t2lt2t2lt14lta9t2lta4lt2/)
+(the same proportion at any scale), whose colour order is pattern [BRRRRRRRRRRR](/stripes/brrrrrrrrrrr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

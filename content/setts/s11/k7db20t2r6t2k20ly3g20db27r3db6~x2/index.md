@@ -2,9 +2,10 @@
 title: "Stinson, Ancient"
 date: 2023-03-18
 ---
-In pattern [BRBGYKBRBBK](/stripes/brbgykbrbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7b20ba2r6ba2k20y3g20b27r3b6/)
+(the same proportion at any scale), whose colour order is pattern [BRBGYKBRBBK](/stripes/brbgykbrbbk/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stinson, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stinson, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stinson Ancient U.S.A. Tartan Tartan Number: 438. Earliest known date: 1985 A kilt in this material was brought into the Scottish Tartans Museum in Comrie which could be dated to before 1930. It belonged to a member of the Stewart Society at that time. The threadcount and the name were documented by Mackinlay, who studied and collected tartans between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=438))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stinson, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stinson Ancient U.S.A. Tartan Tartan Number: 438. Earliest known date: 1985 A kilt in this material was brought into the Scottish Tartans Museum in Comrie which could be dated to before 1930. It belonged to a member of the Stewart Society at that time. The threadcount and the name were documented by Mackinlay, who studied and collected tartans between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=438">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/14 B40 Ba4 R12 Ba4 K40 Y6 G40 B54 R6 B/12

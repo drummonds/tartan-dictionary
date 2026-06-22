@@ -2,9 +2,10 @@
 title: "Currie, of Balilone"
 date: 2023-03-18
 ---
-In pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24k1g2lg2dg2ln1dg12ln1dg2ln2dg2ln1dg12/)
+(the same proportion at any scale), whose colour order is pattern [GKGGGWGWGWGWG](/stripes/gkgggwgwgwgwg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

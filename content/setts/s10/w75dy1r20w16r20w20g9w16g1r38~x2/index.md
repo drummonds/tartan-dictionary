@@ -2,9 +2,10 @@
 title: "Border Sett"
 date: 2023-03-18
 ---
-In pattern [RGWGWRWRGW](/stripes/rgwgwrwrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/wa75t1r20wa16r20wa20g9wa16g1r38/)
+(the same proportion at any scale), whose colour order is pattern [RGWGWRWRGW](/stripes/rgwgwrwrgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=313
 

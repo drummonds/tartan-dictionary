@@ -2,9 +2,10 @@
 title: "Newall (Dumbarton) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBWGWBW](/stripes/bbwgwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30n15w4k12w9b8w3/)
+(the same proportion at any scale), whose colour order is pattern [BBWGWBW](/stripes/bbwgwbw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10830
 

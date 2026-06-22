@@ -2,9 +2,10 @@
 title: "Stewart"
 date: 2023-03-18
 ---
-In pattern [BKBGGKYKBKGRKRWRKRGKBKYKGGBKBK](/stripes/bkbggkykbkgrkrwrkrgkbkykggbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14k12db3g22g4k6lt2k2db2k2g8r4k2r4na2r4k2r4g8k2db2k2lt2k6g4g22db3k12db14k4/)
+(the same proportion at any scale), whose colour order is pattern [BKBGGKYKBKGRKRWRKRGKBKYKGGBKBK](/stripes/bkbggkykbkgrkrwrkrgkbkykggbkbk/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3928
 

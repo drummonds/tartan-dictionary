@@ -2,18 +2,20 @@
 title: "Morris of Balgonie (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBRKGY](/stripes/wbrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2g20k10dr3p20w2/)
+(the same proportion at any scale), whose colour order is pattern [WBRKGY](/stripes/wbrkgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2460/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1989 — Morris of Balgonie (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2460/))
-- 01/01/1995 — Morris of Balgonie (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3014))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1989 — Morris of Balgonie (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2460/">record</a>)</li>
+<li>01/01/1995 — Morris of Balgonie (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3014">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

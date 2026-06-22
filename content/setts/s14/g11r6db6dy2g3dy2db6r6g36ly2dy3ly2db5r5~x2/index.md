@@ -2,9 +2,10 @@
 title: "Westmeath Irish County Tartan Tartan Number: 2278. Earliest known date: 1996 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRBGGGBRGYGYBR](/stripes/grbgggbrgygybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11dr6db6k2g3k2db6dr6g36dy2k3dy2db5dr5/)
+(the same proportion at any scale), whose colour order is pattern [GRBGGGBRGYGYBR](/stripes/grbgggbrgygybr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2278
 

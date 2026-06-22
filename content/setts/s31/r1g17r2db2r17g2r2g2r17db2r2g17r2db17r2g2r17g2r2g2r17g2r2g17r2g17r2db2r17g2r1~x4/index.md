@@ -2,9 +2,10 @@
 title: "Robertson"
 date: 2023-03-18
 ---
-In pattern [RGRBRGRGRBRGRBRGRGRGRGRGRGRBRGR](/stripes/rgrbrgrgrbrgrbrgrgrgrgrgrgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g17r2db2r17g2r2g2r17db2r2g17r2db17r2g2r17g2r2g2r17g2r2g17r2g17r2db2r17g2r1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGRGRBRGRBRGRGRGRGRGRGRBRGR](/stripes/rgrbrgrgrbrgrbrgrgrgrgrgrgrbrgr/).
 
-This was sourced from logan-1831.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from logan-1831.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link /posts/logans-scottish-gael/
 

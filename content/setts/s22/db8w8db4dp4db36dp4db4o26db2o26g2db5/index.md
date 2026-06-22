@@ -2,9 +2,10 @@
 title: "Historic Scotland (1998)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBRBRGBGRBRBBBBBW](/stripes/bwbbbbbrbrgbgrbrbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8ln8db4p4db36p4db4n26db2n26g2db5/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBRBRGBGRBRBBBBBW](/stripes/bwbbbbbrbrgbgrbrbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1739
 

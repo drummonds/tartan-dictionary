@@ -2,9 +2,10 @@
 title: "Ross, hunting"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga4g2ga3g3ga4k5ga3k5ga28r2ga4r2ga4r2ga28k5ga3k5ga4g2ga2g2ga3g4ga3/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGKGKGRGRGRGKGKGGGGG](/stripes/gggggggkgkgrgrgrgkgkggggg/).
 
-This was sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from weddslist.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

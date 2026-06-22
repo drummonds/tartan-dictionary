@@ -2,9 +2,10 @@
 title: "Van Ingelgem Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGGGBGGGGGGGGGGGK](/stripes/bggggbgggggggggggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3n18dn3n3dn3n3dn18na3dn3na3dn3na12nb2na12dn9na12n2nb2/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGBGGGGGGGGGGGK](/stripes/bggggbgggggggggggk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5761
 

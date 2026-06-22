@@ -2,9 +2,10 @@
 title: "Maple Leaf Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGGGRGRGRGWGWRWGW](/stripes/grgrgrgrgggrgrgrgwgwrwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6dra5g6dr1g1dr9dg3dra3dg3g9g1dr1g6dra5g6dr1g1w1g1w12dra1w12g1w1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGGGRGRGRGWGWRWGW](/stripes/grgrgrgrgggrgrgrgwgwrwgw/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2033/
 

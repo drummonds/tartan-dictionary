@@ -2,9 +2,10 @@
 title: "Aceo"
 date: 2023-03-18
 ---
-In pattern [KGBGBYBKBKBW](/stripes/kgbgbybkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2lg10n5lg20n5dy3n7k3n7k4n4w2/)
+(the same proportion at any scale), whose colour order is pattern [KGBGBYBKBKBW](/stripes/kgbgbybkbkbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11433
 

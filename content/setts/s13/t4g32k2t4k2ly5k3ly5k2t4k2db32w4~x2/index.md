@@ -2,9 +2,10 @@
 title: "Reston (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKBW](/stripes/bgkbkykykbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g32k2b4k2y5k3y5k2b4k2db32w4/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKBW](/stripes/bgkbkykykbkbw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8362/
 

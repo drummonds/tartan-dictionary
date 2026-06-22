@@ -2,9 +2,10 @@
 title: "Minnock (Name)"
 date: 2023-03-18
 ---
-In pattern [BKGRGRGRGKY](/stripes/bkgrgrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db50k14g3dr2g3dr2g3dr2g3k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGRGRGKY](/stripes/bkgrgrgrgky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3476/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Minnock
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1880 — Minnock (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3476/))
-- undated — Minnick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1880 — Minnock (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3476/">record</a>)</li>
+<li>undated — Minnick (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5192">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

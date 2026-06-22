@@ -2,9 +2,10 @@
 title: "Taylor, dress"
 date: 2023-03-18
 ---
-In pattern [GKGRGWGWGY](/stripes/gkgrgwgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9k2g15r4g14ln3n3ln23g5y3/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGWGWGY](/stripes/gkgrgwgwgy/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

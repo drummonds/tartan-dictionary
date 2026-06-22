@@ -2,9 +2,10 @@
 title: "Harmon Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g6dy2g2dy2g19db2r2db2g2ga4k2ga11r2ga2r2ga6dy2/)
+(the same proportion at any scale), whose colour order is pattern [KGYGYGBRBGGKGRGRGY](/stripes/kgygygbrbggkgrgrgy/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10017/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Harmon Hunting Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Harmon Hunting (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10017/))
-- undated — Harmon Hunting Personal Tartan Tartan Number: 10017. Earliest known date: Mar. 2009 Harmons have a long and proud tradition as hunters and outdoorsmen. The hunting tartan pays homage to that tradition, providing a camouflage effect while maintaining a clear relation to the distinctive pattern of the Harmon Modern tartan. It is designed specifically for outdoor use in any activity in which blending with the natural surroundings is desired See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10017))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Harmon Hunting (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10017/">record</a>)</li>
+<li>undated — Harmon Hunting Personal Tartan Tartan Number: 10017. Earliest known date: Mar. 2009 Harmons have a long and proud tradition as hunters and outdoorsmen. The hunting tartan pays homage to that tradition, providing a camouflage effect while maintaining a clear relation to the distinctive pattern of the Harmon Modern tartan. It is designed specifically for outdoor use in any activity in which blending with the natural surroundings is desired See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10017">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G12 DY4 G4 DY4 G38 DB4 R4 DB4 G4 Ga8 K4 Ga22 R4 Ga4 R4 Ga12 DY/4

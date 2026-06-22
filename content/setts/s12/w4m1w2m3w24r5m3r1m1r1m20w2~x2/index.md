@@ -2,9 +2,10 @@
 title: "Menzies Dress, Cerise (Dance)"
 date: 2023-03-18
 ---
-In pattern [WRRRRRRWRWRW](/stripes/wrrrrrrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4p1ln2p3ln24dr5p3dr1p1dr1p20ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRRRRRRWRWRW](/stripes/wrrrrrrwrwrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6543/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Menzies Dress, Cerise
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1986 — Menzies Dress, Cerise (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6543/))
-- undated — Menzies Cerise Dress Tartan Tartan Number: 6543. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6543))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1986 — Menzies Dress, Cerise (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6543/">record</a>)</li>
+<li>undated — Menzies Cerise Dress Tartan Tartan Number: 6543. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6543">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/8 P2 LN4 P6 LN48 DR10 P6 DR2 P2 DR2 P40 LN/4

@@ -2,9 +2,10 @@
 title: "Urbino"
 date: 2023-03-18
 ---
-In pattern [BGBGBKGKRKGKBGBGBG](/stripes/bgbgbkgkrkgkbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3p2g2p2g2p20k20g22k1lt3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBKGKRKGKBGBGBG](/stripes/bgbgbkgkrkgkbgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4428
 

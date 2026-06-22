@@ -2,9 +2,10 @@
 title: "Millennium (Texcraft)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBBBBBBWBBGBBBGBBWBBBBBBGBBBBBBGBBBBBWBBBGBBBBGBBBBGBBBW](/stripes/bbbbbbgbbbbbbwbbgbbbgbbwbbbbbbgbbbbbbgbbbbbwbbbgbbbbgbbbbgbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8b1db1dba37b1db14g2db2b1db1dba37db1b1ln2db18b1g3b1db18b1g3b1db18ln2b1db1dba37db1b1db3g2db13b1dba37db1b1db8g2db10b1dba1db1dba1ln2b1dba33db1g2dba1db1b1db18g2db18b1db1dba1g2db1dba37b1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBBBBBBWBBGBBBGBBWBBBBBBGBBBBBBGBBBBBWBBBGBBBBGBBBBGBBBW](/stripes/bbbbbbgbbbbbbwbbgbbbgbbwbbbbbbgbbbbbbgbbbbbwbbbgbbbbgbbbbgbbbw/).
 
-This was sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from register-of-tartans.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2950
 

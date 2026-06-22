@@ -2,19 +2,21 @@
 title: "Minnesota (District)"
 date: 2023-03-18
 ---
-In pattern [KWKBRKGY](/stripes/kwkbrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6ln3k2db30dr9k4g20y3/)
+(the same proportion at any scale), whose colour order is pattern [KWKBRKGY](/stripes/kwkbrkgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3930/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 2002 — Minnesota (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3930/))
-- undated — Minnesota (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5089))
-- undated — Minnesota American District Tartan Tartan Number: 3930. Earliest known date: 2002 Official State tartan designed by Mark Osweiler of St Paul, MN, USA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3930))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Minnesota (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3930/">record</a>)</li>
+<li>undated — Minnesota (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5089">record</a>)</li>
+<li>undated — Minnesota American District Tartan Tartan Number: 3930. Earliest known date: 2002 Official State tartan designed by Mark Osweiler of St Paul, MN, USA. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3930">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "HMS Duncan (Military)"
 date: 2023-03-18
 ---
-In pattern [BRBRBY](/stripes/brbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db15r2db15n15p3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBY](/stripes/brbrby/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10268/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - HMS Duncan Regimental
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 19th Aug. 2010 — HMS Duncan (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10268/))
-- undated — HMS Duncan Regimental Tartan Tartan Number: 10268. Earliest known date: 2010 Designed and manufactured at Johnstons of Elgin, the tartan was commissioned by the Royal Navy to commemorate the launch of the H.M.S. Duncan, the last type 45 destroyer to be build on the Clyde. The ship has been named after Admiral Duncan who was victorious at the Battle of Camperdown in October 1797. This date is also significant to Johnstons, who were founded in 1797 by Alexander Johnston at Newmill, Elgin. The tartan is based on the Duncan sett and incorporates navy blue, battleship grey, red and gold from the Duncan crest and purple from Scotland's national flower. Only to be worn with authorisation from H.M.S. Duncan. Right to weave reserved to Johnstons of Elgin or by authorisation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10268))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>19th Aug. 2010 — HMS Duncan (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10268/">record</a>)</li>
+<li>undated — HMS Duncan Regimental Tartan Tartan Number: 10268. Earliest known date: 2010 Designed and manufactured at Johnstons of Elgin, the tartan was commissioned by the Royal Navy to commemorate the launch of the H.M.S. Duncan, the last type 45 destroyer to be build on the Clyde. The ship has been named after Admiral Duncan who was victorious at the Battle of Camperdown in October 1797. This date is also significant to Johnstons, who were founded in 1797 by Alexander Johnston at Newmill, Elgin. The tartan is based on the Duncan sett and incorporates navy blue, battleship grey, red and gold from the Duncan crest and purple from Scotland's national flower. Only to be worn with authorisation from H.M.S. Duncan. Right to weave reserved to Johnstons of Elgin or by authorisation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10268">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/6 DB30 R4 DB30 N30 P/6

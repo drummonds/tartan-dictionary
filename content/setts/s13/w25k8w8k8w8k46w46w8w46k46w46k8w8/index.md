@@ -2,9 +2,10 @@
 title: "Poulter SG ? Black & white (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WKWKWKWWWKWKW](/stripes/wkwkwkwwwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln25k8ln8k8ln8k46ln46ly8ln46k46ln46k8ln8/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKWWWKWKW](/stripes/wkwkwkwwwkwkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8151/
 

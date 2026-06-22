@@ -2,9 +2,10 @@
 title: "Waggrall Family Tartan Tartan Number: 1691. Earliest known date: 1819 Incomplete see Sindex. Update required if possible. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRRWBBWBBWGYWBWYGWGGWGGWBBWBBWRRWRW](/stripes/rwrrwbbwbbwgywbwygwggwggwbbwbbwrrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do4ln1r11do2ln2p11b4ln2b4p11ln2ga4y4ln1p5ln1y4ga4ln2g10ga4ln2ga4g10ln2b2p6ln1p6b2ln2do2r11ln1do4ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWRRWBBWBBWGYWBWYGWGGWGGWBBWBBWRRWRW](/stripes/rwrrwbbwbbwgywbwygwggwggwbbwbbwrrwrw/).
 
-This was sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1691
 

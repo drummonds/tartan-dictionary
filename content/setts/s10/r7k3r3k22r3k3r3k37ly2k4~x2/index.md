@@ -2,18 +2,20 @@
 title: "Maier (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKRKRKRKR](/stripes/kykrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7k3r3k22r3k3r3k37y2k4/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKRKRKR](/stripes/kykrkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2003 — Maier (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786))
-- pre 2004 — Maier (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6211/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2003 — Maier (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2786">record</a>)</li>
+<li>pre 2004 — Maier (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6211/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

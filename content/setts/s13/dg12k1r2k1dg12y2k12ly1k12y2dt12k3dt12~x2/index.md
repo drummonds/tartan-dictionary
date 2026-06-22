@@ -2,9 +2,10 @@
 title: "Greg Wells (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBGKYKGGKRKG](/stripes/bkbgkykggkrkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12k1dr2k1g12n2k12o1k12n2na12k3na12/)
+(the same proportion at any scale), whose colour order is pattern [BKBGKYKGGKRKG](/stripes/bkbgkykggkrkg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10111
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Greg Wells Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 29/01/2009 — Greg Wells (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10111))
-- undated — Greg Wells Personal Tartan Tartan Number: 7886. Earliest known date: 2009 I chose the colors primarily because of my love for the darker, hunting tartans, and because the two main colors are visual representaions of the main sources of income of my home county: fishing and farming. The blue represents the water that surrounds three sides of the county, Calvert County, Maryland. We are bound by the Chesapeake Bay on one side and the Patuxent River on the other; the two bodies of water meet at the southern end of the county. The green represents out farms. For generations tobacco production was the main industry here. It was such an important part of life that a green tobacco leaf is on our county flag. The other colors: red and gold remind me of the brillant autumns around here. See Wells (Red) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7886))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/01/2009 — Greg Wells (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10111">record</a>)</li>
+<li>undated — Greg Wells Personal Tartan Tartan Number: 7886. Earliest known date: 2009 I chose the colors primarily because of my love for the darker, hunting tartans, and because the two main colors are visual representaions of the main sources of income of my home county: fishing and farming. The blue represents the water that surrounds three sides of the county, Calvert County, Maryland. We are bound by the Chesapeake Bay on one side and the Patuxent River on the other; the two bodies of water meet at the southern end of the county. The green represents out farms. For generations tobacco production was the main industry here. It was such an important part of life that a green tobacco leaf is on our county flag. The other colors: red and gold remind me of the brillant autumns around here. See Wells (Red) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7886">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

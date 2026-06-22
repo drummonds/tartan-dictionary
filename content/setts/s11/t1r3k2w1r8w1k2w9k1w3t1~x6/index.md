@@ -2,9 +2,10 @@
 title: "MacRae, Dress Red (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRKWRWKWKWB](/stripes/brkwrwkwkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1r3k2w1r8w1k2w9k1w3b1/)
+(the same proportion at any scale), whose colour order is pattern [BRKWRWKWKWB](/stripes/brkwrwkwkwb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2755
 

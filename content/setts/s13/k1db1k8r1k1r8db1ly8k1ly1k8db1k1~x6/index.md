@@ -2,9 +2,10 @@
 title: "Robieson QAHS (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1db1k8r1k1r8db1y8k1y1k8db1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7838/
 

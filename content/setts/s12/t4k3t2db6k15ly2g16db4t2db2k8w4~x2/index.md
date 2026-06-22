@@ -2,9 +2,10 @@
 title: "Veere"
 date: 2023-03-18
 ---
-In pattern [BKBBKYGBBBKW](/stripes/bkbbkygbbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba4k3ba2b6k15y2g16b4ba2b2k8ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKYGBBBKW](/stripes/bkbbkygbbbkw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

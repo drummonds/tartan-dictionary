@@ -2,9 +2,10 @@
 title: "Philadelphia Police and Fire Pipes and Drums"
 date: 2023-03-18
 ---
-In pattern [BYBBBRBRBRBW](/stripes/bybbbrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9y4db4b41db4r4b4r15b4r4db41w4/)
+(the same proportion at any scale), whose colour order is pattern [BYBBBRBRBRBW](/stripes/bybbbrbrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10950
 

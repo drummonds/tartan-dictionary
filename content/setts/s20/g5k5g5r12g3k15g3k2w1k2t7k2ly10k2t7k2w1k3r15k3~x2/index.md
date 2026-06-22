@@ -2,9 +2,10 @@
 title: "Jones, Melnyk (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGRGKGKWKBKYKBKWKRK](/stripes/gkgrgkgkwkbkykbkwkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5k5g5r12g3k15g3k2ln1k2b7k2y10k2b7k2ln1k3r15k3/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKGKWKBKYKBKWKRK](/stripes/gkgrgkgkwkbkykbkwkrk/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7785/
 

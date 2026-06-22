@@ -2,9 +2,10 @@
 title: "de Meuron (Neuchâtel) Day, The"
 date: 2023-03-18
 ---
-In pattern [GBGGGGG](/stripes/gbggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t40b5t6g26gb13ga9g3/)
+(the same proportion at any scale), whose colour order is pattern [GBGGGGG](/stripes/gbggggg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10576
 

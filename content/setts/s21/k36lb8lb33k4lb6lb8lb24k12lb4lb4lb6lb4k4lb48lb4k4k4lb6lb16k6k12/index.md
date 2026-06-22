@@ -2,9 +2,10 @@
 title: "Abergaveny (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KKWWKKWWKWWWWKWWWKWWK](/stripes/kkwwkkwwkwwwwkwwwkwwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36n8n33k4lr6n8lra24k12lr4lra4n6lr4k4n48lra4k4k4n6n16k6k12/)
+(the same proportion at any scale), whose colour order is pattern [KKWWKKWWKWWWWKWWWKWWK](/stripes/kkwwkkwwkwwwwkwwwkwwk/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3013/
 

@@ -2,19 +2,21 @@
 title: "Eildon (1996)"
 date: 2023-03-18
 ---
-In pattern [GRGYGKGKGBGBGR](/stripes/grgygkgkgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt19dg2db8dg4db8dg2dba19dg2dba2dg11y2dg11lt1dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGKGKGBGBGR](/stripes/grgygkgkgbgbgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1996 — Eildon (1996) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093))
-- 1996 — Eildon (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4800/))
-- undated — Eildon (1996) Fashion Tartan Tartan Number: 4800. Earliest known date: 01/01/1996 Part of Lochcarron's 1996 'Borders Collection'. Sample in Scottish Tartans Authority's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4800))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Eildon (1996) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1093">record</a>)</li>
+<li>1996 — Eildon (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4800/">record</a>)</li>
+<li>undated — Eildon (1996) Fashion Tartan Tartan Number: 4800. Earliest known date: 01/01/1996 Part of Lochcarron's 1996 'Borders Collection'. Sample in Scottish Tartans Authority's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4800">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

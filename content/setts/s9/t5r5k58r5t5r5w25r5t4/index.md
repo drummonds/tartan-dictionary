@@ -2,9 +2,10 @@
 title: "Meg Merrilees, New (1831)"
 date: 2023-03-18
 ---
-In pattern [BRKRBRWRB](/stripes/brkrbrwrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5r5k58r5b5r5w25r5b4/)
+(the same proportion at any scale), whose colour order is pattern [BRKRBRWRB](/stripes/brkrbrwrb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8924/
 

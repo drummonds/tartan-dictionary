@@ -2,9 +2,10 @@
 title: "Unidentified 30"
 date: 2023-03-18
 ---
-In pattern [BKRKRKBKYKGRWRK](/stripes/bkrkrkbkykgrwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k3r4k2r27k12b10k3y2k3g12r10ln2r3k3/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKBKYKGRWRK](/stripes/bkrkrkbkykgrwrk/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

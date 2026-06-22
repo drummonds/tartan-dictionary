@@ -2,9 +2,10 @@
 title: "Children's Wish Foundation of Canada, The"
 date: 2023-03-18
 ---
-In pattern [KYKBKWKY](/stripes/kykbkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5k2w16k5b29k2y5k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKBKWKY](/stripes/kykbkwky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11074
 

@@ -2,9 +2,10 @@
 title: "MacPherson Turquoise Dress Tartan Tartan Number: 8183. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBWBWKW](/stripes/bbwbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k2ln26b23ln3b8p3/)
+(the same proportion at any scale), whose colour order is pattern [BBWBWKW](/stripes/bbwbwkw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8183
 

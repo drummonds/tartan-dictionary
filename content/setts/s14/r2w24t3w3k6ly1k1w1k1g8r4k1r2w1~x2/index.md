@@ -2,9 +2,10 @@
 title: "Stewart Victoria"
 date: 2023-03-18
 ---
-In pattern [RWBWKYKWKGRKRW](/stripes/rwbwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln24b3ln3k6y1k1ln1k1g8r4k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKYKWKGRKRW](/stripes/rwbwkykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stewart Victoria Royal
 - Stuart/Stewart Victoria
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart Victoria (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Victoria Royal Family Tartan Tartan Number: 1676. Earliest known date: 1886 James Grant took all of the seventy two tartans in his book, 'Tartans of the Clans of Scotland', published in 1886 by W.&A.K.Johnston, from actual specimens in use at the time. Many are identical to those found in the earlier work of W. and A.Smith in 1850. The Victoria sett was known to have been favourably regarded by that great Queen. The tartan is also known as Royal Stewart Dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1676))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart Victoria (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Victoria Royal Family Tartan Tartan Number: 1676. Earliest known date: 1886 James Grant took all of the seventy two tartans in his book, 'Tartans of the Clans of Scotland', published in 1886 by W.&A.K.Johnston, from actual specimens in use at the time. Many are identical to those found in the earlier work of W. and A.Smith in 1850. The Victoria sett was known to have been favourably regarded by that great Queen. The tartan is also known as Royal Stewart Dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1676">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 LN48 B6 LN6 K12 Y2 K2 LN2 K2 G16 R8 K2 R4 LN/2

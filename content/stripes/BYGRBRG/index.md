@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bygrbrg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BYGRBRG</span></div>
+
 It is a 7 stripe tartan.
 
-![Woven sample](/setts/s7/g15r3t15r8g15ly2db4~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BYGRBRG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

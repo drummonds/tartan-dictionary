@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Old"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRBRBRWR](/stripes/bkgkgkbrbrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k2g2k2g2k2b8r3b3r3b8r3ln5r3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRBRBRWR](/stripes/bkgkgkbrbrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4022
 

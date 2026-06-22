@@ -2,9 +2,10 @@
 title: "Studio Wolf Polysun"
 date: 2023-03-18
 ---
-In pattern [KRYRGWRRRWRR](/stripes/kryrgwrrrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra18r3w3r3ra2r1w1g1ra2y1r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRYRGWRRRWRR](/stripes/kryrgwrrrwrr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10944
 

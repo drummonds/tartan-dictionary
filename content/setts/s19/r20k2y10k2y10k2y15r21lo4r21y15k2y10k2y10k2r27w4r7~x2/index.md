@@ -2,9 +2,10 @@
 title: "East Kilbride District Tartan Tartan Number: 2128. Earliest known date: 1990 East Kilbride district tartan was designed by Dr Gordon Teall, chairman of the Scottish Tartans Society, for the East Kilbride New Town Development Corporation. Prior to weaving the first bales of cloth, some modifications were made to the design to improve the appearance when woven in reproduction colours, taking the form of black guards and an addition black overcheck on the blue. (Blue appears dark gray or brown in reproduction colours). Both variations are represented in Dr Tealls book, District Tartans. Despite the very different appearance of the resulting fabric the sett design is essentially the same. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r20k2n10k2n10k2g15r21o4r21g15k2n10k2n10k2r27ln4r7/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKGRYRGKGKGKRWR](/stripes/rkgkgkgryrgkgkgkrwr/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2128
 

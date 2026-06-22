@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Dress"
 date: 2023-03-18
 ---
-In pattern [RBRBKWKGWGWR](/stripes/rbrbkwkgwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr8w30n5w8n5k12w6k12db28dr4db8dr8/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKWKGWGWR](/stripes/rbrbkwkgwgwr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5365
 

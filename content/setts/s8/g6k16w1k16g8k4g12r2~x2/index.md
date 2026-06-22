@@ -2,9 +2,10 @@
 title: "MacAulay Hunting"
 date: 2023-03-18
 ---
-In pattern [GKWKGKGR](/stripes/gkwkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k16w1k16g8k4g12r2/)
+(the same proportion at any scale), whose colour order is pattern [GKWKGKGR](/stripes/gkwkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - MacAuley Hunting
 - MacAuley, hunting
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1850 — MacAulay Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288))
-- pre 1850 — MacAulay Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/827/))
-- undated — MacAuley, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacAuley Hunting Clan Tartan Tartan Number: 827. Earliest known date: 1950 This shorter version tallies with the count published by M'Intyre North in 1881 as having been given him by Logan. There are two Clans of the name associated with districts as far apart as Dumbarton and Lewis and they have no family connection with each other. They are the MacAulays of Ardencaple associated with the MacGregors and the MacAulays of Lewis who are associated with the MacLeods. This sett in its shortened form begins to resemble the MacGregor tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=827))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — MacAulay Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2288">record</a>)</li>
+<li>pre 1850 — MacAulay Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/827/">record</a>)</li>
+<li>undated — MacAuley, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacAuley Hunting Clan Tartan Tartan Number: 827. Earliest known date: 1950 This shorter version tallies with the count published by M'Intyre North in 1881 as having been given him by Logan. There are two Clans of the name associated with districts as far apart as Dumbarton and Lewis and they have no family connection with each other. They are the MacAulays of Ardencaple associated with the MacGregors and the MacAulays of Lewis who are associated with the MacLeods. This sett in its shortened form begins to resemble the MacGregor tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=827">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

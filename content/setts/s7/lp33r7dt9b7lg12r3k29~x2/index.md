@@ -2,9 +2,10 @@
 title: "Hatcher (Texas) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRYBBRW](/stripes/krybbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp33ra7db9b7g12r3k29/)
+(the same proportion at any scale), whose colour order is pattern [KRYBBRW](/stripes/krybbrw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10121
 

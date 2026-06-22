@@ -2,9 +2,10 @@
 title: "Albannach (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBRBGBBW](/stripes/kbrbgbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4db2dr7db60g15n60b5ln3/)
+(the same proportion at any scale), whose colour order is pattern [KBRBGBBW](/stripes/kbrbgbbw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7799/
 

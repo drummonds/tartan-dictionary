@@ -2,9 +2,10 @@
 title: "Porcupine"
 date: 2023-03-18
 ---
-In pattern [GRGRGBYGGBW](/stripes/grgrgbyggbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1r1n3lt1n1dr8y7g1n1b1ln1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBYGGBW](/stripes/grgrgbyggbw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

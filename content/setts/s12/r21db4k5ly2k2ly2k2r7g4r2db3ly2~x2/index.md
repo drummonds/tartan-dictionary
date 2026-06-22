@@ -2,18 +2,20 @@
 title: "Hepburn"
 date: 2023-03-18
 ---
-In pattern [RBKYKYKRGRBY](/stripes/rbkykykrgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r21b4k5y2k2y2k2r7g4r2b3y2/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKYKRGRBY](/stripes/rbkykykrgrby/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hepburn (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hepburn Family Tartan Tartan Number: 1381. Earliest known date: 1968 This sett was produced for Captain Charles Hepburn in 1968 by Anderson's of Edinburgh, from an existing design. Hepburns are associated with Hermitage Castle in Liddesdale and the history of Mary, Queen of Scots. James Hepburn, 4th Earl of Bothwell (1536-78), married the Queen after being implicated in the murder of her husband, Lord Darnley. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1381))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hepburn (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hepburn Family Tartan Tartan Number: 1381. Earliest known date: 1968 This sett was produced for Captain Charles Hepburn in 1968 by Anderson's of Edinburgh, from an existing design. Hepburns are associated with Hermitage Castle in Liddesdale and the history of Mary, Queen of Scots. James Hepburn, 4th Earl of Bothwell (1536-78), married the Queen after being implicated in the murder of her husband, Lord Darnley. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1381">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/42 B8 K10 Y4 K4 Y4 K4 R14 G8 R4 B6 Y/4

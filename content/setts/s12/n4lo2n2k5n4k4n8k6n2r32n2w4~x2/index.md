@@ -2,9 +2,10 @@
 title: "Orr, Gerald William (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dy2n2k5n4k4n8k6n2r32n2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BYBKBKBKBRBW](/stripes/bybkbkbkbrbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10534/
 

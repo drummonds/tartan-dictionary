@@ -2,9 +2,10 @@
 title: "Hutchens (Kansas) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGYW](/stripes/bkgkgkgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k12g3k1g1k1g30dy4w4/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGYW](/stripes/bkgkgkgyw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10148
 

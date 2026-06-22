@@ -2,9 +2,10 @@
 title: "Arran - 1978 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGRGRGRGRWRGRGRGRGBGB](/stripes/bgbgbgrgrgrgrwrgrgrgrgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/pa86ga4pa4ga4pa4g16r2g4r3g3r4g2r6ln3r6g2r4g3r3g4r2g16p24g4p10/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGRGRGRGRWRGRGRGRGBGB](/stripes/bgbgbgrgrgrgrwrgrgrgrgbgb/).
 
-This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/381/
 

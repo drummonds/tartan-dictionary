@@ -2,9 +2,10 @@
 title: "Lunar"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBKRK](/stripes/bbbbbbbbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka10dr1ka3k7n1k1n1k1n1k1n7/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBKRK](/stripes/bbbbbbbbkrk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2248
 

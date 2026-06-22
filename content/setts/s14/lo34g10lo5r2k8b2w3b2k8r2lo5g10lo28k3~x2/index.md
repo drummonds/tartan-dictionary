@@ -2,9 +2,10 @@
 title: "Lambert Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt34g10lt5r2k8b2w3b2k8r2lt5g10lt28k3/)
+(the same proportion at any scale), whose colour order is pattern [KYGYRKBWBKRYGY](/stripes/kygyrkbwbkrygy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10663/
 

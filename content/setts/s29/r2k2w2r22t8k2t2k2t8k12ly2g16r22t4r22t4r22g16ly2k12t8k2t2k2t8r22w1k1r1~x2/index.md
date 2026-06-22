@@ -2,9 +2,10 @@
 title: "MacPherson"
 date: 2023-03-18
 ---
-In pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k2ln2r22b8k2b2k2b8k12y2g16r22b4r22b4r22g16y2k12b8k2b2k2b8r22ln1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/rkwrbkbkbkygrbrbrgykbkbkbrwkr/).
 
-This was sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from logan-1831.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link /posts/logans-scottish-gael/
 

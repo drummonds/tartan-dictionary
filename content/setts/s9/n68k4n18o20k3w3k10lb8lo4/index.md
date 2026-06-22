@@ -2,9 +2,10 @@
 title: "Carbon (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBRKWKWY](/stripes/bkbrkwkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n68k4n18nb20k3ln3k10na8lg4/)
+(the same proportion at any scale), whose colour order is pattern [BKBRKWKWY](/stripes/bkbrkwkwy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10710/
 

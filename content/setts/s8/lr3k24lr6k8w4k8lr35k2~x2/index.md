@@ -2,9 +2,10 @@
 title: "Nowell/Noel 1951 (Name)"
 date: 2023-03-18
 ---
-In pattern [KYKWKYKY](/stripes/kykwkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k24n6k8ln4k8n35k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKWKYKY](/stripes/kykwkyky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8231/
 

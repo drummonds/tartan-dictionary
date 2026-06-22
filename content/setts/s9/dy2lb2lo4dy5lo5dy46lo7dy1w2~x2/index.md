@@ -2,9 +2,10 @@
 title: "KIltwalk, The (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GWYGYGYGW](/stripes/gwygygygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t2lb2lt4t5lt5t46lt7t1w2/)
+(the same proportion at any scale), whose colour order is pattern [GWYGYGYGW](/stripes/gwygygygw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8529/
 

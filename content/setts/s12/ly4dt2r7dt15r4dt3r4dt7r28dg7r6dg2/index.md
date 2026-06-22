@@ -2,9 +2,10 @@
 title: "Walker Family Tartan Tartan Number: 2068. Earliest known date: 1991 R.W.Hawks submitted this tartan via Phil Smith in January 1991. Hawks advised Oct. 1993 that he is agreeable for any Walkers to use this tartan. Marroon Red. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBY](/stripes/grgrbrbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db2dr7db15dr4db3dr4db7dr28dg7dr6dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBY](/stripes/grgrbrbrbrby/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2068
 

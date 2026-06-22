@@ -2,9 +2,10 @@
 title: "Campbell"
 date: 2023-03-18
 ---
-In pattern [BKBKGKWKGKWKWKWKWKWKGKYKGK](/stripes/bkbkgkwkgkwkwkwkwkwkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11g15k2y3k2g15k11ln5k5ln19k2ln5k2ln19k5ln5k11g15k2ln3k2g15k11b11k3b11/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKWKWKWKWKWKGKYKGK](/stripes/bkbkgkwkgkwkwkwkwkwkgkykgk/).
 
-This was sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from weddslist.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Campbell #2
 - Campbell of Argyll Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Campbell of Argyll Dress Trade Tartan Tartan Number: 1969. Earliest known date: pre 2003 Paton's version of the 'Red Campbell'. Not accepted by the present chief. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1969))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Campbell of Argyll Dress Trade Tartan Tartan Number: 1969. Earliest known date: pre 2003 Paton's version of the 'Red Campbell'. Not accepted by the present chief. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1969">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/22 G30 K4 Y6 K4 G30 K22 LN10 K10 LN38 K4 LN10 K4 LN38 K10 LN10 K22 G30 K4 LN6 K4 G30 K22 B22 K6 B/22

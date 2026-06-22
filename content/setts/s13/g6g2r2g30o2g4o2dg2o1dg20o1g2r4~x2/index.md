@@ -2,9 +2,10 @@
 title: "All Irish Green Irish District Tartan Tartan Number: 4065. Earliest known date: 1997 Part of a collection produced by Lochcarron in 1997 to acknowledge the early historical and cultural links between the Scots and Irish. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGRGRGRGRGRGR](/stripes/ggrgrgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6ga2dr2g30do2ga4do2dg2do1dg20do1ga2dr4/)
+(the same proportion at any scale), whose colour order is pattern [GGRGRGRGRGRGR](/stripes/ggrgrgrgrgrgr/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4065
 

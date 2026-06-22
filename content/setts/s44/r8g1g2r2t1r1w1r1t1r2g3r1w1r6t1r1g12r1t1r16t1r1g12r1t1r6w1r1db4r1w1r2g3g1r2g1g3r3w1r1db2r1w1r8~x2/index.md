@@ -2,19 +2,21 @@
 title: "MacAlister (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g1ga2r2b1r1ln1r1b1r2ga3r1ln1r6b1r1ga12r1b1r16b1r1ga12r1b1r6ln1r1db4r1ln1r2ga3g1r2g1ga3r3ln1r1db2r1ln1r8/)
+(the same proportion at any scale), whose colour order is pattern [RGGRBRWRBRGRWRBRGRBRBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rggrbrwrbrgrwrbrgrbrbrgrbrwrbrwrggrggrwrbrwr/).
 
-This was sourced from tartans-authority.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from tartans-authority.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1465/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1845 — MacAlister (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1465/))
-- 01/01/1850 — MacAlister (Smith 1850) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265))
-- undated — MacAlister (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1845 — MacAlister (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1465/">record</a>)</li>
+<li>01/01/1850 — MacAlister (Smith 1850) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2265">record</a>)</li>
+<li>undated — MacAlister (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

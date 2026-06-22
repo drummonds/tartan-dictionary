@@ -2,9 +2,10 @@
 title: "MacWatts (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGKGKBBBBBKRKBBBBBKGKGBGBGY](/stripes/gbgbgkgkbbbbbkrkbbbbbkgkgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7p2g2p12g2k2g1k12dba2db12dba2db2dba7k2r3k2dba7db2dba2db12dba2k12g1k2g2p12g2p2g7y4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGKGKBBBBBKRKBBBBBKGKGBGBGY](/stripes/gbgbgkgkbbbbbkrkbbbbbkgkgbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2774
 

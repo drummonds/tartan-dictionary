@@ -2,9 +2,10 @@
 title: "Huntley Fire Protection District"
 date: 2023-03-18
 ---
-In pattern [KBKBKRKRWY](/stripes/kbkbkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11db14k4db14k12dr13k3dr3w2y2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKRKRWY](/stripes/kbkbkrkrwy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10195
 

@@ -2,9 +2,10 @@
 title: "Cowal Highland Games Corporate Tartan Tartan Number: 2536. Earliest known date: 1994 The Cowal Highland Gathering takes place on the last weekend of August each year in Dunoon, Argyllshire, on the Firth of Clyde and is the largest, most spectacular Highland Games in the world with thousands of dancers, pipers, drummers and athletes attending from all over the world. In 1994, the centenary year of the Gathering, this soft muted tartan in blues and greens was designed. Only available from Bells of Dunoon - michael.boyce@telco4u.net (Sept. 2004) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBGBGBGGGBGBGBB](/stripes/bbbgbgbgggbgbgbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9dn8g1dn1g1dn1g8dg2g8dn1g1dn1g1dn8db9n1/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBGBGGGBGBGBB](/stripes/bbbgbgbgggbgbgbb/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2536
 

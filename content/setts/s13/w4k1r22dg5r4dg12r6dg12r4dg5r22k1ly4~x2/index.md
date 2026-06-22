@@ -2,9 +2,10 @@
 title: "Bruce"
 date: 2023-03-18
 ---
-In pattern [WKRGRGRGRGRKY](/stripes/wkrgrgrgrgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k1r22g5r4g12r6g12r4g5r22k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKRGRGRGRGRKY](/stripes/wkrgrgrgrgrky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=398
 

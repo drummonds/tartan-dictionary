@@ -2,9 +2,10 @@
 title: "Antigonish"
 date: 2023-03-18
 ---
-In pattern [BBBBWBWB](/stripes/bbbbwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4db1b4db24w6db4w1db2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBWB](/stripes/bbbbwbwb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=95
 

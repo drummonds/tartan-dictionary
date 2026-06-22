@@ -2,9 +2,10 @@
 title: "ABF The Soldiers' Charity"
 date: 2023-03-18
 ---
-In pattern [KGBRGRBGKRKR](/stripes/kgbrgrbgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25dg29b24r2dg11r2b24dg29db25t4db5r4/)
+(the same proportion at any scale), whose colour order is pattern [KGBRGRBGKRKR](/stripes/kgbrgrbgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10446
 

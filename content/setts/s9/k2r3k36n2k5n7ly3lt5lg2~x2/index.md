@@ -2,9 +2,10 @@
 title: "Victory"
 date: 2023-03-18
 ---
-In pattern [KRKBKBYWY](/stripes/krkbkbywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r3k36n2k5n7y3lb5lg2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBKBYWY](/stripes/krkbkbywy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10235
 

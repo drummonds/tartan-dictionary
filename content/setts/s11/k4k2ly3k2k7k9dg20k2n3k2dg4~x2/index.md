@@ -2,9 +2,10 @@
 title: "Choinka Family (Inverness)"
 date: 2023-03-18
 ---
-In pattern [GKBKGKKKYKK](/stripes/gkbkgkkkykk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t4k2y3k2t7k9ga20k2g3k2ga4/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKKKYKK](/stripes/gkbkgkkkykk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10624
 

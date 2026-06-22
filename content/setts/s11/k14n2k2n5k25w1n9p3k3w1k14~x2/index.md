@@ -2,9 +2,10 @@
 title: "Springbank"
 date: 2023-03-18
 ---
-In pattern [KBKBKWBBKWK](/stripes/kbkbkwbbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14n2k2n5k25w1n9p3k3w1k14/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKWBBKWK](/stripes/kbkbkwbbkwk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11289/
 

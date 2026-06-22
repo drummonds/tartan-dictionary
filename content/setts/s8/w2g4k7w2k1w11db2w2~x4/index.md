@@ -2,9 +2,10 @@
 title: "Forbes - 1880 (Clans Originaux)"
 date: 2023-03-18
 ---
-In pattern [WBWKWKGW](/stripes/wbwkwkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2g4k7w2k1w11db2w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWKWKGW](/stripes/wbwkwkgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3490/
 

@@ -2,9 +2,10 @@
 title: "MacBean, Meta (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6ln40b5ln2b5ln5g12ln5r5dr5g2dr5r5ln5g10ln5r5dr5g2dr5r5ln5g12ln5b5ln2b5ln40r6/)
+(the same proportion at any scale), whose colour order is pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacBean, Meta
 - MacBean, Meta..
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1972 — MacBean, Meta (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294))
-- 1972 — MacBean, Meta (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1220/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1972 — MacBean, Meta (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2294">record</a>)</li>
+<li>1972 — MacBean, Meta (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1220/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

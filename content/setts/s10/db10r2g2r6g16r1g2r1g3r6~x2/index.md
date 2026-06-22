@@ -2,18 +2,20 @@
 title: "Nithsdale"
 date: 2023-03-18
 ---
-In pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10r2g2r6g16r1g2r1g3r6/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGRGR](/stripes/brgrgrgrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Nithsdale (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Nithsdale District Tartan Tartan Number: 533. Earliest known date: 1930 Nithsdale, the valley of the River Nith, stretches over 50 miles, north and south, through the the length of Dumfriesshire to the sea, an area with historic connections with the Johnstons and Maxwells. The tartan was designed by Arthur Galt of Messrs Hugh Galt and Sons Ltd., Barrhill, Glasgow, for Councillor John Hannay. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=533))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Nithsdale (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Nithsdale District Tartan Tartan Number: 533. Earliest known date: 1930 Nithsdale, the valley of the River Nith, stretches over 50 miles, north and south, through the the length of Dumfriesshire to the sea, an area with historic connections with the Johnstons and Maxwells. The tartan was designed by Arthur Galt of Messrs Hugh Galt and Sons Ltd., Barrhill, Glasgow, for Councillor John Hannay. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=533">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/20 R4 G4 R12 G32 R2 G4 R2 G6 R/12

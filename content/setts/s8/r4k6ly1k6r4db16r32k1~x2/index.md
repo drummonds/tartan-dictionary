@@ -2,9 +2,10 @@
 title: "Leslie"
 date: 2023-03-18
 ---
-In pattern [KRBRKYKR](/stripes/krbrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k6y1k6r4b16r32k1/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKYKR](/stripes/krbrkykr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Leslie Dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Leslie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Leslie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Leslie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
-- undated — Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1142))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Leslie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Leslie Dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Leslie Dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+<li>undated — Leslie Clan Tartan Tartan Number: 1142. Earliest known date: 1842 The Vestarium Scoticum See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1142">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 K12 Y2 K12 R8 B32 R64 K/2

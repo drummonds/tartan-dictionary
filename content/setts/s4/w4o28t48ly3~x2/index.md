@@ -2,9 +2,10 @@
 title: "McKerrell of Hillhouse Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [WRBY](/stripes/wrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4n28b48y3/)
+(the same proportion at any scale), whose colour order is pattern [WRBY](/stripes/wrby/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6041/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - McKerrell of Hillhouse Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1996 — McKerrell of Hillhouse Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6041/))
-- undated — MacKerrell of Hillhouse Dress Personal Tartan Tartan Number: 6041. Earliest known date: 1996 This is the dress version of McKerrell of Hillhouse Hunting (#1758) and designed by Madam McKerrell of Hillhouse in 1996 and recorded in the Lyon Court Books (LCB 123) on 20th November 2001. As shown here, red is used in the warp in place of yellow. The McKerrell of Hillhouse Dress can be worn by all those with the name McKerrell and its spelling variations by seeking the permission of McKerrell of Hillhouse See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6041))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1996 — McKerrell of Hillhouse Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6041/">record</a>)</li>
+<li>undated — MacKerrell of Hillhouse Dress Personal Tartan Tartan Number: 6041. Earliest known date: 1996 This is the dress version of McKerrell of Hillhouse Hunting (#1758) and designed by Madam McKerrell of Hillhouse in 1996 and recorded in the Lyon Court Books (LCB 123) on 20th November 2001. As shown here, red is used in the warp in place of yellow. The McKerrell of Hillhouse Dress can be worn by all those with the name McKerrell and its spelling variations by seeking the permission of McKerrell of Hillhouse See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6041">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/8 N56 B96 Y/6

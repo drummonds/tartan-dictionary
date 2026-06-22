@@ -2,18 +2,20 @@
 title: "Blair"
 date: 2023-03-18
 ---
-In pattern [BRBKGRG](/stripes/brbkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba4ra1dba18k20ga18ra1ga4/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGRG](/stripes/brbkgrg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1999 — Blair (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291))
-- pre 1999 — Blair (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/416/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Blair (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=291">record</a>)</li>
+<li>pre 1999 — Blair (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/416/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Fraser Yellow"
 date: 2023-03-18
 ---
-In pattern [RWYGYBY](/stripes/rwygyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln2y27g14y2b14y2/)
+(the same proportion at any scale), whose colour order is pattern [RWYGYBY](/stripes/rwygyby/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1268
 

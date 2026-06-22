@@ -2,18 +2,20 @@
 title: "Crichton (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGBRYBBYG](/stripes/bgbrybbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db80g1db2dr4na1n5db8dy2g2/)
+(the same proportion at any scale), whose colour order is pattern [BGBRYBBYG](/stripes/bgbrybbyg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7784/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2008 — Crichton (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7784/))
-- undated — Crichton Clan Tartan Tartan Number: 7784. Earliest known date: 2008 Commissioned from the Scottish Tartans Authority by the Clan Chief, David Crichton of Monzie, Crieff The design is loosely based on the MacGill tartan from around 1745 to signify the early 19th century connection with the Makgill family. The colours are taken from the Creighton coat of arms issued in the 1980s. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7784))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2008 — Crichton (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7784/">record</a>)</li>
+<li>undated — Crichton Clan Tartan Tartan Number: 7784. Earliest known date: 2008 Commissioned from the Scottish Tartans Authority by the Clan Chief, David Crichton of Monzie, Crieff The design is loosely based on the MacGill tartan from around 1745 to signify the early 19th century connection with the Makgill family. The colours are taken from the Creighton coat of arms issued in the 1980s. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7784">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/160 G2 DB4 DR8 Na2 N10 DB16 DY4 G/4

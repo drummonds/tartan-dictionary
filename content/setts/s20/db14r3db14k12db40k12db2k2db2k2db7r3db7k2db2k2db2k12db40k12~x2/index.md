@@ -2,9 +2,10 @@
 title: "Rangers F. C. Corporate Tartan Tartan Number: 2170. Earliest known date: 1994 The original tartan was designed in 1989 by Tartan Sportswear. Chris Aitken, designer for Geoffrey (Tailor) Highland Crafts, Edinburgh, increased the size of the sett and changed the shade of blue to suit the Rangers team colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBKBKBKBKBRBKBKBKBK](/stripes/brbkbkbkbkbrbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba14r3dba14k12db40k12dba2k2dba2k2dba7r3dba7k2dba2k2dba2k12db40k12/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBKBKBKBRBKBKBKBK](/stripes/brbkbkbkbkbrbkbkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2170
 

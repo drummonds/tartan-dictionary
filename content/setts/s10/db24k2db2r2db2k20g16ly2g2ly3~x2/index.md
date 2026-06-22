@@ -2,19 +2,21 @@
 title: "Watson (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBRBKGYGY](/stripes/bkbrbkgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2db2r2db2k20g16y2g2y3/)
+(the same proportion at any scale), whose colour order is pattern [BKBRBKGYGY](/stripes/bkbrbkgygy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/307/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1932 — Watson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/307/))
-- undated — Watson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Watson Clan Tartan Tartan Number: 307. Earliest known date: 1950 The Watson tartan was designed and manufactured during 1950 for the use of the Clan Watson Society. The design is based on the Gordon and Hunting MacRae tartans. The name is associated in part with the Aberdeenshire area. The Clan Watson Society no longer appears to be active. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=307))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1932 — Watson (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/307/">record</a>)</li>
+<li>undated — Watson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Watson Clan Tartan Tartan Number: 307. Earliest known date: 1950 The Watson tartan was designed and manufactured during 1950 for the use of the Clan Watson Society. The design is based on the Gordon and Hunting MacRae tartans. The name is associated in part with the Aberdeenshire area. The Clan Watson Society no longer appears to be active. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=307">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/48 K4 DB4 R4 DB4 K40 G32 Y4 G4 Y/6

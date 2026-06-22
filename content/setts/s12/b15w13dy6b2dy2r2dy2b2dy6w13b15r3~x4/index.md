@@ -2,9 +2,10 @@
 title: "Thompson (Pendleton)"
 date: 2023-03-18
 ---
-In pattern [BWGBGRGBGWBR](/stripes/bwgbgrgbgwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b15ln13t6b2t2ra2t2b2t6ln13b15ra3/)
+(the same proportion at any scale), whose colour order is pattern [BWGBGRGBGWBR](/stripes/bwgbgrgbgwbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4110
 

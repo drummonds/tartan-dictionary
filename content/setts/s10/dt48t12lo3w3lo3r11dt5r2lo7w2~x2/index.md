@@ -2,9 +2,10 @@
 title: "Holyrood Golden Jubilee II (Commemo)"
 date: 2023-03-18
 ---
-In pattern [BBYWYRBRYW](/stripes/bbywyrbryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db48b12dy3w3dy3dr11db5dr2dy7w2/)
+(the same proportion at any scale), whose colour order is pattern [BBYWYRBRYW](/stripes/bbywyrbryw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6405/
 

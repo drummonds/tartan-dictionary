@@ -2,9 +2,10 @@
 title: "Kyle Tartan Tartan Number: 1288. Earliest known date: pre 1984 Seen in Service Station at Gretna Green in 1984 by Angela Nisbett MSTS . Berars no relation to the other two Kyles (3615 & 3616). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKWKR](/stripes/bkbkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na19k2ln4k2n5k2n5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKR](/stripes/bkbkwkr/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1288
 

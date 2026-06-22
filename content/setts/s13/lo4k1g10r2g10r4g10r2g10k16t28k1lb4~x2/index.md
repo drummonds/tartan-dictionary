@@ -2,9 +2,10 @@
 title: "California State American District Tartan Tartan Number: 2454. Earliest known date: 1998 Designed by J.Howard Standing of Tarzana, California and Thomas Ferguson of Sydney, British Columbia. Adopted as the 'official' California State tartan by the State Legislature. For general use by all those living in the State. Based on Muir, after the famous botanist and environmentalist John Muir who lived in California. Assembly Bill 2362, february 20th 1998. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WKBKGRGRGRGKY](/stripes/wkbkgrgrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4k1g10dr2g10dr4g10dr2g10k16ba28k1lp4/)
+(the same proportion at any scale), whose colour order is pattern [WKBKGRGRGRGKY](/stripes/wkbkgrgrgrgky/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2454
 

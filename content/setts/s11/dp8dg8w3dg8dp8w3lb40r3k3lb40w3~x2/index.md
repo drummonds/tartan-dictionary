@@ -2,9 +2,10 @@
 title: "World Peace"
 date: 2023-03-18
 ---
-In pattern [BGWGBWWRKWW](/stripes/bgwgbwwrkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8dg8w3dg8db8w3lp40dr3k3lp40w3/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBWWRKWW](/stripes/bgwgbwwrkww/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10424
 

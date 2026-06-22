@@ -2,9 +2,10 @@
 title: "Chisholm"
 date: 2023-03-18
 ---
-In pattern [RGKGKGBRWR](/stripes/rgkgkgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln1r24b6g2k1g2k1g12r1/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGBRWR](/stripes/rgkgkgbrwr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Chisholm #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Chisholm (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Chisholm Clan Tartan Tartan Number: 1475. Earliest known date: 1842 Also recorded by Frank Adam in 'The Clans, Septs and Regiments of the Scottish Highlands'. Although the Vestiarium has been discredited as an authentic source, many of the tartans appear to be based on genuine older setts. In this case the 'Black Watch'. There is a specimen of both Chisholm and Chisholm Hunting in the collection of the Highland Society of London, sealed and marked "Presented by Lt. Col. Chisholm Batten, 1907." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1475))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Chisholm (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Chisholm Clan Tartan Tartan Number: 1475. Earliest known date: 1842 Also recorded by Frank Adam in 'The Clans, Septs and Regiments of the Scottish Highlands'. Although the Vestiarium has been discredited as an authentic source, many of the tartans appear to be based on genuine older setts. In this case the 'Black Watch'. There is a specimen of both Chisholm and Chisholm Hunting in the collection of the Highland Society of London, sealed and marked "Presented by Lt. Col. Chisholm Batten, 1907." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1475">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 LN2 R48 B12 G4 K2 G4 K2 G24 R/2

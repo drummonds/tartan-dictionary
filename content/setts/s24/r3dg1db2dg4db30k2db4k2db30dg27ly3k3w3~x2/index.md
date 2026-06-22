@@ -2,9 +2,10 @@
 title: "Joss"
 date: 2023-03-18
 ---
-In pattern [GBGBKBKBGYKWKYGBKBKBGBGR](/stripes/gbgbkbkbgykwkygbkbkbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g1db2g4db30k2db4k2db30g27y3k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBKBKBGYKWKYGBKBKBGBGR](/stripes/gbgbkbkbgykwkygbkbkbgbgr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1908
 

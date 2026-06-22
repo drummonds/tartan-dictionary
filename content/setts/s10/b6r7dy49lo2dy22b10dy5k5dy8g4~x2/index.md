@@ -2,9 +2,10 @@
 title: "State Seal of Missouri (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRGYGBGKGG](/stripes/brgygbgkgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6r7t49dy2t22b10t5k5t8g4/)
+(the same proportion at any scale), whose colour order is pattern [BRGYGBGKGG](/stripes/brgygbgkgg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8639/
 

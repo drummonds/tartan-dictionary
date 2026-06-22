@@ -2,9 +2,10 @@
 title: "U.S. 2001 Air Force (Military?)"
 date: 2023-03-18
 ---
-In pattern [BBBRKGB](/stripes/bbbrkgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db49g3k22r2b33dba3b7/)
+(the same proportion at any scale), whose colour order is pattern [BBBRKGB](/stripes/bbbrkgb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4089/
 

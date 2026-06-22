@@ -2,9 +2,10 @@
 title: "MacGill Clan Tartan Tartan Number: 1487. Earliest known date: pre 1745 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. One can assume that the sample dates between 1930 and 1950. The family tartan, which originated with the MacGills of Jura, was in use before 1745 but when tartan was proscribed the sett seemed to have been lost until a piece was discovered in Kintyre. It is now in the Museum of Antiquities, Edinburgh. The current version, which first appeared in 1930, is known as the MacGill Society tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGKWYRYWBKRYW](/stripes/rgkwyrywbkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r47g16k8ln3y3r2y3ln3db6k3r4y4ln3/)
+(the same proportion at any scale), whose colour order is pattern [RGKWYRYWBKRYW](/stripes/rgkwyrywbkryw/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1487
 

@@ -2,9 +2,10 @@
 title: "MacFarhadian (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRGWKYBRGRBYRBRYBR](/stripes/krgwkybrgrbyrbrybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r55p1y1r3p7r3y1p1r3g16r3p1y1k3w1g5r3k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGWKYBRGRBYRBRYBR](/stripes/krgwkybrgrbyrbrybr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6375/
 

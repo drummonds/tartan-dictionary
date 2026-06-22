@@ -2,9 +2,10 @@
 title: "Loch Creran"
 date: 2023-03-18
 ---
-In pattern [BRWGRBRGYGR](/stripes/brwgrbrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g9y2g9r5b9r28g3lb2r4b2/)
+(the same proportion at any scale), whose colour order is pattern [BRWGRBRGYGR](/stripes/brwgrbrgygr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10529
 

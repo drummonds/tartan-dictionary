@@ -2,9 +2,10 @@
 title: "Cotswolds Distillery"
 date: 2023-03-18
 ---
-In pattern [GYYYBYBYK](/stripes/gyyybybyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n12na3n3na3n4nb17n15t4/)
+(the same proportion at any scale), whose colour order is pattern [GYYYBYBYK](/stripes/gyyybybyk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11130
 

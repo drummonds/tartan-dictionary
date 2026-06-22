@@ -2,9 +2,10 @@
 title: "Wcwm 972-2"
 date: 2023-03-18
 ---
-In pattern [WKKRKWKKKWKKW](/stripes/wkkrkwkkkwkkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na7k1yy1n2k18na2k1yy2k1na6k1yy1na1/)
+(the same proportion at any scale), whose colour order is pattern [WKKRKWKKKWKKW](/stripes/wkkrkwkkkwkkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4579
 

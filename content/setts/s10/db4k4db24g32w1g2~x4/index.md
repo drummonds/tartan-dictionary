@@ -2,9 +2,10 @@
 title: "Oliphant"
 date: 2023-03-18
 ---
-In pattern [GWGBKBKBGW](/stripes/gwgbkbkbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba4k4dba24g32wa1g2/)
+(the same proportion at any scale), whose colour order is pattern [GWGBKBKBGW](/stripes/gwgbkbkbgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3237
 

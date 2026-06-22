@@ -2,9 +2,10 @@
 title: "Southdown Grey"
 date: 2023-03-18
 ---
-In pattern [BRRBBBBBRR](/stripes/brrbbbbbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3na22t6n4t6n6t2dr1na2t3/)
+(the same proportion at any scale), whose colour order is pattern [BRRBBBBBRR](/stripes/brrbbbbbrr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3846
 

@@ -2,9 +2,10 @@
 title: "Halcrow Howell (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBKBGBGW](/stripes/bbbkbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b3db6k2dba12g2dba2g24lb2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBGBGW](/stripes/bbbkbgbgw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10219/
 

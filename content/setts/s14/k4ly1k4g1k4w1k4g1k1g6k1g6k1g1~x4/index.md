@@ -2,18 +2,20 @@
 title: "MacAlpine"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGKWKGKYK](/stripes/gkgkgkgkwkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y1k4g1k4ln1k4g1k1g6k1g6k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGKWKGKYK](/stripes/gkgkgkgkwkgkyk/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacAlpine (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacAlpine Clan Tartan Tartan Number: 2024. Earliest known date: 1908 'The Clans, Sept and Regiments of the Scottish Highlands' (1908) by Frank Adam, is the first document of the tartan. The history of the Clan MacAlpine is obscure. The Siol Alpin is claimed as the origin of a number of clans, but as D.C. Stewart remarks, "belongs rather to mythology than to history." It is considered to be a branch of the royal Clan Alpin, of the Kings of Dalriada. The tartan is similar to the hunting MacLean, but for the yellow lines. Other tartans connected with Siol Alpin are red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2024))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacAlpine (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacAlpine Clan Tartan Tartan Number: 2024. Earliest known date: 1908 'The Clans, Sept and Regiments of the Scottish Highlands' (1908) by Frank Adam, is the first document of the tartan. The history of the Clan MacAlpine is obscure. The Siol Alpin is claimed as the origin of a number of clans, but as D.C. Stewart remarks, "belongs rather to mythology than to history." It is considered to be a branch of the royal Clan Alpin, of the Kings of Dalriada. The tartan is similar to the hunting MacLean, but for the yellow lines. Other tartans connected with Siol Alpin are red. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2024">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/16 Y4 K16 G4 K16 LN4 K16 G4 K4 G24 K4 G24 K4 G/4

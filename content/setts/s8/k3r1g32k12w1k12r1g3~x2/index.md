@@ -2,9 +2,10 @@
 title: "MacHardy"
 date: 2023-03-18
 ---
-In pattern [GRKWKGRK](/stripes/grkwkgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1g32k12ln1k12r1g3/)
+(the same proportion at any scale), whose colour order is pattern [GRKWKGRK](/stripes/grkwkgrk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

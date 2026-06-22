@@ -2,9 +2,10 @@
 title: "Queen of the South F.C. (Sports)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBRW](/stripes/bbbbbbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6dr16dba20db18b5db18dbb6db4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBRW](/stripes/bbbbbbrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2649/
 

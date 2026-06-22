@@ -2,9 +2,10 @@
 title: "Malawi"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRGKBW](/stripes/rkrkrkrgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16k4r2k4r2k8r8g8k1b16ln4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRGKBW](/stripes/rkrkrkrgkbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5882
 

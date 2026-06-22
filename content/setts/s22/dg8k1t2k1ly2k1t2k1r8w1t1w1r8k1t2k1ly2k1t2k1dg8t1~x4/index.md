@@ -2,9 +2,10 @@
 title: "MacWhirter"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKBKRWBWRKBKYKBKG](/stripes/bgkbkykbkrwbwrkbkykbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k1b2k1y2k1b2k1r8ln1b1ln1r8k1b2k1y2k1b2k1g8b1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKBKRWBWRKBKYKBKG](/stripes/bgkbkykbkrwbwrkbkykbkg/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2775
 

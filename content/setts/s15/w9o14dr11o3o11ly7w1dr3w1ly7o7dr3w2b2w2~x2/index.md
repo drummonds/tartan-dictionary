@@ -2,9 +2,10 @@
 title: "Hudson Bay Company Artifact"
 date: 2023-03-18
 ---
-In pattern [WBWBRYWBWYRRBRW](/stripes/wbwbrywbwyrrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9lta14dr11lta3lt11y7ln1dr3ln1y7lta7dr3ln2b2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBRYWBWYRRBRW](/stripes/wbwbrywbwyrrbrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

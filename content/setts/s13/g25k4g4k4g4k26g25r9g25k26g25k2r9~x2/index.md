@@ -2,9 +2,10 @@
 title: "Moncrieffe (1998)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g25k4g4k4g4k26g25r9g25k26g25k2r9/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGRGKGKR](/stripes/gkgkgkgrgkgkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Moncrieffe Atholl
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/1998 — Moncrieffe (1998) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982))
-- October 1998 — Moncrieffe Atholl (1998) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2517/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/1998 — Moncrieffe (1998) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2982">record</a>)</li>
+<li>October 1998 — Moncrieffe Atholl (1998) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2517/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

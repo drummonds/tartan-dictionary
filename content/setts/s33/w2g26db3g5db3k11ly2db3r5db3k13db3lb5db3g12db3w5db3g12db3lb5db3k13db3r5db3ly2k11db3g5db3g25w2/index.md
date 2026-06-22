@@ -2,9 +2,10 @@
 title: "Kumikyoku - Tone of Forest"
 date: 2023-03-18
 ---
-In pattern [WGBGBKYBRBKBWBGBWBGBWBKBRBYKBGBGW](/stripes/wgbgbkybrbkbwbgbwbgbwbkbrbykbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2g26db3g5db3k11ly2db3r5db3k13db3lb5db3g12db3w5db3g12db3lb5db3k13db3r5db3ly2k11db3g5db3g25w2/)
+(the same proportion at any scale), whose colour order is pattern [WGBGBKYBRBKBWBGBWBGBWBKBRBYKBGBGW](/stripes/wgbgbkybrbkbwbgbwbgbwbkbrbykbgbgw/).
 
-This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11286
 

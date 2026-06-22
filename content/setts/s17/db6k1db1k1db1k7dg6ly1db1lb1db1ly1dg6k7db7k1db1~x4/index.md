@@ -2,9 +2,10 @@
 title: "Polaris Corporate Tartan Tartan Number: 222. Earliest known date: 1964 Designed for the Officers and men of the American Submarine base at the Holy Loch - making the Polaris submarine the first ship in history to have its own tartan. The idea came from Captain Walter F Schlech, Commander of the submarine squadron. The arrangement of stripes between the cornflower yellows is blue-sky-blue (Dalgliesh). It was previously recorded as green-blue-green (STS). The sindex card created by Davidson c1964 is Black-Royal Blue-Black. The sky blue version was recently confirmed as the correct one by R. E. Trygstad, LCDR USN (Retired), who has in his possession an original scarf with the sky blue colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYBWBYGKBKB](/stripes/bkbkbkgybwbygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6k1dba1k1dba1k7g6y1dba1lp1dba1y1g6k7dba7k1dba1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYBWBYGKBKB](/stripes/bkbkbkgybwbygkbkb/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=222
 

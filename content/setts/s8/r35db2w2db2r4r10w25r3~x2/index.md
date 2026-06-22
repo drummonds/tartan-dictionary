@@ -2,9 +2,10 @@
 title: "Longniddry Dress, Red (Dance)"
 date: 2023-03-18
 ---
-In pattern [RBWBRRWR](/stripes/rbwbrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r35db2ln2db2r4dr10ln25r3/)
+(the same proportion at any scale), whose colour order is pattern [RBWBRRWR](/stripes/rbwbrrwr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8191/
 

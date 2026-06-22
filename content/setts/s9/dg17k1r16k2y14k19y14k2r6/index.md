@@ -2,9 +2,10 @@
 title: "Borthwick"
 date: 2023-03-18
 ---
-In pattern [GKRKGKGKR](/stripes/gkrkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17k1r16k2n14k19n14k2r6/)
+(the same proportion at any scale), whose colour order is pattern [GKRKGKGKR](/stripes/gkrkgkgkr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

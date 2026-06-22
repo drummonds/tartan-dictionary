@@ -2,9 +2,10 @@
 title: "Little Hunting"
 date: 2023-03-18
 ---
-In pattern [BBBBBKBR](/stripes/bbbbbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5dba3db4dba3db4k28db8r1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKBR](/stripes/bbbbbkbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=908
 

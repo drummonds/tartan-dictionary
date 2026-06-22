@@ -2,9 +2,10 @@
 title: "Unidentified (School)"
 date: 2023-03-18
 ---
-In pattern [GKBKBKBKW](/stripes/gkbkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g35k3b2k5b3k1b20k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBKW](/stripes/gkbkbkbkw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8475/
 

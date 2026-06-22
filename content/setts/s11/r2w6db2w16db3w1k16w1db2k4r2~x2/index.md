@@ -2,9 +2,10 @@
 title: "Scott, (MacRae)"
 date: 2023-03-18
 ---
-In pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln6b2ln16b3ln1k16ln1b2k4r2/)
+(the same proportion at any scale), whose colour order is pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Scott,
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scott, (MacRae) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacRae Dress Clan Tartan Tartan Number: 2186. Earliest known date: pre 2003 Also known as Scott Dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2186))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scott, (MacRae) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacRae Dress Clan Tartan Tartan Number: 2186. Earliest known date: pre 2003 Also known as Scott Dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2186">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 LN12 B4 LN32 B6 LN2 K32 LN2 B4 K8 R/4

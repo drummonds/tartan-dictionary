@@ -2,9 +2,10 @@
 title: "Chisholm of Strathglass (Clan)"
 date: 2023-03-18
 ---
-In pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7w2r36b6g3b3g3b3g12r4/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1455/
 

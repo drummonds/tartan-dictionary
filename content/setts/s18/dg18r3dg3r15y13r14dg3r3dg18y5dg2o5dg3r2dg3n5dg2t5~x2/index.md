@@ -2,9 +2,10 @@
 title: "Ben Murad (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGRGRGGGRGRGRGRG](/stripes/bgbgrgrgggrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18dr3dg3dr15g13dr14dg3dr3dg18g5dg2lt5dg3dr2dg3ba5dg2b5/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRGRGGGRGRGRGRG](/stripes/bgbgrgrgggrgrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11003
 

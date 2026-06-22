@@ -2,9 +2,10 @@
 title: "MacNab WI 1"
 date: 2023-03-18
 ---
-In pattern [BGBGR](/stripes/bgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24dg2b1dg1dra24/)
+(the same proportion at any scale), whose colour order is pattern [BGBGR](/stripes/bgbgr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacNab WI1
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNab WI 1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacNab WI1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNab WI 1 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacNab WI1 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/48 DG4 B2 DG2 DRa/48

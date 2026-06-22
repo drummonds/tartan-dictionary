@@ -2,18 +2,20 @@
 title: "Thistle Stop LLC"
 date: 2023-03-18
 ---
-In pattern [GBRKBGGGY](/stripes/gbrkbgggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba16ga1g1ga1b24k12lp16p2ga2/)
+(the same proportion at any scale), whose colour order is pattern [GBRKBGGGY](/stripes/gbrkbgggy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2003 — Thistle Stop LLC (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105))
-- March 2003 — Thistle Stop LLC (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5792/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2003 — Thistle Stop LLC (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4105">record</a>)</li>
+<li>March 2003 — Thistle Stop LLC (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5792/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Logan Rogers"
 date: 2023-03-18
 ---
-In pattern [BRBWBKGRGY](/stripes/brbwbkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r2db2w1db8k8dg8r2dg2y2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBKGRGY](/stripes/brbwbkgrgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10691
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 04/09/2012 — Logan Rogers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10691))
-- 04/09/2012 — Logan Rogers (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10691/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>04/09/2012 — Logan Rogers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10691">record</a>)</li>
+<li>04/09/2012 — Logan Rogers (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10691/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

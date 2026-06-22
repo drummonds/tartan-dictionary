@@ -2,9 +2,10 @@
 title: "Anderson Dress"
 date: 2023-03-18
 ---
-In pattern [RGRGRKYKYWYKYWRWR](/stripes/rgrgrkykywykywrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ln5r2ln12y1k2y1ln2y1k2y2k2r1g4r2g4r2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRKYKYWYKYWRWR](/stripes/rgrgrkykywykywrwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=84
 

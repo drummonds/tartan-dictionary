@@ -2,9 +2,10 @@
 title: "Gary (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRYWYWYWYYWY](/stripes/brywywywyywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2w1oa2oa2w2oa12w8oa12w2oa4r1p2/)
+(the same proportion at any scale), whose colour order is pattern [BRYWYWYWYYWY](/stripes/brywywywyywy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/564/
 

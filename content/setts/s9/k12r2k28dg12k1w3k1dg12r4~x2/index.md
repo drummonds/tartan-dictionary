@@ -2,9 +2,10 @@
 title: "MacDiarmid"
 date: 2023-03-18
 ---
-In pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12r2k28g12k1ln3k1g12r4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKWKGR](/stripes/krkgkwkgr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2329
 

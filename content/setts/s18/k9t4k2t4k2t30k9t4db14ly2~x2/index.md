@@ -2,9 +2,10 @@
 title: "Hannay Blue"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBBYBBKBKBKBK](/stripes/bkbkbkbbybbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9b4k2b4k2b30k9b4db14y2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBBYBBKBKBKBK](/stripes/bkbkbkbbybbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hannay Blue Clan/Family
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Hannay Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588))
-- undated — Hannay Blue Clan/Family Tartan Tartan Number: 6509. Earliest known date: 2005 Jan The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. The Hannay Blue is a derivative created for J A Hannah, Balquhidder in 2005. White is exchanged for a muted pale blue. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6509))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Hannay Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1588">record</a>)</li>
+<li>undated — Hannay Blue Clan/Family Tartan Tartan Number: 6509. Earliest known date: 2005 Jan The Hannay tartan has been long established in the South West of Scotland. An old kilt worn by Commander Alex Hannay (1788 - 1844) was discovered by his descendant, Miss Anne Hannay, in the family chest and came into the possession of Councillor John Hannay, a well known tartan designer and collector. The Hannay Blue is a derivative created for J A Hannah, Balquhidder in 2005. White is exchanged for a muted pale blue. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6509">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

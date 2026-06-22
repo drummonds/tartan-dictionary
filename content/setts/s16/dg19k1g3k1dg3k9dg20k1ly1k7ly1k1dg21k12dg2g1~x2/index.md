@@ -2,9 +2,10 @@
 title: "Hope Vere / Weir"
 date: 2023-03-18
 ---
-In pattern [GGKGKYKYKGKGKGKG](/stripes/ggkgkykykgkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g19k1ga3k1g3k9g20k1y1k7y1k1g21k12g2ga1/)
+(the same proportion at any scale), whose colour order is pattern [GGKGKYKYKGKGKGKG](/stripes/ggkgkykykgkgkgkg/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

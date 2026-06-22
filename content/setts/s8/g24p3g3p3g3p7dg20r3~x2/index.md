@@ -2,9 +2,10 @@
 title: "Crantock"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGR](/stripes/gbgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24p3g3p3g3p7dg20r3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGR](/stripes/gbgbgbgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

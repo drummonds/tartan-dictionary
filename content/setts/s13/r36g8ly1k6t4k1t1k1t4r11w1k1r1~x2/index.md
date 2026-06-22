@@ -2,9 +2,10 @@
 title: "MacKintosh, MacPherson"
 date: 2023-03-18
 ---
-In pattern [RGYKBKBKBRWKR](/stripes/rgykbkbkbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36g8y1k6b4k1b1k1b4r11ln1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RGYKBKBKBRWKR](/stripes/rgykbkbkbrwkr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

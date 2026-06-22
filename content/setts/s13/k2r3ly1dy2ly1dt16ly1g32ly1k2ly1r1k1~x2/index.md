@@ -2,9 +2,10 @@
 title: "Neumann - German Pipe Smokers (Corp)"
 date: 2023-03-18
 ---
-In pattern [KRYGYBYGYKYRK](/stripes/krygybygykyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r3y1t2y1db16y1g32y1k2y1r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRYGYBYGYKYRK](/stripes/krygybygykyrk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10606/
 

@@ -2,9 +2,10 @@
 title: "First Special Services Forces (Mil)"
 date: 2023-03-18
 ---
-In pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k9r3y3r18k4r2w2r2k36r24db4r3/)
+(the same proportion at any scale), whose colour order is pattern [RBRKRWRKRYRKR](/stripes/rbrkrwrkryrkr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8394/
 

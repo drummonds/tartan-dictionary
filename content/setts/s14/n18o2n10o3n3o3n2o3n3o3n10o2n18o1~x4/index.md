@@ -2,9 +2,10 @@
 title: "Hebridean Cairn"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na18n2na10n3na3n3na2n3na3n3na10n2na18n1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRBRBR](/stripes/brbrbrbrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hebridean Mist
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/2005 — Hebridean Cairn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652))
-- 01/12/2005 — Hebridean Mist (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/2005 — Hebridean Cairn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1652">record</a>)</li>
+<li>01/12/2005 — Hebridean Mist (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1655">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Caithness District Tartan Tartan Number: 2466. Earliest known date: (Feb, 2001) Designed by Trudi Mann of Wick and incorporating colours of Caithness, including the unique blue grey Caithness flagstone. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBWBYBYRRBRBRG](/stripes/bybwbybyrrbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t28r3dr2n2dr2r3n8lt2dr8lt5dr3ln2dr2lt3dr1/)
+(the same proportion at any scale), whose colour order is pattern [BYBWBYBYRRBRBRG](/stripes/bybwbybyrrbrbrg/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2466
 

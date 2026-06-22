@@ -2,9 +2,10 @@
 title: "Kilburnie"
 date: 2023-03-18
 ---
-In pattern [BKBKRKBKWKBKYKBKRKBKYKBKWKBKRKBK](/stripes/bkbkrkbkwkbkykbkrkbkykbkwkbkrkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2r3k2b6k2ln2k2b6k2y2k2db6k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKBKWKBKYKBKRKBKYKBKWKBKRKBK](/stripes/bkbkrkbkwkbkykbkrkbkykbkwkbkrkbk/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1964
 

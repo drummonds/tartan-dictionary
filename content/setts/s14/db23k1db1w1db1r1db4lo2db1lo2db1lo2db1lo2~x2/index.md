@@ -2,9 +2,10 @@
 title: "King Pootatau Te Wherowhero"
 date: 2023-03-18
 ---
-In pattern [BKBWBRBYBYBYBY](/stripes/bkbwbrbybybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db23k1db1w1db1r1db4o2db1o2db1o2db1o2/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBRBYBYBYBY](/stripes/bkbwbrbybybyby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11366
 

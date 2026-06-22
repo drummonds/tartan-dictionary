@@ -2,9 +2,10 @@
 title: "Cameron of Locheil #3"
 date: 2023-03-18
 ---
-In pattern [RBRKWKRKR](/stripes/rbrkwkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24b8r23k4ln4k4r10k32r8/)
+(the same proportion at any scale), whose colour order is pattern [RBRKWKRKR](/stripes/rbrkwkrkr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=499
 

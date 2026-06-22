@@ -2,9 +2,10 @@
 title: "New Star"
 date: 2023-03-18
 ---
-In pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3dy1k4dr1k4dr1k41dr1k4dr1k4dra15dy1dra3dy2dra3dy3dra1dy6k1w2/)
+(the same proportion at any scale), whose colour order is pattern [BYKBKBKBKBKRYRYRYRYKW](/stripes/bykbkbkbkbkryryryrykw/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10144
 

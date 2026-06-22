@@ -2,9 +2,10 @@
 title: "MacDonald, dress"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRKWBWBRBWBWRKGRGRGRGRGKR](/stripes/brbrbrbrbrkwbwbrbwbwrkgrgrgrgrgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18r7b2r2b7r2b2r7b18r2k18ln8b7ln40b2r8b2ln40b7ln8r2k18g18r7g2r2g6r2g2r7g18k18r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRKWBWBRBWBWRKGRGRGRGRGKR](/stripes/brbrbrbrbrkwbwbrbwbwrkgrgrgrgrgkr/).
 
-This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacDonald Dress #2
 - MacDonald, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDonald, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacDonald Dress Clan Tartan Tartan Number: 1998. Earliest known date: c.1815 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1998))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDonald, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacDonald Dress Clan Tartan Tartan Number: 1998. Earliest known date: c.1815 In 1815, members of the Highland Society of London resolved to request of each of the Highland chiefs, a sample of their clan tartan. The swatches were to be signed and sealed in the chief's own hand. This sett is one of those delivered to the Society between 1815 and 1822. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1998">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/36 R14 B4 R4 B14 R4 B4 R14 B36 R4 K36 LN16 B14 LN80 B4 R16 B4 LN80 B14 LN16 R4 K36 G36 R14 G4 R4 G12 R4 G4 R14 G36 K36 R/4

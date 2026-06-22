@@ -2,9 +2,10 @@
 title: "Harvey of Cornwall (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGYGBKW](/stripes/rgygbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln10k52b52dg24y10dg5r5/)
+(the same proportion at any scale), whose colour order is pattern [RGYGBKW](/stripes/rgygbkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5961
 

@@ -2,9 +2,10 @@
 title: "Pride of Bannockburn Fashion Tartan Tartan Number: 8978. Earliest known date: 2008 Original name was Scotland the Brave (design by Dalgleish) but changed to Spirit of Bannockburn by Lochcarron. Tartan Ribbon subsequently added a white stripe and called it Pride of Bannockburn See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGBRGRBGKBWBWB](/stripes/bkgbrgrbgkbwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20k16g3p23pa7g10pa7p23g3k16db23w2db2w2db3/)
+(the same proportion at any scale), whose colour order is pattern [BKGBRGRBGKBWBWB](/stripes/bkgbrgrbgkbwbwb/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8978
 

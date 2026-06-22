@@ -2,9 +2,10 @@
 title: "Buglass"
 date: 2023-03-18
 ---
-In pattern [WGYGRGRGRGYGY](/stripes/wgygrgrgrgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o3g1o1g14lt2g2lt2g4lt11dg25y2dg3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGYGRGRGRGYGY](/stripes/wgygrgrgrgygy/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

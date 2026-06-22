@@ -2,18 +2,20 @@
 title: "Clark"
 date: 2023-03-18
 ---
-In pattern [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln4b19k19ln4k19ln4b7ln4b11ln4/)
+(the same proportion at any scale), whose colour order is pattern [KWBKWKWBWBW](/stripes/kwbkwkwbwbw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Clark (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Clark Family Tartan Tartan Number: 1221. Earliest known date: 1819 This tartan is shown, with slight variations, in the works of Logan, the Smith brothers and the pattern books of Wilson's of Bannockburn. It is called Clark, Clerk, Clerke, Clergy and Priest even within the same publication, all of which date around 1850. It is possible that a sample on sale today might be very different. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1221))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Clark (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Clark Family Tartan Tartan Number: 1221. Earliest known date: 1819 This tartan is shown, with slight variations, in the works of Logan, the Smith brothers and the pattern books of Wilson's of Bannockburn. It is called Clark, Clerk, Clerke, Clergy and Priest even within the same publication, all of which date around 1850. It is possible that a sample on sale today might be very different. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1221">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 LN8 B38 K38 LN8 K38 LN8 B14 LN8 B22 LN/8

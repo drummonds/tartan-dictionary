@@ -2,18 +2,20 @@
 title: "Dobelman (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWR](/stripes/rkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1k20n5dr1/)
+(the same proportion at any scale), whose colour order is pattern [RKWR](/stripes/rkwr/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3241/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Dobelman (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3241/))
-- undated — Dobelman (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5385))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Dobelman (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3241/">record</a>)</li>
+<li>undated — Dobelman (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5385">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

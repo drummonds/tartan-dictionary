@@ -2,9 +2,10 @@
 title: "DunBroch"
 date: 2023-03-18
 ---
-In pattern [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ba8k2ba5lr2ba5g8dr7g2dr7g3/)
+(the same proportion at any scale), whose colour order is pattern [BBKBWBGBGBG](/stripes/bbkbwbgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10641
 

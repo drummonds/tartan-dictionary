@@ -2,9 +2,10 @@
 title: "MacClellan"
 date: 2023-03-18
 ---
-In pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18k5g3r3g6k2y2k2g6r3g3k10b5k10/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKYKGRGKBK](/stripes/bkgrgkykgrgkbk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2313
 

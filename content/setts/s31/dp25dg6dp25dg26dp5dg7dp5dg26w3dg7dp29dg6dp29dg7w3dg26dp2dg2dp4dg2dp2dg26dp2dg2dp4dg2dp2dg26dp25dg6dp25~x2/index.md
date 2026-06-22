@@ -2,9 +2,10 @@
 title: "MacRae (MacCrae)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBGBGBGBGWGBGBGWGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgwgbgbgwgbgbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p25g6p25g26p5g7p5g26ln3g7p29g6p29g7ln3g26p2g2p4g2p2g26p2g2p4g2p2g26p25g6p25/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBGBGBGWGBGBGWGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgwgbgbgwgbgbgbgb/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2740
 

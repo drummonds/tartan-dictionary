@@ -2,9 +2,10 @@
 title: "Grotto Dove"
 date: 2023-03-18
 ---
-In pattern [WBKBGKWKGKW](/stripes/wbkbgkwkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n26k7g1k1n1k1g5p3k1p2n1/)
+(the same proportion at any scale), whose colour order is pattern [WBKBGKWKGKW](/stripes/wbkbgkwkgkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1553
 

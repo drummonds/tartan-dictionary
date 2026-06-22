@@ -2,9 +2,10 @@
 title: "Porteous Family Tartan Tartan Number: 1264. Earliest known date: 1978 Designed for the Porteous Family Association, and submitted to the Monitoring Committee of the Scottish Tartan Society by Captain Barry Porteous who was president of the association at that time. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYBGBW](/stripes/kybgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1y1db8g10b7ln1/)
+(the same proportion at any scale), whose colour order is pattern [KYBGBW](/stripes/kybgbw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1264
 

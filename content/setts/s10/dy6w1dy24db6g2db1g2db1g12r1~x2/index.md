@@ -2,9 +2,10 @@
 title: "Chisholm Hunting Clan Tartan Tartan Number: 1458. Earliest known date: 1906 This is a classic example of the process that began during the late Victorian period when the new analine dyes of the 1860s were considered to be too bright. Subtler forms of the tartan were produced, often replacing the red ground with green or brown. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWGBGBGBGR](/stripes/gwgbgbgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6ln1t24db6g2db1g2db1g12r1/)
+(the same proportion at any scale), whose colour order is pattern [GWGBGBGBGR](/stripes/gwgbgbgbgr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1458
 

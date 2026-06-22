@@ -2,9 +2,10 @@
 title: "Glover, Thomas Blake (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBYBYBBBBBBY](/stripes/bbybybbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dr16lt6dr16lt6dr16db8dr6db4dr16db2lt1/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYBBBBBBY](/stripes/bbybybbbbbby/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3599/
 

@@ -2,9 +2,10 @@
 title: "Morddyn"
 date: 2023-03-18
 ---
-In pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb5b13lb6w3lga5lb5b24lb5w2r1w2lg9lga18lg9b2lb4b2w2r3w2lb12lga6lg24lga6b2/)
+(the same proportion at any scale), whose colour order is pattern [WYWWYWYWWRWGYGYWYWRWWYGYY](/stripes/wywwywywwrwgygywywrwwygyy/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10317
 

@@ -2,18 +2,20 @@
 title: "Tilley, Sir Samuel Leonard"
 date: 2023-03-18
 ---
-In pattern [RGKYKWKBRKRKW](/stripes/rgkykwkbrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g20k16dy2k3n3k2b18dr6k2dr4k1n2/)
+(the same proportion at any scale), whose colour order is pattern [RGKYKWKBRKRKW](/stripes/rgkykwkbrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Tilley, Sir Samuel Leonard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126))
-- pre 2002 — Tilley, Sir Samuel Leonard (Comm) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5126/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Tilley, Sir Samuel Leonard (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4126">record</a>)</li>
+<li>pre 2002 — Tilley, Sir Samuel Leonard (Comm) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5126/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "West of Wells"
 date: 2023-03-18
 ---
-In pattern [GKBKBKBBW](/stripes/gkbkbkbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28k2db3k11db3k2db17b4w2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKBBW](/stripes/gkbkbkbbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10012
 

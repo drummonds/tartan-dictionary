@@ -2,9 +2,10 @@
 title: "Monarch of the Glen Fashion Tartan Tartan Number: 4542. Earliest known date: 2002 Designed by Claire Donaldson of House of Edgar using the name of the popular television series. (2002) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp42dba3g1dba2p1dba2dp2k20dba1p2dba3g1dba2p1dba2dp2g3dba1g2dy1g2k2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBBBBKBBBGBBBBGBGYGK](/stripes/bbgbbbbkbbbgbbbbgbgygk/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4542
 

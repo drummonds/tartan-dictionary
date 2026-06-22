@@ -2,18 +2,20 @@
 title: "Cavalier, Red"
 date: 2023-03-18
 ---
-In pattern [RBGBWBRRBRW](/stripes/rbgbwbrrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt40k10lg2k2ln2k3dr8lt6k2lt4ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBGBWBRRBRW](/stripes/rbgbwbrrbrw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1981 — Cavalier, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600))
-- pre 1981 — Cavalier, Red (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5851/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1981 — Cavalier, Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=600">record</a>)</li>
+<li>pre 1981 — Cavalier, Red (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5851/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

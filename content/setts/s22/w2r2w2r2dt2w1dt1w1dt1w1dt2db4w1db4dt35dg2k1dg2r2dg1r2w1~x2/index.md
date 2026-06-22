@@ -2,9 +2,10 @@
 title: "ASF Official (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r2ln2r2dba2ln1dba1ln1dba1ln1dba2db4ln1db4dba35g2k1g2r2g1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGKGBBWBBWBWBWBRWRW](/stripes/wrgrgkgbbwbbwbwbwbrwrw/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11223/
 

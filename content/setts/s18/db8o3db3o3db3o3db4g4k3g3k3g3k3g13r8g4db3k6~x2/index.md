@@ -2,9 +2,10 @@
 title: "Glasgow, Celtic Society"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBGKGKGKGRGBK](/stripes/brbrbrbgkgkgkgrgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8lt3b3lt3b3lt3b4g4k3g3k3g3k3g13r8g4b3k6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBGKGKGKGRGBK](/stripes/brbrbrbgkgkgkgrgbk/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,18 +2,20 @@
 title: "Montmorency"
 date: 2023-03-18
 ---
-In pattern [BGBGBGKGKGBGB](/stripes/bgbgbgkgkgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db21g2db3g2db2g14k15g4k15g14db14g2db3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGKGKGBGB](/stripes/bgbgbgkgkgbgb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Montmorency (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992))
-- pre 2002 — Montmorency (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/103/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Montmorency (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2992">record</a>)</li>
+<li>pre 2002 — Montmorency (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/103/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

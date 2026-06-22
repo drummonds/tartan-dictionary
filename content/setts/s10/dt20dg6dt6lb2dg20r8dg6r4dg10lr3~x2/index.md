@@ -2,18 +2,20 @@
 title: "MacConnell"
 date: 2023-03-18
 ---
-In pattern [BGBWGRGRGY](/stripes/bgbwgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20dg6db6lp2dg20dr8dg6dr4dg10n3/)
+(the same proportion at any scale), whose colour order is pattern [BGBWGRGRGY](/stripes/bgbwgrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2320
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — MacConnell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2320))
-- 1989 — MacConnell (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/141/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — MacConnell (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2320">record</a>)</li>
+<li>1989 — MacConnell (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/141/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

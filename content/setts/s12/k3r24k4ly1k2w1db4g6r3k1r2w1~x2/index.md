@@ -2,9 +2,10 @@
 title: "Stewart of Galloway"
 date: 2023-03-18
 ---
-In pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r24k4y1k2ln1b4g6r3k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKWBGRKRW](/stripes/krkykwbgrkrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

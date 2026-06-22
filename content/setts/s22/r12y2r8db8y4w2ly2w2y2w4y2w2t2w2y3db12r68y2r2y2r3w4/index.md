@@ -2,9 +2,10 @@
 title: "Glasgow, '88"
 date: 2023-03-18
 ---
-In pattern [RGRBGWYWGWGWBWGBRGRGRW](/stripes/rgrbgwywgwgwbwgbrgrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12n2r8b8n4ln2y2ln2n2ln4n2ln2ba2ln2n3b12r68n2r2n2r3ln4/)
+(the same proportion at any scale), whose colour order is pattern [RGRBGWYWGWGWBWGBRGRGRW](/stripes/rgrbgwywgwgwbwgbrgrgrw/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

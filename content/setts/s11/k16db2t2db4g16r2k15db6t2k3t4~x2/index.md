@@ -2,9 +2,10 @@
 title: "Wilson's No.060"
 date: 2023-03-18
 ---
-In pattern [BKBBKRGBBBK](/stripes/bkbbkrgbbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16db2b2db4g16r2k15db6b2k3b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKRGBBBK](/stripes/bkbbkrgbbbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4660
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Wilson's No.060
 - Wilson's, No 60
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1819 — Wilson's No.060 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4660))
-- undated — Wilson's, No 60 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Scottish Tartans Authority Tartan Tartan Number: 243. Earliest known date: 1819 This design comes from the pattern books of the old firm of weavers, Wilson's of Bannockburn. It has been adopted by the Scottish Tartans Authority as the tartan of their corporate identity, in line with general policy of the time, to avoid the proliferation of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=243))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Wilson's No.060 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4660">record</a>)</li>
+<li>undated — Wilson's, No 60 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Scottish Tartans Authority Tartan Tartan Number: 243. Earliest known date: 1819 This design comes from the pattern books of the old firm of weavers, Wilson's of Bannockburn. It has been adopted by the Scottish Tartans Authority as the tartan of their corporate identity, in line with general policy of the time, to avoid the proliferation of tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=243">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

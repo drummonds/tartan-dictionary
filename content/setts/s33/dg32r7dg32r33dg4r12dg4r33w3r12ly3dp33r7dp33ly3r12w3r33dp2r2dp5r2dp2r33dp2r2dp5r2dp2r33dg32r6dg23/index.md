@@ -2,9 +2,10 @@
 title: "Huntly (District)"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32r7g32r33g4r12g4r33w3r12y3dp33r7dp33y3r12w3r33dp2r2dp5r2dp2r33dp2r2dp5r2dp2r33g32r6g23/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/853/
 

@@ -2,9 +2,10 @@
 title: "Ralston Personal Tartan Tartan Number: 6109. Earliest known date: 2003 The tartan commemorates the 60th birthday of Michael R. Ralstin of Scioto Co Ohio and provides a tartan design for the name Ralston and all its spelling variations. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGGGRRBRRG](/stripes/bggggrrbrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12n4r4b4r4n4dg18g5dg5g5b4/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGRRBRRG](/stripes/bggggrrbrrg/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6109
 

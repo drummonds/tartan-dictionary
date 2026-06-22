@@ -2,18 +2,20 @@
 title: "Blaylock"
 date: 2023-03-18
 ---
-In pattern [KWBWRKRYRW](/stripes/kwbwrkryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4w2db8w3r16k2r5y2r5w2/)
+(the same proportion at any scale), whose colour order is pattern [KWBWRKRYRW](/stripes/kwbwrkryrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1953 — Blaylock (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300))
-- 1953 — Blaylock (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5925/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1953 — Blaylock (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=300">record</a>)</li>
+<li>1953 — Blaylock (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5925/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

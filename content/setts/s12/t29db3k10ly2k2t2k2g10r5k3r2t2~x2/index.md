@@ -2,18 +2,20 @@
 title: "Stewart Blue"
 date: 2023-03-18
 ---
-In pattern [BBKYKBKGRKRB](/stripes/bbkykbkgrkrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba29b3k10y2k2ba2k2g10r5k3r2ba2/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKBKGRKRB](/stripes/bbkykbkgrkrb/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart Blue (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Blue Trade Tartan Tartan Number: 54. Earliest known date: 1956 Weft is slightly different. Commenting on the design, Mr Portch said, "The sett should be exactly the same as Royal Stewart with light Scottish blue replacing the red ground and white over checking." It is not entirely clear if Mr Portch has developed a 'trade variant' or is explaining his view of the 'correct form' of the Blue Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=54))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart Blue (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Blue Trade Tartan Tartan Number: 54. Earliest known date: 1956 Weft is slightly different. Commenting on the design, Mr Portch said, "The sett should be exactly the same as Royal Stewart with light Scottish blue replacing the red ground and white over checking." It is not entirely clear if Mr Portch has developed a 'trade variant' or is explaining his view of the 'correct form' of the Blue Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=54">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Ba/58 B6 K20 Y4 K4 Ba4 K4 G20 R10 K6 R4 Ba/4

@@ -2,9 +2,10 @@
 title: "King George VI (Green Stewart)"
 date: 2023-03-18
 ---
-In pattern [BKYKWKGRKRWRKRGKWKYKBG](/stripes/bkykwkgrkrwrkrgkwkykbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g42b3k8y2k2ln3k2g12r5k2r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKYKWKGRKRWRKRGKWKYKBG](/stripes/bkykwkgrkrwrkrgkwkykbg/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1985
 

@@ -2,9 +2,10 @@
 title: "Cumming/Comyn/Buchan"
 date: 2023-03-18
 ---
-In pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g6r1k8r1k1b1r1k8r1g6r6b1k6r1g8r1k1r1g8r1k6b1/)
+(the same proportion at any scale), whose colour order is pattern [BKRGRKRGRKBRGRKRBKRKRGR](/stripes/bkrgrkrgrkbrgrkrbkrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=841
 

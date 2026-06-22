@@ -2,20 +2,22 @@
 title: "MacKinlay"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k2b2k2b2k6g8k1r2k1g8k6b8k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/2002 — MacKinlay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540))
-- undated — MacKinlay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — MacKinlay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacKinlay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacKinlay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540">record</a>)</li>
+<li>undated — MacKinlay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — MacKinlay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacKinlay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

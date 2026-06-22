@@ -2,9 +2,10 @@
 title: "Munster Irish District Tartan Tartan Number: 4061. Earliest known date: 1997 One of the Irish district tartans produced in 1997 by Lochcarron to acknowledge the early historical and cultural links between the Scots and the Irish. Munster covers the southwest counties of Ireland and encompasses the principal cities of Cork, Limerick and Waterford. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBGBGBRKGBKGKGRGKGKBGKRBGBGBR](/stripes/brbgbgbrkgbkgkgrgkgkbgkrbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4r2b3g1b1g2b18r1k12gb21b1k3gb1k2gb4r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGBRKGBKGKGRGKGKBGKRBGBGBR](/stripes/brbgbgbrkgbkgkgrgkgkbgkrbgbgbr/).
 
-This was sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4061
 

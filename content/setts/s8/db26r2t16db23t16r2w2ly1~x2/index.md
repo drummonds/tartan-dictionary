@@ -2,9 +2,10 @@
 title: "Boxing Scotland"
 date: 2023-03-18
 ---
-In pattern [BRBBBRWY](/stripes/brbbbrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db26r2b16db23b16r2w2y1/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBRWY](/stripes/brbbbrwy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11429
 

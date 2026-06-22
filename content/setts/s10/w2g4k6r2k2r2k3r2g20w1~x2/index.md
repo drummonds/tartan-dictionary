@@ -2,9 +2,10 @@
 title: "Kiernan"
 date: 2023-03-18
 ---
-In pattern [WGKRKRKRGW](/stripes/wgkrkrkrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2g4k6r2k2r2k3r2g20ln1/)
+(the same proportion at any scale), whose colour order is pattern [WGKRKRKRGW](/stripes/wgkrkrkrgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Kiernan
 - Kiernan )
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1978 — Kiernan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958))
-- pre 1978 — Kiernan (Clan)) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1800/))
-- undated — Keirnan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Keirnan Irish Family Tartan Tartan Number: 1800. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1800))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1978 — Kiernan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1958">record</a>)</li>
+<li>pre 1978 — Kiernan (Clan)) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1800/">record</a>)</li>
+<li>undated — Keirnan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Keirnan Irish Family Tartan Tartan Number: 1800. Earliest known date: 1880 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19C See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1800">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

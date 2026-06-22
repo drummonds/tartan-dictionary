@@ -2,9 +2,10 @@
 title: "Wisconsin in Scotland"
 date: 2023-03-18
 ---
-In pattern [BYRRRRWRRRRYBWBYRRRRWRRRRYBY](/stripes/byrrrrwrrrrybwbyrrrrwrrrryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11y1dr2n1dr2r2ln1r2dr2n1dr2y1db11ln1db11y1dr2n1dr2r2ln1r2dr2n1dr2y1db11y1/)
+(the same proportion at any scale), whose colour order is pattern [BYRRRRWRRRRYBWBYRRRRWRRRRYBY](/stripes/byrrrrwrrrrybwbyrrrrwrrrryby/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Wisconsin in Scotland Corporate Univ
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/1996 — Wisconsin in Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766))
-- undated — Wisconsin in Scotland Corporate Univ Tartan Tartan Number: 2323. Earliest known date: 1997 Possibly designed by Morgan Clifford for use by the various departments of the University of Wisconsin that maintained (maintains?) a cultural study centre south of Edinburgh at Dalkeith. Count multiplied by four to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2323))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/1996 — Wisconsin in Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4766">record</a>)</li>
+<li>undated — Wisconsin in Scotland Corporate Univ Tartan Tartan Number: 2323. Earliest known date: 1997 Possibly designed by Morgan Clifford for use by the various departments of the University of Wisconsin that maintained (maintains?) a cultural study centre south of Edinburgh at Dalkeith. Count multiplied by four to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2323">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

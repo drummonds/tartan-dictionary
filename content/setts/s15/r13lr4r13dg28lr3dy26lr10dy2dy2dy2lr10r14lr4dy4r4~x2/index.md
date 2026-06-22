@@ -2,9 +2,10 @@
 title: "MacPherson #9"
 date: 2023-03-18
 ---
-In pattern [RGYRYGGGYGYGRYR](/stripes/rgyrygggygygryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr13n4dr13g28n3t26n10t2k2t2n10dr14n4t4dr4/)
+(the same proportion at any scale), whose colour order is pattern [RGYRYGGGYGYGRYR](/stripes/rgyrygggygygryr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2710
 

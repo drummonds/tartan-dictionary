@@ -2,9 +2,10 @@
 title: "Myron Family Tartan Tartan Number: 1105. Earliest known date: pre 2003 Designed for the town celebrations of 1958-59 by G. Lawson of the Musselburgh Co-operative Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g3dr2g3y2g2y2g11db3k3db3k3db3k3db3g20r3/)
+(the same proportion at any scale), whose colour order is pattern [KGRGYGYGBKBKBKBGR](/stripes/kgrgygygbkbkbkbgr/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1105
 

@@ -2,9 +2,10 @@
 title: "New Brunswick"
 date: 2023-03-18
 ---
-In pattern [GKRKRKRKRKYGRKYKYKYRKY](/stripes/gkrkrkrkrkygrkykykyrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14k2r2k2r2k2r2k2r2k2y25g8r4k4y3k1y3k1y4r10k2y2/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKRKRKYGRKYKYKYRKY](/stripes/gkrkrkrkrkygrkykykyrky/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

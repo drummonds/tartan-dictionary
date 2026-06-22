@@ -2,18 +2,20 @@
 title: "MacRae"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4r1dg4r4dg1r1dg1r4ln1r1b4r1b4r1ln1r4b1r1b1r1b1r4b1r1b1r1b1r4dg4r1dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrbrbrwrgrgrgrg/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacRae (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacRae Clan Tartan Tartan Number: 859. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland', with a minor error corrected in the count given by D.C.Stewart in 'The Setts of the Scottish Tartans' (1950). The Smith's sources included the findings of George Hunter, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=859))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacRae (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacRae Clan Tartan Tartan Number: 859. Earliest known date: 1850 This plate is taken from the manuscript of William and Andrew Smith's 'Authenticated Tartans of the Clans and Families of Scotland', with a minor error corrected in the count given by D.C.Stewart in 'The Setts of the Scottish Tartans' (1950). The Smith's sources included the findings of George Hunter, who toured the Highlands in search of old tartans prior to 1822. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=859">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/16 R4 DG16 R16 DG4 R4 DG4 R16 LN4 R4 B16 R4 B16 R4 LN4 R16 B4 R4 B4 R4 B4 R16 B4 R4 B4 R4 B4 R16 DG16 R4 DG/16

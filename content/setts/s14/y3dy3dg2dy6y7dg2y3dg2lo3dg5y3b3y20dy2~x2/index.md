@@ -2,9 +2,10 @@
 title: "Stewart Camel (Lochcarron)"
 date: 2023-03-18
 ---
-In pattern [GGBGGYGGGGGGGG](/stripes/ggbggygggggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta3t3dg2t6g7dg2lta3dg2dy3dg5lta3b3lta20t2/)
+(the same proportion at any scale), whose colour order is pattern [GGBGGYGGGGGGGG](/stripes/ggbggygggggggg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3933
 

@@ -2,9 +2,10 @@
 title: "Canadian Estate"
 date: 2023-03-18
 ---
-In pattern [GRGRGRKBKRBRW](/stripes/grgrgrkbkrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18dr1g2dr2g16dr1k16n1k2dr2db20dr1na2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRKBKRBRW](/stripes/grgrgrkbkrbrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=546
 

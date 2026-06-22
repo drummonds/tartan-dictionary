@@ -2,9 +2,10 @@
 title: "Hilton Check"
 date: 2023-03-18
 ---
-In pattern [GKYKGKRKGKYKG](/stripes/gkykgkrkgkykg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg25k1n2k1dg4k1dr2k1dg4k1y2k1dg25/)
+(the same proportion at any scale), whose colour order is pattern [GKYKGKRKGKYKG](/stripes/gkykgkrkgkykg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1733
 

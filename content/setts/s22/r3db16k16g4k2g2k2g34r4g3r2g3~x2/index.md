@@ -2,9 +2,10 @@
 title: "Park Clan/Family Weavers Tartan Tartan Number: 2387. Earliest known date: September 1996 William D. Park wished to have a tartan for himself and family. Can be worn by those of the same name. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGKGKGKBRBKGKGKGRGR](/stripes/grgrgkgkgkbrbkgkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db16k16g4k2g2k2g34r4g3r2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKGKGKBRBKGKGKGRGR](/stripes/grgrgkgkgkbrbkgkgkgrgr/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2387
 

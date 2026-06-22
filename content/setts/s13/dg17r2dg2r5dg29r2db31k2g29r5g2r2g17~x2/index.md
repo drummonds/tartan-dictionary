@@ -2,9 +2,10 @@
 title: "Barbecue Presbyterian Church"
 date: 2023-03-18
 ---
-In pattern [GRGRGKBRGRGRG](/stripes/grgrgkbrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg17r2dg2r5dg29r2db31yy2g29r5g2r2g17/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKBRGRGRG](/stripes/grgrgkbrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5537
 

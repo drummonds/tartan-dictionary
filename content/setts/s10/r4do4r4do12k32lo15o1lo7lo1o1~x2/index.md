@@ -2,9 +2,10 @@
 title: "Hard Rock Cafe (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBKYRYYR](/stripes/rbrbkyryyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dra4dr4dra12k32lt15o1lt7dy1o1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKYRYYR](/stripes/rbrbkyryyr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10399/
 

@@ -2,9 +2,10 @@
 title: "Gordon, dress 5"
 date: 2023-03-18
 ---
-In pattern [BBBBRYRBWKWBW](/stripes/bbbbryrbwkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln6b3ln18k5ln5dr10lt17y4lt17dr10ba10dr2ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBRYRBWKWBW](/stripes/bbbbryrbwkwbw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Victoria"
 date: 2023-03-18
 ---
-In pattern [RWBWKYKWKGRKRW](/stripes/rwbwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ln24b3ln3k6y1k1ln1k1g8r4k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKYKWKGRKRW](/stripes/rwbwkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4029
 

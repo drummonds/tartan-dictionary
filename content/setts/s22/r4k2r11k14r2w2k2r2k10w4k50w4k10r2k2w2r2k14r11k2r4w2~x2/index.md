@@ -2,9 +2,10 @@
 title: "Knights Templar Dress"
 date: 2023-03-18
 ---
-In pattern [RKRKRWKRKWKWKRKWRKRKRW](/stripes/rkrkrwkrkwkwkrkwrkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2r11k14r2w2k2r2k10w4k50w4k10r2k2w2r2k14r11k2r4w2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRWKRKWKWKRKWRKRKRW](/stripes/rkrkrwkrkwkwkrkwrkrkrw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2009
 

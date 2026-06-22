@@ -2,9 +2,10 @@
 title: "Hay - Stewart (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRKRGKWKYKBWRW](/stripes/wrkrgkwkykbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w9r5w29db3k10y2k3w3k3dg12r6k3r3w2/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBWRW](/stripes/wrkrgkwkykbwrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5198/
 

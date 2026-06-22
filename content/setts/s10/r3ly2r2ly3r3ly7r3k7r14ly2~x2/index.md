@@ -2,9 +2,10 @@
 title: "Austin College Page"
 date: 2023-03-18
 ---
-In pattern [RYRYRYRKRY](/stripes/ryryryrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3ly2dr2ly3dr3ly7dr3k7dr14ly2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYRKRY](/stripes/ryryryrkry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10055
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Austin College Page
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 15/05/2009 — Austin College Page (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10055))
-- 15th May 2009 — Austin College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10055/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>15/05/2009 — Austin College Page (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10055">record</a>)</li>
+<li>15th May 2009 — Austin College (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10055/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

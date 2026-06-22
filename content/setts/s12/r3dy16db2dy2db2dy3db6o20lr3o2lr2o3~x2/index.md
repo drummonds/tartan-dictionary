@@ -2,9 +2,10 @@
 title: "Callum, Brown (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RGBGBGBRYRYR](/stripes/rgbgbgbryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3t16db2t2db2t3db6lt20n3lt2n2lt3/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBGBRYRYR](/stripes/rgbgbgbryryr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1187/
 

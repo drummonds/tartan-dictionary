@@ -2,19 +2,21 @@
 title: "Mizzou (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYWKWYKWKWKYKRKYWKWY](/stripes/bywkwykwkwkykrkywkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8ln8k2ln6y8k28r2k12y18k12ln6k51ln2k12y8ln8k2ln6y8db2/)
+(the same proportion at any scale), whose colour order is pattern [BYWKWYKWKWKYKRKYWKWY](/stripes/bywkwykwkwkykrkywkwy/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10104/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- August 2008 — Mizzou (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10104/))
-- 20/06/2009 — Mizzou Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10104))
-- undated — Mizzou American Corporate Tartan Tartan Number: 10104. Earliest known date: August 2008 From the Missouri University (Mizzou) website: "For senior textile and apparel management major Lauren Drufke-Mahe, a love of fashion and an eye for design helped her create the official MU Tiger Tartan. Tartans are plaid designs historically worn by Scottish clans as a way to form a sense of collective identity and unity. More than 6,000 people voted online and chose Drufke-Mahe's tartan design to represent Mizzou." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10104))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>August 2008 — Mizzou (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10104/">record</a>)</li>
+<li>20/06/2009 — Mizzou Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10104">record</a>)</li>
+<li>undated — Mizzou American Corporate Tartan Tartan Number: 10104. Earliest known date: August 2008 From the Missouri University (Mizzou) website: "For senior textile and apparel management major Lauren Drufke-Mahe, a love of fashion and an eye for design helped her create the official MU Tiger Tartan. Tartans are plaid designs historically worn by Scottish clans as a way to form a sense of collective identity and unity. More than 6,000 people voted online and chose Drufke-Mahe's tartan design to represent Mizzou." See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10104">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

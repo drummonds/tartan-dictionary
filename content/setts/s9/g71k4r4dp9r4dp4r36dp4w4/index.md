@@ -2,18 +2,20 @@
 title: "Rattray"
 date: 2023-03-18
 ---
-In pattern [GKRBRBRBW](/stripes/gkrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g71k4r4p9r4p4r36p4w4/)
+(the same proportion at any scale), whose colour order is pattern [GKRBRBRBW](/stripes/gkrbrbrbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1969 — Rattray (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467))
-- pre 1969 — Rattray (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/819/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1969 — Rattray (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3467">record</a>)</li>
+<li>pre 1969 — Rattray (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/819/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

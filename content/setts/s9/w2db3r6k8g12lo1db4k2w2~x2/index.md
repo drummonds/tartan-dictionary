@@ -2,9 +2,10 @@
 title: "National (1934), The"
 date: 2023-03-18
 ---
-In pattern [WBRKGYBKW](/stripes/wbrkgybkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2db3r6k8g12dy1db4k2w2/)
+(the same proportion at any scale), whose colour order is pattern [WBRKGYBKW](/stripes/wbrkgybkw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5122
 

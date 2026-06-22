@@ -2,9 +2,10 @@
 title: "Borders (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWYBKWKYKRKYBKW](/stripes/rkwybkwkykrkybkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k15n7na7k1r1k1nb7k1ln7k7n7na7ln1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKWYBKWKYKRKYBKW](/stripes/rkwybkwkykrkybkw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8246/
 

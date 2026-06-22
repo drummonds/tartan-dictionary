@@ -2,9 +2,10 @@
 title: "Langholm Millennium"
 date: 2023-03-18
 ---
-In pattern [RKGKWKRGKGKY](/stripes/rkgkwkrgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr43db3t1db2ln1db6r2dg1db1dg3db1y3/)
+(the same proportion at any scale), whose colour order is pattern [RKGKWKRGKGKY](/stripes/rkgkwkrgkgky/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

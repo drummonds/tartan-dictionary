@@ -2,9 +2,10 @@
 title: "American Monahan (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGKGKGYGKGY](/stripes/kgkgkgygkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k13g3k4g3k3g19dy1g19k3g2dy4/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKGYGKGY](/stripes/kgkgkgygkgy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8515/
 

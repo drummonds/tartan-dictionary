@@ -2,9 +2,10 @@
 title: "Campbell of Argyll Dress Clan Tartan Tartan Number: 1962. Earliest known date: 1906 One of the 'Dress' and 'Hunting' versions of clan tartans introduced for the first time in 1906 by H. Whyte's and others, 'The Tartans of the Clans and Septs of Scotland' published by W & A. K. Johnston, Edinburgh. The book contains over 200 tartans and is the fore-runner of Johnston's annual pocket editions. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g12y3g12k9ln5b6ln19b2ln6b2ln19b6ln5k9g12ln3g12k12db10k2db2k2db10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1962
 

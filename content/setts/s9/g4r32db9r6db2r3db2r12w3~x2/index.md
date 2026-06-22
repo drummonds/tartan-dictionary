@@ -2,20 +2,22 @@
 title: "Rose"
 date: 2023-03-18
 ---
-In pattern [GRBRBRBRW](/stripes/grbrbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r32db9r6db2r3db2r12w3/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBRBRW](/stripes/grbrbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1842 — Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547))
-- 1842 — Rose - 1842 (VS Plate) Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/845/))
-- undated — Rose (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Rose Clan Tartan Tartan Number: 845. Earliest known date: 1842 The text of the Vestiarium gives the colours as purple and crimson but in the plate they appear as mid blue and scarlet. The Lord Lyon records crimson as red. D.C. Stewart regarded this sett as a 'dress' tartan. ('The Setts..' 1950) James Logan records a 'hunting' version. ('The Scottish Gael' 1831). The castle of Kilravock which has been the residence of the Roses for over five centuries is still the seat of the chief. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=845))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Rose (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3547">record</a>)</li>
+<li>1842 — Rose - 1842 (VS Plate) Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/845/">record</a>)</li>
+<li>undated — Rose (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Rose Clan Tartan Tartan Number: 845. Earliest known date: 1842 The text of the Vestiarium gives the colours as purple and crimson but in the plate they appear as mid blue and scarlet. The Lord Lyon records crimson as red. D.C. Stewart regarded this sett as a 'dress' tartan. ('The Setts..' 1950) James Logan records a 'hunting' version. ('The Scottish Gael' 1831). The castle of Kilravock which has been the residence of the Roses for over five centuries is still the seat of the chief. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=845">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Matheson, hunting"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8b4g1b1g1b24k8g4b1g1b1g4b8g1b1g1b1k8g8b2g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Matheson, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Matheson, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Matheson Hunting Clan Tartan Tartan Number: 693. Earliest known date: 1906 The Setts No: 190 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=693))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Matheson, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Matheson Hunting Clan Tartan Tartan Number: 693. Earliest known date: 1906 The Setts No: 190 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=693">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/16 B8 G2 B2 G2 B48 K16 G8 B2 G2 B2 G8 B16 G2 B2 G2 B2 K16 G16 B4 G/8

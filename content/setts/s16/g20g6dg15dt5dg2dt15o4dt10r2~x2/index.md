@@ -2,9 +2,10 @@
 title: "Copar a'Beannichte Family Tartan Tartan Number: 6483. Earliest known date: 2004 The name of the tartan is constructed in Gaelic from the Dutch van Koperen and the French Benoist to mean the Blessed Copper, a tribute to Mrs Y Ch van Koperen-Benoist. The green represents oxidised copper of the Koperens and blue the Benoist family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGBGBRBRBRBGBGGG](/stripes/ggbgbrbrbrbgbggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20b6dg15db5dg2db15n4db10r2/)
+(the same proportion at any scale), whose colour order is pattern [GGBGBRBRBRBGBGGG](/stripes/ggbgbrbrbrbgbggg/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6483
 

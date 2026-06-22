@@ -2,9 +2,10 @@
 title: "Glen Moy"
 date: 2023-03-18
 ---
-In pattern [WGKWKWKGWKWW](/stripes/wgkwkwkgwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n98na12k16ln5k5ln5k5na28n16k5n16ln6/)
+(the same proportion at any scale), whose colour order is pattern [WGKWKWKGWKWW](/stripes/wgkwkwkgwkww/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

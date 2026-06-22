@@ -2,9 +2,10 @@
 title: "MacKintosh (Chief)"
 date: 2023-03-18
 ---
-In pattern [RKWGWYRKRYWBKRYW](/stripes/rkwgwyrkrywbkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24k1ln1g6ln1y2r2k1r2y2ln1b6k2r3y3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKWGWYRKRYWBKRYW](/stripes/rkwgwyrkrywbkryw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - MacKintosh
 - MacKintosh Chief
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1850 — MacKintosh (Chief) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569))
-- 1850 — Hong Kong Police Pipe Band (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6131/))
-- c1800 — MacKintosh Chief - 1819 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1622/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1850 — MacKintosh (Chief) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2569">record</a>)</li>
+<li>1850 — Hong Kong Police Pipe Band (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6131/">record</a>)</li>
+<li>c1800 — MacKintosh Chief - 1819 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1622/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

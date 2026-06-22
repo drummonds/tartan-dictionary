@@ -2,9 +2,10 @@
 title: "Quebec, Plaid du"
 date: 2023-03-18
 ---
-In pattern [KGKYKRGRKWKR](/stripes/kgkykrgrkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba25dg5dba2dy2k2r3dg20r20dba2ln2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKRGRKWKR](/stripes/kgkykrgrkwkr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3423
 

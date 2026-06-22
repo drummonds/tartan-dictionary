@@ -2,9 +2,10 @@
 title: "University of South Carolina (Corp)"
 date: 2023-03-18
 ---
-In pattern [RKRKWRKRWR](/stripes/rkrkwrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k4dr3k8w3dr3k20dr40w2dr4/)
+(the same proportion at any scale), whose colour order is pattern [RKRKWRKRWR](/stripes/rkrkwrkrwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10998/
 

@@ -2,9 +2,10 @@
 title: "Salem Scottish Dancers (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBWBBWB](/stripes/bbbwbbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn5b5dn30w4dn4b18w3dn3/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBBWB](/stripes/bbbwbbwb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4136/
 

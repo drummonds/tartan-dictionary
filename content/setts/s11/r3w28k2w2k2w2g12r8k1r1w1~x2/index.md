@@ -2,9 +2,10 @@
 title: "Royal Stuart / Stewart"
 date: 2023-03-18
 ---
-In pattern [RWKWKWGRKRW](/stripes/rwkwkwgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ln28k2ln2k2ln2g12r8k1r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWKWKWGRKRW](/stripes/rwkwkwgrkrw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal Stuart / Stewart
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Royal Stuart / Stewart (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Royal Stuart Royal Family Tartan Tartan Number: 1689. Earliest known date: 1842 The spelling of the name Stuart does not neccessarily indicate the branch of the Stewart Clan. It is the spelling adopted by Mary, Queen of Scots, to accomodate the French alphabet, but does not imply Royal lineage. The Sobieski Stuart brothers used this spelling in the Vestiarium Scoticum (1842). The sett shows some minor variations to the usual pattern. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1689))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Royal Stuart / Stewart (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Royal Stuart Royal Family Tartan Tartan Number: 1689. Earliest known date: 1842 The spelling of the name Stuart does not neccessarily indicate the branch of the Stewart Clan. It is the spelling adopted by Mary, Queen of Scots, to accomodate the French alphabet, but does not imply Royal lineage. The Sobieski Stuart brothers used this spelling in the Vestiarium Scoticum (1842). The sett shows some minor variations to the usual pattern. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1689">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 LN56 K4 LN4 K4 LN4 G24 R16 K2 R2 LN/2

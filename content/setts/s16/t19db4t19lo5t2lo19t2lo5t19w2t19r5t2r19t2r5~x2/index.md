@@ -2,18 +2,20 @@
 title: "McBeams Boy"
 date: 2023-03-18
 ---
-In pattern [BBBYBYBYBWBRBRBR](/stripes/bbbybybybwbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b19db4b19lt5b2lt19b2lt5b19ln2b19r5b2r19b2r5/)
+(the same proportion at any scale), whose colour order is pattern [BBBYBYBYBWBRBRBR](/stripes/bbbybybybwbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2003 — McBeams Boy (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870))
-- August 2003 — McBeams Boy (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5936/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2003 — McBeams Boy (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2870">record</a>)</li>
+<li>August 2003 — McBeams Boy (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5936/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

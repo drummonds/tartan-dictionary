@@ -2,9 +2,10 @@
 title: "Duminiak (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWRWBY](/stripes/rwrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n47ln6r24ln3db5dy3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWBY](/stripes/rwrwby/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10597/
 

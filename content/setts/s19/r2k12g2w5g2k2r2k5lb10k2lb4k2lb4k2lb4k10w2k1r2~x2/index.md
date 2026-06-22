@@ -2,18 +2,20 @@
 title: "Southwick (Name)"
 date: 2023-03-18
 ---
-In pattern [RKGWGKRKWKWKWKWKWKR](/stripes/rkgwgkrkwkwkwkwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k12g2w5g2k2r2k5n10k2n4k2n4k2n4k10w2k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKGWGKRKWKWKWKWKWKR](/stripes/rkgwgkrkwkwkwkwkwkr/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2642/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Aug. 1997 — Southwick (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2642/))
-- undated — Southwick (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Aug. 1997 — Southwick (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2642/">record</a>)</li>
+<li>undated — Southwick (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 K24 G4 W10 G4 K4 R4 K10 N20 K4 N8 K4 N8 K4 N8 K20 W4 K2 R/4

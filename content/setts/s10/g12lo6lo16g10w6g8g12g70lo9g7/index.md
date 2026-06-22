@@ -2,9 +2,10 @@
 title: "Rams Timeless"
 date: 2023-03-18
 ---
-In pattern [GYGGGWGYYG](/stripes/gygggwgyyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12dy6o16ga10w6ga8g12ga70dy9ga7/)
+(the same proportion at any scale), whose colour order is pattern [GYGGGWGYYG](/stripes/gygggwgyyg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10859/
 

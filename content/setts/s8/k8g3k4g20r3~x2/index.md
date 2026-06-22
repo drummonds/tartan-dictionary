@@ -2,9 +2,10 @@
 title: "MacArthur-Fox (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGRGKGK](/stripes/gkgrgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8g3k4g20dr3/)
+(the same proportion at any scale), whose colour order is pattern [GKGRGKGK](/stripes/gkgrgkgk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1088/
 

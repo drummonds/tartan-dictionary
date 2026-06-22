@@ -2,9 +2,10 @@
 title: "Ostermeier (2015)"
 date: 2023-03-18
 ---
-In pattern [KBKBKRWR](/stripes/kbkbkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r11w1r32k8db6k1db16k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKRWR](/stripes/kbkbkrwr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11364
 

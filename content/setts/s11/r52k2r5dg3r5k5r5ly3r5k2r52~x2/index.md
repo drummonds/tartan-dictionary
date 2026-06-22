@@ -2,9 +2,10 @@
 title: "Taplin"
 date: 2023-03-18
 ---
-In pattern [RKRGRKRYRKR](/stripes/rkrgrkryrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52k2r5y3r5k5r5g3r5k2r52/)
+(the same proportion at any scale), whose colour order is pattern [RKRGRKRYRKR](/stripes/rkrgrkryrkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4070
 

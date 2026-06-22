@@ -2,9 +2,10 @@
 title: "Quadra"
 date: 2023-03-18
 ---
-In pattern [GKRKRKRKRGKYKRKBWKWR](/stripes/gkrkrkrkrgkykrkbwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k3dr1k3dr2k2dr4k1dr4g3k2dy2k2dr2k6db6n14k3n3dr3/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKRKRGKYKRKBWKWR](/stripes/gkrkrkrkrgkykrkbwkwr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3421
 

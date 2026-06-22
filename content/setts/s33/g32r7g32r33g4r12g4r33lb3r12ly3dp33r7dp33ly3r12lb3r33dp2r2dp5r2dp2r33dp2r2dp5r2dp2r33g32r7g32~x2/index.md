@@ -2,9 +2,10 @@
 title: "Marchioness of Huntly's"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32r7g32r33g4r12g4r33n3r12y3p33r7p33y3r12n3r33p2r2p5r2p2r33p2r2p5r2p2r33g32r7g32/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRBRBRBRWRYBRBYRWRGRGRGRG](/stripes/grgrbrbrbrbrbrbrwrybrbyrwrgrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2830
 

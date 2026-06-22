@@ -2,9 +2,10 @@
 title: "Johore (District)"
 date: 2023-03-18
 ---
-In pattern [RWGRY](/stripes/rwgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n57ln5g20n5dy10/)
+(the same proportion at any scale), whose colour order is pattern [RWGRY](/stripes/rwgry/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1309/
 

@@ -2,18 +2,20 @@
 title: "Buglass"
 date: 2023-03-18
 ---
-In pattern [WBYBBBBBBBYBY](/stripes/wbybbbbbbbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o3na1o1na16dr2na2dr2na3dr12t26lg2t3n2/)
+(the same proportion at any scale), whose colour order is pattern [WBYBBBBBBBYBY](/stripes/wbybbbbbbbyby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Buglass (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435))
-- 1998 — Buglass (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2569/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Buglass (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=435">record</a>)</li>
+<li>1998 — Buglass (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2569/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

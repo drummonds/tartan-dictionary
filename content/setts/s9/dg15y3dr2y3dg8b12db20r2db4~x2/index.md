@@ -2,9 +2,10 @@
 title: "Westbrook (2013)"
 date: 2023-03-18
 ---
-In pattern [BRBBGGBGG](/stripes/brbbggbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15ga3dra2ga3g8b12db20dr2db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBGGBGG](/stripes/brbbggbgg/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10929
 

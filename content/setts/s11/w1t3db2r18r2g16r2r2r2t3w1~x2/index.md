@@ -2,18 +2,20 @@
 title: "Moray of Abercairny"
 date: 2023-03-18
 ---
-In pattern [WBBRRGRRRBW](/stripes/wbbrrgrrrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1b3do2dr2do2g16do2dr18db2b3w1/)
+(the same proportion at any scale), whose colour order is pattern [WBBRRGRRRBW](/stripes/wbbrrgrrrbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1735 — Moray of Abercairny (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010))
-- pre 1735 — Moray of Abercairny (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/51/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1735 — Moray of Abercairny (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3010">record</a>)</li>
+<li>pre 1735 — Moray of Abercairny (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/51/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

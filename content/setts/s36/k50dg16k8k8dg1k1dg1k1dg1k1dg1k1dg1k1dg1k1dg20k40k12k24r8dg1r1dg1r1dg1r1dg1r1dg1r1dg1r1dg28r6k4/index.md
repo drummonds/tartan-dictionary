@@ -2,9 +2,10 @@
 title: "New Brunswick (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [KGKKGKGKGKGKGKGKGKKKRGRGRGRGRGRGRGRK](/stripes/kgkkgkgkgkgkgkgkgkkkrgrgrgrgrgrgrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka50dg16ka8k8dg1k1dg1k1dg1k1dg1k1dg1k1dg1k1dg20k40ka12k24r8dg1r1dg1r1dg1r1dg1r1dg1r1dg1r1dg28r6k4/)
+(the same proportion at any scale), whose colour order is pattern [KGKKGKGKGKGKGKGKGKKKRGRGRGRGRGRGRGRK](/stripes/kgkkgkgkgkgkgkgkgkkkrgrgrgrgrgrgrgrk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7710/
 

@@ -2,9 +2,10 @@
 title: "Harkness Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [BGRGYGBWBG](/stripes/bgrgygbwbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga10g2ln2g16ga6lt2ga4r2ga3g6/)
+(the same proportion at any scale), whose colour order is pattern [BGRGYGBWBG](/stripes/bgrgygbwbg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5710/
 

@@ -2,9 +2,10 @@
 title: "MacLellan Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYYKRWRWKGY](/stripes/kyykrwrwkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y2b13k8r2ln13r2ln13k2g12y4/)
+(the same proportion at any scale), whose colour order is pattern [KYYKRWRWKGY](/stripes/kyykrwrwkgy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8236/
 

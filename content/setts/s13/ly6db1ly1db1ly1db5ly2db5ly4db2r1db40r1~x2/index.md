@@ -2,9 +2,10 @@
 title: "Angotta"
 date: 2023-03-18
 ---
-In pattern [RBRBYBYBYBYBY](/stripes/rbrbybybybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6db1y1db1y1db5y2db5y4db2r1db40r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRBYBYBYBYBY](/stripes/rbrbybybybyby/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10038
 

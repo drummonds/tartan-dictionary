@@ -2,9 +2,10 @@
 title: "Sutherland"
 date: 2023-03-18
 ---
-In pattern [GYGKBKBKBRBR](/stripes/gygkbkbkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6n2dg24k12db3k2db2k2db12dr1db1dr3/)
+(the same proportion at any scale), whose colour order is pattern [GYGKBKBKBRBR](/stripes/gygkbkbkbrbr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

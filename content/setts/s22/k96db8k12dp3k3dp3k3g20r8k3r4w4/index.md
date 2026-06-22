@@ -2,9 +2,10 @@
 title: "Watt"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k96dba8k12p3k3p3k3g20r8k3r4ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRKRWRKRGKBKBKBK](/stripes/bkbkbkgrkrwrkrgkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4505
 

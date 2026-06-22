@@ -2,9 +2,10 @@
 title: "Innes of Cowie"
 date: 2023-03-18
 ---
-In pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkgkrkrkrwrgrkgkrwrkgkrgrwrkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6db1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKGKRKRKRWRGRKGKRWRKGKRGRWRKRKRK](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkgkrkrkrwrgrkgkrwrkgkrgrwrkrkrk/).
 
-This was sourced from register-of-tartans.  It is a [60 stripe tartan](/stripes/stripes60/).
+Sourced from register-of-tartans.  It is a [60 stripe tartan](/stripes/stripes60/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1832
 

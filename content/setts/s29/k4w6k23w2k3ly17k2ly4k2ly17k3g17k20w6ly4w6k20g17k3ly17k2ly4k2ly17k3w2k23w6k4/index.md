@@ -2,9 +2,10 @@
 title: "Vaughan (Welsh Name) Welsh Name Tartan Tartan Number: 6168. Earliest known date: pre 2004 The tartan for this Welsh surname and its variations, Baughan, Bawn, Fychan, Vain, Vaughan, Vaughn, Vauhan, Vayne, Vychan, Vachan, Vaghann, Young, Younger, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKWKYKYKYKGKWYWKGKYKYKYKWKWK](/stripes/kwkwkykykykgkwywkgkykykykwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4w6k23w2k3ya17k2ya4k2ya17k3g17k20w6ya4w6k20g17k3ya17k2ya4k2ya17k3w2k23w6k4/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKYKYKYKGKWYWKGKYKYKYKWKWK](/stripes/kwkwkykykykgkwywkgkykykykwkwk/).
 
-This was sourced from house-of-tartan.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from house-of-tartan.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6168
 

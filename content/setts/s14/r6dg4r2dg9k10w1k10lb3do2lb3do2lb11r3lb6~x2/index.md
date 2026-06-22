@@ -2,9 +2,10 @@
 title: "Redgate in Connecticut (Ulster-Scots)"
 date: 2023-03-18
 ---
-In pattern [RGRGKWKWBWBWRW](/stripes/rgrgkwkwbwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6g4dr2g9k10w1k10lb3ka2lb3ka2lb11dr3lb6/)
+(the same proportion at any scale), whose colour order is pattern [RGRGKWKWBWBWRW](/stripes/rgrgkwkwbwbwrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10810
 

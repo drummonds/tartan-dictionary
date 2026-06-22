@@ -2,9 +2,10 @@
 title: "Plymouth Armada (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BRBBBBWBRBRW](/stripes/brbbbbwbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db40r2db7dba5dr2dba3ln2dba10n6db2n4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBBWBRBRW](/stripes/brbbbbwbrbrw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/476/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Plymouth Armada Special event
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1988 — Plymouth Armada (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/476/))
-- undated — Plymouth Armada Special event Tartan Tartan Number: 476. Earliest known date: 1988 Commemorates the 400th anniversary of the defeat of the Spanish Armada. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=476))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1988 — Plymouth Armada (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/476/">record</a>)</li>
+<li>undated — Plymouth Armada Special event Tartan Tartan Number: 476. Earliest known date: 1988 Commemorates the 400th anniversary of the defeat of the Spanish Armada. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=476">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/80 R4 DB14 DBa10 DR4 DBa6 LN4 DBa20 N12 DB4 N8 LN/4

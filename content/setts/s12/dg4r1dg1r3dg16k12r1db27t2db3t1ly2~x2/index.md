@@ -2,9 +2,10 @@
 title: "McGuirk (2013)"
 date: 2023-03-18
 ---
-In pattern [GRGRGKRBBBBY](/stripes/grgrgkrbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r1g1r3g16k12r1b27ba2b3ba1y2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKRBBBBY](/stripes/grgrgkrbbbby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10904
 

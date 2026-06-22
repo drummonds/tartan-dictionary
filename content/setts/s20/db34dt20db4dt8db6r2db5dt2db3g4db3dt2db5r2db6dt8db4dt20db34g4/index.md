@@ -2,9 +2,10 @@
 title: "Hughes of Wales"
 date: 2023-03-18
 ---
-In pattern [BBBBBRBBBGBBBRBBBBBG](/stripes/bbbbbrbbbgbbbrbbbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db34dba20db4dba8db6r2db5dba2db3g4db3dba2db5r2db6dba8db4dba20db34g4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBRBBBGBBBRBBBBBG](/stripes/bbbbbrbbbgbbbrbbbbbg/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1782
 

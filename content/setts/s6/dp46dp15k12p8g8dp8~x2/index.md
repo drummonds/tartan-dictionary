@@ -2,9 +2,10 @@
 title: "Haut Name Tartan Tartan Number: 10389. Earliest known date: 1st March 2011 Designed for the Haut family living in Liff by Dundee to celebrate their German and Irish roots and the Scottish identity of their children. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKBGB](/stripes/bbkbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp46pa15k12lp8g8dp8/)
+(the same proportion at any scale), whose colour order is pattern [BBKBGB](/stripes/bbkbgb/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10389
 

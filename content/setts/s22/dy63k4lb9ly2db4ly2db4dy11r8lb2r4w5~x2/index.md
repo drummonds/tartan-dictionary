@@ -2,9 +2,10 @@
 title: "Sellers/Sillars"
 date: 2023-03-18
 ---
-In pattern [GKWYBYBGRWRWRWRGBYBYWK](/stripes/gkwybybgrwrwrwrgbybywk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ta63k4lp9y2db4y2db4ta11r8lp2r4wa5/)
+(the same proportion at any scale), whose colour order is pattern [GKWYBYBGRWRWRWRGBYBYWK](/stripes/gkwybybgrwrwrwrgbybywk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3764
 

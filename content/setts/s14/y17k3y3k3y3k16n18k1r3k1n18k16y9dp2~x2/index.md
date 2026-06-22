@@ -2,9 +2,10 @@
 title: "Fleming of Castle Carrick (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGKBKRKBKGKGKG](/stripes/bgkbkrkbkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17k3g3k3g3k16n18k1dr3k1n18k16g9p2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKRKBKGKGKG](/stripes/bgkbkrkbkgkgkg/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8086/
 

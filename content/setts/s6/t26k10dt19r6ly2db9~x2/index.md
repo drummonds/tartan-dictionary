@@ -2,9 +2,10 @@
 title: "Meeson Dress Personal Tartan Tartan Number: 6026. Earliest known date: 2007 Formal Dress version. The gray was originally woven with a melange or marled yarn. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBRYB](/stripes/bkbryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b26dn10db19dr6y2ba9/)
+(the same proportion at any scale), whose colour order is pattern [BKBRYB](/stripes/bkbryb/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6026
 

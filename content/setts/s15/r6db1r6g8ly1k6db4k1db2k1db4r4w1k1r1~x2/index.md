@@ -2,9 +2,10 @@
 title: "MacPherson 9"
 date: 2023-03-18
 ---
-In pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b1r6g8y1k6b4k1b2k1b4r4ln1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRGYKBKBKBRWKR](/stripes/rbrgykbkbkbrwkr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacPherson
 - MacPherson #6
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacPherson 9 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPherson Clan Tartan Tartan Number: 1411. Earliest known date: 1886 James Grant took all of the seventy two tartans in his book from actual specimens in use at the time (1886). Grants version shows a slight reduction in the red ground showing the Victorian trend towards more compact setts. Worn by the Victoria Police pipe band (Australia). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1411))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacPherson 9 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPherson Clan Tartan Tartan Number: 1411. Earliest known date: 1886 James Grant took all of the seventy two tartans in his book from actual specimens in use at the time (1886). Grants version shows a slight reduction in the red ground showing the Victorian trend towards more compact setts. Worn by the Victoria Police pipe band (Australia). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1411">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 B2 R12 G16 Y2 K12 B8 K2 B4 K2 B8 R8 LN2 K2 R/2

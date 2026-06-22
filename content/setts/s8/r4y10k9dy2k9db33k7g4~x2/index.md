@@ -2,9 +2,10 @@
 title: "Anne Arundel County"
 date: 2023-03-18
 ---
-In pattern [GKBKGKGR](/stripes/gkbkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4n10k9t2k9b33db7g4/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKGR](/stripes/gkbkgkgr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

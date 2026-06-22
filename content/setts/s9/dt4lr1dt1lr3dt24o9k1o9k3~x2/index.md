@@ -2,9 +2,10 @@
 title: "Historic Scotland (pre 1998) (Corp)"
 date: 2023-03-18
 ---
-In pattern [BYBYBRKRK](/stripes/bybybrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4na1n1na3n24nb9k1nb9k3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBRKRK](/stripes/bybybrkrk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2122/
 

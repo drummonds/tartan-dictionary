@@ -2,19 +2,21 @@
 title: "Golden Broom"
 date: 2023-03-18
 ---
-In pattern [RKRKYKBKRKRYYY](/stripes/rkrkykbkrkryyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg12y3lg6dr19k1lr8k2b4k2lg19k1dr19k1lr9/)
+(the same proportion at any scale), whose colour order is pattern [RKRKYKBKRKRYYY](/stripes/rkrkykbkrkryyy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4950
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2005 — Golden Broom (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4950))
-- 2005 — Golden Broom (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7072/))
-- undated — Golden Broom (Corporate) Corporate Tartan Tartan Number: 7072. Earliest known date: 2005 Designed by pupils of P6 & P7 in Mulbuie Primary School at Muir of Order (northwest of Inverness) during a project on the Jacobites. Mulbuie is the Gaelic for Golden Broom - thus the name of the tartan which has also been chosen as the official design for the 2007 Highland Year of Culture. Burgundy is the school colour, gold is for the golden broom and the greens and browns represent the area's agriculture. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7072))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Golden Broom (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4950">record</a>)</li>
+<li>2005 — Golden Broom (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7072/">record</a>)</li>
+<li>undated — Golden Broom (Corporate) Corporate Tartan Tartan Number: 7072. Earliest known date: 2005 Designed by pupils of P6 & P7 in Mulbuie Primary School at Muir of Order (northwest of Inverness) during a project on the Jacobites. Mulbuie is the Gaelic for Golden Broom - thus the name of the tartan which has also been chosen as the official design for the 2007 Highland Year of Culture. Burgundy is the school colour, gold is for the golden broom and the greens and browns represent the area's agriculture. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7072">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

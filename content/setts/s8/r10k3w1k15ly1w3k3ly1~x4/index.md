@@ -2,9 +2,10 @@
 title: "Cunard o' the Clyde"
 date: 2023-03-18
 ---
-In pattern [RKWKYWKY](/stripes/rkwkywky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10k3ln1k15lg1ln3k3lg1/)
+(the same proportion at any scale), whose colour order is pattern [RKWKYWKY](/stripes/rkwkywky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cunard o' the Clyde
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 15/05/2015 — Cunard o' the Clyde (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296))
-- undated — Cunard O' The Clyde Corporate Tartan Tartan Number: 11296. Earliest known date: 2015 The Cunard on the Clyde tartan has been created to celebrate the historical link between the Cunard and the Clyde as part of the Cunard's 175th anniversary celebrations. It was presented to Cunard by Peel Ports on May 21st 2015. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11296))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>15/05/2015 — Cunard o' the Clyde (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11296">record</a>)</li>
+<li>undated — Cunard O' The Clyde Corporate Tartan Tartan Number: 11296. Earliest known date: 2015 The Cunard on the Clyde tartan has been created to celebrate the historical link between the Cunard and the Clyde as part of the Cunard's 175th anniversary celebrations. It was presented to Cunard by Peel Ports on May 21st 2015. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11296">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Kennedy"
 date: 2023-03-18
 ---
-In pattern [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dg2lg1dg3dra1dg2dra1dg12db4k3db3k3db3k3db4dg24dr2/)
+(the same proportion at any scale), whose colour order is pattern [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Kennedy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Kennedy (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Kennedy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Kennedy (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 DG4 LG2 DG6 DRa2 DG4 DRa2 DG24 DB8 K6 DB6 K6 DB6 K6 DB8 DG48 DR/4

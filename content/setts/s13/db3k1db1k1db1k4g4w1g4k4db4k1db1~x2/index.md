@@ -2,18 +2,20 @@
 title: "Lamont"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k1b1k1b1k4g4ln1g4k4b4k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKBKB](/stripes/bkbkbkgwgkbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Lamont (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Lamont Clan Tartan Tartan Number: 216. Earliest known date: 1810-15 See Forbes. See MacLamond. The Clan Lamont are closely associated with Clan Campbell, and the tartan now worn by the Lamonts is like that known as Campbell of Argyll, except that the lines centered on the green are white only. A sample in the collection of the Highland Society of London bears the seal and signature of the Clan Chief dating from around 1816. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=216))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Lamont (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Lamont Clan Tartan Tartan Number: 216. Earliest known date: 1810-15 See Forbes. See MacLamond. The Clan Lamont are closely associated with Clan Campbell, and the tartan now worn by the Lamonts is like that known as Campbell of Argyll, except that the lines centered on the green are white only. A sample in the collection of the Highland Society of London bears the seal and signature of the Clan Chief dating from around 1816. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=216">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/6 K2 B2 K2 B2 K8 G8 LN2 G8 K8 B8 K2 B/2

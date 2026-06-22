@@ -2,9 +2,10 @@
 title: "Stewart, Silk"
 date: 2023-03-18
 ---
-In pattern [BBWBBYWBBRWRBBWGWGYBWBWB](/stripes/bbwbbywbbrwrbbwgwgybwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ln2b2ln1ba5o5g5ln1g20ln1b4ba4lt3ln1lt3ba4b4ln1o30b2ba2ln1ba2b2/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBYWBBRWRBBWGWGYBWBWB](/stripes/bbwbbywbbrwrbbwgwgybwbwb/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

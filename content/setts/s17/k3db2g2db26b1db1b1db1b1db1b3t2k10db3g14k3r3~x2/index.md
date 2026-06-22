@@ -2,9 +2,10 @@
 title: "St Lawrence"
 date: 2023-03-18
 ---
-In pattern [KBGBBBBBBBBBKBGKR](/stripes/kbgbbbbbbbbbkbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ba2g2ba26b1ba1b1ba1b1ba1b3bb2k10ba3g14k3r3/)
+(the same proportion at any scale), whose colour order is pattern [KBGBBBBBBBBBKBGKR](/stripes/kbgbbbbbbbbbkbgkr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

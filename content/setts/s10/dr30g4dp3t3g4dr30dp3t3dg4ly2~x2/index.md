@@ -2,9 +2,10 @@
 title: "Islay Whisky Club (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBBGBBBGY](/stripes/bgbbgbbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr30g4p3b3g4dr30p3b3dg4y2/)
+(the same proportion at any scale), whose colour order is pattern [BGBBGBBBGY](/stripes/bgbbgbbbgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3818/
 

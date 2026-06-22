@@ -2,18 +2,20 @@
 title: "European Union (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKBYBKYKBW](/stripes/rkbybkykbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4db32k1y2k1db10y18db10k1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKBYBKYKBW](/stripes/rkbybkykbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2486/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1997/98 — European Union (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2486/))
-- 27/02/1998 — European Union (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1139))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1997/98 — European Union (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2486/">record</a>)</li>
+<li>27/02/1998 — European Union (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1139">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

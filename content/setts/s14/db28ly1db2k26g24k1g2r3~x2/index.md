@@ -2,9 +2,10 @@
 title: "Ogilvie of Inverarity (V.S.)"
 date: 2023-03-18
 ---
-In pattern [BYBKGKGRGKGKBY](/stripes/bybkgkgrgkgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28y1db2k26g24k1g2r3/)
+(the same proportion at any scale), whose colour order is pattern [BYBKGKGRGKGKBY](/stripes/bybkgkgrgkgkby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3232
 

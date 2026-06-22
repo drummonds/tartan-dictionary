@@ -2,9 +2,10 @@
 title: "Aquascutum (Kinloch Anderson)"
 date: 2023-03-18
 ---
-In pattern [GKGKWKWRK](/stripes/gkgkwkwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t7db7t4db26ly12db3ly14dr2db6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKWKWRK](/stripes/gkgkwkwrk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=104
 

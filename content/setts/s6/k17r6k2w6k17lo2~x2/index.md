@@ -2,9 +2,10 @@
 title: "Black 1990 (Name)"
 date: 2023-03-18
 ---
-In pattern [KRKWKY](/stripes/krkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k17dr6k2ln6k17dy2/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKY](/stripes/krkwky/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7630/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Black 1990
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1945 — Black 1990 (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7630/))
-- 01/01/1990 — Black (asymmetric) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5648))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1945 — Black 1990 (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7630/">record</a>)</li>
+<li>01/01/1990 — Black (asymmetric) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5648">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

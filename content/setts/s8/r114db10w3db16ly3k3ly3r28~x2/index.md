@@ -2,9 +2,10 @@
 title: "Inverness #2"
 date: 2023-03-18
 ---
-In pattern [RBWBYKYR](/stripes/rbwbykyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r114b10ln3b16y3k3y3r28/)
+(the same proportion at any scale), whose colour order is pattern [RBWBYKYR](/stripes/rbwbykyr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1841
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Inverness #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Inverness #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1841))
-- undated — Inverness (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Inverness #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1841">record</a>)</li>
+<li>undated — Inverness (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

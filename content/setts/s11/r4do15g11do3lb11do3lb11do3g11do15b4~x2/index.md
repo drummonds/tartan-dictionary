@@ -2,9 +2,10 @@
 title: "Fraser Hunting Dress"
 date: 2023-03-18
 ---
-In pattern [BBGBWBWBGBR](/stripes/bbgbwbwbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dr15g11dr3n11dr3n11dr3g11dr15dra4/)
+(the same proportion at any scale), whose colour order is pattern [BBGBWBWBGBR](/stripes/bbgbwbwbgbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1261
 

@@ -2,9 +2,10 @@
 title: "Entier"
 date: 2023-03-18
 ---
-In pattern [KGKYKYKYKGYY](/stripes/kgkykykykgyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g4k6n2k31lg2k1lg2k16g20lg1n2/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKYKYKGYY](/stripes/kgkykykykgyy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11535
 

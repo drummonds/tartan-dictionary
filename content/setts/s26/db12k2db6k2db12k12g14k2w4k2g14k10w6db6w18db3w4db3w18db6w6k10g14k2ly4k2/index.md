@@ -2,9 +2,10 @@
 title: "Campbell of Loch Neil Dress Clan Tartan Tartan Number: 1963. Earliest known date: pre 2003 Sample 1984 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKWBWBWBWBWKGKYK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db6k2db12k12g14k2ln4k2g14k10ln6db6ln18db3ln4db3ln18db6ln6k10g14k2y4k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKWBWBWBWBWKGKYK](/stripes/bkbkbkgkwkgkwbwbwbwbwkgkyk/).
 
-This was sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from house-of-tartan.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1963
 

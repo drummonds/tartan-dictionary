@@ -2,9 +2,10 @@
 title: "Hamilton of Brandon"
 date: 2023-03-18
 ---
-In pattern [KGWKYKWGKY](/stripes/kgwkykwgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt16k7ln1g7k1y3/)
+(the same proportion at any scale), whose colour order is pattern [KGWKYKWGKY](/stripes/kgwkykwgky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1579
 

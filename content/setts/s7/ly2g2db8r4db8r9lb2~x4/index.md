@@ -2,9 +2,10 @@
 title: "Feis An Eilein (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WRBRBGY](/stripes/wrbrbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g2db8dr4db8r9lb2/)
+(the same proportion at any scale), whose colour order is pattern [WRBRBGY](/stripes/wrbrbgy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7137/
 

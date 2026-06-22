@@ -2,9 +2,10 @@
 title: "Praetorian, Green (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WKYGKYWYKYWGYW](/stripes/wkygkywykywgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1k1y1g8k1n1ln8n1k8n1ln1g8n1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKYGKYWYKYWGYW](/stripes/wkygkywykywgyw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7836/
 

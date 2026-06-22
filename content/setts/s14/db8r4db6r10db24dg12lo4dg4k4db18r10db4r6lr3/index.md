@@ -2,9 +2,10 @@
 title: "Hyndman Family Tartan Tartan Number: 2133. Earliest known date: 1992 The tartan was designed for Mr C.P.Hyndman, the first Hyndman to record arms in the Lyon Register since 1672. The colours reflect the armorial bearings and a long family connection with the Royal Inneskillin Fusiliers. The pattern is based on the teritorial origins of the name - Paisley and later Ulster. Mr Hyndman stated in his petition for accreditation that he wished the tartan to be available to \"all Hyndmans irrespective of family connections who were born in Northern Ireland.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBGYGKBRBRY](/stripes/brbrbgygkbrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8dr4db6dr10db24dg12lt4dg4k4dba18r10dba4r6n3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGYGKBRBRY](/stripes/brbrbgygkbrbry/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2133
 

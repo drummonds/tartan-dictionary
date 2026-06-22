@@ -2,18 +2,20 @@
 title: "Heart of Strathearn"
 date: 2023-03-18
 ---
-In pattern [GBRBWBYBY](/stripes/gbrbwbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga16b6dr6b4ln2b80o3b10ya2/)
+(the same proportion at any scale), whose colour order is pattern [GBRBWBYBY](/stripes/gbrbwbyby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Heart of Strathearn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644))
-- 2005 — Heart of Strathearn (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6844/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Heart of Strathearn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1644">record</a>)</li>
+<li>2005 — Heart of Strathearn (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6844/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

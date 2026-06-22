@@ -2,19 +2,21 @@
 title: "Independence"
 date: 2023-03-18
 ---
-In pattern [KYBYKYWYWYKY](/stripes/kybykywywyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dy2b16dy2k2dy2n2dy2n15dy1k2dy2/)
+(the same proportion at any scale), whose colour order is pattern [KYBYKYWYWYKY](/stripes/kybykywywyky/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1821
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/08/1996 — Independence (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1821))
-- 1996 — Independence Tartan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2285/))
-- undated — Independence Universal Tartan Tartan Number: 2285. Earliest known date: 1996 Designed by Donald Fraser 1996. Commissioned by New Scots for Independence and launched at a Scottish National Party (SNP) conference. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2285))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1996 — Independence (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1821">record</a>)</li>
+<li>1996 — Independence Tartan (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2285/">record</a>)</li>
+<li>undated — Independence Universal Tartan Tartan Number: 2285. Earliest known date: 1996 Designed by Donald Fraser 1996. Commissioned by New Scots for Independence and launched at a Scottish National Party (SNP) conference. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2285">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

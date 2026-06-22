@@ -2,9 +2,10 @@
 title: "Renton (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBBKKKBBKKKKKRKRKR](/stripes/kbbkkkbbkkkkkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt8dt2lt8k4dr3k4dt8k2dt8k4db21n8k2dt3k2n8db24k3/)
+(the same proportion at any scale), whose colour order is pattern [KBBKKKBBKKKKKRKRKR](/stripes/kbbkkkbbkkkkkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3502
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Renton Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Renton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3502))
-- undated — Renton Personal Tartan Tartan Number: 7192. Earliest known date: 2007 The design is based on the Berwick tartan as the Renton family come from this area. Daniel and Chelsea Renton wanted to an asymmetrical design in muted or antique colours that reflected the natural shades of autumn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7192))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Renton (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3502">record</a>)</li>
+<li>undated — Renton Personal Tartan Tartan Number: 7192. Earliest known date: 2007 The design is based on the Berwick tartan as the Renton family come from this area. Daniel and Chelsea Renton wanted to an asymmetrical design in muted or antique colours that reflected the natural shades of autumn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7192">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

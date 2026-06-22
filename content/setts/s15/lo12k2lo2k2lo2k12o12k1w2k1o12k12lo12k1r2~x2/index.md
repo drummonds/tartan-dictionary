@@ -2,9 +2,10 @@
 title: "MacKenzie Hunting (Brown)"
 date: 2023-03-18
 ---
-In pattern [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta12k2lta2k2lta2k12lt12k1ln2k1lt12k12lta12k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKYKRKWKRKYKYKY](/stripes/rkykrkwkrkykyky/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacKenzie Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — MacKenzie Hunting (Brown) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528))
-- 1819 — MacKenzie Brown Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5905/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — MacKenzie Hunting (Brown) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2528">record</a>)</li>
+<li>1819 — MacKenzie Brown Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5905/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

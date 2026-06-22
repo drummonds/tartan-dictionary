@@ -2,9 +2,10 @@
 title: "Sinclair of Ulbster (Portrait)"
 date: 2023-03-18
 ---
-In pattern [BKGY](/stripes/bkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k4g6y1/)
+(the same proportion at any scale), whose colour order is pattern [BKGY](/stripes/bkgy/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/339/
 

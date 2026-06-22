@@ -2,9 +2,10 @@
 title: "Liberty, Egal'ty, Fratern'ty and Progress Blue Lodge"
 date: 2023-03-18
 ---
-In pattern [WKWKWBWGWWWBWYWRWBWKWKW](/stripes/wkwkwbwgwwwbwywrwbwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4k4w4k2lb12p2lb12r9lb2y6lb2b11lb2w6lb2g9lb12p2lb12k2w4k4w4/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWBWGWWWBWYWRWBWKWKW](/stripes/wkwkwbwgwwwbwywrwbwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10242
 

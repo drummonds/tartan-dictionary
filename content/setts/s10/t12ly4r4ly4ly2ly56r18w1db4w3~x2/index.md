@@ -2,9 +2,10 @@
 title: "Confederate Memorial (Military)"
 date: 2023-03-18
 ---
-In pattern [BYRYYYRWBW](/stripes/byryyyrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12n4r4n4y2n56r18w1db4w3/)
+(the same proportion at any scale), whose colour order is pattern [BYRYYYRWBW](/stripes/byryyyrwbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4195/
 

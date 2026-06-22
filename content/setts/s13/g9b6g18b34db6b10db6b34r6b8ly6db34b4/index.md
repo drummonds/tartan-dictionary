@@ -2,9 +2,10 @@
 title: "Dempster (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBYBRBBBBBGBG](/stripes/bbybrbbbbbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9ba6b18ba34db6ba10db6ba34r6ba8y6db34ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBRBBBBBGBG](/stripes/bbybrbbbbbgbg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=913
 

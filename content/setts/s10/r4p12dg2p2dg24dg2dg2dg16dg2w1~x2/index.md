@@ -2,9 +2,10 @@
 title: "Kinfauns Castle"
 date: 2023-03-18
 ---
-In pattern [RBGBGGGGGW](/stripes/rbgbgggggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4p12dg2p2dg24dg2dg2dg16dg2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBGBGGGGGW](/stripes/rbgbgggggw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Scott, Green (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKWKYBGKGRGWGK](/stripes/gkwkybgkgrgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8g3w3g3r3g12k8g6db12y4k6w3k3g8/)
+(the same proportion at any scale), whose colour order is pattern [GKWKYBGKGRGWGK](/stripes/gkwkybgkgrgwgk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/825/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Scott Clan/Family
 - Scott, Green
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Scott, Green (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/825/))
-- undated — Scott (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Scott Clan/Family Tartan Tartan Number: 825. Earliest known date: pre 2003 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=825))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Scott, Green (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/825/">record</a>)</li>
+<li>undated — Scott (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Scott Clan/Family Tartan Tartan Number: 825. Earliest known date: pre 2003 Also known as Green Scott, this tartan is generally available today. The Chief of the Scotts is His Grace the 9th Duke of Buccleuch and 10th of Queensberry who lives in Selkirk in the borders region of Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=825">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16

@@ -2,18 +2,20 @@
 title: "Lambert (Front Royal) Hunting"
 date: 2023-03-18
 ---
-In pattern [KRGRRKBWBKRRGR](/stripes/krgrrkbwbkrrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt34k10lt5r2ka8b2ln3b2ka8r2lt5k10lt28ka3/)
+(the same proportion at any scale), whose colour order is pattern [KRGRRKBWBKRRGR](/stripes/krgrrkbwbkrrgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 29/07/2012 — Lambert (Front Royal) Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663))
-- undated — Lambert (Front Royal) Hunting Name Tartan Tartan Number: 10663. Earliest known date: 29/07/2012 Designed by Charles Lambert,using the Scotweb Tartan Designer, for his family, to celebrate their Scottish and Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Dress tartan(STR #10661) and the Lambert (Front Royal) Dark Night tartan (STR #10669) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10663))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/07/2012 — Lambert (Front Royal) Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10663">record</a>)</li>
+<li>undated — Lambert (Front Royal) Hunting Name Tartan Tartan Number: 10663. Earliest known date: 29/07/2012 Designed by Charles Lambert,using the Scotweb Tartan Designer, for his family, to celebrate their Scottish and Irish ancestry. Mr Lambert has also designed the Lambert (Front Royal) Dress tartan(STR #10661) and the Lambert (Front Royal) Dark Night tartan (STR #10669) using the same geometry. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10663">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

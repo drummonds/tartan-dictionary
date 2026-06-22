@@ -2,18 +2,20 @@
 title: "MacDonald of Aird & Valley (Clan?)"
 date: 2023-03-18
 ---
-In pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12db1dr1g8dr2db1dr1db3dr1db1dr12g1dr1g8/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRBRBRGRBR](/stripes/grgrbrbrbrgrbr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3274/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — MacDonald of Aird & Valley (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3274/))
-- undated — MacDonald of Aird & Valley (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5024))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacDonald of Aird & Valley (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3274/">record</a>)</li>
+<li>undated — MacDonald of Aird & Valley (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5024">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

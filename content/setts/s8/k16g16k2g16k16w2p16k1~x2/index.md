@@ -2,9 +2,10 @@
 title: "Unnamed 6"
 date: 2023-03-18
 ---
-In pattern [KBWKGKGK](/stripes/kbwkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16g16k2g16k16ln2p16k1/)
+(the same proportion at any scale), whose colour order is pattern [KBWKGKGK](/stripes/kbwkgkgk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Unidentified #36
 - Unnamed No 33
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unnamed 6 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Unnamed No 33 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unnamed 6 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Unnamed No 33 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/32 G32 K4 G32 K32 LN4 P32 K/2

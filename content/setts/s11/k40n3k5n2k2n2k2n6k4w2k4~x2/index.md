@@ -2,9 +2,10 @@
 title: "Stewart Mourning (Clan)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKWK](/stripes/kbkbkbkbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40n3k5n2k2n2k2n6k4w2k4/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKWK](/stripes/kbkbkbkbkwk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1126/
 

@@ -2,9 +2,10 @@
 title: "Leando (Coldingham) Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKRBWBWBKRBRW](/stripes/rkrbwbwbkrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt19dt2dr1k3w1k1w1k1dt6lt3k1lt3w1/)
+(the same proportion at any scale), whose colour order is pattern [RKRBWBWBKRBRW](/stripes/rkrbwbwbkrbrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10368
 

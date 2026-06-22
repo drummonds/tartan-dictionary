@@ -2,9 +2,10 @@
 title: "Moran Family Ubique"
 date: 2023-03-18
 ---
-In pattern [BYKRYGKGKG](/stripes/bykrygkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg68k2dg2k2dg2dy8r8k8dy2b7/)
+(the same proportion at any scale), whose colour order is pattern [BYKRYGKGKG](/stripes/bykrygkgkg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3006
 

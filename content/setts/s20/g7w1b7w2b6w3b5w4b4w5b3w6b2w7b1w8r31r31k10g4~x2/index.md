@@ -2,9 +2,10 @@
 title: "Gallacher, (Name)"
 date: 2023-03-18
 ---
-In pattern [GKRRWBWBWBWBWBWBWBWG](/stripes/gkrrwbwbwbwbwbwbwbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g7ln1b7ln2b6ln3b5ln4b4ln5b3ln6b2ln7b1ln8r31dr31k10g4/)
+(the same proportion at any scale), whose colour order is pattern [GKRRWBWBWBWBWBWBWBWG](/stripes/gkrrwbwbwbwbwbwbwbwg/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10053/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gallacher, A.J.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2009 — Gallacher, (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10053/))
-- undated — Gallacher, A.J. Name Tartan Tartan Number: 10053. Earliest known date: 2009 Despite the name of this tartan being A.J. Gallacher, it is not a personal tartan and can be worn by anyone of the name and its spelling variations. Like the other Gallacher/Gallagher at # 4053, it has no known historical significance. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10053))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2009 — Gallacher, (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10053/">record</a>)</li>
+<li>undated — Gallacher, A.J. Name Tartan Tartan Number: 10053. Earliest known date: 2009 Despite the name of this tartan being A.J. Gallacher, it is not a personal tartan and can be worn by anyone of the name and its spelling variations. Like the other Gallacher/Gallagher at # 4053, it has no known historical significance. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10053">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/14 LN2 B14 LN4 B12 LN6 B10 LN8 B8 LN10 B6 LN12 B4 LN14 B2 LN16 R62 DR62 K20 G/8

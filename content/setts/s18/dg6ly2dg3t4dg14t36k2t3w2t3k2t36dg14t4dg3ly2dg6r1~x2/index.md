@@ -2,9 +2,10 @@
 title: "Sarasota - Dunfermline District Tartan Tartan Number: 5897. Earliest known date: July 2003 This tartan for Robert Nicol of Dunfermline commemorates the twinning of the Scottish town of Dunfermline with Sarasota, Florida, USA.. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGBGBKBWBKBGBGYGR](/stripes/gygbgbkbwbkbgbgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6y2g3b4g14b36k2b3ln2b3k2b36g14b4g3y2g6r1/)
+(the same proportion at any scale), whose colour order is pattern [GYGBGBKBWBKBGBGYGR](/stripes/gygbgbkbwbkbgbgygr/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5897
 

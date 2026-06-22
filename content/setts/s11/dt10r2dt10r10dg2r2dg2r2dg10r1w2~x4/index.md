@@ -2,9 +2,10 @@
 title: "North Berwick (Dance)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRGRW](/stripes/brbrgrgrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r2db10r10dg2r2dg2r2dg10r1w2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGRW](/stripes/brbrgrgrgrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2342/
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - North Berwick Pipe Band
 - North Berwick Pipe Band Dancers
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1990 — North Berwick (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2342/))
-- 01/01/1997 — North Berwick Pipe Band Dancers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3152))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1990 — North Berwick (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2342/">record</a>)</li>
+<li>01/01/1997 — North Berwick Pipe Band Dancers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3152">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Orvis Sports Company"
 date: 2023-03-18
 ---
-In pattern [GRGKGKGKGGGKGKGKGR](/stripes/grgkgkgkgggkgkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg60k4dg4k1lt2k1dg4lt36dg4k1lt2k1dg4k4dg60dr4dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGKGKGGGKGKGKGR](/stripes/grgkgkgkgggkgkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3268
 

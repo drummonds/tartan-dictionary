@@ -2,9 +2,10 @@
 title: "Regimbal, Leonel–Jean (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKWKRYRBR](/stripes/kwkwkryrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16b1r1y1r4k18w1k1w1k1/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKRYRBR](/stripes/kwkwkryrbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11477
 

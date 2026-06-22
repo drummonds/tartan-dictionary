@@ -2,18 +2,20 @@
 title: "Campbell of Breadalbane (Military)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db26k4db4k4db4k27y5g47y5k27db25k4db4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/209/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1793 — Campbell of Breadalbane (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/209/))
-- undated — Campbell of Breadalbane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1793 — Campbell of Breadalbane (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/209/">record</a>)</li>
+<li>undated — Campbell of Breadalbane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/52 K8 DB8 K8 DB8 K54 Y10 G94 Y10 K54 DB50 K8 DB/8

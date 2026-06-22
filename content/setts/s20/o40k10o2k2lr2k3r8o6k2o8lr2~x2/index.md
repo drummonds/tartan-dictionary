@@ -2,9 +2,10 @@
 title: "Islay"
 date: 2023-03-18
 ---
-In pattern [KRKYKRRKRYRKRRKYKRKR](/stripes/krkykrrkryrkrrkykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt40k10n2k2na2k3dr8lt6k2lt8na2/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKRRKRYRKRRKYKRKR](/stripes/krkykrrkryrkrrkykrkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1864
 

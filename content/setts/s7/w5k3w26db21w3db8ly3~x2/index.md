@@ -2,9 +2,10 @@
 title: "MacPherson Dress Blue (Dance)"
 date: 2023-03-18
 ---
-In pattern [WKWBWBY](/stripes/wkwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k3ln26db21ln3db8y3/)
+(the same proportion at any scale), whose colour order is pattern [WKWBWBY](/stripes/wkwbwby/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2715
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacPherson Dress, Royal Blue
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1980 — MacPherson Dress Blue (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2715))
-- 1980 — MacPherson Dress, Royal Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1868/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1980 — MacPherson Dress Blue (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2715">record</a>)</li>
+<li>1980 — MacPherson Dress, Royal Blue (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1868/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

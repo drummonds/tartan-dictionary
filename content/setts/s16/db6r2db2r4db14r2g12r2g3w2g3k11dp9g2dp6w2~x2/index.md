@@ -2,9 +2,10 @@
 title: "Haughey (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r2db2r4db14r2g12r2g3w2g3k11p9g2p6w2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRGWGKBGBW](/stripes/brbrbrgrgwgkbgbw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7139/
 

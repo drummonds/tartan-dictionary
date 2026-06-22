@@ -2,9 +2,10 @@
 title: "Scottish Power Corporate Tartan Tartan Number: 2435. Earliest known date: pre 1996 Designed by Lochcarron for Scottish Power using the main corporate colours and taking care to produce a sett that could be seen as pipe band kilts at a distance. Scottish Power say (9.12.02) that Kinloch Anderson deal with this tartan and that permission to order/wear it is required from Scottish Power, Corporate Communications, 0141 566 4856. . See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRGKBGGGBKGRG](/stripes/bgrgkbgggbkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/gb8dr3gb8k10p5ga32gb5ga32p5k10gb8dr3gb8p3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGKBGGGBKGRG](/stripes/bgrgkbgggbkgrg/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2435
 

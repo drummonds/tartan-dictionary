@@ -2,9 +2,10 @@
 title: "MacKintosh #6"
 date: 2023-03-18
 ---
-In pattern [BRKRGRBRGRKRKRKRKRGRBRGRGRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrgrbrbrbrkrgrbrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b48r40k4r4g48r54b46r54dg14r4k4r4k4r48k4r4k4r4dg14r52b46r54dg60r4dg4r48b4r12b4r4b4r48k4r4dg60r48b4r4b4r4k7/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGRBRGRKRKRKRKRGRBRGRGRBRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrgrbrbrbrkrgrbrbrk/).
 
-This was sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
+Sourced from register-of-tartans.  It is a [41 stripe tartan](/stripes/stripes41/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2564
 

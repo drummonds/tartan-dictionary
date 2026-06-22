@@ -2,9 +2,10 @@
 title: "MacDougall"
 date: 2023-03-18
 ---
-In pattern [RGRBRRRBRGRGRRRBRGRGRR](/stripes/rgrbrrrbrgrgrrrbrgrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g12r2db1r36dr4r36db1r2g12r12g12dr6r2dr6db12r4g2r4g36r2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRRRBRGRGRRRBRGRGRR](/stripes/rgrbrrrbrgrgrrrbrgrgrr/).
 
-This was sourced from logan-1831.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from logan-1831.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link /posts/logans-scottish-gael/
 

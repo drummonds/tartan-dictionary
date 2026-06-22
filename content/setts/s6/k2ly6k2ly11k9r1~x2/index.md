@@ -2,9 +2,10 @@
 title: "Porter Drinkers', The"
 date: 2023-03-18
 ---
-In pattern [KYKYKR](/stripes/kykykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2y6k2y11k9r1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKR](/stripes/kykykr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10512
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Porter Drinkers', The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 07/10/2004 — Porter Drinkers', The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10512))
-- 21st Nov. 2011 — Porter Drinkers (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10512/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>07/10/2004 — Porter Drinkers', The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10512">record</a>)</li>
+<li>21st Nov. 2011 — Porter Drinkers (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10512/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,19 +2,21 @@
 title: "Fiddes (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18g5db6r25db6r5db5r6db18r12g16/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBRBRBRG](/stripes/bgbrbrbrbrg/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1972 — Fiddes (Artefact) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177))
-- pre 2002 — Fiddes - 1950 (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/123/))
-- undated — Fiddes (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1972 — Fiddes (Artefact) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1177">record</a>)</li>
+<li>pre 2002 — Fiddes - 1950 (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/123/">record</a>)</li>
+<li>undated — Fiddes (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

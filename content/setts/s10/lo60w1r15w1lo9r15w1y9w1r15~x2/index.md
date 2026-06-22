@@ -2,9 +2,10 @@
 title: "Smith Hunting (Name)"
 date: 2023-03-18
 ---
-In pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt60w1r15w1lt9r15w1g9w1r15/)
+(the same proportion at any scale), whose colour order is pattern [RWGWRYWRWY](/stripes/rwgwrywrwy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8590/
 

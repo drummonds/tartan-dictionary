@@ -2,18 +2,20 @@
 title: "Unnamed No 57"
 date: 2023-03-18
 ---
-In pattern [RBBYGRBRWR](/stripes/rbbygrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln1r6b2r6g12y1b8ba4r4/)
+(the same proportion at any scale), whose colour order is pattern [RBBYGRBRWR](/stripes/rbbygrbrwr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Unnamed No 57 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Unnamed No 57 Tartan Tartan Number: 1317. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1317))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Unnamed No 57 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Unnamed No 57 Tartan Tartan Number: 1317. Earliest known date: 1870 This sett is taken from the records of Messrs Bolingbroke and Jones of Norwich, who were weavers around 1870. Some of the tartans have been adopted or modified in recent times as the copyright of the designs is now in the public domain. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1317">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 LN2 R12 B4 R12 G24 Y2 B16 Ba8 R/8

@@ -2,9 +2,10 @@
 title: "Spare"
 date: 2023-03-18
 ---
-In pattern [RW](/stripes/rw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RW](/stripes/rw/).
 
-This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3853
 
@@ -16,12 +17,13 @@ This cloth is also recorded under:
 - Spare
 - Spare #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Spare (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3853))
-- undated — Spare #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3854))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Spare (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3853">record</a>)</li>
+<li>undated — Spare #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3854">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Venters (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBWBRY](/stripes/bbwbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db15dba55ln1p5r2y1/)
+(the same proportion at any scale), whose colour order is pattern [BBWBRY](/stripes/bbwbry/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10349/
 

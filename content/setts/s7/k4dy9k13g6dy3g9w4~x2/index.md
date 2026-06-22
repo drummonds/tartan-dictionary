@@ -2,9 +2,10 @@
 title: "Ramsay Hunting Family Tartan Tartan Number: 1198. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGKGGGW](/stripes/kgkgggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4t9k13g6t3g9ln4/)
+(the same proportion at any scale), whose colour order is pattern [KGKGGGW](/stripes/kgkgggw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1198
 

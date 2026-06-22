@@ -2,9 +2,10 @@
 title: "Heolbellva ha Materi (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln91k1ln6k2ln5k3ln4k4ln3k5ln2k6ln1k7/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10493/
 

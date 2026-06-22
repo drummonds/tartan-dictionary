@@ -2,18 +2,20 @@
 title: "Jack, John (Fife) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBKBGY](/stripes/gbkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dr52k20t9g2o1/)
+(the same proportion at any scale), whose colour order is pattern [GBKBGY](/stripes/gbkbgy/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2012 — Jack, John (Fife) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719))
-- undated — Jack, John (Fife) Name Tartan Tartan Number: 10719. Earliest known date: 22 October 2012 Designed for members of Mr Jack's extended family who bear the surname Jack, to use at family gatherings. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10719))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2012 — Jack, John (Fife) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10719">record</a>)</li>
+<li>undated — Jack, John (Fife) Name Tartan Tartan Number: 10719. Earliest known date: 22 October 2012 Designed for members of Mr Jack's extended family who bear the surname Jack, to use at family gatherings. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10719">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

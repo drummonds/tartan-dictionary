@@ -2,9 +2,10 @@
 title: "The KpgM"
 date: 2023-03-18
 ---
-In pattern [BRKBKBKBRR](/stripes/brkbkbkbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24lt4b6k6b60k40dr12k20lt3dr8/)
+(the same proportion at any scale), whose colour order is pattern [BRKBKBKBRR](/stripes/brkbkbkbrr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

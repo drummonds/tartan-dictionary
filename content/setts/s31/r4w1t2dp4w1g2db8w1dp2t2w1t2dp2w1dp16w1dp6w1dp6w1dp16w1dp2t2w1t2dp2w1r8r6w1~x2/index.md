@@ -2,9 +2,10 @@
 title: "Brides Plaid Artifact Tartan Tartan Number: 1680. Earliest known date: 1730 Previously listed as unidentified. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln1b2p4ln1g2db8ln1p2b2ln1b2p2ln1p16ln1p6ln1p6ln1p16ln1p2b2ln1b2p2ln1r8do6ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWBBWGBWBBWBBWBWBWBWBWBBWBBWRRW](/stripes/rwbbwgbwbbwbbwbwbwbwbwbbwbbwrrw/).
 
-This was sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1680
 

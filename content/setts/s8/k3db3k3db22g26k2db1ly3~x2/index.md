@@ -2,9 +2,10 @@
 title: "Johnstone / Johnston"
 date: 2023-03-18
 ---
-In pattern [KBKBGKBY](/stripes/kbkbgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b3k3b22g26k2b1y3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGKBY](/stripes/kbkbgkby/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Johnstone / Johnston
 - Johnstone/Johnston
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Johnstone / Johnston (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Johnstone Clan Tartan Tartan Number: 1062. Earliest known date: pre 2003 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1062))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Johnstone / Johnston (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Johnstone Clan Tartan Tartan Number: 1062. Earliest known date: pre 2003 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1062">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/6 B6 K6 B44 G52 K4 B2 Y/6

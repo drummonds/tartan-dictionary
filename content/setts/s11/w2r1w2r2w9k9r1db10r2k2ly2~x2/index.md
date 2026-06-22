@@ -2,9 +2,10 @@
 title: "Cameron of Erracht Dress"
 date: 2023-03-18
 ---
-In pattern [WRWRWKRBRKY](/stripes/wrwrwkrbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2r2db10r1k9w9r2w2r1w2/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWKRBRKY](/stripes/wrwrwkrbrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Cameron Erracht, dress
 - Cameron of Erracht Dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1950 — Cameron of Erracht Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496))
-- pre 1950 — Cameron of Erracht Dress (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1871/))
-- undated — Cameron Erracht, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cameron Erracht Dress Trade Tartan Tartan Number: 1871. Earliest known date: 1936 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1871))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — Cameron of Erracht Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=496">record</a>)</li>
+<li>pre 1950 — Cameron of Erracht Dress (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1871/">record</a>)</li>
+<li>undated — Cameron Erracht, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cameron Erracht Dress Trade Tartan Tartan Number: 1871. Earliest known date: 1936 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1871">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

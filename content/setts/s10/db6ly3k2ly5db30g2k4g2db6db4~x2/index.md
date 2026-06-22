@@ -2,9 +2,10 @@
 title: "St. Andrews University (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBGKGBYKYB](/stripes/bbgkgbykyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6y3k2y5db30g2k4g2db6dba4/)
+(the same proportion at any scale), whose colour order is pattern [BBGKGBYKYB](/stripes/bbgkgbykyb/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2398/
 

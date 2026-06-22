@@ -2,9 +2,10 @@
 title: "Unidentified (Jones #1)"
 date: 2023-03-18
 ---
-In pattern [KKKKKKKKKKKKGKKGKKKRK](/stripes/kkkkkkkkkkkkgkkgkkkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k80dg1k5dg2k4dg4k2dg5k1dg46k3dg4g1k1dg4g1k1dg4k6dr2k14/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKKKKKKKGKKGKKKRK](/stripes/kkkkkkkkkkkkgkkgkkkrk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4266
 

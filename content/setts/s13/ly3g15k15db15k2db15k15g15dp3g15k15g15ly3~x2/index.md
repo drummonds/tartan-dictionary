@@ -2,9 +2,10 @@
 title: "MacBride"
 date: 2023-03-18
 ---
-In pattern [YGKBKBKGBGKGY](/stripes/ygkbkbkgbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g15k15g15p3g15k15b15k2b15k15g15y3/)
+(the same proportion at any scale), whose colour order is pattern [YGKBKBKGBGKGY](/stripes/ygkbkbkgbgkgy/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

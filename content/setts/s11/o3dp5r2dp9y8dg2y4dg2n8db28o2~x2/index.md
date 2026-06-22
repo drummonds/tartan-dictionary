@@ -2,18 +2,20 @@
 title: "Glenisla (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBBGGGGBRBR](/stripes/rbbggggbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na3dp5r2dp9g8dg2g4dg2n8db28na2/)
+(the same proportion at any scale), whose colour order is pattern [RBBGGGGBRBR](/stripes/rbbggggbrbr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3111/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Glenisla (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3111/))
-- undated — Glenisla (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4965))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Glenisla (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3111/">record</a>)</li>
+<li>undated — Glenisla (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4965">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Glasgow High (School)"
 date: 2023-03-18
 ---
-In pattern [GYBWGYBR](/stripes/gybwgybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6y3n42ln4g18y2n12r3/)
+(the same proportion at any scale), whose colour order is pattern [GYBWGYBR](/stripes/gybwgybr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7480/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Glasgow High School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- July 2007 — Glasgow High (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7480/))
-- undated — Glasgow High School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>July 2007 — Glasgow High (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7480/">record</a>)</li>
+<li>undated — Glasgow High School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5522">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

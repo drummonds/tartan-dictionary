@@ -2,9 +2,10 @@
 title: "Queensferry High School: Ferry Fling"
 date: 2023-03-18
 ---
-In pattern [WWBBWWWWW](/stripes/wwbbwwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5wa3lb7n5lb27b8db43w3lb3/)
+(the same proportion at any scale), whose colour order is pattern [WWBBWWWWW](/stripes/wwbbwwwww/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10176
 

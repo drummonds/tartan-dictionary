@@ -2,9 +2,10 @@
 title: "Menzies VS"
 date: 2023-03-18
 ---
-In pattern [YRBRBRBYRYRY](/stripes/yrbrbrbyryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4dr1n2dr3n24dra5dr3dra1dr1dra1dr20n2/)
+(the same proportion at any scale), whose colour order is pattern [YRBRBRBYRYRY](/stripes/yrbrbrbyryry/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

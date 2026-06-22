@@ -2,9 +2,10 @@
 title: "Florida"
 date: 2023-03-18
 ---
-In pattern [RBWRWRWBBBBBBBBBBW](/stripes/rbwrwrwbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln8db1b20db2b1db2b4db2b1db2b4ln2r4ln1r2ln20db1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBWRWRWBBBBBBBBBBW](/stripes/rbwrwrwbbbbbbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5912
 

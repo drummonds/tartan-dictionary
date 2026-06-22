@@ -2,9 +2,10 @@
 title: "North West, Mounted Police"
 date: 2023-03-18
 ---
-In pattern [RRWGWYRRRYWBRRYW](/stripes/rrwgwyrrrywbrryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r39dr3ln2g14ln2y4r4dr2r4y4ln2b12dr6r6y7ln2/)
+(the same proportion at any scale), whose colour order is pattern [RRWGWYRRRYWBRRYW](/stripes/rrwgwyrrrywbrryw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - North West, Mounted Police
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — North West, Mounted Police (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — North West Mounted Police Corporate Tartan Tartan Number: 1652. Earliest known date: 1982 Variant of Chattan or MacPherson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1652))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — North West, Mounted Police (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — North West Mounted Police Corporate Tartan Tartan Number: 1652. Earliest known date: 1982 Variant of Chattan or MacPherson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1652">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/78 DR6 LN4 G28 LN4 Y8 R8 DR4 R8 Y8 LN4 B24 DR12 R12 Y14 LN/4

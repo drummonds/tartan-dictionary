@@ -2,9 +2,10 @@
 title: "Thomas McGurran"
 date: 2023-03-18
 ---
-In pattern [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4w8o3db1g1w1g32o2w1g1n8r1g2n2w2/)
+(the same proportion at any scale), whose colour order is pattern [BWYBGWGYWGBRGBW](/stripes/bwybgwgywgbrgbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11589
 

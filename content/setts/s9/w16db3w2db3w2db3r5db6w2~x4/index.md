@@ -2,9 +2,10 @@
 title: "Jeux Canada Games '87 (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBRBWBWBW](/stripes/wbrbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16db3ln2db3ln2db3r5db6ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBRBWBWBW](/stripes/wbrbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3101/
 

@@ -2,9 +2,10 @@
 title: "Sandhu (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBRBRBKYWGKBRBRBKGWY](/stripes/kbrbrbkywgkbrbrbkgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k64n64r4n12r4n64k64o7ln7g7k64n64r4n12r4n64k64g7ln7o7/)
+(the same proportion at any scale), whose colour order is pattern [KBRBRBKYWGKBRBRBKGWY](/stripes/kbrbrbkywgkbrbrbkgwy/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5536
 

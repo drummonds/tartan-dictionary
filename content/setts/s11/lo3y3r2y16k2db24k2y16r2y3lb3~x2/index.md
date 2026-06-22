@@ -2,9 +2,10 @@
 title: "Loch Tay (District)"
 date: 2023-03-18
 ---
-In pattern [WGRGKBKGRGY](/stripes/wgrgkbkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3g3dr2g16k2db24k2g16dr2g3n3/)
+(the same proportion at any scale), whose colour order is pattern [WGRGKBKGRGY](/stripes/wgrgkbkgrgy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10384/
 

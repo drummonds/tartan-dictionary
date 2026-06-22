@@ -2,9 +2,10 @@
 title: "Clerke of Ulva"
 date: 2023-03-18
 ---
-In pattern [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba3g3k4g14k4g3k14b18dr1b4dr2/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKGKBRBR](/stripes/bgkgkgkbrbr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Hubbard Foundation of Scotland (Corp"
 date: 2023-03-18
 ---
-In pattern [BYBBBBBBBBW](/stripes/bybbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dbb4y3db16dbb14dba3dbb14dba3db4dba3db8w2/)
+(the same proportion at any scale), whose colour order is pattern [BYBBBBBBBBW](/stripes/bybbbbbbbbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6204/
 

@@ -2,9 +2,10 @@
 title: "London Scottish Rugby Club Corporate Sport Tartan Tartan Number: 2360. Earliest known date: May 1998 For the use of staff and club members. Blue should be almost blue/black. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBWBRBWBGK](/stripes/gbwbrbwbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8db13ln1db40r5db40ln1db13g8k4/)
+(the same proportion at any scale), whose colour order is pattern [GBWBRBWBGK](/stripes/gbwbrbwbgk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2360
 

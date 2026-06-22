@@ -2,9 +2,10 @@
 title: "MacNaughton"
 date: 2023-03-18
 ---
-In pattern [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b2r32g32k24b18r32b2k2b2r32b18k24g32r32b2k1/)
+(the same proportion at any scale), whose colour order is pattern [KBRGKBRBKBRBKGRBK](/stripes/kbrgkbrbkbrbkgrbk/).
 
-This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

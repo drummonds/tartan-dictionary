@@ -2,9 +2,10 @@
 title: "Stuart of Bute"
 date: 2023-03-18
 ---
-In pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12lg6k1lg2k1lg1k6r24w2/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3951
 

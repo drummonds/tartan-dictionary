@@ -2,9 +2,10 @@
 title: "Unidentified (Teddy Bear)"
 date: 2023-03-18
 ---
-In pattern [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30y2g5y2g4k15b29r2b29k15g5y2g4y2g17/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGKBRBKGYGYG](/stripes/gygygkbrbkgygyg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4274
 

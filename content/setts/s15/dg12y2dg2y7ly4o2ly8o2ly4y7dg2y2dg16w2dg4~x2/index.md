@@ -2,9 +2,10 @@
 title: "Confessore Family Tartan Tartan Number: 2165. Earliest known date: 1994 Designed for Mr Confessore of Napoli, Italy in 1994 by Mr. Keith Lumsden, researcher at the Scottish Tartans Society. The colours reflect the shades and tones of the Italian countryside. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16ln2dg4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2165
 

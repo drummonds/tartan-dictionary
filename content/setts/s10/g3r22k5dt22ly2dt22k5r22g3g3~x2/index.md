@@ -2,9 +2,10 @@
 title: "MacLeod Society of Scotland Clan Tartan Tartan Number: 2375. Earliest known date: 1991 Designed by Rosemary Flemming and Derek MacLeod to celebrate the centenary of the Clan MacLeod Society of Scotland. Trudi Mann of Wick, a TECA scholar, also played a part in the design which was accepted by the Chief as the Society sett. Thread count from Trudi Mann March 2004. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGRKBYBKRG](/stripes/ggrkbybkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r22ka5db22y2db22ka5r22g3ga3/)
+(the same proportion at any scale), whose colour order is pattern [GGRKBYBKRG](/stripes/ggrkbybkrg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2375
 

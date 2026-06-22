@@ -2,9 +2,10 @@
 title: "Ogilvie 2"
 date: 2023-03-18
 ---
-In pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYG](/stripes/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14k4g14y4k2r8ln2r8ln2r8k2y2g8ln2g8y2k2r8ln2r8ln2r8k2y2g14k4g14k4g14y2k2r8ln2r8ln2r8k12ln1b4ln1k12y4g6y2g6y4p2r4k2r14ln1b2ln1r14ln1b2ln1r14k2r4p2y2g8ln2g8y2k2r8ln2r8ln2r8k2y4g8/)
+(the same proportion at any scale), whose colour order is pattern [GKGYKRWRWRKYGWGYKRWRWRKYGKGKGYKRWRWRKWBWKYGYGYBRKRWBWRWBWRKRBYGWGYKRWRWRKYG](/stripes/gkgykrwrwrkygwgykrwrwrkygkgkgykrwrwrkwbwkygygybrkrwbwrwbwrkrbygwgykrwrwrkyg/).
 
-This was sourced from weddslist.  It is a [75 stripe tartan](/stripes/stripes75/).
+Sourced from weddslist.  It is a [75 stripe tartan](/stripes/stripes75/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

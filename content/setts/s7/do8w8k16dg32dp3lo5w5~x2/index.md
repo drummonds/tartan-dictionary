@@ -2,9 +2,10 @@
 title: "Mellor, Phillip (Oldham)"
 date: 2023-03-18
 ---
-In pattern [BWKGBYW](/stripes/bwkgbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka8w8t16k32n3y5w5/)
+(the same proportion at any scale), whose colour order is pattern [BWKGBYW](/stripes/bwkgbyw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10320
 

@@ -2,9 +2,10 @@
 title: "Murdoch Celebration (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBKWK](/stripes/brbrbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30r2b2r4b9k26ln2k4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKWK](/stripes/brbrbkwk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5986
 

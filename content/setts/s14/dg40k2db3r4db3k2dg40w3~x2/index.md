@@ -2,9 +2,10 @@
 title: "Asher Personal Tartan Tartan Number: 3840. Earliest known date: 2002 Designed by Robert Asher of London to recognise his family's Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBRBKGWGKBRBK](/stripes/gkbrbkgwgkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg40dy2db3r4db3dy2dg40ln3/)
+(the same proportion at any scale), whose colour order is pattern [GKBRBKGWGKBRBK](/stripes/gkbrbkgwgkbrbk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3840
 

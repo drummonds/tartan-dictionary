@@ -2,9 +2,10 @@
 title: "Ar Lenn Vor"
 date: 2023-03-18
 ---
-In pattern [BYWKWKWYBWR](/stripes/bywkwkwybwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b15y30w30k20w20k15w10y4b94w4lr10/)
+(the same proportion at any scale), whose colour order is pattern [BYWKWKWYBWR](/stripes/bywkwkwybwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11207
 

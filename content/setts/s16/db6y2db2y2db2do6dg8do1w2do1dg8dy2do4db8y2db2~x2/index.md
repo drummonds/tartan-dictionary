@@ -2,9 +2,10 @@
 title: "Forbes of Druinnor (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BGBBGGBWBGBBGBGB](/stripes/bgbbggbwbgbbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6lt2db2lt2db2t6dg8t1w2t1dg8ta2t4db8lt2db2/)
+(the same proportion at any scale), whose colour order is pattern [BGBBGGBWBGBBGBGB](/stripes/bgbbggbwbgbbgbgb/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/592/
 

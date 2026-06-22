@@ -2,9 +2,10 @@
 title: "Canna, Saphire (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWRBRBRBW](/stripes/bwrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4w30r4b3r1b1r1b22w2/)
+(the same proportion at any scale), whose colour order is pattern [BWRBRBRBW](/stripes/bwrbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7597/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Canna, Saphire
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Canna, Saphire (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7597/))
-- undated — Canna Saphire (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5621))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Canna, Saphire (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7597/">record</a>)</li>
+<li>undated — Canna Saphire (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5621">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

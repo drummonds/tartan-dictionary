@@ -2,9 +2,10 @@
 title: "Euphoria"
 date: 2023-03-18
 ---
-In pattern [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1k1w8n1k1n8w1b8w1k1n8r1w1/)
+(the same proportion at any scale), whose colour order is pattern [WKWWKWWBWKWRW](/stripes/wkwwkwwbwkwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5860
 

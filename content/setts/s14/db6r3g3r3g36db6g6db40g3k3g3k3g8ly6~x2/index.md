@@ -2,9 +2,10 @@
 title: "Princess Beatrice Hunting (MacKinlay strip)"
 date: 2023-03-18
 ---
-In pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r3g3r3g36b6g6db40g3k3g3k3g8y6/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Princess Beatrice Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1930 — Princess Beatrice Hunting (MacKinlay strip) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400))
-- 1930s — Princess Beatrice Htg (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5467/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1930 — Princess Beatrice Hunting (MacKinlay strip) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3400">record</a>)</li>
+<li>1930s — Princess Beatrice Htg (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5467/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

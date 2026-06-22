@@ -2,18 +2,20 @@
 title: "Highland Cathedral (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RGBBBRBRBBRBBBY](/stripes/rgbbbrbrbbrbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4g1db22dba2p2dr1p2dr4dba1p10dr2dba20p1dba2y2/)
+(the same proportion at any scale), whose colour order is pattern [RGBBBRBRBBRBBBY](/stripes/rgbbbrbrbbrbbby/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6136/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2004 — Highland Cathedral (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6136/))
-- undated — Highland Cathedral Fashion Tartan Tartan Number: 6136. Earliest known date: pre 2004 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6136))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2004 — Highland Cathedral (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6136/">record</a>)</li>
+<li>undated — Highland Cathedral Fashion Tartan Tartan Number: 6136. Earliest known date: pre 2004 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6136">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/8 G2 DB44 DBa4 P4 DR2 P4 DR8 DBa2 P20 DR4 DBa40 P2 DBa4 Y/4

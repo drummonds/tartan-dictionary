@@ -2,9 +2,10 @@
 title: "St Georges Check"
 date: 2023-03-18
 ---
-In pattern [KWR](/stripes/kwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r35w94k6/)
+(the same proportion at any scale), whose colour order is pattern [KWR](/stripes/kwr/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - St. George's Check
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 07/10/2010 — St Georges Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303))
-- 7th Oct. 2010 — St. George's Check (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10303/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>07/10/2010 — St Georges Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10303">record</a>)</li>
+<li>7th Oct. 2010 — St. George's Check (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10303/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Red Rum Commemorative Tartan Tartan Number: 1217. Earliest known date: 1982 Red Remony See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYGWGRY](/stripes/kygwgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2y30g4ln2g14dr13ya2/)
+(the same proportion at any scale), whose colour order is pattern [KYGWGRY](/stripes/kygwgry/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1217
 

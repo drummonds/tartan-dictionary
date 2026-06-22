@@ -2,9 +2,10 @@
 title: "Berwick, Orange (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRBKBKRKBGKGRGKGBKRKBKBRG](/stripes/grbkbkrkbgkgrgkgbkrkbkbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t48r5dr2k14b2k3r3k3dr14t6k4t3r2t3k4t6dr14k3r3k3b2k14dr2r5t48/)
+(the same proportion at any scale), whose colour order is pattern [GRBKBKRKBGKGRGKGBKRKBKBRG](/stripes/grbkbkrkbgkgrgkgbkrkbkbrg/).
 
-This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3687/
 

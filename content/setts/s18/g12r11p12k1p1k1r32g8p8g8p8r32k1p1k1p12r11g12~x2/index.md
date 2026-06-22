@@ -2,9 +2,10 @@
 title: "Fiddes"
 date: 2023-03-18
 ---
-In pattern [GRBKBKRBGBGRKBKBRG](/stripes/grbkbkrbgbgrkbkbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r11p12k1p1k1r32g8p8g8p8r32k1p1k1p12r11g12/)
+(the same proportion at any scale), whose colour order is pattern [GRBKBKRBGBGRKBKBRG](/stripes/grbkbkrbgbgrkbkbrg/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

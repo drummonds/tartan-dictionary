@@ -2,9 +2,10 @@
 title: "International Cricket Council"
 date: 2023-03-18
 ---
-In pattern [BBBBBGBGBGRGR](/stripes/bbbbbgbgbgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b33db4b3db4b7g2b2g2b2g16r2g2r2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBGBGBGRGR](/stripes/bbbbbgbgbgrgr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11570
 

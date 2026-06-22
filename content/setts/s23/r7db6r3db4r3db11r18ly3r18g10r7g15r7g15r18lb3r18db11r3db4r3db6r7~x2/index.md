@@ -2,18 +2,20 @@
 title: "Fox, Red"
 date: 2023-03-18
 ---
-In pattern [RBRBRBRWRGRGRGRYRBRBRBR](/stripes/rbrbrbrwrgrgrgryrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7db6r3db4r3db11r18n3r18g15r7g15r7g10r18y3r18db11r3db4r3db6r7/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBRWRGRGRGRYRBRBRBR](/stripes/rbrbrbrwrgrgrgryrbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2004 — Fox, Red (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241))
-- July 2004 — Fox, Red (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6312/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2004 — Fox, Red (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1241">record</a>)</li>
+<li>July 2004 — Fox, Red (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6312/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

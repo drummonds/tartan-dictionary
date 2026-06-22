@@ -2,9 +2,10 @@
 title: "Patterson, William J.M. (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBWBRBWBGGR](/stripes/brbwbrbwbggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9n3b2ln2b9n6b3ln3b3g18ga8r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBRBWBGGR](/stripes/brbwbrbwbggr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10129/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Patterson, William J.M. American Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2009 — Patterson, William J.M. (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10129/))
-- undated — Patterson, William J.M. American Personal Tartan Tartan Number: 10129. Earliest known date: 2009 A personal tartan for the Patterson family. Named after the designer's grandfather, William John Magee Patterson, who took the Patterson family across the ocean to the Americas. Designed by Jane Patterson using colours which symbolise her Irish and Scottish descent. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10129))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2009 — Patterson, William J.M. (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10129/">record</a>)</li>
+<li>undated — Patterson, William J.M. American Personal Tartan Tartan Number: 10129. Earliest known date: 2009 A personal tartan for the Patterson family. Named after the designer's grandfather, William John Magee Patterson, who took the Patterson family across the ocean to the Americas. Designed by Jane Patterson using colours which symbolise her Irish and Scottish descent. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10129">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/18 N6 B4 LN4 B18 N12 B6 LN6 B6 G36 Ga16 R/4

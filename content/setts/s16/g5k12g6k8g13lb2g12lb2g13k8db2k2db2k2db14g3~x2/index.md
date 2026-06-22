@@ -2,9 +2,10 @@
 title: "Royal Na Connaught"
 date: 2023-03-18
 ---
-In pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5k12g6k8g13n2g12n2g13k8db2k2db2k2db14g3/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBKGWGWGKGKG](/stripes/gbkbkbkgwgwgkgkg/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3603
 

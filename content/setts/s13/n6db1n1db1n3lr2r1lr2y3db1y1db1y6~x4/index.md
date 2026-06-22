@@ -2,9 +2,10 @@
 title: "McCulloch, Grant (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBBBYRYGBGBG](/stripes/bbbbbyrygbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6db1g1db1g3n2r1n2b3db1b1db1b6/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBYRYGBGBG](/stripes/bbbbbyrygbgbg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2879
 

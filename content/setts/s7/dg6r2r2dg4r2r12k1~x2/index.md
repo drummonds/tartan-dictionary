@@ -2,9 +2,10 @@
 title: "MacNab #3"
 date: 2023-03-18
 ---
-In pattern [GRRGRRK](/stripes/grrgrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6r2dr2g4dr2r12k1/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRRK](/stripes/grrgrrk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacNab #3
 - MacNab 5
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacNab #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666))
-- undated — MacNab VS (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacNab #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666">record</a>)</li>
+<li>undated — MacNab VS (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

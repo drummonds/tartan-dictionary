@@ -2,9 +2,10 @@
 title: "Froben, Christian (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKYBGKR](/stripes/kwkybgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w2k8o8db24g13k3dr1/)
+(the same proportion at any scale), whose colour order is pattern [KWKYBGKR](/stripes/kwkybgkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11053
 

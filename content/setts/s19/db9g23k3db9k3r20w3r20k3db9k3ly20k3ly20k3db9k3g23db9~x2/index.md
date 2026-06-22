@@ -2,9 +2,10 @@
 title: "Buchanan (1850 - Clan)"
 date: 2023-03-18
 ---
-In pattern [BGKBKRWRKBKYKYKBKGB](/stripes/bgkbkrwrkbkykykbkgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9g23k3db9k3r20ln3r20k3db9k3y20k3y20k3db9k3g23db9/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKRWRKBKYKYKBKGB](/stripes/bgkbkrwrkbkykykbkgb/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/151/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Buchanan
 - Buchanan 3
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1850 — Buchanan (1850 - Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/151/))
-- undated — Buchanan 3 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=151))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1850 — Buchanan (1850 - Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/151/">record</a>)</li>
+<li>undated — Buchanan 3 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Buchanan (Miller & Lang) Clan Tartan Tartan Number: 151. Earliest known date: 1930 Millar and Lang's Scottish Tartans See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=151">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/18 G46 K6 DB18 K6 R40 LN6 R40 K6 DB18 K6 Y40 K6 Y40 K6 DB18 K6 G46 DB/18

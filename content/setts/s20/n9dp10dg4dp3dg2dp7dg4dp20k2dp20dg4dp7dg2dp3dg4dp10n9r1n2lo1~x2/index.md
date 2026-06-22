@@ -2,9 +2,10 @@
 title: "Michie (Name)"
 date: 2023-03-18
 ---
-In pattern [BBGBGBGBKBGBGBGBBRBY](/stripes/bbgbgbgbkbgbgbgbbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n9dp10dg4dp3dg2dp7dg4dp20k2dp20dg4dp7dg2dp3dg4dp10n9r1n2o1/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBGBKBGBGBGBBRBY](/stripes/bbgbgbgbkbgbgbgbbrby/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10042/
 

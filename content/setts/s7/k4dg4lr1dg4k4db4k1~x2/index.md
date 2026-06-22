@@ -2,18 +2,20 @@
 title: "Graham of Montrose"
 date: 2023-03-18
 ---
-In pattern [KBKGYGK](/stripes/kbkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4dg4n1dg4k4db4k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGYGK](/stripes/kbkgygk/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Graham of Montrose (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Graham of Montrose (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Graham of Montrose (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Graham of Montrose (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 DG8 N2 DG8 K8 DB8 K/2

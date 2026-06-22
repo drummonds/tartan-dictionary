@@ -2,9 +2,10 @@
 title: "Morgan (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [RRBRBRYRBRR](/stripes/rrbrbryrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra4r34dr20r4dr8r6y2r5dr2r3dra4/)
+(the same proportion at any scale), whose colour order is pattern [RRBRBRYRBRR](/stripes/rrbrbryrbrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5760/
 

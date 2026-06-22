@@ -2,18 +2,20 @@
 title: "Avalon - Carroll House"
 date: 2023-03-18
 ---
-In pattern [WKBKBKBKBYWYKW](/stripes/wkbkbkbkbywykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3k1b15k6b5k3b8k2b5y3w2y4k1w3/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBKBKBYWYKW](/stripes/wkbkbkbkbywykw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2004 — Avalon - Carroll House (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145))
-- 2004 Sept — Avalon - Carroll House (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6362/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2004 — Avalon - Carroll House (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=145">record</a>)</li>
+<li>2004 Sept — Avalon - Carroll House (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6362/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

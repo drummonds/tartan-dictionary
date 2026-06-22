@@ -2,9 +2,10 @@
 title: "Yorkshire, The Spirit of"
 date: 2023-03-18
 ---
-In pattern [BYBWBWBWBW](/stripes/bybwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b19y2b3ln7b3ln7b9ln3b2ln19/)
+(the same proportion at any scale), whose colour order is pattern [BYBWBWBWBW](/stripes/bybwbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5840
 

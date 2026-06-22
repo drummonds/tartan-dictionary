@@ -2,18 +2,20 @@
 title: "Ramsay (Angus & Mearns)"
 date: 2023-03-18
 ---
-In pattern [RBRKRWRWKR](/stripes/rbrkrwrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r64db4r1k4r12w4r1w4k4r1/)
+(the same proportion at any scale), whose colour order is pattern [RBRKRWRWKR](/stripes/rbrkrwrwkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3451
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1856 — Ramsay (Angus & Mearns) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3451))
-- undated — Ramsay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1856 — Ramsay (Angus & Mearns) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3451">record</a>)</li>
+<li>undated — Ramsay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

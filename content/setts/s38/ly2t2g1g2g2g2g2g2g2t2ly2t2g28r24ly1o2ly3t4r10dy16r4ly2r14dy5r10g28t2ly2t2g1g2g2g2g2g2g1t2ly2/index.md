@@ -2,9 +2,10 @@
 title: "New Brunswick variation Canadian Tartan Tartan Number: 1880. Earliest known date: pre 2003 Sent in by Tweedmill for information. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YBGGGGGGGBYBGRGRYRGRBYRYRGBYBGGGGGGGBY](/stripes/ybgggggggbybgrgryrgrbyryrgbybgggggggby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2b2g1ga2g2ga2g2ga2g2b2y2b2g28r24y1n2y3b4r10t16r4y2r14t5r10g28b2y2b2g1ga2g2ga2g2ga2g1b2y2/)
+(the same proportion at any scale), whose colour order is pattern [YBGGGGGGGBYBGRGRYRGRBYRYRGBYBGGGGGGGBY](/stripes/ybgggggggbybgrgryrgrbyryrgbybgggggggby/).
 
-This was sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1880
 

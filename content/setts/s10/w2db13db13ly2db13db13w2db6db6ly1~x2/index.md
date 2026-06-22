@@ -2,18 +2,20 @@
 title: "Westwood MacSky (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBBYBBWBBY](/stripes/wbbybbwbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2db13b13y2b13db13ln2db6b6y1/)
+(the same proportion at any scale), whose colour order is pattern [WBBYBBWBBY](/stripes/wbbybbwbby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7488/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Oct 1997 — Westwood MacSky (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7488/))
-- undated — Westwood MacSky (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5529))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Oct 1997 — Westwood MacSky (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7488/">record</a>)</li>
+<li>undated — Westwood MacSky (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5529">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

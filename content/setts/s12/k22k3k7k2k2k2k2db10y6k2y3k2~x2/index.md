@@ -2,9 +2,10 @@
 title: "Daks (Chino Check)"
 date: 2023-03-18
 ---
-In pattern [KGKGBKKKKKKK](/stripes/kgkgbkkkkkkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/yy22yy3k7yy2k2yy2k2db10g6k2g3yy2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGBKKKKKKK](/stripes/kgkgbkkkkkkk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=868
 

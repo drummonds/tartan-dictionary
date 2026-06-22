@@ -2,9 +2,10 @@
 title: "Rathmore"
 date: 2023-03-18
 ---
-In pattern [RBRGRGRGWRWR](/stripes/rbrgrgrgwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra26b2ra6n2ra2n2lt2n9ln5r2ln4lt2/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRGRGWRWR](/stripes/rbrgrgrgwrwr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

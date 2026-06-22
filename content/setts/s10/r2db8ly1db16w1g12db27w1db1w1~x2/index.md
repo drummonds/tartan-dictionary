@@ -2,9 +2,10 @@
 title: "World Youth Congress (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBYBWGBWBW](/stripes/rbybwgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db8y1db16ln1g12db27ln1db1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBYBWGBWBW](/stripes/rbybwgbwbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6489/
 

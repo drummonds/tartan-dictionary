@@ -2,9 +2,10 @@
 title: "Unidentified"
 date: 2023-03-18
 ---
-In pattern [GRWKGKW](/stripes/grwkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln8k2n12k11ln1dr6n4/)
+(the same proportion at any scale), whose colour order is pattern [GRWKGKW](/stripes/grwkgkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5946
 

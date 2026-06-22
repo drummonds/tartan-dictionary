@@ -2,9 +2,10 @@
 title: "Pearl O' the Tay (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBWBKBKBRK](/stripes/bgbwbkbkbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6g3db3w2db5k2db3k2p16r3k2/)
+(the same proportion at any scale), whose colour order is pattern [BGBWBKBKBRK](/stripes/bgbwbkbkbrk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3088/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pearl O' the Tay
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Pearl O' the Tay (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3088/))
-- undated — Pearl O' The Tay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5112))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Pearl O' the Tay (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3088/">record</a>)</li>
+<li>undated — Pearl O' The Tay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5112">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

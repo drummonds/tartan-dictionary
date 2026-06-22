@@ -2,9 +2,10 @@
 title: "Saul (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dbb10k2dbb2k4b5k6b6k4b6k6b5k4dbb2k2dbb10k4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3659
 

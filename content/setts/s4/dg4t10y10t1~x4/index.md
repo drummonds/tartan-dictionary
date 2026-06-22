@@ -2,18 +2,20 @@
 title: "Baker City (District)"
 date: 2023-03-18
 ---
-In pattern [BGBG](/stripes/bgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga4b10g10b1/)
+(the same proportion at any scale), whose colour order is pattern [BGBG](/stripes/bgbg/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7432/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- August 2008 — Baker City (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7432/))
-- undated — Baker City (Estimated threadcount) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5501))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>August 2008 — Baker City (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7432/">record</a>)</li>
+<li>undated — Baker City (Estimated threadcount) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5501">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

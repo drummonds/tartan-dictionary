@@ -2,9 +2,10 @@
 title: "Clauwaert (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4lt2db4n6ln2k2n6ln2k2n13lt3k4lt3k8db6ln2r4/)
+(the same proportion at any scale), whose colour order is pattern [BYBWWKWWKWYKYKBWR](/stripes/bybwwkwwkwykykbwr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4030/
 

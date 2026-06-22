@@ -2,18 +2,20 @@
 title: "McCandlish Htg, Green (Name)"
 date: 2023-03-18
 ---
-In pattern [WKGKGKGKGKY](/stripes/wkgkgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp3k1g12k1g1k2g1k6ga12k1dy1/)
+(the same proportion at any scale), whose colour order is pattern [WKGKGKGKGKY](/stripes/wkgkgkgkgky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3328/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1992 — McCandlish Htg, Green (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3328/))
-- undated — MacCandlish Hunting Green (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5247))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1992 — McCandlish Htg, Green (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3328/">record</a>)</li>
+<li>undated — MacCandlish Hunting Green (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5247">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

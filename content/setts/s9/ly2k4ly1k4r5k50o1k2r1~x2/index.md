@@ -2,9 +2,10 @@
 title: "Magdalene (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKYKY](/stripes/rkrkrkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k4y1k4r5k50n1k2r1/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKYKY](/stripes/rkrkrkyky/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10044/
 

@@ -2,9 +2,10 @@
 title: "Glenburnie School"
 date: 2023-03-18
 ---
-In pattern [BRWYRBRYRW](/stripes/brwyrbryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n22r2w1o3r1n6r22o3r1wa10/)
+(the same proportion at any scale), whose colour order is pattern [BRWYRBRYRW](/stripes/brwyrbryrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Glenburnie School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Glenburnie School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406))
-- 2002 — Glenburnie (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5781/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Glenburnie School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1406">record</a>)</li>
+<li>2002 — Glenburnie (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5781/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

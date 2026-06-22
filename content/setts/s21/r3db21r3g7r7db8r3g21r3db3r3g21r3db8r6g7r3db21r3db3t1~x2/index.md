@@ -2,9 +2,10 @@
 title: "MacIntyre, or Perthshire"
 date: 2023-03-18
 ---
-In pattern [BBRBRGRBRGRBRGRBRGRBR](/stripes/bbrbrgrbrgrbrgrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b21r3g7r7b8r3g21r3b3r3g21r3b8r6g7r3b21r3b3ba1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBRGRBRGRBRGRBRGRBR](/stripes/bbrbrgrbrgrbrgrbrgrbr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

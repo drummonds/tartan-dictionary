@@ -2,9 +2,10 @@
 title: "Hueg (Munich) Formal (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4w4r5b4r12g4r12k8b13n3b4/)
+(the same proportion at any scale), whose colour order is pattern [BBBGRGRBRWR](/stripes/bbbgrgrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10525
 

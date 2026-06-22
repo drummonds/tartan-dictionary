@@ -2,9 +2,10 @@
 title: "Greater St Louis Area Firefighters Highland Guard"
 date: 2023-03-18
 ---
-In pattern [BRKBYBRBY](/stripes/brkbybrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3r3k38n25y3n6r7n3y2/)
+(the same proportion at any scale), whose colour order is pattern [BRKBYBRBY](/stripes/brkbybrby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10336
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Greater St Louis Firefighters
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 08/12/2010 — Greater St Louis Area Firefighters Highland Guard (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10336))
-- undated — Greater St Louis Firefighters Corporate Tartan Tartan Number: 10336. Earliest known date: 2011 This tartan will be worn by members of the Greater St Louis Firefighters Highland Guard in memory of Firefighter-Paramedic Ryan Hummert of the Maplewood Missouri Fire Department. Firefighter-Paramedic Ryan Hummert was killed in the line of duty on the 21st July 2008 when a lone gunman ambushed emergency responders by setting a vehicle on fire and opening fire on firefighters and police officers when they arrived at the scene. Many of the band members were also involved in this call and the subsequent funeral and memorial services honouring Ryan. The Guard is honoured to design and wear this tartan in Ryan's memory. The tartan uses traditional fire department colours; red, black and gold. Charcoal grey is symbolic of smoke. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10336))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/12/2010 — Greater St Louis Area Firefighters Highland Guard (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10336">record</a>)</li>
+<li>undated — Greater St Louis Firefighters Corporate Tartan Tartan Number: 10336. Earliest known date: 2011 This tartan will be worn by members of the Greater St Louis Firefighters Highland Guard in memory of Firefighter-Paramedic Ryan Hummert of the Maplewood Missouri Fire Department. Firefighter-Paramedic Ryan Hummert was killed in the line of duty on the 21st July 2008 when a lone gunman ambushed emergency responders by setting a vehicle on fire and opening fire on firefighters and police officers when they arrived at the scene. Many of the band members were also involved in this call and the subsequent funeral and memorial services honouring Ryan. The Guard is honoured to design and wear this tartan in Ryan's memory. The tartan uses traditional fire department colours; red, black and gold. Charcoal grey is symbolic of smoke. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10336">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

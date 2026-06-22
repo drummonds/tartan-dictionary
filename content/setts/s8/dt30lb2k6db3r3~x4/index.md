@@ -2,9 +2,10 @@
 title: "Edinburgh Crystal Corporate Tartan Tartan Number: 2307. Earliest known date: pre 1997 Designed by Sandra Campbell an employee of Edinburgh Crystal. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWKBRBKW](/stripes/bwkbrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn30n2k6db3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWKBRBKW](/stripes/bwkbrbkw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2307
 

@@ -2,9 +2,10 @@
 title: "Ontario, Ensign of"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t4dg18dr3dg3dr3dg18k2dra4k2dr16dg3dr3dg3dr16dg3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKRKGBGBGG](/stripes/gbgbgbkrkgbgbgg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5226
 

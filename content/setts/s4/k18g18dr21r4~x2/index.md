@@ -2,9 +2,10 @@
 title: "Tennant"
 date: 2023-03-18
 ---
-In pattern [KGBR](/stripes/kgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18g18dr21r4/)
+(the same proportion at any scale), whose colour order is pattern [KGBR](/stripes/kgbr/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

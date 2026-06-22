@@ -2,18 +2,20 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBKYKGKR](/stripes/gkgkgkbkwkbkykgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g36k1g1k1g1k1b12k1ln1k1b12k1y1k1g12k2r2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBKYKGKR](/stripes/gkgkgkbkwkbkykgkr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cockburn (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cockburn Clan Tartan Tartan Number: 798. Earliest known date: 1906 A curious mistake, which perhaps throws light on the use of names for tartans, was made in the certification of the Cockburn sett in the 'Cockburn Collection' (1810-15). Sir William Cockburn of Cockburn, himself, signed and sealed a specimen of his own tartan which was later discovered to be the 'MacKenzie', the tartan worn by the 71st Highland Light Infantry in which he served. The label has since been removed and it is fairly certain that a distinct 'Cockburn' sett was in production at the time, recorded later in Wilson's of Bannockburn pattern books. (1819). The sett in use today varies considerably from the old pattern in terms of proportion but retains the distinctive red yellow and white stripes. It was first recorded by W. and A.K. Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=798))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cockburn (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cockburn Clan Tartan Tartan Number: 798. Earliest known date: 1906 A curious mistake, which perhaps throws light on the use of names for tartans, was made in the certification of the Cockburn sett in the 'Cockburn Collection' (1810-15). Sir William Cockburn of Cockburn, himself, signed and sealed a specimen of his own tartan which was later discovered to be the 'MacKenzie', the tartan worn by the 71st Highland Light Infantry in which he served. The label has since been removed and it is fairly certain that a distinct 'Cockburn' sett was in production at the time, recorded later in Wilson's of Bannockburn pattern books. (1819). The sett in use today varies considerably from the old pattern in terms of proportion but retains the distinctive red yellow and white stripes. It was first recorded by W. and A.K. Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=798">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/72 K2 G2 K2 G2 K2 B24 K2 LN2 K2 B24 K2 Y2 K2 G24 K4 R/4

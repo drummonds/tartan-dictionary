@@ -2,18 +2,20 @@
 title: "Harmon Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYYYYYBGBYRKRGRGRGY](/stripes/kyyyyybgbyrkrgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2n6y2n2y2n19db2g2db2n2dr4k2dr11g2dr2g2dr11g2y2/)
+(the same proportion at any scale), whose colour order is pattern [KYYYYYBGBYRKRGRGRGY](/stripes/kyyyyybgbyrkrgrgrgy/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10020/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Harmon Dress (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10020/))
-- undated — Harmon Dress Name Tartan Tartan Number: 10020. Earliest known date: Mar. 2009 The Harmon Dress tartan permits those of the name to honour their family heritage when competing in Highland dance, or in any other situation in which a dress tartan is appropriate. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10020))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Harmon Dress (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10020/">record</a>)</li>
+<li>undated — Harmon Dress Name Tartan Tartan Number: 10020. Earliest known date: Mar. 2009 The Harmon Dress tartan permits those of the name to honour their family heritage when competing in Highland dance, or in any other situation in which a dress tartan is appropriate. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10020">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 N12 Y4 N4 Y4 N38 DB4 G4 DB4 N4 DR8 K4 DR22 G4 DR4 G4 DR22 G4 Y/4

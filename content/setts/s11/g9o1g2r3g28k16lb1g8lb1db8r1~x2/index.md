@@ -2,9 +2,10 @@
 title: "New York Caledonian Club Day"
 date: 2023-03-18
 ---
-In pattern [GRGRGKWGWBR](/stripes/grgrgkwgwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9do1g2r3g28k16lb1g8lb1db8r1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKWGWBR](/stripes/grgrgkwgwbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11280
 

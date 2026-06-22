@@ -2,9 +2,10 @@
 title: "Quraysh"
 date: 2023-03-18
 ---
-In pattern [BKGKRKBKGBGBGBGBGK](/stripes/bkgkrkbkgbgbgbgbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k50na2k2lt2k24db8k2na2n1na2n8na2n8na2n1na2k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRKBKGBGBGBGBGK](/stripes/bkgkrkbkgbgbgbgbgk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11531
 

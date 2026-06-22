@@ -2,9 +2,10 @@
 title: "Innes of Cowie (Clan?)"
 date: 2023-03-18
 ---
-In pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k6dr1k1dr1k1dr6w1dr2g3dr2k1g5k1dr2w1dr2k1g5k1dr2g3dr2w1dr6k1dr1k1dr1k6g1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/).
 
-This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/353/
 

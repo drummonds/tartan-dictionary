@@ -2,9 +2,10 @@
 title: "Mowbray, (Moubray)"
 date: 2023-03-18
 ---
-In pattern [BRGRG](/stripes/brgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16r2n10r15b5/)
+(the same proportion at any scale), whose colour order is pattern [BRGRG](/stripes/brgrg/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "MacMaster (USA) #2"
 date: 2023-03-18
 ---
-In pattern [GKRWRKGKYKGKRKGKRKGWBWYW](/stripes/gkrwrkgkykgkrkgkrkgwbwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g34k1r4ln1r4k1g4k1y2k1g7k1r3k1g3k1r3k1g3ln1db5ln1y4ln2/)
+(the same proportion at any scale), whose colour order is pattern [GKRWRKGKYKGKRKGKRKGWBWYW](/stripes/gkrwrkgkykgkrkgkrkgwbwyw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2653
 

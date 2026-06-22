@@ -2,9 +2,10 @@
 title: "DeLoughery (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKYBGW](/stripes/bkybgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b20k6lt4b3g20w2/)
+(the same proportion at any scale), whose colour order is pattern [BKYBGW](/stripes/bkybgw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10658/
 

@@ -2,9 +2,10 @@
 title: "Thomson Camel (Jedburgh Mill)"
 date: 2023-03-18
 ---
-In pattern [KGKWKR](/stripes/kgkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k2n10k10lt28k3/)
+(the same proportion at any scale), whose colour order is pattern [KGKWKR](/stripes/kgkwkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4122
 

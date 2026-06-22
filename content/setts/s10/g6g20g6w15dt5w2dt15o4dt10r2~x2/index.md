@@ -2,9 +2,10 @@
 title: "Copar a'Beannichte Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGGWBWBRBR](/stripes/gggwbwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6g20b6ln15db5ln2db15n4db10r2/)
+(the same proportion at any scale), whose colour order is pattern [GGGWBWBRBR](/stripes/gggwbwbrbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=758
 

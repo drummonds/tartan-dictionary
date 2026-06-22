@@ -2,9 +2,10 @@
 title: "MacEwen (Clans Originaux)"
 date: 2023-03-18
 ---
-In pattern [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g6k6db1k1db1k1db7k1db1k1db1k6g6k1r1k1g6k6db6k1db1k1db6k6g6k1y1/)
+(the same proportion at any scale), whose colour order is pattern [KGKBKBKBKBKBKGKRKGKBKBKBKGKY](/stripes/kgkbkbkbkbkbkgkrkgkbkbkbkgky/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2427
 

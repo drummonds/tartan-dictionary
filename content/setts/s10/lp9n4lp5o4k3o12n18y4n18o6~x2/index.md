@@ -2,9 +2,10 @@
 title: "Jaggy Thistle (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBGBRKRWBW](/stripes/rbgbrkrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp9n4lp5na4k3na12n18g4n18na6/)
+(the same proportion at any scale), whose colour order is pattern [RBGBRKRWBW](/stripes/rbgbrkrwbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8696/
 

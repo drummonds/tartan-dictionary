@@ -2,9 +2,10 @@
 title: "University of Delaware (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBYBYBYB](/stripes/bwbybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db43y5db1y4db1y2db7ln1db2/)
+(the same proportion at any scale), whose colour order is pattern [BWBYBYBYB](/stripes/bwbybybyb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10518/
 

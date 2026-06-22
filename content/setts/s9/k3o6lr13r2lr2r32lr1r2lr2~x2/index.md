@@ -2,9 +2,10 @@
 title: "Fueglistal (Aargau) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRYRYRYRY](/stripes/kryryryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy6n13r2n2r32n1r2n2/)
+(the same proportion at any scale), whose colour order is pattern [KRYRYRYRY](/stripes/kryryryry/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10835
 

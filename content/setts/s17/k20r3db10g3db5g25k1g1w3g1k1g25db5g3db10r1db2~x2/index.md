@@ -2,9 +2,10 @@
 title: "Blairlogie, or Blair Athol"
 date: 2023-03-18
 ---
-In pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20r3b10g3b5g25k1g1ln3g1k1g25b5g3b10r1b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGKGWGKGBGBRK](/stripes/brbgbgkgwgkgbgbrk/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Blairlogie, or Blair Athol
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Blairlogie, or Blair Athol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Blairlogie or Blair Athol District Tartan Tartan Number: 443. Earliest known date: 1882 Discovered by a STS member in 1967 in the records of D C Dalgleish (Weavers) of Selkirk. Three counts are given in varying widths. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=443))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Blairlogie, or Blair Athol (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Blairlogie or Blair Athol District Tartan Tartan Number: 443. Earliest known date: 1882 Discovered by a STS member in 1967 in the records of D C Dalgleish (Weavers) of Selkirk. Three counts are given in varying widths. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=443">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/40 R6 B20 G6 B10 G50 K2 G2 LN6 G2 K2 G50 B10 G6 B20 R2 B/4

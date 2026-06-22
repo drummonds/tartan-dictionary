@@ -2,9 +2,10 @@
 title: "MacKellar, dress"
 date: 2023-03-18
 ---
-In pattern [GWGBRWRYRWR](/stripes/gwgbrwryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt35ln4lt3y7lt3ln4lt7dr15n4ln36n5/)
+(the same proportion at any scale), whose colour order is pattern [GWGBRWRYRWR](/stripes/gwgbrwryrwr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

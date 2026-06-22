@@ -2,9 +2,10 @@
 title: "Dalriada"
 date: 2023-03-18
 ---
-In pattern [GRRGRRGRBRGRGRGRWR](/stripes/grrgrrgrbrgrgrgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r55w1lr1g2r2g49lr2g2r2db15r2g2lr2r53g2r2lr2g10/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRRGRBRGRGRGRWR](/stripes/grrgrrgrbrgrgrgrwr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11019
 

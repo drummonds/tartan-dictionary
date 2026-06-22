@@ -2,18 +2,20 @@
 title: "Mars (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRKYKBKYRW](/stripes/rgrkykbkyrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16g16dr8k8y3k3db3k3y3dr14w3/)
+(the same proportion at any scale), whose colour order is pattern [RGRKYKBKYRW](/stripes/rgrkykbkyrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3817/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Mars (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3817/))
-- undated — Mars (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5416))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Mars (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3817/">record</a>)</li>
+<li>undated — Mars (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5416">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

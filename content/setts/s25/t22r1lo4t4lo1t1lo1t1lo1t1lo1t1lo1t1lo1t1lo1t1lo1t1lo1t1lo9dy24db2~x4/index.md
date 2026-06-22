@@ -2,9 +2,10 @@
 title: "Allen Hunting (?Thomson)"
 date: 2023-03-18
 ---
-In pattern [BGYBYBYBYBYBYBYBYBYBYBYRB](/stripes/bgybybybybybybybybybybyrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22r1o4b4o1b1o1b1o1b1o1b1o1b1o1b1o1b1o1b1o1b1o9t24db2/)
+(the same proportion at any scale), whose colour order is pattern [BGYBYBYBYBYBYBYBYBYBYBYRB](/stripes/bgybybybybybybybybybybyrb/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=57
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Allen Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Allen Hunting (?Thomson) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=57))
-- pre 1998 — Allen Htg - 1998 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/572/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Allen Hunting (?Thomson) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=57">record</a>)</li>
+<li>pre 1998 — Allen Htg - 1998 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/572/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

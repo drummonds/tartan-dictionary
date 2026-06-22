@@ -2,9 +2,10 @@
 title: "Summers Family Tartan Tartan Number: 2179. Earliest known date: 19th C A fragment of this tartan was found in an old bible belonging to the Summers family which may have arrived in the US when the family emigrated in the early 18th C. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGBGBGBGBGBGBGRGYGBGBGBGBGBGBGY](/stripes/grgbgbgbgbgbgbgrgygbgbgbgbgbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10r5dg42db16g5db5g5db5g36db5g5db5g5db16dg42r5dg10y5dg42db16g5db5g5db5g36db5g5db5g5db16dg42y5/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGBGBGBGBGBGRGYGBGBGBGBGBGBGY](/stripes/grgbgbgbgbgbgbgrgygbgbgbgbgbgbgy/).
 
-This was sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2179
 

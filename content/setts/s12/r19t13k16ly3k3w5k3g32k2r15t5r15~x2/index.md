@@ -2,9 +2,10 @@
 title: "Wilson's, No 90"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKGKRBR](/stripes/rbkykwkgkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r19b13k16y3k3ln5k3g32k2r15b5r15/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKGKRBR](/stripes/rbkykwkgkrbr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

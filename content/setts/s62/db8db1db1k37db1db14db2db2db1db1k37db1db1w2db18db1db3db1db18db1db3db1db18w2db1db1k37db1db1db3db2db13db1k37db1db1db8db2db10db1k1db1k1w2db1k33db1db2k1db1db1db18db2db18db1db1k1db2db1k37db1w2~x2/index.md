@@ -2,9 +2,10 @@
 title: "Millennium by Texcraft"
 date: 2023-03-18
 ---
-In pattern [BBBKBBBBBBKBBWBBBBBBBBBWBBKBBBBBBKBBBBBBKBKWBKBBKBBBBBBBKBBKBW](/stripes/bbbkbbbbbbkbbwbbbbbbbbbwbbkbbbbbbkbbbbbbkbkwbkbbkbbbbbbbkbbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba8db1ba1dba37db1ba14b2ba2db1ba1dba37ba1db1ln2ba18db1b3db1ba18db1b3db1ba18ln2db1ba1dba37ba1db1ba3b2ba13db1dba37ba1db1ba8b2ba10db1dba1ba1dba1ln2db1dba33ba1b2dba1ba1db1ba18b2ba18db1ba1dba1b2ba1dba37db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBBKBBBBBBKBBWBBBBBBBBBWBBKBBBBBBKBBBBBBKBKWBKBBKBBBBBBBKBBKBW](/stripes/bbbkbbbbbbkbbwbbbbbbbbbwbbkbbbbbbkbbbbbbkbkwbkbbkbbbbbbbkbbkbw/).
 
-This was sourced from weddslist.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from weddslist.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

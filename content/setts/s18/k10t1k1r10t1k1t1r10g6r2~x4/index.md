@@ -2,9 +2,10 @@
 title: "Unidentified (Scolpaig)"
 date: 2023-03-18
 ---
-In pattern [BKRBKBRGRGRBKBRKBK](/stripes/bkrbkbrgrgrbkbrkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10b1k1r10b1k1b1r10g6r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKBRGRGRBKBRKBK](/stripes/bkrbkbrgrgrbkbrkbk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4271
 

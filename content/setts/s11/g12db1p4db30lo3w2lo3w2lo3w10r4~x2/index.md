@@ -2,9 +2,10 @@
 title: "Rosslyn Chapel"
 date: 2023-03-18
 ---
-In pattern [GBBBYWYWYWR](/stripes/gbbbywywywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12b1p4b30o3ln2o3ln2o3ln10r4/)
+(the same proportion at any scale), whose colour order is pattern [GBBBYWYWYWR](/stripes/gbbbywywywr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

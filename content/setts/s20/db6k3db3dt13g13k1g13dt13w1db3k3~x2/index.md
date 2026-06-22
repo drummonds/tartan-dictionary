@@ -2,9 +2,10 @@
 title: "Wacker"
 date: 2023-03-18
 ---
-In pattern [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6k3dba3db13g13k1g13db13ln1dba3k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBBGKGBWBKBWBGKGBBK](/stripes/bkbbgkgbwbkbwbgkgbbk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4472
 

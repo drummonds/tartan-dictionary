@@ -2,9 +2,10 @@
 title: "Mowat, Sir Oliver"
 date: 2023-03-18
 ---
-In pattern [GBWBYBGRGBGBGBWBYBR](/stripes/gbwbybgrgbgbgbwbybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k2n3k2dy3k2g6dr16g4k3g3k3g16k2n3k2dy3k2dr4/)
+(the same proportion at any scale), whose colour order is pattern [GBWBYBGRGBGBGBWBYBR](/stripes/gbwbybgrgbgbgbwbybr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Mowat, Sir Oliver Commemorative
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2002 — Mowat, Sir Oliver (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036))
-- pre 2002 — Mowat, Sir Oliver (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5651/))
-- undated — Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5651))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Mowat, Sir Oliver (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3036">record</a>)</li>
+<li>pre 2002 — Mowat, Sir Oliver (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5651/">record</a>)</li>
+<li>undated — Mowat, Sir Oliver Commemorative Tartan Tartan Number: 5651. Earliest known date: pre 2002 1820 - 1903. One of the Fathers of the Confederation. Premier of Ontario. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5651">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

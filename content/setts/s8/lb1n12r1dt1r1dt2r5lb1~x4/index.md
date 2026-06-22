@@ -2,9 +2,10 @@
 title: "Tenmaya Corporate Tartan Tartan Number: 2346. Earliest known date: 1996 May 1996 for Tenmaya Department Store Ltd in Okayama, Japan. Sample in STA Johnston Collection. Designed for British promotion October/November 1996 which demonstrated weaving and woven by Archie Snmall from Selkirk who was sent to Fukuoka to demonstrate weaving. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBRBRBRW](/stripes/wbrbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na1n12do1db1do1db2do5na1/)
+(the same proportion at any scale), whose colour order is pattern [WBRBRBRW](/stripes/wbrbrbrw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2346
 

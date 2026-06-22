@@ -2,9 +2,10 @@
 title: "Isaia (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGYGRRR](/stripes/bgygrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lta80lt8lta4t4n4t45na8/)
+(the same proportion at any scale), whose colour order is pattern [BGYGRRR](/stripes/bgygrrr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10330/
 

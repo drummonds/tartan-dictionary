@@ -2,9 +2,10 @@
 title: "Moskyok-Collins (Personal)"
 date: 2023-03-18
 ---
-In pattern [WKWBWBWBWKWY](/stripes/wkwbwbwbwkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o6w2k4lr1dn6lr1b40lr1dn6lr1k4w4/)
+(the same proportion at any scale), whose colour order is pattern [WKWBWBWBWKWY](/stripes/wkwbwbwbwkwy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10992
 

@@ -2,9 +2,10 @@
 title: "Walker Hunting"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db2g7db15g3db3g3db7g28k7g6k2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGKGKGKGBGBGBGBR](/stripes/bgbgbgbgkgkgkgbgbgbgbr/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4477
 

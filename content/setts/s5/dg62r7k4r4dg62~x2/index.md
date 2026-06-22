@@ -2,9 +2,10 @@
 title: "MacNab, Ancient"
 date: 2023-03-18
 ---
-In pattern [GRKRG](/stripes/grkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g62r7k4r4g62/)
+(the same proportion at any scale), whose colour order is pattern [GRKRG](/stripes/grkrg/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2672
 

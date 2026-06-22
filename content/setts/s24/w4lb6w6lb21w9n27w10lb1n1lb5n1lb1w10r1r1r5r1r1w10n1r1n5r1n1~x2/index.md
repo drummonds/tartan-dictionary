@@ -2,9 +2,10 @@
 title: "Oriflame"
 date: 2023-03-18
 ---
-In pattern [BRBRBWRRRRRWWBWBWWBWWWWW](/stripes/brbrbwrrrrrwwbwbwwbwwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4na6w6na21w9n27w10na1n1na5n1na1w10dr1r1dr5r1dr1w10n1dr1n5dr1n1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWRRRRRWWBWBWWBWWWWW](/stripes/brbrbwrrrrrwwbwbwwbwwwww/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10961/
 

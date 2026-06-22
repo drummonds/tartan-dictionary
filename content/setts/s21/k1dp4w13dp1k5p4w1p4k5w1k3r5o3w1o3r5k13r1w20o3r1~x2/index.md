@@ -2,9 +2,10 @@
 title: "Aberdeen Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [KBWBKBWBKWKRRWRRKRWRR](/stripes/kbwbkbwbkwkrrwrrkrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1pa4ln13pa1k5p4ln1p4k5ln1k3r5n3ln1n3r5k13r1ln20n3r1/)
+(the same proportion at any scale), whose colour order is pattern [KBWBKBWBKWKRRWRRKRWRR](/stripes/kbwbkbwbkwkrrwrrkrwrr/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3008/
 

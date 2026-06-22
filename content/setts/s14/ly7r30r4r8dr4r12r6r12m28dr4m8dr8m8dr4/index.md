@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Rowanberry"
 date: 2023-03-18
 ---
-In pattern [BRBRBRRRRBRRRY](/stripes/brbrbrrrrbrrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y7r30r4r8dra4dr12r6dr12ra28dra4ra8dra8ra8dra4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRRRRBRRRY](/stripes/brbrbrrrrbrrry/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10884
 

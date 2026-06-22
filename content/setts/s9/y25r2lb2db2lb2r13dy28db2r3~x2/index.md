@@ -2,9 +2,10 @@
 title: "Brousseau (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRWBWRGBR](/stripes/grwbwrgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g25dr2lr2db2lr2dr13t28db2dr3/)
+(the same proportion at any scale), whose colour order is pattern [GRWBWRGBR](/stripes/grwbwrgbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8907/
 

@@ -2,9 +2,10 @@
 title: "MacNeil of Colonsay"
 date: 2023-03-18
 ---
-In pattern [GKGKGKGBRBRBW](/stripes/gkgkgkgbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k5g4k8g44k40g4db52r10db4r4db10ln6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKGBRBRBW](/stripes/gkgkgkgbrbrbw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

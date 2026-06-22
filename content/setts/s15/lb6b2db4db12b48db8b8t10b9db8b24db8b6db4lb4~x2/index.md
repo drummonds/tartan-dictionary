@@ -2,18 +2,20 @@
 title: "Ferring Pharmaceuticals"
 date: 2023-03-18
 ---
-In pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb6ba2dba4db12ba48db8bb8b10bb9db8bb24db8ba6db4lb4/)
+(the same proportion at any scale), whose colour order is pattern [WBBBBBBBBBBBBBW](/stripes/wbbbbbbbbbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — Ferring Pharmaceuticals (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172))
-- 2003 — Ferring Pharmaceuticals (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6111/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Ferring Pharmaceuticals (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1172">record</a>)</li>
+<li>2003 — Ferring Pharmaceuticals (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6111/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

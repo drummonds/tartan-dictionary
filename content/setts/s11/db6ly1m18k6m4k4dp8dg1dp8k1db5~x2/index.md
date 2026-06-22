@@ -2,9 +2,10 @@
 title: "Bute Heather, Autumn"
 date: 2023-03-18
 ---
-In pattern [BKBGBKRKRYB](/stripes/bkbgbkrkryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y1dr18k6dr4k4dp8dg1dp8k1db5/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBKRKRYB](/stripes/bkbgbkrkryb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5872
 

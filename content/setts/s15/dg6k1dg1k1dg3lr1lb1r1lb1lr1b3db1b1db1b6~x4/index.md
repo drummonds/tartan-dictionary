@@ -2,9 +2,10 @@
 title: "McCulloch (Military Colours)"
 date: 2023-03-18
 ---
-In pattern [BBBBBYWRWYGKGKG](/stripes/bbbbbywrwygkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6dg1t1dg1t3n1na1r1na1n1b3db1b1db1b6/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBYWRWYGKGKG](/stripes/bbbbbywrwygkgkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5916
 

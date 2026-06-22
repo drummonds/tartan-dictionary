@@ -2,9 +2,10 @@
 title: "Black and White"
 date: 2023-03-18
 ---
-In pattern [KGKGWGWGWGWKRKW](/stripes/kgkgwgwgwgwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19n6k3n15ln3n12ln9n3ln20n3ln20k19r4k5ln3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGWGWGWGWKRKW](/stripes/kgkgwgwgwgwkrkw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

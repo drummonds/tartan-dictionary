@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/bgbgbg/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-seq">BGBGBG</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/dy6dp2dy29dp29dy2dp6~x2/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern BGBGBG" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

@@ -2,19 +2,21 @@
 title: "Exabyte"
 date: 2023-03-18
 ---
-In pattern [RBBGW](/stripes/rbbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3na34db4g47n3/)
+(the same proportion at any scale), whose colour order is pattern [RBBGW](/stripes/rbbgw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/06/1996 — Exabyte (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142))
-- pre 2002 — Exabyte (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2286/))
-- undated — Exabyte Corporate Tartan Tartan Number: 2286. Earliest known date: pre 2002 Exabyte is an American software firm based in Larbert, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2286))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/1996 — Exabyte (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1142">record</a>)</li>
+<li>pre 2002 — Exabyte (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2286/">record</a>)</li>
+<li>undated — Exabyte Corporate Tartan Tartan Number: 2286. Earliest known date: pre 2002 Exabyte is an American software firm based in Larbert, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2286">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Coeur D'Alene Firefighters (Corporat"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGGBGGG](/stripes/bgbgbggggbggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g61ga1g1dba2g1ga1g16ga1dba4g2dba6g1db4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGGBGGG](/stripes/bgbgbggggbggg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10202/
 

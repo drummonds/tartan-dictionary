@@ -2,9 +2,10 @@
 title: "City of Guelph"
 date: 2023-03-18
 ---
-In pattern [GBKGBGKG](/stripes/gbkgbgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28db4g5dr4g5db19b19lg2/)
+(the same proportion at any scale), whose colour order is pattern [GBKGBGKG](/stripes/gbkgbgkg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

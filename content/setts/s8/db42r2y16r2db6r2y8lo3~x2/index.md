@@ -2,9 +2,10 @@
 title: "Prince George's Police Pipe Band"
 date: 2023-03-18
 ---
-In pattern [BRGRBRGY](/stripes/brgrbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42dr2lg16dr2db6dr2lg8dy3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRGY](/stripes/brgrbrgy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Prince George's Police Pipe Band
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1984 — Prince George's Police Pipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392))
-- 1988 — Prince George's Police (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5474/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1984 — Prince George's Police Pipe Band (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3392">record</a>)</li>
+<li>1988 — Prince George's Police (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5474/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Hogan (Name)"
 date: 2023-03-18
 ---
-In pattern [GRWYRGWYGRWYR](/stripes/grwyrgwygrwyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg49dr3ln2y1n3dg19ln2y1dg5dr3ln2y1n3/)
+(the same proportion at any scale), whose colour order is pattern [GRWYRGWYGRWYR](/stripes/grwyrgwygrwyr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10071/
 

@@ -2,9 +2,10 @@
 title: "Braemar or Blair Atholl"
 date: 2023-03-18
 ---
-In pattern [BWKBKRKR](/stripes/bwkbkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2w2k6dr3k2lt14k1lt1/)
+(the same proportion at any scale), whose colour order is pattern [BWKBKRKR](/stripes/bwkbkrkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=335
 

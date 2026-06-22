@@ -2,9 +2,10 @@
 title: "Beaufort"
 date: 2023-03-18
 ---
-In pattern [BWRWRWRKRKRKWBRKRK](/stripes/bwrwrwrkrkrkwbrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3lt1k2lt2b24ly2k8lt2k2lt2k2lt8ly2lt2ly2lt2ly8b3/)
+(the same proportion at any scale), whose colour order is pattern [BWRWRWRKRKRKWBRKRK](/stripes/bwrwrwrkrkrkwbrkrk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5238
 

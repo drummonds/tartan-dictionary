@@ -2,9 +2,10 @@
 title: "Bradwell, Carl (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYRWRWRWRWRWRWBY](/stripes/ryrwrwrwrwrwrwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4n3dr2w4dr2w3dr4w3dr6w2dr8w2dr6w2b4y3/)
+(the same proportion at any scale), whose colour order is pattern [RYRWRWRWRWRWRWBY](/stripes/ryrwrwrwrwrwrwby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bradwell, Carl
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 06/11/2012 — Bradwell, Carl (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735))
-- undated — Bradwell, Amy Name Tartan Tartan Number: 10735. Earliest known date: 12 November 2012 Designed to celebrate Amy Bradwell's 30th birthday and the relocation of the family to Scotland in 2012. The colours reflect Amy's personal preferences and the family's mixed Yorkshire and Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10735))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>06/11/2012 — Bradwell, Carl (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10735">record</a>)</li>
+<li>undated — Bradwell, Amy Name Tartan Tartan Number: 10735. Earliest known date: 12 November 2012 Designed to celebrate Amy Bradwell's 30th birthday and the relocation of the family to Scotland in 2012. The colours reflect Amy's personal preferences and the family's mixed Yorkshire and Scottish heritage. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10735">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

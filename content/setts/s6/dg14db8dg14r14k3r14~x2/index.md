@@ -2,18 +2,20 @@
 title: "Tulsa, City of"
 date: 2023-03-18
 ---
-In pattern [GBGRKR](/stripes/gbgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg14db8dg14r14k3r14/)
+(the same proportion at any scale), whose colour order is pattern [GBGRKR](/stripes/gbgrkr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4155
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1978 — Tulsa, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4155))
-- 1978 — Tulsa, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/712/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1978 — Tulsa, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4155">record</a>)</li>
+<li>1978 — Tulsa, City of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/712/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

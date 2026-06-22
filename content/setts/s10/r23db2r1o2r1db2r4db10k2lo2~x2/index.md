@@ -2,9 +2,10 @@
 title: "Chang-Miller (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRRRBRBKY](/stripes/rbrrrbrbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr23db2dr1do2dr1db2dr4db10k2o2/)
+(the same proportion at any scale), whose colour order is pattern [RBRRRBRBKY](/stripes/rbrrrbrbky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11655
 

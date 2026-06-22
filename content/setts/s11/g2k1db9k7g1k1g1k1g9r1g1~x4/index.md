@@ -2,9 +2,10 @@
 title: "Louise"
 date: 2023-03-18
 ---
-In pattern [GKBKGKGKGRG](/stripes/gkbkgkgkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2k1b9k7g1k1g1k1g9r1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKGKGRG](/stripes/gkbkgkgkgrg/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

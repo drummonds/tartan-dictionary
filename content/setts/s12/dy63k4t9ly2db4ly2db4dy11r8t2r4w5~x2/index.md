@@ -2,9 +2,10 @@
 title: "Seller Sillar Family Tartan Tartan Number: 1737. Earliest known date: 1978 The design is based on the Sillers connection with the Isle of Arran and the Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t63k4b9y2db4y2db4t11r8b2r4ln5/)
+(the same proportion at any scale), whose colour order is pattern [GKBYBYBGRBRW](/stripes/gkbybybgrbrw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1737
 

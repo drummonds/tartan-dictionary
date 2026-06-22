@@ -2,9 +2,10 @@
 title: "Trinity Presbyterian Church"
 date: 2023-03-18
 ---
-In pattern [BKGKBKGKBRBR](/stripes/bkgkbkgkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b3r3b12k6g3k4db16k4g3k6b3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKGKBRBR](/stripes/bkgkbkgkbrbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4153
 

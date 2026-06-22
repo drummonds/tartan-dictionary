@@ -2,18 +2,20 @@
 title: "Tartan de Longueuil"
 date: 2023-03-18
 ---
-In pattern [BYBRGKRKBKRKBYBY](/stripes/bybrgkrkbkrkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db3y2db2k1r1k1db7k1r1k1g10r1db3y1db3/)
+(the same proportion at any scale), whose colour order is pattern [BYBRGKRKBKRKBYBY](/stripes/bybrgkrkbkrkbyby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Tartan de Longueuil (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074))
-- pre 2007 — Tartan de Longueuil (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7171/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Tartan de Longueuil (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4074">record</a>)</li>
+<li>pre 2007 — Tartan de Longueuil (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7171/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

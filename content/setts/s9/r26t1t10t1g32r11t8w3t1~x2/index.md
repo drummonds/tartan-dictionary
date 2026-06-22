@@ -2,9 +2,10 @@
 title: "Spens/Spence (Clan)"
 date: 2023-03-18
 ---
-In pattern [BWBRGBBBR](/stripes/bwbrgbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr26b1ba10b1g32dr11ba8w3b1/)
+(the same proportion at any scale), whose colour order is pattern [BWBRGBBBR](/stripes/bwbrgbbbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1671/
 

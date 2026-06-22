@@ -2,9 +2,10 @@
 title: "Kildonan Brown (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBWBW](/stripes/gbgbgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t22dr3t3dr3t3dr9n28dr3n6/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBWBW](/stripes/gbgbgbwbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8824/
 

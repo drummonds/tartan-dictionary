@@ -2,19 +2,21 @@
 title: "Irish Diaspora"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKWKRKGK](/stripes/bkbkgkgkwkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba14k3ba14k10g40k1ga3k1ln3k1do3k1g40k10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKWKRKGK](/stripes/bkbkgkgkwkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/04/2003 — Irish Diaspora (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853))
-- April 2003 — Irish Diaspora (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5827/))
-- undated — Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2003 — Irish Diaspora (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1853">record</a>)</li>
+<li>April 2003 — Irish Diaspora (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5827/">record</a>)</li>
+<li>undated — Irish Diaspora District Tartan Tartan Number: 5827. Earliest known date: 2003 An assymetric tartan designed by Erica Randall of The House of Edgar in Perth for all those of Irish descent at home in Ireland and around the world. The central stripes incorporate the colours of the Republic of Ireland flag. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5827">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Halliday"
 date: 2023-03-18
 ---
-In pattern [GWKWKWKWKWGWKWR](/stripes/gwkwkwkwkwgwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga1w1k1w1k1w1k1w1k1w1ga1w1k1w1pa1/)
+(the same proportion at any scale), whose colour order is pattern [GWKWKWKWKWGWKWR](/stripes/gwkwkwkwkwgwkwr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5581
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2008 — Halliday (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5581))
-- 2008 — Halliday (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7552/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2008 — Halliday (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5581">record</a>)</li>
+<li>2008 — Halliday (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7552/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

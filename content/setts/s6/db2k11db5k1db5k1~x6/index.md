@@ -2,9 +2,10 @@
 title: "Gagetown (School)"
 date: 2023-03-18
 ---
-In pattern [BKBKBK](/stripes/bkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2k11b5k1b5k1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7557/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gagetown School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Gagetown (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7557/))
-- undated — Gagetown School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5585))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Gagetown (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7557/">record</a>)</li>
+<li>undated — Gagetown School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5585">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

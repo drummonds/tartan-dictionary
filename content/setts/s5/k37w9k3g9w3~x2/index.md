@@ -2,9 +2,10 @@
 title: "Glen Coe #1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KWKGW](/stripes/kwkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k37w9k3g9w3/)
+(the same proportion at any scale), whose colour order is pattern [KWKGW](/stripes/kwkgw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1243/
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Glen Coe #1
 - Glen Coe #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Glen Coe #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1243/))
-- undated — Glencoe (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Glen Coe #1 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1243/">record</a>)</li>
+<li>undated — Glencoe (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/74 W18 K6 G18 W/6

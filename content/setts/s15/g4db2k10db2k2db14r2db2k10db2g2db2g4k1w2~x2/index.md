@@ -2,9 +2,10 @@
 title: "Barry (Name)"
 date: 2023-03-18
 ---
-In pattern [GBKBKBRBKBGBGKW](/stripes/gbkbkbrbkbgbgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dba2k10dba2k2dba14r2dba2k10db2g2db2g4k1w2/)
+(the same proportion at any scale), whose colour order is pattern [GBKBKBRBKBGBGKW](/stripes/gbkbkbrbkbgbgkw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8572/
 

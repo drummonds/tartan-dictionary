@@ -2,9 +2,10 @@
 title: "Royal College of Physicians (Corp)"
 date: 2023-03-18
 ---
-In pattern [BRKRGY](/stripes/brkrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18r3k9r3g23y3/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGY](/stripes/brkrgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2350/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal College of Physicians of Edinburgh
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- September 1996 — Royal College of Physicians (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2350/))
-- 01/01/1997 — Royal College of Physicians of Edinburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3597))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>September 1996 — Royal College of Physicians (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2350/">record</a>)</li>
+<li>01/01/1997 — Royal College of Physicians of Edinburgh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3597">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

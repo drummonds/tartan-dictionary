@@ -2,9 +2,10 @@
 title: "Kilbarchan Unidentified No. 7"
 date: 2023-03-18
 ---
-In pattern [BRKRGRKRGRKRGRBRGRKRGRKRGRKR](/stripes/brkrgrkrgrkrgrbrgrkrgrkrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k4r6g24r4k3r6g3r4k24r6g4r4b4r4g4r6k24r4g3r6k3r4g24r6k4r4b4/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGRKRGRKRGRBRGRKRGRKRGRKR](/stripes/brkrgrkrgrkrgrbrgrkrgrkrgrkr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1963
 

@@ -2,9 +2,10 @@
 title: "Baxter Clan/Family Tartan Tartan Number: 3664. Earliest known date: 1856 This Baxter tartan is recorded by Logan (c.1832) as \"Buchanan\". Logans complied his tartan list from the limited information available at the time. It appears in a description as Baxter in D. Macgregor Peter's Baronage of Angus & Mearns, 1856. The principal branch of the clan is the Baxters of Earlshall who live at Leuchars in north Fife. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKYKBKRWRKBKYKYKBKG](/stripes/bgkbkykykbkrwrkbkykykbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k1b2k1dy4k1dy4k1b2k1dr16w2dr16k1b2k1dy4k1dy4k1b2k1g16b2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKYKBKRWRKBKYKYKBKG](/stripes/bgkbkykykbkrwrkbkykykbkg/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3664
 

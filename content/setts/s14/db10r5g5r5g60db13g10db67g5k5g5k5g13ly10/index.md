@@ -2,9 +2,10 @@
 title: "Beatrice Princess.. (Hunting) Royal Family Tartan Tartan Number: 545. Earliest known date: pre 2003 Reduced by 1/6th to display. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y10g13k5g5k5g5db67g10dba13g60r5g5r5dba10/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGBGBGKGKGY](/stripes/brgrgbgbgkgkgy/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=545
 

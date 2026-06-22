@@ -2,18 +2,20 @@
 title: "Moonlight Glen (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WYKWKWYKY](/stripes/wykwkwyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k40n4ln6k10ln10k3n1ln3/)
+(the same proportion at any scale), whose colour order is pattern [WYKWKWYKY](/stripes/wykwkwyky/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7611/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- March 2008 — Moonlight Glen (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7611/))
-- undated — Moonlight Glen (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5633))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Moonlight Glen (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7611/">record</a>)</li>
+<li>undated — Moonlight Glen (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5633">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Lindsay"
 date: 2023-03-18
 ---
-In pattern [BBBBGBGBG](/stripes/bbbbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg20db2dg2db2dg2db8dr24db2dr3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGBGBG](/stripes/bbbbgbgbg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

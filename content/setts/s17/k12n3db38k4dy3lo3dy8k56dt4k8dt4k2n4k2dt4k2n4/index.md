@@ -2,9 +2,10 @@
 title: "North Sea Oil"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKGYGKBBK](/stripes/bkbkbkbkbkgygkbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12n3db38k4t3y3t8k56ka4k8ka4k2n4k2ka4k2n4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKGYGKBBK](/stripes/bkbkbkbkbkgygkbbk/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10766
 

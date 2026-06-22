@@ -2,9 +2,10 @@
 title: "Glasgow Caledonian University"
 date: 2023-03-18
 ---
-In pattern [KRKBWKWKWBKRKBWKW](/stripes/krkbwkwkwbkrkbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5r2k30b8ln1k9ln2k9ln1b8k30r3k30b8ln1k9ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBWKWKWBKRKBWKW](/stripes/krkbwkwkwbkrkbwkw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1352
 

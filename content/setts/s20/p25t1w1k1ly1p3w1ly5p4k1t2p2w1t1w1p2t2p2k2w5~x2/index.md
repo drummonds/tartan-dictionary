@@ -2,9 +2,10 @@
 title: "Lions"
 date: 2023-03-18
 ---
-In pattern [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p25b1ln1k1y1p3ln1y5p4k1b2p2ln1b1ln1p2b2p2k2ln5/)
+(the same proportion at any scale), whose colour order is pattern [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "British Columbia (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [GGWGWGWGWGWGWGWGGKGWGWGWGWGWGWGWGKWK](/stripes/ggwgwgwgwgwgwgwggkgwgwgwgwgwgwgwgkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50ln16k8dg8ln1dg1ln1dg1ln1dg1ln1dg1ln1dg1ln1dg1ln20dg40k12dg24g8ln1g1ln1g1ln1g1ln1g1ln1g1ln1g1ln28g6dg4/)
+(the same proportion at any scale), whose colour order is pattern [GGWGWGWGWGWGWGWGGKGWGWGWGWGWGWGWGKWK](/stripes/ggwgwgwgwgwgwgwggkgwgwgwgwgwgwgwgkwk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7713/
 

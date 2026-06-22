@@ -2,9 +2,10 @@
 title: "Graeme Brodie Tartan Tartan Number: 3243. Earliest known date: August 2002 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/drb1k19t4drb4r1t3drb2t3k37t2n2t2k37t3drb2t3r1drb4t4k19drb1/)
+(the same proportion at any scale), whose colour order is pattern [RKBRRBRBKBBBKBRBRRBKR](/stripes/rkbrrbrbkbbbkbrbrrbkr/).
 
-This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3243
 

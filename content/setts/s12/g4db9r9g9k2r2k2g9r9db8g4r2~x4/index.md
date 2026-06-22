@@ -2,9 +2,10 @@
 title: "Stewart/Stuart C18th - Cf 1314 & 4454"
 date: 2023-03-18
 ---
-In pattern [GBRGKRKGRBGR](/stripes/gbrgkrkgrbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4db9r9g9k2r2k2g9r9db8g4r2/)
+(the same proportion at any scale), whose colour order is pattern [GBRGKRKGRBGR](/stripes/gbrgkrkgrbgr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3945
 

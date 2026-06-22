@@ -2,9 +2,10 @@
 title: "Robert Lee Jordan Defiance (Per.)"
 date: 2023-03-18
 ---
-In pattern [RWKBBBBBBGBGKY](/stripes/rwkbbbbbbgbgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3w5k1db24p3db4p3db3p12g3p1g21k1y3/)
+(the same proportion at any scale), whose colour order is pattern [RWKBBBBBBGBGKY](/stripes/rwkbbbbbbgbgky/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7297/
 

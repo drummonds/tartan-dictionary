@@ -2,18 +2,20 @@
 title: "University of Alberta (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KGKGYGYGKW](/stripes/kgkgygygkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3g32k2g4y4g2y4g4k6ln3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGYGYGKW](/stripes/kgkgygygkw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7629/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- November 2007 — University of Alberta (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7629/))
-- undated — University of Alberta (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5647))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>November 2007 — University of Alberta (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7629/">record</a>)</li>
+<li>undated — University of Alberta (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5647">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

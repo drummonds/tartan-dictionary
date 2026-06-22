@@ -2,9 +2,10 @@
 title: "Hueg (Bavaria) Scottish Blue Thistle (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ka4k2n25ka4n4y2n2w2n5ka3r7k2r3w2/)
+(the same proportion at any scale), whose colour order is pattern [RGKBGBYBWBGRKRW](/stripes/rgkbgbybwbgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hueg Scottish Blue Thistle
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 27/11/2012 — Hueg (Bavaria) Scottish Blue Thistle (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743))
-- undated — Hueg (Bavaria) Scottish Blue Thi Name Tartan Tartan Number: 10743. Earliest known date: 27/11/2012 Created by the designer to celebrate his love of Scotland and his belief that there are many similarities between Scots and Bavarians. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10743))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>27/11/2012 — Hueg (Bavaria) Scottish Blue Thistle (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10743">record</a>)</li>
+<li>undated — Hueg (Bavaria) Scottish Blue Thi Name Tartan Tartan Number: 10743. Earliest known date: 27/11/2012 Created by the designer to celebrate his love of Scotland and his belief that there are many similarities between Scots and Bavarians. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10743">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

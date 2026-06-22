@@ -2,18 +2,20 @@
 title: "Black Rose"
 date: 2023-03-18
 ---
-In pattern [BRBKBYBYBBBKBY](/stripes/brbkbybybbbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr20p3k8p3db2p24lr2p3lr2p24k15p1n3p2/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBYBYBBBKBY](/stripes/brbkbybybbbkby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/04/2005 — Black Rose (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276))
-- 2005 April — Black Rose (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6632/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/04/2005 — Black Rose (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=276">record</a>)</li>
+<li>2005 April — Black Rose (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6632/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

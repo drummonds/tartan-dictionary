@@ -2,9 +2,10 @@
 title: "Knights Templar - Grand Priory"
 date: 2023-03-18
 ---
-In pattern [BRWBRKRWRKRBWR](/stripes/brwbrkrwrkrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2w1db30dr30k1dr2w1dr2k1dr30db30w1dr2db1/)
+(the same proportion at any scale), whose colour order is pattern [BRWBRKRWRKRBWR](/stripes/brwbrkrwrkrbwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2008
 

@@ -2,9 +2,10 @@
 title: "Bottle Green (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30lt4k6dy2k2g4k2db5n4k2n3g2/)
+(the same proportion at any scale), whose colour order is pattern [GGKGBKGKYKYG](/stripes/ggkgbkgkykyg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3865/
 

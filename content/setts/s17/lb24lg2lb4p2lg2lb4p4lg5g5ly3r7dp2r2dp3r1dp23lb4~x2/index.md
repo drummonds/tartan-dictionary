@@ -2,9 +2,10 @@
 title: "Scotland's Grace"
 date: 2023-03-18
 ---
-In pattern [WBRBRBRYGYBWYBWYW](/stripes/wbrbrbrygybwybwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n24b2n4p2b2n4p4b5g5y3r7dp2r2dp3r1dp23n4/)
+(the same proportion at any scale), whose colour order is pattern [WBRBRBRYGYBWYBWYW](/stripes/wbrbrbrygybwybwyw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11070/
 

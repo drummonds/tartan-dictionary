@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rkgbggkr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">RKGBGGKR</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/m8k2y10dp30y30g55k4o6/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RKGBGGKR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

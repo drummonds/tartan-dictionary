@@ -2,9 +2,10 @@
 title: "Stephenson (Name)"
 date: 2023-03-18
 ---
-In pattern [BRGBYKBRBGK](/stripes/brgbykbrbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g20b2dr5b2k20dy3db20g26dr3db5/)
+(the same proportion at any scale), whose colour order is pattern [BRGBYKBRBGK](/stripes/brgbykbrbgk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/517/
 

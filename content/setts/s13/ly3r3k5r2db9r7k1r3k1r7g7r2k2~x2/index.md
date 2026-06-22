@@ -2,9 +2,10 @@
 title: "Prince Charles Edward (Edinburgh)"
 date: 2023-03-18
 ---
-In pattern [KRGRKRKRBRKRY](/stripes/krgrkrkrbrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3r3k5r2db9r7k1r3k1r7g7r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKRKRBRKRY](/stripes/krgrkrkrbrkry/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4422
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Prince Charles Plaid
 - Prince Charles, Albany, Plaid
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1745 — Prince Charles Edward (Edinburgh) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4422))
-- 1746 — Albany (Artefact?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1170/))
-- undated — Prince Charles, Albany, Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Prince Charles Plaid Tartan Tartan Number: 1170. Earliest known date: 1893 'Old and Rare Scottish Tartans' (1893), contains a selection of forty five setts, woven in silk, of special interest or antiquity. Many of the illustrated tartans owe their present day popularity to the publication of this work. The author was D. W. Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1170))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1745 — Prince Charles Edward (Edinburgh) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4422">record</a>)</li>
+<li>1746 — Albany (Artefact?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1170/">record</a>)</li>
+<li>undated — Prince Charles, Albany, Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Prince Charles Plaid Tartan Tartan Number: 1170. Earliest known date: 1893 'Old and Rare Scottish Tartans' (1893), contains a selection of forty five setts, woven in silk, of special interest or antiquity. Many of the illustrated tartans owe their present day popularity to the publication of this work. The author was D. W. Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1170">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Ogilvie (D.C. Stewart) #2"
 date: 2023-03-18
 ---
-In pattern [WWYKRWRWRKYWRWRWYKRWRWRKYW](/stripes/wwykrwrwrkywrwrwykrwrwrkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb6y2k2r9w2r6w2r9k2y2lb6r2lb6r2lb6y2k2r9w2r6w2r9k2y2lb6w2/)
+(the same proportion at any scale), whose colour order is pattern [WWYKRWRWRKYWRWRWYKRWRWRKYW](/stripes/wwykrwrwrkywrwrwykrwrwrkyw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3227
 

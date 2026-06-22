@@ -2,9 +2,10 @@
 title: "MacKay, Marled"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k1n1k12n4k12n4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2506
 

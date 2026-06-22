@@ -2,9 +2,10 @@
 title: "McHattie (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBRYW](/stripes/kbryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k45db2r4y1ln1/)
+(the same proportion at any scale), whose colour order is pattern [KBRYW](/stripes/kbryw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2888
 

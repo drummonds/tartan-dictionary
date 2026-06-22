@@ -2,9 +2,10 @@
 title: "Akins Clan Tartan Tartan Number: 2426. Earliest known date: 1822 This is the `Approved` tartan for the Akins Clan See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBRRRRR](/stripes/bgbrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr12r4dr4r4dr4db11dg12b4/)
+(the same proportion at any scale), whose colour order is pattern [BGBRRRRR](/stripes/bgbrrrrr/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2426
 

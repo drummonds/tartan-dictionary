@@ -2,9 +2,10 @@
 title: "Asman Dress Family Tartan Tartan Number: 2552. Earliest known date: 1989 Designed for David I Asman by Dr. Philip D. Smith, 1989. David Asman was an English armiger and lived at one time in New jersey, USA. The tartan was first woven by Peter MacDonald in the weaving shed at the Scottish Tartan Society's Comrie museum in the 1989. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBRWKWRRKR](/stripes/bybrwkwrrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k3r20r6w2k6w2na6dba22y3dba4/)
+(the same proportion at any scale), whose colour order is pattern [BYBRWKWRRKR](/stripes/bybrwkwrrkr/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2552
 

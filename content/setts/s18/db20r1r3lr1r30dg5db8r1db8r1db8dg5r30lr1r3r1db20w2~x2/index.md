@@ -2,9 +2,10 @@
 title: "Guild, The"
 date: 2023-03-18
 ---
-In pattern [BRRYRGBRBRBGRYRRBW](/stripes/brryrgbrbrbgryrrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20r1dr3n1dr30g5db8r1db8r1db8g5dr30n1dr3r1db20w2/)
+(the same proportion at any scale), whose colour order is pattern [BRRYRGBRBRBGRYRRBW](/stripes/brryrgbrbrbgryrrbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11479
 

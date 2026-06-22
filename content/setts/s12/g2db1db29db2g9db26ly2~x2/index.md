@@ -2,9 +2,10 @@
 title: "Scottish Canals Corporate Tartan Tartan Number: 3916. Earliest known date: 2001 Designed by Claire Donaldson of House of Edgar for BWB. Initially called Highland Canals, later changed (April 2002) to Caledonian Canal and then in January 2003 to Scottish Canals. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBGBYBGBBBG](/stripes/bbbgbybgbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2dba26g9dba2db29dba1g2/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBYBGBBBG](/stripes/bbbgbybgbbbg/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3916
 

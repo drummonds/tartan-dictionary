@@ -2,9 +2,10 @@
 title: "Moran (Coilessan) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBKWGKRB](/stripes/bbkwgkrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b26db13k13ln2g8k5r3b3/)
+(the same proportion at any scale), whose colour order is pattern [BBKWGKRB](/stripes/bbkwgkrb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6005
 

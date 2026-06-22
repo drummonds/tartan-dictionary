@@ -2,9 +2,10 @@
 title: "Thom(p)son, Navy"
 date: 2023-03-18
 ---
-In pattern [RBWRBRR](/stripes/rbwrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3db15ln13lt6db2lt2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBWRBRR](/stripes/rbwrbrr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

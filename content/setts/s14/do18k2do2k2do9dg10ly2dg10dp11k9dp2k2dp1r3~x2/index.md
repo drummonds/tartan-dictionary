@@ -2,9 +2,10 @@
 title: "Hay-Gray (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBGYGBKBKBR](/stripes/bkbkbgygbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr18k2dr2k2dr9g10y2g10p11k9p2k2p1r3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBGYGBKBKBR](/stripes/bkbkbgygbkbkbr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10926/
 

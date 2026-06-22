@@ -2,9 +2,10 @@
 title: "Blue Pride"
 date: 2023-03-18
 ---
-In pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b38k4b2g6p11db3p2lr2b11k1w2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBBBRBKW](/stripes/bkbgbbbrbkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11054
 

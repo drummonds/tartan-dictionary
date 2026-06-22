@@ -2,18 +2,20 @@
 title: "Friends of Scotland Caucus"
 date: 2023-03-18
 ---
-In pattern [RWRGWRGRWBW](/stripes/rwrgwrgrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ln2r3g14ln3r3g2r3ln3db47ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWRGWRGRWBW](/stripes/rwrgwrgrwbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2007 — Friends of Scotland Caucus (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281))
-- August 2007 — Friends of Scotland Caucus (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7275/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2007 — Friends of Scotland Caucus (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1281">record</a>)</li>
+<li>August 2007 — Friends of Scotland Caucus (Corp.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7275/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

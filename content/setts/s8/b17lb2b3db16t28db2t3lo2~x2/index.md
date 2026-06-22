@@ -2,9 +2,10 @@
 title: "Banff & Buchan (District)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBY](/stripes/bwbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba17n2ba3db16b28db2b3dy2/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBY](/stripes/bwbbbbby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2150/
 

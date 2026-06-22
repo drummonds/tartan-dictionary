@@ -2,9 +2,10 @@
 title: "GRM (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBGYGRGGRGRR](/stripes/kbgygrggrgrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k39b3t8lt2t2r2t2dg8dr5t2dr3r2/)
+(the same proportion at any scale), whose colour order is pattern [KBGYGRGGRGRR](/stripes/kbgygrggrgrr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4080/
 

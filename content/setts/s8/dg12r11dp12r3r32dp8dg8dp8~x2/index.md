@@ -2,9 +2,10 @@
 title: "Fiddes"
 date: 2023-03-18
 ---
-In pattern [BGBRRBRG](/stripes/bgbrrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r11p12ra3r32p8g8p8/)
+(the same proportion at any scale), whose colour order is pattern [BGBRRBRG](/stripes/bgbrrbrg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1174
 

@@ -2,9 +2,10 @@
 title: "Murray of Polmaise"
 date: 2023-03-18
 ---
-In pattern [BRGRBRGRBRBRGRBRBRBRBRBRBGBRGRBRBRG](/stripes/brgrbrgrbrbrgrbrbrbrbrbrbgbrgrbrbrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r3b9r12b1r1g1r1b1g1b6r1b1r1b1r1b1r1b6r1b1r1g1r1b1r12b9r3g3r7b3r3g1r4b3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRGRBRBRGRBRBRBRBRBRBGBRGRBRBRG](/stripes/brgrbrgrbrbrgrbrbrbrbrbrbgbrgrbrbrg/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3068
 

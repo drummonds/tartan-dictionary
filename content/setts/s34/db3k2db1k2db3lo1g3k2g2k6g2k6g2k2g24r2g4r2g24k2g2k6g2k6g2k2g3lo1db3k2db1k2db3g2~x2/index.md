@@ -2,9 +2,10 @@
 title: "Hislop Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKBG](/stripes/bkbkbygkgkgkgkgrgrgkgkgkgkgybkbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k2db1k2db3dy1g3k2g2k6g2k6g2k2g24dr2g4dr2g24k2g2k6g2k6g2k2g3dy1db3k2db1k2db3g2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBYGKGKGKGKGRGRGKGKGKGKGYBKBKBG](/stripes/bkbkbygkgkgkgkgrgrgkgkgkgkgybkbkbg/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5190
 

@@ -2,9 +2,10 @@
 title: "Clergy (Mackinlay)"
 date: 2023-03-18
 ---
-In pattern [KWBKWKWBWKW](/stripes/kwbkwkwbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1b8k9ln1k9ln1b2ln1k4ln1/)
+(the same proportion at any scale), whose colour order is pattern [KWBKWKWBWKW](/stripes/kwbkwkwbwkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Clergy 4
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Clergy (Mackinlay) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681))
-- undated — Clergy 4 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Clergy (Mackinlay) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=681">record</a>)</li>
+<li>undated — Clergy 4 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

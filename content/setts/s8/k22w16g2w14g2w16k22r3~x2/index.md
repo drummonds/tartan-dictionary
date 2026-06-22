@@ -2,9 +2,10 @@
 title: "Kierson"
 date: 2023-03-18
 ---
-In pattern [KWGWGWKR](/stripes/kwgwgwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k22w16g2w14g2w16k22dr3/)
+(the same proportion at any scale), whose colour order is pattern [KWGWGWKR](/stripes/kwgwgwkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1959
 

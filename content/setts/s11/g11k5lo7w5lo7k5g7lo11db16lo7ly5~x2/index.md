@@ -2,9 +2,10 @@
 title: "Roscommon County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKYWYKGYBYY](/stripes/gkywykgybyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11k5lt7ln5lt7k5g7lt11db16lt7y5/)
+(the same proportion at any scale), whose colour order is pattern [GKYWYKGYBYY](/stripes/gkywykgybyy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7429/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Roscommon County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Roscommon County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7429/))
-- 01/05/2005 — Roscommon County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5057))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Roscommon County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7429/">record</a>)</li>
+<li>01/05/2005 — Roscommon County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5057">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Bruce of Kinnaird (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WYYBYBWBYY](/stripes/wyybybwbyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy22lg22dr2n6dr2dya2dr16b5dy8n2/)
+(the same proportion at any scale), whose colour order is pattern [WYYBYBWBYY](/stripes/wyybybwbyy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3744/
 

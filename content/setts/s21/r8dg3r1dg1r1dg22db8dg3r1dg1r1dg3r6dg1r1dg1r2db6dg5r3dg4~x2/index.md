@@ -2,9 +2,10 @@
 title: "Matheson Hunting (STS incomplete sett)"
 date: 2023-03-18
 ---
-In pattern [GRGBRGRGRGRGRGBGRGRGR](/stripes/grgbrgrgrgrgrgbgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g3r1g1r1g22b8g3r1g1r1g3r6g1r1g1r2b6g5r3g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGBRGRGRGRGRGBGRGRGR](/stripes/grgbrgrgrgrgrgbgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2857
 

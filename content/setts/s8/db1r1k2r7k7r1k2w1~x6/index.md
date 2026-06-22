@@ -2,9 +2,10 @@
 title: "Nakayama (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRKRKRKW](/stripes/brkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1r1k2r7k7r1k2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRKRKRKW](/stripes/brkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5997
 

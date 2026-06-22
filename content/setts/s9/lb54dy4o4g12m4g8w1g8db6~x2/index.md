@@ -2,9 +2,10 @@
 title: "Cadenhead (2015)"
 date: 2023-03-18
 ---
-In pattern [BGWGRGRGW](/stripes/bgwgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb54t4n4g12lp4g8w1g8db6/)
+(the same proportion at any scale), whose colour order is pattern [BGWGRGRGW](/stripes/bgwgrgrgw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11292
 

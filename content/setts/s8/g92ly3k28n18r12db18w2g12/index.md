@@ -2,18 +2,20 @@
 title: "Mull Millennium"
 date: 2023-03-18
 ---
-In pattern [GWBRBKYG](/stripes/gwbrbkyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g92y3k28n18r12db18ln2g12/)
+(the same proportion at any scale), whose colour order is pattern [GWBRBKYG](/stripes/gwbrbkyg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Mull Millennium (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044))
-- January 1998 — Mull Millennium (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2573/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Mull Millennium (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3044">record</a>)</li>
+<li>January 1998 — Mull Millennium (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2573/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

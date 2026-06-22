@@ -2,18 +2,20 @@
 title: "U.S. Customs & Border Protection (C"
 date: 2023-03-18
 ---
-In pattern [YKBKWKGRKRY](/stripes/ykbkwkgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt24k7db1k1w1k1t4dr3k1dr2lt1/)
+(the same proportion at any scale), whose colour order is pattern [YKBKWKGRKRY](/stripes/ykbkwkgrkry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7567/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb 2008 — U.S. Customs & Border Protection (C (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7567/))
-- undated — U.S. Customs & Border Protection (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5593))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb 2008 — U.S. Customs & Border Protection (C (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7567/">record</a>)</li>
+<li>undated — U.S. Customs & Border Protection (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5593">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

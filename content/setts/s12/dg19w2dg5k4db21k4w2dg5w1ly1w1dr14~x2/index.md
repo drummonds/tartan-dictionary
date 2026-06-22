@@ -2,9 +2,10 @@
 title: "Womack (2014)"
 date: 2023-03-18
 ---
-In pattern [BWYWGWKBKGWG](/stripes/bwywgwkbkgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg19w2dg5k4db21k4w2dg5w1y1w1dr14/)
+(the same proportion at any scale), whose colour order is pattern [BWYWGWKBKGWG](/stripes/bwywgwkbkgwg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10995/
 

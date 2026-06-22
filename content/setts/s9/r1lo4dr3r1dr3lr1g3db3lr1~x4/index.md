@@ -2,9 +2,10 @@
 title: "Isle of Arran (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYBRBYGBY](/stripes/rybrbygby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1dy4dra3dr1dra3n1g3db3n1/)
+(the same proportion at any scale), whose colour order is pattern [RYBRBYGBY](/stripes/rybrbygby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1866
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Arran, Isle of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1977 — Isle of Arran (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1866))
-- 1977 — Arran, Isle of (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5281/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1977 — Isle of Arran (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1866">record</a>)</li>
+<li>1977 — Arran, Isle of (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5281/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

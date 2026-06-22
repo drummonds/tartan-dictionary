@@ -2,9 +2,10 @@
 title: "Life Goes on Foundation"
 date: 2023-03-18
 ---
-In pattern [BKBKBWBKBWBWW](/stripes/bkbkbwbkbwbww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p12k4p5k4p32n5p5k10p5lb5p5lb18ly4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBWBKBWBWW](/stripes/bkbkbwbkbwbww/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5979
 

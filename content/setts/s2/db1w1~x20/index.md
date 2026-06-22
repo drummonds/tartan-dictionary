@@ -2,18 +2,20 @@
 title: "Sillitoe"
 date: 2023-03-18
 ---
-In pattern [BW](/stripes/bw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1w1/)
+(the same proportion at any scale), whose colour order is pattern [BW](/stripes/bw/).
 
-This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1932 — Sillitoe (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786))
-- 1932 — Sillitoe (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6430/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1932 — Sillitoe (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3786">record</a>)</li>
+<li>1932 — Sillitoe (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6430/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

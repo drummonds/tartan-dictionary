@@ -2,9 +2,10 @@
 title: "Isle of Man"
 date: 2023-03-18
 ---
-In pattern [BYWGYGWGRYRWRYRGWGYGWYBR](/stripes/bywgygwgryrwryrgwgygwybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba22lt4ln3g7y2g4ln2g9pa6y2pa4ln2pa4y2pa6g9ln2g4y2g7ln3lt4ba22r2/)
+(the same proportion at any scale), whose colour order is pattern [BYWGYGWGRYRWRYRGWGYGWYBR](/stripes/bywgygwgryrwryrgwgygwybr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5318
 

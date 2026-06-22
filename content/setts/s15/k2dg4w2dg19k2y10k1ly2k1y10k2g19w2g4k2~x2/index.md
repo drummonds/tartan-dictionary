@@ -2,9 +2,10 @@
 title: "MacGiboney / MacGibboney"
 date: 2023-03-18
 ---
-In pattern [KGWGKGKYKGKGWGK](/stripes/kgwgkgkykgkgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dg4ln2dg19k2n10k1y2k1n10k2g19ln2g4k2/)
+(the same proportion at any scale), whose colour order is pattern [KGWGKGKYKGKGWGK](/stripes/kgwgkgkykgkgwgk/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

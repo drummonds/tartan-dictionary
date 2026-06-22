@@ -2,9 +2,10 @@
 title: "PSD: Operation Iraqi Freedom"
 date: 2023-03-18
 ---
-In pattern [KGGGRKR](/stripes/kgggrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2lt1g12lt12dr12k1r2/)
+(the same proportion at any scale), whose colour order is pattern [KGGGRKR](/stripes/kgggrkr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - PSD: Operation Iraqi Freedom (Milita
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — PSD: Operation Iraqi Freedom (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417))
-- 2006 — PSD: Operation Iraqi Freedom (Milita (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6877/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — PSD: Operation Iraqi Freedom (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3417">record</a>)</li>
+<li>2006 — PSD: Operation Iraqi Freedom (Milita (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6877/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

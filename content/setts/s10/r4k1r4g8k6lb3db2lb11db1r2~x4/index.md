@@ -2,9 +2,10 @@
 title: "MacDuff Dress #2"
 date: 2023-03-18
 ---
-In pattern [RBWBWKGRKR](/stripes/rbwbwkgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k1dr4g8k6n3db2n11db1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBWBWKGRKR](/stripes/rbwbwkgrkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2420
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDuff Dress #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacDuff Dress #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2420))
-- pre 2002 — MacDuff - 1960 Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1441/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacDuff Dress #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2420">record</a>)</li>
+<li>pre 2002 — MacDuff - 1960 Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1441/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

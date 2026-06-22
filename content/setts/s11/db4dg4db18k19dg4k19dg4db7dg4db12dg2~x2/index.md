@@ -2,9 +2,10 @@
 title: "Clergy #2"
 date: 2023-03-18
 ---
-In pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g4b18k19g4k19g4b7g4b12g2/)
+(the same proportion at any scale), whose colour order is pattern [BGBKGKGBGBG](/stripes/bgbkgkgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=677
 

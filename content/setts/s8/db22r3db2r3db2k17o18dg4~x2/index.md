@@ -2,9 +2,10 @@
 title: "Scotch House 2000, antique"
 date: 2023-03-18
 ---
-In pattern [BRBRBKRG](/stripes/brbrbkrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22r3b2r3b2k17lt18dg4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKRG](/stripes/brbrbkrg/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

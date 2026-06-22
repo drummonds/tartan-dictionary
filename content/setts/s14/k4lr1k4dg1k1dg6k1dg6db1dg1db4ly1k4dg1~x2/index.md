@@ -2,18 +2,20 @@
 title: "MacAlpine D (a)"
 date: 2023-03-18
 ---
-In pattern [GKYBGBGKGKGKYK](/stripes/gkybgbgkgkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n1k4dg1k1dg6k1dg6db1dg1db4lg1k4dg1/)
+(the same proportion at any scale), whose colour order is pattern [GKYBGBGKGKGKYK](/stripes/gkybgbgkgkgkyk/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacAlpine D (a) (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacAlpine D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacAlpine D (a) (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacAlpine D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/8 N2 K8 DG2 K2 DG12 K2 DG12 DB2 DG2 DB8 LG2 K8 DG/2

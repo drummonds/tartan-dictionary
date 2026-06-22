@@ -2,18 +2,20 @@
 title: "Antique 2000"
 date: 2023-03-18
 ---
-In pattern [BGKBRBRB](/stripes/bgkbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r1db1r1db1k6lt9b2/)
+(the same proportion at any scale), whose colour order is pattern [BGKBRBRB](/stripes/bgkbrbrb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2001 — Antique 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97))
-- 2001 — Antique 2000 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4087/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2001 — Antique 2000 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=97">record</a>)</li>
+<li>2001 — Antique 2000 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4087/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

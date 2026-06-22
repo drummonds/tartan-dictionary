@@ -2,18 +2,20 @@
 title: "Douglas, Black"
 date: 2023-03-18
 ---
-In pattern [KBGKR](/stripes/kbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8b5g44k40r6/)
+(the same proportion at any scale), whose colour order is pattern [KBGKR](/stripes/kbgkr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1920 — Douglas, Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964))
-- pre 2002 — Douglas, Black (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1029/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1920 — Douglas, Black (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=964">record</a>)</li>
+<li>pre 2002 — Douglas, Black (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1029/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

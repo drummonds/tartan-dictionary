@@ -2,9 +2,10 @@
 title: "Inverness Earl of"
 date: 2023-03-18
 ---
-In pattern [RBYBGBGR](/stripes/rbybgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r42b4y1b6g1b1g1r12/)
+(the same proportion at any scale), whose colour order is pattern [RBYBGBGR](/stripes/rbybgbgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1845
 

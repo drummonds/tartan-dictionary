@@ -2,9 +2,10 @@
 title: "Seton Hunting"
 date: 2023-03-18
 ---
-In pattern [GGGRGRGGWGWGGRGRGG](/stripes/gggrgrggwgwggrgrgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t3ga1t15r2t1r2t1ga7w1ga2/)
+(the same proportion at any scale), whose colour order is pattern [GGGRGRGGWGWGGRGRGG](/stripes/gggrgrggwgwggrgrgg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3771
 

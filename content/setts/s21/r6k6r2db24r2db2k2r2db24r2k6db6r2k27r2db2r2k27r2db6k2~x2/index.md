@@ -2,9 +2,10 @@
 title: "Buchan (Clan)"
 date: 2023-03-18
 ---
-In pattern [KBRKRBRKRBKRBRKBRBRKR](/stripes/kbrkrbrkrbkrbrkbrbrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6ka6dr2db24dr2db2k2dr2db24dr2k6db6dr2ka27dr2db2dr2ka27dr2db6k2/)
+(the same proportion at any scale), whose colour order is pattern [KBRKRBRKRBKRBRKBRBRKR](/stripes/kbrkrbrkrbkrbrkbrbrkr/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1991/
 

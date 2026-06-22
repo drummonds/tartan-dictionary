@@ -2,9 +2,10 @@
 title: "Drummond"
 date: 2023-03-18
 ---
-In pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1b4db6r16g32y1db6ln1r68ln1db6y1g32r16db6b4ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBBRGYBWRWBYGRBBW](/stripes/wbbrgybwrwbygrbbw/).
 
-This was sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from logan-1831.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link /posts/logans-scottish-gael/
 

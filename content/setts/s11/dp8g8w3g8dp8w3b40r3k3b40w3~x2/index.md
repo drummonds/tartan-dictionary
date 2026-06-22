@@ -2,9 +2,10 @@
 title: "World Peace (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p8g8w3g8p8w3b40r3k3b40w3/)
+(the same proportion at any scale), whose colour order is pattern [BGWGBWBRKBW](/stripes/bgwgbwbrkbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10424/
 

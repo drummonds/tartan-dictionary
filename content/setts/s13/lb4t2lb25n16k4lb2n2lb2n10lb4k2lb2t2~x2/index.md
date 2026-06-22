@@ -2,18 +2,20 @@
 title: "Balmoral (Jack Allen)"
 date: 2023-03-18
 ---
-In pattern [BWKWBWBWKBWBW](/stripes/bwkwbwbwkbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4b2n25na16k4n2na2n2na10n4k2n2b2/)
+(the same proportion at any scale), whose colour order is pattern [BWKWBWBWKBWBW](/stripes/bwkwbwbwkbwbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=181
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Balmoral (Jack Allen) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=181))
-- undated — Balmoral - Blue Lines (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Balmoral (Jack Allen) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=181">record</a>)</li>
+<li>undated — Balmoral - Blue Lines (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

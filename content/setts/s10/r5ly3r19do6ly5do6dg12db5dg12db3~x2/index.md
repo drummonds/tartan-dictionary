@@ -2,18 +2,20 @@
 title: "Roscommon, County"
 date: 2023-03-18
 ---
-In pattern [BGBGBYBRYR](/stripes/bgbgbybryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5y3r19dr6y5dr6dg12db5dg12db3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBYBRYR](/stripes/bgbgbybryr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Roscommon, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546))
-- 1997 — Roscommon, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2246/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Roscommon, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3546">record</a>)</li>
+<li>1997 — Roscommon, County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2246/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

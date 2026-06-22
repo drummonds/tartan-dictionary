@@ -2,9 +2,10 @@
 title: "American National Fashion Tartan Tartan Number: 6882. Earliest known date: 01/01/2006 Designed by Erica Randall of The House of Edgar for Houston Kilts of Glasgow. Letter of appreciation on Scottish Tartans Authority file from President Bush thanking Ken MacDonald of Houston Kilts for 'the kilt outfit'./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRGBKKBW](/stripes/krgbkkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r3dg4db7k3dba39db15ln3/)
+(the same proportion at any scale), whose colour order is pattern [KRGBKKBW](/stripes/krgbkkbw/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6882
 

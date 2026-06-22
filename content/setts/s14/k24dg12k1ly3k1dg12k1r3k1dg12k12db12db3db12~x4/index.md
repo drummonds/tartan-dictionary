@@ -2,9 +2,10 @@
 title: "Gow Hunting #2"
 date: 2023-03-18
 ---
-In pattern [BBBKGKRKGKYKGK](/stripes/bbbkgkrkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k24g12k1y3k1g12k1r3k1g12k12b12db3b12/)
+(the same proportion at any scale), whose colour order is pattern [BBBKGKRKGKYKGK](/stripes/bbbkgkrkgkykgk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1475
 

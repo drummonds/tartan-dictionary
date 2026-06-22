@@ -2,9 +2,10 @@
 title: "Donegal"
 date: 2023-03-18
 ---
-In pattern [GGBGBBBRBR](/stripes/ggbgbbbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3g17b3g3b3dr5b18r2b8r2/)
+(the same proportion at any scale), whose colour order is pattern [GGBGBBBRBR](/stripes/ggbgbbbrbr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

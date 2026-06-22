@@ -2,9 +2,10 @@
 title: "Roseline"
 date: 2023-03-18
 ---
-In pattern [BGRBBYBBRGBW](/stripes/bgrbbybbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5g9r3b18dr80y3dr40b18r3g9b5ln2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBBYBBRGBW](/stripes/bgrbbybbrgbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5848
 

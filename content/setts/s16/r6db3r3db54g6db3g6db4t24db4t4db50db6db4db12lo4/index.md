@@ -2,9 +2,10 @@
 title: "St Margaret's School for Girls, Aberdeen"
 date: 2023-03-18
 ---
-In pattern [RBRBGBGBBBBBBBBY](/stripes/rbrbgbgbbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db3r3db54g6db3g6db4ba24b4ba4b50db6b4db12dy4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGBGBBBBBBBBY](/stripes/rbrbgbgbbbbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11333
 

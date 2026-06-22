@@ -2,9 +2,10 @@
 title: "Berwick Friendship"
 date: 2023-03-18
 ---
-In pattern [BKRYGBGBYKR](/stripes/bkrygbgbykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24k6r6y12g6b6g6b12y1k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRYGBGBYKR](/stripes/bkrygbgbykr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=256
 

@@ -2,9 +2,10 @@
 title: "Royal Air Force Lossiemouth"
 date: 2023-03-18
 ---
-In pattern [RBRBGBKGKY](/stripes/rbrbgbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3k5g2k20db8g3b18dr2b18n3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGBKGKY](/stripes/rbrbgbkgky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal Air Force Lossiemouth
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/1993 — Royal Air Force Lossiemouth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587))
-- 1993 — RAF Lossiemouth (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2188/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/1993 — Royal Air Force Lossiemouth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3587">record</a>)</li>
+<li>1993 — RAF Lossiemouth (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2188/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

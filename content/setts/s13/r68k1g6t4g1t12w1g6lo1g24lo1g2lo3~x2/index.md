@@ -2,9 +2,10 @@
 title: "Ellis Island American District Tartan Tartan Number: 10364. Earliest known date: 06/02/10 The Ellis Island tartan has been designed by Matt Newsome, curator of the Scottish Tartans Museum in Franklin, NC, primarily for use by all Americans with ancestors who came to America through Ellis Island regardless of ethnic origin and to commemorate the 10th annual observance of National Tartan Day at the Ellis Island Immigration Museum. It was commissioned by the Clan Currie Society who hold the copyright. Proceeds from the sale of the tartan will benefit the Save Ellis Island Foundation and the Clan Currie Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr68k1g6b4g1b12w1g6dy1g24dy1g2dy3/)
+(the same proportion at any scale), whose colour order is pattern [RKGBGBWGYGYGY](/stripes/rkgbgbwgygygy/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10364
 

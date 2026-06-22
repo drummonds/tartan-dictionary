@@ -2,9 +2,10 @@
 title: "Dundee Wallace Family Tartan Tartan Number: 1648. Earliest known date: 1819 Based on the design of a tartan Jacket said to have been worn by Prince Charles Edward Stuart at Culloden - earliest date 1746 - now preserved in the Scottish United Services Museum in Edinburgh Castle. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r52ln2g43y4ln2k2ln2y4k18b8ln2p8ln8p8ln2b8r10k3do2ra2r4/)
+(the same proportion at any scale), whose colour order is pattern [RRRKRBWBWBWBKYWKWYGWR](/stripes/rrrkrbwbwbwbkywkwygwr/).
 
-This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1648
 

@@ -2,9 +2,10 @@
 title: "Dundee (2003)"
 date: 2023-03-18
 ---
-In pattern [WKWWYWKWYGRKRY](/stripes/wkwwywkwygrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o35dr3k21dr3g21o6w3k3w3o6lb15w3k6w6/)
+(the same proportion at any scale), whose colour order is pattern [WKWWYWKWYGRKRY](/stripes/wkwwywkwygrkry/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1032
 

@@ -2,9 +2,10 @@
 title: "Chinzei Keiai Junior High School"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKWB](/stripes/bbkbkbkwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na3lp3k16na2k2na16k3na2n2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKWB](/stripes/bbkbkbkwb/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10920
 

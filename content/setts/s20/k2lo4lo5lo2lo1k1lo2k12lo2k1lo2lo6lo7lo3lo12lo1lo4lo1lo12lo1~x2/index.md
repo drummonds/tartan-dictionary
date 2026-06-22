@@ -2,9 +2,10 @@
 title: "Highland Aircraft"
 date: 2023-03-18
 ---
-In pattern [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2o4lg5oa2lg1k1lg2k12lg2k1lg2oa6o7oa3o12oa1lg4oa1lg12o1/)
+(the same proportion at any scale), whose colour order is pattern [KYYYYKYKYKYYYYYYYYYY](/stripes/kyyyykykykyyyyyyyyyy/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11006/
 

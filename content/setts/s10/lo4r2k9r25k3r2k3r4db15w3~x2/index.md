@@ -2,9 +2,10 @@
 title: "Golfers"
 date: 2023-03-18
 ---
-In pattern [WBRKRKRKRY](/stripes/wbrkrkrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o4r2k9r25k3r2k3r4b15ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBRKRKRKRY](/stripes/wbrkrkrkry/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

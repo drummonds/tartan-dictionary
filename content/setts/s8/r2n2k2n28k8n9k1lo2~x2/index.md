@@ -2,9 +2,10 @@
 title: "Highland Autumn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKY](/stripes/rbkbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2n2k2n28k8n9k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKY](/stripes/rbkbkbky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8694/
 

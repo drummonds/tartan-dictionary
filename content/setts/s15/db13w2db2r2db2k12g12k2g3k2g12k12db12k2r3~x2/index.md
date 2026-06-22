@@ -2,18 +2,20 @@
 title: "Scottish National"
 date: 2023-03-18
 ---
-In pattern [BWBRBKGKGKGKBKR](/stripes/bwbrbkgkgkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13ln2db2r2db2k12g12k2g3k2g12k12db12k2r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBKGKGKGKBKR](/stripes/bwbrbkgkgkgkbkr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Scottish National (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Scottish National District Tartan Tartan Number: 2154. Earliest known date: 1993 Designed originally for the Scottish National Party but now manufactured and sold without the political association. There is some similarity in the proportions of the sett to the National Tartan produced by the Scottish Woollen Manufacturers Association in 1934. The tartan has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2154))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Scottish National (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Scottish National District Tartan Tartan Number: 2154. Earliest known date: 1993 Designed originally for the Scottish National Party but now manufactured and sold without the political association. There is some similarity in the proportions of the sett to the National Tartan produced by the Scottish Woollen Manufacturers Association in 1934. The tartan has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2154">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/26 LN4 DB4 R4 DB4 K24 G24 K4 G6 K4 G24 K24 DB24 K4 R/6

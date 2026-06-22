@@ -2,9 +2,10 @@
 title: "Glasgow Islay, The"
 date: 2023-03-18
 ---
-In pattern [KGYBWYKW](/stripes/kgybwykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b50ba4p4w2lr2k3w2/)
+(the same proportion at any scale), whose colour order is pattern [KGYBWYKW](/stripes/kgybwykw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10217
 

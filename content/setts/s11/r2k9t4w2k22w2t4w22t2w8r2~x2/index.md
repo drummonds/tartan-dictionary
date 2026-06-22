@@ -2,9 +2,10 @@
 title: "MacRae, Dress"
 date: 2023-03-18
 ---
-In pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k9b4w2k22w2b4w22b2w8dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKBWKWBWBWR](/stripes/rkbwkwbwbwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacRae, Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1977 — MacRae, Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213))
-- 1977 — MacRae - 1977 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3570/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1977 — MacRae, Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5213">record</a>)</li>
+<li>1977 — MacRae - 1977 (Dress) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3570/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

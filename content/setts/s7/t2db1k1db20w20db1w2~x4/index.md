@@ -2,9 +2,10 @@
 title: "Cunningham, Dress Blue (Dance) Fashion Tartan Tartan Number: 4642. Earliest known date: 01/01/2002 Like so many of the invented 'Dance' tartans this one is not known by the relevant Clan Cunningham Association (USA). /Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKBWBW](/stripes/bbkbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2db1k1db20ln20db1ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBKBWBW](/stripes/bbkbwbw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4642
 

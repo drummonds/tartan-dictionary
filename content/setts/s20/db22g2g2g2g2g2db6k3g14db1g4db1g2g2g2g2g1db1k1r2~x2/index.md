@@ -2,18 +2,20 @@
 title: "Peter Pan"
 date: 2023-03-18
 ---
-In pattern [BGGGGGBKGBGBGGGGGBKR](/stripes/bgggggbkgbgbgggggbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22g2b2g2b2g2db6k3g14db1ga4db1g2ga2g2ga2g1db1k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGBKGBGBGGGGGBKR](/stripes/bgggggbkgbgbgggggbkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3330
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1998 — Peter Pan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3330))
-- pre 1998 — Peter Pan (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5505/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Peter Pan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3330">record</a>)</li>
+<li>pre 1998 — Peter Pan (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5505/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Great Glen (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBRBBBWBYBBBRBRB](/stripes/brbrbbbwbybbbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5nb4k4nb38n34k4n4na2n2y2n4k4n34nb38k4nb4k2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBBBWBYBBBRBRB](/stripes/brbrbbbwbybbbrbrb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8957/
 

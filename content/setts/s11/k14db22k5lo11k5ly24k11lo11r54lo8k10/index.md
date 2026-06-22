@@ -2,9 +2,10 @@
 title: "Derry County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKYKYKYRYK](/stripes/kbkykykyryk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14db22k5dy11k5y24k11dy11r54dy8k10/)
+(the same proportion at any scale), whose colour order is pattern [KBKYKYKYRYK](/stripes/kbkykykyryk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7442/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Derry County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Derry County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7442/))
-- 01/05/2005 — Derry County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5337))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Derry County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7442/">record</a>)</li>
+<li>01/05/2005 — Derry County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5337">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

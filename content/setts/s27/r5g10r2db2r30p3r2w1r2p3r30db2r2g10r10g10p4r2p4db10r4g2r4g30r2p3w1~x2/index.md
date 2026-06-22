@@ -2,9 +2,10 @@
 title: "MacDougall 9"
 date: 2023-03-18
 ---
-In pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g10r2b2r30p3r2ln1r2p3r30b2r2g10r10g10p4r2p4b10r4g2r4g30r2p3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRBRWRBRBRGRGBRBBRGRGRBW](/stripes/rgrbrbrwrbrbrgrgbrbbrgrgrbw/).
 
-This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

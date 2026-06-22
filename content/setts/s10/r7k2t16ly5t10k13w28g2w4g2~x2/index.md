@@ -2,9 +2,10 @@
 title: "Gillies, Blue dress"
 date: 2023-03-18
 ---
-In pattern [GWGWKBYBKR](/stripes/gwgwkbybkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7k2b16y5b10k13ln28g2ln4g2/)
+(the same proportion at any scale), whose colour order is pattern [GWGWKBYBKR](/stripes/gwgwkbybkr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gillies, Blue dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gillies, Blue dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gillies Blue Dress Clan Tartan Tartan Number: 934. Earliest known date: pre 2003 A name associated with Badenoch and the Hebrides. It means 'servant of Jesus'. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=934))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gillies, Blue dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gillies Blue Dress Clan Tartan Tartan Number: 934. Earliest known date: pre 2003 A name associated with Badenoch and the Hebrides. It means 'servant of Jesus'. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=934">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/14 K4 B32 Y10 B20 K26 LN56 G4 LN8 G/4

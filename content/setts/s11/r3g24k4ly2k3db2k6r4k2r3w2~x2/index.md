@@ -2,9 +2,10 @@
 title: "King George VI"
 date: 2023-03-18
 ---
-In pattern [RGKYKBKRKRW](/stripes/rgkykbkrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g24k4y2k3b2k6r4k2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGKYKBKRKRW](/stripes/rgkykbkrkrw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - King George VI Royal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — King George VI (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — King George VI Royal Family Tartan Tartan Number: 1484. Earliest known date: pre 2003 Reputed to be a tartan specifically woven for King Edward VII. In the possession of Miss K Roberts of Torquay. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1484))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — King George VI (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — King George VI Royal Family Tartan Tartan Number: 1484. Earliest known date: pre 2003 Reputed to be a tartan specifically woven for King Edward VII. In the possession of Miss K Roberts of Torquay. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1484">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 G48 K8 Y4 K6 B4 K12 R8 K4 R6 LN/4

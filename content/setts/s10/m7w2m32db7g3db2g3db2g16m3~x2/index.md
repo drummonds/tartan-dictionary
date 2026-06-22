@@ -2,9 +2,10 @@
 title: "Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r7ln2r32db7g3db2g3db2g16r3/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBGBRWR](/stripes/rgbgbgbrwr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1457
 

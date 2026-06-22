@@ -2,9 +2,10 @@
 title: "MacGuinness"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRWRKRKRKRWR](/stripes/rkrkrkrwrkrkrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do1ln5do1k1do1k1do1k1do1ln5do1k24do1k1do1k1do1/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRWRKRKRKRWR](/stripes/rkrkrkrwrkrkrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2463
 

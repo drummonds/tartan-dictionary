@@ -2,18 +2,20 @@
 title: "Wood Dress"
 date: 2023-03-18
 ---
-In pattern [KWKGKGBRGRGRGRGRBGKGKYK](/stripes/kwkgkgbrgrgrgrgrbgkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1y1k2g1k1g10b8r10g2r10g2r30g2r10g2r10b8g10k1g1k2w1k1/)
+(the same proportion at any scale), whose colour order is pattern [KWKGKGBRGRGRGRGRBGKGKYK](/stripes/kwkgkgbrgrgrgrgrbgkgkyk/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10359
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 28/10/2010 — Wood Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10359))
-- 28th Oct. 2010 — Wood Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10359/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/10/2010 — Wood Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10359">record</a>)</li>
+<li>28th Oct. 2010 — Wood Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10359/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

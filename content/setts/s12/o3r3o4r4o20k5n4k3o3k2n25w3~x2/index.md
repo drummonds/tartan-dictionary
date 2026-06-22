@@ -2,18 +2,20 @@
 title: "MacLellan of Gartbreck (Personal)"
 date: 2023-03-18
 ---
-In pattern [RRRRRKBKRKBW](/stripes/rrrrrkbkrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3n25k2na3k3n4k5na20dr4na4dr3na3/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRKBKRKBW](/stripes/rrrrrkbkrkbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7426/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec 2007 — MacLellan of Gartbreck (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7426/))
-- undated — MacLellan of Gartbreck (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5498))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec 2007 — MacLellan of Gartbreck (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7426/">record</a>)</li>
+<li>undated — MacLellan of Gartbreck (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5498">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

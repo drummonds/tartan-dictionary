@@ -2,18 +2,20 @@
 title: "Bird of Paradise (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BYGRGRGYBYRY](/stripes/bygrgrgybyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o28r3o3db5o3g3r3g12r3g3o6db3/)
+(the same proportion at any scale), whose colour order is pattern [BYGRGRGYBYRY](/stripes/bygrgrgybyry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3691/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1972 — Bird of Paradise (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3691/))
-- undated — Bird of Paradise (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4888))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1972 — Bird of Paradise (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3691/">record</a>)</li>
+<li>undated — Bird of Paradise (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4888">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

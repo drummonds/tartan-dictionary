@@ -2,9 +2,10 @@
 title: "Drumbeg"
 date: 2023-03-18
 ---
-In pattern [RBRBRRRRRRBR](/stripes/rbrbrrrrrrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt12n3lt3dn4lt16dr3lt3dr3lt3dr16dn52lt4/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRRRRRRBR](/stripes/rbrbrrrrrrbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=978
 

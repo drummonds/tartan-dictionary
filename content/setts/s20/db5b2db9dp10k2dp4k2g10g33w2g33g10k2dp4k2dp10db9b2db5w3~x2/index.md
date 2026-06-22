@@ -2,9 +2,10 @@
 title: "Inverclyde Green"
 date: 2023-03-18
 ---
-In pattern [BBBBKBKGGWGGKBKBBBBW](/stripes/bbbbkbkggwggkbkbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba5ba2dba9p10k2p4k2g10ga33w2ga33g10k2p4k2p10dba9ba2dba5w3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBKGGWGGKBKBBBBW](/stripes/bbbbkbkggwggkbkbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1839
 

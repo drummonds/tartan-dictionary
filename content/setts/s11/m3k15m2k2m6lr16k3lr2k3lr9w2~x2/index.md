@@ -2,9 +2,10 @@
 title: "Lunch with an Old Bag (Fundraising Committee)"
 date: 2023-03-18
 ---
-In pattern [RKRKRYKYKYW](/stripes/rkrkrykykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr3k15lr2k2lr6n16k3n2k3n9w2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRYKYKYW](/stripes/rkrkrykykyw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10917
 

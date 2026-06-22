@@ -2,9 +2,10 @@
 title: "MacIntyre of Littleport"
 date: 2023-03-18
 ---
-In pattern [BBRBRGRBRGRBRGRBRGRBR](/stripes/bbrbrgrbrgrbrgrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db21r3g7r7db8r3g21r3db3r3g21r3db8r6g7r3db21r3db3b1/)
+(the same proportion at any scale), whose colour order is pattern [BBRBRGRBRGRBRGRBRGRBR](/stripes/bbrbrgrbrgrbrgrbrgrbr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2486
 

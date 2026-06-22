@@ -2,9 +2,10 @@
 title: "Ghana"
 date: 2023-03-18
 ---
-In pattern [GKYKYKYKYKYKYKRKKKW](/stripes/gkykykykykykykrkkkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k1dy8k2dy1k2dy1k4dy1k2dy1k2dy8k1dr16k1b12k1ln4/)
+(the same proportion at any scale), whose colour order is pattern [GKYKYKYKYKYKYKRKKKW](/stripes/gkykykykykykykrkkkw/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5978
 

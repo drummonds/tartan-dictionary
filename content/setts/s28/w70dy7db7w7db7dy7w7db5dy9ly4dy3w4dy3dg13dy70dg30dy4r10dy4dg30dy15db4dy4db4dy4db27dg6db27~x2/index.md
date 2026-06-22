@@ -2,9 +2,10 @@
 title: "Unidentified Plaid #9"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGGGRGGGGGWGYGBWGBWBGW](/stripes/bgbgbgbgggrgggggwgygbwgbwbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln70t7b7ln7b7t7ln7b5t9y4t3ln4t3g13t70g30t4r10t4g30t15b4t4b4t4b27g6b27/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGGGRGGGGGWGYGBWGBWBGW](/stripes/bgbgbgbgggrgggggwgygbwgbwbgw/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4356
 

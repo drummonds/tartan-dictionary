@@ -2,9 +2,10 @@
 title: "Oceanic (Corporate?)"
 date: 2023-03-18
 ---
-In pattern [BKBKRKY](/stripes/bkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8k4n39k37db36k6db7/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKY](/stripes/bkbkrky/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8043/
 

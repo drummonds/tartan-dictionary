@@ -2,9 +2,10 @@
 title: "Portosalvo"
 date: 2023-03-18
 ---
-In pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5w1g32b1g8b9g2w2r3b3w1/)
+(the same proportion at any scale), whose colour order is pattern [GWGBGBGWRBW](/stripes/gwgbgbgwrbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10328
 

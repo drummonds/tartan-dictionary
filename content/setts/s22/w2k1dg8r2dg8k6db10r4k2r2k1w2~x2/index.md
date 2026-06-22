@@ -2,9 +2,10 @@
 title: "Hargis"
 date: 2023-03-18
 ---
-In pattern [KGRGKBRKRKWKRKRBKGRGKW](/stripes/kgrgkbrkrkwkrkrbkgrgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1g8r2g8k6db10r4k2r2k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [KGRGKBRKRKWKRKRBKGRGKW](/stripes/kgrgkbrkrkwkrkrbkgrgkw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5099
 

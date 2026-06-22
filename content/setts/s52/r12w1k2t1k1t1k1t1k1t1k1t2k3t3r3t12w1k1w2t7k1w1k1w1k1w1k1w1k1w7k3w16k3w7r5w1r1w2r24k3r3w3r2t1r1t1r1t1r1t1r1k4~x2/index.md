@@ -2,9 +2,10 @@
 title: "Mystery Tartan"
 date: 2023-03-18
 ---
-In pattern [KRBRBRBRBRWRKRWRWRWKWKWKWKWKWKWKBWKWBRBKBKBKBKBKBKWR](/stripes/krbrbrbrbrwrkrwrwrwkwkwkwkwkwkwkbwkwbrbkbkbkbkbkbkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12ln1k2b1k1b1k1b1k1b1k1b2k3b3r3b12ln1k1ln2b7k1ln1k1ln1k1ln1k1ln1k1ln7k3ln16k3ln7r5ln1r1ln2r24k3r3ln3r2b1r1b1r1b1r1b1r1k4/)
+(the same proportion at any scale), whose colour order is pattern [KRBRBRBRBRWRKRWRWRWKWKWKWKWKWKWKBWKWBRBKBKBKBKBKBKWR](/stripes/krbrbrbrbrwrkrwrwrwkwkwkwkwkwkwkbwkwbrbkbkbkbkbkbkwr/).
 
-This was sourced from register-of-tartans.  It is a [52 stripe tartan](/stripes/stripes52/).
+Sourced from register-of-tartans.  It is a [52 stripe tartan](/stripes/stripes52/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3087
 

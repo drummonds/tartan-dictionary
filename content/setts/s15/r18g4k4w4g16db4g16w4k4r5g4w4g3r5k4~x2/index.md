@@ -2,9 +2,10 @@
 title: "Gayre Bodyguard (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRGWGRKWGBGWKGR](/stripes/krgwgrkwgbgwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18g4k4ln4g16db4g16ln4k4r5g4ln4g3r5k4/)
+(the same proportion at any scale), whose colour order is pattern [KRGWGRKWGBGWKGR](/stripes/krgwgrkwgbgwkgr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1154/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Gayre Bodyguard #2
 - Gayre, Bodyguard
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1800? — Gayre Bodyguard (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1154/))
-- undated — Gayre Bodyguard #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322))
-- undated — Gayre, Bodyguard (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1800? — Gayre Bodyguard (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1154/">record</a>)</li>
+<li>undated — Gayre Bodyguard #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1322">record</a>)</li>
+<li>undated — Gayre, Bodyguard (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Bannockbane Grey #2"
 date: 2023-03-18
 ---
-In pattern [RGRGWYGY](/stripes/rgrgwygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2t2n15t2ln10lt15t2lt2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGWYGY](/stripes/rgrgwygy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=199
 

@@ -2,9 +2,10 @@
 title: "Caig (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WRBGYBY](/stripes/wrbgyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3r2p31g30y2p2y1/)
+(the same proportion at any scale), whose colour order is pattern [WRBGYBY](/stripes/wrbgyby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7352/
 

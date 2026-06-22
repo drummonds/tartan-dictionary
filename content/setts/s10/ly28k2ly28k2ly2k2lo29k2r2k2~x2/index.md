@@ -2,9 +2,10 @@
 title: "Ulster Irish District Tartan Tartan Number: 1196. Earliest known date: c.1590-1650 The Dungiven costume was discovered in 1956 by Mr William Dixon, a farmer at 'The Hill', Flanders Townland, Dungiven, County Derry, Northern Ireland. The tartan cloth was probably green but had been stained brown and tan by the peat. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKYKYKYKY](/stripes/krkykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y28k2y28k2y2k2lt29k2r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKYKYKY](/stripes/krkykykyky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1196
 

@@ -2,9 +2,10 @@
 title: "Ploysongsang, Edward Thiravej (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBYBWR](/stripes/rbybwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r34w4b7y10b7r18/)
+(the same proportion at any scale), whose colour order is pattern [RBYBWR](/stripes/rbybwr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11034
 

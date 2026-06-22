@@ -2,9 +2,10 @@
 title: "Coopers & Lybrand"
 date: 2023-03-18
 ---
-In pattern [BGRBBKGRBBK](/stripes/bgrbbkgrbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g4r1db18b4k2g16r1db6b4k2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBBKGRBBK](/stripes/bgrbbkgrbbk/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Ship Hector, The"
 date: 2023-03-18
 ---
-In pattern [BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba10yy5dba16g3w16g5w3g5w16g3dba16yy5dba10k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBGWGWGWGBKBK](/stripes/bkbgwgwgwgbkbk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3782
 

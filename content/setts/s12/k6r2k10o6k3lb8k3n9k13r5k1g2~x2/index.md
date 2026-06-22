@@ -2,9 +2,10 @@
 title: "Dilanan (Musselburgh) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKRKBKWKRKRK](/stripes/gkrkbkwkrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6dr2k10nb6k3na8k3n9k13dr5k1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKRKBKWKRKRK](/stripes/gkrkbkwkrkrk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8697/
 

@@ -2,9 +2,10 @@
 title: "Caledonian (WCWM)"
 date: 2023-03-18
 ---
-In pattern [RKRKYBRKRWR](/stripes/rkrkybrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4na2dr6k2dr6t16dy2k12n10k2n1/)
+(the same proportion at any scale), whose colour order is pattern [RKRKYBRKRWR](/stripes/rkrkybrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5257
 

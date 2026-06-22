@@ -2,9 +2,10 @@
 title: "Ferguson"
 date: 2023-03-18
 ---
-In pattern [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2db12r1k12g12k2g12k12r1db12g1/)
+(the same proportion at any scale), whose colour order is pattern [GBRKGKGKRBG](/stripes/gbrkgkgkrbg/).
 
-This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

@@ -2,9 +2,10 @@
 title: "Mulcahy"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGRGYW](/stripes/bkbkgrgrgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db66k2db10k15g15r4g15r4g30y2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGRGYW](/stripes/bkbkgrgrgyw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3041
 

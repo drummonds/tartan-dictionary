@@ -2,9 +2,10 @@
 title: "Ryukoku University Heian Junior Corporate Tartan Tartan Number: 10716. Earliest known date: 12 October 2012 This tartan represents the school's hope for its students' future. It is inspired by the colours of the clouds whilst the sun is rising. Beyond the clouds there is a light of hope which is purple. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBBYBYBYKR](/stripes/kbbybybykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp5k15n5na9n2p2n2p2na9k3/)
+(the same proportion at any scale), whose colour order is pattern [KBBYBYBYKR](/stripes/kbbybybykr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10716
 

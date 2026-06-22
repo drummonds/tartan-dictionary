@@ -2,9 +2,10 @@
 title: "Aggreko Shepherd (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBGKGWY](/stripes/wbgkgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o10w4dg30k22dg27n4lb2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKGWY](/stripes/wbgkgwy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7941/
 

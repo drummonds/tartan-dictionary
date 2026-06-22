@@ -2,9 +2,10 @@
 title: "Anderson Blue (Westwood)"
 date: 2023-03-18
 ---
-In pattern [RBRBRKYKYKWKBRKRBR](/stripes/rbrbrkykykwkbrkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4b5dr2b7dr10k4dy2k2dy2k4n4k4b18dr1k2dr1b4dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRKYKYKWKBRKRBR](/stripes/rbrbrkykykwkbrkrbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5174
 

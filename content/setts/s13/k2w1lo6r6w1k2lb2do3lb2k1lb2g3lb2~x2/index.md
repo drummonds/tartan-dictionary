@@ -2,9 +2,10 @@
 title: "Hovington (2014)"
 date: 2023-03-18
 ---
-In pattern [KWYRWKWBWKWGW](/stripes/kwyrwkwbwkwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w1y6r6w1k2lr2t3lr2k1lr2g3lr2/)
+(the same proportion at any scale), whose colour order is pattern [KWYRWKWBWKWGW](/stripes/kwyrwkwbwkwgw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11039
 

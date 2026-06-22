@@ -2,9 +2,10 @@
 title: "Mitchell (Clan)"
 date: 2023-03-18
 ---
-In pattern [KGKRBY](/stripes/kgkrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g17k16dr2db17n2/)
+(the same proportion at any scale), whose colour order is pattern [KGKRBY](/stripes/kgkrby/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3178/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Mitchell
 - U.S. Air Force Pipe Band
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1950 — Mitchell (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3178/))
-- 1950 — Milwaukee County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8961/))
-- 1968 — U.S. Air Force Pipe Band (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8962/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1950 — Mitchell (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3178/">record</a>)</li>
+<li>1950 — Milwaukee County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8961/">record</a>)</li>
+<li>1968 — U.S. Air Force Pipe Band (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8962/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G34 K32 DR4 DB34 N/4

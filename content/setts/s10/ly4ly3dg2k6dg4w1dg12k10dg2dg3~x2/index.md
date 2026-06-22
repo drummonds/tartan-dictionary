@@ -2,9 +2,10 @@
 title: "Noble (South Africa) (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGKGWGKGYY](/stripes/ggkgwgkgyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4dy3dg2k6g4w1dg12k10g2dg3/)
+(the same proportion at any scale), whose colour order is pattern [GGKGWGKGYY](/stripes/ggkgwgkgyy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10903
 

@@ -2,9 +2,10 @@
 title: "Institute of Directors (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp50ln4dp12db4dp10db8dp4db6dp4db10k12db5k42db6k12db10dp4db6dp4db8dp10db4dp12ln4/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBBBBKBKBKBBBBBBBBW](/stripes/bwbbbbbbbbkbkbkbbbbbbbbw/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7763/
 

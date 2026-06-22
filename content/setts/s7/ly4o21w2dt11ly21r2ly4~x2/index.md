@@ -2,9 +2,10 @@
 title: "Barbour - Muted"
 date: 2023-03-18
 ---
-In pattern [YRWBYRY](/stripes/yrwbyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4t21w2k11ya21dr2ya4/)
+(the same proportion at any scale), whose colour order is pattern [YRWBYRY](/stripes/yrwbyry/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8735/
 

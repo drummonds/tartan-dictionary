@@ -2,9 +2,10 @@
 title: "Bute Heather, Ancient Wth'd (Fashion"
 date: 2023-03-18
 ---
-In pattern [YBGBGBGBGYY](/stripes/ybgbgbgbgyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt5n2nb8n1nb8n4nb4n6nb18na1lt5/)
+(the same proportion at any scale), whose colour order is pattern [YBGBGBGBGYY](/stripes/ybgbgbgbgyy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7247/
 

@@ -2,9 +2,10 @@
 title: "Causeway, The (District)"
 date: 2023-03-18
 ---
-In pattern [BBBBBKGKBBBWBBK](/stripes/bbbbbkgkbbbwbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka38n8db3ka20n42k2g6k2n2p3n2w2db10n2k6/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKGKBBBWBBK](/stripes/bbbbbkgkbbbwbbk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10508/
 

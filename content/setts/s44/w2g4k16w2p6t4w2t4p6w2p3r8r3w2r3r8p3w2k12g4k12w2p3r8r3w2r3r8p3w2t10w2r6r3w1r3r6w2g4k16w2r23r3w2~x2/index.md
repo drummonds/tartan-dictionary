@@ -2,9 +2,10 @@
 title: "Aberdeen"
 date: 2023-03-18
 ---
-In pattern [WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW](/stripes/wgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwgkwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2g4k16ln2p6b4ln2b4p6ln2p3ra8r3ln2r3ra8p3ln2k12g4k12ln2p3ra8r3ln2r3ra8p3ln2b10ln2ra6r3ln1r3ra6ln2g4k16ln2ra23r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WGKWBBWBBWBRRWRRBWKGKWBRRWRRBWBWRRWRRWGKWRRW](/stripes/wgkwbbwbbwbrrwrrbwkgkwbrrwrrbwbwrrwrrwgkwrrw/).
 
-This was sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

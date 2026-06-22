@@ -2,9 +2,10 @@
 title: "Gray Hunting"
 date: 2023-03-18
 ---
-In pattern [KWGRRRRRRGKGRRRRRRGW](/stripes/kwgrrrrrrgkgrrrrrrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ln1g29n8p2n2p2n2p8g7k2/)
+(the same proportion at any scale), whose colour order is pattern [KWGRRRRRRGKGRRRRRRGW](/stripes/kwgrrrrrrgkgrrrrrrgw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1518
 

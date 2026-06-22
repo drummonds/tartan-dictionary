@@ -2,9 +2,10 @@
 title: "Harbour Town Hilton Head, The"
 date: 2023-03-18
 ---
-In pattern [BGBBBY](/stripes/bgbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3g11db3dr11db18lt3/)
+(the same proportion at any scale), whose colour order is pattern [BGBBBY](/stripes/bgbbby/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1592
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Harbour Town Hilton Head, The
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1994 — Harbour Town Hilton Head, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1592))
-- Jul. 1996 — Harbour Town (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2335/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1994 — Harbour Town Hilton Head, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1592">record</a>)</li>
+<li>Jul. 1996 — Harbour Town (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2335/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

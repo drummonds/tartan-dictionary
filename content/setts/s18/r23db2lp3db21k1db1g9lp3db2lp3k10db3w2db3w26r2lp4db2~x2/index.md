@@ -2,9 +2,10 @@
 title: "Cooper Dress (Dalgliesh #1)"
 date: 2023-03-18
 ---
-In pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r23db2lp3db21k1db1g9lp3db2lp3k10db3w2db3w26r2lp4db2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=752
 

@@ -2,18 +2,20 @@
 title: "Northern College (Ontario)"
 date: 2023-03-18
 ---
-In pattern [GBBGWYBYBR](/stripes/gbbgwybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga5db3b3ga5w4y2b1y2db1r1/)
+(the same proportion at any scale), whose colour order is pattern [GBBGWYBYBR](/stripes/gbbgwybybr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1983 — Northern College (Ontario) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160))
-- 1983 — Northern College (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/690/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1983 — Northern College (Ontario) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3160">record</a>)</li>
+<li>1983 — Northern College (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/690/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

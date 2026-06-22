@@ -2,9 +2,10 @@
 title: "Skarpathiotakis, George (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKYKYKBKBWBWB](/stripes/bkbkykykbkbwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k4db9k4y4k3y2k5db4k3db18w2db2w2db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYKYKBKBWBWB](/stripes/bkbkykykbkbwbwb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11605
 

@@ -2,18 +2,20 @@
 title: "Dalmagarry (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBRYRKRY](/stripes/wbryrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3r4k1r27lt14r4db15ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBRYRKRY](/stripes/wbryrkry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7723/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Dalmagarry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7723/))
-- undated — Dalmagarry (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5709))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Dalmagarry (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7723/">record</a>)</li>
+<li>undated — Dalmagarry (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5709">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

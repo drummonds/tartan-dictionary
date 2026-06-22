@@ -2,9 +2,10 @@
 title: "Galloway (Dance)"
 date: 2023-03-18
 ---
-In pattern [GRBWBR](/stripes/grbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b2w35b35r2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRBWBR](/stripes/grbwbr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4953/
 

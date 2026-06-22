@@ -2,9 +2,10 @@
 title: "Strathmore"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGBGBGBKBKY](/stripes/grgrgrgbgbgbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t3dr15ta2dr2ta2dr2ta18k2ta2k2ta2k27ka2k2ka6o2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGBGBGBKBKY](/stripes/grgrgrgbgbgbkbky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10118
 

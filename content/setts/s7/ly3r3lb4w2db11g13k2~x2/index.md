@@ -2,9 +2,10 @@
 title: "Kentucky, State of (District)"
 date: 2023-03-18
 ---
-In pattern [KGBWWRY](/stripes/kgbwwry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3r3n4w2db11g13k2/)
+(the same proportion at any scale), whose colour order is pattern [KGBWWRY](/stripes/kgbwwry/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2667/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kentucky, State of
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2000 — Kentucky, State of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2667/))
-- undated — Kentucky State American District Tartan Tartan Number: 2667. Earliest known date: 2000 Designed by Rupert Furgerson and Pat Murray-Schweitzer. On April 20th 2000, Gov. Paul Patton of the Commonwealth of Kentucky signed a proclamation establishing this new statewide Kentucky Tartan. Adopted by House Resolution No. 52 and Senate Resolution No. 27. January 19, 2000. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2667))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2000 — Kentucky, State of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2667/">record</a>)</li>
+<li>undated — Kentucky State American District Tartan Tartan Number: 2667. Earliest known date: 2000 Designed by Rupert Furgerson and Pat Murray-Schweitzer. On April 20th 2000, Gov. Paul Patton of the Commonwealth of Kentucky signed a proclamation establishing this new statewide Kentucky Tartan. Adopted by House Resolution No. 52 and Senate Resolution No. 27. January 19, 2000. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2667">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LG/6 R6 N8 W4 DB22 G26 K/4

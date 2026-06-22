@@ -2,9 +2,10 @@
 title: "Kirk in the Hills Corporate Tartan Tartan Number: 2318. Earliest known date: 1997 Kirk in the Hills, Bloomfield Hills, Michigan celebrating its 50th anniversary in Nov. 1997. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKYKBBRKRRRKRBBKYKB](/stripes/bbkykbbrkrrrkrbbkykb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32db12k2y2k2db2b8dr63k2r2dr9/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKBBRKRRRKRBBKYKB](/stripes/bbkykbbrkrrrkrbbkykb/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2318
 

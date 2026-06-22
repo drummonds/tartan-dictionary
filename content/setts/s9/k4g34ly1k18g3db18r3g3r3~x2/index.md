@@ -2,9 +2,10 @@
 title: "John.W.Mackay, Restricted"
 date: 2023-03-18
 ---
-In pattern [KGYKGBRGR](/stripes/kgykgbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4g34y1k18g3b18r3g3r3/)
+(the same proportion at any scale), whose colour order is pattern [KGYKGBRGR](/stripes/kgykgbrgr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

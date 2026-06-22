@@ -2,9 +2,10 @@
 title: "Delmarva"
 date: 2023-03-18
 ---
-In pattern [BRBYBYBYBRBRBRBYBRBYBRBYBRBYB](/stripes/brbybybybrbrbrbybrbybrbybrbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8dr2n2na1n1na1n1na1n2dr2n6lt1n12lt1n6na1n1lta4n1na1n2dr3n3na1n1lta2n1na1n8/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBYBYBRBRBRBYBRBYBRBYBRBYB](/stripes/brbybybybrbrbrbybrbybrbybrbyb/).
 
-This was sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from register-of-tartans.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10158
 

@@ -2,9 +2,10 @@
 title: "Campbell #2"
 date: 2023-03-18
 ---
-In pattern [BKBKGKWKGKWKWKWKWKWKGKYKGK](/stripes/bkbkgkwkgkwkwkwkwkwkgkykgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k11g15k2y3k2g15k11ln5k5ln19k2ln5k2ln19k5ln5k11g15k2ln3k2g15k11b11k3b11/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKWKWKWKWKWKGKYKGK](/stripes/bkbkgkwkgkwkwkwkwkwkgkykgk/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=503
 

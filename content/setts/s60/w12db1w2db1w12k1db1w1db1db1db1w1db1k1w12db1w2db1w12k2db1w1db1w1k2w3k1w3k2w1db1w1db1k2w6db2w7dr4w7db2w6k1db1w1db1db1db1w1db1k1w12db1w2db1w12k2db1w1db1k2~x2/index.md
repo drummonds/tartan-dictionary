@@ -2,9 +2,10 @@
 title: "Takla Makan (Artefact)"
 date: 2023-03-18
 ---
-In pattern [KBWBKWBWBWKBWBBBWBKWBWBWBWKBWBWKWKWKWBWBKWBWBWKBWBBBWBKWBWBW](/stripes/kbwbkwbwbwkbwbbbwbkwbwbwbwkbwbwkwkwkwbwbkwbwbwkbwbbbwbkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w12db1w2db1w12k1db1w1db1dba1db1w1db1k1w12db1w2db1w12k2db1w1db1w1k2w3k1w3k2w1db1w1db1k2w6dbb2w7dr4w7dbb2w6k1db1w1db1dba1db1w1db1k1w12db1w2db1w12k2db1w1db1k2/)
+(the same proportion at any scale), whose colour order is pattern [KBWBKWBWBWKBWBBBWBKWBWBWBWKBWBWKWKWKWBWBKWBWBWKBWBBBWBKWBWBW](/stripes/kbwbkwbwbwkbwbbbwbkwbwbwbwkbwbwkwkwkwbwbkwbwbwkbwbbbwbkwbwbw/).
 
-This was sourced from tartans-authority.  It is a [60 stripe tartan](/stripes/stripes60/).
+Sourced from tartans-authority.  It is a [60 stripe tartan](/stripes/stripes60/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5156/
 

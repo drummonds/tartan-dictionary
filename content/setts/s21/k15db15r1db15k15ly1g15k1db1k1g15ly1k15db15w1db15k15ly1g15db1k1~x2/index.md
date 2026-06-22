@@ -2,9 +2,10 @@
 title: "Perthshire Highland Society (Corp)"
 date: 2023-03-18
 ---
-In pattern [KBGYKBWBKYGKBKGYKBRBK](/stripes/kbgykbwbkygkbkgykbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15db15r1db15k15y1g15k1db1k1g15y1k15db15ln1db15k15y1g15db1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBGYKBWBKYGKBKGYKBRBK](/stripes/kbgykbwbkygkbkgykbrbk/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6372/
 

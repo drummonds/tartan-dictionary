@@ -2,9 +2,10 @@
 title: "Schuster (Perosnal)"
 date: 2023-03-18
 ---
-In pattern [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1ln1g39r2ln3b13ln3dr2r1dr2ln1/)
+(the same proportion at any scale), whose colour order is pattern [GWGRWBWBRBW](/stripes/gwgrwbwbrbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10417/
 

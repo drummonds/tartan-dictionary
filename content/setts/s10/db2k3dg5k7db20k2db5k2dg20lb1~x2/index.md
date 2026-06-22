@@ -2,9 +2,10 @@
 title: "Pitceathly Chamberlain Tartan Tartan Number: 10190. Earliest known date: 2010 Designed for the 80th birthday of Sophia Joan Chamberlain nee Pitceathly for her own use and that of her immediate family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k3dg5k7db20k2db5k2dg20n1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10190
 

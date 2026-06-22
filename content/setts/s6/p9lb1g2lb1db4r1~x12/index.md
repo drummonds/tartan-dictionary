@@ -2,18 +2,20 @@
 title: "McIntosh, Georgina (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWGWBR](/stripes/bwgwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p9lb1g2lb1db4r1/)
+(the same proportion at any scale), whose colour order is pattern [BWGWBR](/stripes/bwgwbr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2003 — McIntosh, Georgina (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889))
-- pre 2007 — McIntosh, Georgina (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7382/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2003 — McIntosh, Georgina (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2889">record</a>)</li>
+<li>pre 2007 — McIntosh, Georgina (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7382/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

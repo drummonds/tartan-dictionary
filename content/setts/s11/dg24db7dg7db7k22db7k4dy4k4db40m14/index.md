@@ -2,9 +2,10 @@
 title: "Brethwe Powys"
 date: 2023-03-18
 ---
-In pattern [GBGBKBKGKBR](/stripes/gbgbkbkgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg24b7dg7b7db22b7db4t4db4b40dr14/)
+(the same proportion at any scale), whose colour order is pattern [GBGBKBKGKBR](/stripes/gbgbkbkgkbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5846
 

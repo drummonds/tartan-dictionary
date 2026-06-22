@@ -2,9 +2,10 @@
 title: "St. Patrick"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGYGWGWGWGW](/stripes/gwgwgwgwgygwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/wa13ga3wa4ga3wa3ga40wa3ga2y4ga2wa3ga40wa3ga3wa4ga3wa13ga4/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGYGWGWGWGW](/stripes/gwgwgwgwgygwgwgwgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3902
 

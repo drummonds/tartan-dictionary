@@ -2,18 +2,20 @@
 title: "MacKenzie Morgan"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRWRGKBRB](/stripes/bkbkbkgrwrgkbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2db2k12g12r2w2r2g12k12db12r3db2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRWRGKBRB](/stripes/bkbkbkgrwrgkbrb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2003 — MacKenzie Morgan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530))
-- Oct 2003 — MacKenzie Morgan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6068/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2003 — MacKenzie Morgan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2530">record</a>)</li>
+<li>Oct 2003 — MacKenzie Morgan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6068/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Fitzgerald Dress"
 date: 2023-03-18
 ---
-In pattern [WKRBRRRRRBRBYGRBRRRRRBRKW](/stripes/wkrbrrrrrbrbygrbrrrrrbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1r3db3r3dr3r19dr3r3db3r3db29lg3g29r3db3r3dr3r19dr3r3db3r3k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKRBRRRRRBRBYGRBRRRRRBRKW](/stripes/wkrbrrrrrbrbygrbrrrrrbrkw/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1195
 

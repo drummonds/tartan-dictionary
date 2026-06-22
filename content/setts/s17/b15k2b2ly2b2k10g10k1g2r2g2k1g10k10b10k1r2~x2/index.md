@@ -2,9 +2,10 @@
 title: "Murray, Tony (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBYBKGKGRGKGKBKR](/stripes/bkbybkgkgrgkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b15k2b2y2b2k10g10k1g2r2g2k1g10k10b10k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBYBKGKGRGKGKBKR](/stripes/bkbybkgkgrgkgkbkr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8820/
 

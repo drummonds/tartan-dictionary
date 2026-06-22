@@ -2,9 +2,10 @@
 title: "Dark Lochnagar"
 date: 2023-03-18
 ---
-In pattern [BRBBBRBRRR](/stripes/brbbbrbrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn6n1dn40na1dn12n12na6n2r2n4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBRBRRR](/stripes/brbbbrbrrr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=890
 

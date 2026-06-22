@@ -2,9 +2,10 @@
 title: "Holmes"
 date: 2023-03-18
 ---
-In pattern [GYGRGRGBKBKBGYGBKBKBGRGRGYGR](/stripes/gygrgrgbkbkbgygbkbkbgrgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4g39db9k3db5k3db9g32r2g3r2g5y2g3r3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGRGBKBKBGYGBKBKBGRGRGYGR](/stripes/gygrgrgbkbkbgygbkbkbgrgrgygr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1752
 

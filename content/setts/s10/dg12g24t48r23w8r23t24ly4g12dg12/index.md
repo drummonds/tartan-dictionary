@@ -2,9 +2,10 @@
 title: "Swiss Highlander (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGBRWRBYGG](/stripes/ggbrwrbygg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12g24b48r23ln8r23b24y4g12dg12/)
+(the same proportion at any scale), whose colour order is pattern [GGBRWRBYGG](/stripes/ggbrwrbygg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10123/
 

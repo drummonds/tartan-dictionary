@@ -2,9 +2,10 @@
 title: "Gordon Dress Tartan Tartan Number: 294. Earliest known date: pre 2003 No source given See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k4db10k10g13y3g13k10ln4db4ln16db2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=294
 

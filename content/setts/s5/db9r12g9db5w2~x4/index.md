@@ -2,9 +2,10 @@
 title: "Battle of Prestonpans (1745) Heritage Trust, The"
 date: 2023-03-18
 ---
-In pattern [BRGBW](/stripes/brgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9r12g9b5w2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBW](/stripes/brgbw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10841
 

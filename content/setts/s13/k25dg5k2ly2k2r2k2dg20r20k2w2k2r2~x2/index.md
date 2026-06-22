@@ -2,9 +2,10 @@
 title: "Quebec, Plaid du (District)"
 date: 2023-03-18
 ---
-In pattern [KGKYKRKGRKWKR](/stripes/kgkykrkgrkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25dg5db2dy2k2r2db2dg20r20k2ln2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [KGKYKRKGRKWKR](/stripes/kgkykrkgrkwkr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1949/
 

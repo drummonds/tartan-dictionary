@@ -2,9 +2,10 @@
 title: "Hunnisett/Edinchip (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBKGYGKRKRKRKGYGKBW](/stripes/bwbkgygkrkrkrkgygkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db38ln2db2k10g2y2g22k3r3k3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGYGKRKRKRKGYGKBW](/stripes/bwbkgygkrkrkrkgygkbw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1786
 

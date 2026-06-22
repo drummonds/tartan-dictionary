@@ -2,18 +2,20 @@
 title: "Northern Ontario (District)"
 date: 2023-03-18
 ---
-In pattern [GYBWBYR](/stripes/gybwbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r19n5b2w12b2dy4g8/)
+(the same proportion at any scale), whose colour order is pattern [GYBWBYR](/stripes/gybwbyr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/956/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1959 — Northern Ontario (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/956/))
-- 01/01/2002 — Ontario, Northern (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3255))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1959 — Northern Ontario (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/956/">record</a>)</li>
+<li>01/01/2002 — Ontario, Northern (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3255">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

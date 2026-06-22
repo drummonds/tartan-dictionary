@@ -2,9 +2,10 @@
 title: "South Carolina, University of"
 date: 2023-03-18
 ---
-In pattern [RWRKRWKRWR](/stripes/rwrkrwkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4w4dr3k8w3dr3k20dr40w2dr4/)
+(the same proportion at any scale), whose colour order is pattern [RWRKRWKRWR](/stripes/rwrkrwkrwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10998
 

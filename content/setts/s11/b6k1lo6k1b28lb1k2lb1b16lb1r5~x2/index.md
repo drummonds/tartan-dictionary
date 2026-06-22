@@ -2,9 +2,10 @@
 title: "Caledonian Railway (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1dy6k1b28lr1k2lr1b16lr1r5/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10590/
 

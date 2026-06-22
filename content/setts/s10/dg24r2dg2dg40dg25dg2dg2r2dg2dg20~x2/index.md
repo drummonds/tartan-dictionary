@@ -2,9 +2,10 @@
 title: "Donachie of Brockloch Hunting Clan Tartan Tartan Number: 3002. Earliest known date: 2004 Based on the Robertson sett No. 893 with red changed to green. The Donachie's are part of the Robertson clan, also known as Clan Donnachaidh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGRGGGGGRG](/stripes/ggrgggggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24dr2g2dg40g25dg2g2dr2g2dg20/)
+(the same proportion at any scale), whose colour order is pattern [GGRGGGGGRG](/stripes/ggrgggggrg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3002
 

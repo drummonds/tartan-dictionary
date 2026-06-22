@@ -2,9 +2,10 @@
 title: "Battle of Prestonpans (1745) Herit"
 date: 2023-03-18
 ---
-In pattern [BRGBW](/stripes/brgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9r12g9db5w2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBW](/stripes/brgbw/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10841/
 

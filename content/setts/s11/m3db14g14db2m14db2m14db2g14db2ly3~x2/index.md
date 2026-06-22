@@ -2,9 +2,10 @@
 title: "Clare"
 date: 2023-03-18
 ---
-In pattern [RBGBRBRBGBY](/stripes/rbgbrbrbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3db14g14db2dr14db2dr14db2ga14db2y3/)
+(the same proportion at any scale), whose colour order is pattern [RBGBRBRBGBY](/stripes/rbgbrbrbgby/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

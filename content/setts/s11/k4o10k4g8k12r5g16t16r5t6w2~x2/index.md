@@ -2,9 +2,10 @@
 title: "Manderson Family Tartan Tartan Number: 2230. Earliest known date: 1993 A Family Tartan designed for Mr N. Manderson of Edinburgh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KRKGKRGBRBW](/stripes/krkgkrgbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n10k4g8k12dr5g16ba16dr5ba6ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKRGBRBW](/stripes/krkgkrgbrbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2230
 

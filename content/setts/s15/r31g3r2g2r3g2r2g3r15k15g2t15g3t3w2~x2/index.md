@@ -2,9 +2,10 @@
 title: "Moir (Loch Insch) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRGRKGBGBW](/stripes/rgrgrgrgrkgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r31g3r2g2r3g2r2g3r15k15g2b15g3b3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRGRKGBGBW](/stripes/rgrgrgrgrkgbgbw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10326/
 

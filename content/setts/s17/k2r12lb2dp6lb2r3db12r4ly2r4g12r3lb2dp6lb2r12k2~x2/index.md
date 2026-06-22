@@ -2,9 +2,10 @@
 title: "Haughdale"
 date: 2023-03-18
 ---
-In pattern [KRWBWRBRYRGRWBWRK](/stripes/krwbwrbryrgrwbwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dr12n2p6n2dr3db12dr4y2dr4g12dr3n2p6n2dr12k2/)
+(the same proportion at any scale), whose colour order is pattern [KRWBWRBRYRGRWBWRK](/stripes/krwbwrbryrgrwbwrk/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1624
 

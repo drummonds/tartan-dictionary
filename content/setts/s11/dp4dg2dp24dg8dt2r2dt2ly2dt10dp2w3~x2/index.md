@@ -2,18 +2,20 @@
 title: "McCartney (Day)"
 date: 2023-03-18
 ---
-In pattern [BGBGBRBYBBW](/stripes/bgbgbrbybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4dg2p24dg8db2r2db2y2db10p2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRBYBBW](/stripes/bgbgbrbybbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2875
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/1997 — McCartney (Day) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2875))
-- June 1997 — McCartney (Day) (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2593/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/1997 — McCartney (Day) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2875">record</a>)</li>
+<li>June 1997 — McCartney (Day) (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2593/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

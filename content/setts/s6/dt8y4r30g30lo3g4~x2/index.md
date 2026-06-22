@@ -2,9 +2,10 @@
 title: "Hutcheson (Name)"
 date: 2023-03-18
 ---
-In pattern [BGRGYG](/stripes/bgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8lg4r30g30o3g4/)
+(the same proportion at any scale), whose colour order is pattern [BGRGYG](/stripes/bgrgyg/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3808/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Hutcheson Clan/Family
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2000 — Hutcheson (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3808/))
-- undated — Hutcheson Clan/Family Tartan Tartan Number: 3808. Earliest known date: 2000 After 46 years in the Scottish Textile industry and there being no Hutcheson tartan, Colin Hutcheson decided to produce this design to mark his and four generations of his family's involvement in spinning, weaving, knitting and clothing manufacture in Edinburgh and the Scottish Borders. The design is based on Douglas which is traditionally the closest clan to Hawick where he started his career in 1956. The colours were assembled from some of the most successful shades in the Johnstons of Elgin colour palette. Cloth can be obtained from Johnstons of Elgin. Any related names are welcome to wear the tartan - Hutcheon, Hutchison, Hutchieson, Hutchenson, Hutchinson, Hughson, MacCutcheon, MacCutchin, MacCutchan, MacCuthan, MacCutheon, MacCuthon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3808))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2000 — Hutcheson (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3808/">record</a>)</li>
+<li>undated — Hutcheson Clan/Family Tartan Tartan Number: 3808. Earliest known date: 2000 After 46 years in the Scottish Textile industry and there being no Hutcheson tartan, Colin Hutcheson decided to produce this design to mark his and four generations of his family's involvement in spinning, weaving, knitting and clothing manufacture in Edinburgh and the Scottish Borders. The design is based on Douglas which is traditionally the closest clan to Hawick where he started his career in 1956. The colours were assembled from some of the most successful shades in the Johnstons of Elgin colour palette. Cloth can be obtained from Johnstons of Elgin. Any related names are welcome to wear the tartan - Hutcheon, Hutchison, Hutchieson, Hutchenson, Hutchinson, Hughson, MacCutcheon, MacCutchin, MacCutchan, MacCuthan, MacCutheon, MacCuthon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3808">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/16 LG8 R60 G60 O6 G/8

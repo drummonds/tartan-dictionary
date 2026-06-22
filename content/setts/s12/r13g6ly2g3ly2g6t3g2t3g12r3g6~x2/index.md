@@ -2,9 +2,10 @@
 title: "O'Brien"
 date: 2023-03-18
 ---
-In pattern [GRGBGBGYGYGR](/stripes/grgbgbgygygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o13g6y2g3y2g6b3g2b3g12r3g6/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGBGYGYGR](/stripes/grgbgbgygygr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

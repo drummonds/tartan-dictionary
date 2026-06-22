@@ -2,9 +2,10 @@
 title: "Vassseur Mignon ({Personal)"
 date: 2023-03-18
 ---
-In pattern [RYRYGRGBGRY](/stripes/ryrygrgbgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2y2r2y2g5na5g11n11g5na11y2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYGRGBGRY](/stripes/ryrygrgbgry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10808/
 

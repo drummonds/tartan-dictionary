@@ -2,9 +2,10 @@
 title: "7th Cavalry (Military)"
 date: 2023-03-18
 ---
-In pattern [BWGYWYGWRWBBGBBWR](/stripes/bwgywygwrwbbgbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n31w2g2y1w1y1g2w1r5w2n3p2g1p2n3w2r2/)
+(the same proportion at any scale), whose colour order is pattern [BWGYWYGWRWBBGBBWR](/stripes/bwgywygwrwbbgbbwr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/644/
 

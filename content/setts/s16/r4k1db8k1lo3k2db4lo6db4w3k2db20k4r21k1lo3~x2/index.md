@@ -2,9 +2,10 @@
 title: "Westmeath County Crest (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKBKYKBYBWKBKRKY](/stripes/rkbkykbybwkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4k1db8k1dy3k2db4dy6db4ln3k2db20k4dr21k1dy3/)
+(the same proportion at any scale), whose colour order is pattern [RKBKYKBYBWKBKRKY](/stripes/rkbkykbybwkbkrky/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7434/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Westmeath County, Crest Range
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Westmeath County Crest (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7434/))
-- 01/05/2005 — Westmeath County, Crest Range (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5398))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Westmeath County Crest (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7434/">record</a>)</li>
+<li>01/05/2005 — Westmeath County, Crest Range (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5398">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

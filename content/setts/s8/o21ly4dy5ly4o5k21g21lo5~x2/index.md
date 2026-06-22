@@ -2,9 +2,10 @@
 title: "Labrador Club of Scotland (Corporate"
 date: 2023-03-18
 ---
-In pattern [RYGYRKGY](/stripes/rygyrkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp21lt4t5lt4lp5k21g21dy5/)
+(the same proportion at any scale), whose colour order is pattern [RYGYRKGY](/stripes/rygyrkgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8262/
 

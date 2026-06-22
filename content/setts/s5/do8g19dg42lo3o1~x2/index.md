@@ -2,9 +2,10 @@
 title: "Nolan Family, John J (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGYR](/stripes/bggyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka8lg19k42y3r1/)
+(the same proportion at any scale), whose colour order is pattern [BGGYR](/stripes/bggyr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10542
 

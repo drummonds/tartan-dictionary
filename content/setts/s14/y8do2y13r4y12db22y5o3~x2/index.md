@@ -2,9 +2,10 @@
 title: "Kildare, County"
 date: 2023-03-18
 ---
-In pattern [BGRGBGRGBGRGBG](/stripes/bgrgbgrgbgrgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8t2n13dr4n12db22n5do3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBGRGBGRGBG](/stripes/bgrgbgrgbgrgbg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1965
 

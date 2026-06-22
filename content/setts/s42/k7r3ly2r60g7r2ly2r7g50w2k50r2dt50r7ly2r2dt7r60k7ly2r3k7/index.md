@@ -2,9 +2,10 @@
 title: "Hay & Leith #2"
 date: 2023-03-18
 ---
-In pattern [KRYRGRYRGWKRBRYRBRKYRKRYKRBRYRBRKWGRYRGRYR](/stripes/kryrgryrgwkrbryrbrkyrkrykrbryrbrkwgryrgryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7r3y2r60g7r2y2r7g50w2k50r2dba50r7y2r2dba7r60k7y2r3k7/)
+(the same proportion at any scale), whose colour order is pattern [KRYRGRYRGWKRBRYRBRKYRKRYKRBRYRBRKWGRYRGRYR](/stripes/kryrgryrgwkrbryrbrkyrkrykrbryrbrkwgryrgryr/).
 
-This was sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
+Sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1632
 

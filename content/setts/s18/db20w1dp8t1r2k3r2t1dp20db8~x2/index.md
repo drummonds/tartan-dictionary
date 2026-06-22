@@ -2,9 +2,10 @@
 title: "Custer Personal Tartan Tartan Number: 6421. Earliest known date: 2004 For the wedding of Patrick Custer and Eliabeth Hull See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBBRKRBBBBBRKRBBW](/stripes/bwbbrkrbbbbbrkrbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20ln1p8b1r2k3r2b1p20db8/)
+(the same proportion at any scale), whose colour order is pattern [BWBBRKRBBBBBRKRBBW](/stripes/bwbbrkrbbbbbrkrbbw/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6421
 

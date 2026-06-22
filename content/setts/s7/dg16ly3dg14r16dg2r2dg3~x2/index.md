@@ -2,9 +2,10 @@
 title: "Scott Autumn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRGRGYG](/stripes/grgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16dy3g14dr16g2dr2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGYG](/stripes/grgrgyg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5374/
 

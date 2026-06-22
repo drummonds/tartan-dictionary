@@ -2,9 +2,10 @@
 title: "Hunter"
 date: 2023-03-18
 ---
-In pattern [WRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/stripes/wrwbwkgwbwgwrwggyrwryggggggwbwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r8ln2k15ln2b5ln2ga20g2ga4g2ga20g3y3r2ln2r2y3g3ga20ln2r32ln2ga20ln2b5ln2g4k15ln2b5ln2r8ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/stripes/wrwbwkgwbwgwrwggyrwryggggggwbwkwrw/).
 
-This was sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from weddslist.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

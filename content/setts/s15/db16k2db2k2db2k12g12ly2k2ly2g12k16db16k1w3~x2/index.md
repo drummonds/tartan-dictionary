@@ -2,9 +2,10 @@
 title: "Dyce"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYKYGKBKW](/stripes/bkbkbkgykygkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16k2b2k2b2k12g12y2k2y2g12k16b16k1ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYKYGKBKW](/stripes/bkbkbkgykygkbkw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

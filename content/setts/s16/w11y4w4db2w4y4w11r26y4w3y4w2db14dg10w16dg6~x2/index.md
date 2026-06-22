@@ -2,9 +2,10 @@
 title: "Stuart-Houghton Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWGBWGWGRWGWBWGW](/stripes/gwgbwgwgrwgwbwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly11n4ly4db2ly4n4ly11r26n4ly3n4ly2db14dg10ly16dg6/)
+(the same proportion at any scale), whose colour order is pattern [GWGBWGWGRWGWBWGW](/stripes/gwgbwgwgrwgwbwgw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11085
 

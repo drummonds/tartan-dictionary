@@ -2,9 +2,10 @@
 title: "Inches, of Perth"
 date: 2023-03-18
 ---
-In pattern [RYKBRRKBY](/stripes/rykbrrkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt44y2k4p2lt15dr6k3b3y2/)
+(the same proportion at any scale), whose colour order is pattern [RYKBRRKBY](/stripes/rykbrrkby/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

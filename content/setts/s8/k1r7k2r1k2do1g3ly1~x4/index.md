@@ -2,9 +2,10 @@
 title: "Craigmoor (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRKRKBGY](/stripes/krkrkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r7k2r1k2dr1g3y1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKBGY](/stripes/krkrkbgy/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8087/
 

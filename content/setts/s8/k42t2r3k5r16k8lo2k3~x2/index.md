@@ -2,9 +2,10 @@
 title: "Highland Brewing Company (USA)"
 date: 2023-03-18
 ---
-In pattern [KBRKRKYK](/stripes/kbrkrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k42b2r3k5r16k8y2k3/)
+(the same proportion at any scale), whose colour order is pattern [KBRKRKYK](/stripes/kbrkrkyk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10939
 

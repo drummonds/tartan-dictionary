@@ -2,9 +2,10 @@
 title: "Rankin Grey (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n14na1n1na1n1na9k6r1n5w1n5r1k6na9r1n5r2n2r1n2w1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKRBWBRKRRBRBRBW](/stripes/brbrbrkrbwbrkrrbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8522/
 

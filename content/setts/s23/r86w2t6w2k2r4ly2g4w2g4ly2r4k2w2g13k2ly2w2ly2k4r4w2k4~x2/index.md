@@ -2,9 +2,10 @@
 title: "MacLeod of Gesto (Clan)"
 date: 2023-03-18
 ---
-In pattern [KWRKYWYKGWKRYGWGYRKWBWR](/stripes/kwrkywykgwkrygwgyrkwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r86ln2b6ln2k2r4y2g4ln2g4y2r4k2ln2g13k2y2ln2y2k4r4ln2k4/)
+(the same proportion at any scale), whose colour order is pattern [KWRKYWYKGWKRYGWGYRKWBWR](/stripes/kwrkywykgwkrygwgyrkwbwr/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1258/
 

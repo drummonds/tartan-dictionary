@@ -2,9 +2,10 @@
 title: "Kildare County, Crest Range"
 date: 2023-03-18
 ---
-In pattern [BRWKBKRKGKR](/stripes/brwkbkrkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o40k5g48k5dr20k5n14k10ln4dr28n10/)
+(the same proportion at any scale), whose colour order is pattern [BRWKBKRKGKR](/stripes/brwkbkrkgkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5918
 

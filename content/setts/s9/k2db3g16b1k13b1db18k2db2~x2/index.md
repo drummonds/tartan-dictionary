@@ -2,9 +2,10 @@
 title: "Hebridean Old"
 date: 2023-03-18
 ---
-In pattern [BKBBKBGBK](/stripes/bkbbkbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ba3g16b1k13b1ba18k2ba2/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKBGBK](/stripes/bkbbkbgbk/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

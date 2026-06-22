@@ -2,9 +2,10 @@
 title: "Purple Thistle"
 date: 2023-03-18
 ---
-In pattern [BWRWRWRWRWRWRWYWB](/stripes/bwrwrwrwrwrwrwywb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3w15r12lp1r1lp1r1lp1r1lp1r1lp1r1lp3n3lp15p3/)
+(the same proportion at any scale), whose colour order is pattern [BWRWRWRWRWRWRWYWB](/stripes/bwrwrwrwrwrwrwywb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11321
 

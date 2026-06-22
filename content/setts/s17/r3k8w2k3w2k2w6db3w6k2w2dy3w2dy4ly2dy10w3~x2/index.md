@@ -2,9 +2,10 @@
 title: "Clanedin Commemorative Tartan Tartan Number: 1619. Earliest known date: 1970 Commonwealth Games 1970 See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKWKWKWBWKWGWGYGW](/stripes/rkwkwkwbwkwgwgygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k8ln2k3ln2k2ln6db3ln6k2ln2t3ln2t4y2t10ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKWKWKWBWKWGWGYGW](/stripes/rkwkwkwbwkwgwgygw/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1619
 

@@ -2,9 +2,10 @@
 title: "Gordon 4"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1b1k1b1k6g6y1g6k6b6k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGKBKB](/stripes/bkbkbkgygkbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gordon Regimental
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gordon 4 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gordon Regimental Tartan Tartan Number: 214. Earliest known date: 1793 Source references: Cockburn Collection No 10. Logan. Smibert No: 46. Smith No 35. Grant No: 17. Bain. The Setts No: 64. Wilson advertised a range of different quality Gordon tartans in the same colours. e.g. Sergt's Plaids 56 8 8 8 8 58 54 10 54 58 54 8 8. Forsythe, it is said, produced samples with one, two and three yellow stripes. The Duke chose the single stripe. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=214))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gordon 4 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gordon Regimental Tartan Tartan Number: 214. Earliest known date: 1793 Source references: Cockburn Collection No 10. Logan. Smibert No: 46. Smith No 35. Grant No: 17. Bain. The Setts No: 64. Wilson advertised a range of different quality Gordon tartans in the same colours. e.g. Sergt's Plaids 56 8 8 8 8 58 54 10 54 58 54 8 8. Forsythe, it is said, produced samples with one, two and three yellow stripes. The Duke chose the single stripe. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=214">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/24 K4 B4 K4 B4 K24 G24 Y4 G24 K24 B24 K4 B/4

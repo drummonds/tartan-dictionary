@@ -2,9 +2,10 @@
 title: "MacKintosh 8"
 date: 2023-03-18
 ---
-In pattern [RKWGWYRKRYWGKRYW](/stripes/rkwgwyrkrywgkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r94k3ln2g21ln3y3r5k2r5y3ln3n21k7r7y8ln4/)
+(the same proportion at any scale), whose colour order is pattern [RKWGWYRKRYWGKRYW](/stripes/rkwgwyrkrywgkryw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

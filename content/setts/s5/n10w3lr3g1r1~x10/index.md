@@ -2,9 +2,10 @@
 title: "Bagpipe Shop (Switzerland)"
 date: 2023-03-18
 ---
-In pattern [BWYGR](/stripes/bwygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10ly3na3g1r1/)
+(the same proportion at any scale), whose colour order is pattern [BWYGR](/stripes/bwygr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10773
 

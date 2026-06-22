@@ -2,9 +2,10 @@
 title: "Connaught Irish District Tartan Tartan Number: 2064. Earliest known date: Not known A tartan from the West of Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRGY](/stripes/brbrgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y32gc2r1gc2r1gc2r32dr1r1dr4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRGY](/stripes/brbrgrgrgy/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2064
 

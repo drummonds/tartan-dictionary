@@ -2,9 +2,10 @@
 title: "Norham and Ladykirk (District)"
 date: 2023-03-18
 ---
-In pattern [GBRBRRKRKRR](/stripes/gbrbrrkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g50db12n7db12dr10n7k2n7k2n7dr10/)
+(the same proportion at any scale), whose colour order is pattern [GBRBRRKRKRR](/stripes/gbrbrrkrkrr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3333/
 

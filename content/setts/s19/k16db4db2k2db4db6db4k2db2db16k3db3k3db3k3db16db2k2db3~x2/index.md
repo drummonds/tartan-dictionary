@@ -2,9 +2,10 @@
 title: "Longniddry (Fashion?)"
 date: 2023-03-18
 ---
-In pattern [BKBBKBKBKBBKBBBKBBK](/stripes/bkbbkbkbkbbkbbbkbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16db4dba2k2db4dba6db4k2dba2db16dr3db3k3db3dr3db16dba2k2db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBBKBKBKBBKBBBKBBK](/stripes/bkbbkbkbkbbkbbbkbbk/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4394/
 

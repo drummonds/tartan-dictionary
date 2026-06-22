@@ -2,9 +2,10 @@
 title: "Innes D"
 date: 2023-03-18
 ---
-In pattern [WKRKRKRYRBRKGKRW](/stripes/wkrkrkryrbrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3k12r2k2r2k2r12y2r3db6r3k2g10k2r3n2/)
+(the same proportion at any scale), whose colour order is pattern [WKRKRKRYRBRKGKRW](/stripes/wkrkrkryrbrkgkrw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

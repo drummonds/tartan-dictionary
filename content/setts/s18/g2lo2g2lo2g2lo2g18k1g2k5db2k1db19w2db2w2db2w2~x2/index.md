@@ -2,9 +2,10 @@
 title: "Scottish Islamic (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2dy2g2dy2g2dy2g18k1g2k5db2k1db19w2db2w2db2w2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGYGKGKBKBWBWBW](/stripes/gygygygkgkbkbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10644/
 

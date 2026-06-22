@@ -2,18 +2,20 @@
 title: "Cochrane"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGKRBRBY](/stripes/grgrgrgrgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16r2g2r1g3r1g2r2g12k12r1db16r2db8y2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGKRBRBY](/stripes/grgrgrgrgkrbrby/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cochrane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Cochrane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cochrane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Cochrane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/16 R2 G2 R1 G3 R1 G2 R2 G12 K12 R1 DB16 R2 DB8 Y/2

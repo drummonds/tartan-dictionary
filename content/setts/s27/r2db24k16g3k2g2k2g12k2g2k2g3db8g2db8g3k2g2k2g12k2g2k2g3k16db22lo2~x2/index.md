@@ -2,18 +2,20 @@
 title: "Duchess of Albany"
 date: 2023-03-18
 ---
-In pattern [RBKGKGKGKGKGBGBGKGKGKGKGKBY](/stripes/rbkgkgkgkgkgbgbgkgkgkgkgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2db22k16g3k2g2k2g12k2g2k2g3db8g2db8g3k2g2k2g12k2g2k2g3k16db24r2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGKGKGKGKGBGBGKGKGKGKGKBY](/stripes/rbkgkgkgkgkgbgbgkgkgkgkgkby/).
 
-This was sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from register-of-tartans.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — Duchess of Albany (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000))
-- 1880 — Duchess of Albany (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1378/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Duchess of Albany (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1000">record</a>)</li>
+<li>1880 — Duchess of Albany (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1378/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

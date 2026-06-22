@@ -2,9 +2,10 @@
 title: "Glencross (Tynron) (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGBYGW](/stripes/rgbygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g13db13dy2dg34lr3/)
+(the same proportion at any scale), whose colour order is pattern [RGBYGW](/stripes/rgbygw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10451
 

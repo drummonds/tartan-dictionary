@@ -2,18 +2,20 @@
 title: "Strange of Balcaskie (Clan)"
 date: 2023-03-18
 ---
-In pattern [GGGGBYG](/stripes/ggggbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32t7g7t16db32y3t8/)
+(the same proportion at any scale), whose colour order is pattern [GGGGBYG](/stripes/ggggbyg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2259/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Sep. 1995 — Strange of Balcaskie (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2259/))
-- undated — Strange of Balcaskie Family Tartan Tartan Number: 2259. Earliest known date: 1996 Designed by Kenny Dalgliesh of D C Dalgliesh of Selkirk and recorded in Lyon Court Book. LCB101 on 11th June 1996. Lyon count: G64 Brown14 G14 Brown32 B64 Y6 Brown16. Full counts at pivots. Green and blue lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2259))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Sep. 1995 — Strange of Balcaskie (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2259/">record</a>)</li>
+<li>undated — Strange of Balcaskie Family Tartan Tartan Number: 2259. Earliest known date: 1996 Designed by Kenny Dalgliesh of D C Dalgliesh of Selkirk and recorded in Lyon Court Book. LCB101 on 11th June 1996. Lyon count: G64 Brown14 G14 Brown32 B64 Y6 Brown16. Full counts at pivots. Green and blue lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2259">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/64 T14 G14 T32 DB64 Y6 T/16

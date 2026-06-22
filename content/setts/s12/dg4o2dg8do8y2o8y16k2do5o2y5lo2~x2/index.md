@@ -2,9 +2,10 @@
 title: "Blaylock Hunting (Name)"
 date: 2023-03-18
 ---
-In pattern [GRGBGRGKBRGY](/stripes/grgbgrgkbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4n2dg8dr8lt2n8lt16k2dr5n2lt5dy2/)
+(the same proportion at any scale), whose colour order is pattern [GRGBGRGKBRGY](/stripes/grgbgrgkbrgy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10385/
 

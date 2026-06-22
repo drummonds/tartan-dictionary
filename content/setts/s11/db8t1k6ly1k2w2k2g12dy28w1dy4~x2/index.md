@@ -2,9 +2,10 @@
 title: "MacLean of Kingairloch Clan Tartan Tartan Number: 61. Earliest known date: pre 2003 Reproduction. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBKYKWKGGWG](/stripes/bbkykwkggwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8b1k6y1k2ln2k2g12t28ln1t4/)
+(the same proportion at any scale), whose colour order is pattern [BBKYKWKGGWG](/stripes/bbkykwkggwg/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=61
 

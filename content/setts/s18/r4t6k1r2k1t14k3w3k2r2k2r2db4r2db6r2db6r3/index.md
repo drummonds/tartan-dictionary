@@ -2,9 +2,10 @@
 title: "Royal Canadian Air Force Regimental Tartan Tartan Number: 1343. Earliest known date: 1942 The threadcount was provided by the Canadian Defence Department. Colours specified as dark blue, light blue and maroon. It is unusual to have a single strand used in a thread count as it is impossible to turn the thread on the 'kilt edge'. The sett is recorded and approved by the Lord Lyon. Design is based on the Anderson sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4b6k1dr2k1b14k3ln3k2dr2k2dr2db4dr2db6dr2db6dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKBKWKRKRBRBRBR](/stripes/rbkrkbkwkrkrbrbrbr/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1343
 

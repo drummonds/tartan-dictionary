@@ -2,9 +2,10 @@
 title: "Elystan Glodrydd (Name)"
 date: 2023-03-18
 ---
-In pattern [BRYGRGW](/stripes/brygrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3g24r13b4dy11r8db2/)
+(the same proportion at any scale), whose colour order is pattern [BRYGRGW](/stripes/brygrgw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8556/
 

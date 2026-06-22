@@ -2,9 +2,10 @@
 title: "Cian Clan Irish Family Tartan Tartan Number: 47. Earliest known date: 1983 Registered with the Chief Herald of Ireland in 1983. Normally woven in ancient colours. Registered with TECA 01 July 1992 by Eli F.J. O'Carroll, chief of Clan Cian of Ely, Stockton, CA, USA. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBWBBYRBWBY](/stripes/bbwbbyrbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b31db4lb4b20db8ya16r8b14lb4db4y4/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBYRBWBY](/stripes/bbwbbyrbwby/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=47
 

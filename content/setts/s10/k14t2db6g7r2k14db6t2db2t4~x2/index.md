@@ -2,9 +2,10 @@
 title: "Unidentified 13"
 date: 2023-03-18
 ---
-In pattern [BBBBKRGBBK](/stripes/bbbbkrgbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14ba2b6g7r2k14b6ba2b2ba4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKRGBBK](/stripes/bbbbkrgbbk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

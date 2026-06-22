@@ -2,9 +2,10 @@
 title: "Recovery (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYBGBGBGKGKGKGKGRBRGR](/stripes/bybgbgbgkgkgkgkgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y1db1ga1db1ga1db1ga5k1ga1k1ga1k1ga1k1ga6r5db2r2g1r5/)
+(the same proportion at any scale), whose colour order is pattern [BYBGBGBGKGKGKGKGRBRGR](/stripes/bybgbgbgkgkgkgkgrbrgr/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2439/
 

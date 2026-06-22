@@ -2,9 +2,10 @@
 title: "Lévesque, Pascal (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBGWGYWRG](/stripes/bwbgwgywrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r2lb3y2g4n4g14b2n2b2/)
+(the same proportion at any scale), whose colour order is pattern [BWBGWGYWRG](/stripes/bwbgwgywrg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11559
 

@@ -2,9 +2,10 @@
 title: "Quinn (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGGGKBY](/stripes/rbkgggkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1b8k4g1dg4g1k4b8y1/)
+(the same proportion at any scale), whose colour order is pattern [RBKGGGKBY](/stripes/rbkgggkby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Quinn/Mackay
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 20/11/1997 — Quinn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432))
-- Nov. 1997 — Quinn/Mackay (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2478/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>20/11/1997 — Quinn (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3432">record</a>)</li>
+<li>Nov. 1997 — Quinn/Mackay (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2478/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

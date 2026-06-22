@@ -2,9 +2,10 @@
 title: "Otago Peninsula Corporate Tartan Tartan Number: 2110. Earliest known date: 1990 Otago Peninsula Trust was set up to look after a large house and gardens in Dunedin which is open to visitors. The colours chosen are to represent the wildlife e.g. Salmon pink and Kingfisher blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBRBBBRBRWGRBGBGBRBG](/stripes/bbbrbbbrbrwgrbgbgbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dba4dr4dba2b12dba2b12dba2dr4b4ln1do4db2dr4dba4db4dba4dr4dba2db12dba2/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBBBRBRWGRBGBGBRBG](/stripes/bbbrbbbrbrwgrbgbgbrbg/).
 
-This was sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from house-of-tartan.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2110
 

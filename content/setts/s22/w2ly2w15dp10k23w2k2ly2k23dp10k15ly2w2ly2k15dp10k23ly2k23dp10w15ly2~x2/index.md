@@ -2,9 +2,10 @@
 title: "Freger (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WYWBKWKYKBKYWYKBKYKBWY](/stripes/wywbkwkykbkywykbkykbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2ln15p10k23y2k23p10k15y2ln2y2k15p10k23y2k2ln2k23p10ln15y2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WYWBKWKYKBKYWYKBKYKBWY](/stripes/wywbkwkykbkywykbkykbwy/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7531/
 

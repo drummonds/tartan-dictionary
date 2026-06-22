@@ -2,9 +2,10 @@
 title: "All Breeds Dairy Goats (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRKWYWYWYWYWYKYKYKYKYKYWYWYWYWYWYWGY](/stripes/brkwywywywywykykykykykywywywywywywgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10r10k36ln1lt1ln1lt1ln1lt1ln1lt1ln1lt1k1lt1k1lt1k1lt1k1lt1k1lt1ln1lt1ln1lt1ln1lt1ln1lt1ln1lt26ln26g10y10/)
+(the same proportion at any scale), whose colour order is pattern [BRKWYWYWYWYWYKYKYKYKYKYWYWYWYWYWYWGY](/stripes/brkwywywywywykykykykykywywywywywywgy/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7131/
 

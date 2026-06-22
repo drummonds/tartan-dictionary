@@ -2,9 +2,10 @@
 title: "Gordon Dress MINI design Tartan Tartan Number: 2944. Earliest known date: Dupion Silk. Generated for display purposes only. Reduced copy of the 294 Gordon dress. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k6db10k20g4y3g4k20ln4db4ln20db2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGKWBWBW](/stripes/bkbkgygkwbwbw/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2944
 

@@ -2,9 +2,10 @@
 title: "Kazakhstan Relic"
 date: 2023-03-18
 ---
-In pattern [BKBY](/stripes/bkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy5db5k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBY](/stripes/bkby/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5137
 

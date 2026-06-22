@@ -2,9 +2,10 @@
 title: "MacNab (Crimson)"
 date: 2023-03-18
 ---
-In pattern [GRRGRRK](/stripes/grrgrrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r7dr7g14dr7r48k4/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRRK](/stripes/grrgrrk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2668
 

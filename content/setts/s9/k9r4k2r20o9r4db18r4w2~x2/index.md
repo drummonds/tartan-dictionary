@@ -2,18 +2,20 @@
 title: "Stephens Dress"
 date: 2023-03-18
 ---
-In pattern [KRKRRRBRW](/stripes/krkrrrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9r4k2r20n9r4db18r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRRRBRW](/stripes/krkrrrbrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3916
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/2006 — Stephens Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3916))
-- October 2006 — Stephens Dress (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7030/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/2006 — Stephens Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3916">record</a>)</li>
+<li>October 2006 — Stephens Dress (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7030/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Provincewide HOG Chapter"
 date: 2023-03-18
 ---
-In pattern [KWBWKBKWR](/stripes/kwbwkbkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50w1n15w1k40n13k62w4r21/)
+(the same proportion at any scale), whose colour order is pattern [KWBWKBKWR](/stripes/kwbwkbkwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6009
 

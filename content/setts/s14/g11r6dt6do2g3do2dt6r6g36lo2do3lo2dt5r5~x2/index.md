@@ -2,9 +2,10 @@
 title: "Westmeath (District)"
 date: 2023-03-18
 ---
-In pattern [GRBBGBBRGYBYBR](/stripes/grbbgbbrgybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11dr6db6t2g3t2db6dr6g36dy2t3dy2db5dr5/)
+(the same proportion at any scale), whose colour order is pattern [GRBBGBBRGYBYBR](/stripes/grbbgbbrgybybr/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2278/
 

@@ -2,9 +2,10 @@
 title: "Whitworth (Name)"
 date: 2023-03-18
 ---
-In pattern [BYBYBKBGRKRGBKGBYG](/stripes/bybybkbgrkrgbkgbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60y2db2y2db5k15db5g20r2k3r2g20db5k15g5db20y2g4/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBKBGRKRGBKGBYG](/stripes/bybybkbgrkrgbkgbyg/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6052/
 

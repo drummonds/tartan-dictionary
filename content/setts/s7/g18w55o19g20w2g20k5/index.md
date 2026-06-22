@@ -2,9 +2,10 @@
 title: "Michigan State University"
 date: 2023-03-18
 ---
-In pattern [GWRGWGK](/stripes/gwrgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18w55n19g20w2g20k5/)
+(the same proportion at any scale), whose colour order is pattern [GWRGWGK](/stripes/gwrgwgk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Michigan State University (Corporate
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2005 — Michigan State University (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476))
-- pre 2005 — Michigan State University (Corporate (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6776/))
-- undated — Michigan State University American Corporate Tartan Tartan Number: 6776. Earliest known date: 2005 Designed to celebrate and commemorate the 150th Anniversary of the founding of Michigan State University. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6776))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Michigan State University (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2476">record</a>)</li>
+<li>pre 2005 — Michigan State University (Corporate (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6776/">record</a>)</li>
+<li>undated — Michigan State University American Corporate Tartan Tartan Number: 6776. Earliest known date: 2005 Designed to celebrate and commemorate the 150th Anniversary of the founding of Michigan State University. Woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6776">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

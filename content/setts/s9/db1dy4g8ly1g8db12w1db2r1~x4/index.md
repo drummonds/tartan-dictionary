@@ -2,9 +2,10 @@
 title: "Connor (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGGYGBWBR](/stripes/bggygbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1t4g8y1g8db12ln1db2r1/)
+(the same proportion at any scale), whose colour order is pattern [BGGYGBWBR](/stripes/bggygbwbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7944/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Eldridge
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Jun. 1956 — Connor (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7944/))
-- Apr. 1962 — Eldridge (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7945/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Jun. 1956 — Connor (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7944/">record</a>)</li>
+<li>Apr. 1962 — Eldridge (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7945/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 T16 G32 Y4 G32 DB48 LN4 DB8 R/4

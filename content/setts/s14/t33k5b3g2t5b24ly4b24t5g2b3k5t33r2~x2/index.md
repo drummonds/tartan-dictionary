@@ -2,9 +2,10 @@
 title: "Los Angeles District Tartan Tartan Number: 6071. Earliest known date: 01/01/2003 Based on the Los Angeles coat of arms. Slightly different thread count for the blues in the weft. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBGBBYBBGBKBR](/stripes/bkbgbbybbgbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba33k5b3g2ba5b24y4b24ba5g2b3k5ba33r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBBYBBGBKBR](/stripes/bkbgbbybbgbkbr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6071
 

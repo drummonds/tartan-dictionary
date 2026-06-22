@@ -2,18 +2,20 @@
 title: "Tweedside"
 date: 2023-03-18
 ---
-In pattern [KRKRWRWRK](/stripes/krkrwrwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18r2k2r5ln2r2ln2r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRWRWRK](/stripes/krkrwrwrk/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Tweedside (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Tweedside District Tartan Tartan Number: 1175. Earliest known date: 1840 One of the several patterns Wilson named after towns and districts. The Society has in its collection a silk specimen of a similar date in which the red next to the black is replaced by white. The hunting version of this tartan has recently been revived. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1175))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Tweedside (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Tweedside District Tartan Tartan Number: 1175. Earliest known date: 1840 One of the several patterns Wilson named after towns and districts. The Society has in its collection a silk specimen of a similar date in which the red next to the black is replaced by white. The hunting version of this tartan has recently been revived. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1175">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/36 R4 K4 R10 LN4 R4 LN4 R4 K/4

@@ -2,9 +2,10 @@
 title: "Westin Kierland"
 date: 2023-03-18
 ---
-In pattern [RKRBRYRW](/stripes/rkrbryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do2k37r10db3r5dy4r3w2/)
+(the same proportion at any scale), whose colour order is pattern [RKRBRYRW](/stripes/rkrbryrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11059
 

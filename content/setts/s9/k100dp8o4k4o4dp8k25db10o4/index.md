@@ -2,18 +2,20 @@
 title: "CI (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBRKRBKBR](/stripes/kbrkrbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k100dp8n4k4n4dp8k25db10n4/)
+(the same proportion at any scale), whose colour order is pattern [KBRKRBKBR](/stripes/kbrkrbkbr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7862/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — CI (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7862/))
-- undated — CI (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5812))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — CI (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7862/">record</a>)</li>
+<li>undated — CI (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5812">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Sarasota - Dunfermline"
 date: 2023-03-18
 ---
-In pattern [GYGBGBKBWBKBGBGYGR](/stripes/gygbgbkbwbkbgbgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/gb6y2gb3ba4gb14ba36k2ba3ln2ba3k2ba36gb14ba4gb3y2gb6r2/)
+(the same proportion at any scale), whose colour order is pattern [GYGBGBKBWBKBGBGYGR](/stripes/gygbgbkbwbkbgbgygr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3653
 

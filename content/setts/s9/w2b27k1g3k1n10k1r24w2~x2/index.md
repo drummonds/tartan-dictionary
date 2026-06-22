@@ -2,9 +2,10 @@
 title: "Scotland's Charity Air Ambulance"
 date: 2023-03-18
 ---
-In pattern [WBKGKBKRW](/stripes/wbkgkbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2b27k1g3k1n10k1r24w2/)
+(the same proportion at any scale), whose colour order is pattern [WBKGKBKRW](/stripes/wbkgkbkrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11396
 

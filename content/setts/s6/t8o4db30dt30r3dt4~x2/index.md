@@ -2,9 +2,10 @@
 title: "Hutchesons' Grammar (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBBRB](/stripes/brbbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8n4db30dn30r3dn4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBRB](/stripes/brbbrb/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6518/
 

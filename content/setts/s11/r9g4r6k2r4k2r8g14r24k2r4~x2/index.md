@@ -2,9 +2,10 @@
 title: "MacDonell of Keppach"
 date: 2023-03-18
 ---
-In pattern [RGRKRKRGRKR](/stripes/rgrkrkrgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9g4r6k2r4k2r8g14r24k2r4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKRKRGRKR](/stripes/rgrkrkrgrkr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Diana, Plaid dress"
 date: 2023-03-18
 ---
-In pattern [WRBRBWBYBWRW](/stripes/wrbrbwbybwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln46r3ln7dr2y2dr2ln2dr11lt6b2lt3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRBRBWBYBWRW](/stripes/wrbrbwbybwrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

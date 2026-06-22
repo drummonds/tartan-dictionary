@@ -2,9 +2,10 @@
 title: "Clark of Ulva (Clan)"
 date: 2023-03-18
 ---
-In pattern [WGKGKGKBYBY](/stripes/wgkgkgkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb3g3k4g14k4g3k14db18o1db4o2/)
+(the same proportion at any scale), whose colour order is pattern [WGKGKGKBYBY](/stripes/wgkgkgkbyby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/168/
 

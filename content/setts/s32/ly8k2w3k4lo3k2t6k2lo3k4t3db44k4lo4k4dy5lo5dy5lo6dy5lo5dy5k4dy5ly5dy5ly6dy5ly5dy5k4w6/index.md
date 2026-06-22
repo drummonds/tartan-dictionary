@@ -2,9 +2,10 @@
 title: "Whiskey & Bourbon (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WKGYGYGYGKGYGYGYGKYKBBKYKBKYKWKY](/stripes/wkgygygygkgygygygkykbbkykbkykwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8k2ln3k4lt3k2b6k2lt3k4b3db44k4lt4k4t5lt5t5lt6t5lt5t5k4t5y5t5y6t5y5t5k4ln6/)
+(the same proportion at any scale), whose colour order is pattern [WKGYGYGYGKGYGYGYGKYKBBKYKBKYKWKY](/stripes/wkgygygygkgygygygkykbbkykbkykwky/).
 
-This was sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from tartans-authority.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10544/
 

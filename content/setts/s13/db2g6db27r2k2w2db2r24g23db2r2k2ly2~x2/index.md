@@ -2,18 +2,20 @@
 title: "Olympic"
 date: 2023-03-18
 ---
-In pattern [BGBRKWBRGBRKY](/stripes/bgbrkwbrgbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2r2b2g23r24b2ln2k2r2b27g6b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBRKWBRGBRKY](/stripes/bgbrkwbrgbrky/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Olympic (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Olympic Corporate Tartan Tartan Number: 1923. Earliest known date: pre 2003 Olympic symbol on every red block See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1923))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Olympic (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Olympic Corporate Tartan Tartan Number: 1923. Earliest known date: pre 2003 Olympic symbol on every red block See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1923">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/4 K4 R4 B4 G46 R48 B4 LN4 K4 R4 B54 G12 B/4

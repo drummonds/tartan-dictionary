@@ -2,9 +2,10 @@
 title: "RCACA"
 date: 2023-03-18
 ---
-In pattern [KRWRKBWBYR](/stripes/krwrkbwbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r1w1r2k48dr4w1db30y2r2/)
+(the same proportion at any scale), whose colour order is pattern [KRWRKBWBYR](/stripes/krwrkbwbyr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11598
 

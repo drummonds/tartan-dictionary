@@ -2,9 +2,10 @@
 title: "Tantallon #2"
 date: 2023-03-18
 ---
-In pattern [WBKRKGKRKY](/stripes/wbkrkgkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k22r7k2g10k2r7k2db22ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBKRKGKRKY](/stripes/wbkrkgkrky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5915
 

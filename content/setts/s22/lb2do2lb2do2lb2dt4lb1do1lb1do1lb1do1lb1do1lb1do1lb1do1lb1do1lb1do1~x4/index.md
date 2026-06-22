@@ -2,9 +2,10 @@
 title: "Prince of Wales (Estate Check)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBWBWBWBWBWBWBW](/stripes/bwbwbwbwbwbwbwbwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dr2n2dr2n2db4n1dr1n1dr1n1dr1n1dr1n1dr1n1dr1n1dr1n1dr1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBWBWBWBWBWBWBW](/stripes/bwbwbwbwbwbwbwbwbwbwbw/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3309/
 

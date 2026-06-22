@@ -2,9 +2,10 @@
 title: "Californian MacLeod"
 date: 2023-03-18
 ---
-In pattern [RKWGKGKGBY](/stripes/rkwgkgkgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db22g3k3g3k3g12ln22k2r3/)
+(the same proportion at any scale), whose colour order is pattern [RKWGKGKGBY](/stripes/rkwgkgkgby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLeod
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Californian MacLeod (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637))
-- 1988 — MacLeod (California) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1623/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Californian MacLeod (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2637">record</a>)</li>
+<li>1988 — MacLeod (California) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1623/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

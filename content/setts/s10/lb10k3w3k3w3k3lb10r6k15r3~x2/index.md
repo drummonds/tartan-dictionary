@@ -2,9 +2,10 @@
 title: "Edinburgh, City of"
 date: 2023-03-18
 ---
-In pattern [RKRWKWKWKW](/stripes/rkrwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10k3w3k3w3k3n10r6k15r3/)
+(the same proportion at any scale), whose colour order is pattern [RKRWKWKWKW](/stripes/rkrwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Edinburgh, City of
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/10/1997 — Edinburgh, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086))
-- 1998 Oct — Edinburgh, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2400/))
-- undated — City of Edinburgh (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/1997 — Edinburgh, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1086">record</a>)</li>
+<li>1998 Oct — Edinburgh, City of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2400/">record</a>)</li>
+<li>undated — City of Edinburgh (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

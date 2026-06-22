@@ -2,9 +2,10 @@
 title: "Norwich No.079"
 date: 2023-03-18
 ---
-In pattern [GYKBKBKYGR](/stripes/gykbkbkygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18ya2k14b5k4b5k14ya2g18r5/)
+(the same proportion at any scale), whose colour order is pattern [GYKBKBKYGR](/stripes/gykbkbkygr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3196
 

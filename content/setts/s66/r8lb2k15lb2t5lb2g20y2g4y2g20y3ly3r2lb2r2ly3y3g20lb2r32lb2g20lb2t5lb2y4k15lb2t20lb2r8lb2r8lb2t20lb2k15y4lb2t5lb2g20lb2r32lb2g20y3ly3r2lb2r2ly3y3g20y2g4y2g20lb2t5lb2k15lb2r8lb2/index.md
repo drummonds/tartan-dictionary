@@ -2,9 +2,10 @@
 title: "Hunter"
 date: 2023-03-18
 ---
-In pattern [RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/stripes/rwkwbwggggggyrwryggwrwgwbwgkwbwrwrwbwkgwbwgwrwggyrwryggggggwbwkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8n2k15n2b5n2ga20g2ga4g2ga20g3ya3r2n2r2ya3g3ga20n2r32n2ga20n2b5n2g4k15n2b20n2r8n2r8n2b20n2k15g4n2b5n2ga20n2r32n2ga20g3ya3r2n2r2ya3g3ga20g2ga4g2ga20n2b5n2k15n2r8n2/)
+(the same proportion at any scale), whose colour order is pattern [RWKWBWGGGGGGYRWRYGGWRWGWBWGKWBWRWRWBWKGWBWGWRWGGYRWRYGGGGGGWBWKWRW](/stripes/rwkwbwggggggyrwryggwrwgwbwgkwbwrwrwbwkgwbwgwrwggyrwryggggggwbwkwrw/).
 
-This was sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
+Sourced from register-of-tartans.  It is a [66 stripe tartan](/stripes/stripes66/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1788
 

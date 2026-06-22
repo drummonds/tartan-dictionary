@@ -2,9 +2,10 @@
 title: "Forde Irish Family Tartan Tartan Number: 829. Earliest known date: c1890 This pattern was recorded by Bill Johnston, Shippak, USA in 1978 along with other patterns extracted from the 'Clan Originaux' at Pendleton Mill. This and other Irish patterns appear to have originated in the former Waterford Mill in Ireland before they arrived at Pendleton in the late 19thC See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKYKRKRKYG](/stripes/gkykrkrkyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16y1k2r1k1r1k2y1k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKYKRKRKYG](/stripes/gkykrkrkyg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=829
 

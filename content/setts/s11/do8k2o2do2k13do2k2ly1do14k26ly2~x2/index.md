@@ -2,9 +2,10 @@
 title: "Pride of Scotland, Dark (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKRBKBKYBKY](/stripes/bkrbkbkybky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn8k2lt2dn2k13dn2k2lg1dn14k26lg2/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKBKYBKY](/stripes/bkrbkbkybky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7520/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Pride of Scotland Hunting/Dark
 - Pride of Scotland, Dark
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2008 — Pride of Scotland, Dark (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7520/))
-- undated — Pride of Scotland Dark (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5558))
-- undated — Pride of Scotland Hunting/Dark Fashion Tartan Tartan Number: 7520. Earliest known date: 2008 One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland (2469). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7520))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Pride of Scotland, Dark (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7520/">record</a>)</li>
+<li>undated — Pride of Scotland Dark (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5558">record</a>)</li>
+<li>undated — Pride of Scotland Hunting/Dark Fashion Tartan Tartan Number: 7520. Earliest known date: 2008 One of a series of tartans from McCalls of Aberdeen based on the Pride of Scotland (2469). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7520">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

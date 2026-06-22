@@ -2,9 +2,10 @@
 title: "Ottawa District Tartan Tartan Number: 2021. Earliest known date: 1966 In two blocks - Navy Block ends on 14th colour change Gold 24. Azure Block starts on the following White 8. The design was accepted as the Official Tartan of Ottawa by order of the Council on November 21st 1966. In 1985 it was no longer in commercial production. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RYWYWYBYBYBYWYWYWYBYBYBY](/stripes/rywywybybybywywywybybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y7b4y1b4y1b4y7ln2y6ln1y1ln1y1db2y1db3y1db2y1ln1y1ln1y6r1/)
+(the same proportion at any scale), whose colour order is pattern [RYWYWYBYBYBYWYWYWYBYBYBY](/stripes/rywywybybybywywywybybyby/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2021
 

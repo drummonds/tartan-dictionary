@@ -2,9 +2,10 @@
 title: "Matheson Hunting (Blue)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg8db4lg1db1lg1db24k8lg4db1lg1db1lg4db8lg1db1lg1db1k8lg8db2lg2/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBKGBGBGBGBGBKGBG](/stripes/gbgbgbkgbgbgbgbgbkgbg/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Matheson Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Matheson Hunting (Blue) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852))
-- 1995 — Matheson (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3458/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Matheson Hunting (Blue) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4852">record</a>)</li>
+<li>1995 — Matheson (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3458/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

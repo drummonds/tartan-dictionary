@@ -2,9 +2,10 @@
 title: "McAleavy (2014)"
 date: 2023-03-18
 ---
-In pattern [GYWYWYWYWGR](/stripes/gywywywywgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g56n6ly6lya2w2lya2w16n10w2g6dr3/)
+(the same proportion at any scale), whose colour order is pattern [GYWYWYWYWGR](/stripes/gywywywywgr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11170
 

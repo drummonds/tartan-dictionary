@@ -2,18 +2,20 @@
 title: "Ancient Atlantic (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBBBGY](/stripes/wbbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3db17dr16dn2dg17dy2/)
+(the same proportion at any scale), whose colour order is pattern [WBBBGY](/stripes/wbbbgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1781/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1959 — Ancient Atlantic (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1781/))
-- 01/01/1964 — Ancient Atlantic (SINDEX) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=72))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1959 — Ancient Atlantic (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1781/">record</a>)</li>
+<li>01/01/1964 — Ancient Atlantic (SINDEX) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=72">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Hunter"
 date: 2023-03-18
 ---
-In pattern [GKGKRBWBRK](/stripes/gkgkrbwbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r1b8ln1b8r1k8g8k1g8/)
+(the same proportion at any scale), whose colour order is pattern [GKGKRBWBRK](/stripes/gkgkrbwbrk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hunter (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hunter Clan Tartan Tartan Number: 789. Earliest known date: pre 2003 Believed to be worn by the Hunters of Peebleshire See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=789))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hunter (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hunter Clan Tartan Tartan Number: 789. Earliest known date: pre 2003 Believed to be worn by the Hunters of Peebleshire See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=789">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/16 R2 B16 LN2 B16 R2 K16 G16 K2 G/16

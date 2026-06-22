@@ -2,18 +2,20 @@
 title: "Fraser of Boblainy, Hugh (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGBR](/stripes/brgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1r14g7db7r1/)
+(the same proportion at any scale), whose colour order is pattern [BRGBR](/stripes/brgbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2528/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1805 — Fraser of Boblainy, Hugh (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2528/))
-- undated — Fraser of Boblainy, Hugh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1263))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1805 — Fraser of Boblainy, Hugh (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2528/">record</a>)</li>
+<li>undated — Fraser of Boblainy, Hugh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1263">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

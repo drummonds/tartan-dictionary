@@ -2,18 +2,20 @@
 title: "Lachine"
 date: 2023-03-18
 ---
-In pattern [RKBWBWBWBWBGWGWGWGWGKRY](/stripes/rkbwbwbwbwbgwgwgwgwgkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2r1k1g20w2g2w2g2w2g2w2g8b8w2b2w2b2w2b2w2b20k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKBWBWBWBWBGWGWGWGWGKRY](/stripes/rkbwbwbwbwbgwgwgwgwgkry/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2019
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2000 — Lachine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2019))
-- pre 2004 — Lachine (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6202/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2000 — Lachine (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2019">record</a>)</li>
+<li>pre 2004 — Lachine (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6202/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

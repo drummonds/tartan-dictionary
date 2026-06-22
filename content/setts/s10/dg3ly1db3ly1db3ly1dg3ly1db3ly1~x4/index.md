@@ -2,9 +2,10 @@
 title: "Unidentified Printing #2"
 date: 2023-03-18
 ---
-In pattern [GYBYBYGYBY](/stripes/gybybygyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dy1db3dy1db3dy1g3dy1db3dy1/)
+(the same proportion at any scale), whose colour order is pattern [GYBYBYGYBY](/stripes/gybybygyby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4360
 

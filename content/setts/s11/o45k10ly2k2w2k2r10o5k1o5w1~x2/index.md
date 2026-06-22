@@ -2,9 +2,10 @@
 title: "Cavalier Green.. Trade Tartan Tartan Number: 1292. Earliest known date: pre 2003 The 10th century Compte de Barcelona, Guifre Pilos, with his dying breath brushed his four bloodstained fingers down his shield leaving four vertical stripes creating the heraldic device of Catalunya. Later the stripes were turned sideways for the Bandera. (flag). The tartan also incorporates white for the snow, green for the flora and blue for the Mediterranean Sea. It was first seen at the Barcelona Olympic Games, 1992. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKYKWKRRKRW](/stripes/rkykwkrrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n45k10y2k2ln2k2r10n5k1n5ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKYKWKRRKRW](/stripes/rkykwkrrkrw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1292
 

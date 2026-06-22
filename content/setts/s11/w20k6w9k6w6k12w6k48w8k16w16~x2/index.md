@@ -2,9 +2,10 @@
 title: "MacLean (Black and White)"
 date: 2023-03-18
 ---
-In pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w20k6w9k6w6k12w6k48w8k16w16/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKWKWKW](/stripes/wkwkwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacLean B & W
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacLean (Black and White) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602))
-- pre 2002 — MacLean B & W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1824/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacLean (Black and White) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2602">record</a>)</li>
+<li>pre 2002 — MacLean B & W (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1824/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

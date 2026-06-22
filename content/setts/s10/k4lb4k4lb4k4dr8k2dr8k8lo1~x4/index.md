@@ -2,9 +2,10 @@
 title: "Little of Morton Rig Family/Clan Tartan Tartan Number: 2349. Earliest known date: 1991 Designed in 1991 by Dr. J.C.(Pat) Little of Morton Rigg, Dumfries, for the newly organized Clan Little Society. Registered with TECA 12 June1992. Incorporates elements of the Wallace and Shepherd setts. from Pat Little via JCT. Sample in STA's Johnston Collection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4n4k4n4k4dr8k2dr8k8dy1/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKBKBKY](/stripes/kwkwkbkbky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2349
 

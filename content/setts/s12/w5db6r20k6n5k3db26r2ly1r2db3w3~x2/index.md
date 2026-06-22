@@ -2,9 +2,10 @@
 title: "Clinton Wedding"
 date: 2023-03-18
 ---
-In pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5db6r20k6ba5k3db26r2y1r2db3ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBRKBKBRYRBW](/stripes/wbrkbkbryrbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10052
 

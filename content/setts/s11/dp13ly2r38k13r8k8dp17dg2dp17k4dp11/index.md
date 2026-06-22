@@ -2,9 +2,10 @@
 title: "Bute Heather, Autumn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBGBKRKRYB](/stripes/bkbgbkrkryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp13y2dr38k13dr8k8dp17g2dp17k4dp11/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBKRKRYB](/stripes/bkbgbkrkryb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6175/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bute Heather, Weathered
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Bute Heather, Autumn (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6175/))
-- 2004 — Bute Heather, Weathered (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7181/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Bute Heather, Autumn (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6175/">record</a>)</li>
+<li>2004 — Bute Heather, Weathered (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7181/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DP/13 Y2 DR38 K13 DR8 K8 DP17 G2 DP17 K4 DP/11

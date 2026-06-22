@@ -2,9 +2,10 @@
 title: "Allied Facenna (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKBKBKBBBBBKBKBKBBY](/stripes/bbkbkbkbkbkbbbbbkbkbkbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba17db17dbb3db3dbb3db3dbb19db3dbb3db3dbb3db17dba17b3dba17db17dbb17db3dbb3db3dbb17db17dba17y3/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKBKBKBBBBBKBKBKBBY](/stripes/bbkbkbkbkbkbbbbbkbkbkbby/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10443/
 

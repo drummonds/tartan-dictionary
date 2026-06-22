@@ -2,9 +2,10 @@
 title: "Holyrood (Chair)"
 date: 2023-03-18
 ---
-In pattern [RWBGWYGBWBBRWRBBWBGYWGBW](/stripes/rwbgwygbwbbrwrbbwbgywgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r34w1db10dg10w1y1dg2b2w1db2b10r6w1/)
+(the same proportion at any scale), whose colour order is pattern [RWBGWYGBWBBRWRBBWBGYWGBW](/stripes/rwbgwygbwbbrwrbbwbgywgbw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1755
 

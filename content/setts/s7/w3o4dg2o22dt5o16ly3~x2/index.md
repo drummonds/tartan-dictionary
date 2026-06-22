@@ -2,18 +2,20 @@
 title: "Pubcrawlers, The"
 date: 2023-03-18
 ---
-In pattern [WRGRBRY](/stripes/wrgrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dr16k5lt22dg2lt4ln3/)
+(the same proportion at any scale), whose colour order is pattern [WRGRBRY](/stripes/wrgrbry/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10668
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 06/08/2012 — Pubcrawlers, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10668))
-- undated — Pubcrawlers, The Corporate Tartan Tartan Number: 10668. Earliest known date: 06/08/2012 With over a decade of performing, the Pubcrawlers have firmly established themselves as a brand as well as a musical group, and the muted earthen tones of the Pubcrawler tartan reflect the colour palette that has come to be associated with both. Working together with members of the band, USA Kilts have crafted a tartan that represents not only the colours that have been the Pubcrawlers' trademark since 2002 (originally chosen as an amalgamation of the colours of several members' family tartans), but their physical location as well, having woven into the pattern the coordinates of Portland, Maine, the city that the band calls home. The Pubcrawlers take great pride in their tartan and will happily permit it to be worn by any members, friends, family and supporters of the band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10668))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>06/08/2012 — Pubcrawlers, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10668">record</a>)</li>
+<li>undated — Pubcrawlers, The Corporate Tartan Tartan Number: 10668. Earliest known date: 06/08/2012 With over a decade of performing, the Pubcrawlers have firmly established themselves as a brand as well as a musical group, and the muted earthen tones of the Pubcrawler tartan reflect the colour palette that has come to be associated with both. Working together with members of the band, USA Kilts have crafted a tartan that represents not only the colours that have been the Pubcrawlers' trademark since 2002 (originally chosen as an amalgamation of the colours of several members' family tartans), but their physical location as well, having woven into the pattern the coordinates of Portland, Maine, the city that the band calls home. The Pubcrawlers take great pride in their tartan and will happily permit it to be worn by any members, friends, family and supporters of the band. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10668">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

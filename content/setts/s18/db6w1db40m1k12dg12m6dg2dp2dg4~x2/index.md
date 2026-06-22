@@ -2,9 +2,10 @@
 title: "Scotland the Brave"
 date: 2023-03-18
 ---
-In pattern [BWBRKGRGBGBGRGKRBW](/stripes/bwbrkgrgbgbgrgkrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba6w1dba40pa1k12ga12pa6ga2p2ga4/)
+(the same proportion at any scale), whose colour order is pattern [BWBRKGRGBGBGRGKRBW](/stripes/bwbrkgrgbgbgrgkrbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3679
 

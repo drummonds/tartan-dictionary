@@ -2,18 +2,20 @@
 title: "Turcan Connell"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGGYGGBYBGGRG](/stripes/gbgbgbggyggbybggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t27k3t8k4t8k3t14g8n5t5g14k12n6k12t15g9r4g9/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGGYGGBYBGGRG](/stripes/gbgbgbggyggbybggrg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2005 — Turcan Connell (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158))
-- 2005 November — Turcan Connell (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6815/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2005 — Turcan Connell (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4158">record</a>)</li>
+<li>2005 November — Turcan Connell (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6815/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

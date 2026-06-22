@@ -2,9 +2,10 @@
 title: "Johnstons of Elgin Bicentennial"
 date: 2023-03-18
 ---
-In pattern [BKRKBGKRKRKGBKRK](/stripes/bkrkbgkrkrkgbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8t6db12ba5ta14db8r14db25r14db8ta14ba5db12t6db8b2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBGKRKRKGBKRK](/stripes/bkrkbgkrkrkgbkrk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1901
 

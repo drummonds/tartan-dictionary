@@ -2,18 +2,20 @@
 title: "Oregon State University (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KYKWYKYWKYK](/stripes/kykwykywkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6o8k13w1o11k1o11w4k2o1k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKWYKYWKYK](/stripes/kykwykywkyk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10131/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Dec 2005 — Oregon State University (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10131/))
-- undated — Oregon State University Corporate Tartan Tartan Number: 10131. Earliest known date: Dec 2005 During the 2004-2005 academic year, the Department of Design and Human Environment sponsored an OSU Tartan Textile Design competition. OSU students designed and submitted entries of original tartans (cloth woven in a plaid pattern) to be used for OSU licensed products. A panel of jurors selected the top three designs. Students, faculty, alums and friends were asked to vote on a website for their favorite design from the three finalists. Over 1600 votes were received. The winning design was the one that received the greatest number of votes. It is now being used in licensed OSU products. A portion of the royalties received on sales of products incorporating the OSU Tartan is being used directly to enhance undergraduate programs in Design and Human Environment. Using the University colours, the design reflects the comminuty of students, alumni, faculty and friends of the OSU. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10131))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Dec 2005 — Oregon State University (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10131/">record</a>)</li>
+<li>undated — Oregon State University Corporate Tartan Tartan Number: 10131. Earliest known date: Dec 2005 During the 2004-2005 academic year, the Department of Design and Human Environment sponsored an OSU Tartan Textile Design competition. OSU students designed and submitted entries of original tartans (cloth woven in a plaid pattern) to be used for OSU licensed products. A panel of jurors selected the top three designs. Students, faculty, alums and friends were asked to vote on a website for their favorite design from the three finalists. Over 1600 votes were received. The winning design was the one that received the greatest number of votes. It is now being used in licensed OSU products. A portion of the royalties received on sales of products incorporating the OSU Tartan is being used directly to enhance undergraduate programs in Design and Human Environment. Using the University colours, the design reflects the comminuty of students, alumni, faculty and friends of the OSU. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10131">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/12 O16 K26 W2 O22 K2 O22 W8 K4 O2 K/4

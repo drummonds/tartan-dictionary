@@ -2,9 +2,10 @@
 title: "Myres Castle (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYBGBGG](/stripes/bybgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dg12p6lg3dp15dy2dp2/)
+(the same proportion at any scale), whose colour order is pattern [BYBGBGG](/stripes/bybgbgg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10068/
 

@@ -2,9 +2,10 @@
 title: "Glenfinnan (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRWRGRWGWR](/stripes/grwrgrwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5ln2g3ln2dr10g10dr2ln1dr2ga1/)
+(the same proportion at any scale), whose colour order is pattern [GRWRGRWGWR](/stripes/grwrgrwgwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3848/
 

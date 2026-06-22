@@ -2,9 +2,10 @@
 title: "Prince of Wales Check"
 date: 2023-03-18
 ---
-In pattern [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dr2n2dr2n2db4n2dr1n1dr1n1dr1n1dr1n1dr1n1dr1n1dr1n1/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWBWBWBWBWBWBWBWBW](/stripes/wbwbwbwbwbwbwbwbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5038
 

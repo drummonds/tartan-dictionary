@@ -2,9 +2,10 @@
 title: "MacTeddy"
 date: 2023-03-18
 ---
-In pattern [BWBGR](/stripes/bwbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3ln10db10g10r2/)
+(the same proportion at any scale), whose colour order is pattern [BWBGR](/stripes/bwbgr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3985/
 

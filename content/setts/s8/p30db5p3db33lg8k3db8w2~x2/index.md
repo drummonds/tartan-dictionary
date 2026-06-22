@@ -2,9 +2,10 @@
 title: "Saint Margaret of Scotland Youth Group"
 date: 2023-03-18
 ---
-In pattern [BBBBYKBW](/stripes/bbbbykbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p30db5p3db33lg8k3db8w2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBYKBW](/stripes/bbbbykbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10441
 

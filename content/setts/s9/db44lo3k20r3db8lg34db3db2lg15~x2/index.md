@@ -2,9 +2,10 @@
 title: "US Air Force Reserve Pipe Band"
 date: 2023-03-18
 ---
-In pattern [BYKRBYBBY](/stripes/bykrbybby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db44dy3k20dr3db8ba34db3db2ba15/)
+(the same proportion at any scale), whose colour order is pattern [BYKRBYBBY](/stripes/bykrbybby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4180
 

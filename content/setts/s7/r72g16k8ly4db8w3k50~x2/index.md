@@ -2,18 +2,20 @@
 title: "Stewart, Anthony C (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWBYKGR](/stripes/kwbykgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r72g16k8y4db8w3k50/)
+(the same proportion at any scale), whose colour order is pattern [KWBYKGR](/stripes/kwbykgr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7754/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2008 — Stewart, Anthony C (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7754/))
-- undated — Stewart, Anthony C (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5734))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2008 — Stewart, Anthony C (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7754/">record</a>)</li>
+<li>undated — Stewart, Anthony C (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5734">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

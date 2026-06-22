@@ -2,9 +2,10 @@
 title: "Highland Queen"
 date: 2023-03-18
 ---
-In pattern [RYRYRKRYRKRY](/stripes/ryryrkryrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8lg4r30b6r2k1r2lg6r8k1r4y2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRKRYRKRY](/stripes/ryryrkryrkry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10171
 

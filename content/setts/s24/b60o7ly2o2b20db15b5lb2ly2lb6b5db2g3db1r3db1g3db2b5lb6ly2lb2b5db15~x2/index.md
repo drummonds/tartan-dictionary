@@ -2,9 +2,10 @@
 title: "Commonwealth Bid (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBWYWBBGBRBGBBWYWBBBRYRB](/stripes/bbwywbbgbrbgbbwywbbbryrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b60do7lg2do2b20db15b5lb2y2lb6b5db2g3db1r3db1g3db2b5lb6y2lb2b5db15/)
+(the same proportion at any scale), whose colour order is pattern [BBWYWBBGBRBGBBWYWBBBRYRB](/stripes/bbwywbbgbrbgbbwywbbbryrb/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6811/
 

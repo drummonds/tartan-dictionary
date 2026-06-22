@@ -2,9 +2,10 @@
 title: "Rae (Wilsons) (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp27g12dp54g56dp10g14dp10g56dp62g12dp62g56dp4g4dp8g4dp4g56dp4g4dp8g4dp4g56dp54g12dp27/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBGBGBGBGBGBGBGBGB](/stripes/bgbgbgbgbgbgbgbgbgbgbgbgbgb/).
 
-This was sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/100/
 

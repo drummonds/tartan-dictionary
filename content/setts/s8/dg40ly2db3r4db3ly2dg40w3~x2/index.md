@@ -2,9 +2,10 @@
 title: "Asher (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYBRBYGW](/stripes/gybrbygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg40y2db3r4db3y2dg40ln3/)
+(the same proportion at any scale), whose colour order is pattern [GYBRBYGW](/stripes/gybrbygw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4990
 

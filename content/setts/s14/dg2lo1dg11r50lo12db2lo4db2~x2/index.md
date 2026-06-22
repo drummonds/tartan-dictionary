@@ -2,9 +2,10 @@
 title: "Slessor (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGRYBYBYBYRGY](/stripes/gygrybybybyrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2lt1dg11dr50lt12db2lt4db2/)
+(the same proportion at any scale), whose colour order is pattern [GYGRYBYBYBYRGY](/stripes/gygrybybybyrgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3818
 

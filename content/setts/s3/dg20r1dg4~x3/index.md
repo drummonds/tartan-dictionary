@@ -2,9 +2,10 @@
 title: "Castle Fraser Check"
 date: 2023-03-18
 ---
-In pattern [GRG](/stripes/grg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20r1g4/)
+(the same proportion at any scale), whose colour order is pattern [GRG](/stripes/grg/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Castle Fraser Check
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Castle Fraser Check (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592))
-- pre 2002 — Castle Fraser (Estate Check) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4476/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Castle Fraser Check (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=592">record</a>)</li>
+<li>pre 2002 — Castle Fraser (Estate Check) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4476/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

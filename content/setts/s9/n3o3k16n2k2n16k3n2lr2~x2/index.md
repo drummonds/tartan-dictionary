@@ -2,9 +2,10 @@
 title: "Chinzei Keiai Senior High School"
 date: 2023-03-18
 ---
-In pattern [BRKBKBKBY](/stripes/brkbkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na3nb3k16na2k2na16k3na2n2/)
+(the same proportion at any scale), whose colour order is pattern [BRKBKBKBY](/stripes/brkbkbkby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10922
 

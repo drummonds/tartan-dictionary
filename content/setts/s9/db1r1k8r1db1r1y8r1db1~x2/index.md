@@ -2,18 +2,20 @@
 title: "MacPherson Hunting"
 date: 2023-03-18
 ---
-In pattern [BRGRBRKRB](/stripes/brgrbrkrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1dr1k8dr1db1dr1n8dr1db1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRKRB](/stripes/brgrbrkrb/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacPherson Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacPherson Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacPherson Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacPherson Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/2 DR2 K16 DR2 DB2 DR2 N16 DR2 DB/2

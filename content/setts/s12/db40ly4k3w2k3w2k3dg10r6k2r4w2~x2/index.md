@@ -2,9 +2,10 @@
 title: "MacBeth #2"
 date: 2023-03-18
 ---
-In pattern [BYKWKWKGRKRW](/stripes/bykwkwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b40y4k3ln2k3ln2k3g10r6k2r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BYKWKWKGRKRW](/stripes/bykwkwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2298
 

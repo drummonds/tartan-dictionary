@@ -2,9 +2,10 @@
 title: "Coutts 75th (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKWKRKWBKBKBKBKGBGKGKGKWYWGKGKGKGK](/stripes/bkbkbkbkwkrkwbkbkbkbkgbgkgkgkwywgkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g1k1g1k1g1k1g12n4y4n4k1g1k1g1k1g1db1g12k12db1k1db1k1db1k1db12n4k1r4k1n4k1db1k1db1k1db1k1db12/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKWKRKWBKBKBKBKGBGKGKGKWYWGKGKGKGK](/stripes/bkbkbkbkwkrkwbkbkbkbkgbgkgkgkwywgkgkgkgk/).
 
-This was sourced from tartans-authority.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from tartans-authority.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10321/
 

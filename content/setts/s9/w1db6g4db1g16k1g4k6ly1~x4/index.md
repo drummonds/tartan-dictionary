@@ -2,9 +2,10 @@
 title: "Henderson/MacKendrick"
 date: 2023-03-18
 ---
-In pattern [WBGBGKGKY](/stripes/wbgbgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1k6g4k1g16db1g4db6ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGKGKY](/stripes/wbgbgkgky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685
 
@@ -17,13 +18,14 @@ This cloth is also recorded under:
 - Henderson/MacKendrick
 - MacKendrick
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1842 — Henderson/MacKendrick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685))
-- 1842 — Henderson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1762/))
-- 1842 — MacKendrick (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3404/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Henderson/MacKendrick (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1685">record</a>)</li>
+<li>1842 — Henderson (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1762/">record</a>)</li>
+<li>1842 — MacKendrick (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3404/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

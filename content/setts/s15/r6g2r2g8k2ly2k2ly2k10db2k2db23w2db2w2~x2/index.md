@@ -2,18 +2,20 @@
 title: "Estes"
 date: 2023-03-18
 ---
-In pattern [RGRGKYKYKBKBWBW](/stripes/rgrgkykykbkbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g2r2g8k2y2k2y2k10b2k2b23ln2b2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGKYKYKBKBWBW](/stripes/rgrgkykykbkbwbw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Estes (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Estes Family Tartan Tartan Number: 1520. Earliest known date: 1985 Woven by D.C.Dalgleish. Sample in STA's Johnston Collection. 'Tartans' (1999) by Johnston/Smith gives the blue ground as lavender. Blue/white for Scotland. Red/green for Wales and saffron for Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1520))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Estes (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Estes Family Tartan Tartan Number: 1520. Earliest known date: 1985 Woven by D.C.Dalgleish. Sample in STA's Johnston Collection. 'Tartans' (1999) by Johnston/Smith gives the blue ground as lavender. Blue/white for Scotland. Red/green for Wales and saffron for Ireland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1520">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/12 G4 R4 G16 K4 Y4 K4 Y4 K20 B4 K4 B46 LN4 B4 LN/4

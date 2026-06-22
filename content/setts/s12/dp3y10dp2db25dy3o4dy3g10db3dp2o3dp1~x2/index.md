@@ -2,9 +2,10 @@
 title: "Bowhunter (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGBBGRGGBBRB](/stripes/bgbbgrggbbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3ga10p2db25t3n4t3g10db3p2n3p1/)
+(the same proportion at any scale), whose colour order is pattern [BGBBGRGGBBRB](/stripes/bgbbgrggbbrb/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10267/
 

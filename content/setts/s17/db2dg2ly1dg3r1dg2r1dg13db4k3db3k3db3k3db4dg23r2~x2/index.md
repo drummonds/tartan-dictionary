@@ -2,9 +2,10 @@
 title: "Kennedy"
 date: 2023-03-18
 ---
-In pattern [BGYGRGRGBKBKBKBGR](/stripes/bgygrgrgbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2g2y1g3r1g2r1g13db4k3db3k3db3k3db4g23r2/)
+(the same proportion at any scale), whose colour order is pattern [BGYGRGRGBKBKBKBGR](/stripes/bgygrgrgbkbkbkbgr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

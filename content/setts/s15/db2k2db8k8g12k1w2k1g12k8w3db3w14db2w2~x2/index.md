@@ -2,9 +2,10 @@
 title: "Forbes Dress"
 date: 2023-03-18
 ---
-In pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k2db8k8g12k1w2k1g12k8w3db3w14db2w2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKWKGKWBWBW](/stripes/bkbkgkwkgkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Forbes, dress
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/2002 — Forbes Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222))
-- pre 2002 — Forbes Dress - 1990 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/293/))
-- undated — Forbes, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=293))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Forbes Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1222">record</a>)</li>
+<li>pre 2002 — Forbes Dress - 1990 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/293/">record</a>)</li>
+<li>undated — Forbes, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Forbes Dress Clan Tartan Tartan Number: 293. Earliest known date: pre 2003 Lochcarron Specimen. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=293">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

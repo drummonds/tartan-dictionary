@@ -2,9 +2,10 @@
 title: "New Brunswick (Lyon Court Books)"
 date: 2023-03-18
 ---
-In pattern [BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrrryrrrbyryrgbybybgggggggbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1y1b1dg28r24y1n2y3b4r10dr16r4y2r15dr5r9dg28b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrrryrrrbyryrgbybybgggggggbyb/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=238
 

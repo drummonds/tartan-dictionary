@@ -2,9 +2,10 @@
 title: "Kilmarnock F.C. (Sports)"
 date: 2023-03-18
 ---
-In pattern [BWBBBBBBBBY](/stripes/bwbbbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4ln3db4p3db3p3db15dba8db11dba28y2/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBBBBBY](/stripes/bwbbbbbbbby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6597/
 

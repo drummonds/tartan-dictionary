@@ -2,9 +2,10 @@
 title: "Recycled Lamb, The"
 date: 2023-03-18
 ---
-In pattern [GRGRBRWRBRBRGY](/stripes/grgrbrwrbrbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15r1g8ra3p1ra3w1ra3p1ra3p12r1g7y1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRBRWRBRBRGY](/stripes/grgrbrwrbrbrgy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10837
 

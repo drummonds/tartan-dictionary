@@ -2,18 +2,20 @@
 title: "Passion of Scotland (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBBKGK](/stripes/brbbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6na4n2db25k30g2k2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBKGK](/stripes/brbbkgk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7729/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- December 2007 — Passion of Scotland (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7729/))
-- undated — Passion of Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5713))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>December 2007 — Passion of Scotland (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7729/">record</a>)</li>
+<li>undated — Passion of Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5713">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

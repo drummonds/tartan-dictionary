@@ -2,18 +2,20 @@
 title: "Murray of Ochtertyre"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKRKRKRKRKR](/stripes/krkrkrkrkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r1k1r1k1r10k10r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKRKRKRKRKR](/stripes/krkrkrkrkrkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1746 — Murray of Ochtertyre (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067))
-- 1746 — Murray of Ochtertyre - 1746 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5642/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1746 — Murray of Ochtertyre (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3067">record</a>)</li>
+<li>1746 — Murray of Ochtertyre - 1746 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5642/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

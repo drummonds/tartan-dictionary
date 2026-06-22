@@ -2,9 +2,10 @@
 title: "Confessore"
 date: 2023-03-18
 ---
-In pattern [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12g2dg2g7y4r2y8r2y4g7dg2g2dg16ln2dg4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGYRYRYGGGGWG](/stripes/ggggyryryggggwg/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

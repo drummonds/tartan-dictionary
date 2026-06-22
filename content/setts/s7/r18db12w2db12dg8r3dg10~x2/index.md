@@ -2,18 +2,20 @@
 title: "Brough (Name)"
 date: 2023-03-18
 ---
-In pattern [GRGBWBR](/stripes/grgbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr18db12w2db12g8dr3g10/)
+(the same proportion at any scale), whose colour order is pattern [GRGBWBR](/stripes/grgbwbr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2233/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1992 — Brough (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2233/))
-- undated — Brough (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=389))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1992 — Brough (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2233/">record</a>)</li>
+<li>undated — Brough (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=389">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

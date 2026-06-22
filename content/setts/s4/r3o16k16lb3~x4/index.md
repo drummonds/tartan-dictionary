@@ -2,9 +2,10 @@
 title: "Thompson, Dress (Clan)"
 date: 2023-03-18
 ---
-In pattern [RRKW](/stripes/rrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3na16k16n3/)
+(the same proportion at any scale), whose colour order is pattern [RRKW](/stripes/rrkw/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3597/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Thompson, Grey
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Thompson, Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3597/))
-- undated — Thompson, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5157))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Thompson, Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3597/">record</a>)</li>
+<li>undated — Thompson, Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5157">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

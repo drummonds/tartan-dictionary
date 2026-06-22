@@ -2,9 +2,10 @@
 title: "Stuart / Stewart, Silver"
 date: 2023-03-18
 ---
-In pattern [GBGYGWGGRGRW](/stripes/gbgygwggrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n60b5n8y2n4ln2n4g16lt8n2lt4ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBGYGWGGRGRW](/stripes/gbgygwggrgrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

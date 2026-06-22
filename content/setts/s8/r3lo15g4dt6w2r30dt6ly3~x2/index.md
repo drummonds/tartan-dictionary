@@ -2,9 +2,10 @@
 title: "Round Table Sweden"
 date: 2023-03-18
 ---
-In pattern [RYGBWRBY](/stripes/rygbwrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3dy15g4db6w2dr30db6y3/)
+(the same proportion at any scale), whose colour order is pattern [RYGBWRBY](/stripes/rygbwrby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10876/
 

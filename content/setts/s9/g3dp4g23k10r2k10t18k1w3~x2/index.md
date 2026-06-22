@@ -2,9 +2,10 @@
 title: "Birch Family Tartan Tartan Number: 2157. Earliest known date: 1993 The Birch family tartan was designed and produced by Mr Robin Birch of Connell Reid kiltmaker, Blairgowrie. The new sett has been recorded by the Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGKRKBKW](/stripes/gbgkrkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3p4g23k10r2k10b18k1ln3/)
+(the same proportion at any scale), whose colour order is pattern [GBGKRKBKW](/stripes/gbgkrkbkw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2157
 

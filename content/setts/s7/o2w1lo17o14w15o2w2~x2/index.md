@@ -2,9 +2,10 @@
 title: "North American Sheep Breeders Association"
 date: 2023-03-18
 ---
-In pattern [RWYRWRW](/stripes/rwyrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2ly1lt17n14ly15n2ly2/)
+(the same proportion at any scale), whose colour order is pattern [RWYRWRW](/stripes/rwyrwrw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - North American Sheep Breeders Association
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2007 — North American Sheep Breeders Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088))
-- Feb 2007 — NASSA (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7097/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2007 — North American Sheep Breeders Association (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3088">record</a>)</li>
+<li>Feb 2007 — NASSA (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7097/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

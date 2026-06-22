@@ -2,18 +2,20 @@
 title: "Total"
 date: 2023-03-18
 ---
-In pattern [BYBKWKYKBKYKWKRYB](/stripes/bybkwkykbkykwkryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24o2db14k3w2k3o2k4dba4k4o2k3w2k3r12o2dba24/)
+(the same proportion at any scale), whose colour order is pattern [BYBKWKYKBKYKWKRYB](/stripes/bybkwkykbkykwkryb/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/09/1999 — Total (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141))
-- Sep. 1999 — Total (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2615/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/09/1999 — Total (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4141">record</a>)</li>
+<li>Sep. 1999 — Total (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2615/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

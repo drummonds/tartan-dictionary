@@ -2,9 +2,10 @@
 title: "Royal Caledonian Curling Club"
 date: 2023-03-18
 ---
-In pattern [BRBRBYBRBBBBWBR](/stripes/brbrbybrbbbbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn72dr2dn2dr5dn4o2dn4dr5dn2db2dn2db15lb2db3r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBYBRBBBBWBR](/stripes/brbrbybrbbbbwbr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11346
 

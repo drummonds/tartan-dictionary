@@ -2,9 +2,10 @@
 title: "MacDonald, Flora (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKBKBKBKGKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkbkbkbkgkbkbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba24kb4ba4kb4ba4kb22ba24k6ba24kb22ba18ka24ba18kb22b14ka4b4ka4b8kb1g6kb1b8ka4b4ka4b14kb22ba4kb4ba4kb4ba24/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBKBKBKGKBKBKBKBKBKB](/stripes/bkbkbkbkbkbkbkbkbkbkgkbkbkbkbkbkb/).
 
-This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/217/
 

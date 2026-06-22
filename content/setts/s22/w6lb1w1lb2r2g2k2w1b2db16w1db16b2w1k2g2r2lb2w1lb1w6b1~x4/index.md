@@ -2,9 +2,10 @@
 title: "Arctic (District)"
 date: 2023-03-18
 ---
-In pattern [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6n1w1n2r2g2k2w1b2db16w1db16b2w1k2g2r2n2w1n1w6b1/)
+(the same proportion at any scale), whose colour order is pattern [BWWWWRGKWBBWBBWKGRWWWW](/stripes/bwwwwrgkwbbwbbwkgrwwww/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3040/
 

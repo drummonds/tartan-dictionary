@@ -2,9 +2,10 @@
 title: "Florence (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRRBRRWRWBRBR](/stripes/brrbrrwrwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32p8b1p1ln1b1ln1lt1b1p1n1b4p1/)
+(the same proportion at any scale), whose colour order is pattern [BRRBRRWRWBRBR](/stripes/brrbrrwrwbrbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4871/
 

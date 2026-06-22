@@ -2,18 +2,20 @@
 title: "Tartan Army"
 date: 2023-03-18
 ---
-In pattern [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b22db2b4db2b4db8ln2db2ln2db10r5y2r5db10ln2db2ln2db8b18db2b4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBWBWBRYRBWBWBBBB](/stripes/bbbbbbwbwbryrbwbwbbbb/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/1997 — Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073))
-- June 1997 — Tartan Army (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2389/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/1997 — Tartan Army (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4073">record</a>)</li>
+<li>June 1997 — Tartan Army (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2389/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

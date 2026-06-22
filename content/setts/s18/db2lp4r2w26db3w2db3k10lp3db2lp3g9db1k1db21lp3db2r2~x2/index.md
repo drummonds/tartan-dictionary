@@ -2,9 +2,10 @@
 title: "Cooper Dress (Dalgliesh #1) (Dance)"
 date: 2023-03-18
 ---
-In pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2lp4r2w26db3w2db3k10lp3db2lp3g9db1k1db21lp3db2r2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWBWBKWBWGBKBWBR](/stripes/bwrwbwbkwbwgbkbwbr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/75/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Cooper, dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1988 — Cooper Dress (Dalgliesh #1) (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/75/))
-- undated — Cooper, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cooper Dress Tartan Tartan Number: 75. Earliest known date: 1970-80 Modern White replaces green in this dress version of the Couper of Gogar family tartan. The original dates to circa 1886 when it was woven for the Gogar branch of the family by Peter MacArthur and Company in Hamilton. The dress version has been produced more recently. The Coupers of Gogar are also Baronets of Nova Scotia (1638). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=75))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1988 — Cooper Dress (Dalgliesh #1) (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/75/">record</a>)</li>
+<li>undated — Cooper, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cooper Dress Tartan Tartan Number: 75. Earliest known date: 1970-80 Modern White replaces green in this dress version of the Couper of Gogar family tartan. The original dates to circa 1886 when it was woven for the Gogar branch of the family by Peter MacArthur and Company in Hamilton. The dress version has been produced more recently. The Coupers of Gogar are also Baronets of Nova Scotia (1638). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=75">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 LP8 R4 W52 DB6 W4 DB6 K20 LP6 DB4 LP6 G18 DB2 K2 DB42 LP6 DB4 R/4

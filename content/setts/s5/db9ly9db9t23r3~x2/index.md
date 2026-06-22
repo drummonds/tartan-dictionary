@@ -2,18 +2,20 @@
 title: "Tilburg (District)"
 date: 2023-03-18
 ---
-In pattern [BYBBR](/stripes/bybbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9lg9db9b23r3/)
+(the same proportion at any scale), whose colour order is pattern [BYBBR](/stripes/bybbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7464/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Aug 2007 — Tilburg (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7464/))
-- undated — Tilburg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Aug 2007 — Tilburg (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7464/">record</a>)</li>
+<li>undated — Tilburg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5509">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

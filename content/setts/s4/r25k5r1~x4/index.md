@@ -2,9 +2,10 @@
 title: "Masai Shuka 12 (Artefact)"
 date: 2023-03-18
 ---
-In pattern [KRKR](/stripes/krkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25k5r1/)
+(the same proportion at any scale), whose colour order is pattern [KRKR](/stripes/krkr/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7202/
 

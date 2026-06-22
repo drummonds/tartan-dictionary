@@ -2,9 +2,10 @@
 title: "Pownall (2015)"
 date: 2023-03-18
 ---
-In pattern [BYWBY](/stripes/bywby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p30lt7w6b30y8/)
+(the same proportion at any scale), whose colour order is pattern [BYWBY](/stripes/bywby/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11257
 

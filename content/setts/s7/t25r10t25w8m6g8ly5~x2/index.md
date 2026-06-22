@@ -2,9 +2,10 @@
 title: "Barneys (Scunthorpe) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBWRGY](/stripes/brbwrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b25dr10b25ly8lp6g8y5/)
+(the same proportion at any scale), whose colour order is pattern [BRBWRGY](/stripes/brbwrgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10954
 

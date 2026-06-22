@@ -2,9 +2,10 @@
 title: "Machair (warp)"
 date: 2023-03-18
 ---
-In pattern [KWKWKR](/stripes/kwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt72db16ln9db4ln5db16/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKR](/stripes/kwkwkr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

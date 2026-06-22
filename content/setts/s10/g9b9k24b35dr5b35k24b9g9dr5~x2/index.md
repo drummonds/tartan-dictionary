@@ -2,9 +2,10 @@
 title: "Notre Dame Marching Guard"
 date: 2023-03-18
 ---
-In pattern [BGBKBBBKBG](/stripes/bgbkbbbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9b9k24b35dr5b35k24b9g9dr5/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBBBKBG](/stripes/bgbkbbbkbg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3199
 

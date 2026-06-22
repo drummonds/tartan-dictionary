@@ -2,9 +2,10 @@
 title: "Inverary"
 date: 2023-03-18
 ---
-In pattern [GKBKWY](/stripes/gkbkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k1b13k3ln9y3/)
+(the same proportion at any scale), whose colour order is pattern [GKBKWY](/stripes/gkbkwy/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

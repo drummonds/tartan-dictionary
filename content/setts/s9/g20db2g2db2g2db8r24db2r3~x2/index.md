@@ -2,9 +2,10 @@
 title: "Lindsay"
 date: 2023-03-18
 ---
-In pattern [GBGBGBRBR](/stripes/gbgbgbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20db2g2db2g2db8r24db2r3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBRBR](/stripes/gbgbgbrbr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2115
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lindsay
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1842 — Lindsay (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2115))
-- 1842 — Lindsay (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/704/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Lindsay (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2115">record</a>)</li>
+<li>1842 — Lindsay (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/704/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

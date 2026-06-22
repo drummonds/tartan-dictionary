@@ -2,9 +2,10 @@
 title: "Douglas, Ancient dress"
 date: 2023-03-18
 ---
-In pattern [GWKWKGKYKRGKGKGKGKR](/stripes/gwkwkgkykrgkgkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8ln11k2ln4n2/)
+(the same proportion at any scale), whose colour order is pattern [GWKWKGKYKRGKGKGKGKR](/stripes/gwkwkgkykrgkgkgkgkr/).
 
-This was sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from weddslist.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Gorman Spring (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBGWRWGBGWRWGBBBYB](/stripes/bbbgwrwgbgwrwgbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db72b4db10g4ln4p6ln4g4db10g4ln4p6ln4g4db10b4db23y2db18/)
+(the same proportion at any scale), whose colour order is pattern [BBBGWRWGBGWRWGBBBYB](/stripes/bbbgwrwgbgwrwgbbbyb/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10262/
 

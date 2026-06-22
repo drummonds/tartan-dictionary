@@ -2,9 +2,10 @@
 title: "Confrerie de Vouvray Corporate Tartan Tartan Number: 5802. Earliest known date: 2003 The Confrerie de Vouvray tartan was created for the French Order of Wine Growers by the Chevaliers Ecossais de la Chantepleure de Vouvray. The red, yellow and maroon are the colours of the french order and the grid pattern of green lines depict the rows of vines of the Chenin Blanc grape. The tartan was presented as a gift to the Grand Council at the 2nd Scottish Confrerie, held in Dundee in May 2003. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRYRRYRBRGRGRGRGRGRGRGRGRGRBRYRRYR](/stripes/bryrryrbrgrgrgrgrgrgrgrgrgrbryrryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r3y14r3dr15y3dr15db5dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3g1dr3db5dr15y3dr19r3y14r3/)
+(the same proportion at any scale), whose colour order is pattern [BRYRRYRBRGRGRGRGRGRGRGRGRGRBRYRRYR](/stripes/bryrryrbrgrgrgrgrgrgrgrgrgrbryrryr/).
 
-This was sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from house-of-tartan.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5802
 

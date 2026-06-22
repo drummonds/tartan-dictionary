@@ -2,9 +2,10 @@
 title: "Ross Purple Dress Tartan Tartan Number: 8711. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBKBKWRWR](/stripes/brbrbkbkwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4lr3p3lr4p4k9p4k9w26lr2w4lr2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKBKWRWR](/stripes/brbrbkbkwrwr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8711
 

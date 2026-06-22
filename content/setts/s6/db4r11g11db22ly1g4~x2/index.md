@@ -2,18 +2,20 @@
 title: "Harvey"
 date: 2023-03-18
 ---
-In pattern [BRGBYG](/stripes/brgbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r11g11db22y1g4/)
+(the same proportion at any scale), whose colour order is pattern [BRGBYG](/stripes/brgbyg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Harvey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622))
-- pre 1985 — Harvey (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6848/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Harvey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1622">record</a>)</li>
+<li>pre 1985 — Harvey (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6848/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

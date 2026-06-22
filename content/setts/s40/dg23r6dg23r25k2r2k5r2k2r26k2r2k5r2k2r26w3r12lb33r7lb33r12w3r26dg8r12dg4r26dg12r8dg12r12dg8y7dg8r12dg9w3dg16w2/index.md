@@ -2,9 +2,10 @@
 title: "Kinnoull (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRWRWRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrwrwrwrgrgrgrgrgggrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga23r6ga23r25k2r2k5r2k2r26k2r2k5r2k2r26w3r12lb33r7lb33r12w3r26ga8r12ga4r26ga12r8ga12r12ga8g7ga8r12ga9w3ga16w2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRWRWRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrwrwrwrgrgrgrgrgggrgwgw/).
 
-This was sourced from tartans-authority.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from tartans-authority.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/854/
 

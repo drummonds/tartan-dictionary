@@ -2,9 +2,10 @@
 title: "MacDonald of Prince Edward Island"
 date: 2023-03-18
 ---
-In pattern [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24db6k8g6r1g6r2g3k1y2k1g1r1g2r1g7k9db11k1w2k1db11k9db8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKBKGRGRGKYKGRGRGKBR](/stripes/bkbkwkbkgrgrgkykgrgrgkbr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2366
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDonald, of Pr Edward Island
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — MacDonald of Prince Edward Island (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2366))
-- undated — MacDonald, of Pr Edward Island (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — MacDonald of Prince Edward Island (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2366">record</a>)</li>
+<li>undated — MacDonald, of Pr Edward Island (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

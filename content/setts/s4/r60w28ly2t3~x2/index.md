@@ -2,18 +2,20 @@
 title: "Willis, H Graham"
 date: 2023-03-18
 ---
-In pattern [BYWR](/stripes/bywr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r60ln28y2b3/)
+(the same proportion at any scale), whose colour order is pattern [BYWR](/stripes/bywr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11283
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2015 — Willis, H Graham (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11283))
-- 2015 — Willis, H Graham (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11283/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2015 — Willis, H Graham (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11283">record</a>)</li>
+<li>2015 — Willis, H Graham (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11283/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

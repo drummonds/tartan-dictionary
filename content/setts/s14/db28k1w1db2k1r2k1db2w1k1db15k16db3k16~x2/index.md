@@ -2,19 +2,21 @@
 title: "Bristow Helicopters"
 date: 2023-03-18
 ---
-In pattern [BKWBKRKBWKBKBK](/stripes/bkwbkrkbwkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db28k1w1db2k1r2k1db2w1k1db15k16db3k16/)
+(the same proportion at any scale), whose colour order is pattern [BKWBKRKBWKBKBK](/stripes/bkwbkrkbwkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/09/1997 — Bristow Helicopters (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356))
-- 1998? — Bristow Helicopters (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2401/))
-- undated — Bristow Helicopters (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/1997 — Bristow Helicopters (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=356">record</a>)</li>
+<li>1998? — Bristow Helicopters (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2401/">record</a>)</li>
+<li>undated — Bristow Helicopters (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Safeway"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b38k6b6k6b6k40g38k4r9k4g38k40b38k6b6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

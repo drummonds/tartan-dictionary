@@ -2,9 +2,10 @@
 title: "St. Andrews Soc. of New York (Corp)"
 date: 2023-03-18
 ---
-In pattern [RKGKGKGKGKGKGKBKBKBKBKBKBWR](/stripes/rkgkgkgkgkgkgkbkbkbkbkbkbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4lr8/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKGKGKGKGKBKBKBKBKBKBWR](/stripes/rkgkgkgkgkgkgkbkbkbkbkbkbwr/).
 
-This was sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from tartans-authority.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6072/
 

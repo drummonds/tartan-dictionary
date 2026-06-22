@@ -2,9 +2,10 @@
 title: "Gudbrandsdalen, Mannsdrakt"
 date: 2023-03-18
 ---
-In pattern [GRKGRKGRGKRGKRWR](/stripes/grkgrkgrgkrgkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg44r2k5dg4r2k1dg2r10dg2k1r2dg4k5r2ln1r44/)
+(the same proportion at any scale), whose colour order is pattern [GRKGRKGRGKRGKRWR](/stripes/grkgrkgrgkrgkrwr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gudbrandsdalen, Mannsdrakt
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gudbrandsdalen, Mannsdrakt (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gudbrandsdalen Mannsdrakt District Tartan Tartan Number: 2081. Earliest known date: 18th Century Sample is an off cut of hard tartan woven in plain weave - from fabric used to make a true copy of the original jacket in the possession of Bjornsgaard Farm, Dovre, Norway. Part of the collection of Norwegian district tartans presented to the Scottish Tartans Society by Erik Paulsen in 1992. Scottish-Norwegian connections are explored in a research report available from the Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2081))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gudbrandsdalen, Mannsdrakt (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gudbrandsdalen Mannsdrakt District Tartan Tartan Number: 2081. Earliest known date: 18th Century Sample is an off cut of hard tartan woven in plain weave - from fabric used to make a true copy of the original jacket in the possession of Bjornsgaard Farm, Dovre, Norway. Part of the collection of Norwegian district tartans presented to the Scottish Tartans Society by Erik Paulsen in 1992. Scottish-Norwegian connections are explored in a research report available from the Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2081">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DG/88 R4 K10 DG8 R4 K2 DG4 R20 DG4 K2 R4 DG8 K10 R4 LN2 R/88

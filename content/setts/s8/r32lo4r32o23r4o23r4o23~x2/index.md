@@ -2,9 +2,10 @@
 title: "Hamilton, Red"
 date: 2023-03-18
 ---
-In pattern [RRRRRRYR](/stripes/rrrrrryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr32o4dr32do23dr4do23dr4do23/)
+(the same proportion at any scale), whose colour order is pattern [RRRRRRYR](/stripes/rrrrrryr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1581
 

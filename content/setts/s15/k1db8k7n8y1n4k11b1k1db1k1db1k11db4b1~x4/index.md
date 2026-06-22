@@ -2,9 +2,10 @@
 title: "Shadow Halls"
 date: 2023-03-18
 ---
-In pattern [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1db8k7n8lg1n4k11b1k1db1k1db1k11db4b1/)
+(the same proportion at any scale), whose colour order is pattern [BBKBKBKBKBGBKBK](/stripes/bbkbkbkbkbgbkbk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11013/
 

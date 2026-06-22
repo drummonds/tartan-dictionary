@@ -2,9 +2,10 @@
 title: "Skye Dress, Blue, Earl of (Dance)"
 date: 2023-03-18
 ---
-In pattern [BBBBBWBBWBBRWBWR](/stripes/bbbbbwbbwbbrwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4ln5db2ln22dr14db4b2ln4b2db3ln3db4b2n4b2db4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBWBBWBBRWBWR](/stripes/bbbbbwbbwbbrwbwr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5331/
 

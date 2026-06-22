@@ -2,9 +2,10 @@
 title: "Heritage of Wales (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBRBKBW](/stripes/rbrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10db4r6db30k10db5ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKBW](/stripes/rbrbkbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8281/
 

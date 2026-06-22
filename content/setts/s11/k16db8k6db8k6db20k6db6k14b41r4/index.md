@@ -2,9 +2,10 @@
 title: "Merchiston Castle School"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKBR](/stripes/kbkbkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16db8k6db8k6db20k6db6k14b41r4/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKBR](/stripes/kbkbkbkbkbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Merchiston Castle School
 - Merchiston, Castle School
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Merchiston Castle School (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934))
-- 1988 — Merchiston Castle (School) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1051/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Merchiston Castle School (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2934">record</a>)</li>
+<li>1988 — Merchiston Castle (School) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1051/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

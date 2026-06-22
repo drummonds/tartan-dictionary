@@ -2,9 +2,10 @@
 title: "(3) Laing"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBRBYBYBYR](/stripes/bkbkbkbrbybybyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k6db2k8db2w2db52r2db2y8db2y6db2y2r1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBRBYBYBYR](/stripes/bkbkbkbrbybybyr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

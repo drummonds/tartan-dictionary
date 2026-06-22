@@ -2,9 +2,10 @@
 title: "Craig (Paisley)"
 date: 2023-03-18
 ---
-In pattern [BKBKWKWBWBWBBWKYKWBBWBWBWKWKBK](/stripes/bkbkwkwbwbwbbwkykwbbwbwbwkwkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba100k18ba6k5w4k1w60ba4w5ba24w4ba4b6w6k1y4k1w6b6ba4w4ba24w5ba4w60k1w4k6ba6k18/)
+(the same proportion at any scale), whose colour order is pattern [BKBKWKWBWBWBBWKYKWBBWBWBWKWKBK](/stripes/bkbkwkwbwbwbbwkykwbbwbwbwkwkbk/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=786
 

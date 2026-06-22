@@ -2,9 +2,10 @@
 title: "MacArthur of Milton Hunting Clan Tartan Tartan Number: 700. Earliest known date: 1823 This is the older of the two MacArthur setts, which links the clan with the Campbells. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBGKBK](/stripes/gbgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14db2g2k8p9k2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKBK](/stripes/gbgkbk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=700
 

@@ -2,9 +2,10 @@
 title: "Warren Wilson College (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GYBYBRBR](/stripes/gybybrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20n6db20y3db48dr6db4dr6/)
+(the same proportion at any scale), whose colour order is pattern [GYBYBRBR](/stripes/gybybrbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2196/
 

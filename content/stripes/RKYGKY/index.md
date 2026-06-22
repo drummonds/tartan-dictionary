@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/rkygky/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">RKYGKY</span></div>
+
 It is a 6 stripe tartan.
 
-![Woven sample](/setts/s6/o84k35lr3g35k3ly10/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern RKYGKY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

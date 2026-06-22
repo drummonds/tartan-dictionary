@@ -2,18 +2,20 @@
 title: "Drummond, Grey (Clans Originaux)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5w3k3n10w3k3w2k6w1k15w3k3w2k5/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWWKWK](/stripes/kwkwkwkwkwwkwk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1880 — Drummond, Grey (Clans Originaux) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994))
-- 1880 — Drummond, Grey (Clans Originaux) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6290/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Drummond, Grey (Clans Originaux) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=994">record</a>)</li>
+<li>1880 — Drummond, Grey (Clans Originaux) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6290/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

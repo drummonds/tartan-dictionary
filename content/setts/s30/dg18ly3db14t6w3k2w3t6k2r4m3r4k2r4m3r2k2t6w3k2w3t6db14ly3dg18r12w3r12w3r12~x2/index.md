@@ -2,9 +2,10 @@
 title: "Unidentified Cant #01 (Cumming)"
 date: 2023-03-18
 ---
-In pattern [GYBBWKWBKRRRKRRRKBWKWBBYGRWRWR](/stripes/gybbwkwbkrrrkrrrkbwkwbbygrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18y3db14b6ln3k2ln3b6k2r4lp3lr4k2lr4lp3r2k2b6ln3k2ln3b6db14y3g18r12ln3r12ln3r12/)
+(the same proportion at any scale), whose colour order is pattern [GYBBWKWBKRRRKRRRKBWKWBBYGRWRWR](/stripes/gybbwkwbkrrrkrrrkbwkwbbygrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4286
 

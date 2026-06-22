@@ -2,9 +2,10 @@
 title: "Hay, or Leith"
 date: 2023-03-18
 ---
-In pattern [BRKWGRYRGRKYRKRYKRBRYR](/stripes/brkwgryrgrkyrkrykrbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b41r2k42ln2g41r3y2r3g3r31k3y2r3k5r3y2k3r31b3r3y2r3/)
+(the same proportion at any scale), whose colour order is pattern [BRKWGRYRGRKYRKRYKRBRYR](/stripes/brkwgryrgrkyrkrykrbryr/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

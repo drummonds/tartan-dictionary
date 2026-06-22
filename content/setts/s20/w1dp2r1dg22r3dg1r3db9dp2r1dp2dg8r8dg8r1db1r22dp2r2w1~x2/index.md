@@ -2,9 +2,10 @@
 title: "MacDougall (Paton)"
 date: 2023-03-18
 ---
-In pattern [WBRGRGRBBRBGRGRBRBRW](/stripes/wbrgrgrbbrbgrgrbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1r2p2r22b1r1g8r8g8p2r1p2b9r3g1r3g22r1p2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBRGRGRBBRBGRGRBRBRW](/stripes/wbrgrgrbbrbgrgrbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2406
 

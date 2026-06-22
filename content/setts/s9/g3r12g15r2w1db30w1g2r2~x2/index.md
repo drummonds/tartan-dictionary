@@ -2,9 +2,10 @@
 title: "Christmas Morning"
 date: 2023-03-18
 ---
-In pattern [GRGRWBWGR](/stripes/grgrwbwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r12g15r2w1db30w1g2r2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRWBWGR](/stripes/grgrwbwgr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6014
 

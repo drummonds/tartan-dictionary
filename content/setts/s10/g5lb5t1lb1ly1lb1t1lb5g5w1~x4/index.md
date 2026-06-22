@@ -2,9 +2,10 @@
 title: "MacGiboney Clan Tartan Tartan Number: 3839. Earliest known date: 1999 Designed by Greg McGibonney from Fremont, California. The sett shown here was submitted as a woven sample by Greg McGibboney. Colours here are from the woven sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GWBWYWBWGW](/stripes/gwbwywbwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5na5b1na1y1na1b1na5g5ln1/)
+(the same proportion at any scale), whose colour order is pattern [GWBWYWBWGW](/stripes/gwbwywbwgw/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3839
 

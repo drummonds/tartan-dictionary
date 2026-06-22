@@ -2,18 +2,20 @@
 title: "Royal Naval Association"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14dba21r2dba3db4dba21r3ln3r3dba21db4dba3r2dba21db14ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRWRKBKRKBW](/stripes/bkrkbkrwrkbkrkbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2002 — Royal Naval Association (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604))
-- 2002 — Royal Naval Association (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3935/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2002 — Royal Naval Association (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3604">record</a>)</li>
+<li>2002 — Royal Naval Association (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3935/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

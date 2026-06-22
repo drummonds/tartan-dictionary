@@ -2,9 +2,10 @@
 title: "Cornish Pascoe (Name)"
 date: 2023-03-18
 ---
-In pattern [WKRBRBRBRBYKYWYKW](/stripes/wkrbrbrbrbykywykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k32na5n3na2n3na2n3na1n6y3k2y1w3y2k2ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKRBRBRBRBYKYWYKW](/stripes/wkrbrbrbrbykywykw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10189/
 

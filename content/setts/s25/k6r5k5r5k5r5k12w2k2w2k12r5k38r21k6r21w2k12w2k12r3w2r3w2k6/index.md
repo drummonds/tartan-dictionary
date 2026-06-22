@@ -2,18 +2,20 @@
 title: "Amstartan"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKWKWKRKRKRWKWKRWRWK](/stripes/krkrkrkwkwkrkrkrwkwkrwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r5k5r5k5r5k12w2k2w2k12r5k38r21k6r21w2k12w2k12r3w2r3w2k6/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKWKWKRKRKRWKWKRWRWK](/stripes/krkrkrkwkwkrkrkrwkwkrwrwk/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10126
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 11/10/2009 — Amstartan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10126))
-- 11th Oct. 2009 — Amstartan (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10126/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>11/10/2009 — Amstartan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10126">record</a>)</li>
+<li>11th Oct. 2009 — Amstartan (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10126/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

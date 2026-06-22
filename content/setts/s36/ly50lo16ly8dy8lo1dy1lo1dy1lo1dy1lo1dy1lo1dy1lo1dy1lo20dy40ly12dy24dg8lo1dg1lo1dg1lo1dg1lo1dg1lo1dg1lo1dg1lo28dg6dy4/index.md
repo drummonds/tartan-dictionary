@@ -2,9 +2,10 @@
 title: "Alberta (CIDD 28106)"
 date: 2023-03-18
 ---
-In pattern [GGYGYGYGYGYGYGYGGYGYGYGYGYGYGYGYGYYY](/stripes/ggygygygygygygyggygygygygygygygygyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg50dy16lg8t8dy1t1dy1t1dy1t1dy1t1dy1t1dy1t1dy20t40lg12t24dg8dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy28dg6t4/)
+(the same proportion at any scale), whose colour order is pattern [GGYGYGYGYGYGYGYGGYGYGYGYGYGYGYGYGYYY](/stripes/ggygygygygygygyggygygygygygygygygyyy/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5704
 

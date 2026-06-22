@@ -2,18 +2,20 @@
 title: "Hogg"
 date: 2023-03-18
 ---
-In pattern [KWBW](/stripes/kwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1dr1/)
+(the same proportion at any scale), whose colour order is pattern [KWBW](/stripes/kwbw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Hogg (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745))
-- pre 2002 — Hogg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5206/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Hogg (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1745">record</a>)</li>
+<li>pre 2002 — Hogg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5206/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

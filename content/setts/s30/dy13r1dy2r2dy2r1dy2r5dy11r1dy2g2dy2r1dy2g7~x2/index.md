@@ -2,9 +2,10 @@
 title: "Sarna (Town)"
 date: 2023-03-18
 ---
-In pattern [GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG](/stripes/ggrgggrgrgrgrgrgrgrgrgrgrgggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t13r1t2r2t2r1t2r5t11r1t2g2t2r1t2g7/)
+(the same proportion at any scale), whose colour order is pattern [GGRGGGRGRGRGRGRGRGRGRGRGRGGGRG](/stripes/ggrgggrgrgrgrgrgrgrgrgrgrgggrg/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3655
 

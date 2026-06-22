@@ -2,9 +2,10 @@
 title: "Fleming Commemorative Tartan Tartan Number: 2531. Earliest known date: 1997 Kilt was created for Scotland Flanders 2002 as a cultural exchange product. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKYKBKBKWKBKBKYKBKBKBK](/stripes/bkbkbkbkykbkbkwkbkbkykbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k3db3k3db3k16db17k2y4k2db17k16db17k2ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKYKBKBKWKBKBKYKBKBKBK](/stripes/bkbkbkbkykbkbkwkbkbkykbkbkbk/).
 
-This was sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from house-of-tartan.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2531
 

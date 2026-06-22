@@ -2,9 +2,10 @@
 title: "Recovery dress"
 date: 2023-03-18
 ---
-In pattern [GWKRKWGKGKGKGKWKWKGKGKGKGWKYKWGKGKGKGKWKWKGKGKGK](/stripes/gwkrkwgkgkgkgkwkwkgkgkgkgwkykwgkgkgkgkwkwkgkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1g1db1g1db1g1db8ln1db2ln1db8g1db1g1db1g1db1g1ln8k1y1k1ln8g1db1g1db1g1db1g1db8ln1db2ln1db8g1db1g1db1g1db1g1ln8k1r1k1ln8g1/)
+(the same proportion at any scale), whose colour order is pattern [GWKRKWGKGKGKGKWKWKGKGKGKGWKYKWGKGKGKGKWKWKGKGKGK](/stripes/gwkrkwgkgkgkgkwkwkgkgkgkgwkykwgkgkgkgkwkwkgkgkgk/).
 
-This was sourced from weddslist.  It is a [48 stripe tartan](/stripes/stripes48/).
+Sourced from weddslist.  It is a [48 stripe tartan](/stripes/stripes48/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

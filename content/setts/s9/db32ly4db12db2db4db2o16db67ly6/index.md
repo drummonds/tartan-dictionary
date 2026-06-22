@@ -2,9 +2,10 @@
 title: "Calum's Cabin"
 date: 2023-03-18
 ---
-In pattern [BYBBBBRBY](/stripes/bybbbbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba32y4db12dba2db4dba2n16dba67y6/)
+(the same proportion at any scale), whose colour order is pattern [BYBBBBRBY](/stripes/bybbbbrby/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11237/
 

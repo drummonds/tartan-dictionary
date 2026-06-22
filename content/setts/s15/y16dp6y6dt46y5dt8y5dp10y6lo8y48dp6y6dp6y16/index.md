@@ -2,9 +2,10 @@
 title: "Aberlour Bicentenary"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGBGYGBGBG](/stripes/gbgbgbgbgygbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16p6g6db46g5db8g5p10g6dy8g48p6g6p6g16/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGBGYGBGBG](/stripes/gbgbgbgbgygbgbg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10563
 

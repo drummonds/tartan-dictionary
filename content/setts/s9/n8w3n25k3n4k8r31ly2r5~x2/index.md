@@ -2,18 +2,20 @@
 title: "Caledon (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBKBKRYR](/stripes/bwbkbkryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8ln3b25k3b4k8r31y2r5/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKRYR](/stripes/bwbkbkryr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7731/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- December 2007 — Caledon (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7731/))
-- undated — Caledon (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5715))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>December 2007 — Caledon (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7731/">record</a>)</li>
+<li>undated — Caledon (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5715">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

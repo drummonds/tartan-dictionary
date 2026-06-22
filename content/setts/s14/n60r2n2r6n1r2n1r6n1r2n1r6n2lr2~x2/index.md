@@ -2,9 +2,10 @@
 title: "Abaco Loyalist"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRBRBY](/stripes/brbrbrbrbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na60r2na2r6na1r2na1r6na1r2na1r6na2n2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRBRBY](/stripes/brbrbrbrbrbrby/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10257
 

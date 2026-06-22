@@ -2,18 +2,20 @@
 title: "Custer (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBBRKRBBWB](/stripes/bbbrkrbbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20w1p8b1r2k3r2b1p20db8/)
+(the same proportion at any scale), whose colour order is pattern [BBBRKRBBWB](/stripes/bbbrkrbbwb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=858
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — Custer (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=858))
-- 2004 — Custer (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6421/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — Custer (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=858">record</a>)</li>
+<li>2004 — Custer (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6421/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

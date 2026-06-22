@@ -2,9 +2,10 @@
 title: "Rwanda"
 date: 2023-03-18
 ---
-In pattern [BYBYBYGKBKW](/stripes/bybybygkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k1b16k1g12y12ba24dy2ba1dy4ba2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYGKBKW](/stripes/bybybygkbkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5947
 

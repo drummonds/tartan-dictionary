@@ -2,9 +2,10 @@
 title: "State Seal of North Carolina (Fash.)"
 date: 2023-03-18
 ---
-In pattern [GBGGBGW](/stripes/gbggbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb47g6b13t20g6b6g28/)
+(the same proportion at any scale), whose colour order is pattern [GBGGBGW](/stripes/gbggbgw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8647/
 

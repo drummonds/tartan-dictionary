@@ -2,9 +2,10 @@
 title: "O'Monaghan (Personal)"
 date: 2023-03-18
 ---
-In pattern [GWBYBWYWBY](/stripes/gwbybwywby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg25w2b4o7b4w2dy25w2b4o7/)
+(the same proportion at any scale), whose colour order is pattern [GWBYBWYWBY](/stripes/gwbybwywby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6266/
 

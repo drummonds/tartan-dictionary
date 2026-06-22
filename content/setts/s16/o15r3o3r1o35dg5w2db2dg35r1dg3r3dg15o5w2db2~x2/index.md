@@ -2,9 +2,10 @@
 title: "Keilar (2013)"
 date: 2023-03-18
 ---
-In pattern [BWRGRGRGBWGRRRRR](/stripes/bwrgrgrgbwgrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do15r3do3r1do35dg5w2db2dg35r1dg3r3dg15do5w2db2/)
+(the same proportion at any scale), whose colour order is pattern [BWRGRGRGBWGRRRRR](/stripes/bwrgrgrgbwgrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10853
 

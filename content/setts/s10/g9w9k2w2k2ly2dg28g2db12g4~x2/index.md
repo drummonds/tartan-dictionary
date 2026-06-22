@@ -2,9 +2,10 @@
 title: "Order of Saint Lazarus"
 date: 2023-03-18
 ---
-In pattern [GBGGYKWKWG](/stripes/gbggykwkwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9w9k2w2k2y2dg28g2db12g4/)
+(the same proportion at any scale), whose colour order is pattern [GBGGYKWKWG](/stripes/gbggykwkwg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11388
 

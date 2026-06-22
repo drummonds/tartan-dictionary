@@ -2,9 +2,10 @@
 title: "McGillivray, Pauline (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBWGWBWBWBBW](/stripes/bwbwgwbwbwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6b1db1w57b2w2db23w4g30w6b1w6db2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWGWBWBWBBW](/stripes/bwbwgwbwbwbbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - McGillivray, Pauline
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1983 — McGillivray, Pauline (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443))
-- 1983 — MacGillivray - 1983 (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6367/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1983 — McGillivray, Pauline (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2443">record</a>)</li>
+<li>1983 — MacGillivray - 1983 (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6367/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Richmond de Ellel (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKRKYW](/stripes/kykrkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5lt25k10r3k10lt25w5/)
+(the same proportion at any scale), whose colour order is pattern [KYKRKYW](/stripes/kykrkyw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/01/1999 — Richmond de Ellel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510))
-- pre 2004 — Richmond de Ellel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6226/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/01/1999 — Richmond de Ellel (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3510">record</a>)</li>
+<li>pre 2004 — Richmond de Ellel (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6226/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Campbell, Forty Second"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8b10k2b2k2b10k8g11k2g11k8ln2b2ln14b1ln3b1ln14b2ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKGKGKWBWBWBWBW](/stripes/kbkbkbkgkgkwbwbwbwbw/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

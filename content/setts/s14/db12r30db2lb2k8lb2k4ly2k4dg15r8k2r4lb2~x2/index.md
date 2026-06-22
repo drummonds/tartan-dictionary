@@ -2,18 +2,20 @@
 title: "Brown of Castledean (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12r30db2n2k8n2k4y2k4dg15r8k2r4n2/)
+(the same proportion at any scale), whose colour order is pattern [BRBWKWKYKGRKRW](/stripes/brbwkwkykgrkrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3738/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1728 — Brown of Castledean (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3738/))
-- undated — Brown of Castledean (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5130))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1728 — Brown of Castledean (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3738/">record</a>)</li>
+<li>undated — Brown of Castledean (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5130">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

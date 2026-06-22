@@ -2,9 +2,10 @@
 title: "Blairgowrie Golf Club, The"
 date: 2023-03-18
 ---
-In pattern [WRGBGBY](/stripes/wrgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db38g7p4b5r5w3/)
+(the same proportion at any scale), whose colour order is pattern [WRGBGBY](/stripes/wrgbgby/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11383
 

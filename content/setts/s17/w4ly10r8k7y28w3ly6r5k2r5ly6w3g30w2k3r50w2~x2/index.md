@@ -2,9 +2,10 @@
 title: "Chattan"
 date: 2023-03-18
 ---
-In pattern [WRKWGWYRKRYWGKRYW](/stripes/wrkwgwyrkrywgkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4y10r8k7n28ln3y6r5k2r5y6ln3g30ln2k3r50ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRKWGWYRKRYWGKRYW](/stripes/wrkwgwyrkrywgkryw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

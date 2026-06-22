@@ -2,18 +2,20 @@
 title: "Canmore Highland Games (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GBKWKBKBGKGY](/stripes/gbkwkbkbgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g70db3k9ln4k4p4k3db12g9k4g4y4/)
+(the same proportion at any scale), whose colour order is pattern [GBKWKBKBGKGY](/stripes/gbkwkbkbgkgy/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10008/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- May 2000 — Canmore Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10008/))
-- undated — Canmore Highland Games Corporate Tartan Tartan Number: 10008. Earliest known date: May 2000 This tartan represents Canmore's Scottish roots, namely King Malcolm Ceann Mor and the Scots who worked the Canadian Pacific Railway and settled in this area. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10008))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>May 2000 — Canmore Highland Games (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10008/">record</a>)</li>
+<li>undated — Canmore Highland Games Corporate Tartan Tartan Number: 10008. Earliest known date: May 2000 This tartan represents Canmore's Scottish roots, namely King Malcolm Ceann Mor and the Scots who worked the Canadian Pacific Railway and settled in this area. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10008">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/140 DB6 K18 LN8 K8 P8 K6 DB24 G18 K8 G8 Y/8

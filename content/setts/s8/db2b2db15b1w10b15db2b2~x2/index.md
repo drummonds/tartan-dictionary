@@ -2,9 +2,10 @@
 title: "Bannockbane"
 date: 2023-03-18
 ---
-In pattern [BBBBWBBB](/stripes/bbbbwbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2ba2b15ln10b1ba15b2ba2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBWBBB](/stripes/bbbbwbbb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

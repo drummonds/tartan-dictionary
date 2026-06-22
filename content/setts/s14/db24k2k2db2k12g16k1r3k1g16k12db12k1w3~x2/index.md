@@ -2,9 +2,10 @@
 title: "Craigclowan School"
 date: 2023-03-18
 ---
-In pattern [BKKBKGKRKGKBKW](/stripes/bkkbkgkrkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db24k2k2db2k12g16k1r3k1g16k12db12k1w3/)
+(the same proportion at any scale), whose colour order is pattern [BKKBKGKRKGKBKW](/stripes/bkkbkgkrkgkbkw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8453/
 

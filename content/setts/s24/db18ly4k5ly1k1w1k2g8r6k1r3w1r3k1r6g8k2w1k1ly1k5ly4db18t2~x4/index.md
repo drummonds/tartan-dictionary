@@ -2,9 +2,10 @@
 title: "Bethune Name Tartan Tartan Number: 2428. Earliest known date: pre 1997 Designed by Phil Smith - same as Macbeth but with the addition of a light blue stripe in the middle of the darker blue ground. Count said to be from William MacIntosh & Co. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYKYKWKGRKRWRKRGKWKYKYB](/stripes/bbykykwkgrkrwrkrgkwkykyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18y4k5y1k1ln1k2g8r6k1r3ln1r3k1r6g8k2ln1k1y1k5y4db18b2/)
+(the same proportion at any scale), whose colour order is pattern [BBYKYKWKGRKRWRKRGKWKYKYB](/stripes/bbykykwkgrkrwrkrgkwkykyb/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2428
 

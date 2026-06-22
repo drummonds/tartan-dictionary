@@ -2,9 +2,10 @@
 title: "Scottish Heritage USA (SHUSA) (Corp)"
 date: 2023-03-18
 ---
-In pattern [GRGKGWBRBWGKGRG](/stripes/grgkgwbrbwgkgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3r2g14k6g4ln2b14r2b14ln2g4k6g14p2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGWBRBWGKGRG](/stripes/grgkgwbrbwgkgrg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4106/
 

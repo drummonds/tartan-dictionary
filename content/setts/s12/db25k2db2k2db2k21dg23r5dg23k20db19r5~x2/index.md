@@ -2,9 +2,10 @@
 title: "Murray of Atholl #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b25k2b2k2b2k21g23r5g23k20b19r5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBR](/stripes/bkbkbkgrgkbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3062
 

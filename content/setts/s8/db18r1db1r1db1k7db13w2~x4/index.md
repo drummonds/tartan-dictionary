@@ -2,9 +2,10 @@
 title: "Tokyo Bluebells"
 date: 2023-03-18
 ---
-In pattern [BRBRBKBW](/stripes/brbrbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18r1b1r1b1k7b13ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKBW](/stripes/brbrbkbw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

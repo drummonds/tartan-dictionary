@@ -2,18 +2,20 @@
 title: "Watt (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKWBYKGKGKRKY](/stripes/bkwbykgkgkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k2w4db4dy2k10g12k3g12k8r11k2dy4/)
+(the same proportion at any scale), whose colour order is pattern [BKWBYKGKGKRKY](/stripes/bkwbykgkgkrky/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6737/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2005 — Watt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6737/))
-- undated — Watt (Dunfermline) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4918))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Watt (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6737/">record</a>)</li>
+<li>undated — Watt (Dunfermline) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4918">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

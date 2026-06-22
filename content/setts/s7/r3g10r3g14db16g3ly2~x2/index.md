@@ -2,9 +2,10 @@
 title: "Cameron of Lochiel (Hunting)"
 date: 2023-03-18
 ---
-In pattern [RGRGBGY](/stripes/rgrgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g10r3g14db16g3y2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGBGY](/stripes/rgrgbgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=501
 
@@ -16,14 +17,15 @@ This cloth is also recorded under:
 - Cameron of Lochiel
 - Cameron, hunting
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1940 — Cameron of Lochiel (Hunting) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=501))
-- 1956 — Cameron of Locheil Htg (1952) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1535/))
-- undated — Cameron, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Cameron Hunting Clan Tartan Tartan Number: 1535. Earliest known date: 1956 A document written in Latin of 1689 descibes the Cameron men from Lochaber as being clad in blue and yellow when they followed their great Chief, Sir Ewan Cameron, to battle and victory at Killiecrankie. This new design was evolved in the 1940s by J G MacKay of Portree and first put on show at the Cameron Gathering at Achnacarry in 1956. The original Cameron first appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1535))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1940 — Cameron of Lochiel (Hunting) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=501">record</a>)</li>
+<li>1956 — Cameron of Locheil Htg (1952) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1535/">record</a>)</li>
+<li>undated — Cameron, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Cameron Hunting Clan Tartan Tartan Number: 1535. Earliest known date: 1956 A document written in Latin of 1689 descibes the Cameron men from Lochaber as being clad in blue and yellow when they followed their great Chief, Sir Ewan Cameron, to battle and victory at Killiecrankie. This new design was evolved in the 1940s by J G MacKay of Portree and first put on show at the Cameron Gathering at Achnacarry in 1956. The original Cameron first appeared in the Vestiarium Scoticum (1842). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1535">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Wallace (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRKY](/stripes/krky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r8k8y1/)
+(the same proportion at any scale), whose colour order is pattern [KRKY](/stripes/krky/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1208/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1842 — Wallace (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1208/))
-- undated — Wallace (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1842 — Wallace (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1208/">record</a>)</li>
+<li>undated — Wallace (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 R32 K32 Y/4

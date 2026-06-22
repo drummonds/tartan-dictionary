@@ -2,9 +2,10 @@
 title: "Frame - Ferniegair (Personal)"
 date: 2023-03-18
 ---
-In pattern [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4t14r1t1dg1t1r1t14r14t1r1dg1/)
+(the same proportion at any scale), whose colour order is pattern [GGRGGGRGRGRG](/stripes/ggrgggrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10614/
 

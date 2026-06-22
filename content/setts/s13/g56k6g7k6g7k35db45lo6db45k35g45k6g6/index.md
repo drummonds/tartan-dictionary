@@ -2,9 +2,10 @@
 title: "Dewar's Highlander"
 date: 2023-03-18
 ---
-In pattern [GKGKBYBKGKGKG](/stripes/gkgkbybkgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g56k6g7k6g7k35db45dy6db45k35g45k6g6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBYBKGKGKG](/stripes/gkgkbybkgkgkg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dewars Highlander
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — Dewar's Highlander (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926))
-- January 1988 — Dewars Highlander (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/694/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — Dewar's Highlander (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=926">record</a>)</li>
+<li>January 1988 — Dewars Highlander (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/694/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

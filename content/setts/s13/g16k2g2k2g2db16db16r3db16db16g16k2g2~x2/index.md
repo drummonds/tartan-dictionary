@@ -2,9 +2,10 @@
 title: "MacLachlan, Green Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKGBBRBBGKGKG](/stripes/gkgbbrbbgkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16k2g2k2g2db16db16r3db16db16g16k2g2/)
+(the same proportion at any scale), whose colour order is pattern [GKGBBRBBGKGKG](/stripes/gkgbbrbbgkgkg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8826/
 

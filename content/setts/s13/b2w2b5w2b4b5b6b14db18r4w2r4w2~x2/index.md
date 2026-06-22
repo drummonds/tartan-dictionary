@@ -2,18 +2,20 @@
 title: "Daughters of the American Revolution"
 date: 2023-03-18
 ---
-In pattern [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2w2ba5w2b4ba5b6ba14db18r4w2r4w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBBBBBRWRW](/stripes/bwbwbbbbbrwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11129
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2014 — Daughters of the American Revolution (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11129))
-- undated — Daughters of the American Revolution Corporate Tartan Tartan Number: 11129. Earliest known date: 2014-05 The tartan was presented to the Society by Hope Vere Anderson, authorised by President General, Lynn Forney Young. The red and white stripes represent the red-white image of the DAR logo. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11129))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2014 — Daughters of the American Revolution (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11129">record</a>)</li>
+<li>undated — Daughters of the American Revolution Corporate Tartan Tartan Number: 11129. Earliest known date: 2014-05 The tartan was presented to the Society by Hope Vere Anderson, authorised by President General, Lynn Forney Young. The red and white stripes represent the red-white image of the DAR logo. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=11129">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

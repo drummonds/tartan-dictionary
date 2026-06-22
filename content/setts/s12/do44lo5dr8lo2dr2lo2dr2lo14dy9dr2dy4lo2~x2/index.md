@@ -2,9 +2,10 @@
 title: "Waverly Check Corporate Tartan Tartan Number: 1747. Earliest known date: 1984 Edinburgh Woollen Mills house tartan for staff uniforms. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBYBYBYGBGY](/stripes/bybybybygbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr44lt5dra8lt2dra2lt2dra2lt14t9dra2t4lt2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYBYGBGY](/stripes/bybybybygbgy/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1747
 

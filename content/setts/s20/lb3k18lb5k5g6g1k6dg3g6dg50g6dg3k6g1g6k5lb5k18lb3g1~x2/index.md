@@ -2,9 +2,10 @@
 title: "Undiscovered Scotland"
 date: 2023-03-18
 ---
-In pattern [GWKWKGGKGGGGGKGGKWKW](/stripes/gwkwkggkgggggkggkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb3k18lb5k5gb6g1k6dg3gb6dg50gb6dg3k6g1gb6k5lb5k18lb3g1/)
+(the same proportion at any scale), whose colour order is pattern [GWKWKGGKGGGGGKGGKWKW](/stripes/gwkwkggkgggggkggkwkw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4200
 

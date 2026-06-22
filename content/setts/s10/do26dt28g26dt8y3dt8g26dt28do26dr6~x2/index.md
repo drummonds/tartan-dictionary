@@ -2,9 +2,10 @@
 title: "House of Bruar"
 date: 2023-03-18
 ---
-In pattern [BBBGBGBGBB](/stripes/bbbgbgbgbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t26dn28g26dn8lt3dn8g26dn28t26dr6/)
+(the same proportion at any scale), whose colour order is pattern [BBBGBGBGBB](/stripes/bbbgbgbgbb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1771
 

@@ -2,9 +2,10 @@
 title: "Chinese Scottish"
 date: 2023-03-18
 ---
-In pattern [RGRGBWBWBWBWBGRGRY](/stripes/rgrgbwbwbwbwbgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24g6r3g3db6ln1db1ln2db58ln2db1ln1db6g3r3g6r24y3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGBWBWBWBWBGRGRY](/stripes/rgrgbwbwbwbwbgrgry/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=636
 

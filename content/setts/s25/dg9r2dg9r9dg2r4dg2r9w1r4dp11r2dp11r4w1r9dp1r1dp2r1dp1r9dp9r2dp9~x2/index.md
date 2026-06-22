@@ -2,18 +2,20 @@
 title: "Lumsden of Clova"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/brbrbrbrbrwrbrbrwrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9r2g9r9g2r4g2r9w1r4p11r2p11r4w1r9p1r1p2r1p1r9p9r2p9/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBRWRBRBRWRGRGRGRG](/stripes/brbrbrbrbrwrbrbrwrgrgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2246
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1975 — Lumsden of Clova (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2246))
-- 1975 — Lumsden of Clova (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/417/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Lumsden of Clova (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2246">record</a>)</li>
+<li>1975 — Lumsden of Clova (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/417/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

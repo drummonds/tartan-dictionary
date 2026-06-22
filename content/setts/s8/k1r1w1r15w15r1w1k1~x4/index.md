@@ -2,9 +2,10 @@
 title: "Bundy, Dress Red (Personal Dance)"
 date: 2023-03-18
 ---
-In pattern [KRWRWRWK](/stripes/krwrwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1ln1r15ln15r1ln1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRWRWRWK](/stripes/krwrwrwk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8263/
 

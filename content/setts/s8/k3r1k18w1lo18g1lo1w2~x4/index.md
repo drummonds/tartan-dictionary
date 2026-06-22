@@ -2,9 +2,10 @@
 title: "Dunlop Hunting"
 date: 2023-03-18
 ---
-In pattern [KRKWYGYW](/stripes/krkwygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r1k18w1lt18g1lt1w2/)
+(the same proportion at any scale), whose colour order is pattern [KRKWYGYW](/stripes/krkwygyw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1047
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dunlop, Htg
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1984 — Dunlop Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1047))
-- 1984 — Dunlop, Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1205/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1984 — Dunlop Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1047">record</a>)</li>
+<li>1984 — Dunlop, Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1205/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

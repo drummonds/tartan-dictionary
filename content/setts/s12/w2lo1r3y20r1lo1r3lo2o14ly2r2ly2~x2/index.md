@@ -2,9 +2,10 @@
 title: "Flodden"
 date: 2023-03-18
 ---
-In pattern [WYRGRYRYRYRY](/stripes/wyrgryryryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2dy1r3g20r1dy1r3dy2t14lg2r2lg2/)
+(the same proportion at any scale), whose colour order is pattern [WYRGRYRYRYRY](/stripes/wyrgryryryry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10873
 

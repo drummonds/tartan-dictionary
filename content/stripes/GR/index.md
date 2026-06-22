@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/gr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#008B2A"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">GR</span></div>
+
 It is a 2 stripe tartan.
 
-![Woven sample](/setts/s2/dg1r1~x80/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern GR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

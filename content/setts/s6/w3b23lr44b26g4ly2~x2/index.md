@@ -2,9 +2,10 @@
 title: "Tartan Lassie (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBYBGY](/stripes/wbybgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b23lr44b26g4y2/)
+(the same proportion at any scale), whose colour order is pattern [WBYBGY](/stripes/wbybgy/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7883/
 

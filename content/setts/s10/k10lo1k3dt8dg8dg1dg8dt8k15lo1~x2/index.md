@@ -2,18 +2,20 @@
 title: "Ryder Cup 2006"
 date: 2023-03-18
 ---
-In pattern [KYKBGGGBKY](/stripes/kykbgggbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10dy1k3dn8dg8g1dg8dn8k15dy1/)
+(the same proportion at any scale), whose colour order is pattern [KYKBGGGBKY](/stripes/kykbgggbky/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Ryder Cup 2006 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628))
-- 2006 January — Ryder Cup 2006 (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6836/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Ryder Cup 2006 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3628">record</a>)</li>
+<li>2006 January — Ryder Cup 2006 (Sports) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6836/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

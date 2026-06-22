@@ -2,9 +2,10 @@
 title: "Stewart hunting"
 date: 2023-03-18
 ---
-In pattern [BGBKBKGRGKGKGKGKGYGKBK](/stripes/bgbkbkgrgkgkgkgkgygkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9g4b9k3b3k8g27r4g27k8g5k13g4k13g5k8g27y4g27k8b3k3/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBKGRGKGKGKGKGYGKBK](/stripes/bgbkbkgrgkgkgkgkgygkbk/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stewart hunting
 - Stuart/Stewart Hunting #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Hunting General Tartan Tartan Number: 1916. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide the first record of this sett. The pattern was not published until 1886 when James Grant included it in, 'The Tartans of the Clans of Scotland'. Grants version has an extra black line. The pattern is unusual in that the half sett is not reversed to create a symmetrical square. Instead the full sett is simply repeated from right to left across the cloth. There is no reliable explanation of why the Hunting Stewart should be regarded as a 'General' tartan other than, perhaps, that hunting tartans are not 'formal' wear and therefore not subject to the rigours of clan protocol. Black Watch is an equally suitable choice for a hunting tartan and is worn without regard to clan affiliation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1916))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Hunting General Tartan Tartan Number: 1916. Earliest known date: 1819 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide the first record of this sett. The pattern was not published until 1886 when James Grant included it in, 'The Tartans of the Clans of Scotland'. Grants version has an extra black line. The pattern is unusual in that the half sett is not reversed to create a symmetrical square. Instead the full sett is simply repeated from right to left across the cloth. There is no reliable explanation of why the Hunting Stewart should be regarded as a 'General' tartan other than, perhaps, that hunting tartans are not 'formal' wear and therefore not subject to the rigours of clan protocol. Black Watch is an equally suitable choice for a hunting tartan and is worn without regard to clan affiliation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1916">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/9 G4 B9 K3 B3 K8 G27 R4 G27 K8 G5 K13 G4 K13 G5 K8 G27 Y4 G27 K8 B3 K/3

@@ -2,9 +2,10 @@
 title: "Loch Rannoch"
 date: 2023-03-18
 ---
-In pattern [GWGKW](/stripes/gwgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g19w5g2k5w2/)
+(the same proportion at any scale), whose colour order is pattern [GWGKW](/stripes/gwgkw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2156
 

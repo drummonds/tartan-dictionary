@@ -2,9 +2,10 @@
 title: "Prince of Wales Fashion Weavers Tartan Tartan Number: 3306. Earliest known date: 1998 From Lochcarron. Also produced by Ingles Buchan (Textiles). same as Duke of Rothesay, Hunting. James Cant note for the Prince of Wales states, This tartan, along with the red form, was issued by the Vyella Co. It was originally meant for the Rothesay (see #1533) but the division showing the single white line was omitted by mistake. Instead of withdrawing the material, the pattern was given the name Prince of Wales. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GYGRGRGRGRGRGRGYGY](/stripes/gygrgrgrgrgrgrgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3g2n1g16dr1g2dr1g2dr6g3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGRGRGRGRGRGYGY](/stripes/gygrgrgrgrgrgrgygy/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3306
 

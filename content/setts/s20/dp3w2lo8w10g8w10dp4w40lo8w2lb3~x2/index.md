@@ -2,9 +2,10 @@
 title: "Unidentified Scarlett #4"
 date: 2023-03-18
 ---
-In pattern [BWYWGWBWYWWWYWBWGWYW](/stripes/bwywgwbwywwwywbwgwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp3w2o8w10g8w10dp4w40o8w2lb3/)
+(the same proportion at any scale), whose colour order is pattern [BWYWGWBWYWWWYWBWGWYW](/stripes/bwywgwbwywwwywbwgwyw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4377
 

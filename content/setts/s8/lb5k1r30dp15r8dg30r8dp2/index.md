@@ -2,9 +2,10 @@
 title: "Shaw"
 date: 2023-03-18
 ---
-In pattern [BRGRBRKW](/stripes/brgrbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5k1r30p15r8g30r8p2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBRKW](/stripes/brgrbrkw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

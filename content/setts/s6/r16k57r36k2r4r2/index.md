@@ -2,9 +2,10 @@
 title: "Rosser (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [RKRKRR](/stripes/rkrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra16k57r36k2r4ra2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRR](/stripes/rkrkrr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4128/
 

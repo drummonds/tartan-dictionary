@@ -2,9 +2,10 @@
 title: "Unidentified, Fragment"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRBRGRBGR](/stripes/brbrbrgrbrgrbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt8g20ba15lt6g4lt8ba4lt6g20lt8ba6lt4b2lt4ba6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRBRGRBGR](/stripes/brbrbrgrbrgrbgr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

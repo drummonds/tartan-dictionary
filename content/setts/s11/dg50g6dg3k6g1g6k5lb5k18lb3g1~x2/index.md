@@ -2,9 +2,10 @@
 title: "Undiscovered Scotland (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGGKGGKWKWG](/stripes/gggkggkwkwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg50ga6dg3k6g1ga6k5lb5k18lb3g1/)
+(the same proportion at any scale), whose colour order is pattern [GGGKGGKWKWG](/stripes/gggkggkwkwg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5829/
 

@@ -2,9 +2,10 @@
 title: "Black Watch Dress (Symmetrical)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k1db3k3g4k1g4k3w1db1w6db1w1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKWBWBW](/stripes/bkbkgkgkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4935
 

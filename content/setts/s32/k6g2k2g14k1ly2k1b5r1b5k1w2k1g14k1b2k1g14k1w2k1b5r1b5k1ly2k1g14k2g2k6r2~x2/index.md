@@ -2,9 +2,10 @@
 title: "Duncan of Sketraw Clan Tartan Tartan Number: 6497. Earliest known date: 2005 January A modified version of an unidentified tartan No. 331 from the 1930s. This new version is for John Duncan of Sketraw, and is approved by the Clan Duncan Society See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGKGKYKBRBKWKGKBKGKWKBRBKYKGKGKR](/stripes/kgkgkykbrbkwkgkbkgkwkbrbkykgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g2k2g14k1y2k1ba5r1ba5k1ln2k1g14k1ba2k1g14k1ln2k1ba5r1ba5k1y2k1g14k2g2k6r2/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKYKBRBKWKGKBKGKWKBRBKYKGKGKR](/stripes/kgkgkykbrbkwkgkbkgkwkbrbkykgkgkr/).
 
-This was sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from house-of-tartan.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6497
 

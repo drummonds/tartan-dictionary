@@ -2,9 +2,10 @@
 title: "Scobie (Name)"
 date: 2023-03-18
 ---
-In pattern [BRBRGBRBRBRY](/stripes/brbrgbrbrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p1r1p1r6g26p14r20b1r1b1r2lr1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGBRBRBRY](/stripes/brbrgbrbrbry/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10247/
 

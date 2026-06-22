@@ -2,9 +2,10 @@
 title: "Scottish Chamber Orchestra"
 date: 2023-03-18
 ---
-In pattern [RGKBKBKBW](/stripes/rgkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb3db20k3db2k5db2k3g15r2/)
+(the same proportion at any scale), whose colour order is pattern [RGKBKBKBW](/stripes/rgkbkbkbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11122/
 

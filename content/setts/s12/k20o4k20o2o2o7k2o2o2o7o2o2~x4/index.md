@@ -2,9 +2,10 @@
 title: "Black Forest"
 date: 2023-03-18
 ---
-In pattern [KRKRRRKRRRRR](/stripes/krkrrrkrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20t4k20lt2t2lt7k2t2lt2t7lt2t2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRRRKRRRRR](/stripes/krkrrrkrrrrr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5319
 

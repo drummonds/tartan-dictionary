@@ -2,9 +2,10 @@
 title: "Croy, Jake (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKWWKBWB](/stripes/bkwwkbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10k7lb2lr2k27b7lb2b7/)
+(the same proportion at any scale), whose colour order is pattern [BKWWKBWB](/stripes/bkwwkbwb/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11505
 

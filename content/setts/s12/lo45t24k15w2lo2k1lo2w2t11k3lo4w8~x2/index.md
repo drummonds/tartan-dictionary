@@ -2,9 +2,10 @@
 title: "MacGill of Jura (Clan?)"
 date: 2023-03-18
 ---
-In pattern [WYKBWYKYWKBY](/stripes/wykbwykywkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o45ba24k15ln2o2k1o2ln2b11k3o4ln8/)
+(the same proportion at any scale), whose colour order is pattern [WYKBWYKYWKBY](/stripes/wykbwykywkby/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7733/
 

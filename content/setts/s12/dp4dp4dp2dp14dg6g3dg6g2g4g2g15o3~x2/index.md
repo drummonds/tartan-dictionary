@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Heather (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBBGGGGGGGR](/stripes/bbbbgggggggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4dp4p2dp14dg6g3dg6ga2g4ga2g15n3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBGGGGGGGR](/stripes/bbbbgggggggr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10836/
 

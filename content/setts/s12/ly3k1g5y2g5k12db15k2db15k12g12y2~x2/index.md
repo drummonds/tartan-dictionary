@@ -2,9 +2,10 @@
 title: "Paterson (Dalgleish Version)"
 date: 2023-03-18
 ---
-In pattern [GGKBKBKGGGKY](/stripes/ggkbkbkgggky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k1g5n2g5k12db15k2db15k12g12n2/)
+(the same proportion at any scale), whose colour order is pattern [GGKBKBKGGGKY](/stripes/ggkbkbkgggky/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5094
 

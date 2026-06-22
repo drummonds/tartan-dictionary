@@ -2,9 +2,10 @@
 title: "Kinnoull (MacRae)"
 date: 2023-03-18
 ---
-In pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24r7g24r26k2r2k5r2k2r26k2r2k5r2k2r26ln3r12b33r7b33r12ln3r26g4r12g4r26g12r8g12r12g8ga7g8r12g9ln3g16ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRKRKRKRKRKRKRWRBRBRWRGRGRGRGRGGGRGWGW](/stripes/grgrkrkrkrkrkrkrwrbrbrwrgrgrgrgrgggrgwgw/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1996
 

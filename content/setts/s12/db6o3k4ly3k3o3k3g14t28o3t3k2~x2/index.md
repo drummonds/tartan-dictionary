@@ -2,9 +2,10 @@
 title: "Buffalo (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRKYKRKGBRBK](/stripes/brkykrkgbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6n3k4y3k3n3k3g14b28n3b3k2/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKRKGBRBK](/stripes/brkykrkgbrbk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4086/
 

@@ -2,9 +2,10 @@
 title: "Scobie (Blackford)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRRWRWRR](/stripes/brbrgrrwrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p1r1p1r6g26pa14r20lb1r1lb1r2ra1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRRWRWRR](/stripes/brbrgrrwrwrr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10247
 

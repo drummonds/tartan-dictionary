@@ -2,9 +2,10 @@
 title: "Chisholm Colonial"
 date: 2023-03-18
 ---
-In pattern [BWYGBGBGBR](/stripes/bwygbgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6ln1lt24ga6g3ga1g3ga1g12r1/)
+(the same proportion at any scale), whose colour order is pattern [BWYGBGBGBR](/stripes/bwygbgbgbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Chisholm Colonial 2008
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/01/2008 — Chisholm Colonial (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756))
-- Sep. 2008 — Chisholm Colonial 2008 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7791/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/01/2008 — Chisholm Colonial (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5756">record</a>)</li>
+<li>Sep. 2008 — Chisholm Colonial 2008 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7791/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

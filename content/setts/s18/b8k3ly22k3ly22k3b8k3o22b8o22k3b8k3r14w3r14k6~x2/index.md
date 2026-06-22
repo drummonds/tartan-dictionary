@@ -2,9 +2,10 @@
 title: "Buchanan Variant"
 date: 2023-03-18
 ---
-In pattern [BKYKYKBKRBRKBKRWRK](/stripes/bkykykbkrbrkbkrwrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k3y22k3y22k3b8k3do22b8do22k3b8k3r14ln3r14k6/)
+(the same proportion at any scale), whose colour order is pattern [BKYKYKBKRBRKBKRWRK](/stripes/bkykykbkrbrkbkrwrk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=431
 

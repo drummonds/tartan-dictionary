@@ -2,9 +2,10 @@
 title: "Club World"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK](/stripes/bkbkbkbkbrwrkrbrkrkrkrkrbrkrwrbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14k7db21k2db2k2db2k4db7r25ln2r2k3r16db9r2k4r2k4r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBRWRKRBRKRKRKRKRBRKRWRBKBKBKBK](/stripes/bkbkbkbkbrwrkrbrkrkrkrkrbrkrwrbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=690
 

@@ -2,9 +2,10 @@
 title: "Young in Australia"
 date: 2023-03-18
 ---
-In pattern [GYGW](/stripes/gygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w81k6y8k8/)
+(the same proportion at any scale), whose colour order is pattern [GYGW](/stripes/gygw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10241
 

@@ -2,9 +2,10 @@
 title: "Black Watch/Isetan Men's"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db21k2db2k2db2k16dg16k2dg16k16db16k2r1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBKR](/stripes/bkbkbkgkgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11123
 

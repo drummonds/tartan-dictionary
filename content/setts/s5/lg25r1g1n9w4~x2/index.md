@@ -2,9 +2,10 @@
 title: "Tailor Ishida, Kobe"
 date: 2023-03-18
 ---
-In pattern [WBGRY](/stripes/wbgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b25r1g1n9w4/)
+(the same proportion at any scale), whose colour order is pattern [WBGRY](/stripes/wbgry/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11042/
 

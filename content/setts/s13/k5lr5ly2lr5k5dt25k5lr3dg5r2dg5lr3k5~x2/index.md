@@ -2,18 +2,20 @@
 title: "Liberton"
 date: 2023-03-18
 ---
-In pattern [KYGRGYKBKYYYK](/stripes/kygrgykbkyyyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n5y2n5k5db25k5n3dg5r2dg5n3k5/)
+(the same proportion at any scale), whose colour order is pattern [KYGRGYKBKYYYK](/stripes/kygrgykbkyyyk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2006 — Liberton (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112))
-- 2006 June — Liberton (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6993/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2006 — Liberton (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2112">record</a>)</li>
+<li>2006 June — Liberton (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6993/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

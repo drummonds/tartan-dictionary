@@ -2,9 +2,10 @@
 title: "Keith"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18r5b3r5b3k20g18y4g18k20b20k6b6/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGYGKBKBKBKGYGKBRBR](/stripes/brbrbkgygkbkbkbkgygkbrbr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1935
 

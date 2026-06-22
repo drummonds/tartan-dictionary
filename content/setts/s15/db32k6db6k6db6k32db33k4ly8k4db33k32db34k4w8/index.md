@@ -2,9 +2,10 @@
 title: "Fleming /Frisken/Flanders"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32k6b6k6b6k32b33k4y8k4b33k32b34k4ln8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKYKBKBKW](/stripes/bkbkbkbkykbkbkw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

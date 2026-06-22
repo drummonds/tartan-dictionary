@@ -2,9 +2,10 @@
 title: "Stewart of Appin Htg (error)"
 date: 2023-03-18
 ---
-In pattern [BRBBBGRGRG](/stripes/brbbbgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r3g3r5g26db7b3db28r3db6/)
+(the same proportion at any scale), whose colour order is pattern [BRBBBGRGRG](/stripes/brbbbgrgrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/428/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart of Appin Htg
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Stewart of Appin Htg (error) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/428/))
-- undated — Stewart of Appin 1 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Stewart of Appin Htg (error) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/428/">record</a>)</li>
+<li>undated — Stewart of Appin 1 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/16 R6 G6 R10 G52 DB14 B6 DB56 R6 DB/12

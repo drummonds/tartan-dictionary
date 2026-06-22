@@ -2,9 +2,10 @@
 title: "Mehrtens (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRKRKRRRRBW](/stripes/rkrkrkrkrkrrrrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db4r18n4r1n36k1n4k6r2k6r6k2r6yy4r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRKRKRRRRBW](/stripes/rkrkrkrkrkrrrrbw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2909
 

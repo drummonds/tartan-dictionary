@@ -2,18 +2,20 @@
 title: "Hill (Name)"
 date: 2023-03-18
 ---
-In pattern [KRKBYBYBW](/stripes/krkbybybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3db2y1db2y1db31k28r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBYBYBW](/stripes/krkbybybw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10013/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Mar. 2009 — Hill (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10013/))
-- undated — Hill Name Tartan Tartan Number: 10013. Earliest known date: Mar. 2009 An important branch of the Hills was based in Angus from the mid 15th century and this design by James Hill reflects that with its use of the Angus District tartan as its inspiration. The blue, silver and gold are features of the arms of the designer's family and other such families as Hill of Lambhill, Hill of Merrylees and the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10013))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Mar. 2009 — Hill (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10013/">record</a>)</li>
+<li>undated — Hill Name Tartan Tartan Number: 10013. Earliest known date: Mar. 2009 An important branch of the Hills was based in Angus from the mid 15th century and this design by James Hill reflects that with its use of the Angus District tartan as its inspiration. The blue, silver and gold are features of the arms of the designer's family and other such families as Hill of Lambhill, Hill of Merrylees and the designer. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10013">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/6 DB4 Y2 DB4 Y2 DB62 K56 R4 K/4

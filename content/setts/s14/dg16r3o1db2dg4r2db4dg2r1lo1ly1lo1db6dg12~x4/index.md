@@ -2,9 +2,10 @@
 title: "Heneghan (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBYYYRGBRGBRRG](/stripes/gbyyyrgbrgbrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg16r3n1db2dg4r2db4dg2r1o1y1o1db6dg12/)
+(the same proportion at any scale), whose colour order is pattern [GBYYYRGBRGBRRG](/stripes/gbyyyrgbrgbrrg/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3841/
 

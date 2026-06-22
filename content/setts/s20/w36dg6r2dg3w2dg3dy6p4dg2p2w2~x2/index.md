@@ -2,9 +2,10 @@
 title: "Strathyre Dress District Tartan Tartan Number: 3227. Earliest known date: 1996 From Dalgleish May, 1996. Stewart Modern. Could be Dancers' Fancy. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGWGGBGBWBGBGGWGRGW](/stripes/grgwggbgbwbgbggwgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln36g6r2g3ln2g3t6p4g2p2ln2/)
+(the same proportion at any scale), whose colour order is pattern [GRGWGGBGBWBGBGGWGRGW](/stripes/grgwggbgbwbgbggwgrgw/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3227
 

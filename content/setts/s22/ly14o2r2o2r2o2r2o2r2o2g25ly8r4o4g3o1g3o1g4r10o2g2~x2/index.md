@@ -2,9 +2,10 @@
 title: "Ontario"
 date: 2023-03-18
 ---
-In pattern [GRRGRGRGRRYGRRRRRRRRRY](/stripes/grrgrgrgrrygrrrrrrrrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y14lt2r2lt2r2lt2r2lt2r2lt2g25y8r4lt4g3lt1g3lt1g4r10lt2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRRGRGRGRRYGRRRRRRRRRY](/stripes/grrgrgrgrrygrrrrrrrrry/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Unidentified, fragment"
 date: 2023-03-18
 ---
-In pattern [BKRKBKGKGYGKGKBKWK](/stripes/bkrkbkgkgygkgkbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p47k6r6k6p6k19g19k6g19y6g19k6g19k19p6k6ln6k6/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKGKGYGKGKBKWK](/stripes/bkrkbkgkgygkgkbkwk/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Wilson's, No 226"
 date: 2023-03-18
 ---
-In pattern [GKRGRBRBKYGKWR](/stripes/gkrgrbrbkygkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25ln4k4g25y3k15b13r5b5r15g4r5k2g3/)
+(the same proportion at any scale), whose colour order is pattern [GKRGRBRBKYGKWR](/stripes/gkrgrbrbkygkwr/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

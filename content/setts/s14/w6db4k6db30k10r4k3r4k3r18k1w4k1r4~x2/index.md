@@ -2,9 +2,10 @@
 title: "Harris (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWKRKRKRKBKBW](/stripes/rkwkrkrkrkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w6db4k6db30k10r4k3r4k3r18k1w4k1r4/)
+(the same proportion at any scale), whose colour order is pattern [RKWKRKRKRKBKBW](/stripes/rkwkrkrkrkbkbw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6262/
 

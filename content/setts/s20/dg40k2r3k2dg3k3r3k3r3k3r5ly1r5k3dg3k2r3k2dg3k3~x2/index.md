@@ -2,9 +2,10 @@
 title: "Austrian Bowhunters Hunting"
 date: 2023-03-18
 ---
-In pattern [GKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkrkrkryrkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg40k2dr3k2dg3k3r3k3r3k3dr5y1dr5k3dg3k2dr3k2dg3k3/)
+(the same proportion at any scale), whose colour order is pattern [GKRKGKRKRKRYRKGKRKGK](/stripes/gkrkgkrkrkryrkgkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=142
 

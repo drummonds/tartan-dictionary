@@ -2,9 +2,10 @@
 title: "Thistle Dubh"
 date: 2023-03-18
 ---
-In pattern [WBWBGBGBGBKBWBW](/stripes/wbwbgbgbgbkbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5n3w3n20k15n10g2n2g3n2g3n6lp3n4lp5/)
+(the same proportion at any scale), whose colour order is pattern [WBWBGBGBGBKBWBW](/stripes/wbwbgbgbgbkbwbw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4103
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Thistle Dubh
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/2002 — Thistle Dubh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4103))
-- pre 2004 — Thistle Dubh (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6234/))
-- pre 2004 — Midnight Thistle (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7499/))
-- undated — Midnight Thistle (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5539))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Thistle Dubh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4103">record</a>)</li>
+<li>pre 2004 — Thistle Dubh (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6234/">record</a>)</li>
+<li>pre 2004 — Midnight Thistle (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7499/">record</a>)</li>
+<li>undated — Midnight Thistle (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5539">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Bannockbane Grey #1"
 date: 2023-03-18
 ---
-In pattern [KYKYWRYR](/stripes/kykywryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4y2k13y1w8n13y2n4/)
+(the same proportion at any scale), whose colour order is pattern [KYKYWRYR](/stripes/kykywryr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bannockbane, Light Tan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1975 — Bannockbane Grey #1 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198))
-- undated — Bannockbane, Light Tan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Bannockbane Grey #1 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=198">record</a>)</li>
+<li>undated — Bannockbane, Light Tan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

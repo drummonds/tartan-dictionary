@@ -2,18 +2,20 @@
 title: "Penman"
 date: 2023-03-18
 ---
-In pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n22b12g12y2b4y2g12b12n12k1r6k2g10b10/)
+(the same proportion at any scale), whose colour order is pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1979 — Penman (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316))
-- 1979 — Penman (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/166/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1979 — Penman (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3316">record</a>)</li>
+<li>1979 — Penman (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/166/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

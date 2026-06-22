@@ -2,9 +2,10 @@
 title: "Azabu Tailor"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k17db39k20db4k2db3k4db3k2db4k3/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKBKBK](/stripes/kbkbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10994
 

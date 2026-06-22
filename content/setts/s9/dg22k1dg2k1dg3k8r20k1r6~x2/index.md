@@ -2,9 +2,10 @@
 title: "Stewart of Atholl"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g22k1g2k1g3k8r20k1r6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRKR](/stripes/gkgkgkrkr/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Stewart of Athol
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Stewart of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Stewart of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Stewart of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart of Atholl (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Stewart of Atholl (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Stewart of Atholl (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/44 K2 G4 K2 G6 K16 R40 K2 R/12

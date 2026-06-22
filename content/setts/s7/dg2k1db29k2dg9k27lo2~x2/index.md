@@ -2,9 +2,10 @@
 title: "Caledonian Canals (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GKBKGKY](/stripes/gkbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2db27g9db2dba29db1g2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKGKY](/stripes/gkbkgky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=473
 

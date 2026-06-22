@@ -2,9 +2,10 @@
 title: "Murray of Dunmore (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRGRGRGRGRG](/stripes/grgrgrgrgrgrgrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4dr4dg4dr6dg15dr11dg2dr2dg16dr21dg2dr2dg4dr2dg2dr3dg5dr3dg2dr2dg4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRGRGRGRGRG](/stripes/grgrgrgrgrgrgrgrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8856/
 

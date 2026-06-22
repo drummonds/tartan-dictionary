@@ -2,9 +2,10 @@
 title: "Virginia International Tattoo Hixon"
 date: 2023-03-18
 ---
-In pattern [WBBWBRBW](/stripes/wbbwbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8db10dba69w6dba6r8b19n3/)
+(the same proportion at any scale), whose colour order is pattern [WBBWBRBW](/stripes/wbbwbrbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10987
 

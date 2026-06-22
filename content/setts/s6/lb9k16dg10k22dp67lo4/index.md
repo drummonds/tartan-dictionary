@@ -2,9 +2,10 @@
 title: "Widows Sons Scotland (MRA)"
 date: 2023-03-18
 ---
-In pattern [WKGKBY](/stripes/wkgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n9k16dg10k22p67y4/)
+(the same proportion at any scale), whose colour order is pattern [WKGKBY](/stripes/wkgkby/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10965
 

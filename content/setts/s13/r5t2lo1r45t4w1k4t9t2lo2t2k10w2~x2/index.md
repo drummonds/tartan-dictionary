@@ -2,9 +2,10 @@
 title: "Stratford Police PB (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBYRBWKBBYBKW](/stripes/rbyrbwkbbybkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5ba2dy1r45ba4w1k4b9ba2dy2ba2k10w2/)
+(the same proportion at any scale), whose colour order is pattern [RBYRBWKBBYBKW](/stripes/rbyrbwkbbybkw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10638/
 

@@ -2,9 +2,10 @@
 title: "South Australia"
 date: 2023-03-18
 ---
-In pattern [BGKGKGKBRB](/stripes/bgkgkgkbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13dg19k2dg7k2dg7k2b18r2db13/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKGKBRB](/stripes/bgkgkgkbrb/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

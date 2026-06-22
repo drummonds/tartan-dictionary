@@ -2,9 +2,10 @@
 title: "Ontario (CIDD 28103) (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [GRYRYRYRYRYRYRYRGKGYGYGYGYGYGYGYGKYK](/stripes/gryryryryryryryrgkgygygygygygygygkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50dy16k8t8dy1t1dy1t1dy1t1dy1t1dy1t1dy1t1dy20t40k12t24r8dy1r1dy1r1dy1r1dy1r1dy1r1dy1r1dy28r6t4/)
+(the same proportion at any scale), whose colour order is pattern [GRYRYRYRYRYRYRYRGKGYGYGYGYGYGYGYGKYK](/stripes/gryryryryryryryrgkgygygygygygygygkyk/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2038/
 

@@ -2,9 +2,10 @@
 title: "Kintore"
 date: 2023-03-18
 ---
-In pattern [BRBKBWBKBR](/stripes/brbkbwbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p2r1p5k4db5lp1/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBWBKBR](/stripes/brbkbwbkbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2000
 

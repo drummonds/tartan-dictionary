@@ -2,9 +2,10 @@
 title: "Alison / Allison"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKYKBRKW](/stripes/bkbkgkgkykbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k3b12k18g14k2g14k8y2k8ba4r4k2ln3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKYKBRKW](/stripes/bkbkgkgkykbrkw/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

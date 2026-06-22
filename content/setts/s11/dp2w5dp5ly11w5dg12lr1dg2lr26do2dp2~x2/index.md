@@ -2,9 +2,10 @@
 title: "Chalk, Robert (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBYGYGWYBWB](/stripes/bbygygwybwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2w5n5nb11w5k12na1k2na26t2n2/)
+(the same proportion at any scale), whose colour order is pattern [BBYGYGWYBWB](/stripes/bbygygwybwb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10421
 

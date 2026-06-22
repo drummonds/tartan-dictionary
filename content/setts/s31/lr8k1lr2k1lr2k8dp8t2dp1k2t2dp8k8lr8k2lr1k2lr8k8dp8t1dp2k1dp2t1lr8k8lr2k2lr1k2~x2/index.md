@@ -2,9 +2,10 @@
 title: "McLosek (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY](/stripes/kykykybbkbbbkykykykbbkbbbkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lra8k1lr2k1lra2k8dp8b2dp1k2b2dp8k8lra8k2lr1k2lra8k8dp8b1dp2k1dp2b1lra8k8lra2k2lr1k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYBBKBBBKYKYKYKBBKBBBKYKYKY](/stripes/kykykybbkbbbkykykykbbkbbbkykyky/).
 
-This was sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from tartans-authority.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10060/
 

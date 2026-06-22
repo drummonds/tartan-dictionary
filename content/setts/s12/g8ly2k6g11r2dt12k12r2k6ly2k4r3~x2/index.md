@@ -2,9 +2,10 @@
 title: "Mandela Commemorative"
 date: 2023-03-18
 ---
-In pattern [GYKGRBKRKYKR](/stripes/gykgrbkrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8y2k6g11r2db12k12r2k6y2k4r3/)
+(the same proportion at any scale), whose colour order is pattern [GYKGRBKRKYKR](/stripes/gykgrbkrkykr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Mandela Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/1997 — Mandela Commemorative (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800))
-- 1997 — Mandela (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2359/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/1997 — Mandela Commemorative (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2800">record</a>)</li>
+<li>1997 — Mandela (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2359/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

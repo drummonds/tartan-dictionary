@@ -2,9 +2,10 @@
 title: "MacTaggert Clan Tartan Tartan Number: 408. Earliest known date: 1906 Around 1214 A.D. the chief of Clan Ross was known as Fearchar Mac an t'sagirt, which in English, means 'son of the priest'. The clan connection between the MacTaggerts and the Rosses, like many Scottish septs and aliases, is very long standing. The clan is sometimes referred to as Clan Anrias, recalling an ancient connection with the Irish royal house of Tara. The tartan was first published by Johnston's of Edinburgh in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKGBGBGKBRBRB](/stripes/bkgbgbgkbrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9k12g2b4g18b4g2k12db12r2db2r2db3/)
+(the same proportion at any scale), whose colour order is pattern [BKGBGBGKBRBRB](/stripes/bkgbgbgkbrbrb/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=408
 

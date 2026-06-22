@@ -2,9 +2,10 @@
 title: "Glenlivet Dress Reproduction"
 date: 2023-03-18
 ---
-In pattern [GBGWGBGRGRGBGW](/stripes/gbgwgbgrgrgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16t5db2t42r2t6r2t42db2t5ln16t5db2t5/)
+(the same proportion at any scale), whose colour order is pattern [GBGWGBGRGRGBGW](/stripes/gbgwgbgrgrgbgw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4895
 

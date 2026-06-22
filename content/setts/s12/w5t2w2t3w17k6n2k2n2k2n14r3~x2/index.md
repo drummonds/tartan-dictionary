@@ -2,9 +2,10 @@
 title: "Unidentified (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKWBWBW](/stripes/rbkbkbkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5b2ln2b3ln17k6n2k2n2k2n14r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKWBWBW](/stripes/rbkbkbkwbwbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8544/
 

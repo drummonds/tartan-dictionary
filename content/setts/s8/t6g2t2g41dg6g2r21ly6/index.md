@@ -2,18 +2,20 @@
 title: "Manitoba"
 date: 2023-03-18
 ---
-In pattern [BGBGGGRY](/stripes/bgbgggry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6r21g2dg6g41b2g2b6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGGRY](/stripes/bgbgggry/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2805
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Manitoba (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2805))
-- undated — Manitoba (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Manitoba (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2805">record</a>)</li>
+<li>undated — Manitoba (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

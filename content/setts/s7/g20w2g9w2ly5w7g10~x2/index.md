@@ -2,9 +2,10 @@
 title: "Heritage (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [GWGWYWG](/stripes/gwgwywg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20ln2g9ln2y5ln7g10/)
+(the same proportion at any scale), whose colour order is pattern [GWGWYWG](/stripes/gwgwywg/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8039/
 

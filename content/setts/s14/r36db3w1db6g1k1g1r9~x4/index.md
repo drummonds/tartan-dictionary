@@ -2,9 +2,10 @@
 title: "Inverness"
 date: 2023-03-18
 ---
-In pattern [BWBGKGRGKGBWBR](/stripes/bwbgkgrgkgbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r36dba3wa1dba6g1k1g1r9/)
+(the same proportion at any scale), whose colour order is pattern [BWBGKGRGKGBWBR](/stripes/bwbgkgrgkgbwbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1840
 

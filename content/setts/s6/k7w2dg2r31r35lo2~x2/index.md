@@ -2,18 +2,20 @@
 title: "Mason, David Elsworth (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWGRRY](/stripes/kwgrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7lr2dg2r31dr35o2/)
+(the same proportion at any scale), whose colour order is pattern [KWGRRY](/stripes/kwgrry/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/10/2012 — Mason, David Elsworth (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720))
-- undated — Mason, David Elsworth (Personal) Name Tartan Tartan Number: 10720. Earliest known date: 22 October 2012 Designed for Mr Elsworth’s family and his descendants to wear on special occasions and to celebrate an association with Glencoe Wood and the Keil Estate, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10720))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/10/2012 — Mason, David Elsworth (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10720">record</a>)</li>
+<li>undated — Mason, David Elsworth (Personal) Name Tartan Tartan Number: 10720. Earliest known date: 22 October 2012 Designed for Mr Elsworth’s family and his descendants to wear on special occasions and to celebrate an association with Glencoe Wood and the Keil Estate, Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10720">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Auld Lang Syne (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBWBGWGW](/stripes/wbwbgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb1b1lb1b7lt7lb1lt1lb1/)
+(the same proportion at any scale), whose colour order is pattern [WBWBGWGW](/stripes/wbwbgwgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3580/
 

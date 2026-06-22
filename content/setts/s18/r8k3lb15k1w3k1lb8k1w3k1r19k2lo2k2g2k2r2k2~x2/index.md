@@ -2,9 +2,10 @@
 title: "Canadian Dental Association"
 date: 2023-03-18
 ---
-In pattern [KRKGKYKRKWKWKWKWKR](/stripes/krkgkykrkwkwkwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k3n15k1w3k1n8k1w3k1r19k2y2k2g2k2r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKYKRKWKWKWKWKR](/stripes/krkgkykrkwkwkwkwkr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10403
 

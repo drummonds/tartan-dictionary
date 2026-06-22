@@ -2,9 +2,10 @@
 title: "Glen Innes (Australia)"
 date: 2023-03-18
 ---
-In pattern [BBBWBWBR](/stripes/bbbwbwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b142db12ba24w7ba5w5ba5r10/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBWBR](/stripes/bbbwbwbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6011
 

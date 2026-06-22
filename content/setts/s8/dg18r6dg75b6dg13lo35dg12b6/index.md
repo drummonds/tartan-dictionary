@@ -2,9 +2,10 @@
 title: "Glenlivet Check (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGYGBGRG](/stripes/bgygbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg18dr6dg75b6dg13lt35dg12b6/)
+(the same proportion at any scale), whose colour order is pattern [BGYGBGRG](/stripes/bgygbgrg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/193/
 

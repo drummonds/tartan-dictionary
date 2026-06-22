@@ -2,9 +2,10 @@
 title: "Scotch House (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RWBWBWBGGGGGBWBWBW](/stripes/rwbwbwbgggggbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp16db2lp2db2lp3db6lt2lt22lt4lt22lt2db6lp3db2lp2db2lp16dr3/)
+(the same proportion at any scale), whose colour order is pattern [RWBWBWBGGGGGBWBWBW](/stripes/rwbwbwbgggggbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3666
 

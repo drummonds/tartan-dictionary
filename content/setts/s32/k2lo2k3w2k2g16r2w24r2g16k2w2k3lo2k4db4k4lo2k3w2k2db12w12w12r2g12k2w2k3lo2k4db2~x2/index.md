@@ -2,9 +2,10 @@
 title: "Hawick Dress"
 date: 2023-03-18
 ---
-In pattern [BKYKWKGRWWBKWKYKBKYKWKGRWRGKWKYK](/stripes/bkykwkgrwwbkwkykbkykwkgrwrgkwkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dy2k3w2k2g16dr2w24dr2g16k2w2k3dy2k4db4k4dy2k3w2k2db12w12w12dr2g12k2w2k3dy2k4db2/)
+(the same proportion at any scale), whose colour order is pattern [BKYKWKGRWWBKWKYKBKYKWKGRWRGKWKYK](/stripes/bkykwkgrwwbkwkykbkykwkgrwrgkwkyk/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1629
 

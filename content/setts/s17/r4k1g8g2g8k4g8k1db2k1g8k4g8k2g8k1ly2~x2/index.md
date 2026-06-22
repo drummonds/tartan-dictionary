@@ -2,9 +2,10 @@
 title: "Redmond (2014)"
 date: 2023-03-18
 ---
-In pattern [RKGGGKGKBKGKGKGKY](/stripes/rkgggkgkbkgkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k1ga8g2ga8k4g8k1db2k1g8k4ga8k2ga8k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RKGGGKGKBKGKGKGKY](/stripes/rkgggkgkbkgkgkgky/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11099/
 

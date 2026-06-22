@@ -2,9 +2,10 @@
 title: "Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYBYBYGWR](/stripes/bbybybygwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln4g4y4db5y1db1y1db16p4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYBYGWR](/stripes/bbybybygwr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1906
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Yukon #2147
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1906))
-- undated — Yukon #2147 District Tartan Tartan Number: 2147. Earliest known date: pre 2003 This is how the Yukon district tartan would appear if it was woven according to the records of Lord Lyon, which shows the sett as a symetrical pattern. Many of the Canadian district tartans are asymetrical and Yukon is no exception. This sett is recorded for interest only. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2147))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Yukon #1906 District Tartan Tartan Number: 1906. Earliest known date: 1984 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1906">record</a>)</li>
+<li>undated — Yukon #2147 District Tartan Tartan Number: 2147. Earliest known date: pre 2003 This is how the Yukon district tartan would appear if it was woven according to the records of Lord Lyon, which shows the sett as a symetrical pattern. Many of the Canadian district tartans are asymetrical and Yukon is no exception. This sett is recorded for interest only. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2147">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 LN8 G8 Y8 DB10 Y2 DB2 Y2 DB32 P/8

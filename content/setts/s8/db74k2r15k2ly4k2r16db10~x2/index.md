@@ -2,9 +2,10 @@
 title: "Salvation Army Dress (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKRKYKRB](/stripes/bkrkykrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db74k2r15k2y4k2r16db10/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYKRB](/stripes/bkrkykrb/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/546/
 

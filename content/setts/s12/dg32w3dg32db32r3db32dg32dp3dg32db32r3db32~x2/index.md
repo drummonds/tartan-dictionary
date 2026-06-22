@@ -2,9 +2,10 @@
 title: "Love Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBGBGBRBGWG](/stripes/brbgbgbrbgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db32r3db32g32p3g32db32r3db32g32ln3g32/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGBRBGWG](/stripes/brbgbgbrbgwg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8397/
 

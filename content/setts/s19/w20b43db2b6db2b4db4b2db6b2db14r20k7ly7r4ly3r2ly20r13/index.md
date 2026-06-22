@@ -2,9 +2,10 @@
 title: "Declaration of Scottish Independence, Arbroath 1320"
 date: 2023-03-18
 ---
-In pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w20b43db2b6db2b4db4b2db6b2db14dr20k7y7r4y3r2y20r13/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYKRBBBBBBBBBBW](/stripes/ryryrykrbbbbbbbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11182
 

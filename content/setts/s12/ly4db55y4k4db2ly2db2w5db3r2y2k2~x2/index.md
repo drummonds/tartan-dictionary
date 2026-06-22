@@ -2,9 +2,10 @@
 title: "London'88"
 date: 2023-03-18
 ---
-In pattern [KGRBWBYBKGBY](/stripes/kgrbwbybkgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4b55n4k4b2y2b2ln5b3r2n2k2/)
+(the same proportion at any scale), whose colour order is pattern [KGRBWBYBKGBY](/stripes/kgrbwbybkgby/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

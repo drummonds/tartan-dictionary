@@ -2,9 +2,10 @@
 title: "Gow (Portrait)"
 date: 2023-03-18
 ---
-In pattern [GRBRBRGR](/stripes/grbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5g5r1p5r5/)
+(the same proportion at any scale), whose colour order is pattern [GRBRBRGR](/stripes/grbrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1473
 

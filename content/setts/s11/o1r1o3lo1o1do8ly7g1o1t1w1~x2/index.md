@@ -2,9 +2,10 @@
 title: "Porcupine Fancy Tartan Tartan Number: 1303. Earliest known date: 1969 Some mention of MacDougall and a Wilson connection. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RRRYRBYGRBW](/stripes/rrryrbygrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1r1n3lt1n1dr8y7g1n1b1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RRRYRBYGRBW](/stripes/rrryrbygrbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1303
 

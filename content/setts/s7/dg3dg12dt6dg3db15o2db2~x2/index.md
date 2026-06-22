@@ -2,9 +2,10 @@
 title: "Myres Castle"
 date: 2023-03-18
 ---
-In pattern [BRBGBGG](/stripes/brbgbgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn3dg12db6n3dba15lt2dba2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGG](/stripes/brbgbgg/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10068
 

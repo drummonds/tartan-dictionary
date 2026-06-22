@@ -2,19 +2,21 @@
 title: "MacDowall"
 date: 2023-03-18
 ---
-In pattern [WGBKBKWKWKWY](/stripes/wgbkbkwkwkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3ln12k3ln3k3ln3k7n48k7n3g14ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGBKBKWKWKWY](/stripes/wgbkbkwkwkwy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2007 — MacDowall (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410))
-- Nov. 2007 — MacDowall (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7260/))
-- undated — MacDowall Clan Tartan Tartan Number: 7260. Earliest known date: 2007 There had been no previous tartan for the senior branch of the ancient Lords of Galloway . This was designed by MacDowall of Garthland* in conjunction with Gordon Kirkbright of Fraser & Kirkbright, weavers of Vancouver B.C. The design is a much modified Hunting Stewart of Galloway incorporating the Macdowall of Galloway livery colours. Prof. Fergus Day Hort Macdowall of that Ilk, Garthland and Castlesemple, Chief of the MacDowalls. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7260))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — MacDowall (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2410">record</a>)</li>
+<li>Nov. 2007 — MacDowall (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7260/">record</a>)</li>
+<li>undated — MacDowall Clan Tartan Tartan Number: 7260. Earliest known date: 2007 There had been no previous tartan for the senior branch of the ancient Lords of Galloway . This was designed by MacDowall of Garthland* in conjunction with Gordon Kirkbright of Fraser & Kirkbright, weavers of Vancouver B.C. The design is a much modified Hunting Stewart of Galloway incorporating the Macdowall of Galloway livery colours. Prof. Fergus Day Hort Macdowall of that Ilk, Garthland and Castlesemple, Chief of the MacDowalls. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7260">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

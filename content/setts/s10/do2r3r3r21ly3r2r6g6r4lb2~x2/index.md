@@ -2,9 +2,10 @@
 title: "Hello Kitty (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRRRYRRGRW](/stripes/brrryrrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2lr3r3lr21y3lr2r6b6r4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BRRRYRRGRW](/stripes/brrryrrgrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6156/
 

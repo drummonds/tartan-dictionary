@@ -2,9 +2,10 @@
 title: "Bell's"
 date: 2023-03-18
 ---
-In pattern [YBRBYRYBRBY](/stripes/ybrbyrybrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3n4dr12n27y2dr65y2n27dr12n4y3/)
+(the same proportion at any scale), whose colour order is pattern [YBRBYRYBRBY](/stripes/ybrbyrybrby/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=246
 

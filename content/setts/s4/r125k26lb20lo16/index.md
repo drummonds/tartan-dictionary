@@ -2,9 +2,10 @@
 title: "McPeek (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKWY](/stripes/rkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r125k26lb20y16/)
+(the same proportion at any scale), whose colour order is pattern [RKWY](/stripes/rkwy/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10188/
 

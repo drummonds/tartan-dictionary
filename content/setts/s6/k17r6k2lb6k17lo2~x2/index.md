@@ -2,9 +2,10 @@
 title: "Black (symmetrical)"
 date: 2023-03-18
 ---
-In pattern [KRKWKY](/stripes/krkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k17dr6k2n6k17dy2/)
+(the same proportion at any scale), whose colour order is pattern [KRKWKY](/stripes/krkwky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=269
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Black Clan/Family
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — Black (symmetrical) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=269))
-- undated — Black Clan/Family Tartan Tartan Number: 2761. Earliest known date: pre 1945 In 1990, taken to a TECA stand at one of the US Highland Games by a Timothy Wood, who explained that his faher had 'found' it in a shop in northern England during World War II. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2761))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Black (symmetrical) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=269">record</a>)</li>
+<li>undated — Black Clan/Family Tartan Tartan Number: 2761. Earliest known date: pre 1945 In 1990, taken to a TECA stand at one of the US Highland Games by a Timothy Wood, who explained that his faher had 'found' it in a shop in northern England during World War II. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2761">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

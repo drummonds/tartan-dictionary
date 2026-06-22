@@ -2,9 +2,10 @@
 title: "Terre D'Ecosse"
 date: 2023-03-18
 ---
-In pattern [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3n7k3n3k3n3k13dg16dy3dg16k13n16k3ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGKGKGKGYGKGKW](/stripes/wgkgkgkgygkgkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4094
 

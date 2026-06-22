@@ -2,9 +2,10 @@
 title: "Leslie Red (VS)"
 date: 2023-03-18
 ---
-In pattern [KRBRKYKRKYKRBR](/stripes/krbrkykrkykrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16db8r2k3y1k3r2k3y1k3r2db8r16k1/)
+(the same proportion at any scale), whose colour order is pattern [KRBRKYKRKYKRBR](/stripes/krbrkykrkykrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2104
 

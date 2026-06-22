@@ -2,9 +2,10 @@
 title: "Welly (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWRBRWWBWWBBWRBWBW](/stripes/rwrbrwwbwwbbwrbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1b1lp1n1na1lp1p1b1lp1w1b1lp1w1na1b1na1lp1na1/)
+(the same proportion at any scale), whose colour order is pattern [RWRBRWWBWWBBWRBWBW](/stripes/rwrbrwwbwwbbwrbwbw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10413/
 

@@ -2,9 +2,10 @@
 title: "Un-named fashion (2013)"
 date: 2023-03-18
 ---
-In pattern [KWKBRBWBRBRKRKRBRKW](/stripes/kwkbrbwbrbrkrkrbrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w2k15dp5n5dp10lb2dp10n5dp5n30k2n4k2n30dp4n4k15w2/)
+(the same proportion at any scale), whose colour order is pattern [KWKBRBWBRBRKRKRBRKW](/stripes/kwkbrbwbrbrkrkrbrkw/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8692/
 

@@ -2,9 +2,10 @@
 title: "Los Angeles Police Bagpipe Band"
 date: 2023-03-18
 ---
-In pattern [RBGBBBBBBBGY](/stripes/rbgbbbbbbbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2dn6g15db6dn4db4dn28db4dn4db6g6y2/)
+(the same proportion at any scale), whose colour order is pattern [RBGBBBBBBBGY](/stripes/rbgbbbbbbbgy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Los Angeles Police Bagpipe Band (Cor
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1999 — Los Angeles Police Bagpipe Band (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224))
-- 1999 — Los Angeles Police Bagpipe Band (Cor (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5496/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Los Angeles Police Bagpipe Band (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2224">record</a>)</li>
+<li>1999 — Los Angeles Police Bagpipe Band (Cor (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5496/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Beaudoux - Amis Picards (District)"
 date: 2023-03-18
 ---
-In pattern [RWRWGKGKYBY](/stripes/rwrwgkgkyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4db7y4k26g3k1g3ln9r2ln4r2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWGKGKYBY](/stripes/rwrwgkgkyby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10619/
 

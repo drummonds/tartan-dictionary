@@ -2,9 +2,10 @@
 title: "Phoenix Police Honor Guard (Corp.)"
 date: 2023-03-18
 ---
-In pattern [BKBGY](/stripes/bkbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k3b65g56y6/)
+(the same proportion at any scale), whose colour order is pattern [BKBGY](/stripes/bkbgy/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10334/
 

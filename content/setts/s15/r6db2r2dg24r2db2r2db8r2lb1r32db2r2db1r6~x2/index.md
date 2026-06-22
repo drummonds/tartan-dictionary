@@ -2,9 +2,10 @@
 title: "Grant"
 date: 2023-03-18
 ---
-In pattern [RBRBRWRBRBRGRBR](/stripes/rbrbrwrbrbrgrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db2r2g24r2db2r2db8r2n1r32db2r2db1r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRWRBRBRGRBR](/stripes/rbrbrwrbrbrgrbr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

@@ -2,9 +2,10 @@
 title: "Anderson (Highland Society of London)"
 date: 2023-03-18
 ---
-In pattern [RBRKRBKWKYKYKRBRGRBRBRGR](/stripes/rbrkrbkwkykykrbrgrbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g10r2ba2r4ba2r2g10r4ba8r2k8y2k4y2k4ln6k6b27r2k2r2b10r6/)
+(the same proportion at any scale), whose colour order is pattern [RBRKRBKWKYKYKRBRGRBRBRGR](/stripes/rbrkrbkwkykykrbrgrbrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=74
 

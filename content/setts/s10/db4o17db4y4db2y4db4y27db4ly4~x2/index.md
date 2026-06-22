@@ -2,9 +2,10 @@
 title: "Cape Breton University Chemistry Society"
 date: 2023-03-18
 ---
-In pattern [BRBGBGBGBY](/stripes/brbgbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r17db4g4db2g4db4g27db4o4/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBGBGBY](/stripes/brbgbgbgby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10629
 

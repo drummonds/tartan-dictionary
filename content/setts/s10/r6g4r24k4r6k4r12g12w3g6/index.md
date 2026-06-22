@@ -2,9 +2,10 @@
 title: "Morrison, Ancient"
 date: 2023-03-18
 ---
-In pattern [GWGRKRKRGR](/stripes/gwgrkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6g4r24k4r6k4r12g12ln3g6/)
+(the same proportion at any scale), whose colour order is pattern [GWGRKRKRGR](/stripes/gwgrkrkrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Morrison Old
 - Morrison, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Morrison, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Morrison Old Clan Tartan Tartan Number: 933. Earliest known date: 1745 This sett is very similar to the single green stripe version recorded by Lord Lyon in 1968. The date given by MacKinlay is 1745 whereas Lord Lyon gives 1747. Both setts are clearly based on the same pattern which was found in an old Morrison family bible during demolition work on a Black House in Lewis in 1935. [50%] See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=933))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Morrison, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Morrison Old Clan Tartan Tartan Number: 933. Earliest known date: 1745 This sett is very similar to the single green stripe version recorded by Lord Lyon in 1968. The date given by MacKinlay is 1745 whereas Lord Lyon gives 1747. Both setts are clearly based on the same pattern which was found in an old Morrison family bible during demolition work on a Black House in Lewis in 1935. [50%] See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=933">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 G4 R24 K4 R6 K4 R12 G12 LN3 G/6

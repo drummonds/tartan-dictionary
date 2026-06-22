@@ -2,9 +2,10 @@
 title: "California Riverside, University of (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKBWBWYK](/stripes/bkbkbwbwyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42k6db3k3db3w5db17w7dy10k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBWBWYK](/stripes/bkbkbwbwyk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - California Riverside, Uni.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 29/01/2001 — California Riverside, University of (Corporate) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481))
-- pre 2005 — California Riverside, Uni. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6705/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/01/2001 — California Riverside, University of (Corporate) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=481">record</a>)</li>
+<li>pre 2005 — California Riverside, Uni. (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6705/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

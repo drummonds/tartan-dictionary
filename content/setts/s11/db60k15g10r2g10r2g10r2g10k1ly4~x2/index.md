@@ -2,9 +2,10 @@
 title: "Muir/Moore"
 date: 2023-03-18
 ---
-In pattern [BKGRGRGRGKY](/stripes/bkgrgrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60k15g10r2g10r2g10r2g10k1y4/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGRGRGKY](/stripes/bkgrgrgrgky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3039
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - More / Muir
 - Muir/Moore
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1880 — Muir/Moore (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3039))
-- pre 1880 — Muir (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/345/))
-- undated — More / Muir (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Muir Clan Tartan Tartan Number: 345. Earliest known date: 1930 (1880) The Muir tartan has the traditional blue - black - green base, but with an unusual motif of three narrow red stripes appearing twice on the green square. A similar device is seen in the Cochrane tartan. The threadcount of this illustration comes from a sample in the collection of John MacGregor Hastie, who collected tartans between 1930 and 1950, and whose work formed the basis of the archive at the Scottish Tartans Society. The tartan was documented in John Ross's, 'Land of the Scottish Gael' published in 1930. About the same time the pattern was being woven by Andersons in Edinburgh, from a pattern which they dated at about 50 years old. The Muirs of More held lands in Ayrshire. The Muirs of Cassencarrie are associated with the MacKenzies and owned land at Blair Drummond in Stirlingshire. The name has also been included in the House of Gordon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=345))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — Muir/Moore (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3039">record</a>)</li>
+<li>pre 1880 — Muir (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/345/">record</a>)</li>
+<li>undated — More / Muir (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Muir Clan Tartan Tartan Number: 345. Earliest known date: 1930 (1880) The Muir tartan has the traditional blue - black - green base, but with an unusual motif of three narrow red stripes appearing twice on the green square. A similar device is seen in the Cochrane tartan. The threadcount of this illustration comes from a sample in the collection of John MacGregor Hastie, who collected tartans between 1930 and 1950, and whose work formed the basis of the archive at the Scottish Tartans Society. The tartan was documented in John Ross's, 'Land of the Scottish Gael' published in 1930. About the same time the pattern was being woven by Andersons in Edinburgh, from a pattern which they dated at about 50 years old. The Muirs of More held lands in Ayrshire. The Muirs of Cassencarrie are associated with the MacKenzies and owned land at Blair Drummond in Stirlingshire. The name has also been included in the House of Gordon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=345">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

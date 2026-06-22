@@ -2,9 +2,10 @@
 title: "Scotch House (Dalgliesh)"
 date: 2023-03-18
 ---
-In pattern [GWBWGKBKBKBR](/stripes/gwbwgkbkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4n3db3n3g12k6db4k3db4k3db12dr3/)
+(the same proportion at any scale), whose colour order is pattern [GWBWGKBKBKBR](/stripes/gwbwgkbkbkbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3667
 

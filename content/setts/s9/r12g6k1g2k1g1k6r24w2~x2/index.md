@@ -2,9 +2,10 @@
 title: "Stuart/Stewart of Bute"
 date: 2023-03-18
 ---
-In pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g6k1g2k1g1k6r24ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGKGKGKRW](/stripes/rgkgkgkrw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stuart of Bute, The Htg
 - Stuart/Stewart of Bute
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stuart/Stewart of Bute (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stuart of Bute Clan Tartan Tartan Number: 1485. Earliest known date: 1842 The use of this tartan is normally considered to be confined to the family from whom it derives its title, though others more or less closely related have likewise claimed an interest. Whether or not the pattern was in use before the publication of the Vestiarium Scoticum, has never been ascertained. It is often seen in maroon but the change from red does not have the approval of the Marquis of Bute. Stuarts of Bute are descended from the natural son of King Robert II. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1485))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stuart/Stewart of Bute (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stuart of Bute Clan Tartan Tartan Number: 1485. Earliest known date: 1842 The use of this tartan is normally considered to be confined to the family from whom it derives its title, though others more or less closely related have likewise claimed an interest. Whether or not the pattern was in use before the publication of the Vestiarium Scoticum, has never been ascertained. It is often seen in maroon but the change from red does not have the approval of the Marquis of Bute. Stuarts of Bute are descended from the natural son of King Robert II. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1485">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/24 G12 K2 G4 K2 G2 K12 R48 LN/4

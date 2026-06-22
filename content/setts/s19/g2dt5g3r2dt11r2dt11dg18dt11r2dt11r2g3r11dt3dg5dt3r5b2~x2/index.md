@@ -2,9 +2,10 @@
 title: "Jorgensen of Taasinge Family Tartan Tartan Number: 7214. Earliest known date: 2006 Representing my family, the light green is centre of pattern, like in life. Surrounded by the colours of the autumn forest and sea, as I see them on my beloved Isle of Taasinge, all framed with the light violet which so often colours the setting sky. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBGBRGRBRBGBRBRGBG](/stripes/brbgbrgrbrbgbrbrgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2db5g3drb2db11drb2db11ga18db11drb2db11drb2g3drb11db3ga5db3drb5lp2/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBRGRBRBGBRBRGBG](/stripes/brbgbrgrbrbgbrbrgbg/).
 
-This was sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from house-of-tartan.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7214
 

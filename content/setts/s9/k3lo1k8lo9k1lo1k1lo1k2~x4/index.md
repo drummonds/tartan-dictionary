@@ -2,9 +2,10 @@
 title: "Justus Black & Gold (Angus) (Persona"
 date: 2023-03-18
 ---
-In pattern [KYKYKYKYK](/stripes/kykykykyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dy1k8dy9k1dy1k1dy1k2/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKYKYK](/stripes/kykykykyk/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2732/
 

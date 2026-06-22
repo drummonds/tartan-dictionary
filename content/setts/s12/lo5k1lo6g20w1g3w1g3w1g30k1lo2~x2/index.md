@@ -2,9 +2,10 @@
 title: "Delta Lambda Phi (Corporate)"
 date: 2023-03-18
 ---
-In pattern [YKGWGWGWGYKY](/stripes/ykgwgwgwgyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy5k1dy6g20w1g3w1g3w1g30k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [YKGWGWGWGYKY](/stripes/ykgwgwgwgyky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10511/
 

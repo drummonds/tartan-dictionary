@@ -2,9 +2,10 @@
 title: "Wilson's No.138"
 date: 2023-03-18
 ---
-In pattern [BR](/stripes/br/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b1/)
+(the same proportion at any scale), whose colour order is pattern [BR](/stripes/br/).
 
-This was sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4693
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Wilson's, No 138
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Wilson's No.138 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4693))
-- undated — Wilson's, No 138 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Wilson's No.138 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4693">record</a>)</li>
+<li>undated — Wilson's, No 138 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

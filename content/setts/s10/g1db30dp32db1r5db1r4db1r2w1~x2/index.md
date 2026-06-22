@@ -2,9 +2,10 @@
 title: "Gill, Anil (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1r2db1lr4db1r5db1p32db30lg1/)
+(the same proportion at any scale), whose colour order is pattern [GBBBRBRBRW](/stripes/gbbbrbrbrw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11496
 

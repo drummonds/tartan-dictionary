@@ -2,9 +2,10 @@
 title: "Shieldhall (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBRBWBRRRRR](/stripes/brbrbwbrrrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t12r1t2r1t2n2t3na9r1na2r1na3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWBRRRRR](/stripes/brbrbwbrrrrr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3206/
 

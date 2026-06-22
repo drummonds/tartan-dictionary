@@ -2,9 +2,10 @@
 title: "O'Malley (Name?)"
 date: 2023-03-18
 ---
-In pattern [RGRKBKRKYKR](/stripes/rgrkbkrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r45k3y4k3r45k1p2k1r2g8r2/)
+(the same proportion at any scale), whose colour order is pattern [RGRKBKRKYKR](/stripes/rgrkbkrkykr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6473/
 

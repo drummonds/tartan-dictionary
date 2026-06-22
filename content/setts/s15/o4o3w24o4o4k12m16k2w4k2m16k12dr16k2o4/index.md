@@ -2,9 +2,10 @@
 title: "Dunkeld"
 date: 2023-03-18
 ---
-In pattern [RKBKRKWKRKRRWRR](/stripes/rkbkrkwkrkrrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4lta3ln24lta4lt4k12dr16k2ln4k2dr16k12dra16k2lt4/)
+(the same proportion at any scale), whose colour order is pattern [RKBKRKWKRKRRWRR](/stripes/rkbkrkwkrkrrwrr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

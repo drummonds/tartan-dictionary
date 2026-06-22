@@ -2,18 +2,20 @@
 title: "MacAlister Dress"
 date: 2023-03-18
 ---
-In pattern [RGYRYGRBRBRWRBWBRGRBWGRBRBRGYR](/stripes/rgyrygrbrbrwrbwbrgrbwgrbrbrgyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12g3y1r2y1g3r3db3r6b1r1ln8r1b1ln12b1r1g8r1b1ln6g2r1b1r2b1r1g3y1r4/)
+(the same proportion at any scale), whose colour order is pattern [RGYRYGRBRBRWRBWBRGRBWGRBRBRGYR](/stripes/rgyrygrbrbrwrbwbrgrbwgrbrbrgyr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/03/2005 — MacAlister Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268))
-- 2005, March — MacAlister Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6629/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/03/2005 — MacAlister Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2268">record</a>)</li>
+<li>2005, March — MacAlister Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6629/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

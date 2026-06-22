@@ -2,9 +2,10 @@
 title: "Blue Toon (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBWBYBBYBYY](/stripes/bbwbybbybyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b49db11w2db2lr2db2b10n4db2n2y3/)
+(the same proportion at any scale), whose colour order is pattern [BBWBYBBYBYY](/stripes/bbwbybbybyy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6861/
 

@@ -2,9 +2,10 @@
 title: "MacKenzie (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKBKBKBKGRGKBKBK](/stripes/bkbkbkgwgkbkbkbkgrgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18k2b2k2b2k6g18ln2g18k6b18k1b4k1b18k6g18r2g18k6b2k2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKBKBKBKGRGKBKBK](/stripes/bkbkbkgwgkbkbkbkgrgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2523
 

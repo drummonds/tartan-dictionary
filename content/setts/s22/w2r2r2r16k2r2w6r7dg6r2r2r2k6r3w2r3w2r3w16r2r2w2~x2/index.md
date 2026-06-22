@@ -2,9 +2,10 @@
 title: "MacDougal (Dress)"
 date: 2023-03-18
 ---
-In pattern [WRRRKRWRGRRRKRWRWRWRRW](/stripes/wrrrkrwrgrrrkrwrwrwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2r2lr2r16k2r2w6r7dg6lr2r2lr2k6r3w2r3w2r3w16r2lr2w2/)
+(the same proportion at any scale), whose colour order is pattern [WRRRKRWRGRRRKRWRWRWRRW](/stripes/wrrrkrwrgrrrkrwrwrwrrw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2391
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacDougall
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/12/2000 — MacDougal (Dress) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2391))
-- Dec 2000 — MacDougall - 1970 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6433/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/12/2000 — MacDougal (Dress) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2391">record</a>)</li>
+<li>Dec 2000 — MacDougall - 1970 (Dress) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6433/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

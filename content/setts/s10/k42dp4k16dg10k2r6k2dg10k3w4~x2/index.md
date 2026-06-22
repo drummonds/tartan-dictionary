@@ -2,9 +2,10 @@
 title: "Mount Dora"
 date: 2023-03-18
 ---
-In pattern [KBKGKRKGKW](/stripes/kbkgkrkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db42p4db16dg10k2r6k2dg10k3ln4/)
+(the same proportion at any scale), whose colour order is pattern [KBKGKRKGKW](/stripes/kbkgkrkgkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5908
 

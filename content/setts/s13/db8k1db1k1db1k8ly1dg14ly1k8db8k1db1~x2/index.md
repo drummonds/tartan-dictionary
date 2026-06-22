@@ -2,9 +2,10 @@
 title: "Black from Cumnock (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k1b1k1b1k8y1g14y1k8b8k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Breadalbane Fencibles
 - Campbell of Breadalbane
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1890 — Black from Cumnock (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925))
-- undated — Campbell of Breadalbane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=515))
-- undated — Breadalbane Fencibles (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1890 — Black from Cumnock (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4925">record</a>)</li>
+<li>undated — Campbell of Breadalbane (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=515">record</a>)</li>
+<li>undated — Breadalbane Fencibles (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Spirit of Morningside"
 date: 2023-03-18
 ---
-In pattern [BBBBKGKGWGWGKGKBBKB](/stripes/bbbbkgkgwgwgkgkbbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4db5p3db50k15ga3k5ga32ln2ga3ln2ga32k5ga5k15db50p3k5p3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKGKGWGWGKGKBBKB](/stripes/bbbbkgkgwgwgkgkbbkb/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3864
 

@@ -2,9 +2,10 @@
 title: "Mary Stuart (Fashion?"
 date: 2023-03-18
 ---
-In pattern [BRKRBRKRKRKRKRKRB](/stripes/brkrbrkrkrkrkrkrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4r1k1r1k4r1k1r1k4r1k1r1db4r1k1r1db4/)
+(the same proportion at any scale), whose colour order is pattern [BRKRBRKRKRKRKRKRB](/stripes/brkrbrkrkrkrkrkrb/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5970/
 

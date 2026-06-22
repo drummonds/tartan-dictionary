@@ -2,9 +2,10 @@
 title: "Herron of Ulster (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGBGKGKGKGKGBGK](/stripes/gkgbgkgkgkgkgbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g1db10g1k1g1k11g12k11g1k1g1db10g1k1g1/)
+(the same proportion at any scale), whose colour order is pattern [GKGBGKGKGKGKGBGK](/stripes/gkgbgkgkgkgkgbgk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1698
 

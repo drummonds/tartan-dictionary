@@ -2,9 +2,10 @@
 title: "Douglas"
 date: 2023-03-18
 ---
-In pattern [KBGBY](/stripes/kbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b2dg8db8n1/)
+(the same proportion at any scale), whose colour order is pattern [KBGBY](/stripes/kbgby/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

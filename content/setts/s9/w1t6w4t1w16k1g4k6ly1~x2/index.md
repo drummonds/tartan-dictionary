@@ -2,9 +2,10 @@
 title: "Henderson Dress (Clan?)"
 date: 2023-03-18
 ---
-In pattern [WBWBWKGKY](/stripes/wbwbwkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1k6g4k1w16b1w4b6w1/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWKGKY](/stripes/wbwbwkgky/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2549/
 

@@ -2,9 +2,10 @@
 title: "Hart (Texas) (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWBRKRBRWBWRBRKRBWKY](/stripes/kwbrkrbrwbwrbrkrbwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k3w2db7r7k4r5db4r30w2db3/)
+(the same proportion at any scale), whose colour order is pattern [KWBRKRBRWBWRBRKRBWKY](/stripes/kwbrkrbrwbwrbrkrbwky/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5345
 

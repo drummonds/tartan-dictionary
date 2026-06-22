@@ -2,9 +2,10 @@
 title: "Aberdeen Forever"
 date: 2023-03-18
 ---
-In pattern [WKBKBKBKBRWY](/stripes/wkbkbkbkbrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4w2r19n8k1n3k2n2k3n2k26lb4/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBKBKBRWY](/stripes/wkbkbkbkbrwy/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10733
 

@@ -2,9 +2,10 @@
 title: "Morris, Tom (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBWBWBWRWBWBW](/stripes/wbwbwbwrwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na38dp5na6dp5na4db20na38nb12lr3n30lr3n2lr7/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWBWRWBWBW](/stripes/wbwbwbwrwbwbw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10802/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Morris, Tom
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 22/08/2012 — Morris, Tom (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10802/))
-- 17/03/2013 — Lethcoe (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10813/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>22/08/2012 — Morris, Tom (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10802/">record</a>)</li>
+<li>17/03/2013 — Lethcoe (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10813/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Na/38 DP5 Na6 DP5 Na4 DB20 Na38 Nb12 LR3 N30 LR3 N2 LR/7

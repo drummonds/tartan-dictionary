@@ -2,9 +2,10 @@
 title: "Glen Shee"
 date: 2023-03-18
 ---
-In pattern [RGRRR](/stripes/rgrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr37lt9dr3g9lt3/)
+(the same proportion at any scale), whose colour order is pattern [RGRRR](/stripes/rgrrr/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

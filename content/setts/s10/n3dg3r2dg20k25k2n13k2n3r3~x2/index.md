@@ -2,9 +2,10 @@
 title: "Loch Freuchie District Tartan Tartan Number: 10725. Earliest known date: 25 October 2012 A tartan for the area around Loch Freuchie near Crieff. The tartan is based on the Murray of Atholl and Breadalbane setts, with differences, to relate the tartan to the particular Loch Freuchie area. Mr MacArthur-Fox has created a tartan for anyone to wear without fear of offending another person or group. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGRGKKBKBR](/stripes/bgrgkkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ba3k2ba13y2k25dg20r2dg3b3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGKKBKBR](/stripes/bgrgkkbkbr/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10725
 

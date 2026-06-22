@@ -2,9 +2,10 @@
 title: "Bon Accord Corporate Com Tartan Tartan Number: 2229. Earliest known date: 1995 Designed by Michael King of Philip King Ltd. A tartan for the City of Aberdeen. Approved by the City council, launched at the Aberdeen Highland Games in June 1995. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRWRWRBRBR](/stripes/brbrwrwrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25r3db3r17w3r6w3r17db3r3db25r3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRWRWRBRBR](/stripes/brbrwrwrbrbr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2229
 

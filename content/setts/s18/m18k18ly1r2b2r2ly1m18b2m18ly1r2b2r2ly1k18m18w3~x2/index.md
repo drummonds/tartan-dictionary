@@ -2,9 +2,10 @@
 title: "Selkirk High School"
 date: 2023-03-18
 ---
-In pattern [RKYRBRYRBRYRBRYKRW](/stripes/rkyrbryrbryrbrykrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp18k18y1r2b2r2y1lp18b2lp18y1r2b2r2y1k18lp18w3/)
+(the same proportion at any scale), whose colour order is pattern [RKYRBRYRBRYRBRYKRW](/stripes/rkyrbryrbryrbrykrw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3760
 

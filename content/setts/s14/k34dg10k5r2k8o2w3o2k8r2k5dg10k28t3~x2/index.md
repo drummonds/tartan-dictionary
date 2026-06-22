@@ -2,9 +2,10 @@
 title: "Lambert (Front Royal) Dark Night"
 date: 2023-03-18
 ---
-In pattern [BKGKRKRWRKRKGK](/stripes/bkgkrkrwrkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ka34k10ka5r2ka8lt2ln3lt2ka8r2ka5k10ka28b3/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRKRWRKRKGK](/stripes/bkgkrkrwrkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10669
 

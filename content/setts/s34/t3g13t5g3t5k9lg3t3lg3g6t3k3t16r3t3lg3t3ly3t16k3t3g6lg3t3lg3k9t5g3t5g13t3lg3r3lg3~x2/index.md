@@ -2,9 +2,10 @@
 title: "Shipley, Ian (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBKYBYGBKBRBYBYBKBGYBYKBGBGBYRY](/stripes/bgbgbkybygbkbrbybybkbgybykbgbgbyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3ba13b5ba3b5k9lg3b3lg3ba6b3k3b16r3b3lg3b3y3b16k3b3ba6lg3b3lg3k9b5ba3b5ba13b3lg3r3lg3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBKYBYGBKBRBYBYBKBGYBYKBGBGBYRY](/stripes/bgbgbkybygbkbrbybybkbgybykbgbgbyry/).
 
-This was sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from register-of-tartans.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10167
 

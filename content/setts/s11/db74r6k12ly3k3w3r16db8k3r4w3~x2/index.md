@@ -2,9 +2,10 @@
 title: "Suffolk County Police (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRKYKWRBKRW](/stripes/brkykwrbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db74r6k12y3k3ln3r16db8k3r4ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRKYKWRBKRW](/stripes/brkykwrbkrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2461/
 

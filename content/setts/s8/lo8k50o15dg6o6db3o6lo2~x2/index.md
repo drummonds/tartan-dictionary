@@ -2,9 +2,10 @@
 title: "Royal College of G.P.s (Corporate)"
 date: 2023-03-18
 ---
-In pattern [YKRGRBRY](/stripes/ykrgrbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o8k50n15dg6n6db3n6o2/)
+(the same proportion at any scale), whose colour order is pattern [YKRGRBRY](/stripes/ykrgrbry/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3175/
 

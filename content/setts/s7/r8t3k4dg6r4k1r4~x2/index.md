@@ -2,9 +2,10 @@
 title: "MacDuff #5"
 date: 2023-03-18
 ---
-In pattern [RBKGRKR](/stripes/rbkgrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8b3k4g6r4k1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBKGRKR](/stripes/rbkgrkr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2417
 

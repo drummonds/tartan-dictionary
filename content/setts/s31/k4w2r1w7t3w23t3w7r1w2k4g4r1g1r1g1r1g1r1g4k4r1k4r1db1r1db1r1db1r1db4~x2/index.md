@@ -2,9 +2,10 @@
 title: "MacDonald Dress Clan Tartan Tartan Number: 2001. Earliest known date: pre 2003 Estimated count See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln2r1ln7b3ln23b3ln7r1ln2k4g4r1g1r1g1r1g1r1g4k4r1k4r1db1r1db1r1db1r1db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
 
-This was sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from house-of-tartan.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2001
 

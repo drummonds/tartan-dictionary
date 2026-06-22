@@ -2,18 +2,20 @@
 title: "Lasting"
 date: 2023-03-18
 ---
-In pattern [WBWGWYWBWYWGWBWBWRWRGRW](/stripes/wbwgwywbwywgwbwbwrwrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w8dp7w2lg6w2y4w2dp4w2y4w2dg19w2dp7w2dp7w2r19w4r3lg2r3w2/)
+(the same proportion at any scale), whose colour order is pattern [WBWGWYWBWYWGWBWBWRWRGRW](/stripes/wbwgwywbwywgwbwbwrwrgrw/).
 
-This was sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from register-of-tartans.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2055
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1800 — Lasting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2055))
-- 1800 — Lasting (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1789/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1800 — Lasting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2055">record</a>)</li>
+<li>1800 — Lasting (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1789/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

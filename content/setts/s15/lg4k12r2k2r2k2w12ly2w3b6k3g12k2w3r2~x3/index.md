@@ -2,9 +2,10 @@
 title: "Innes Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [RWKGKBWYWKRKRKY](/stripes/rwkgkbwywkrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba4k12r2k2r2k2ln12y2ln3b6k3g12k2ln3r2/)
+(the same proportion at any scale), whose colour order is pattern [RWKGKBWYWKRKRKY](/stripes/rwkgkbwywkrkrky/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/360/
 

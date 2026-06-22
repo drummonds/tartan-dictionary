@@ -2,18 +2,20 @@
 title: "Elmore (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWYKBGWRKRWGYKR](/stripes/kwykbgwrkrwgykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r29k1o3dg6ln6r3k1r3ln2dg3db5k3y5ln5k4/)
+(the same proportion at any scale), whose colour order is pattern [KWYKBGWRKRWGYKR](/stripes/kwykbgwrkrwgykr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2001 — Elmore (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104))
-- pre 2002 — Elmore (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3998/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2001 — Elmore (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1104">record</a>)</li>
+<li>pre 2002 — Elmore (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3998/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Dege, of Saville Row"
 date: 2023-03-18
 ---
-In pattern [RBBRBR](/stripes/rbbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt11db1lt3b1db9r1/)
+(the same proportion at any scale), whose colour order is pattern [RBBRBR](/stripes/rbbrbr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

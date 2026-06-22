@@ -2,9 +2,10 @@
 title: "Morgan Mackenzie (Personal?)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWRWGKBRB](/stripes/bkbkbkgwrwgkbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k2b2k2b2k12g12w2r2w2g12k12b12r3b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWRWGKBRB](/stripes/bkbkbkgwrwgkbrb/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5996/
 

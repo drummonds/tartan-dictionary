@@ -2,9 +2,10 @@
 title: "McDill (2015)"
 date: 2023-03-18
 ---
-In pattern [WBYBBBKBKYBYBBKBKBYW](/stripes/wbybbbkbkybybbkbkbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1dr2dy2dr20b1dr1k6dr6k6dy2dr1dy2b6dr3k1dr3k20dr1dy2w1/)
+(the same proportion at any scale), whose colour order is pattern [WBYBBBKBKYBYBBKBKBYW](/stripes/wbybbbkbkybybbkbkbyw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11416
 

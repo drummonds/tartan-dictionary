@@ -2,9 +2,10 @@
 title: "Clare (Prince George) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYGGR](/stripes/byggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5y5t13lg41r3/)
+(the same proportion at any scale), whose colour order is pattern [BYGGR](/stripes/byggr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10311
 

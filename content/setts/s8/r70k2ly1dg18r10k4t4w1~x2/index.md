@@ -2,18 +2,20 @@
 title: "MacIngust"
 date: 2023-03-18
 ---
-In pattern [RKYGRKBW](/stripes/rkygrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r70k2y1dg18r10k4b4ln1/)
+(the same proportion at any scale), whose colour order is pattern [RKYGRKBW](/stripes/rkygrkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — MacIngust (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470))
-- pre 2003 — MacIngust (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5912/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — MacIngust (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2470">record</a>)</li>
+<li>pre 2003 — MacIngust (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5912/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

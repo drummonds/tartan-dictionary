@@ -2,9 +2,10 @@
 title: "Saskatchewan (CIDD 28105)"
 date: 2023-03-18
 ---
-In pattern [GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW](/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b50g16b8ln8g1ln1g1ln1g1ln1g1ln1g1ln1g1ln1g20ln40b12ln24lg8g1lg1g1lg1g1lg1g1lg1g1lg1g1lg1g28lg6ln4/)
+(the same proportion at any scale), whose colour order is pattern [GGGWGWGWGWGWGWGWGWGWYGYGYGYGYGYGYGYW](/stripes/gggwgwgwgwgwgwgwgwgwygygygygygygygyw/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5703
 

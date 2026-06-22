@@ -2,18 +2,20 @@
 title: "Cockburn - 1830 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBYKGKR](/stripes/gkgkgkbkwkbykgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k1g1k1g1k1db4k1w1k1db1y1k1g4k1r1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBYKGKR](/stripes/gkgkgkbkwkbykgkr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4548/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1830 — Cockburn - 1830 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4548/))
-- 01/01/1906 — Cockburn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1830 — Cockburn - 1830 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4548/">record</a>)</li>
+<li>01/01/1906 — Cockburn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=699">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

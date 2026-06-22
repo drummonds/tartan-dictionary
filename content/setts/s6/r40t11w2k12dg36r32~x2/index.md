@@ -2,9 +2,10 @@
 title: "Thompson/Thomson/MacTavish (Mackinlay)"
 date: 2023-03-18
 ---
-In pattern [RBWKGR](/stripes/rbwkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r40b11ln2k12g36r32/)
+(the same proportion at any scale), whose colour order is pattern [RBWKGR](/stripes/rbwkgr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4117
 

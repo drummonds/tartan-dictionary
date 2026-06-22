@@ -2,9 +2,10 @@
 title: "Heriot Watt University (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBGRGBBYG](/stripes/bbbgrgbbyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5dy1b4dn18g2dr2g16db1b32dn3/)
+(the same proportion at any scale), whose colour order is pattern [BBBGRGBBYG](/stripes/bbbgrgbbyg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2407/
 

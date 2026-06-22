@@ -2,9 +2,10 @@
 title: "Cirse 3D"
 date: 2023-03-18
 ---
-In pattern [BKYKBRBY](/stripes/bkykbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy8n5dr1n15k2dy1k36n1/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBRBY](/stripes/bkykbrby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8803/
 

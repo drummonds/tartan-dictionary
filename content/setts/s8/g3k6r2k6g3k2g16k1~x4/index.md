@@ -2,18 +2,20 @@
 title: "Glenbarr"
 date: 2023-03-18
 ---
-In pattern [GKRKGKGK](/stripes/gkrkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3k6r2k6g3k2g16k1/)
+(the same proportion at any scale), whose colour order is pattern [GKRKGKGK](/stripes/gkrkgkgk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1983 — Glenbarr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405))
-- pre 2007 — Glenbarr (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7366/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1983 — Glenbarr (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1405">record</a>)</li>
+<li>pre 2007 — Glenbarr (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7366/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Unidentified (Callander 2009)"
 date: 2023-03-18
 ---
-In pattern [KGWGBKWKGBGWGY](/stripes/kgwgbkwkgbgwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5g16lb4g4b16k1w4k1g4b16g4lb4g16y4/)
+(the same proportion at any scale), whose colour order is pattern [KGWGBKWKGBGWGY](/stripes/kgwgbkwkgbgwgy/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8531/
 

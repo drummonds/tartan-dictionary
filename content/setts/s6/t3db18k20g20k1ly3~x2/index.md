@@ -2,9 +2,10 @@
 title: "Smith, Sir William (?)"
 date: 2023-03-18
 ---
-In pattern [BBKGKY](/stripes/bbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k1g20k20db18b3/)
+(the same proportion at any scale), whose colour order is pattern [BBKGKY](/stripes/bbkgky/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/65/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Smith, Sir William
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- ca 1975 — Smith, Sir William (?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/65/))
-- undated — Smith (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>ca 1975 — Smith, Sir William (?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/65/">record</a>)</li>
+<li>undated — Smith (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/6 K2 G40 K40 DB36 B/6

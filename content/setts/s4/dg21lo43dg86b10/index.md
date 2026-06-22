@@ -2,9 +2,10 @@
 title: "Special, Saffron"
 date: 2023-03-18
 ---
-In pattern [BGYG](/stripes/bgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg21o43dg86b10/)
+(the same proportion at any scale), whose colour order is pattern [BGYG](/stripes/bgyg/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

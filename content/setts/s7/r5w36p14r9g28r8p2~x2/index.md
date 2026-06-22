@@ -2,9 +2,10 @@
 title: "MacKintosh, Arisaid"
 date: 2023-03-18
 ---
-In pattern [BRGRBWR](/stripes/brgrbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5ln36p14r9g28r8p2/)
+(the same proportion at any scale), whose colour order is pattern [BRGRBWR](/stripes/brgrbwr/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

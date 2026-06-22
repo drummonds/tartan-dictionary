@@ -2,9 +2,10 @@
 title: "Drummond"
 date: 2023-03-18
 ---
-In pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4g1r1g18k1g1k1g8r28g1r1g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKGKGRGR](/stripes/grgrgkgkgrgr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

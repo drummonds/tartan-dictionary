@@ -2,9 +2,10 @@
 title: "Miss Emma Halford-MacLeod"
 date: 2023-03-18
 ---
-In pattern [RWGBBWBYBW](/stripes/rwgbbwbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln102n3lg3n3ln3n12b14g12ln3lt3/)
+(the same proportion at any scale), whose colour order is pattern [RWGBBWBYBW](/stripes/rwgbbwbybw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10046
 

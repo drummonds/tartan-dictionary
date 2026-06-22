@@ -2,9 +2,10 @@
 title: "Rhys (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [YBYBBYBYBY](/stripes/ybybbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt6dba3lt3dba15db7lt7db5lt17db46lta4/)
+(the same proportion at any scale), whose colour order is pattern [YBYBBYBYBY](/stripes/ybybbybyby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5753/
 

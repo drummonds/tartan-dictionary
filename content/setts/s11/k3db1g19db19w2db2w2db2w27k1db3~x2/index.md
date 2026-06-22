@@ -2,9 +2,10 @@
 title: "Lorne Dress (Dance) Fashion Tartan Tartan Number: 6560. Earliest known date: 01/01/2005 A dance tartan from DC Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKWBWBWBGBK](/stripes/bkwbwbwbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db1g19db19ln2db2ln2db2ln27k1db3/)
+(the same proportion at any scale), whose colour order is pattern [BKWBWBWBGBK](/stripes/bkwbwbwbgbk/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6560
 

@@ -2,9 +2,10 @@
 title: "Portree, Check"
 date: 2023-03-18
 ---
-In pattern [GBGRGWGRBGBW](/stripes/gbgrgwgrbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na38b4na8lt2na4ln3na4dr14n7na2n4ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBGRGWGRBGBW](/stripes/gbgrgwgrbgbw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

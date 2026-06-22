@@ -2,9 +2,10 @@
 title: "MacKintosh 5"
 date: 2023-03-18
 ---
-In pattern [BRKRGRBRGRKRKRKRKRGRBRGRGRBRRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrgrbrrbrbrkrgrbrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b48r40k4r4g48r54b46r54dg14r4k4r4k4r48k4r4k4r4dg14r52b46r54dg60r4dg4r48b4r4r8b4r4b4r48k4r4dg60r48b4r4b4r4k7/)
+(the same proportion at any scale), whose colour order is pattern [BRKRGRBRGRKRKRKRKRGRBRGRGRBRRBRBRKRGRBRBRK](/stripes/brkrgrbrgrkrkrkrkrgrbrgrgrbrrbrbrkrgrbrbrk/).
 
-This was sourced from weddslist.  It is a [42 stripe tartan](/stripes/stripes42/).
+Sourced from weddslist.  It is a [42 stripe tartan](/stripes/stripes42/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

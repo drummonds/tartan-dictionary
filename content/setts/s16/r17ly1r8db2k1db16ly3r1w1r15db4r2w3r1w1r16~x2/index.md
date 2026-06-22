@@ -2,9 +2,10 @@
 title: "Ruxton Hunting"
 date: 2023-03-18
 ---
-In pattern [RWRWRBRWRYBKBRYR](/stripes/rwrwrbrwrybkbryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr17y1dr8db2k1db16y3dr1ln1dr15db4dr2ln3dr1ln1dr16/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRBRWRYBKBRYR](/stripes/rwrwrbrwrybkbryr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Ruxton Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Ruxton Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627))
-- January 1997 — Ruxton Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2379/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Ruxton Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3627">record</a>)</li>
+<li>January 1997 — Ruxton Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2379/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

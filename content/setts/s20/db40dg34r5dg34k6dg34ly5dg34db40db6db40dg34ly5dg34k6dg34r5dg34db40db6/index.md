@@ -2,9 +2,10 @@
 title: "Pendleton dress Corporate Tartan Tartan Number: 2468. Earliest known date: 1998 From Pendleton Mills, established in 1863 and located in Portland, Oregon. Ms Annette Hoeffel from Pendleton Woolen Mills is mentioned but it's not known in what capacity - contributer or designer. This tartan and #2467 are virtually identical with the tan line in the former being replaced with a yellow line for the 'Dress'. Pendelton #3 is possibly the one that should be labelled dress. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba40dg34r5dg34k6dg34y5dg34dba40db6dba40dg34y5dg34k6dg34r5dg34dba40db6/)
+(the same proportion at any scale), whose colour order is pattern [BBGRGKGYGBBBGYGKGRGB](/stripes/bbgrgkgygbbbgygkgrgb/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2468
 

@@ -2,19 +2,21 @@
 title: "Burberry Blue"
 date: 2023-03-18
 ---
-In pattern [RKYKY](/stripes/rkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3db3n3db10dr1/)
+(the same proportion at any scale), whose colour order is pattern [RKYKY](/stripes/rkyky/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5382
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1985 — Burberry Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5382))
-- 01/01/1986 — Burberry Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039))
-- 1986 — Burberry, Black (Original) (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3768/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Burberry Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5382">record</a>)</li>
+<li>01/01/1986 — Burberry Black (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5039">record</a>)</li>
+<li>1986 — Burberry, Black (Original) (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3768/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

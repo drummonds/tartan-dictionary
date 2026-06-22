@@ -2,9 +2,10 @@
 title: "Llewellen of Wales"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWKR](/stripes/bkbkbkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr74k4dr7k4dr9k40ln2k4n2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWKR](/stripes/bkbkbkwkr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Llewellyn
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Llewellen of Wales (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138))
-- undated — Llewellyn Welsh Name Tartan Tartan Number: 5759. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Flello, Flellos, Hillin, Hilling, Lello, Lellow, Lewelin, Lewhellin, Llew, Llewelin, LLewelyn, LLewellin, Llewelling, Llewellyn, LLewheling, Llewhellin, Llewhelling, Lew, Whellin, Welling, Wellins isactually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5759))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Llewellen of Wales (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2138">record</a>)</li>
+<li>undated — Llewellyn Welsh Name Tartan Tartan Number: 5759. Earliest known date: 2002 The tartan for this Welsh surname and its variations, Flello, Flellos, Hillin, Hilling, Lello, Lellow, Lewelin, Lewhellin, Llew, Llewelin, LLewelyn, LLewellin, Llewelling, Llewellyn, LLewheling, Llewhellin, Llewhelling, Lew, Whellin, Welling, Wellins isactually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5759">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Rosalyn (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRKRKRKYKRKGKRKGK](/stripes/bkrkbkrkrkrkykrkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16ga50k2lt16k2g4k2lt16k2o50k16r16k2lt4k2r16k16b1k2r4k2b16/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRKRKRKYKRKGKRKGK](/stripes/bkrkbkrkrkrkykrkgkrkgk/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10155/
 

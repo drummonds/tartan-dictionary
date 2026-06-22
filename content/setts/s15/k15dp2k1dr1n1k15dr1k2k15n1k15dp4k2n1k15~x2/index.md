@@ -2,9 +2,10 @@
 title: "GOLF (Wonderland Publications)"
 date: 2023-03-18
 ---
-In pattern [KBKBBKBKKBKBKBK](/stripes/kbkbbkbkkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15dp2bg1t1n1k15t1bg2k15n1k15dp4bg2n1k15/)
+(the same proportion at any scale), whose colour order is pattern [KBKBBKBKKBKBKBK](/stripes/kbkbbkbkkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10698
 

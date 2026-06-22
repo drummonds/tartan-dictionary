@@ -2,9 +2,10 @@
 title: "Jacobite (1712)"
 date: 2023-03-18
 ---
-In pattern [RBWYWBRWRBWGWBRWRBWGWBRWRBWYWBRW](/stripes/rbwywbrwrbwgwbrwrbwgwbrwrbwywbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra2db2ln1y8ln1db2ra2ln1ra2db2ln1g8ln1db2ra2ln1ra2db2ln1g8ln1db2ra2ln1ra2db2ln1y8ln1db2ra2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBWYWBRWRBWGWBRWRBWGWBRWRBWYWBRW](/stripes/rbwywbrwrbwgwbrwrbwgwbrwrbwywbrw/).
 
-This was sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
+Sourced from register-of-tartans.  It is a [32 stripe tartan](/stripes/stripes32/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1875
 

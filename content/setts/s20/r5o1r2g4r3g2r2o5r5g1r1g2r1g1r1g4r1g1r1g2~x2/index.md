@@ -2,9 +2,10 @@
 title: "MacIntosh Old Ancient Artifact Tartan Tartan Number: 966. Earliest known date: pre 2003 The name 'MacKintosh' is usually spelled with a 'K'. In this instance the tartan sample is labelled MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGRGRGRRRGRGRRR](/stripes/grgrgrgrgrgrrrgrgrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5n1r2g4r3g2r2n5r5g1r1g2r1g1r1g4r1g1r1g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGRGRGRRRGRGRRR](/stripes/grgrgrgrgrgrrrgrgrrr/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=966
 

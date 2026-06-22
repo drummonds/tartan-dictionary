@@ -2,9 +2,10 @@
 title: "MacBean, Meta.."
 date: 2023-03-18
 ---
-In pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6ln40b5ln2b5ln5g12ln5r5dr5g2dr5r5ln5g10ln5r5dr5g2dr5r5ln5g12ln5b5ln2b5ln40r6/)
+(the same proportion at any scale), whose colour order is pattern [KWBWBWGWRRGRRWGWRRGRRWGWBWBWR](/stripes/kwbwbwgwrrgrrwgwrrgrrwgwbwbwr/).
 
-This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacBean, Meta
 - MacBean, Meta..
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacBean, Meta.. (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacBean Meta.. Family Tartan Tartan Number: 1220. Earliest known date: 1972 MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1220))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacBean, Meta.. (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacBean Meta.. Family Tartan Tartan Number: 1220. Earliest known date: 1972 MacBains, MacBeans, and MacVeans are all forms of the same name possibly from the same origin as the early Scottish King, Donald Ban. The principle family is MacBean of Kinchyle from the northern end of Loch Ness. The MacBains are closely associated with Mackintosh and this is apparent in the design of the tartan. This version, recorded by Lord Lyon under the name MacBain, shows a minor variation on the earlier MacBean sett attributed to McIan (1847). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1220">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/12 LN80 B10 LN4 B10 LN10 G24 LN10 R10 DR10 G4 DR10 R10 LN10 G20 LN10 R10 DR10 G4 DR10 R10 LN10 G24 LN10 B10 LN4 B10 LN80 R/12

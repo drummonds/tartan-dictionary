@@ -2,9 +2,10 @@
 title: "Menzies, Brown & White"
 date: 2023-03-18
 ---
-In pattern [RWRWRWRW](/stripes/rwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt31ln5lt2ln5lt4ln3lt2ln7/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWRW](/stripes/rwrwrwrw/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Not Specified #4"
 date: 2023-03-18
 ---
-In pattern [RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW](/stripes/rwrwrwrwrwrwkrwrkwkrwrkwkrwrwrwrwrwrwrwrkwkrwrkwkrwrkwrwrwrwrwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n35ln2n2ln2n2ln2n2ln2n2ln2n14ln38k4n4ln4n4k4ln4k4n4ln4n4k4ln16k36n19ln2n4ln4n3ln4n2ln13/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWRWRWRWKRWRKWKRWRKWKRWRWRWRWRWRWRWRKWKRWRKWKRWRKWRWRWRWRWRW](/stripes/rwrwrwrwrwrwkrwrkwkrwrkwkrwrwrwrwrwrwrwrkwkrwrkwkrwrkwrwrwrwrwrw/).
 
-This was sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
+Sourced from register-of-tartans.  It is a [64 stripe tartan](/stripes/stripes64/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4814
 

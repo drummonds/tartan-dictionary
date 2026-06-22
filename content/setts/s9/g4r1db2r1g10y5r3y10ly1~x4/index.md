@@ -2,18 +2,20 @@
 title: "Moncton, City of"
 date: 2023-03-18
 ---
-In pattern [GRBRGGRGY](/stripes/grbrggrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4r1db2r1g10t5r3t10y1/)
+(the same proportion at any scale), whose colour order is pattern [GRBRGGRGY](/stripes/grbrggrgy/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2983
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2000 — Moncton, City of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2983))
-- 2000 — Moncton, City of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7384/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Moncton, City of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2983">record</a>)</li>
+<li>2000 — Moncton, City of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7384/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

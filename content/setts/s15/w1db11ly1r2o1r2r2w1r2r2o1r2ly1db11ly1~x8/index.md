@@ -2,9 +2,10 @@
 title: "Wisconsin in Scotland (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WBYRRRRWRRRRYBY](/stripes/wbyrrrrwrrrryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1db11y1dr2n1dr2r2ln1r2dr2n1dr2y1db11ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBYRRRRWRRRRYBY](/stripes/wbyrrrrwrrrryby/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2323/
 

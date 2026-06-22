@@ -2,9 +2,10 @@
 title: "LP Cover (Dance)"
 date: 2023-03-18
 ---
-In pattern [YKKKYKY](/stripes/ykkkyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3k9dya1k1dr6k2dy3/)
+(the same proportion at any scale), whose colour order is pattern [YKKKYKY](/stripes/ykkkyky/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4949/
 

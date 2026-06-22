@@ -2,18 +2,20 @@
 title: "Lyon (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32k4b4k4b4k20g23w2b5w2g23k20b22k4b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWBWGKBKB](/stripes/bkbkbkgwbwgkbkb/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5517/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1999 — Lyon (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5517/))
-- 01/01/2002 — Lyon (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2256))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1999 — Lyon (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5517/">record</a>)</li>
+<li>01/01/2002 — Lyon (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2256">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

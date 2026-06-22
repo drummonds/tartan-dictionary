@@ -2,9 +2,10 @@
 title: "Birch (Name)"
 date: 2023-03-18
 ---
-In pattern [GBGKRKBKW](/stripes/gbgkrkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3p2g25k6dr2k6b20k1n2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKRKBKW](/stripes/gbgkrkbkw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2157/
 

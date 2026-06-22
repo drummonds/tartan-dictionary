@@ -2,9 +2,10 @@
 title: "Sean F Forrester (Personal)"
 date: 2023-03-18
 ---
-In pattern [WYWYBBYBY](/stripes/wywybbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dn4y1dn15p24n15w1n4w3/)
+(the same proportion at any scale), whose colour order is pattern [WYWYBBYBY](/stripes/wywybbyby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10064
 

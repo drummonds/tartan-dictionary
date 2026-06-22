@@ -2,9 +2,10 @@
 title: "Broz Sanz Elementary (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KBKBKBRBW](/stripes/kbkbkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4db1k1db1k1db4r2db4ln2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBRBW](/stripes/kbkbkbrbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3739/
 

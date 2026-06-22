@@ -2,9 +2,10 @@
 title: "Black Shadow"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n18k5n34k12n8k8n24k5n24k5n14/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKB](/stripes/bkbkbkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5931
 

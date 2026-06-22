@@ -2,9 +2,10 @@
 title: "Burke (Name)"
 date: 2023-03-18
 ---
-In pattern [KRKYKRKYKR](/stripes/krkykrkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k62dr23k1dy5k1dr3k1dy2k1dr8/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKRKYKR](/stripes/krkykrkykr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10418/
 

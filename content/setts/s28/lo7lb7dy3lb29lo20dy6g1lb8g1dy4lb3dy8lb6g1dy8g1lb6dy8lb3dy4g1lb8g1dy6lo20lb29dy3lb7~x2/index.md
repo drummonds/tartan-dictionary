@@ -2,9 +2,10 @@
 title: "Isle of Skye (Dalgety)"
 date: 2023-03-18
 ---
-In pattern [WGWYGGWGGWGWGGGWGWGGWGGYWGWY](/stripes/wgwyggwggwgwgggwgwggwggywgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr7t3lr29lt20t6ga1lr8ga1t4lr3t8lr6ga1t8ga1lr6t8lr3t4ga1lr8ga1t6lt20lr29t3lr7lt7/)
+(the same proportion at any scale), whose colour order is pattern [WGWYGGWGGWGWGGGWGWGGWGGYWGWY](/stripes/wgwyggwggwgwgggwgwggwggywgwy/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1869
 

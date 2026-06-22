@@ -2,9 +2,10 @@
 title: "Kilgour (Cant)"
 date: 2023-03-18
 ---
-In pattern [BYBKRKGK](/stripes/bybkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y1db6k3r14k3g14k3/)
+(the same proportion at any scale), whose colour order is pattern [BYBKRKGK](/stripes/bybkrkgk/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1969
 

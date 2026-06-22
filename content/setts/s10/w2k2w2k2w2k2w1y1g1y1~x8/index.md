@@ -2,9 +2,10 @@
 title: "Burns Check"
 date: 2023-03-18
 ---
-In pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/wa2k2wa2k2wa2k2wa1ta1ga1ta1/)
+(the same proportion at any scale), whose colour order is pattern [GGGWKWKWKW](/stripes/gggwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=449
 

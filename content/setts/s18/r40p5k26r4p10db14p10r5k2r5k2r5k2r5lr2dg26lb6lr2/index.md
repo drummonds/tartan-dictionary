@@ -2,9 +2,10 @@
 title: "Unnamed C18th - Hynde Cotton Jacket"
 date: 2023-03-18
 ---
-In pattern [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r40p5k26r4p10db14p10r5k2r5k2r5k2r5n2g26lb6n2/)
+(the same proportion at any scale), whose colour order is pattern [RBKRBBBRKRKRKRYGWY](/stripes/rbkrbbbrkrkrkrygwy/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8418/
 

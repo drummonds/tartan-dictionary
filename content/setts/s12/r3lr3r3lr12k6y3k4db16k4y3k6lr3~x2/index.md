@@ -2,9 +2,10 @@
 title: "Trinity Presbyterian Church (Corpora"
 date: 2023-03-18
 ---
-In pattern [RYRYKGKBKGKY](/stripes/ryrykgkbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b3r3b12k6g3k4db16k4g3k6b3/)
+(the same proportion at any scale), whose colour order is pattern [RYRYKGKBKGKY](/stripes/ryrykgkbkgky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6956/
 

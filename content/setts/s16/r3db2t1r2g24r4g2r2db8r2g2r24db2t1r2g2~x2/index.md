@@ -2,9 +2,10 @@
 title: "Stewart of Appin - 1906"
 date: 2023-03-18
 ---
-In pattern [GRBBRGRBRGRGRBBR](/stripes/grbbrgrbrgrgrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db2b1r2g24r4g2r2db8r2g2r24db2b1r2g2/)
+(the same proportion at any scale), whose colour order is pattern [GRBBRGRBRGRGRBBR](/stripes/grbbrgrbrgrgrbbr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/839/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Stewart of Appin 4
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1906 — Stewart of Appin - 1906 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/839/))
-- undated — Stewart of Appin 4 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart of Appin Clan Tartan Tartan Number: 839. Earliest known date: 1906 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=839))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1906 — Stewart of Appin - 1906 (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/839/">record</a>)</li>
+<li>undated — Stewart of Appin 4 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart of Appin Clan Tartan Tartan Number: 839. Earliest known date: 1906 The Stewarts of Appin fueded relentlessly with the Campbells, and they were supported in these pursuits and other military activities by some of the Clan MacColl, whose tartan is very similar. The Stewarts of Ardshiel, a branch of the Appin Clan, have a certified tartan of their own dating back to the 1820's, which has elements of the Appin design. Stewarts of Appin are descended from Dugald, the son of Sir John Stewart of Lorne who was murdered in 1463. Dugald established the Appin branch of the family by dividing his lands between his five sons. The tartan is worn by the Stonehaven pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=839">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 DB4 B2 R4 G48 R8 G4 R4 DB16 R4 G4 R48 DB4 B2 R4 G/4

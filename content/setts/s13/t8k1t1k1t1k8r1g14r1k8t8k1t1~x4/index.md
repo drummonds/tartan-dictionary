@@ -2,18 +2,20 @@
 title: "Riddoch (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b8k1b1k1b1k8r1lg14r1k8b8k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKRGRKBKB](/stripes/bkbkbkrgrkbkb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3316/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1992 — Riddoch (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3316/))
-- undated — Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3316))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1992 — Riddoch (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3316/">record</a>)</li>
+<li>undated — Riddoch Name Tartan Tartan Number: 3316. Earliest known date: 1992 Designed by Tony Murray for an Albert (Bert) Riddoch of Bearsden, Glasgow as a personal tartan initially but it was then changed to usage by anyone of the name. Bert Riddoch (2002) is a private investigator involved in covert drugs investigations and 'highly thought of by the police'. Tartan based on Campbell of Breadalbane. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3316">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/32 K4 B4 K4 B4 K32 R4 LG56 R4 K32 B32 K4 B/4

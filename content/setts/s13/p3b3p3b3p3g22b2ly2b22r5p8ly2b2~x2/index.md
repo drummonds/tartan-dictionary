@@ -2,9 +2,10 @@
 title: "Pitcairn Heritage Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBBBGBYBRBYB](/stripes/bbbbbgbybrbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3b3p3b3p3g22b2y2b22r5p8y2b2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBGBYBRBYB](/stripes/bbbbbgbybrbyb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6727/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pitcairn Heritage Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2005 — Pitcairn Heritage Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6727/))
-- undated — Pitcairn Heritage Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5304))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Pitcairn Heritage Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6727/">record</a>)</li>
+<li>undated — Pitcairn Heritage Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5304">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

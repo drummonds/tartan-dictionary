@@ -2,9 +2,10 @@
 title: "Menzies Black Dress"
 date: 2023-03-18
 ---
-In pattern [WKBKBKBWKWKW](/stripes/wkbkbkbwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k1ln2k3ln23b5k3b1k1b1k19ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKBKBKBWKWKW](/stripes/wkbkbkbwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2925
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Menzies, Black dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Menzies Black Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2925))
-- undated — Menzies, Black dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Menzies Black Dress Clan Tartan Tartan Number: 1812. Earliest known date: 1988 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1812))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Menzies Black Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2925">record</a>)</li>
+<li>undated — Menzies, Black dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Menzies Black Dress Clan Tartan Tartan Number: 1812. Earliest known date: 1988 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a reliable early source for this tartan. Wilson's were in business with a monopoly to supply tartan to the regiments in the second half of the 18th century before this pattern was recorded. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1812">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

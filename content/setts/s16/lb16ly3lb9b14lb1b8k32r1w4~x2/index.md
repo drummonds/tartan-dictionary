@@ -2,18 +2,20 @@
 title: "Wrens (WRNS)"
 date: 2023-03-18
 ---
-In pattern [WYWBWBKRWRKBWBWY](/stripes/wywbwbkrwrkbwbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb16ya3lb9ba14lb1ba8k32dr1w4/)
+(the same proportion at any scale), whose colour order is pattern [WYWBWBKRWRKBWBWY](/stripes/wywbwbkrwrkbwbwy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Wrens (WRNS) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785))
-- undated — Wrens Corporate Tartan Tartan Number: 2345. Earliest known date: 1995 Popularly known as the Wrens. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2345))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Wrens (WRNS) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4785">record</a>)</li>
+<li>undated — Wrens Corporate Tartan Tartan Number: 2345. Earliest known date: 1995 Popularly known as the Wrens. Lochcarron swatch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2345">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

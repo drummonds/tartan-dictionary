@@ -2,9 +2,10 @@
 title: "Bell (2015)"
 date: 2023-03-18
 ---
-In pattern [BKBWKWKGWRWGKWBKYK](/stripes/bkbwkwkgwrwgkwbkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db7k2db7w1k2w1k8dg2w3dr10w3dg2k8w1db11k2n3k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBWKWKGWRWGKWBKYK](/stripes/bkbwkwkgwrwgkwbkyk/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11345
 

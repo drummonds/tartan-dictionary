@@ -2,9 +2,10 @@
 title: "Elsa Dance"
 date: 2023-03-18
 ---
-In pattern [WGKGKGBWGW](/stripes/wgkgkgbwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly8g6ly44db10b6k3b4k3b34ly4/)
+(the same proportion at any scale), whose colour order is pattern [WGKGKGBWGW](/stripes/wgkgkgbwgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11141
 

@@ -2,9 +2,10 @@
 title: "Tyndrum"
 date: 2023-03-18
 ---
-In pattern [GKGKGKRKGK](/stripes/gkgkgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k1n1k1n2k4lt6k1n2k2/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKRKGK](/stripes/gkgkgkrkgk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

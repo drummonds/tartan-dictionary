@@ -2,9 +2,10 @@
 title: "Ogilvie of Strathallan"
 date: 2023-03-18
 ---
-In pattern [BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW](/stripes/bwrwbwrkrbywykrwrkyykrwrkywybrkrwbwrwbwrkrbyyykwbwkrwrwrkykkykrwrwrkyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3y3k3r5w3r5w3r5k3y3k3k3y3k3r5w3r5w3r5k13w1dba3w1k13y8y3y8dba3r3k3r13w1dba1w1r13w1dba1w1r13k3r3dba3y3w3y3k5r5w3r5k3y8y8k3r5w3r5k5y3w3y3dba3r3k3r13w1dba1w1r13w1dba1/)
+(the same proportion at any scale), whose colour order is pattern [BWRWBWRKRBYWYKRWRKYYKRWRKYWYBRKRWBWRWBWRKRBYYYKWBWKRWRWRKYKKYKRWRWRKYW](/stripes/bwrwbwrkrbywykrwrkyykrwrkywybrkrwbwrwbwrkrbyyykwbwkrwrwrkykkykrwrwrkyw/).
 
-This was sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
+Sourced from register-of-tartans.  It is a [70 stripe tartan](/stripes/stripes70/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5118
 

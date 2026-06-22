@@ -2,9 +2,10 @@
 title: "Anderson Red (Westwood) (Estimated threadcount)"
 date: 2023-03-18
 ---
-In pattern [RBRBRKYKYKWKBRKRBR](/stripes/rbrbrkykykwkbrkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra4ba5ra2ba7ra10k4dy2k2dy2k4ln4k4ba18ra1k2ra1ba4ra3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRKYKYKWKBRKRBR](/stripes/rbrbrkykykwkbrkrbr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5145
 

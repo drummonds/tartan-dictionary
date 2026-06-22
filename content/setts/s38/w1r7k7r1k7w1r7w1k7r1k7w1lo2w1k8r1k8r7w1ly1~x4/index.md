@@ -2,9 +2,10 @@
 title: "Order of the Holy Sepulchre"
 date: 2023-03-18
 ---
-In pattern [WRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwywkrkwrwkrkrwrkrkwrwkrkwywkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1ln1r7k8r1k8ln1dy2ln1k7r1k7ln1r7ln1k7r1k7r7ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKWYWKRKWRWKRKRWRKRKWRWKRKWYWKRKRWY](/stripes/wrkrkwywkrkwrwkrkrwrkrkwrwkrkwywkrkrwy/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4816
 

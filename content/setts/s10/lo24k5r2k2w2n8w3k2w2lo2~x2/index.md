@@ -2,9 +2,10 @@
 title: "Stewart Fawn Trade Tartan Tartan Number: 1738. Earliest known date: 1985 A very attractive sett based on the Royal Stewart tartan but using the colours of the Burberry Check. See Thompson Camel tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YKRKWBWKWY](/stripes/ykrkwbwkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt24k5r2k2ln2n8ln3k2ln2lt2/)
+(the same proportion at any scale), whose colour order is pattern [YKRKWBWKWY](/stripes/ykrkwbwkwy/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1738
 

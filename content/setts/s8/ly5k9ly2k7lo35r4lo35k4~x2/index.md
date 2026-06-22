@@ -2,18 +2,20 @@
 title: "Wilbers"
 date: 2023-03-18
 ---
-In pattern [KYRYKYKY](/stripes/kyrykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5k9y2k7do35r4do35k4/)
+(the same proportion at any scale), whose colour order is pattern [KYRYKYKY](/stripes/kyrykyky/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5274
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Wilbers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5274))
-- pre 2007 — Wilbers (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7151/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Wilbers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5274">record</a>)</li>
+<li>pre 2007 — Wilbers (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7151/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

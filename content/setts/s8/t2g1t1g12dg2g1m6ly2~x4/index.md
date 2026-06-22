@@ -2,9 +2,10 @@
 title: "Manitoba"
 date: 2023-03-18
 ---
-In pattern [BGBGGGRY](/stripes/bgbgggry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2dr6g1dg2g12b1g1b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGGRY](/stripes/bgbgggry/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

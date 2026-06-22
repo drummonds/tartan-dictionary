@@ -2,9 +2,10 @@
 title: "Dorcas, Check"
 date: 2023-03-18
 ---
-In pattern [RWRWRKGKGKGY](/stripes/rwrwrkgkgkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4ln2lt2ln3lt18k6g3k2g2k2g14o3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKGKGKGY](/stripes/rwrwrkgkgkgy/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

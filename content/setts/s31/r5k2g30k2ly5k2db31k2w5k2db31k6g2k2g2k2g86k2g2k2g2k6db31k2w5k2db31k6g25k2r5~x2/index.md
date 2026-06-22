@@ -2,9 +2,10 @@
 title: "Cockburn"
 date: 2023-03-18
 ---
-In pattern [RKGKBKWKBKGKGKGKGKGKBKWKBKYKGKR](/stripes/rkgkbkwkbkgkgkgkgkgkbkwkbkykgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k2g30k2y5k2b31k2ln5k2b31k6g2k2g2k2g86k2g2k2g2k6b31k2ln5k2b31k6g25k2r5/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBKWKBKGKGKGKGKGKBKWKBKYKGKR](/stripes/rkgkbkwkbkgkgkgkgkgkbkwkbkykgkr/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

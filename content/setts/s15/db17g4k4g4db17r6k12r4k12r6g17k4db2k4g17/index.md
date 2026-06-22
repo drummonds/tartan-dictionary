@@ -2,9 +2,10 @@
 title: "Stewart Ancient (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17g4k4g4db17r6k12r4k12r6g17k4db2k4g17/)
+(the same proportion at any scale), whose colour order is pattern [BGKGBRKRKRGKBKG](/stripes/bgkgbrkrkrgkbkg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/159/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre-2000 — Stewart Ancient (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/159/))
-- undated — Stewart, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre-2000 — Stewart Ancient (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/159/">record</a>)</li>
+<li>undated — Stewart, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/17 G4 K4 G4 DB17 R6 K12 R4 K12 R6 G17 K4 DB2 K4 G/17

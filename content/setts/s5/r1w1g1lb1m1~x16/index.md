@@ -2,9 +2,10 @@
 title: "Daughter of Mull"
 date: 2023-03-18
 ---
-In pattern [RWGWR](/stripes/rwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1w1g1lb1p1/)
+(the same proportion at any scale), whose colour order is pattern [RWGWR](/stripes/rwgwr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11537
 

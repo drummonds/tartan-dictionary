@@ -2,9 +2,10 @@
 title: "Graham, dress"
 date: 2023-03-18
 ---
-In pattern [WBWBWKBKBKGBGBGKWBWBW](/stripes/wbwbwkbkbkgbgbgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b4ln60b5ln5k30b27k5b30k27g4ba5g66ba5g4k30ln5b5ln57b4ln4/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWKBKBKGBGBGKWBWBW](/stripes/wbwbwkbkbkgbgbgkwbwbw/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Weait (2016)"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBWBRBWBWBWBWBWBWBW](/stripes/bwbwbwbwbrbwbwbwbwbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6lb6db7lb2db2lb2db7lb6b6r2b6lb6db2lb2db2lb2db8lb2db2lb2db2lb6b6w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBWBRBWBWBWBWBWBWBW](/stripes/bwbwbwbwbrbwbwbwbwbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11599
 

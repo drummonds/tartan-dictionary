@@ -2,9 +2,10 @@
 title: "13, Centennial Warp"
 date: 2023-03-18
 ---
-In pattern [BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG](/stripes/bgkbkbkbkbkbkbkbkgkrbrbrbrbrbrbrbrkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g52k4lt6b28lt1b1lt1b1lt1b1lt1b1lt1b1lt1b1lt8k24g12k4b20k1b1k1b1k1b1k1b1k1b1k1b1k8g8b16/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKBKBKBKBKBKBKGKRBRBRBRBRBRBRBRKG](/stripes/bgkbkbkbkbkbkbkbkgkrbrbrbrbrbrbrbrkg/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

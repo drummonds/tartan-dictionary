@@ -2,9 +2,10 @@
 title: "Fraser Gathering, Red (1997)"
 date: 2023-03-18
 ---
-In pattern [RBRGRBGRW](/stripes/rbrgrbgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db12r2g11r4db5g2r24w2/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBGRW](/stripes/rbrgrbgrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1256
 
@@ -14,14 +15,15 @@ This cloth is also recorded under:
 
 - Fraser Gathering, Red
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1997 — Fraser Gathering, Red (1997) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1256))
-- 1997 — Fraser Gathering, Red (Commem) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2361/))
-- undated — Fraser Gathering, Red (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Fraser Gathering Trade Tartan Tartan Number: 2361. Earliest known date: 1997 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2361))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Fraser Gathering, Red (1997) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1256">record</a>)</li>
+<li>1997 — Fraser Gathering, Red (Commem) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2361/">record</a>)</li>
+<li>undated — Fraser Gathering, Red (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Fraser Gathering Trade Tartan Tartan Number: 2361. Earliest known date: 1997 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2361">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

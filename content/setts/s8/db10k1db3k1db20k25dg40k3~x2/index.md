@@ -2,9 +2,10 @@
 title: "Black Watch RHR"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGK](/stripes/bkbkbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k1db3k1db20k25g40k3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGK](/stripes/bkbkbkgk/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

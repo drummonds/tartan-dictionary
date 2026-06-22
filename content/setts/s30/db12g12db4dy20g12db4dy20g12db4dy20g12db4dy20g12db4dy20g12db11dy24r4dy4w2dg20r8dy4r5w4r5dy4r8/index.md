@@ -2,9 +2,10 @@
 title: "Unidentified Victorian fancy"
 date: 2023-03-18
 ---
-In pattern [BGBGGBGGBGGBGGBGGBGRGWGRGRWRGR](/stripes/bgbggbggbggbggbggbgrgwgrgrwrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12g12b4t20g12b4t20g12b4t20g12b4t20g12b4t20g12b11t24r4t4ln2dg20ra8t4ra5ln4ra5t4ra8/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGBGGBGGBGGBGGBGRGWGRGRWRGR](/stripes/bgbggbggbggbggbggbgrgwgrgrwrgr/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4391
 

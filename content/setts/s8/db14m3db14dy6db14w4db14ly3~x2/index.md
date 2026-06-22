@@ -2,9 +2,10 @@
 title: "Columba of Iona (School)"
 date: 2023-03-18
 ---
-In pattern [BRBGBWBY](/stripes/brbgbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14p3db14t6db14ln4db14y3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBWBY](/stripes/brbgbwby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8117/
 

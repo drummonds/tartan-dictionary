@@ -2,9 +2,10 @@
 title: "Clyde"
 date: 2023-03-18
 ---
-In pattern [GRGRGBRWBW](/stripes/grgrgbrwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na4n2na18r2n5nb16r2nb2r2nb2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBRWBW](/stripes/grgrgbrwbw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Birral/Burrell"
 date: 2023-03-18
 ---
-In pattern [BBWGWRRBRRWBRWBBW](/stripes/bbwgwrrbrrwbrwbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dp8ln2g32ln2r8do4dp2do4r8ln2dp16r65ln2dp8b4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBWGWRRBRRWBRWBBW](/stripes/bbwgwrrbrrwbrwbbw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=264
 

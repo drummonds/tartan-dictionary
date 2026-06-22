@@ -2,9 +2,10 @@
 title: "Robertson dress Hunting"
 date: 2023-03-18
 ---
-In pattern [WGRWBRBRGRBWRGW](/stripes/wgrwbrbrgrbwrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3g2r8w14b3r3g20r3b20r3b3w14r8g2w3/)
+(the same proportion at any scale), whose colour order is pattern [WGRWBRBRGRBWRGW](/stripes/wgrwbrbrgrbwrgw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3531
 

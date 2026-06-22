@@ -2,9 +2,10 @@
 title: "Bannockbane Hunting"
 date: 2023-03-18
 ---
-In pattern [GGGGWGGG](/stripes/ggggwggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2t2dg15t1w1dg15t2dg2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGWGGG](/stripes/ggggwggg/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=200
 

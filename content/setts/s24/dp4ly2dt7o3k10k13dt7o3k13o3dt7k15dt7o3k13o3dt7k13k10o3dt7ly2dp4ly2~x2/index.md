@@ -2,9 +2,10 @@
 title: "Apache North Sea Commemorative Tartan Tartan Number: 6447. Earliest known date: 2004 50th Anniversary tartan of Apache North Sea Ltd, Aberdeen See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBRKKBRKRBKBRKRBKKRBYBY](/stripes/bybrkkbrkrbkbrkrbkkrbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4y2db7n3k10k13db7n3k13n3db7k15db7n3k13n3db7k13k10n3db7y2p4y2/)
+(the same proportion at any scale), whose colour order is pattern [BYBRKKBRKRBKBRKRBKKRBYBY](/stripes/bybrkkbrkrbkbrkrbkkrbyby/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6447
 

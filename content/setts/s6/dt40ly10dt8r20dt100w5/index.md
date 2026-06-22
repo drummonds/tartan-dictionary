@@ -2,18 +2,20 @@
 title: "East of Scotland Tartan Army"
 date: 2023-03-18
 ---
-In pattern [BYBRBW](/stripes/bybrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn40y10dn8r20dn100w5/)
+(the same proportion at any scale), whose colour order is pattern [BYBRBW](/stripes/bybrbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/2005 — East of Scotland Tartan Army (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069))
-- August 2005 — East of Scotland Tartan Army (Corp.) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6719/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/2005 — East of Scotland Tartan Army (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1069">record</a>)</li>
+<li>August 2005 — East of Scotland Tartan Army (Corp.) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6719/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Berwick Friendship (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKRYGBGBYKR](/stripes/bkrygbgbykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24k6r6y12g6b6g6b12y1k1r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRYGBGBYKR](/stripes/bkrygbgbykr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6184/
 

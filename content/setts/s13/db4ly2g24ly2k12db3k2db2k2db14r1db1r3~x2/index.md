@@ -2,9 +2,10 @@
 title: "Baron of Greencastle Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYGYKBKBKBRBR](/stripes/bygykbkbkbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4y2g24y2k12db3k2db2k2db14dr1db1dr3/)
+(the same proportion at any scale), whose colour order is pattern [BYGYKBKBKBRBR](/stripes/bygykbkbkbrbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6668/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Baron of Greencastle Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2005 — Baron of Greencastle Htg (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6668/))
-- undated — Baron of Greencastle Hunting (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5329))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Baron of Greencastle Htg (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6668/">record</a>)</li>
+<li>undated — Baron of Greencastle Hunting (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5329">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

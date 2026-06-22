@@ -2,9 +2,10 @@
 title: "Cats Winter (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBGBGKYKYKGR](/stripes/kbgbgkykykgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g2k2dy2k2y2k2g18db2g2db29k3/)
+(the same proportion at any scale), whose colour order is pattern [KBGBGKYKYKGR](/stripes/kbgbgkykykgr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7421/
 

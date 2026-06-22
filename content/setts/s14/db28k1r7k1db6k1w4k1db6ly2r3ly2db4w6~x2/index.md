@@ -2,9 +2,10 @@
 title: "Rabbinical"
 date: 2023-03-18
 ---
-In pattern [BKRKBKWKBYRYBW](/stripes/bkrkbkwkbyrybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28k1r7k1b6k1ln4k1b6y2r3y2b4w6/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKWKBYRYBW](/stripes/bkrkbkwkbyrybw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10100
 

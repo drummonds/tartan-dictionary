@@ -2,18 +2,20 @@
 title: "Bombeiros Voluntarios De Galicia (Co"
 date: 2023-03-18
 ---
-In pattern [RBRRKWW](/stripes/rbrrkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3n2r25na12k25ln2lp2/)
+(the same proportion at any scale), whose colour order is pattern [RBRRKWW](/stripes/rbrrkww/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7847/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb 2008 — Bombeiros Voluntarios De Galicia (Co (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7847/))
-- undated — Bombeiros Voluntarios De Galicia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5799))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb 2008 — Bombeiros Voluntarios De Galicia (Co (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7847/">record</a>)</li>
+<li>undated — Bombeiros Voluntarios De Galicia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5799">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Meath"
 date: 2023-03-18
 ---
-In pattern [RBRBGBRBRBGW](/stripes/rbrbgbrbrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt5b2r14dr9g8ba3r3ba3r3ba3g19ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBRBGBRBRBGW](/stripes/rbrbgbrbrbgw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

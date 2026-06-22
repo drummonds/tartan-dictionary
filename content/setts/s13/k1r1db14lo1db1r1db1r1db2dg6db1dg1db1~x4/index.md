@@ -2,9 +2,10 @@
 title: "Merchant Company, The"
 date: 2023-03-18
 ---
-In pattern [BGBGBRBRBYBRK](/stripes/bgbgbrbrbybrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1db14o1db1dr1db1dr1db2g6db1g1db1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBRBRBYBRK](/stripes/bgbgbrbrbybrk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11128
 

@@ -2,18 +2,20 @@
 title: "Murray of Elibank"
 date: 2023-03-18
 ---
-In pattern [BKGKBKYKBKGKB](/stripes/bkgkbkykbkgkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b56k6g24k6b8k21y6k21b8k6g24k6b56/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKYKBKGKB](/stripes/bkgkbkykbkgkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Murray of Elibank (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Murray of Elibank Clan Tartan Tartan Number: 340. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=340))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Murray of Elibank (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Murray of Elibank Clan Tartan Tartan Number: 340. Earliest known date: 1930-50 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=340">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/56 K6 G24 K6 B8 K21 Y6 K21 B8 K6 G24 K6 B/56

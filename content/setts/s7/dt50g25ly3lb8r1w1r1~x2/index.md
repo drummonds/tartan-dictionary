@@ -2,9 +2,10 @@
 title: "Wells (2014)"
 date: 2023-03-18
 ---
-In pattern [BGYWRWR](/stripes/bgywrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db50g25y3n8r1w1r1/)
+(the same proportion at any scale), whose colour order is pattern [BGYWRWR](/stripes/bgywrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11106/
 

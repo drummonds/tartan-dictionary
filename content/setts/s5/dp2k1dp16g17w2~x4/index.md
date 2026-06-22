@@ -2,18 +2,20 @@
 title: "Kansai Highland Games"
 date: 2023-03-18
 ---
-In pattern [BKBGW](/stripes/bkbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2g17pa16k1pa2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGW](/stripes/bkbgw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/1999 — Kansai Highland Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928))
-- 1999 — Kansai Highland Games (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3988/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1999 — Kansai Highland Games (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1928">record</a>)</li>
+<li>1999 — Kansai Highland Games (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3988/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Royal Scottish Pipe Band Association"
 date: 2023-03-18
 ---
-In pattern [KKRGRKRGRBKW](/stripes/kkrgrkrgrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n6k1b20r2g3r2k15r2g3r2k6yy3/)
+(the same proportion at any scale), whose colour order is pattern [KKRGRKRGRBKW](/stripes/kkrgrkrgrbkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3611
 

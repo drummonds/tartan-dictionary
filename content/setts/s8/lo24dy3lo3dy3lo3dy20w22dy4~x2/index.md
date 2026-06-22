@@ -2,9 +2,10 @@
 title: "Baillie Dress"
 date: 2023-03-18
 ---
-In pattern [GWGYGYGY](/stripes/gwgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt24ta3lt3ta3lt3ta20ln22ta4/)
+(the same proportion at any scale), whose colour order is pattern [GWGYGYGY](/stripes/gwgygygy/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=164
 

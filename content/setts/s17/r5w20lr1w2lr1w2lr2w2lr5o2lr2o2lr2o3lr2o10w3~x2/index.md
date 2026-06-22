@@ -2,9 +2,10 @@
 title: "Nike Golf Light"
 date: 2023-03-18
 ---
-In pattern [RWYWYWYWYRYRYRYRW](/stripes/rwywywywyryryryrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5w20n1w2n1w2n2w2n5na2n2na2n2na3n2na10w3/)
+(the same proportion at any scale), whose colour order is pattern [RWYWYWYWYRYRYRYRW](/stripes/rwywywywyryryryrw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10568
 

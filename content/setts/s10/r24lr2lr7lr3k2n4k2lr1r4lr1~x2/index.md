@@ -2,9 +2,10 @@
 title: "VeMMA"
 date: 2023-03-18
 ---
-In pattern [RYYYKBKYRY](/stripes/ryyykbkyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24n2lr7n3k2na4k2n1r4n1/)
+(the same proportion at any scale), whose colour order is pattern [RYYYKBKYRY](/stripes/ryyykbkyry/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10730
 

@@ -2,9 +2,10 @@
 title: "Macallan"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12r2g4r5g16dy2k16r2b16r5b4r2b12/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKYGRGRG](/stripes/brbrbrkygrgrg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2271
 

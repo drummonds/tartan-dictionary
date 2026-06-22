@@ -2,9 +2,10 @@
 title: "Cunningham, hunting"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRKRGKYKWKG](/stripes/bkgkgkbrkrgkykwkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10k1ln1k1y1k1g10r3k10r3b10k1g1k1g1k1b10/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRKRGKYKWKG](/stripes/bkgkgkbrkrgkykwkg/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Cunningham, hunting
 - Nicolson, MacNicol
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- undated — Cunningham, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Nicolson, MacNicol (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=322))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cunningham, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Nicolson, MacNicol (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Nicolson Hunting Clan Tartan Tartan Number: 322. Earliest known date: Aberdeen From a kilt in the possession of the Aberdeen kiltmakers, Alex Scott and Company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=322">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/20 K2 LN2 K2 Y2 K2 G20 R6 K20 R6 B20 K2 G2 K2 G2 K2 B/20

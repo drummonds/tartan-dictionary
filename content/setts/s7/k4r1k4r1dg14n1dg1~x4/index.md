@@ -2,18 +2,20 @@
 title: "Pinehurst Resort"
 date: 2023-03-18
 ---
-In pattern [GBGRKRK](/stripes/gbgrkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4dr1db4dr1g14n1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGRKRK](/stripes/gbgrkrk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Pinehurst Resort (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340))
-- 1995? — Pinehurst Resort (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4173/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Pinehurst Resort (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3340">record</a>)</li>
+<li>1995? — Pinehurst Resort (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4173/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "MacDonald, (Flora.. )"
 date: 2023-03-18
 ---
-In pattern [BRBRKYG](/stripes/brbrkyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17y2k14r2b9r2b10/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKYG](/stripes/brbrkyg/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Brittish Lions Corporate Tartan Tartan Number: 6636. Earliest known date: 2005 March Designed for the British Lions rugby team and unveiled in New York in April at the 2005 Tartan Day celebrations. Originally called Lion's Pride this tartan has a shield and other emblems woven into the red squares./Threadcount and colours aren't 100% original. Generated manually./ See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWRWRKBKYRGW](/stripes/rwrwrkbkyrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r70ln2r1ln4r1k2n9k1y2r1lg9ln3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKBKYRGW](/stripes/rwrwrkbkyrgw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6636
 

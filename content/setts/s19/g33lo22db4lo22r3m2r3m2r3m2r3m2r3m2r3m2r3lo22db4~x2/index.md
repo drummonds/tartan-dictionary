@@ -2,9 +2,10 @@
 title: "Commonwealth Games Scotland, Team Scotland 2014"
 date: 2023-03-18
 ---
-In pattern [BYRRRRRRRRRRRRRYBYG](/stripes/byrrrrrrrrrrrrrybyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b33o22db4o22r3lr2r3lr2r3lr2r3lr2r3lr2r3lr2r3o22db4/)
+(the same proportion at any scale), whose colour order is pattern [BYRRRRRRRRRRRRRYBYG](/stripes/byrrrrrrrrrrrrrybyg/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10971
 

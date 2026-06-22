@@ -2,9 +2,10 @@
 title: "Land's End, Blue (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGRGBGBG](/stripes/bgrgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2g9dr2g9db2g2db26g2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBGBG](/stripes/bgrgbgbg/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2579/
 

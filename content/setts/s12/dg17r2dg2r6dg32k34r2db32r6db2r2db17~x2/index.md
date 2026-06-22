@@ -2,9 +2,10 @@
 title: "MacDonald #4"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17r2g2r6g32k34r2b32r6b2r2b17/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRG](/stripes/brbrbrkgrgrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2337
 

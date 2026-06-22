@@ -2,9 +2,10 @@
 title: "McMeeken (Name)"
 date: 2023-03-18
 ---
-In pattern [RGYGKBKBKW](/stripes/rgygkbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr7g20y2g4k5b4k2b20k3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGYGKBKBKW](/stripes/rgygkbkbkw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10089/
 

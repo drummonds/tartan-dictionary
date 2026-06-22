@@ -2,9 +2,10 @@
 title: "Orange Fanaticos (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWKWKYB](/stripes/bwkwkyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12o75k22ln12k22ln16b8/)
+(the same proportion at any scale), whose colour order is pattern [BWKWKYB](/stripes/bwkwkyb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10105/
 

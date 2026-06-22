@@ -2,18 +2,20 @@
 title: "General Choi"
 date: 2023-03-18
 ---
-In pattern [BYBYBKYKYKY](/stripes/bybybkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k2y2k2y2k28b32y2b3y2b3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBKYKYKY](/stripes/bybybkykyky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/07/2003 — General Choi (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330))
-- July 2003 — General Choi (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5898/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/07/2003 — General Choi (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1330">record</a>)</li>
+<li>July 2003 — General Choi (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5898/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

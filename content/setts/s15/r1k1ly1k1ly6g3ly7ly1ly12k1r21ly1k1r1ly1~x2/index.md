@@ -2,9 +2,10 @@
 title: "Purdy, R Scott (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKYKYGYYYKRYKRY](/stripes/rkykygyyykrykry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k1y1k1yb6g3ya7y1yb12k1r21y1k1r1yb1/)
+(the same proportion at any scale), whose colour order is pattern [RKYKYGYYYKRYKRY](/stripes/rkykygyyykrykry/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10934/
 

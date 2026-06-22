@@ -2,18 +2,20 @@
 title: "MacNeill, Royce (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKYRWGK](/stripes/kbkyrwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40n21ln3r1y2k12na12k10/)
+(the same proportion at any scale), whose colour order is pattern [KBKYRWGK](/stripes/kbkyrwgk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7497/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Feb 2008 — MacNeill, Royce (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7497/))
-- undated — MacNeill, Royce (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5538))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Feb 2008 — MacNeill, Royce (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7497/">record</a>)</li>
+<li>undated — MacNeill, Royce (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5538">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

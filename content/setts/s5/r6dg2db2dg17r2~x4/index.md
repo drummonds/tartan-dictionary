@@ -2,18 +2,20 @@
 title: "Loton (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGBGR](/stripes/rgbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6g2db2g17dr2/)
+(the same proportion at any scale), whose colour order is pattern [RGBGR](/stripes/rgbgr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Loton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226))
-- pre 2002 — Loton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5498/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Loton (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2226">record</a>)</li>
+<li>pre 2002 — Loton (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5498/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

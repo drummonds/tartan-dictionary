@@ -2,9 +2,10 @@
 title: "MacDonald of Sleat"
 date: 2023-03-18
 ---
-In pattern [GRGRK](/stripes/grgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg16dr5dg2dr18k2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRK](/stripes/grgrk/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

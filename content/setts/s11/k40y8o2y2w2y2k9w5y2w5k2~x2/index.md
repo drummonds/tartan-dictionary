@@ -2,9 +2,10 @@
 title: "Grey Spencer Plaid"
 date: 2023-03-18
 ---
-In pattern [KGRGWGKWGWK](/stripes/kgrgwgkwgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k40n8lt2n2ln2n2k9ln5n2ln5k2/)
+(the same proportion at any scale), whose colour order is pattern [KGRGWGKWGWK](/stripes/kgrgwgkwgwk/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

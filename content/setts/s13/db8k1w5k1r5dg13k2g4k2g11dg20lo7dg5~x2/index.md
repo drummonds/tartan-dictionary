@@ -2,18 +2,20 @@
 title: "Wild Geese"
 date: 2023-03-18
 ---
-In pattern [BKWKRGKGKGGYG](/stripes/bkwkrgkgkggyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1ln5k1r5dg13k2g4k2g11dg20dy7dg5/)
+(the same proportion at any scale), whose colour order is pattern [BKWKRGKGKGGYG](/stripes/bkwkrgkgkggyg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2005 — Wild Geese (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324))
-- pre 2007 — Wild Geese (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7400/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2005 — Wild Geese (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5324">record</a>)</li>
+<li>pre 2007 — Wild Geese (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7400/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

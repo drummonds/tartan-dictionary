@@ -2,9 +2,10 @@
 title: "State Seal of New Jersey (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRGRGKY](/stripes/bkrkbkrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1r4k1b38k17n12t5n5t25k1dy4/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRGRGKY](/stripes/bkrkbkrgrgky/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8644/
 

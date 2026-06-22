@@ -2,9 +2,10 @@
 title: "Lobban (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBKGRGY](/stripes/brbrbkgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5g2r2g12k9b12r2b2r2b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBKGRGY](/stripes/brbrbkgrgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5441/
 

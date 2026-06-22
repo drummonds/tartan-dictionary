@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Castle Grey"
 date: 2023-03-18
 ---
-In pattern [BGBGKBKRBRBY](/stripes/bgbgkbkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8na8n4na28k12ka6k12dr4ka8dr4ka29nb6/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKBKRBRBY](/stripes/bgbgkbkrbrby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10825
 

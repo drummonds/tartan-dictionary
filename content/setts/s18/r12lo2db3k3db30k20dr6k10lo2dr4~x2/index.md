@@ -2,9 +2,10 @@
 title: "KPMG"
 date: 2023-03-18
 ---
-In pattern [RYBKBKBKYBYKBKBKBY](/stripes/rybkbkbkybykbkbkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12lt2db3k3db30k20dr6k10lt2dr4/)
+(the same proportion at any scale), whose colour order is pattern [RYBKBKBKYBYKBKBKBY](/stripes/rybkbkbkybykbkbkby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - KPGM
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/10/1996 — KPMG (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015))
-- undated — KPGM Corporate Tartan Tartan Number: 2287. Earliest known date: 1996 Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm. KPMG International Cooperative ("KPMG International") is a Swiss entity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2287))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/10/1996 — KPMG (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2015">record</a>)</li>
+<li>undated — KPGM Corporate Tartan Tartan Number: 2287. Earliest known date: 1996 Designed by Polly Wittering of House of Edgar for KPMG the international accountancy firm. KPMG International Cooperative ("KPMG International") is a Swiss entity. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2287">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

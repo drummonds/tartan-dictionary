@@ -2,9 +2,10 @@
 title: "Beechgrove Garden, The"
 date: 2023-03-18
 ---
-In pattern [WGBGBGGGGGBGGGW](/stripes/wgbgbgggggbgggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2g4ga16g2p2g25ga8g2ga2g25p2g2p6g2w2/)
+(the same proportion at any scale), whose colour order is pattern [WGBGBGGGGGBGGGW](/stripes/wgbgbgggggbgggw/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10887/
 

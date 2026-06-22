@@ -2,9 +2,10 @@
 title: "Scotland Forever Antique (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKBKBKRYRWR](/stripes/rkbkbkryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na6k3n19k6n4k3nc12nb4nc12w2na5/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKRYRWR](/stripes/rkbkbkryrwr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8276/
 

@@ -2,9 +2,10 @@
 title: "Stewart - Pr Ch Ed - Pendleton"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr32db2k8dy1k2n2k2g18dr10k2dr2n2/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3929
 

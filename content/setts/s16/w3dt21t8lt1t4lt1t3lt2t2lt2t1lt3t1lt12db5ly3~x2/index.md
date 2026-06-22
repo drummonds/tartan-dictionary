@@ -2,9 +2,10 @@
 title: "Ryder Cup, The"
 date: 2023-03-18
 ---
-In pattern [WBBWBWBWBWBWBWBY](/stripes/wbbwbwbwbwbwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dba5lb12b1lb3b1lb2b2lb2b3lb1b4lb1b8db21w3/)
+(the same proportion at any scale), whose colour order is pattern [WBBWBWBWBWBWBWBY](/stripes/wbbwbwbwbwbwbwby/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10855
 

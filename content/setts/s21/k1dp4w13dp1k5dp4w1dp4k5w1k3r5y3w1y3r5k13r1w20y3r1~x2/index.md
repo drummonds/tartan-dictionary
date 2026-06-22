@@ -2,9 +2,10 @@
 title: "Aberdeen (Johnston and Smith)"
 date: 2023-03-18
 ---
-In pattern [KBWBKBWBKWKRGWGRKRWGR](/stripes/kbwbkbwbkwkrgwgrkrwgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1dp4ln13dp1k5p4ln1p4k5ln1k3r5n3ln1n3r5k13r1ln20n3r1/)
+(the same proportion at any scale), whose colour order is pattern [KBWBKBWBKWKRGWGRKRWGR](/stripes/kbwbkbwbkwkrgwgrkrwgr/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=14
 

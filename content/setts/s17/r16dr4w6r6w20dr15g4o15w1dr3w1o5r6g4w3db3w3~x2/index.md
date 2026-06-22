@@ -2,9 +2,10 @@
 title: "Jacobite, dress"
 date: 2023-03-18
 ---
-In pattern [RBWRWBGRWBWRRGWBW](/stripes/rbwrwbgrwbwrrgwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16dr4ln6r6ln20dr15g4lt15ln1dr3ln1lt5r6g4ln3b3ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBWRWBGRWBWRRGWBW](/stripes/rbwrwbgrwbwrrgwbw/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

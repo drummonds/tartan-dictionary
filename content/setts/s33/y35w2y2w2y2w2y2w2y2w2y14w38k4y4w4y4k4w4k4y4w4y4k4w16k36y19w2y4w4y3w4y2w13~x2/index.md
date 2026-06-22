@@ -2,9 +2,10 @@
 title: "Miss Peffer's, Plaid"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW](/stripes/gwgwgwgwgwgwkgwgkwkgwgkwkgwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n35ln2n2ln2n2ln2n2ln2n2ln2n14ln38k4n4ln4n4k4ln4k4n4ln4n4k4ln16k36n19ln2n4ln4n3ln4n2ln13/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGWGWKGWGKWKGWGKWKGWGWGWGW](/stripes/gwgwgwgwgwgwkgwgkwkgwgkwkgwgwgwgw/).
 
-This was sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from weddslist.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

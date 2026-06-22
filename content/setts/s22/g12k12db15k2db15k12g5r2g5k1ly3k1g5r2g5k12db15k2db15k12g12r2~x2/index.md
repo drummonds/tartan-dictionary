@@ -2,9 +2,10 @@
 title: "Paterson Clan/Family Weavers Tartan Tartan Number: 3886. Earliest known date: pre 2002 Dalgliesh variation. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKBKBKGRGKYKGRGKBKBKGR](/stripes/gkbkbkgrgkykgrgkbkbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12k12db15k2db15k12g5r2g5k1y3k1g5r2g5k12db15k2db15k12g12r2/)
+(the same proportion at any scale), whose colour order is pattern [GKBKBKGRGKYKGRGKBKBKGR](/stripes/gkbkbkgrgkykgrgkbkbkgr/).
 
-This was sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3886
 

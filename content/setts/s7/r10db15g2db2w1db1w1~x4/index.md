@@ -2,9 +2,10 @@
 title: "Ikelman #4 (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBGBWBW](/stripes/rbgbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr10db15g2db2ln1db1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBGBWBW](/stripes/rbgbwbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2224/
 

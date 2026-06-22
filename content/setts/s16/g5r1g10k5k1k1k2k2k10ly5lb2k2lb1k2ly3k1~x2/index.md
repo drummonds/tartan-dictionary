@@ -2,9 +2,10 @@
 title: "Glendinning (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGKKKKKKYWKWKYK](/stripes/grgkkkkkkywkwkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5r1g10ka5k1ka1k2ka2k10y5lb2ka2lb1ka2y3k1/)
+(the same proportion at any scale), whose colour order is pattern [GRGKKKKKKYWKWKYK](/stripes/grgkkkkkkywkwkyk/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7913/
 

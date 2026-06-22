@@ -2,18 +2,20 @@
 title: "Dram! (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BBBBBB](/stripes/bbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5b1db15b25db1b5/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBB](/stripes/bbbbbb/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7532/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- February 2008 — Dram! (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7532/))
-- undated — Dram! (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5568))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>February 2008 — Dram! (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7532/">record</a>)</li>
+<li>undated — Dram! (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5568">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

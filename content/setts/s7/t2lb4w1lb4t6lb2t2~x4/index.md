@@ -2,9 +2,10 @@
 title: "Langdons (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBWWWB](/stripes/bwbwwwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2lb4ln1lb4b6lb2b2/)
+(the same proportion at any scale), whose colour order is pattern [BWBWWWB](/stripes/bwbwwwb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10103/
 

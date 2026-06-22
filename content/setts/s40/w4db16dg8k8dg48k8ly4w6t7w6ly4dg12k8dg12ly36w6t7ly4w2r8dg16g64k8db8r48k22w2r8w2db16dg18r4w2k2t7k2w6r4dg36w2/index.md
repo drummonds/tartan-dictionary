@@ -2,18 +2,20 @@
 title: "Valencia"
 date: 2023-03-18
 ---
-In pattern [WBGKGKYWBWYGKGYWBYWRGGKBRKWRWBGRWKBKWRGW](/stripes/wbgkgkywbwygkgywbywrggkbrkwrwbgrwkbkwrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db16dg8k8dg48k8y4w6b7w6y4dg12k8dg12y36w6b7y4w2r8dg16g64k8db8r48k22w2r8w2db16dg18r4w2k2b7k2w6r4dg36w2/)
+(the same proportion at any scale), whose colour order is pattern [WBGKGKYWBWYGKGYWBYWRGGKBRKWRWBGRWKBKWRGW](/stripes/wbgkgkywbwygkgywbywrggkbrkwrwbgrwkbkwrgw/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Valencia (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982))
-- Unknown — Valencia (Commemorative) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3890/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Valencia (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4982">record</a>)</li>
+<li>Unknown — Valencia (Commemorative) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3890/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

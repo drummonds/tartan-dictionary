@@ -2,9 +2,10 @@
 title: "Unidentified 20th Centuary"
 date: 2023-03-18
 ---
-In pattern [RKGKGKY](/stripes/rkgkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k1g15k7t15k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [RKGKGKY](/stripes/rkgkgky/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4276
 

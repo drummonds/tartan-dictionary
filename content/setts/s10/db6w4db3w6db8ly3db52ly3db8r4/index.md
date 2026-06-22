@@ -2,9 +2,10 @@
 title: "Dundee F.C."
 date: 2023-03-18
 ---
-In pattern [BWBWBYBYBR](/stripes/bwbwbybybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6ln4db3ln6db8y3db52y3db8r4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBYBYBR](/stripes/bwbwbybybr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

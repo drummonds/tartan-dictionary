@@ -2,9 +2,10 @@
 title: "Rose VS"
 date: 2023-03-18
 ---
-In pattern [GRBBBBBBY](/stripes/grbbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg4dr32n9dra6n2dra3n2dra12na3/)
+(the same proportion at any scale), whose colour order is pattern [GRBBBBBBY](/stripes/grbbbbbby/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

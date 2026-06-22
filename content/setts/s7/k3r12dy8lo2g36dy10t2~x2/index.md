@@ -2,9 +2,10 @@
 title: "Snelgrove Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [BGGYGRK](/stripes/bggygrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3r12t8dy2g36t10b2/)
+(the same proportion at any scale), whose colour order is pattern [BGGYGRK](/stripes/bggygrk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7804/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Snelgrove Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2003 — Snelgrove Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7804/))
-- undated — Snelgrove Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5766))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2003 — Snelgrove Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7804/">record</a>)</li>
+<li>undated — Snelgrove Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5766">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

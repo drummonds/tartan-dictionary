@@ -2,9 +2,10 @@
 title: "State Seal of New Mexico (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WGYRGWRW](/stripes/wgyrgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr5n49lr3dg24dr5dy4t30lr4/)
+(the same proportion at any scale), whose colour order is pattern [WGYRGWRW](/stripes/wgyrgwrw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8645/
 

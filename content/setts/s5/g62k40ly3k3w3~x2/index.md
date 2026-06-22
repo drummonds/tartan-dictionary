@@ -2,18 +2,20 @@
 title: "O'Donoghue"
 date: 2023-03-18
 ---
-In pattern [GKYKW](/stripes/gkykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g62k40y3k3w3/)
+(the same proportion at any scale), whose colour order is pattern [GKYKW](/stripes/gkykw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — O'Donoghue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219))
-- 2003 — O'Donoghue (Fashion?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6399/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — O'Donoghue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3219">record</a>)</li>
+<li>2003 — O'Donoghue (Fashion?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6399/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

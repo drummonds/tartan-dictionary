@@ -2,9 +2,10 @@
 title: "Cooper/Couper"
 date: 2023-03-18
 ---
-In pattern [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2lr3b2g32b3g1b3k14lr3b2lr3g12b1k1b30lr4b2lr2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKBGRBRKBGBGBRR](/stripes/rbrbkbgrbrkbgbgbrr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=753
 

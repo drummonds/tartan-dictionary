@@ -3,9 +3,10 @@ title: "Ogilvie"
 date: 2023-03-18
 slug_full: "g6k4g14ly4k2r8w2r8w2r8k2ly2g8w2g8ly2k2r8w2r8w2r8w1r8k2ly2g14k4g14k4g14ly2k2r8w1r8w1r8k12w1db4w1k12ly4g6ly2g6ly4ly2g6ly4g2r4k2r14db2w2r14w2db2w2r14k2r4dp2ly2g8w2g8ly2k2r8w2r8k2ly4g8ly4k2r2k2r2k2r2k2ly2g6ly2dp4ly2k2w1r4~x2"
 ---
-In pattern [GKGYKRWRWRKYGWGYKRWRWRWRKYGKGKGYKRWRWRKWBWKYGYGYYGYGRKRBWRWBWRKRBYGWGYKRWRKYGYKRKRKRKYGYBYKWR](/stripes/gkgykrwrwrkygwgykrwrwrwrkygkgkgykrwrwrkwbwkygygyygygrkrbwrwbwrkrbygwgykrwrkygykrkrkrkygybykwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k4g14y4k2r8ln2r8ln2r8k2y2g8ln2g8y2k2r8ln2r8ln2r8ln1r8k2y2g14k4g14k4g14y2k2r8ln1r8ln1r8k12ln1db4ln1k12y4g6y2g6y4y2g6y4g2r4k2r14db2ln2r14ln2db2ln2r14k2r4p2y2g8ln2g8y2k2r8ln2r8k2y4g8y4k2r2k2r2k2r2k2y2g6y2p4y2k2ln1r4/)
+(the same proportion at any scale), whose colour order is pattern [GKGYKRWRWRKYGWGYKRWRWRWRKYGKGKGYKRWRWRKWBWKYGYGYYGYGRKRBWRWBWRKRBYGWGYKRWRKYGYKRKRKRKYGYBYKWR](/stripes/gkgykrwrwrkygwgykrwrwrwrkygkgkgykrwrwrkwbwkygygyygygrkrbwrwbwrkrbygwgykrwrkygykrkrkrkygybykwr/).
 
-This was sourced from logan-1831.  It is a [93 stripe tartan](/stripes/stripes93/).
+Sourced from logan-1831.  It is a [93 stripe tartan](/stripes/stripes93/).
 
 Original link /posts/logans-scottish-gael/
 

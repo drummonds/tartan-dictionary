@@ -2,9 +2,10 @@
 title: "Clanedin/Commonwealth"
 date: 2023-03-18
 ---
-In pattern [RKWKWKWBWGWGWGYW](/stripes/rkwkwkwbwgwgwgyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3k8n2k3n2k2n6db3n6t2n2t3n2t4dy10n3/)
+(the same proportion at any scale), whose colour order is pattern [RKWKWKWBWGWGWGYW](/stripes/rkwkwkwbwgwgwgyw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=660
 

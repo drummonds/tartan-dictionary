@@ -2,9 +2,10 @@
 title: "Casely Family Tartan Tartan Number: 2146. Earliest known date: 1992 The chiefly sett of a family tartan designed by Harry Lindley for the Scottish Tartans Society, to whom Mr Gordon Casely petitioned for the design in 1990. Formal accreditation was granted in 1993. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGKGBYBGK](/stripes/grgkgbybgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19g3db19o5db19g3k19g19do7g19/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGBYBGK](/stripes/grgkgbybgk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2146
 

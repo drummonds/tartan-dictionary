@@ -2,9 +2,10 @@
 title: "East Lothian (Fashion) Fashion Tartan Tartan Number: 2561. Earliest known date: 1999 David McGill's company has designed quite a wide range of fashion tartans and in many cases, has given them names suggesting that they are tartans for cities, counties, states and even countries. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBKGYGKBBB](/stripes/bbbbkgygkbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db17p4db2k11g33y4g33k11db2p4db17b6/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKGYGKBBB](/stripes/bbbbkgygkbbb/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2561
 

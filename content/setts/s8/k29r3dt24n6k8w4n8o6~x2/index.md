@@ -2,9 +2,10 @@
 title: "Yates (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRBBKWBR](/stripes/krbbkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k29r3db24n6k8ln4n8na6/)
+(the same proportion at any scale), whose colour order is pattern [KRBBKWBR](/stripes/krbbkwbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7091/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Yates Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- December 2006 — Yates (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7091/))
-- undated — Yates Personal Tartan Tartan Number: 7091. Earliest known date: 2006 Tartan designed by Bill Yates, Shirley Banks, Gertrude Ryan and Nancy Armour to honor their father, Thomas Yates; born in Glasgow, 1884. May be worn by anyone with the name Yates or any derivation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7091))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>December 2006 — Yates (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7091/">record</a>)</li>
+<li>undated — Yates Personal Tartan Tartan Number: 7091. Earliest known date: 2006 Tartan designed by Bill Yates, Shirley Banks, Gertrude Ryan and Nancy Armour to honor their father, Thomas Yates; born in Glasgow, 1884. May be worn by anyone with the name Yates or any derivation. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7091">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/58 R6 DB48 N12 K16 LN8 N16 Na/12

@@ -2,9 +2,10 @@
 title: "Skye (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKRKWKRBKW](/stripes/bkrkwkrbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n50k12na2k2w2k2na12n7k7w2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKWKRBKW](/stripes/bkrkwkrbkw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5332/
 

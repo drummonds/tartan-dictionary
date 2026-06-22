@@ -2,9 +2,10 @@
 title: "Stuart/Stewart (Variant)"
 date: 2023-03-18
 ---
-In pattern [GBKYKWKRGKGW](/stripes/gbkykwkrgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32b2k7y1k1ln1k2r7g5k1g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [GBKYKWKRGKGW](/stripes/gbkykwkrgkgw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4030
 

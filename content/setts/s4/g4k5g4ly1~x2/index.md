@@ -2,9 +2,10 @@
 title: "Wilson's No.053 #2"
 date: 2023-03-18
 ---
-In pattern [GKGY](/stripes/gkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k5g4y1/)
+(the same proportion at any scale), whose colour order is pattern [GKGY](/stripes/gkgy/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4658
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Wilson's No.053 #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Wilson's No.053 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4658))
-- 01/01/1819 — Wilson's No.118 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4684))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Wilson's No.053 #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4658">record</a>)</li>
+<li>01/01/1819 — Wilson's No.118 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4684">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

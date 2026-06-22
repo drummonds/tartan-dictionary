@@ -2,9 +2,10 @@
 title: "McGirr, David (Letterkenny)"
 date: 2023-03-18
 ---
-In pattern [BRWGRGWRBGRG](/stripes/brwgrgwrbgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg13r1dg13b6r1w6dg13r1dg13w6r1b6/)
+(the same proportion at any scale), whose colour order is pattern [BRWGRGWRBGRG](/stripes/brwgrgwrbgrg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10271
 

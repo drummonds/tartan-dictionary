@@ -2,9 +2,10 @@
 title: "Americana - 1978 #2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BRBKRWR](/stripes/brbkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2r2db28k11r27ln2r2/)
+(the same proportion at any scale), whose colour order is pattern [BRBKRWR](/stripes/brbkrwr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7893/
 

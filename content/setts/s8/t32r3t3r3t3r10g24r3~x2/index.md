@@ -2,18 +2,20 @@
 title: "Gammell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGR](/stripes/brbrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32r3b3r3b3r10g24dr3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGR](/stripes/brbrbrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1965 — Gammell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311))
-- 1965 — Gammell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/597/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1965 — Gammell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1311">record</a>)</li>
+<li>1965 — Gammell (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/597/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

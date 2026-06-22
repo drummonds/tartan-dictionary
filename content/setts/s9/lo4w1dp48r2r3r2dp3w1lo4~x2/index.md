@@ -2,9 +2,10 @@
 title: "Wedding Day (Fashion)"
 date: 2023-03-18
 ---
-In pattern [YWBRRRBWY](/stripes/ywbrrrbwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4w1p48r2lr3r2p3w1dy4/)
+(the same proportion at any scale), whose colour order is pattern [YWBRRRBWY](/stripes/ywbrrrbwy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10528/
 

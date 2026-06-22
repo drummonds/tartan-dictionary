@@ -2,9 +2,10 @@
 title: "Pentecostal Assemblies of Canada"
 date: 2023-03-18
 ---
-In pattern [WKWKWKWKGKGKWKRKWGWKRKGWKWGWKWW](/stripes/wkwkwkwkgkgkwkrkwgwkrkgwkwgwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w23k2w2k2w2k2w10k12g12k2g12k10w3k1r2k10lb8g4lb8k10r2k1g5lb23k22w2g2w2k2lb2w2/)
+(the same proportion at any scale), whose colour order is pattern [WKWKWKWKGKGKWKRKWGWKRKGWKWGWKWW](/stripes/wkwkwkwkgkgkwkrkwgwkrkgwkwgwkww/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6010
 

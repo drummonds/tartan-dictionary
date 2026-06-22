@@ -2,9 +2,10 @@
 title: "Stewart Dress Purple Dance Tartan Tartan Number: 6551. Earliest known date: pre 1992 A D C Dalgliesh Dance variation of Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBWGBBBWBBBGWBYBW](/stripes/bybwgbbbwbbbgwbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln55dp12dy2dp3ln2ga10p9dp2p6ln2/)
+(the same proportion at any scale), whose colour order is pattern [BYBWGBBBWBBBGWBYBW](/stripes/bybwgbbbwbbbgwbybw/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6551
 

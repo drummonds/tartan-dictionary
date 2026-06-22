@@ -2,18 +2,20 @@
 title: "Smithsonian (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2ln2n24k24y1r2n2r2y1db24n2/)
+(the same proportion at any scale), whose colour order is pattern [BWGKYRGRYBG](/stripes/bwgkyrgrybg/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5813/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- April 2003 — Smithsonian (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5813/))
-- undated — Smithsonian (Corporate) American Corporate Tartan Tartan Number: 5813. Earliest known date: April 2003 Designed by Alistair Buchan of Lochcarron to support Scotland's and Lochcarron's participation in the Smithsonian Institute's For Life Festival in Washington DC, USA June 25th - July 6th 2003. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5813))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>April 2003 — Smithsonian (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5813/">record</a>)</li>
+<li>undated — Smithsonian (Corporate) American Corporate Tartan Tartan Number: 5813. Earliest known date: April 2003 Designed by Alistair Buchan of Lochcarron to support Scotland's and Lochcarron's participation in the Smithsonian Institute's For Life Festival in Washington DC, USA June 25th - July 6th 2003. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5813">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 LN4 N48 K48 Y2 R4 N4 R4 Y2 DB48 N/4

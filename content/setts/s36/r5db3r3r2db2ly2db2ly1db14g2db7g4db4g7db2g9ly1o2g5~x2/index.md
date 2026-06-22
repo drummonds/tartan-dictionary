@@ -2,9 +2,10 @@
 title: "Hart of Scotland"
 date: 2023-03-18
 ---
-In pattern [BRRBYBYBGBGBGBGYRGRYGBGBGBGBYBYBRRBR](/stripes/brrbybybgbgbgbgyrgrygbgbgbgbybybrrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5dba3dr3rb2dba2ya2dba2ya1dba14g2dba7g4dba4g7dba2g9ya1n2g5/)
+(the same proportion at any scale), whose colour order is pattern [BRRBYBYBGBGBGBGYRGRYGBGBGBGBYBYBRRBR](/stripes/brrbybybgbgbgbgyrgrygbgbgbgbybybrrbr/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1619
 

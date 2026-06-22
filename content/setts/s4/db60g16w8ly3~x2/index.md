@@ -2,9 +2,10 @@
 title: "Hsu (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGWY](/stripes/bgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db60g16w8y3/)
+(the same proportion at any scale), whose colour order is pattern [BGWY](/stripes/bgwy/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10496/
 

@@ -2,9 +2,10 @@
 title: "O'Connell, William Benedict (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGKBGKGKGW](/stripes/kgkbgkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db19dg7db7b2dg20k9dg6k4dg10ln3/)
+(the same proportion at any scale), whose colour order is pattern [KGKBGKGKGW](/stripes/kgkbgkgkgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3215
 

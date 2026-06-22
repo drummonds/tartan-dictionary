@@ -2,9 +2,10 @@
 title: "Cameron of Erracht"
 date: 2023-03-18
 ---
-In pattern [GRGRGKRBRBY](/stripes/grgrgkrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg8dr1dg1dr3dg16k16dr1db16dr3db8lg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKRBRBY](/stripes/grgrgkrbrby/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 

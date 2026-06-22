@@ -2,18 +2,20 @@
 title: "Oakwood"
 date: 2023-03-18
 ---
-In pattern [GYGYGRGR](/stripes/gygygrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g13dy2g2dy2g4r10ga2r2/)
+(the same proportion at any scale), whose colour order is pattern [GYGYGRGR](/stripes/gygygrgr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Oakwood (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210))
-- pre 2002 — Oakwood (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5532/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Oakwood (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3210">record</a>)</li>
+<li>pre 2002 — Oakwood (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5532/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

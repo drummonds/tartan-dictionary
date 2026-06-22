@@ -2,9 +2,10 @@
 title: "Anderson, Red (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RGRGRRRKYKYKWKRRKRRR](/stripes/rgrgrrrkykykwkrrkrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4lg5r2lg7ra3r4ra3k4dy2k2dy2k4ln4k4r18ra1k2ra1r4ra3/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRRRKYKYKWKRRKRRR](/stripes/rgrgrrrkykykwkrrkrrr/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3448/
 

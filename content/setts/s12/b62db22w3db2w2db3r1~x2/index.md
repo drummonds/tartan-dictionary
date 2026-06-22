@@ -2,9 +2,10 @@
 title: "Tyneside Blue Corporate Tartan Tartan Number: 2351. Earliest known date: July 1996 Designed for Pipe Band uniforms. Based on the Earl of St Andrews tartan with an additional red in the over check linking with the McGregor tartan which the band had worn since its foundation in 1958. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBWBWBRBWBWB](/stripes/bbwbwbrbwbwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b62db22ln3db2ln2db3r1/)
+(the same proportion at any scale), whose colour order is pattern [BBWBWBRBWBWB](/stripes/bbwbwbrbwbwb/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2351
 

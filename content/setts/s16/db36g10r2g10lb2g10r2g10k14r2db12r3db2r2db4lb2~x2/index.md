@@ -2,9 +2,10 @@
 title: "Rankin (1998) (Name)"
 date: 2023-03-18
 ---
-In pattern [BGRGWGRGKRBRBRBW](/stripes/bgrgwgrgkrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db36g10dr2g10n2g10dr2g10k14dr2db12dr3db2dr2db4n2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGWGRGKRBRBRBW](/stripes/bgrgwgrgkrbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/188/
 

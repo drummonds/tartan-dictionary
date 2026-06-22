@@ -2,9 +2,10 @@
 title: "Isle of Arran (Lochcarron) (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BGBGBKRKRKRKRKRKRKRKRKRKR](/stripes/bgbgbkrkrkrkrkrkrkrkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp40g2dp2g2dp2ka7ra1ka2ra2ka2ra2ka1ra3k2ra3ka1ra2ka2ra2ka2ra1ka7r10ka2r4/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBKRKRKRKRKRKRKRKRKRKR](/stripes/bgbgbkrkrkrkrkrkrkrkrkrkr/).
 
-This was sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from tartans-authority.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4088/
 

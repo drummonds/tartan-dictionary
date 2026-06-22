@@ -2,9 +2,10 @@
 title: "Historic Caledonian Railway Enthusiasts', The"
 date: 2023-03-18
 ---
-In pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k1o6k1b28lr1k2lr1b16lr1dr5/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBWKWBWR](/stripes/bkykbwkwbwr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10590
 

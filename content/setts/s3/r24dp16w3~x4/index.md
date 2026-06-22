@@ -2,9 +2,10 @@
 title: "National Autistic Society Scotland"
 date: 2023-03-18
 ---
-In pattern [RBW](/stripes/rbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24dr16ln3/)
+(the same proportion at any scale), whose colour order is pattern [RBW](/stripes/rbw/).
 
-This was sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - National Autistic Society Scotland
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 28/08/2012 — National Autistic Society Scotland (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685))
-- pre 2012 — National Autistic Society Scotland (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10685/))
-- undated — National Autistic Society Scotla Corporate Tartan Tartan Number: 10685. Earliest known date: 30 August 2012 A simple and bold design using the highly identifiable colours of the National Autistic Society. This tartan is intended for use by the Scottish members of the Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10685))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/08/2012 — National Autistic Society Scotland (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10685">record</a>)</li>
+<li>pre 2012 — National Autistic Society Scotland (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10685/">record</a>)</li>
+<li>undated — National Autistic Society Scotla Corporate Tartan Tartan Number: 10685. Earliest known date: 30 August 2012 A simple and bold design using the highly identifiable colours of the National Autistic Society. This tartan is intended for use by the Scottish members of the Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10685">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

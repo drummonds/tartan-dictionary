@@ -2,9 +2,10 @@
 title: "Cultoquhey Hotel Corporate Tartan Tartan Number: 3393. Earliest known date: circa1990 Designed by Peter MacDonald as a Cook tartan for the former owners (David & Anna) of the Cultoquhey Hotel near Crieff. When they left, if became the house tartan of the hotel See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKGY](/stripes/rbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3db22k11dg32y3/)
+(the same proportion at any scale), whose colour order is pattern [RBKGY](/stripes/rbkgy/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3393
 

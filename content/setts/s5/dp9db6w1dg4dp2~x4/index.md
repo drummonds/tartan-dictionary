@@ -2,9 +2,10 @@
 title: "Cathro"
 date: 2023-03-18
 ---
-In pattern [BBWGB](/stripes/bbwgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p9b6ln1dg4p2/)
+(the same proportion at any scale), whose colour order is pattern [BBWGB](/stripes/bbwgb/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5875
 

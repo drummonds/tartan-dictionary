@@ -2,18 +2,20 @@
 title: "Normandy Bay Myth"
 date: 2023-03-18
 ---
-In pattern [RYWKWKWKWWYWKWKWKYRWKW](/stripes/rywkwkwkwwywkwkwkyrwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2k1w1r1y1k3w18k2w2k1w1y2lb8w4k48w3k2w2k1w1y1r1/)
+(the same proportion at any scale), whose colour order is pattern [RYWKWKWKWWYWKWKWKYRWKW](/stripes/rywkwkwkwwywkwkwkyrwkw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10747
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 11/11/2012 — Normandy Bay Myth (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10747))
-- undated — Normandy Bay Myth Fashion Tartan Tartan Number: 10747. Earliest known date: 11/11/2012 The majority of the legends surrounding King Arthur are based in Great Britain, but some stories extend through the sea of Cornwall (today's English Channel) to Normandy bay of Mont St Michel. Hoël, king of Brittany and faithful ally of King Arthur the Bear, learns that Hélène (Lancelot du Lac's real mother) is held hostage by a giant in Mont St Michel. The night before his arrival at Mont St Michel, King Arthur has a dream in which a dragon kills a bear, which he interprets as God showing him how he will be defeated by the forces of evil. Arthur arrives too late to save Hélène but he kills the giant and avenges her. According to the legends, Arthur is injured during the battle of Camlann and, with Morgana, travels to Avalon to die. Tombélaine, in the bay of Mont St Michel is described as a gate to Avalon. There is also a connection between Arthur’s dream and a Christian myth linked to Mont St Michel: in the Apocalypse of St Jean, the Archangel of Fire, St Michael, will defeat and kill the Devil who will appear as a dragon in Mont St Michel. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10747))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>11/11/2012 — Normandy Bay Myth (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10747">record</a>)</li>
+<li>undated — Normandy Bay Myth Fashion Tartan Tartan Number: 10747. Earliest known date: 11/11/2012 The majority of the legends surrounding King Arthur are based in Great Britain, but some stories extend through the sea of Cornwall (today's English Channel) to Normandy bay of Mont St Michel. Hoël, king of Brittany and faithful ally of King Arthur the Bear, learns that Hélène (Lancelot du Lac's real mother) is held hostage by a giant in Mont St Michel. The night before his arrival at Mont St Michel, King Arthur has a dream in which a dragon kills a bear, which he interprets as God showing him how he will be defeated by the forces of evil. Arthur arrives too late to save Hélène but he kills the giant and avenges her. According to the legends, Arthur is injured during the battle of Camlann and, with Morgana, travels to Avalon to die. Tombélaine, in the bay of Mont St Michel is described as a gate to Avalon. There is also a connection between Arthur’s dream and a Christian myth linked to Mont St Michel: in the Apocalypse of St Jean, the Archangel of Fire, St Michael, will defeat and kill the Devil who will appear as a dragon in Mont St Michel. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10747">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

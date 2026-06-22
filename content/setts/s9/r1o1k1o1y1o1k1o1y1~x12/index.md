@@ -2,9 +2,10 @@
 title: "Seaforth (Estate Check)"
 date: 2023-03-18
 ---
-In pattern [GRKRGRKRR](/stripes/grkrgrkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1lt1k1lt1t1lt1k1lt1t1/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRKRR](/stripes/grkrgrkrr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5344/
 

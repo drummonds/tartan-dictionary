@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Granite (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RBRBBBBRBRBW](/stripes/rbrbbbbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/nb8dn8nb4dn28k12n6k12dr4n8dr4n29na6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBBBBRBRBW](/stripes/rbrbbbbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10825/
 

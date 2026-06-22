@@ -2,9 +2,10 @@
 title: "Dutton, Stuart (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBYBYKYKBKB](/stripes/bbybykykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k4db10k10y2k10n4db8n12db2p1/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYKYKBKB](/stripes/bbybykykbkb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8507/
 

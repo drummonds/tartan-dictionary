@@ -2,9 +2,10 @@
 title: "Mortell (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBWRBBBBWR](/stripes/bbwrbbbbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba20b2ln5r2ba10b5ba20b2ln5r5/)
+(the same proportion at any scale), whose colour order is pattern [BBWRBBBBWR](/stripes/bbwrbbbbwr/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10192/
 

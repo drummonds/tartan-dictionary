@@ -2,9 +2,10 @@
 title: "Benyon of Wales (Name)"
 date: 2023-03-18
 ---
-In pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22k1g3db6k1db6g3db4g7db11y1db11g7y2k4/)
+(the same proportion at any scale), whose colour order is pattern [BKGBKBGBGBYBGYK](/stripes/bkgbkbgbgbybgyk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5735/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Benyon of Wales
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Unknown — Benyon of Wales (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5735/))
-- undated — Benyon Welsh Name Tartan Tartan Number: 5735. Earliest known date: Unknown Designed for surnames Enyon and Benyon at The Wales Tartan Centre in Cardiff, by Sheila Daniel of Cambrian Woollen Mill, Powys. They are unusual in that almost all of them incorporate odd numbered threads and have quite different warp and weft, both in thread numbers and sometimes colours. There is no known tradition of tartan in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5735))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Unknown — Benyon of Wales (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5735/">record</a>)</li>
+<li>undated — Benyon Welsh Name Tartan Tartan Number: 5735. Earliest known date: Unknown Designed for surnames Enyon and Benyon at The Wales Tartan Centre in Cardiff, by Sheila Daniel of Cambrian Woollen Mill, Powys. They are unusual in that almost all of them incorporate odd numbered threads and have quite different warp and weft, both in thread numbers and sometimes colours. There is no known tradition of tartan in Wales. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5735">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/44 K2 G6 DB12 K2 DB12 G6 DB8 G14 DB22 Y2 DB22 G14 Y4 K/8

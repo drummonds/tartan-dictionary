@@ -2,9 +2,10 @@
 title: "Metro Detroit Police & Fire P &"
 date: 2023-03-18
 ---
-In pattern [RBRKBKBKBRWBR](/stripes/rbrkbkbkbrwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r9db3r9k18db9k2db9k2db9r6w1db1r4/)
+(the same proportion at any scale), whose colour order is pattern [RBRKBKBKBRWBR](/stripes/rbrkbkbkbrwbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Metro Detroit Police & Fire P &
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2003 — Metro Detroit Police & Fire P & (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942))
-- 2003 — Metro Detroit Police & Fire (P&D) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6030/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2003 — Metro Detroit Police & Fire P & (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2942">record</a>)</li>
+<li>2003 — Metro Detroit Police & Fire (P&D) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6030/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

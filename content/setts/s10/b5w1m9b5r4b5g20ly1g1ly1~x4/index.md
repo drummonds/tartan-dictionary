@@ -2,9 +2,10 @@
 title: "Hobkirk (School)"
 date: 2023-03-18
 ---
-In pattern [BWRBRBGYGY](/stripes/bwrbrbgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5w1p9b5r4b5g20y1g1y1/)
+(the same proportion at any scale), whose colour order is pattern [BWRBRBGYGY](/stripes/bwrbrbgygy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6201/
 

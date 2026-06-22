@@ -2,9 +2,10 @@
 title: "Wren"
 date: 2023-03-18
 ---
-In pattern [BWKRYGRBKBRYRBKBRGYRKW](/stripes/bwkrygrbkbryrbkbrgyrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6wa2k2ra6y2g12ra6ba3k3ba3ra28y4/)
+(the same proportion at any scale), whose colour order is pattern [BWKRYGRBKBRYRBKBRGYRKW](/stripes/bwkrygrbkbryrbkbrgyrkw/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5300
 

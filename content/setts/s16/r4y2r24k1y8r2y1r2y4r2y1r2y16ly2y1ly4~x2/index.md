@@ -2,9 +2,10 @@
 title: "Brian Boru 2014"
 date: 2023-03-18
 ---
-In pattern [RGRKGRGRGRGRGYGY](/stripes/rgrkgrgrgrgrgygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4n2r24k1n8r2n1r2n4r2n1r2n16y2n1y4/)
+(the same proportion at any scale), whose colour order is pattern [RGRKGRGRGRGRGYGY](/stripes/rgrkgrgrgrgrgygy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10607
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Brian Boru 2014
 - Brian Boru 2014 Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 25/04/2012 — Brian Boru 2014 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10607))
-- undated — Brian Boru 2014 Commemorative Tartan Tartan Number: 10607. Earliest known date: 25/04/2012 Designed to commemorate the Battle of Clontarf, 1014 at which Brian Boru, an Irish king, was killed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10607))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25/04/2012 — Brian Boru 2014 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10607">record</a>)</li>
+<li>undated — Brian Boru 2014 Commemorative Tartan Tartan Number: 10607. Earliest known date: 25/04/2012 Designed to commemorate the Battle of Clontarf, 1014 at which Brian Boru, an Irish king, was killed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10607">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

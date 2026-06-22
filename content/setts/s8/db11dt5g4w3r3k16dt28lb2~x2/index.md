@@ -2,9 +2,10 @@
 title: "Scottish Italian"
 date: 2023-03-18
 ---
-In pattern [BBGWRKBW](/stripes/bbgwrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11db5g4w3r3k16db28lb2/)
+(the same proportion at any scale), whose colour order is pattern [BBGWRKBW](/stripes/bbgwrkbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11248
 

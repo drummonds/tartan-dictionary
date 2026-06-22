@@ -2,9 +2,10 @@
 title: "Stewart Dress"
 date: 2023-03-18
 ---
-In pattern [YBKYKYKGRKRY](/stripes/ybkykykgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n36db4k6lg1k1n1k1dg8dr4k1dr2n1/)
+(the same proportion at any scale), whose colour order is pattern [YBKYKYKGRKRY](/stripes/ybkykykgrkry/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

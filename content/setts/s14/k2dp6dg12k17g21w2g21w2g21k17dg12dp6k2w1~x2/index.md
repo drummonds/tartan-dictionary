@@ -2,9 +2,10 @@
 title: "Hibernian Football Club (2004)"
 date: 2023-03-18
 ---
-In pattern [KBGKGWGWGKGBKW](/stripes/kbgkgwgwgkgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2p6g12k17ga21ln2ga21ln2ga21k17g12p6k2ln1/)
+(the same proportion at any scale), whose colour order is pattern [KBGKGWGWGKGBKW](/stripes/kbgkgwgwgkgbkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1702
 

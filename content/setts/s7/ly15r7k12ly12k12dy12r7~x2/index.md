@@ -2,9 +2,10 @@
 title: "Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RGKYKRY](/stripes/rgkykry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y15r7k12y12k12t12r7/)
+(the same proportion at any scale), whose colour order is pattern [RGKYKRY](/stripes/rgkykry/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1661
 

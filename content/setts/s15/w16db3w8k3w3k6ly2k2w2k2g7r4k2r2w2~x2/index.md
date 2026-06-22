@@ -2,9 +2,10 @@
 title: "Stewart dress"
 date: 2023-03-18
 ---
-In pattern [WBWKWKYKWKGRKRW](/stripes/wbwkwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16b3ln8k3ln3k6y2k2ln2k2g7r4k2r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWKWKYKWKGRKRW](/stripes/wbwkwkykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Stewart dress
 - Stuart/Stewart Dress #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Dress Artifact Tartan Tartan Number: 1791. Earliest known date: pre 2003 Wool and silk evening dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1791))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Dress Artifact Tartan Tartan Number: 1791. Earliest known date: pre 2003 Wool and silk evening dress. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1791">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 LN/32 B6 LN16 K6 LN6 K12 Y4 K4 LN4 K4 G14 R8 K4 R4 LN/4

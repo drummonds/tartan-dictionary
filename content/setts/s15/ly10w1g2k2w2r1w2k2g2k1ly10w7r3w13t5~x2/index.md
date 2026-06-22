@@ -2,9 +2,10 @@
 title: "Contreceour Dress Corporate Tartan Tartan Number: 2295. Earliest known date: 1992 Small township in southern Quebec. Tartan designed by French Canadian Madeleine Asselin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRWYKGKWRWKGWY](/stripes/bwrwykgkwrwkgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y10ln1g2n2ln2r1ln2n2g2t1y10ln7r3ln13b5/)
+(the same proportion at any scale), whose colour order is pattern [BWRWYKGKWRWKGWY](/stripes/bwrwykgkwrwkgwy/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2295
 

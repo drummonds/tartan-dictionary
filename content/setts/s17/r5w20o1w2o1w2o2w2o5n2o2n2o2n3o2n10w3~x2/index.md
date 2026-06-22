@@ -2,9 +2,10 @@
 title: "Nike Golf Light (Corporate)"
 date: 2023-03-18
 ---
-In pattern [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5w20na1w2na1w2na2w2na5n2na2n2na2n3na2n10w3/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWRWRBRBRBRBW](/stripes/rwrwrwrwrbrbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10568/
 

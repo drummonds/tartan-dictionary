@@ -2,9 +2,10 @@
 title: "Niagara Celtic Heritage Festival"
 date: 2023-03-18
 ---
-In pattern [RWGRKWKWKKWKW](/stripes/rwgrkwkwkkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3w2g8r8b16w2b3w2b16k8w8k2w3/)
+(the same proportion at any scale), whose colour order is pattern [RWGRKWKWKKWKW](/stripes/rwgrkwkwkkwkw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11356
 

@@ -2,18 +2,20 @@
 title: "Limerick, County"
 date: 2023-03-18
 ---
-In pattern [BRGBBBBBBYB](/stripes/brgbbbbbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t6dy4t3db2t5db2t3db2g14dr3db2/)
+(the same proportion at any scale), whose colour order is pattern [BRGBBBBBBYB](/stripes/brgbbbbbbyb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1996 — Limerick, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113))
-- 1996 — Limerick, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2272/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1996 — Limerick, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2113">record</a>)</li>
+<li>1996 — Limerick, County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2272/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

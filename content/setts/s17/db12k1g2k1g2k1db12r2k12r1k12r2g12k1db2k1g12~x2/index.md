@@ -2,20 +2,22 @@
 title: "Stewart of Appin (Clan)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKBRKRKRGKBKG](/stripes/bkgkgkbrkrkrgkbkg/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/160/
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- pre 1893 — Stewart of Appin (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/160/))
-- 01/01/1990 — Stewart/Stuart of Appin (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3948))
-- undated — Stewart Old / Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Old.. Clan Tartan Tartan Number: 319. Earliest known date: 1819 A sample of this sett is included in the Royal Tartans collection at the Scottish Tartans Society under the title `Stewart of Bute', but it often regarded as the `Clan' tartan as distinct from the `Royal'. Captain Stuart Davidson, founder chairman of the Scottish Tartans Society, suggested that "it belongs to the Stewarts of the Western Isles". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=319))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1893 — Stewart of Appin (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/160/">record</a>)</li>
+<li>01/01/1990 — Stewart/Stuart of Appin (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3948">record</a>)</li>
+<li>undated — Stewart Old / Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Old.. Clan Tartan Tartan Number: 319. Earliest known date: 1819 A sample of this sett is included in the Royal Tartans collection at the Scottish Tartans Society under the title `Stewart of Bute', but it often regarded as the `Clan' tartan as distinct from the `Royal'. Captain Stuart Davidson, founder chairman of the Scottish Tartans Society, suggested that "it belongs to the Stewarts of the Western Isles". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=319">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

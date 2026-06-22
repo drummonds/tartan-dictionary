@@ -2,9 +2,10 @@
 title: "Duchess of Edinburgh"
 date: 2023-03-18
 ---
-In pattern [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/stripes/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12b8k8y2k2ln2k2g12r8k2r5ln2r5k2r8g12k2ln2k2y2k8b8g32r4g32k4ba10k8ba4k5y2k4r4k4b12/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYKBKBKGRGBKYKWKGRKRWRKRGKWKYKBR](/stripes/bkrkykbkbkgrgbkykwkgrkrwrkrgkwkykbr/).
 
-This was sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
+Sourced from register-of-tartans.  It is a [35 stripe tartan](/stripes/stripes35/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1001
 

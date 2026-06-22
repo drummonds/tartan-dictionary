@@ -2,9 +2,10 @@
 title: "Ferrari (Name)"
 date: 2023-03-18
 ---
-In pattern [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg6db2o2db1k1db1y4b2y2db17k2b3k8b3k2b17k2b2y2/)
+(the same proportion at any scale), whose colour order is pattern [YBKBKBKBKBYBYBKBYBY](/stripes/ybkbkbkbkbybybkbyby/).
 
-This was sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from tartans-authority.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10790/
 

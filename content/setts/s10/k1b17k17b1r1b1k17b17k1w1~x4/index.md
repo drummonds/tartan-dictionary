@@ -2,9 +2,10 @@
 title: "Sorbie"
 date: 2023-03-18
 ---
-In pattern [KBKBRBKBKW](/stripes/kbkbrbkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1b17k17b1r1b1k17b17k1w1/)
+(the same proportion at any scale), whose colour order is pattern [KBKBRBKBKW](/stripes/kbkbrbkbkw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3838
 

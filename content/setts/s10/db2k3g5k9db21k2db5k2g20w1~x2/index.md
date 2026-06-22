@@ -2,9 +2,10 @@
 title: "Pitceathly Chamberlain (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2k3g5k9b21k2b5k2g20w1/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBKBKGW](/stripes/bkgkbkbkgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Pitceathly Chamberlain
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 25/11/2009 — Pitceathly Chamberlain (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190))
-- 25th Nov. 2009 — Pitceathley Chamberlain (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10190/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25/11/2009 — Pitceathly Chamberlain (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10190">record</a>)</li>
+<li>25th Nov. 2009 — Pitceathley Chamberlain (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10190/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

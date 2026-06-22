@@ -2,9 +2,10 @@
 title: "Brisbane (Artefact)"
 date: 2023-03-18
 ---
-In pattern [GWYRYRYR](/stripes/gwyryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18w3y1r2y1r3y1r10/)
+(the same proportion at any scale), whose colour order is pattern [GWYRYRYR](/stripes/gwyryryr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=355
 

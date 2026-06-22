@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Hunting"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGRGKBKBKBGBKBKBKGYG](/stripes/bgbgbgbgrgkbkbkbgbkbkbkgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g37y3g37k9b4k2b3k2b31g4b31k2b3k2b4k9g37r3g37b9g4b31g4b31g4b9/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGRGKBKBKBGBKBKBKGYG](/stripes/bgbgbgbgrgkbkbkbgbkbkbkgyg/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4004
 

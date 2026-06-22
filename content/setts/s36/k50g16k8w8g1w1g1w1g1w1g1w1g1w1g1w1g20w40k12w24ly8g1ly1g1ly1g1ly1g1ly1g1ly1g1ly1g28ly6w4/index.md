@@ -2,9 +2,10 @@
 title: "Saskatchewan (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [KGKWGWGWGWGWGWGWGWKWYGYGYGYGYGYGYGYW](/stripes/kgkwgwgwgwgwgwgwgwkwygygygygygygygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50g16k8ln8g1ln1g1ln1g1ln1g1ln1g1ln1g1ln1g20ln40k12ln24lg8g1lg1g1lg1g1lg1g1lg1g1lg1g1lg1g28lg6ln4/)
+(the same proportion at any scale), whose colour order is pattern [KGKWGWGWGWGWGWGWGWKWYGYGYGYGYGYGYGYW](/stripes/kgkwgwgwgwgwgwgwgwkwygygygygygygygyw/).
 
-This was sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from tartans-authority.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7711/
 

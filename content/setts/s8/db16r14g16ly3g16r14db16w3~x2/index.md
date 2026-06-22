@@ -2,9 +2,10 @@
 title: "Forrester (James) (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGYGRBW](/stripes/brgygrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16r14g16y3g16r14db16ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRGYGRBW](/stripes/brgygrbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - James William Forrester of S. Carolina
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1987 — Forrester (James) (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232))
-- pre 2002 — Forrester (James) (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2386/))
-- undated — James William Forrester of S. Carolina (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1987 — Forrester (James) (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1232">record</a>)</li>
+<li>pre 2002 — Forrester (James) (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2386/">record</a>)</li>
+<li>undated — James William Forrester of S. Carolina (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

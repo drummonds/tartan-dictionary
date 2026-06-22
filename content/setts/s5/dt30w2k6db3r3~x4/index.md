@@ -2,9 +2,10 @@
 title: "Edinburgh Crystal (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWKBR](/stripes/bwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn30ln2k6db3r3/)
+(the same proportion at any scale), whose colour order is pattern [BWKBR](/stripes/bwkbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2307/
 

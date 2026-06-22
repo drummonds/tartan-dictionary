@@ -2,9 +2,10 @@
 title: "Comrie, Gold (Dance)"
 date: 2023-03-18
 ---
-In pattern [RWYYBWBY](/stripes/rwyybwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y42db2w2db2y5ya12w32r4/)
+(the same proportion at any scale), whose colour order is pattern [RWYYBWBY](/stripes/rwyybwby/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7606/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Comrie, Gold
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- March 2008 — Comrie, Gold (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7606/))
-- undated — Comrie Gold (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630))
-- undated — Comrie Gold Fashion Tartan Tartan Number: 7606. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7606))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>March 2008 — Comrie, Gold (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7606/">record</a>)</li>
+<li>undated — Comrie Gold (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5630">record</a>)</li>
+<li>undated — Comrie Gold Fashion Tartan Tartan Number: 7606. Earliest known date: March 2008 One of a series of dancer's tartans for the House of Edgar's in-house collection designed by Kirsty Anderson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7606">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

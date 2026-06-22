@@ -2,9 +2,10 @@
 title: "Staffa (Silk)"
 date: 2023-03-18
 ---
-In pattern [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r17dg14r4dg4r17dg4r4db12r13ln5r13dg14ln3dg14r4dg4r17dg4r4dg8r4db4r4db4r14/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRGRGRGRGWGRWRBRGRGRGR](/stripes/rbrbrgrgrgrgwgrwrbrgrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3905
 

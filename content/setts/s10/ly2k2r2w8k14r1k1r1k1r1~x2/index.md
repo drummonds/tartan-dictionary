@@ -2,9 +2,10 @@
 title: "Barbecue Plaid (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKWRKY](/stripes/rkrkrkwrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2k2r2w8k14r1k1r1k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKWRKY](/stripes/rkrkrkwrky/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1607/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Barbecue, Plaid
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1964 — Barbecue Plaid (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1607/))
-- undated — Barbecue, Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Barbecue Plaid Tartan Tartan Number: 1607. Earliest known date: pre 1964 From STS member, Alex Lumsden in Toronto, Canada. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1607))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1964 — Barbecue Plaid (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1607/">record</a>)</li>
+<li>undated — Barbecue, Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Barbecue Plaid Tartan Tartan Number: 1607. Earliest known date: pre 1964 From STS member, Alex Lumsden in Toronto, Canada. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1607">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/4 K4 R4 W16 K28 R2 K2 R2 K2 R/2

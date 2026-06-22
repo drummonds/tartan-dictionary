@@ -2,19 +2,21 @@
 title: "Duke of Rothesay (Royal)"
 date: 2023-03-18
 ---
-In pattern [RWBWKWKWKWRKRW](/stripes/rwbwkwkwkwrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln56db9ln8k16ln4k3ln4k3ln36r36k3r12ln3/)
+(the same proportion at any scale), whose colour order is pattern [RWBWKWKWKWRKRW](/stripes/rwbwkwkwkwrkrw/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1678/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1950 — Duke of Rothesay (Royal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1678/))
-- undated — Rothesay, Duke of #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3577))
-- undated — Rothesay, Duke of (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1950 — Duke of Rothesay (Royal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1678/">record</a>)</li>
+<li>undated — Rothesay, Duke of #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3577">record</a>)</li>
+<li>undated — Rothesay, Duke of (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

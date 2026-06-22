@@ -2,9 +2,10 @@
 title: "Strathdon District Tartan Tartan Number: 10117. Earliest known date: 26/11/2009 Strathdon – Nestling towards the western end of Aberdeenshire this valley carries through it the water of the River Don as it cuts its way through the hard grey granite, which is the building block of this rugged countryside. The tartan reflects this rugged terrain through the use of the Blue slate for the mountain scree the deep Maroon for the dark heathers and the Yellow Brown of the sandy shale revealed by the scouring at the river edges. The Azure line is the flash of the metal spears of the Men of Lonach on their annual march through Strathdon See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBRRBBRBRK](/stripes/bbbbbbbrrbbrbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dn13k2dn2k2dn1k27dr4t4k2dn11t8k2t8ab3/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBRRBBRBRK](/stripes/bbbbbbbrrbbrbrk/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10117
 

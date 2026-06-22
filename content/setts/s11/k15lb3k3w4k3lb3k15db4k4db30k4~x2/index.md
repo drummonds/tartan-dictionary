@@ -2,18 +2,20 @@
 title: "Shalom (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k15lp3k3ln4k3lp3k15db4k4db30k4/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKWKWKWK](/stripes/kbkbkwkwkwk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7647/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2008 — Shalom (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7647/))
-- undated — Shalom (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5660))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2008 — Shalom (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7647/">record</a>)</li>
+<li>undated — Shalom (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5660">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

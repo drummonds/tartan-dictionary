@@ -2,9 +2,10 @@
 title: "Gow Hunting (Clan)"
 date: 2023-03-18
 ---
-In pattern [RKGKBBBKGKY](/stripes/rkgkbbbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3k1g12k12db12dba3db12k12g12k1y3/)
+(the same proportion at any scale), whose colour order is pattern [RKGKBBBKGKY](/stripes/rkgkbbbkgky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1588/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gow, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 1960 — Gow Hunting (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1588/))
-- undated — Gow, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1960 — Gow Hunting (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1588/">record</a>)</li>
+<li>undated — Gow, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 K2 G24 K24 DB24 DBa6 DB24 K24 G24 K2 Y/6

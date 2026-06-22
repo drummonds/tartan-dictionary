@@ -2,9 +2,10 @@
 title: "el Corte"
 date: 2023-03-18
 ---
-In pattern [BGBYRYGYGYRBGBY](/stripes/bgbyrygygyrbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6b5g4b5r2ya5g2ya14g10ya1r30ya10b14g5b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBYRYGYGYRBGBY](/stripes/bgbyrygygyrbgby/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10890/
 

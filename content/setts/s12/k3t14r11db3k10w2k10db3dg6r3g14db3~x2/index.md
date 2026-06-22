@@ -2,9 +2,10 @@
 title: "Cascade Summers, (The Resort at the Mountain)"
 date: 2023-03-18
 ---
-In pattern [BGRGBKWKBRBK](/stripes/bgrgbkwkbrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ba14r11b3k10ln2k10b3g6r3ga14b3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGBKWKBRBK](/stripes/bgrgbkwkbrbk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

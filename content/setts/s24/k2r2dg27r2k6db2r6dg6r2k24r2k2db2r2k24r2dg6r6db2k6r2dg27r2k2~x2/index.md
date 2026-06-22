@@ -2,9 +2,10 @@
 title: "Cumming/Buchan Hunting"
 date: 2023-03-18
 ---
-In pattern [KRGRKBRGRKRBKRKRGRBKRGRK](/stripes/krgrkbrgrkrbkrkrgrbkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r2g27r2k6b2r6g6r2k24r2k2b2r2k24r2g6r6b2k6r2g27r2k2/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKBRGRKRBKRKRGRBKRGRK](/stripes/krgrkbrgrkrbkrkrgrbkrgrk/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=839
 

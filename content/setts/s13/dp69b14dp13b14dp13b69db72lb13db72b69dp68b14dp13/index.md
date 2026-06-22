@@ -2,9 +2,10 @@
 title: "Poulter Sandwich"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp69b14dp13b14dp13b69db72lb13db72b69dp68b14dp13/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBWBBBBB](/stripes/bbbbbbbwbbbbb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11243
 

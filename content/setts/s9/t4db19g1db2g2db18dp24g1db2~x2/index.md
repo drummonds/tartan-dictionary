@@ -2,9 +2,10 @@
 title: "Spirit of Alba (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBGBGBBGB](/stripes/bbgbgbbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dba19g1db2g2db18p24g1dba2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBBGB](/stripes/bbgbgbbgb/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3904/
 

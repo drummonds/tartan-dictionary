@@ -2,9 +2,10 @@
 title: "MacDuff, hunting"
 date: 2023-03-18
 ---
-In pattern [RRBKGRRR](/stripes/rrbkgrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt8r1lt8g8k8b8lt8r2/)
+(the same proportion at any scale), whose colour order is pattern [RRBKGRRR](/stripes/rrbkgrrr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

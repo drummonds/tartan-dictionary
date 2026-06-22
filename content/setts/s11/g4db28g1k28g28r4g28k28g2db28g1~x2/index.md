@@ -2,9 +2,10 @@
 title: "Gunn"
 date: 2023-03-18
 ---
-In pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4db28g1k28g28r4g28k28g2db28g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGRGKGBG](/stripes/gbgkgrgkgbg/).
 
-This was sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from logan-1831.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link /posts/logans-scottish-gael/
 

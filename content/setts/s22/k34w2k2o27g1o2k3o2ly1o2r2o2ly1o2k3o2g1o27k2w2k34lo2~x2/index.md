@@ -2,9 +2,10 @@
 title: "West Lothian Woolen Mill"
 date: 2023-03-18
 ---
-In pattern [KWKRGRKRYRRRYRKRGRKWKY](/stripes/kwkrgrkryrrryrkrgrkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k34ln2k2n27g1n2k3n2y1n2r2n2y1n2k3n2g1n27k2ln2k34o2/)
+(the same proportion at any scale), whose colour order is pattern [KWKRGRKRYRRRYRKRGRKWKY](/stripes/kwkrgrkryrrryrkrgrkwky/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4602
 

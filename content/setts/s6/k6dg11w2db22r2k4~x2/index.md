@@ -2,9 +2,10 @@
 title: "Leslie Hebridean Artifact Tartan Tartan Number: 1111. Earliest known date: 1740 From the Telfer Dunbar collection and said to date to C.1740s. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGWBRK](/stripes/kgwbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6t11ln2db22do2k4/)
+(the same proportion at any scale), whose colour order is pattern [KGWBRK](/stripes/kgwbrk/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1111
 

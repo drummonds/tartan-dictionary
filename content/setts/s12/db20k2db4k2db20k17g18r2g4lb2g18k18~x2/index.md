@@ -2,9 +2,10 @@
 title: "Spar (UK) Ltd Corporate Tartan Tartan Number: 2353. Earliest known date: December 1996 Spar is a UK based grocery chain and this tartan was designed for their 1997 conference in Scotland. The tartan was launched at a dinner at Blair Castle in Perthshire on 6th May 1997. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGWGK](/stripes/bkbkbkgrgwgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20k2db4k2db20k17g18dr2g4n2g18k18/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGWGK](/stripes/bkbkbkgrgwgk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2353
 

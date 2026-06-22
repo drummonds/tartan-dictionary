@@ -2,9 +2,10 @@
 title: "Heritage (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGKBKBR](/stripes/ggkbkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5db8k5db24k24n24lg5/)
+(the same proportion at any scale), whose colour order is pattern [GGKBKBR](/stripes/ggkbkbr/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6014/
 

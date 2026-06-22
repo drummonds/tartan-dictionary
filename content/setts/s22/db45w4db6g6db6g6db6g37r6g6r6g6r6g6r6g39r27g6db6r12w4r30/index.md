@@ -2,19 +2,21 @@
 title: "Wilson (Clan)"
 date: 2023-03-18
 ---
-In pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db45w4db6g6db6g6db6g37r6g6r6g6r6g6r6g39r27g6db6r12w4r30/)
+(the same proportion at any scale), whose colour order is pattern [BWBGBGBGRGRGRGRGRGBRWR](/stripes/bwbgbgbgrgrgrgrgrgbrwr/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/626/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 1780 — Wilson (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/626/))
-- undated — Wilson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Wilson Clan Tartan Tartan Number: 626. Earliest known date: 1780 Named after Janet Wilson, wife of the Bannockburn weaver, William Wilson who manufactured tartans from 1765. It is suggested in the extensive archives of the company that the tartan was prepared for the wedding in 1780 between the William Wilson, the son of the founder, and Janet Paterson. The sett was later introduced as the Wilson family tartan. Variations show blue instead of purple in the broad band and blue instead of azure (light blue) in the narrow stripes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=626))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1780 — Wilson (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/626/">record</a>)</li>
+<li>undated — Wilson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Wilson Clan Tartan Tartan Number: 626. Earliest known date: 1780 Named after Janet Wilson, wife of the Bannockburn weaver, William Wilson who manufactured tartans from 1765. It is suggested in the extensive archives of the company that the tartan was prepared for the wedding in 1780 between the William Wilson, the son of the founder, and Janet Paterson. The sett was later introduced as the Wilson family tartan. Variations show blue instead of purple in the broad band and blue instead of azure (light blue) in the narrow stripes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=626">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/45 W4 DB6 G6 DB6 G6 DB6 G37 R6 G6 R6 G6 R6 G6 R6 G39 R27 G6 DB6 R12 W4 R/30

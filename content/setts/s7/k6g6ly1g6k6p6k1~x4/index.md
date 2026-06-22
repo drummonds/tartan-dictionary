@@ -2,9 +2,10 @@
 title: "Abercrombie, (Wilson's No 64)"
 date: 2023-03-18
 ---
-In pattern [KBKGYGK](/stripes/kbkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6g6y1g6k6p6k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKGYGK](/stripes/kbkgygk/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

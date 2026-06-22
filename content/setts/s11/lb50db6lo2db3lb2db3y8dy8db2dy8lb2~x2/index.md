@@ -2,9 +2,10 @@
 title: "Renfrew #2"
 date: 2023-03-18
 ---
-In pattern [WBYBWBGGBGW](/stripes/wbybwbggbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n50db6dy2db3n2db3lt8t8db2t8n2/)
+(the same proportion at any scale), whose colour order is pattern [WBYBWBGGBGW](/stripes/wbybwbggbgw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3499
 

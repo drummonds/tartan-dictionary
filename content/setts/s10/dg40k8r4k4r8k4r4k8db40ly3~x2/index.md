@@ -2,9 +2,10 @@
 title: "Griffiths of Llangynin (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKRKRKRKBY](/stripes/gkrkrkrkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40k8r4k4r8k4r4k8db40y3/)
+(the same proportion at any scale), whose colour order is pattern [GKRKRKRKBY](/stripes/gkrkrkrkby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6067/
 

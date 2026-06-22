@@ -2,9 +2,10 @@
 title: "Ogilvie (Black and White)"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12ln2k12ln2k6ln2k7ln6k2ln6k2ln2k6ln2k6ln2k2ln12k2ln12/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKWKW](/stripes/kwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkwkw/).
 
-This was sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from register-of-tartans.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3225
 

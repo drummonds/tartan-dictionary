@@ -2,18 +2,20 @@
 title: "Boyd"
 date: 2023-03-18
 ---
-In pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1g6k1b1k1b1k6r12g1r1k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Boyd (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Boyd Clan Tartan Tartan Number: 1819. Earliest known date: 1956 This sett is taken from a sample in the Scottish Tartans Society collection. It is a more compact form of the sett designed for Lord Kilmarnock in 1956 and registered with the Lord Lyon. The Lordship of Boyd was created in 1454. The family has a long association with the town of Kilmarnock and the castle of Dean, in the South West of Scotland. Thomas Boyd was created Earl of Arran in 1467. The tartan is based on the Hay and the Stuart of Bute tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1819))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Boyd (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Boyd Clan Tartan Tartan Number: 1819. Earliest known date: 1956 This sett is taken from a sample in the Scottish Tartans Society collection. It is a more compact form of the sett designed for Lord Kilmarnock in 1956 and registered with the Lord Lyon. The Lordship of Boyd was created in 1454. The family has a long association with the town of Kilmarnock and the castle of Dean, in the South West of Scotland. Thomas Boyd was created Earl of Arran in 1467. The tartan is based on the Hay and the Stuart of Bute tartans. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1819">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/4 G24 K4 B4 K4 B4 K24 R48 G4 R4 K4 LN/4

@@ -2,9 +2,10 @@
 title: "Niagra Falls Trade Tartan Tartan Number: 1915. Earliest known date: 1967 Designed to be used in the refurbishing of Johnstons of Elgin new mill shop and based on the colours of the mill shop house style. The lighter square is represented here as green from the 'Antique' colour range, a speciality of Johnstons of Elgin. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGGGBGBYGR](/stripes/bgbgggbgbygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db22g4db4g17t17g17db4g4db22y8t8r8/)
+(the same proportion at any scale), whose colour order is pattern [BGBGGGBGBYGR](/stripes/bgbgggbgbygr/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1915
 

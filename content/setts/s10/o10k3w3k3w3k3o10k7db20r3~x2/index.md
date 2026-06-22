@@ -2,9 +2,10 @@
 title: "Meeting Professionals International"
 date: 2023-03-18
 ---
-In pattern [RBKRKWKWKR](/stripes/rbkrkwkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n10k3ln3k3ln3k3n10k7db20r3/)
+(the same proportion at any scale), whose colour order is pattern [RBKRKWKWKR](/stripes/rbkrkwkwkr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Meeting Professionals Int.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 28/03/2003 — Meeting Professionals International (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908))
-- pre 2003 — Meeting Professionals Int. (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5962/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>28/03/2003 — Meeting Professionals International (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2908">record</a>)</li>
+<li>pre 2003 — Meeting Professionals Int. (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5962/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

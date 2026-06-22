@@ -2,18 +2,20 @@
 title: "Arndt (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBRBKGKGKGKBKW](/stripes/wbrbkgkgkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5k5db25k16g18k4g5k4g18k16db25r5db5ln5/)
+(the same proportion at any scale), whose colour order is pattern [WBRBKGKGKGKBKW](/stripes/wbrbkgkgkgkbkw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=116
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2007 — Arndt (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=116))
-- April 2007 — Arndt (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7271/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2007 — Arndt (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=116">record</a>)</li>
+<li>April 2007 — Arndt (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7271/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Culloden Unidentified Plaid"
 date: 2023-03-18
 ---
-In pattern [BRBRBRYRBRBRBRBRBRBRYRBRYRBRBRBRBRYRBRYRBRB](/stripes/brbrbryrbrbrbrbrbrbryrbryrbrbrbrbryrbryrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5r7b1r1y5r5b5r5y2r1b1r1b1r5b1r1b1r1y2r5b5r5y5r1b1r6b1r1b1r2b1r1b1r6b1r1y5r4b1r1b1r1b5/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRYRBRBRBRBRBRBRYRBRYRBRBRBRBRYRBRYRBRB](/stripes/brbrbryrbrbrbrbrbrbryrbryrbrbrbrbryrbryrbrb/).
 
-This was sourced from register-of-tartans.  It is a [43 stripe tartan](/stripes/stripes43/).
+Sourced from register-of-tartans.  It is a [43 stripe tartan](/stripes/stripes43/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=829
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Culloden, Unidentified Plaid
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Culloden Unidentified Plaid (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=829))
-- undated — Culloden, Unidentified Plaid (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Culloden Unidentified Plaid (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=829">record</a>)</li>
+<li>undated — Culloden, Unidentified Plaid (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

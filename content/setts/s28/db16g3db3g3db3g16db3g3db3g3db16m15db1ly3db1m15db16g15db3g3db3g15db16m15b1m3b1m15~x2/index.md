@@ -2,9 +2,10 @@
 title: "Cairns of Finavon"
 date: 2023-03-18
 ---
-In pattern [BGBGBGBGBGBRBYBRBGBGBGBRBRBR](/stripes/bgbgbgbgbgbrbybrbgbgbgbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16g3db3g3db3g16db3g3db3g3db16r15db1y3db1r15db16g15db3g3db3g15db16r15b1r3b1r15/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGBGBGBRBYBRBGBGBGBRBRBR](/stripes/bgbgbgbgbgbrbybrbgbgbgbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=464
 

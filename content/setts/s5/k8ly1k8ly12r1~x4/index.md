@@ -2,19 +2,21 @@
 title: "MacLeod of Lewis (Vestiarium Scoticum)"
 date: 2023-03-18
 ---
-In pattern [KYKYR](/stripes/kykyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8y1k8y12r1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYR](/stripes/kykyr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1842 — MacLeod of Lewis (Vestiarium Scoticum) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640))
-- 1842 — MacLeod of Lewis (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1272/))
-- undated — MacLeod of Lewis (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — MacLeod of Lewis (Vestiarium Scoticum) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2640">record</a>)</li>
+<li>1842 — MacLeod of Lewis (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1272/">record</a>)</li>
+<li>undated — MacLeod of Lewis (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

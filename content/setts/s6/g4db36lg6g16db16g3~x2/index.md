@@ -2,18 +2,20 @@
 title: "City of Kincardine"
 date: 2023-03-18
 ---
-In pattern [GBGYBG](/stripes/gbgybg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4dba36b6g16dba16g3/)
+(the same proportion at any scale), whose colour order is pattern [GBGYBG](/stripes/gbgybg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1987 — City of Kincardine (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657))
-- 1987 — City of Kincardine (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2590/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1987 — City of Kincardine (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=657">record</a>)</li>
+<li>1987 — City of Kincardine (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2590/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

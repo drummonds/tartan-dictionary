@@ -2,18 +2,20 @@
 title: "Dalzell"
 date: 2023-03-18
 ---
-In pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24n1db2dr4dg32dr4db2n1dr4db6dr4n1db2dr32dg2dra3dg6/)
+(the same proportion at any scale), whose colour order is pattern [GBGRBYRBRYBRGRBYR](/stripes/gbgrbyrbrybrgrbyr/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Dalzell (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Dalzell (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Dalzell (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Dalzell (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/48 N2 DB4 DR8 DG64 DR8 DB4 N2 DR8 DB12 DR8 N2 DB4 DR64 DG4 DRa6 DG/12

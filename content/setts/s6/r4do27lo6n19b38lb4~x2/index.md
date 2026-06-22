@@ -2,9 +2,10 @@
 title: "State Seal of Michigan (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBYBBW](/stripes/rbybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr4b38n19lt6dr27dra4/)
+(the same proportion at any scale), whose colour order is pattern [RBYBBW](/stripes/rbybbw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8636/
 

@@ -2,9 +2,10 @@
 title: "Christie (2016)"
 date: 2023-03-18
 ---
-In pattern [BRKWR](/stripes/brkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b16r1k16w1r1/)
+(the same proportion at any scale), whose colour order is pattern [BRKWR](/stripes/brkwr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11640
 

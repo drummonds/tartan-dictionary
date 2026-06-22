@@ -2,9 +2,10 @@
 title: "Am Yisrael Chai"
 date: 2023-03-18
 ---
-In pattern [BBKBBKBBKBBKBBKBBKWBWKGWGKWRYYYYYYYY](/stripes/bbkbbkbbkbbkbbkbbkwbwkgwgkwryyyyyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1dy2y1dy2y1dy2y1dy2dr9w2k3n2w1n2k3w6b27w27k1b2p1k1b2p1k1b2p1k1b2p1k1b2p1k1b2p1/)
+(the same proportion at any scale), whose colour order is pattern [BBKBBKBBKBBKBBKBBKWBWKGWGKWRYYYYYYYY](/stripes/bbkbbkbbkbbkbbkbbkwbwkgwgkwryyyyyyyy/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10264
 

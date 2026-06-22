@@ -2,9 +2,10 @@
 title: "Corps Suevia Heidelburg (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KYKYWYKYKWYKYWKY](/stripes/kykywykykwykywky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y21k2n2y2k2y2n2k2y2k2y2n6y2k2y3k20/)
+(the same proportion at any scale), whose colour order is pattern [KYKYWYKYKWYKYWKY](/stripes/kykywykykwykywky/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4123/
 

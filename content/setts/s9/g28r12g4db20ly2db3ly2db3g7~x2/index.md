@@ -2,9 +2,10 @@
 title: "Cork"
 date: 2023-03-18
 ---
-In pattern [GBYBYBGRG](/stripes/gbybybgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r12g4b20y2b3y2b3g7/)
+(the same proportion at any scale), whose colour order is pattern [GBYBYBGRG](/stripes/gbybybgrg/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

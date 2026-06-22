@@ -2,9 +2,10 @@
 title: "Golden Broom #2"
 date: 2023-03-18
 ---
-In pattern [GYGRKRKBKGKRKR](/stripes/gygrkrkbkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g12y3g6dr19k1r8k2b4k2g19k1dr19k1r9/)
+(the same proportion at any scale), whose colour order is pattern [GYGRKRKBKGKRKR](/stripes/gygrkrkbkgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5845
 

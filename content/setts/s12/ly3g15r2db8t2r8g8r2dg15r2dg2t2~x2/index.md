@@ -2,9 +2,10 @@
 title: "Gordonstoun"
 date: 2023-03-18
 ---
-In pattern [BGRGRGRBBRGY](/stripes/bgrgrgrbbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3g15dr2b8ba2dr8g8dr2dg15dr2dg2ba2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGRBBRGY](/stripes/bgrgrgrbbrgy/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

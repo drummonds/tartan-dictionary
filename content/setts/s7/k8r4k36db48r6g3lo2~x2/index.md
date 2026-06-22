@@ -2,9 +2,10 @@
 title: "Royal Marines Condor"
 date: 2023-03-18
 ---
-In pattern [KRKBRGY](/stripes/krkbrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8r4k36db48r6g3dy2/)
+(the same proportion at any scale), whose colour order is pattern [KRKBRGY](/stripes/krkbrgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Royal Marines Condor
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1994 — Royal Marines Condor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602))
-- 1994 — Royal Marines Condor (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2330/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1994 — Royal Marines Condor (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3602">record</a>)</li>
+<li>1994 — Royal Marines Condor (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2330/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

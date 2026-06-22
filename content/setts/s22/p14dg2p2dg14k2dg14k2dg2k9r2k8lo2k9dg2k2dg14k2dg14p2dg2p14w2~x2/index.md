@@ -2,9 +2,10 @@
 title: "Dow-Aerlift (Name)"
 date: 2023-03-18
 ---
-In pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p14dg2p2dg14k2dg14k2dg2k9r2k8dy2k9dg2k2dg14k2dg14p2dg2p14w2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGKGKRKYKGKGKGBGBW](/stripes/bgbgkgkgkrkykgkgkgbgbw/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10704/
 

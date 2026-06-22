@@ -2,9 +2,10 @@
 title: "Penman Family Tartan Tartan Number: 167. Earliest known date: pre 1992 The late William Penman supplied members of the Penman family with this tartan for many years. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11db6g6y1db2y1g6db6n11k1r3k1g5db5/)
+(the same proportion at any scale), whose colour order is pattern [BGKRKRBGYBYGBR](/stripes/bgkrkrbgybygbr/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=167
 

@@ -2,9 +2,10 @@
 title: "Langtree"
 date: 2023-03-18
 ---
-In pattern [KBKWKRKBRKRW](/stripes/kbkwkrkbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k86n6k4na3k3dr3k3n22lt14k3lt6na4/)
+(the same proportion at any scale), whose colour order is pattern [KBKWKRKBRKRW](/stripes/kbkwkrkbrkrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2046
 

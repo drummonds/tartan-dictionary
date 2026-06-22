@@ -2,9 +2,10 @@
 title: "Wallenberg, Nicolas Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWRYRYBYBYBYBYRY](/stripes/bwryrybybybybyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n28r1n4p12n2b4y2b4n2p12n4r1n48r3w3b3/)
+(the same proportion at any scale), whose colour order is pattern [BWRYRYBYBYBYBYRY](/stripes/bwryrybybybybyry/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11325
 

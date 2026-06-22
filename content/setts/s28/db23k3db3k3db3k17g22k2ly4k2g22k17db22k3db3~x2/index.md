@@ -2,9 +2,10 @@
 title: "Gordon Clan"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKYKGKBKBKBKGKYKGKBKBK](/stripes/bkbkbkgkykgkbkbkbkgkykgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db23k3db3k3db3k17ga22k2y4k2ga22k17db22k3db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKYKGKBKBKBKGKYKGKBKBK](/stripes/bkbkbkgkykgkbkbkbkgkykgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1453
 

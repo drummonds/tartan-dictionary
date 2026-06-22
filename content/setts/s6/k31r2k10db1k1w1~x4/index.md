@@ -2,18 +2,20 @@
 title: "NewGeneration Alchemy (NGA) Inc"
 date: 2023-03-18
 ---
-In pattern [KRKBKW](/stripes/krkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k31r2k10b1k1w1/)
+(the same proportion at any scale), whose colour order is pattern [KRKBKW](/stripes/krkbkw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 05/06/2013 — NewGeneration Alchemy (NGA) Inc (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058))
-- 2014 — NewGeneration Alchemy (NGA) Inc (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11058/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>05/06/2013 — NewGeneration Alchemy (NGA) Inc (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11058">record</a>)</li>
+<li>2014 — NewGeneration Alchemy (NGA) Inc (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11058/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

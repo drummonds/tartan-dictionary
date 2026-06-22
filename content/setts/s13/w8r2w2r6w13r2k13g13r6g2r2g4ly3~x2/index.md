@@ -2,9 +2,10 @@
 title: "Carnegie Dress #1 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w8r2w2r6w13r2k13g13r6g2r2g4y3/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1869/
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Carnegie Dress #1
 - Carnegie, dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Carnegie Dress #1 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1869/))
-- undated — Carnegie, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Carnegie Dress Family Tartan Tartan Number: 1869. Earliest known date: 1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1869))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Carnegie Dress #1 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1869/">record</a>)</li>
+<li>undated — Carnegie, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Carnegie Dress Family Tartan Tartan Number: 1869. Earliest known date: 1980 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1869">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 W/16 R4 W4 R12 W26 R4 K26 G26 R12 G4 R4 G8 Y/6

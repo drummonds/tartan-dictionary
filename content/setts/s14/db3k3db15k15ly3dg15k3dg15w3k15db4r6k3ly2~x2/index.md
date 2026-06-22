@@ -2,9 +2,10 @@
 title: "Allison Family Tartan Tartan Number: 314. Earliest known date: 1880 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. First recorded in the Clans Originaux in 1880. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKYGKGWKBRKY](/stripes/bkbkygkgwkbrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3k3dba15k15y3dg15k3dg15ln3k15db4r6k3y2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKYGKGWKBRKY](/stripes/bkbkygkgwkbrky/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=314
 

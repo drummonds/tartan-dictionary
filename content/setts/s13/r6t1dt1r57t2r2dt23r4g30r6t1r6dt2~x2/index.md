@@ -2,9 +2,10 @@
 title: "MacGillivray - 1819 (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6b1dn1r57b2r2dn23r4g30r6b1r6dn2/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBRBRBBR](/stripes/brbrgrbrbrbbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/446/
 

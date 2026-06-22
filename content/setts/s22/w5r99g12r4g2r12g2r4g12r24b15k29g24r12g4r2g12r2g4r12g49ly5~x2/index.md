@@ -2,9 +2,10 @@
 title: "Unidentified Plaid 4"
 date: 2023-03-18
 ---
-In pattern [WRGRGRGRGRBKGRGRGRGRGY](/stripes/wrgrgrgrgrbkgrgrgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5g49r12g4r2g12r2g4r12g24k29b15r24g12r4g2r12g2r4g12r99ln5/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGRGRGRBKGRGRGRGRGY](/stripes/wrgrgrgrgrbkgrgrgrgrgy/).
 
-This was sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from weddslist.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Roddy's Highland Spirit (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGGRG](/stripes/gbgbgbggrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30lpa3g3lpa3g3lpa10ga10n20lp2ga5/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGGRG](/stripes/gbgbgbggrg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7959/
 

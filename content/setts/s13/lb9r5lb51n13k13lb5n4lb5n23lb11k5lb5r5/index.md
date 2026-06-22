@@ -2,9 +2,10 @@
 title: "Balmoral Gillies (Royal)"
 date: 2023-03-18
 ---
-In pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n9r5n51na13k13n5na4n5na23n11k5n5r5/)
+(the same proportion at any scale), whose colour order is pattern [RWKWBWBWKBWRW](/stripes/rwkwbwbwkbwrw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=185
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Balmoral, Gillies
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Balmoral Gillies (Royal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=185))
-- undated — Balmoral, Gillies (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Balmoral Gillies (Royal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=185">record</a>)</li>
+<li>undated — Balmoral, Gillies (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

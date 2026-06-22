@@ -2,9 +2,10 @@
 title: "Stuart/Stewart Dress #2"
 date: 2023-03-18
 ---
-In pattern [WBWKWKYKWKGRKRW](/stripes/wbwkwkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln16b3ln8k3ln3k6y2k2ln2k2g7r4k2r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWKWKYKWKGRKRW](/stripes/wbwkwkykwkgrkrw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4000
 

@@ -2,9 +2,10 @@
 title: "Lions Canadian Tartan Tartan Number: 93. Earliest known date: pre 2003 This is the official Canadian General File thread count. The Scottish Tartans Society cloth archive specimen differs slightly in the precise numbers of threads used to weave the sample. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p25b1ln1k1y1p3ln1y5p4k1b2p2ln1b1ln1p2b2p2k2ln5/)
+(the same proportion at any scale), whose colour order is pattern [BBWKYBWYBKBBWBWBBBKW](/stripes/bbwkybwybkbbwbwbbbkw/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=93
 

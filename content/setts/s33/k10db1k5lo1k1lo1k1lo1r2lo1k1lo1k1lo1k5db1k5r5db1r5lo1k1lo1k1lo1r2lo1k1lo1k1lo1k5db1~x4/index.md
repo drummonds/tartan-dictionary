@@ -2,9 +2,10 @@
 title: "Hawick (District)"
 date: 2023-03-18
 ---
-In pattern [BKYKYKYRYKYKYRBRKBKYKYKYRYKYKYKBK](/stripes/bkykykyrykykyrbrkbkykykyrykykykbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/kc10db1kc5dy1k1dy1kb1dy1dr2dy1kb1dy1k1dy1ka5db1ka5dr5db1dr5dy1k1dy1kb1dy1dr2dy1kb1dy1k1dy1kc5db1/)
+(the same proportion at any scale), whose colour order is pattern [BKYKYKYRYKYKYRBRKBKYKYKYRYKYKYKBK](/stripes/bkykykyrykykyrbrkbkykykyrykykykbk/).
 
-This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2220/
 

@@ -2,9 +2,10 @@
 title: "Angus Dress (Convergence 98)"
 date: 2023-03-18
 ---
-In pattern [RBRBRBKRKRKWRWRWR](/stripes/rbrbrbkrkrkwrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2b1r1b1r1b14k14r1k3r1k14wa14r1wa1r1wa1r2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBKRKRKWRWRWR](/stripes/rbrbrbkrkrkwrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5121
 

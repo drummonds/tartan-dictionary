@@ -2,9 +2,10 @@
 title: "Diana Princess of Wales Commemorative Tartan Tartan Number: 2515. Earliest known date: 1997 Sales help Princess Diana Memorial Trust and commemorate the life of Diana Princess of Wales. The design first appeared in September of 1997 and was relaunched by George Russell, chief executive of Scotland the Brand in December 1998. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RWKWBWBWKBWWW](/stripes/rwkwbwbwkbwww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb2ln1lb12b6k3ln1ba1ln1ba4ln2k1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [RWKWBWBWKBWWW](/stripes/rwkwbwbwkbwww/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2515
 

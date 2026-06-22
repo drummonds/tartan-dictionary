@@ -2,9 +2,10 @@
 title: "Austin"
 date: 2023-03-18
 ---
-In pattern [BKBGK](/stripes/bkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k4db4g9k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGK](/stripes/bkbgk/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -18,14 +19,15 @@ This cloth is also recorded under:
 - Keith Austin and Marshall
 - Keith and Austin
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Keith and Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
-- undated — Keith and Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Keith and Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+<li>undated — Keith and Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/4 K4 DB4 G9 K/2

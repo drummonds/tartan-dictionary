@@ -2,9 +2,10 @@
 title: "Presbyterian Synod of Living Waters (USA)"
 date: 2023-03-18
 ---
-In pattern [BRBYGKGWGKGKGW](/stripes/brbygkgwgkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6r2db6y3g6k1g2n2g2k1g6k1g2n2/)
+(the same proportion at any scale), whose colour order is pattern [BRBYGKGWGKGKGW](/stripes/brbygkgwgkgkgw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3366
 

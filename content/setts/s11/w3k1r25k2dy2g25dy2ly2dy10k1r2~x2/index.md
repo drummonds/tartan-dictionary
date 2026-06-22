@@ -2,9 +2,10 @@
 title: "Bicknell, The Hamish (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKGYGGGKRKW](/stripes/rkgygggkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w3k1r25k2t2g25t2y2t10k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKGYGGGKRKW](/stripes/rkgygggkrkw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Bicknell, The Hamish
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 29/04/2010 — Bicknell, The Hamish (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206))
-- 29th Apr. 2010 — Hamish Bicknell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10206/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>29/04/2010 — Bicknell, The Hamish (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10206">record</a>)</li>
+<li>29th Apr. 2010 — Hamish Bicknell (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10206/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Bowie (white lines) (Name)"
 date: 2023-03-18
 ---
-In pattern [BRBRBWGWGRGYG](/stripes/brbrbwgwgrgyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8r2db3r4db13w2t13w2g13r4g4dy2g8/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBWGWGRGYG](/stripes/brbrbwgwgrgyg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/434/
 

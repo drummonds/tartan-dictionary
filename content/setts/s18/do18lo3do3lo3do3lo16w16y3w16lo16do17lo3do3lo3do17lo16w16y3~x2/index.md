@@ -2,9 +2,10 @@
 title: "Lamont Heather (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BYBYBYWGWYBYBYBYWG](/stripes/bybybywgwybybybywg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t18lt3t3lt3t3lt16ln16g3ln16lt16t17lt3t3lt3t17lt16ln16g3/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYWGWYBYBYBYWG](/stripes/bybybywgwybybybywg/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4090/
 

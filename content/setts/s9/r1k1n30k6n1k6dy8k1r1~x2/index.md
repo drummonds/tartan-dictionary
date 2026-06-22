@@ -2,9 +2,10 @@
 title: "Klappert Original (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKBKBKGKR](/stripes/rkbkbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k1n30k6n1k6t8k1r1/)
+(the same proportion at any scale), whose colour order is pattern [RKBKBKGKR](/stripes/rkbkbkgkr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10475/
 

@@ -2,9 +2,10 @@
 title: "Colours of Hope"
 date: 2023-03-18
 ---
-In pattern [BBWYBGBWRYB](/stripes/bbwybgbwryb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b28ln2y2b1g4k8ln3dr4y10k2/)
+(the same proportion at any scale), whose colour order is pattern [BBWYBGBWRYB](/stripes/bbwybgbwryb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11643
 

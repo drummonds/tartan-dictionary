@@ -2,9 +2,10 @@
 title: "Stewart, Prince Charles Edward"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r14b4k6y1k2ln2k2g12r6k2r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart, Prince Charles Edward
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Stewart, Prince Charles Edward (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Stewart Prince Charles Edward Clan Tartan Tartan Number: 1371. Earliest known date: 1810-15 Also known as the Earl of Moray. A piece exists in the Highland Society of London collection (c.1815) in which the Yellow and White are in silk. The Prince' sett is identical with the Royal Stewart but for the much reduced red square. D.C.Stewart says, 'the tartan becomes richer to the point of congestion.' It is reputed to have been worn by the Prince at Holyrood. Worn by Kirkliston, Bowhill and Seafield, Kinross and District, Strathclyde Fire Brigade and Strathkelvin pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1371))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Stewart, Prince Charles Edward (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Stewart Prince Charles Edward Clan Tartan Tartan Number: 1371. Earliest known date: 1810-15 Also known as the Earl of Moray. A piece exists in the Highland Society of London collection (c.1815) in which the Yellow and White are in silk. The Prince' sett is identical with the Royal Stewart but for the much reduced red square. D.C.Stewart says, 'the tartan becomes richer to the point of congestion.' It is reputed to have been worn by the Prince at Holyrood. Worn by Kirkliston, Bowhill and Seafield, Kinross and District, Strathclyde Fire Brigade and Strathkelvin pipe bands. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1371">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/28 B8 K12 Y2 K4 LN4 K4 G24 R12 K4 R4 LN/2

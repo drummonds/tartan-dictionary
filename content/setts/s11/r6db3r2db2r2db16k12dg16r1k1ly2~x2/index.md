@@ -2,9 +2,10 @@
 title: "MacLennan"
 date: 2023-03-18
 ---
-In pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db3r2db2r2db16k12g16r1k1y2/)
+(the same proportion at any scale), whose colour order is pattern [RBRBRBKGRKY](/stripes/rbrbrbkgrky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625
 
@@ -18,14 +19,15 @@ This cloth is also recorded under:
 - MacLennan
 - MacLennan,
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1880 — MacLennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625))
-- pre 1880 — MacLennan (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1429/))
-- undated — Logan and MacLennan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Logan and MacLennan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1880 — MacLennan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2625">record</a>)</li>
+<li>pre 1880 — MacLennan (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1429/">record</a>)</li>
+<li>undated — Logan and MacLennan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Logan and MacLennan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

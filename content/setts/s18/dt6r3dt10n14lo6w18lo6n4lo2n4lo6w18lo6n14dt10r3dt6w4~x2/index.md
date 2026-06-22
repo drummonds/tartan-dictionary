@@ -2,9 +2,10 @@
 title: "Gray, Hamilton John"
 date: 2023-03-18
 ---
-In pattern [BRBBYWYBYBYWYBBRBW](/stripes/brbbywybybywybbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6r3k10b14dy6ly18dy6b4dy2b4dy6ly18dy6b14k10r3k6ly4/)
+(the same proportion at any scale), whose colour order is pattern [BRBBYWYBYBYWYBBRBW](/stripes/brbbywybybywybbrbw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1519
 

@@ -2,18 +2,20 @@
 title: "Dalmeny - 2002 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BWBKGRGKBW](/stripes/bwbkgrgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db11w2db11k4g8r1/)
+(the same proportion at any scale), whose colour order is pattern [BWBKGRGKBW](/stripes/bwbkgrgkbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/629/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Dalmeny - 2002 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/629/))
-- undated — Dalmeny (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Dalmeny - 2002 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/629/">record</a>)</li>
+<li>undated — Dalmeny (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/22 W4 DB22 K8 G16 R2 G16 K8 DB22 W/4

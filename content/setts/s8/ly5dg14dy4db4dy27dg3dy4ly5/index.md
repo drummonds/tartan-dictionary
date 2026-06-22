@@ -2,9 +2,10 @@
 title: "Invertere Corporate Tartan Tartan Number: 1882. Earliest known date: 1988 Overstripes are yellow in warp See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YGGBGGGY](/stripes/yggbgggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y5dg14t4db4t27dg3t4y5/)
+(the same proportion at any scale), whose colour order is pattern [YGGBGGGY](/stripes/yggbgggy/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1882
 

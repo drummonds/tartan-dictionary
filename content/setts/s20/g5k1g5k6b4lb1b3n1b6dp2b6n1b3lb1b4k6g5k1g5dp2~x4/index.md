@@ -2,18 +2,20 @@
 title: "Smithers"
 date: 2023-03-18
 ---
-In pattern [BGKGKBWBBBBBBBWBKGKG](/stripes/bgkgkbwbbbbbbbwbkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g5k1g5k6b4na1b3n1b6p2b6n1b3na1b4k6g5k1g5p2/)
+(the same proportion at any scale), whose colour order is pattern [BGKGKBWBBBBBBBWBKGKG](/stripes/bgkgkbwbbbbbbbwbkgkg/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3824
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Smithers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3824))
-- undated — Smithers Family Tartan Tartan Number: 2227. Earliest known date: pre 2002 Designed by Alfred Arnold Smither. A Canadian family tartan that is open to all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2227))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Smithers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3824">record</a>)</li>
+<li>undated — Smithers Family Tartan Tartan Number: 2227. Earliest known date: pre 2002 Designed by Alfred Arnold Smither. A Canadian family tartan that is open to all of the name. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2227">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

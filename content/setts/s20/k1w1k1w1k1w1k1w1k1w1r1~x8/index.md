@@ -2,9 +2,10 @@
 title: "Kerr Shepherd's Plaid (Clan)"
 date: 2023-03-18
 ---
-In pattern [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1ln1k1ln1k1ln1k1ln1k1ln1r1/)
+(the same proportion at any scale), whose colour order is pattern [RWKWKWKWKWKWKWKWKWKW](/stripes/rwkwkwkwkwkwkwkwkwkw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3936/
 

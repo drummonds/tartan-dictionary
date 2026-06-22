@@ -2,9 +2,10 @@
 title: "Scrymgeour Family Tartan Tartan Number: 1627. Earliest known date: 1971 Yellow ochre. A note in STS files says \"Not Adopted\" with no explanation. The STS research report reads, \"The tartan detailed above was displayed at a gathering of Scrymgeours held at Dudhope Castle, Dundee, in 1971 and was later adopted as the official tartan. The sett was designed by Donald C Stewart, author of 'The Setts of the Scottish Tartans' in 1970.\" See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKYBRKY](/stripes/rkybrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r15k1y2db3r2k1y15/)
+(the same proportion at any scale), whose colour order is pattern [RKYBRKY](/stripes/rkybrky/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1627
 

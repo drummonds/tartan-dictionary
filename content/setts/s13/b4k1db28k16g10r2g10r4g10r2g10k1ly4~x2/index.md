@@ -2,9 +2,10 @@
 title: "California"
 date: 2023-03-18
 ---
-In pattern [BKBKGRGRGRGKY](/stripes/bkbkgrgrgrgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y4k1g10r2g10r4g10r2g10k16ba28k1b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGRGRGRGKY](/stripes/bkbkgrgrgrgky/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

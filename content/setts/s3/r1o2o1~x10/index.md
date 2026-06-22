@@ -2,9 +2,10 @@
 title: "Glenmorangie, Check"
 date: 2023-03-18
 ---
-In pattern [RRR](/stripes/rrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1t2ta1/)
+(the same proportion at any scale), whose colour order is pattern [RRR](/stripes/rrr/).
 
-This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

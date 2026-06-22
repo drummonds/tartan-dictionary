@@ -2,9 +2,10 @@
 title: "O'Connor, Hugh (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGBGBBGBYBGGBBBBBG](/stripes/bbgbgbbgbybggbbbbbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12dp1db2dp1db2dp1dg12g2dp12y1dp12g2db12dp1dg2dp1dg2dp1db12/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBBGBYBGGBBBBBG](/stripes/bbgbgbbgbybggbbbbbg/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11339
 

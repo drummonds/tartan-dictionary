@@ -2,9 +2,10 @@
 title: "Campbell Cawdor"
 date: 2023-03-18
 ---
-In pattern [RKBKGKW](/stripes/rkbkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2k1g8k8db8k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKBKGKW](/stripes/rkbkgkw/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

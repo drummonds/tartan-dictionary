@@ -2,9 +2,10 @@
 title: "MacLeod Soc. of Scotland, (Comm)"
 date: 2023-03-18
 ---
-In pattern [GGRKBYW](/stripes/ggrkbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3g3r22k5db22y2lr2/)
+(the same proportion at any scale), whose colour order is pattern [GGRKBYW](/stripes/ggrkbyw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2375/
 

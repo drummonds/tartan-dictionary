@@ -2,9 +2,10 @@
 title: "Hanby (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYGKGRGW](/stripes/gygkgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g21y10g20k3g10r3g10ln3/)
+(the same proportion at any scale), whose colour order is pattern [GYGKGRGW](/stripes/gygkgrgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7417/
 

@@ -2,18 +2,20 @@
 title: "Sommerville"
 date: 2023-03-18
 ---
-In pattern [WRRRBRGRRRBRGRGRRY](/stripes/wrrrbrgrrrbrgrgrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2r5ra3g54ra5g3ra5b21r5ra3r5g17ra2b4ra48r5ra3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRRRBRGRRRBRGRGRRY](/stripes/wrrrbrgrrrbrgrgrry/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Sommerville (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Sommerville Family Tartan Tartan Number: 1861. Earliest known date: 1930 The specimen in the Society's collection was obtained about 1930 from the firm J Johnston of Edinburgh. It was descibed at the time as a modern family tartan. The cloth archive also contains a sample from the Lochcarron weavers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1861))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Sommerville (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Sommerville Family Tartan Tartan Number: 1861. Earliest known date: 1930 The specimen in the Society's collection was obtained about 1930 from the firm J Johnston of Edinburgh. It was descibed at the time as a modern family tartan. The cloth archive also contains a sample from the Lochcarron weavers. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1861">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/2 R5 Ra3 G54 Ra5 G3 Ra5 B21 R5 Ra3 R5 G17 Ra2 B4 Ra48 R5 Ra3 LN/2

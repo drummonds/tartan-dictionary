@@ -2,9 +2,10 @@
 title: "MacClure Htg (Name)"
 date: 2023-03-18
 ---
-In pattern [KGRGKGBGGGWK](/stripes/kgrgkgbgggwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w1g2t6g2db4g2k2g15dr2g2k1/)
+(the same proportion at any scale), whose colour order is pattern [KGRGKGBGGGWK](/stripes/kgrgkgbgggwk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3331/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacClure Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — MacClure Htg (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3331/))
-- undated — MacClure Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5245))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — MacClure Htg (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3331/">record</a>)</li>
+<li>undated — MacClure Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5245">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

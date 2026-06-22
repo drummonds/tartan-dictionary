@@ -2,9 +2,10 @@
 title: "Munro"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r26g3r3g3r3g3r26db1y1r3db6r3y1db1r3g26r3db1y1r13/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRBYRBRYBRGRBYR](/stripes/rgrgrgrbyrbrybrgrbyr/).
 
-This was sourced from logan-1831.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from logan-1831.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link /posts/logans-scottish-gael/
 

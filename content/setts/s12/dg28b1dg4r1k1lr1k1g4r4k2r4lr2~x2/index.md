@@ -2,18 +2,20 @@
 title: "Carroll O'Reed"
 date: 2023-03-18
 ---
-In pattern [GBGRKYKGRKRY](/stripes/gbgrkykgrkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga28b1ga4dr1k1n1k1g4dr4k2dr4n2/)
+(the same proportion at any scale), whose colour order is pattern [GBGRKYKGRKRY](/stripes/gbgrkykgrkry/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1985 — Carroll O'Reed (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578))
-- 1985 — Carroll O'Reed (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4471/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1985 — Carroll O'Reed (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=578">record</a>)</li>
+<li>1985 — Carroll O'Reed (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4471/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

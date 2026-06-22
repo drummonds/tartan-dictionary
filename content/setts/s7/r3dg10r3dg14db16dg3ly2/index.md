@@ -2,9 +2,10 @@
 title: "Cameron Hunting"
 date: 2023-03-18
 ---
-In pattern [RGRGBGY](/stripes/rgrgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g10r3g14db16g3y2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGBGY](/stripes/rgrgbgy/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -16,12 +17,13 @@ This cloth is also recorded under:
 - Cameron of Lochiel
 - Cameron, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cameron Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Cameron Hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cameron Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Cameron Hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/3 G10 R3 G14 DB16 G3 Y/2

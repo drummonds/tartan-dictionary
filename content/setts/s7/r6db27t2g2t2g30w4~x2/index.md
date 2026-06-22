@@ -2,18 +2,20 @@
 title: "MX-5 Owners' Club"
 date: 2023-03-18
 ---
-In pattern [RBBGBGW](/stripes/rbbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6db27b2g2b2g30w4/)
+(the same proportion at any scale), whose colour order is pattern [RBBGBGW](/stripes/rbbgbgw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2004 — MX-5 Owners' Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070))
-- pre 2004 — MX-5 Owners' Club (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6208/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2004 — MX-5 Owners' Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5070">record</a>)</li>
+<li>pre 2004 — MX-5 Owners' Club (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6208/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

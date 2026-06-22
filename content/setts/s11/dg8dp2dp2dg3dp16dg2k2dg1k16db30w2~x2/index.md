@@ -2,9 +2,10 @@
 title: "Pride of Scotland General Tartan Tartan Number: 2469. Earliest known date: 1997 The Pride of Scotland tartan was designed by Kenneth Dalgleish of D C Dalgleish, Selkirk and promoted by McCalls of Aberdeen who own copyright and patent. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GBBGBGKGKBW](/stripes/gbbgbgkgkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8p2n2g3n16g2k2g1k16db30ln2/)
+(the same proportion at any scale), whose colour order is pattern [GBBGBGKGKBW](/stripes/gbbgbgkgkbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2469
 

@@ -2,9 +2,10 @@
 title: "Shenzhen"
 date: 2023-03-18
 ---
-In pattern [KRYRYRYYYYWYYYYRYRYR](/stripes/kryryryyyywyyyyryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do29oa2do2oa4do2oa20y1oa2y10ln3y10oa2y1oa20do2oa4do2oa2do29k3/)
+(the same proportion at any scale), whose colour order is pattern [KRYRYRYYYYWYYYYRYRYR](/stripes/kryryryyyywyyyyryryr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3780
 

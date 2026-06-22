@@ -2,9 +2,10 @@
 title: "Buchanan(Mtd)MacGregor Hastie V. Tartan Tartan Number: 6088. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYKYKWKBWBKWKYKYKWKGWGKW](/stripes/kykykwkbwbkwkykykwkgwgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb3k1dg31lb3dg31k1lb4k1o7k1o7k1lb4k1dr31ln3dr31k1lb4k1o7k1o7k1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKWKBWBKWKYKYKWKGWGKW](/stripes/kykykwkbwbkwkykykwkgwgkw/).
 
-This was sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from house-of-tartan.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6088
 

@@ -2,18 +2,20 @@
 title: "MacKinlay"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6k2b2k2b2k6g8k1r2k1g8k6b8k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKRKGKBKB](/stripes/bkbkbkgkrkgkbkb/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacKinlay (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacKinlay Clan Tartan Tartan Number: 218. Earliest known date: 1906 The MacKinlay tartan could be described in tartan parlance as Black Watch with red. It is similar to the early military setts produced by Wilson's of Bannockburn for the MacKenzies, the MacLeods and the Gordons, but there is no mention in Wilson's comprehensive pattern books of a MacKinlay tartan. There are, however, grounds for comparison with the Farquharson, as MacKinlays are named in that clan. To further confuse the issue the sett is identical to Logan's 'Murray of Athol'. The first publication to include the sett (as MacKinlay) was Whyte's 'The Tartans of the Clans and Septs of Scotland' published by W. and A.K. Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=218))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacKinlay (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacKinlay Clan Tartan Tartan Number: 218. Earliest known date: 1906 The MacKinlay tartan could be described in tartan parlance as Black Watch with red. It is similar to the early military setts produced by Wilson's of Bannockburn for the MacKenzies, the MacLeods and the Gordons, but there is no mention in Wilson's comprehensive pattern books of a MacKinlay tartan. There are, however, grounds for comparison with the Farquharson, as MacKinlays are named in that clan. To further confuse the issue the sett is identical to Logan's 'Murray of Athol'. The first publication to include the sett (as MacKinlay) was Whyte's 'The Tartans of the Clans and Septs of Scotland' published by W. and A.K. Johnston in 1906. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=218">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/12 K4 B4 K4 B4 K12 G16 K2 R4 K2 G16 K12 B16 K4 B/4

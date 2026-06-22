@@ -2,9 +2,10 @@
 title: "Robertson 3"
 date: 2023-03-18
 ---
-In pattern [RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1g1r9g1r1b9r1g9r1b1r9g1r1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGRBRGRGR](/stripes/rgrbrgrbrgrgr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Robertson
 - Robertson #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Robertson 3 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Robertson Clan Tartan Tartan Number: 1391. Earliest known date: 1831 The oldest records show Robertson tartan with a white line. But the modern weavers sett, without the white, can be traced to Logan's book 'The Scottish Gael' published in 1831. D.C.Stewart noted a subtle difference in Logan's count which is reproduced here. That is the use of contrasting narrow stripes next to the broader stripe. Other versions have only blue, narrow stripes. Stewart reckoned that it added 'balance in the design'. Mid toned blues and greens are used in this illustration. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1391))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Robertson 3 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Robertson Clan Tartan Tartan Number: 1391. Earliest known date: 1831 The oldest records show Robertson tartan with a white line. But the modern weavers sett, without the white, can be traced to Logan's book 'The Scottish Gael' published in 1831. D.C.Stewart noted a subtle difference in Logan's count which is reproduced here. That is the use of contrasting narrow stripes next to the broader stripe. Other versions have only blue, narrow stripes. Stewart reckoned that it added 'balance in the design'. Mid toned blues and greens are used in this illustration. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1391">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 G4 R36 G4 R4 B36 R4 G36 R4 B4 R36 G4 R/4

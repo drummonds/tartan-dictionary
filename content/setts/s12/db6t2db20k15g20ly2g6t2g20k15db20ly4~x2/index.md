@@ -2,9 +2,10 @@
 title: "Scottish Women's Rural Institutes"
 date: 2023-03-18
 ---
-In pattern [BBBKGYGBGKBY](/stripes/bbbkgygbgkby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6ba2b20k15g20y2g6ba2g20k15b20y4/)
+(the same proportion at any scale), whose colour order is pattern [BBBKGYGBGKBY](/stripes/bbbkgygbgkby/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Harkness Dress"
 date: 2023-03-18
 ---
-In pattern [BRWRGRGRGRGRGRGRWR](/stripes/brwrgrgrgrgrgrgrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10r2wa2r16g6r1g2r1g3r6/)
+(the same proportion at any scale), whose colour order is pattern [BRWRGRGRGRGRGRGRWR](/stripes/brwrgrgrgrgrgrgrwr/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1596
 

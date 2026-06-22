@@ -2,9 +2,10 @@
 title: "Anglicare"
 date: 2023-03-18
 ---
-In pattern [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12w4b4k12db12k4db8b12lb12w11r4w8/)
+(the same proportion at any scale), whose colour order is pattern [BWBKBKBBWWRW](/stripes/bwbkbkbbwwrw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10485
 

@@ -2,9 +2,10 @@
 title: "First Command Fin. Planning (Corp)"
 date: 2023-03-18
 ---
-In pattern [GWGBGWGBRBY](/stripes/gwgbgwgbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16n2g4b4g4n2g6db12dr2db20y3/)
+(the same proportion at any scale), whose colour order is pattern [GWGBGWGBRBY](/stripes/gwgbgwgbrby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2097/
 

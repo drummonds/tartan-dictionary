@@ -2,9 +2,10 @@
 title: "Griffith of Wales"
 date: 2023-03-18
 ---
-In pattern [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr37db17dr4db8dr6r2dr5db2dr3lt4dr3db2dr5r2dr6db8dr4db17dr37lt4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBRBBBYBBBRBBBBBY](/stripes/bbbbbrbbbybbbrbbbbby/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5134
 

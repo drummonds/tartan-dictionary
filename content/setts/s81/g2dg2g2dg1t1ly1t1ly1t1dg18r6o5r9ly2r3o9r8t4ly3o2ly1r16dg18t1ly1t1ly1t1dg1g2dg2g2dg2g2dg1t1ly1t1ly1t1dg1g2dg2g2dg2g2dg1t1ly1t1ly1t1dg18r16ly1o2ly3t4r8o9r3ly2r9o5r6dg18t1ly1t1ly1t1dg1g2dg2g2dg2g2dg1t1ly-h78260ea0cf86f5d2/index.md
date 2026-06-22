@@ -3,9 +3,10 @@ title: "Beaverbrook (District)"
 date: 2023-03-18
 slug_full: "g2dg2g2dg1t1ly1t1ly1t1dg18r6o5r9ly2r3o9r8t4ly3o2ly1r16dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1ly1t1dg18r16ly1o2ly3t4r8o9r3ly2r9o5r6dg18t1ly1t1ly1t1dg1g2dg2g2dg2g2dg1t1ly1t1~x2"
 ---
-In pattern [BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG](/stripes/bybgggggggbybybgrrryrrrbyryrgbybybgggggggbybybgggggggbybybgryrybrrryrrrgbybybgggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g2dg2g2dg1b1y1b1y1b1dg18r6dr5r9y2r3dr9r8b4y3n2y1r16dg18b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1y1b1dg18r16y1n2y3b4r8dr9r3y2r9dr5r6dg18b1y1b1y1b1dg1g2dg2g2dg2g2dg1b1y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBGGGGGGGBYBYBGRRRYRRRBYRYRGBYBYBGGGGGGGBYBYBGGGGGGGBYBYBGRYRYBRRRYRRRGBYBYBGGGG](/stripes/bybgggggggbybybgrrryrrrbyryrgbybybgggggggbybybgggggggbybybgryrybrrryrrrgbybybgggg/).
 
-This was sourced from tartans-authority.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from tartans-authority.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/663/
 

@@ -2,9 +2,10 @@
 title: "Fort William"
 date: 2023-03-18
 ---
-In pattern [GBYBKBKGKBK](/stripes/gbybkbkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g17b2lg2b2k21b2k3g30k2b2k4/)
+(the same proportion at any scale), whose colour order is pattern [GBYBKBKGKBK](/stripes/gbybkbkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1237
 

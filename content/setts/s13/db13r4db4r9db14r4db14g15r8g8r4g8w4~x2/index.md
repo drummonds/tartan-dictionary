@@ -2,9 +2,10 @@
 title: "MacCaslan (Artefact)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBGRGRGW](/stripes/brbrbrbgrgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db13r4db4r9db14r4db14g15r8g8r4g8ln4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBGRGRGW](/stripes/brbrbrbgrgrgw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5934/
 

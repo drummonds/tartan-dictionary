@@ -2,9 +2,10 @@
 title: "MacAlister"
 date: 2023-03-18
 ---
-In pattern [RWGRWRWRWRGRWRWRGRWRWRGRWRWRBRWRGWRWGRWRBRWR](/stripes/rwgrwrwrwrgrwrwrgrwrwrgrwrwrbrwrgwrwgrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8n1g2r2n1r1n1r1n1r2g3r1n1r6n1r1g12r1n1r16n1r1g12r1n1r6n1r1db4r1n1r2g3n1r2n1g3r3n1r1db2r1n1r8/)
+(the same proportion at any scale), whose colour order is pattern [RWGRWRWRWRGRWRWRGRWRWRGRWRWRBRWRGWRWGRWRBRWR](/stripes/rwgrwrwrwrgrwrwrgrwrwrgrwrwrbrwrgwrwgrwrbrwr/).
 
-This was sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from weddslist.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

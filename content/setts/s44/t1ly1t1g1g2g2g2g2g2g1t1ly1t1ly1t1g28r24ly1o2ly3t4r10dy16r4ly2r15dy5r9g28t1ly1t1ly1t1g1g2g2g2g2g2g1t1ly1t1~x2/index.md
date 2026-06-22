@@ -2,18 +2,20 @@
 title: "New Brunswick"
 date: 2023-03-18
 ---
-In pattern [BYBGGGGGGGBYBYBGRGRYRGRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrgryrgrbyryrgbybybgggggggbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1y1b1g1ga2g2ga2g2ga2g1b1y1b1y1b1g28r24y1n2y3b4r10t16r4y2r15t5r9g28b1y1b1y1b1g1ga2g2ga2g2ga2g1b1y1b1/)
+(the same proportion at any scale), whose colour order is pattern [BYBGGGGGGGBYBYBGRGRYRGRBYRYRGBYBYBGGGGGGGBYB](/stripes/bybgggggggbybybgrgryrgrbyryrgbybybgggggggbyb/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3110
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1959 — New Brunswick (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3110))
-- Apr. 1959 — New Brunswick (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1880/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1959 — New Brunswick (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3110">record</a>)</li>
+<li>Apr. 1959 — New Brunswick (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1880/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

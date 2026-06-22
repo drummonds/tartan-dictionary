@@ -2,18 +2,20 @@
 title: "MacNiven"
 date: 2023-03-18
 ---
-In pattern [GGBRWBWRW](/stripes/ggbrwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g18ga2db5dr45lp3db18lp3dr8n2/)
+(the same proportion at any scale), whose colour order is pattern [GGBRWBWRW](/stripes/ggbrwbwrw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1988 — MacNiven (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693))
-- pre 1988 — MacNiven (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/752/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1988 — MacNiven (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2693">record</a>)</li>
+<li>pre 1988 — MacNiven (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/752/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

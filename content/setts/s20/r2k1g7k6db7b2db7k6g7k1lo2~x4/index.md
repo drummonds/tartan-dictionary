@@ -2,9 +2,10 @@
 title: "Smith"
 date: 2023-03-18
 ---
-In pattern [KGKBBBKGKYKGKBBBKGKR](/stripes/kgkbbbkgkykgkbbbkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2k1g7k6dba7b2dba7k6g7k1dy2/)
+(the same proportion at any scale), whose colour order is pattern [KGKBBBKGKYKGKBBBKGKR](/stripes/kgkbbbkgkykgkbbbkgkr/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3822
 

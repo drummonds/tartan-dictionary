@@ -2,9 +2,10 @@
 title: "Kyle Blue (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBR](/stripes/brbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r54dp6r5dp6r10dp3r2dp18/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBR](/stripes/brbrbrbr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3616/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Kyle Blue
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1984 — Kyle Blue (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3616/))
-- undated — Kyle (Blue) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5014))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1984 — Kyle Blue (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3616/">record</a>)</li>
+<li>undated — Kyle (Blue) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5014">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

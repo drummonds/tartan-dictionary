@@ -2,18 +2,20 @@
 title: "MacAlister of Glenbarr"
 date: 2023-03-18
 ---
-In pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRBRBR](/stripes/grgrgrbrgrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2269
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1989 — MacAlister of Glenbarr (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2269))
-- pre 1989 — MacAlister of Glenbarr (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/877/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1989 — MacAlister of Glenbarr (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2269">record</a>)</li>
+<li>pre 1989 — MacAlister of Glenbarr (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/877/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

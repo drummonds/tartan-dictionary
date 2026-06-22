@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/wybybyby/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#F7F7F7"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#082077"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-seq">WYBYBYBY</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/w4ly3db3ly2db3ly4db48ly4/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern WYBYBYBY" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

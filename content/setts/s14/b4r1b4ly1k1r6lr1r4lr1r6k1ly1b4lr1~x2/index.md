@@ -2,18 +2,20 @@
 title: "Ogilvy D"
 date: 2023-03-18
 ---
-In pattern [BRBYKRYRYRKYBY](/stripes/brbykryryrkyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4dr1b4lg1k1dr6n1dr4n1dr6k1lg1b4n1/)
+(the same proportion at any scale), whose colour order is pattern [BRBYKRYRYRKYBY](/stripes/brbykryryrkyby/).
 
-This was sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Ogilvy D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Ogilvy D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Ogilvy D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Ogilvy D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 DR2 B8 LG2 K2 DR12 N2 DR8 N2 DR12 K2 LG2 B8 N/2

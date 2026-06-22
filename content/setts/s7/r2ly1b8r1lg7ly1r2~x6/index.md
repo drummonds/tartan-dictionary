@@ -2,9 +2,10 @@
 title: "Cercle de Fermières de Saint-Élie d'Orford"
 date: 2023-03-18
 ---
-In pattern [RYBRYYR](/stripes/rybryyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2ly1b8r1ba7ly1r2/)
+(the same proportion at any scale), whose colour order is pattern [RYBRYYR](/stripes/rybryyr/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10392
 

@@ -2,9 +2,10 @@
 title: "Fort Lawrence (District)"
 date: 2023-03-18
 ---
-In pattern [WW](/stripes/ww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1wa1/)
+(the same proportion at any scale), whose colour order is pattern [WW](/stripes/ww/).
 
-This was sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8822/
 

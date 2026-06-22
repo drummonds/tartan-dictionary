@@ -2,9 +2,10 @@
 title: "MacMillan (1946)"
 date: 2023-03-18
 ---
-In pattern [GKGKYKYKGKGRKRKR](/stripes/gkgkykykgkgrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g22k2g5k2y10k3y10k2g5k2g22r8k2r8k2r8/)
+(the same proportion at any scale), whose colour order is pattern [GKGKYKYKGKGRKRKR](/stripes/gkgkykykgkgrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5360
 

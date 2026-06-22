@@ -2,9 +2,10 @@
 title: "Kerry"
 date: 2023-03-18
 ---
-In pattern [YBGBRBGBRBGBRBY](/stripes/ybgbrbgbrbgbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2b3g3b4lt16b3g3b4lt3b3g16b4lt3b3y2/)
+(the same proportion at any scale), whose colour order is pattern [YBGBRBGBRBGBRBY](/stripes/ybgbrbgbrbgbrby/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

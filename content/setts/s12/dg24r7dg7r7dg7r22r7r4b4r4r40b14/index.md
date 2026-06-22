@@ -2,9 +2,10 @@
 title: "Powys (District)"
 date: 2023-03-18
 ---
-In pattern [BRRBRRRGRGRG](/stripes/brrbrrrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24r7g7r7g7ra22r7ra4ba4ra4r40b14/)
+(the same proportion at any scale), whose colour order is pattern [BRRBRRRGRGRG](/stripes/brrbrrrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5747/
 

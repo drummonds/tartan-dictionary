@@ -2,9 +2,10 @@
 title: "MacGlashan (Clan?)"
 date: 2023-03-18
 ---
-In pattern [RKWBWYRKRYWBKRYW](/stripes/rkwbwyrkrywbkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24k2ln2n6ln2dy2dr2k2dr2dy2ln2b6k2dr3dy3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKWBWYRKRYWBKRYW](/stripes/rkwbwyrkrywbkryw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/656/
 

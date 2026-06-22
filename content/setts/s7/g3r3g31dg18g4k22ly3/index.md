@@ -2,9 +2,10 @@
 title: "MacSween Hunting (Lochs, Isle of Lew"
 date: 2023-03-18
 ---
-In pattern [GRGGGKY](/stripes/grgggky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k22g4dg18g31r3g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGGGKY](/stripes/grgggky/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10888/
 

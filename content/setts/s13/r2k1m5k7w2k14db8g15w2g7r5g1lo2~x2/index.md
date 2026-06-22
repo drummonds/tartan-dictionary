@@ -2,9 +2,10 @@
 title: "Nashotah House (Commemorative)"
 date: 2023-03-18
 ---
-In pattern [RKRKWKBGWGRGY](/stripes/rkrkwkbgwgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2g1r5g7ln2g15db8k14ln2k7p5k1r2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKWKBGWGRGY](/stripes/rkrkwkbgwgrgy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5632/
 

@@ -2,9 +2,10 @@
 title: "McCanna NW Htg (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKGKGGK](/stripes/gkgkggk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1t4g1k1g1k1t1/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGGK](/stripes/gkgkggk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10274/
 

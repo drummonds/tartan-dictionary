@@ -2,9 +2,10 @@
 title: "Tokharion"
 date: 2023-03-18
 ---
-In pattern [BYBYBW](/stripes/bybybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1lt5db1lt5db2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBW](/stripes/bybybw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4133
 

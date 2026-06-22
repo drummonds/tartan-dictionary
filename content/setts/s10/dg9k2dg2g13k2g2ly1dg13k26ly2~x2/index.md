@@ -2,9 +2,10 @@
 title: "Pride of Ireland Fashion Tartan Tartan Number: 5157. Earliest known date: 2008 ONLY FOR DISPLAY PURPOSES. Count and sample from Lochcarron Feb. 2008. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGGKGYGKY](/stripes/gkggkgygky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg9k2dg2g13k2g2y1dg13k26y2/)
+(the same proportion at any scale), whose colour order is pattern [GKGGKGYGKY](/stripes/gkggkgygky/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5157
 

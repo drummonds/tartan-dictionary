@@ -2,9 +2,10 @@
 title: "Teall of Teallach (Personal)"
 date: 2023-03-18
 ---
-In pattern [KBKBGWKRY](/stripes/kbkbgwkry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b6k1db7g13ln1k11r14y2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBGWKRY](/stripes/kbkbgwkry/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1065/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Teall, of Teallach
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1986 — Teall of Teallach (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1065/))
-- undated — Teall, of Teallach (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Teall of Teallach Family Tartan Tartan Number: 1065. Earliest known date: 1966 Adopted by the Scottish Tartans Society in recognition of many years service of their chairman, Dr Gordon Teall. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1065))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1986 — Teall of Teallach (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1065/">record</a>)</li>
+<li>undated — Teall, of Teallach (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Teall of Teallach Family Tartan Tartan Number: 1065. Earliest known date: 1966 Adopted by the Scottish Tartans Society in recognition of many years service of their chairman, Dr Gordon Teall. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1065">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 B12 K2 DB14 G26 LN2 K22 R28 Y/4

@@ -2,18 +2,20 @@
 title: "Me to You"
 date: 2023-03-18
 ---
-In pattern [BWBYKGKRBKBG](/stripes/bwbykgkrbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db32w3db3y3k3g3k3r10db6k3db3g3/)
+(the same proportion at any scale), whose colour order is pattern [BWBYKGKRBKBG](/stripes/bwbykgkrbkbg/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2905
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Me to You (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2905))
-- 2005 Jan — Me to You (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6506/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Me to You (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2905">record</a>)</li>
+<li>2005 Jan — Me to You (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6506/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

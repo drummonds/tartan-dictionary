@@ -2,9 +2,10 @@
 title: "Zamzam (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRGKGKW](/stripes/rbrgkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r70b1r2g12k2g1k10ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBRGKGKW](/stripes/rbrgkgkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7788/
 

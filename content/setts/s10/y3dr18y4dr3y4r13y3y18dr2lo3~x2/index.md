@@ -2,9 +2,10 @@
 title: "Leitrim"
 date: 2023-03-18
 ---
-In pattern [GBGBGRGGBY](/stripes/gbgbgrggby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3dr18n4dr3n4r13n3n18dr2o3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGRGGBY](/stripes/gbgbgrggby/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

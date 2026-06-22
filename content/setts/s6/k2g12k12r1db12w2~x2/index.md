@@ -2,9 +2,10 @@
 title: "Russell, or Mitchell or Hunter or Galbraith"
 date: 2023-03-18
 ---
-In pattern [KGKRBW](/stripes/kgkrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g12k12r1b12ln2/)
+(the same proportion at any scale), whose colour order is pattern [KGKRBW](/stripes/kgkrbw/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -17,14 +18,15 @@ This cloth is also recorded under:
 - Russell or Mitchell or Hunter or Galbraith
 - Russell, or Mitchell or Hunter or Galbraith
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- undated — Russell, or Mitchell or Hunter or Galbraith (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Russell Clan Tartan Tartan Number: 1094. Earliest known date: c.1815 It seems certain that the tartan was first known as Galbraith. William Wilson and Sons of Bannockburn recorded the pattern as Russell in their pattern book of 1847, although it was named Hunter in the earlier book of 1819. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1094))
-- undated — Hunter Clan Tartan Tartan Number: 1095. Earliest known date: c.1815 see Russell Mitchell Hunter Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1095))
-- undated — Galbraith Clan Tartan Tartan Number: 3176. Earliest known date: 1815 It seems certain that the tartan was first known as Galbraith. John Telfer Dunbar states that he has a record of a Hunter tartan designed by a gentleman of the name Hunter in 1824 but without a thread count. Wilson recorded it as Russell in 1847. Galbraiths ('Briton's son in Gaelic) are connected with the Earls of Lennox, and at one time took protection as a Sept of Clan Donald. The name Galbraith is associated with the West Coast island of Gigha. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3176))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Russell, or Mitchell or Hunter or Galbraith (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Russell Clan Tartan Tartan Number: 1094. Earliest known date: c.1815 It seems certain that the tartan was first known as Galbraith. William Wilson and Sons of Bannockburn recorded the pattern as Russell in their pattern book of 1847, although it was named Hunter in the earlier book of 1819. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1094">record</a>)</li>
+<li>undated — Hunter Clan Tartan Tartan Number: 1095. Earliest known date: c.1815 see Russell Mitchell Hunter Galbraith. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1095">record</a>)</li>
+<li>undated — Galbraith Clan Tartan Tartan Number: 3176. Earliest known date: 1815 It seems certain that the tartan was first known as Galbraith. John Telfer Dunbar states that he has a record of a Hunter tartan designed by a gentleman of the name Hunter in 1824 but without a thread count. Wilson recorded it as Russell in 1847. Galbraiths ('Briton's son in Gaelic) are connected with the Earls of Lennox, and at one time took protection as a Sept of Clan Donald. The name Galbraith is associated with the West Coast island of Gigha. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3176">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G24 K24 R2 B24 LN/4

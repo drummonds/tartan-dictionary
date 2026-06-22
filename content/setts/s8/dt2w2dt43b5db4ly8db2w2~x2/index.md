@@ -2,9 +2,10 @@
 title: "Fife Flyers (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BWBBBYBW](/stripes/bwbbbybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2w2db43b5dba4y8dba2w2/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBYBW](/stripes/bwbbbybw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4534/
 

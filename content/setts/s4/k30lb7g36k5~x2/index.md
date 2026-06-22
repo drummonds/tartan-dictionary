@@ -2,9 +2,10 @@
 title: "Innes Hunting"
 date: 2023-03-18
 ---
-In pattern [KGWK](/stripes/kgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k30lb7g36k5/)
+(the same proportion at any scale), whose colour order is pattern [KGWK](/stripes/kgwk/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Innes Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 19/04/1969 — Innes Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831))
-- pre 1969 — Innes Htg (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/368/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>19/04/1969 — Innes Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1831">record</a>)</li>
+<li>pre 1969 — Innes Htg (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/368/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

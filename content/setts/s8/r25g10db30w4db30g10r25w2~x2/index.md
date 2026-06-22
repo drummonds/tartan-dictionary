@@ -2,9 +2,10 @@
 title: "Highland Spring Dress (2004)"
 date: 2023-03-18
 ---
-In pattern [RGBWBGRW](/stripes/rgbwbgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr25g10db30w4db30g10dr25w2/)
+(the same proportion at any scale), whose colour order is pattern [RGBWBGRW](/stripes/rgbwbgrw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1722
 

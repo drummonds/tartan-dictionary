@@ -2,9 +2,10 @@
 title: "Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RKWKRR](/stripes/rkwkrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2n20k5ln10k10r2/)
+(the same proportion at any scale), whose colour order is pattern [RKWKRR](/stripes/rkwkrr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1611
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Thompson Grey Small
 - Thomson, Grey
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1611))
-- undated — Thompson Grey Small Tartan Tartan Number: 16111. Earliest known date: pre 2003 Threadcount similar as Thompson Grey 1611. This form applies to "present" the tartans SMALL version. Thompson Grey Small design available in polyvis fabric. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=16111))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Thompson Grey Family Tartan Tartan Number: 1611. Earliest known date: pre 2003 Designed for Lord Thomson of Fleet in 1958 based on a sample in the Moy Hall collection dating from the mid 19th century. The tartan is also suitable for MacTavishs and Thompsons, who claim descent from the Clan MacIntosh. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1611">record</a>)</li>
+<li>undated — Thompson Grey Small Tartan Tartan Number: 16111. Earliest known date: pre 2003 Threadcount similar as Thompson Grey 1611. This form applies to "present" the tartans SMALL version. Thompson Grey Small design available in polyvis fabric. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=16111">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/4 N40 K10 LN20 K20 R/4

@@ -2,9 +2,10 @@
 title: "Crumlish (2015)"
 date: 2023-03-18
 ---
-In pattern [GWGWGYGYK](/stripes/gwgwgygyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k44ly2dg27ly2g16ln8dg16ln2dg8/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGYGYK](/stripes/gwgwgygyk/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11393
 

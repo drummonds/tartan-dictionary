@@ -2,9 +2,10 @@
 title: "Edinburgh '86"
 date: 2023-03-18
 ---
-In pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6ln2b2ln2b4ln6b28ba4b4ba45r4/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBWBBBBR](/stripes/bwbwbwbbbbr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1075
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Edinburgh, '86
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Edinburgh '86 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1075))
-- undated — Edinburgh, '86 (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Edinburgh '86 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1075">record</a>)</li>
+<li>undated — Edinburgh, '86 (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Campbell of Argyll #2"
 date: 2023-03-18
 ---
-In pattern [BKBKGKYKGKBKBKBKBKBKGKWKGKBK](/stripes/bkbkgkykgkbkbkbkbkbkgkwkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1b8k8ga8k1w2k1ga8k8b1k1b1k1b8k1b1k1b1k8ga8k1y2k1ga8k8b8k1b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKYKGKBKBKBKBKBKGKWKGKBK](/stripes/bkbkgkykgkbkbkbkbkbkgkwkgkbk/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=512
 

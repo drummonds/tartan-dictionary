@@ -2,9 +2,10 @@
 title: "Stewarton (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KGRBRYRK](/stripes/kgrbryrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g3na3db3na3n3lt3k1/)
+(the same proportion at any scale), whose colour order is pattern [KGRBRYRK](/stripes/kgrbryrk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2367/
 

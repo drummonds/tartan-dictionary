@@ -2,9 +2,10 @@
 title: "Allandale Red Dress Tartan Tartan Number: 8457. Earliest known date: Threadcount and colours aren't 100% original. Generated manually. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRGRRKRGWKWK](/stripes/grgrrkrgwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3ln2k1ln40g17r5y3n2r9g1r2g3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRRKRGWKWK](/stripes/grgrrkrgwkwk/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8457
 

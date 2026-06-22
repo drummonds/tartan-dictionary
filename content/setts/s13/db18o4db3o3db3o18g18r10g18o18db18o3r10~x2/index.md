@@ -2,9 +2,10 @@
 title: "Murray of Atholl"
 date: 2023-03-18
 ---
-In pattern [BRBRBRGRGRBRR](/stripes/brbrbrgrgrbrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18lt4b3lt3b3lt18g18r10g18lt18b18lt3r10/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRGRGRBRR](/stripes/brbrbrgrgrbrr/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

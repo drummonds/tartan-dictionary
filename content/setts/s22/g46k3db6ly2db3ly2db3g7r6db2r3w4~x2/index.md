@@ -2,9 +2,10 @@
 title: "Seller (Personal)"
 date: 2023-03-18
 ---
-In pattern [GKBYBYBGRBRWRBRGBYBYBK](/stripes/gkbybybgrbrwrbrgbybybk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g46k3db6y2db3y2db3g7r6db2r3w4/)
+(the same proportion at any scale), whose colour order is pattern [GKBYBYBGRBRWRBRGBYBYBK](/stripes/gkbybybgrbrwrbrgbybybk/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3762
 

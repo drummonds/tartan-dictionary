@@ -2,9 +2,10 @@
 title: "Yorston (2014)"
 date: 2023-03-18
 ---
-In pattern [BWRWBYGKRW](/stripes/bwrwbygkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db109lb12r4w4db5y4g5k4r4lb18/)
+(the same proportion at any scale), whose colour order is pattern [BWRWBYGKRW](/stripes/bwrwbygkrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10989/
 

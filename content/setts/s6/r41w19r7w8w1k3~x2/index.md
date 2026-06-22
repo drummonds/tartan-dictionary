@@ -2,9 +2,10 @@
 title: "MacGregor - 2005 (Black - Personal)"
 date: 2023-03-18
 ---
-In pattern [KWWRWR](/stripes/kwwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r41w19r7w8w1k3/)
+(the same proportion at any scale), whose colour order is pattern [KWWRWR](/stripes/kwwrwr/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6988/
 

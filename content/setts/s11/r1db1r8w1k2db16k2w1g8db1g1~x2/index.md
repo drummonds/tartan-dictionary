@@ -2,18 +2,20 @@
 title: "MacMichael"
 date: 2023-03-18
 ---
-In pattern [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1b1r8ln1k2b16k2ln1g8b1g1/)
+(the same proportion at any scale), whose colour order is pattern [GBGWKBKWRBR](/stripes/gbgwkbkwrbr/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacMichael (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacMichael Family Tartan Tartan Number: 2063. Earliest known date: 1991 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2063))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacMichael (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacMichael Family Tartan Tartan Number: 2063. Earliest known date: 1991 See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2063">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/2 B2 R16 LN2 K4 B32 K4 LN2 G16 B2 G/2

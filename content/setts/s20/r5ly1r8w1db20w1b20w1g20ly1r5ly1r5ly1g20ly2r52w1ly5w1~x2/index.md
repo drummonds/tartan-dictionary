@@ -2,9 +2,10 @@
 title: "Whitworth"
 date: 2023-03-18
 ---
-In pattern [RYRWBWBWGYRYRYGYRWYW](/stripes/ryrwbwbwgyryrygyrwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5y1r8ln1db20ln1b20ln1g20y1r5y1r5y1g20y2r52ln1y5ln1/)
+(the same proportion at any scale), whose colour order is pattern [RYRWBWBWGYRYRYGYRWYW](/stripes/ryrwbwbwgyryrygyrwyw/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Stewart Hunting"
 date: 2023-03-18
 ---
-In pattern [BGBKBKBKGRGKGKGKGKGYGKBKBK](/stripes/bgbkbkbkgrgkgkgkgkgygkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9gb4db9k3db3k3db3k8gb27r4gb27k8gb5k13gb4k13gb5k8gb27y4gb27k8db3k3db3k3/)
+(the same proportion at any scale), whose colour order is pattern [BGBKBKBKGRGKGKGKGKGYGKBKBK](/stripes/bgbkbkbkgrgkgkgkgkgygkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3934
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Stewart Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Stewart Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3934))
-- 1819 — Stewart Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6327/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Stewart Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3934">record</a>)</li>
+<li>1819 — Stewart Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6327/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

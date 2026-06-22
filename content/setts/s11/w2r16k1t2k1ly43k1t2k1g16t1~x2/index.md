@@ -2,9 +2,10 @@
 title: "Baxter Clan Tartan Tartan Number: 175. Earliest known date: 1856 A discription of this sett is given in The Baronage of Angus and Mearns (1856). See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKBKRW](/stripes/bgkbkykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r16k1b2k1y43k1b2k1g16b1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKBKRW](/stripes/bgkbkykbkrw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=175
 

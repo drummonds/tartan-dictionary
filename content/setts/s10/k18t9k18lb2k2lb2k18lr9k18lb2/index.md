@@ -2,9 +2,10 @@
 title: "London Fog Black 2 (fashion)"
 date: 2023-03-18
 ---
-In pattern [KBKWKWKYKW](/stripes/kbkwkwkykw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18b9k18n2k2n2k18na9k18n2/)
+(the same proportion at any scale), whose colour order is pattern [KBKWKWKYKW](/stripes/kbkwkwkykw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7316/
 

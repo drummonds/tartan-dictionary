@@ -2,9 +2,10 @@
 title: "Scottish Register of Tartans' Tartan"
 date: 2023-03-18
 ---
-In pattern [KRGRKGKGGGRGRYR](/stripes/krgrkgkgggrgryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dra12n4dra7dr2dra2dr28t2dr28k2dr2k23dra3ta6dra3k5/)
+(the same proportion at any scale), whose colour order is pattern [KRGRKGKGGGRGRYR](/stripes/krgrkgkgggrgryr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10000
 

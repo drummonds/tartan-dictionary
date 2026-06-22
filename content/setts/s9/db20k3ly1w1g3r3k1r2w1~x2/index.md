@@ -2,9 +2,10 @@
 title: "Stewart Blue MINI Tartan Tartan Number: 5566. Earliest known date: Generated for display purpose only for Dupion Silk. reduced copy of the 556 Stewart Blue. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKYWGRKRW](/stripes/bkywgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db20k3y1ln1g3r3k1r2ln1/)
+(the same proportion at any scale), whose colour order is pattern [BKYWGRKRW](/stripes/bkywgrkrw/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5566
 

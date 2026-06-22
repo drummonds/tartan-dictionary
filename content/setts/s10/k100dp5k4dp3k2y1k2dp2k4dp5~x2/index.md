@@ -2,9 +2,10 @@
 title: "Webster, Colin Wesley (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKBKBK](/stripes/bkbkgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k100p5k4p3k2g1k2p2k4p5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKBKBK](/stripes/bkbkgkbkbk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10119/
 

@@ -2,18 +2,20 @@
 title: "Riyadh Caledonian (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BGBWBGBBBYGWG](/stripes/bgbwbgbbbygwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db23g4db1ln1db3g5db1p4db3y1g3ln1g4/)
+(the same proportion at any scale), whose colour order is pattern [BGBWBGBBBYGWG](/stripes/bgbwbgbbbygwg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7750/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- August 2008 — Riyadh Caledonian (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7750/))
-- undated — Riyadh Caledonian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5731))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>August 2008 — Riyadh Caledonian (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7750/">record</a>)</li>
+<li>undated — Riyadh Caledonian (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5731">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

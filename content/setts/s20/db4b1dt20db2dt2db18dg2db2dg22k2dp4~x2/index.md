@@ -2,9 +2,10 @@
 title: "Heartlands Fancy Tartan Tartan Number: 3443. Earliest known date: 2002 Designed by Erica Randall of House of Edgar for MacGregor & MacDuff of 41 Bath Street, Glasgow G2 1HW for use in their kilt hire business. The customer requested that the tartan be based upon the Melville sett. Date of application 6th November 2002. In May 2003 the business was sold by Mr Robert Brown who elected to retain the copyright of this tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4b1k20db2k2db18g2db2g22cr2p4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGKBKGBGBBBBB](/stripes/bbbbbbgbgkbkgbgbbbbb/).
 
-This was sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from house-of-tartan.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3443
 

@@ -2,9 +2,10 @@
 title: "Skene of Cromar - 1950 (Clan)"
 date: 2023-03-18
 ---
-In pattern [KRBRBGRK](/stripes/krbrbgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4r37db37r2db37g37r37k4/)
+(the same proportion at any scale), whose colour order is pattern [KRBRBGRK](/stripes/krbrbgrk/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1136/
 

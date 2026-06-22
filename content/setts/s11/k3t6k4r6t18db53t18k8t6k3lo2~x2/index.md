@@ -2,18 +2,20 @@
 title: "Australia 2000"
 date: 2023-03-18
 ---
-In pattern [KBKRBBBKBKY](/stripes/kbkrbbbkbky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3b6k4dr6b18db53b18k8b6k3dy2/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBBBKBKY](/stripes/kbkrbbbkbky/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=138
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Australia 2000 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=138))
-- pre 2002 — Australia 2000 (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4148/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Australia 2000 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=138">record</a>)</li>
+<li>pre 2002 — Australia 2000 (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4148/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

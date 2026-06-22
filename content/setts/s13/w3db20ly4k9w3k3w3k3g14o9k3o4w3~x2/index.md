@@ -2,9 +2,10 @@
 title: "Clodagh, Cork"
 date: 2023-03-18
 ---
-In pattern [WBYKWKWKGRKRW](/stripes/wbykwkwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b20y4k9ln3k3ln3k3g14lt9k3lt4ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBYKWKWKGRKRW](/stripes/wbykwkwkgrkrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

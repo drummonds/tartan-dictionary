@@ -2,9 +2,10 @@
 title: "MacDonald, Flora (Plaid)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b24k4b4k4b4k22b24w6b24k22b18r24b18k22g14r4g4r4g8k1w6k1g8r4g4r4g14k22b4k4b4k4b24/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBWBKBRBKGRGRGKWKGRGRGKBKBKB](/stripes/bkbkbkbwbkbrbkgrgrgkwkgrgrgkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from register-of-tartans.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2377
 

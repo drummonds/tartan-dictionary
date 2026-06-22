@@ -2,9 +2,10 @@
 title: "Smith (Sir William)"
 date: 2023-03-18
 ---
-In pattern [BBKGKKKGKB](/stripes/bbkgkkkgkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db18k20g20k1yy3k1g20k20db18b3/)
+(the same proportion at any scale), whose colour order is pattern [BBKGKKKGKB](/stripes/bbkgkkkgkb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3823
 

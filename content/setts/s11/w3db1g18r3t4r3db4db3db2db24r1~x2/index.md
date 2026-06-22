@@ -2,9 +2,10 @@
 title: "Queen of the South Football Club"
 date: 2023-03-18
 ---
-In pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3db1b18ra3ba4ra3dba4db3dba2db24r1/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBRBRGBW](/stripes/rbbbbrbrgbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3428
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Queen of the South Football Club
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1999 — Queen of the South Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3428))
-- 01/01/1999 — Coldstream (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=708))
-- 1999 — Coldstream (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2650/))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1999 — Queen of the South Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3428">record</a>)</li>
+<li>01/01/1999 — Coldstream (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=708">record</a>)</li>
+<li>1999 — Coldstream (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2650/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Clunie (Name)"
 date: 2023-03-18
 ---
-In pattern [WBKRKY](/stripes/wbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6k2n11k7db24w6/)
+(the same proportion at any scale), whose colour order is pattern [WBKRKY](/stripes/wbkrky/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6708/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2005 — Clunie (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6708/))
-- undated — Clunie Name Tartan Tartan Number: 6708. Earliest known date: 2005 Designed by David McGill of International Tartans for a John and Ben Clunie from Aberdeen and Edinburgh respectively but it can be worn by all of the name. The colours are from the Clunie coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6708))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2005 — Clunie (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6708/">record</a>)</li>
+<li>undated — Clunie Name Tartan Tartan Number: 6708. Earliest known date: 2005 Designed by David McGill of International Tartans for a John and Ben Clunie from Aberdeen and Edinburgh respectively but it can be worn by all of the name. The colours are from the Clunie coat of arms. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6708">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/12 K4 N22 K14 DB48 W/12

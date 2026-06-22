@@ -2,9 +2,10 @@
 title: "Ancient Gathering"
 date: 2023-03-18
 ---
-In pattern [BBRWYBBW](/stripes/bbrwybbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1db18dba14dy3w1p6b12dba1/)
+(the same proportion at any scale), whose colour order is pattern [BBRWYBBW](/stripes/bbrwybbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11029
 

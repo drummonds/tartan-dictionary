@@ -2,9 +2,10 @@
 title: "Montreal Granate (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RYYGYRYRY](/stripes/ryygyryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr78lt10lt1g2lt6dr2lt3dr2lt43/)
+(the same proportion at any scale), whose colour order is pattern [RYYGYRYRY](/stripes/ryygyryry/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6260/
 

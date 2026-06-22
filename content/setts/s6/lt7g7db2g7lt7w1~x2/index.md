@@ -2,9 +2,10 @@
 title: "Norwich No.078"
 date: 2023-03-18
 ---
-In pattern [WGBGWW](/stripes/wgbgww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb7ga7dba2ga7lb7wa1/)
+(the same proportion at any scale), whose colour order is pattern [WGBGWW](/stripes/wgbgww/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3195
 

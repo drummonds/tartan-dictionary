@@ -2,9 +2,10 @@
 title: "Langara College"
 date: 2023-03-18
 ---
-In pattern [WYYYWYWGWGYGWGWY](/stripes/wyyywywgwgygwgwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w120n5o4n5w40n30w1na1w2na4o8na10w20na30w40n60/)
+(the same proportion at any scale), whose colour order is pattern [WYYYWYWGWGYGWGWY](/stripes/wyyywywgwgygwgwy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10847
 

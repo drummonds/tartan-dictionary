@@ -2,9 +2,10 @@
 title: "Estonian National Tartan Estonian District Tartan Tartan Number: 6777. Earliest known date: 2005 September The Estonian National Tartan designed by Kirsty Anderson of the MacNaughton Group, Perth. Organised by Shaw Marketing of Edinburgh (0131 557 5663) and to be launched during Estonian Week at the end of October. Colours taken from the Estonian national Flag. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYRYBKBKWKBKBKWKBK](/stripes/byrybkbkwkbkbkwkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b32y1r3y1b32k5b3k2w1k2b3k53b3k2w1k2b3k5/)
+(the same proportion at any scale), whose colour order is pattern [BYRYBKBKWKBKBKWKBK](/stripes/byrybkbkwkbkbkwkbk/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6777
 

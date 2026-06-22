@@ -2,9 +2,10 @@
 title: "Hogarth, of Firhill"
 date: 2023-03-18
 ---
-In pattern [BGYKBKB](/stripes/bgykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2g6y1k6ba6k1ba1/)
+(the same proportion at any scale), whose colour order is pattern [BGYKBKB](/stripes/bgykbkb/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

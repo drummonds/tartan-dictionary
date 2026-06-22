@@ -2,9 +2,10 @@
 title: "Lee Cox (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWRBGBKBKBGBKBKGR](/stripes/bwrbgbkbkbgbkbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g2k7b3k3b3g14b3k3b3k3b3g10p6r2ln2b3/)
+(the same proportion at any scale), whose colour order is pattern [BWRBGBKBKBGBKBKGR](/stripes/bwrbgbkbkbgbkbkgr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10205/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lee Cox Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 15th Dec. 2009 — Lee Cox (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10205/))
-- undated — Lee Cox Personal Tartan Tartan Number: 10205. Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10205))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>15th Dec. 2009 — Lee Cox (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10205/">record</a>)</li>
+<li>undated — Lee Cox Personal Tartan Tartan Number: 10205. Earliest known date: 15th Dec. 2009 This tartan combines the basic pattern of the Bell tartan (the designer's wife's maiden name) and the Marshall tartan (the designer's mother's tartan) with an additional pattern representing the designer (red) and his wife (blue), their marriage (white) surrounded by purple happiness. Developed for weaving by House of Tartan See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10205">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 G4 K14 B6 K6 B6 G28 B6 K6 B6 K6 B6 G20 P12 R4 LN4 B/6

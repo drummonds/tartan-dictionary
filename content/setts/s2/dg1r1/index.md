@@ -2,18 +2,20 @@
 title: "Moncreiffe"
 date: 2023-03-18
 ---
-In pattern [GR](/stripes/gr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1dg1/)
+(the same proportion at any scale), whose colour order is pattern [GR](/stripes/gr/).
 
-This was sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Moncreiffe (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Moncreiffe (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Moncreiffe (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Moncreiffe (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/1 DG/1

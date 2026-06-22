@@ -2,9 +2,10 @@
 title: "Teviotdale District Tartan Tartan Number: 5136. Earliest known date: 01/01/1996 Lochcarron. The colours are representative of those in the valley through which flows the River Teviot in the Scottish Borders. Sample in Scottish Tartans Authority's Johnston Collection. Blues lightened to show sett. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGYBGGWGGBYGKK](/stripes/kgybggwggbygkk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5bl3t4y1dbb13t13g29ln2/)
+(the same proportion at any scale), whose colour order is pattern [KGYBGGWGGBYGKK](/stripes/kgybggwggbygkk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5136
 

@@ -2,9 +2,10 @@
 title: "MacHinery Dress"
 date: 2023-03-18
 ---
-In pattern [BKBWBRBBWBBWBW](/stripes/bkbwbrbbwbbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b6yy2b24ln4b4dr2db16b20ln4b20db16ln16db3ln4/)
+(the same proportion at any scale), whose colour order is pattern [BKBWBRBBWBBWBW](/stripes/bkbwbrbbwbbwbw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5019
 

@@ -2,9 +2,10 @@
 title: "Compaq"
 date: 2023-03-18
 ---
-In pattern [YYYYRYRYRYRYYYYY](/stripes/yyyyryryryryyyyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1y1o1y1r1y1r1y1r1y1r1y1o1y1o1y1/)
+(the same proportion at any scale), whose colour order is pattern [YYYYRYRYRYRYYYYY](/stripes/yyyyryryryryyyyy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=726
 

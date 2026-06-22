@@ -2,9 +2,10 @@
 title: "MacQuarrie 1815"
 date: 2023-03-18
 ---
-In pattern [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2dr3dg2dr52dg2dr2db28dr2dg42dr2dg2dr3dg2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRBRGRGRG](/stripes/grgrgrbrgrgrg/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

@@ -2,9 +2,10 @@
 title: "Hibernian F. C. (2004) (C orporate)"
 date: 2023-03-18
 ---
-In pattern [GWGKGBKW](/stripes/gwgkgbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga21ln2ga21k17g12p6k2ln1/)
+(the same proportion at any scale), whose colour order is pattern [GWGKGBKW](/stripes/gwgkgbkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6894/
 

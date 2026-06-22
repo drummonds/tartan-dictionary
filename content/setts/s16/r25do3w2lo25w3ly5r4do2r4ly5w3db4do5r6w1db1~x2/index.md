@@ -2,9 +2,10 @@
 title: "MacGlashan Clan Tartan Tartan Number: 656. Earliest known date: 1982 Author an historian, Dr Philip Smith, lives in the USA and provides up to date information of new designs of tartan produced in the Americas. MacGlashan is associated with Clan MacKintosh or Clan Stewart. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWRBBWYRBRYWYWBR](/stripes/bwrbbwyrbrywywbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25dr3ln2lt25ln3y5r4dr2r4y5ln3db4dr5r6ln1db1/)
+(the same proportion at any scale), whose colour order is pattern [BWRBBWYRBRYWYWBR](/stripes/bwrbbwyrbrywywbr/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=656
 

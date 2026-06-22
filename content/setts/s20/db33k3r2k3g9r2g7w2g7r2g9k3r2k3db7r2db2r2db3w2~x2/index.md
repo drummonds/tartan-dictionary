@@ -2,18 +2,20 @@
 title: "Ranking (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db33k3r2k3g9r2g7ln2g7r2g9k3r2k3db7r2db2r2db3ln2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKGRGWGRGKRKBRBRBW](/stripes/bkrkgrgwgrgkrkbrbrbw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3242/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Ranking (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3242/))
-- 01/01/2003 — Ranking (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3463))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Ranking (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3242/">record</a>)</li>
+<li>01/01/2003 — Ranking (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3463">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

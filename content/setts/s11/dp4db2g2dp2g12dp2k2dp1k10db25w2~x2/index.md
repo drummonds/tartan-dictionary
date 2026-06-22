@@ -2,9 +2,10 @@
 title: "O'Reilly Irish Fashion Tartan Tartan Number: 6747. Earliest known date: pre 2005 Scotch Corner (a company in Gateshead, England) have produced various Irish surname tartans over the years. However, it may be considered that this is how many of Scotland's clan tartans came into being so perhaps in a hundred years or so, today's inventions will be regarded as tomorrow's genuine Irish clan/family tartans. Woven by Marton Mills, Yorkshire. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBGBGBKBKBW](/stripes/bbgbgbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n4db2b2n2b12n2k2n1k10db25ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBKBKBW](/stripes/bbgbgbkbkbw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6747
 

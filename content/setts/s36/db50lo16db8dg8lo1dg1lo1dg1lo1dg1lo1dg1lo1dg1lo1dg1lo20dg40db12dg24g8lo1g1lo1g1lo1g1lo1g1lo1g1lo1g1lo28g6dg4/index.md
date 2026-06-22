@@ -2,9 +2,10 @@
 title: "Nova Scotia (CIDD 20899)"
 date: 2023-03-18
 ---
-In pattern [BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG](/stripes/bybgygygygygygygygbggygygygygygygygg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db50dy16db8dg8dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy1dg1dy20dg40db12dg24g8dy1g1dy1g1dy1g1dy1g1dy1g1dy1g1dy28g6dg4/)
+(the same proportion at any scale), whose colour order is pattern [BYBGYGYGYGYGYGYGYGBGGYGYGYGYGYGYGYGG](/stripes/bybgygygygygygygygbggygygygygygygygg/).
 
-This was sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from register-of-tartans.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5699
 

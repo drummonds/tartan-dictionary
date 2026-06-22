@@ -2,9 +2,10 @@
 title: "Stirling University Corporate Tartan Tartan Number: 2074. Earliest known date: Aug 1992 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GRKRKGRBY](/stripes/grkrkgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g28r4k3n2k1dg2r3db20y2/)
+(the same proportion at any scale), whose colour order is pattern [GRKRKGRBY](/stripes/grkrkgrby/).
 
-This was sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from house-of-tartan.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2074
 

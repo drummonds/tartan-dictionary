@@ -2,9 +2,10 @@
 title: "Emergency Medical Services Memorial Tartan"
 date: 2023-03-18
 ---
-In pattern [KBKBKBRBGBWBYBRBKBKBK](/stripes/kbkbkbrbgbwbybrbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14b4k4b4k4b4r14b38y8b3w3b3g8b38r14b4k4b4k4b4k14/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBRBGBWBYBRBKBKBK](/stripes/kbkbkbrbgbwbybrbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from register-of-tartans.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10043
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Emergency Med. Services Memorial
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/06/2009 — Emergency Medical Services Memorial Tartan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10043))
-- Jun. 2009 — Emergency Med. Services Memorial (C) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10043/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/06/2009 — Emergency Medical Services Memorial Tartan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10043">record</a>)</li>
+<li>Jun. 2009 — Emergency Med. Services Memorial (C) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10043/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

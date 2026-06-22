@@ -2,9 +2,10 @@
 title: "Dark Island"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ka2k43ka20k4ka2k2ka4k2ka2k4ka20k43ka2k4ka2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKBK](/stripes/bkbkbkbkbkbkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=889
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dark Island Black Weavers
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/05/2003 — Dark Island (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=889))
-- undated — Dark Island Black Weavers Tartan Tartan Number: 5832. Earliest known date: May 2003 A Solid Sett* tartan and an innovative departure from conventional tartan design. An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed black. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5832))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/05/2003 — Dark Island (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=889">record</a>)</li>
+<li>undated — Dark Island Black Weavers Tartan Tartan Number: 5832. Earliest known date: May 2003 A Solid Sett* tartan and an innovative departure from conventional tartan design. An ecru (white) yarn has been woven on a Jacquard loom with the sett being formed by stitches other than 2/2 twill and then the finished fabric has been piece-dyed black. The sett is highlighted because of the differing light reflecting qualities of the stitches. Here they are shown in grey so as to be discernible. *This new category of tartan has been given the description of Solid Sett - a solid colour but with a sett still showing. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5832">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

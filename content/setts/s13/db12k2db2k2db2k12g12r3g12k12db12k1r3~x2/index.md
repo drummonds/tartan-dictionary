@@ -2,9 +2,10 @@
 title: "Murray of Atholl #3"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2db2k12g12r3g12k12db12k1r3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGRGKBKR](/stripes/bkbkbkgrgkbkr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063
 
@@ -16,17 +17,18 @@ This cloth is also recorded under:
 - Murray of Atholl #3
 - Transvaal Scottish Regiment (Militar
 
-## Attestations
-
-This cloth appears in 7 source records; the oldest owns this page.
-
-- 01/01/1810 — Murray of Atholl #3 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063))
-- 1810 — Murray of Atholl - 1810 (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/281/))
-- pre 1993 — Transvaal Scottish Regiment (Militar (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5089/))
-- undated — Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Murray of Atholl (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Atholl District Tartan Tartan Number: 2078. Earliest known date: 1812 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2078))
-- undated — Murray of Atholl Clan Tartan Tartan Number: 281. Earliest known date: 1810-15 Also known as Atholl District tartan. There may be reference to this sett as early as 1619. James Logan suggested that the tartan derived from the Black Watch and that Lord Murray, who commanded the regiment, introduced the red lines. Logans count varies slightly from the one given here. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=281))
+<details class="attestations">
+<summary>7 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1810 — Murray of Atholl #3 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3063">record</a>)</li>
+<li>1810 — Murray of Atholl - 1810 (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/281/">record</a>)</li>
+<li>pre 1993 — Transvaal Scottish Regiment (Militar (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5089/">record</a>)</li>
+<li>undated — Atholl (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Murray of Atholl (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Atholl District Tartan Tartan Number: 2078. Earliest known date: 1812 Also known as Murray of Atholl, it has been authorized by Ian Murray, Duke of Atholl. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2078">record</a>)</li>
+<li>undated — Murray of Atholl Clan Tartan Tartan Number: 281. Earliest known date: 1810-15 Also known as Atholl District tartan. There may be reference to this sett as early as 1619. James Logan suggested that the tartan derived from the Black Watch and that Lord Murray, who commanded the regiment, introduced the red lines. Logans count varies slightly from the one given here. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=281">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

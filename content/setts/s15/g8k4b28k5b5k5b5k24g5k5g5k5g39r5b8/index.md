@@ -2,9 +2,10 @@
 title: "Princess Louise"
 date: 2023-03-18
 ---
-In pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8k4b28k5b5k5b5k24g5k5g5k5g39r5b8/)
+(the same proportion at any scale), whose colour order is pattern [BRGKGKGKBKBKBKG](/stripes/brgkgkgkbkbkbkg/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3404
 

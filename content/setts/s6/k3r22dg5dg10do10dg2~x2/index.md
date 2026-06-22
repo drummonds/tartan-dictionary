@@ -2,18 +2,20 @@
 title: "Rowardennan"
 date: 2023-03-18
 ---
-In pattern [GBGGRK](/stripes/gbggrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dra22g5dg10dr10dg2/)
+(the same proportion at any scale), whose colour order is pattern [GBGGRK](/stripes/gbggrk/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1978 — Rowardennan (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581))
-- pre 1978 — Rowardennan (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5409/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1978 — Rowardennan (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3581">record</a>)</li>
+<li>pre 1978 — Rowardennan (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5409/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

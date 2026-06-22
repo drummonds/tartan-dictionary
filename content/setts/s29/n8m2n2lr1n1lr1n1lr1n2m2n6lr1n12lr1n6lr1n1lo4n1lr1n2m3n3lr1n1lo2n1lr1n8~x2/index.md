@@ -2,9 +2,10 @@
 title: "Delmarva (District)"
 date: 2023-03-18
 ---
-In pattern [BRBYBYBYBRBYBYBYBYBYBRBYBYBYB](/stripes/brbybybybrbybybybybybrbybybyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8r2n2na1n1na1n1na1n2r2n6nb1n12nb1n6na1n1lt4n1na1n2r3n3na1n1lt2n1na1n8/)
+(the same proportion at any scale), whose colour order is pattern [BRBYBYBYBRBYBYBYBYBYBRBYBYBYB](/stripes/brbybybybrbybybybybybrbybybyb/).
 
-This was sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from tartans-authority.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10158/
 

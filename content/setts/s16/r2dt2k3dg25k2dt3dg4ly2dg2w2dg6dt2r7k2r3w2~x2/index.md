@@ -2,9 +2,10 @@
 title: "Hueg Scottish Thistle (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2db2k3dg25k2db3dg4y2dg2ln2dg6db2r7k2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBKGKBGYGWGBRKRW](/stripes/rbkgkbgygwgbrkrw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10736/
 

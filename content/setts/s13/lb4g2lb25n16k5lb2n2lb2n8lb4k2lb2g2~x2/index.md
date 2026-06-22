@@ -2,9 +2,10 @@
 title: "Balmoral, Green lines"
 date: 2023-03-18
 ---
-In pattern [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na4g2na25n16k5na2n2na2n8na4k2na2g2/)
+(the same proportion at any scale), whose colour order is pattern [GWKWBWBWKBWGW](/stripes/gwkwbwbwkbwgw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

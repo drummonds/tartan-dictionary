@@ -2,9 +2,10 @@
 title: "Strathmore (District)"
 date: 2023-03-18
 ---
-In pattern [GRGRGRGGGGGGKGKY](/stripes/grgrgrggggggkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3dr15ga2dr2ga2dr2ga18t2ga2t2ga2t27k2t2k6dy2/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRGGGGGGKGKY](/stripes/grgrgrggggggkgky/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10118/
 

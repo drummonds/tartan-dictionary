@@ -2,9 +2,10 @@
 title: "Scottish Express International"
 date: 2023-03-18
 ---
-In pattern [BKBKBK](/stripes/bkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6ba50k29b6k29ba6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBK](/stripes/bkbkbk/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

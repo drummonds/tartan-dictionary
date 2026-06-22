@@ -2,9 +2,10 @@
 title: "Father's Pride, The"
 date: 2023-03-18
 ---
-In pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr90n8k10n3k4g4k3r16k14y6k28/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKGKRKYK](/stripes/kbkbkgkrkyk/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10976/
 

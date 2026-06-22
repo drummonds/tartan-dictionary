@@ -2,9 +2,10 @@
 title: "Scott Hunting"
 date: 2023-03-18
 ---
-In pattern [GGRGWGRGWGRGGR](/stripes/ggrgwgrgwgrggr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t16g10r3g3na2g3r3g3na2g3r3g10t16r3/)
+(the same proportion at any scale), whose colour order is pattern [GGRGWGRGWGRGGR](/stripes/ggrgwgrgwgrggr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3700
 

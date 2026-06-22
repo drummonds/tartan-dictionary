@@ -2,9 +2,10 @@
 title: "MacKinnon Dress"
 date: 2023-03-18
 ---
-In pattern [GGWR](/stripes/ggwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9t7ln7r1/)
+(the same proportion at any scale), whose colour order is pattern [GGWR](/stripes/ggwr/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2554
 

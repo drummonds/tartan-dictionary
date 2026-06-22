@@ -2,18 +2,20 @@
 title: "Walls, Steve C (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYYKRRWR](/stripes/kykyykrrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3y2k2y14ya3k6dr8r14w2r3/)
+(the same proportion at any scale), whose colour order is pattern [KYKYYKRRWR](/stripes/kykyykrrwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 25/03/2014 — Walls, Steve C (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161))
-- 2014 — Walls, Steve C (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/11161/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25/03/2014 — Walls, Steve C (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11161">record</a>)</li>
+<li>2014 — Walls, Steve C (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/11161/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Forfar District Tartan Tartan Number: 6238. Earliest known date: 01/03/2004 Designed by Arthur Mackie of The Strathmore Woollen Co. Ltd of Forfar which is the county town of Angus in Scotland. Historically Forfar has royal connections with King Malcolm II and III, Alexander II and III and King Robert the Bruce, all of whom favoured the town which resulted in Forfar being created as a Royal Burgh in the mid 12th century. The colours of the tartan are from the Coat of Arms displayed in the Council Chambers and the tartan has been approved by the town's Community Council. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBWYWBBBRBBBWYWBY](/stripes/bybwywbbbrbbbwywby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba3ya1ba23w20lt1w4b22ba4b4r1/)
+(the same proportion at any scale), whose colour order is pattern [BYBWYWBBBRBBBWYWBY](/stripes/bybwywbbbrbbbwywby/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6238
 

@@ -2,18 +2,20 @@
 title: "Kinnaird"
 date: 2023-03-18
 ---
-In pattern [KRKRKBRBKRKRKR](/stripes/krkrkbrbkrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n33k4n4k5n4k7db41r4/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKBRBKRKRKR](/stripes/krkrkbrbkrkrkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/08/1996 — Kinnaird (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991))
-- undated — Kinnaird Family Tartan Tartan Number: 2242. Earliest known date: March 1996 For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (Feb 2005). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2242))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/08/1996 — Kinnaird (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1991">record</a>)</li>
+<li>undated — Kinnaird Family Tartan Tartan Number: 2242. Earliest known date: March 1996 For the Kinnaird Worldwide Association - http://www.kinnaird.net. From the Kinnaird website it would seem that anyone is free to weave this tartan (Feb 2005). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2242">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

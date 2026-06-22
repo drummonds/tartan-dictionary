@@ -2,9 +2,10 @@
 title: "Redgate Hunting #2 (Name)"
 date: 2023-03-18
 ---
-In pattern [GKBWBKGKGKRGRKG](/stripes/gkbwbkgkgkrgrkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t5k2b6lr1b6k2t7k16g7k2dr4g2dr4k2g4/)
+(the same proportion at any scale), whose colour order is pattern [GKBWBKGKGKRGRKG](/stripes/gkbwbkgkgkrgrkg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10794/
 

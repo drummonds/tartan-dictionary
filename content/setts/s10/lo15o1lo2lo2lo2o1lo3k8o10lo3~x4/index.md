@@ -2,9 +2,10 @@
 title: "Annan Trade Tartan Tartan Number: 1742. Earliest known date: 1988 This sett appears in Paton's collection which is housed at the Scottish Tartans Museum, Comrie in Perthshire, Scotland. The samples are undated but the collection is known to have been put together around the 1830's, with some additions during the Victorian period. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YRKYRYYYRY](/stripes/yrkyryyyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt15n1lt2o2lt2n1lt3k8n10lt3/)
+(the same proportion at any scale), whose colour order is pattern [YRKYRYYYRY](/stripes/yrkyryyyry/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1742
 

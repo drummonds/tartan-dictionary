@@ -2,9 +2,10 @@
 title: "Irving of Bonshaw Tower (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGBGBY](/stripes/rgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2g3db2g14db14n2/)
+(the same proportion at any scale), whose colour order is pattern [RGBGBY](/stripes/rgbgby/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Irving of Bonshaw Tower Personal
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1992 — Irving of Bonshaw Tower (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860))
-- 1993 — Irving of Bonshaw Tower (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2490/))
-- undated — Irving of Bonshaw Tower Personal Tartan Tartan Number: 2490. Earliest known date: 1993 April 1993. Designed by Dr. J. Bruce Irving -- a colour variation of Irvine (733) - and regarded as a Personal tartan, not to be confused with the Clan/Family tartan 'Irving of Bonshaw' (2609) which predates this. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2490))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1992 — Irving of Bonshaw Tower (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1860">record</a>)</li>
+<li>1993 — Irving of Bonshaw Tower (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2490/">record</a>)</li>
+<li>undated — Irving of Bonshaw Tower Personal Tartan Tartan Number: 2490. Earliest known date: 1993 April 1993. Designed by Dr. J. Bruce Irving -- a colour variation of Irvine (733) - and regarded as a Personal tartan, not to be confused with the Clan/Family tartan 'Irving of Bonshaw' (2609) which predates this. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2490">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

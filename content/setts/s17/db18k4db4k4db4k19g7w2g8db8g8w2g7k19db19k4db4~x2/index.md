@@ -2,18 +2,20 @@
 title: "Arbuthnott"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b18k4b4k4b4k19g7ln2g8b8g8ln2g7k19b19k4b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGBGWGKBKB](/stripes/bkbkbkgwgbgwgkbkb/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Arbuthnott (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Arbuthnott Clan Tartan Tartan Number: 204. Earliest known date: pre 2003 B2 K2 B10 K8 G4 W2 G4 B4 G4 W2 G4 K8 B2 K2 B2 K2 B8 This is the count registered with Lord Lyon in 1962. The pattern has been reduced in proportion. It is based on the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=204))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Arbuthnott (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Arbuthnott Clan Tartan Tartan Number: 204. Earliest known date: pre 2003 B2 K2 B10 K8 G4 W2 G4 B4 G4 W2 G4 K8 B2 K2 B2 K2 B8 This is the count registered with Lord Lyon in 1962. The pattern has been reduced in proportion. It is based on the Black Watch. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=204">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/36 K8 B8 K8 B8 K38 G14 LN4 G16 B16 G16 LN4 G14 K38 B38 K8 B/8

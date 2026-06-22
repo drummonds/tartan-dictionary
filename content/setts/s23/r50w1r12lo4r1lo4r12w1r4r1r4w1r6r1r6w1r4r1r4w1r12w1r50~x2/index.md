@@ -2,18 +2,20 @@
 title: "Glenorchy, Lord (Portrait)"
 date: 2023-03-18
 ---
-In pattern [RWRWRRRWRRRWRRRWRYRYRWR](/stripes/rwrwrrrwrrrwrrrwryryrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r50w1dr12o4dr1o4dr12w1r4dr1r4w1dr6r1dr6w1r4dr1r4w1dr12w1r50/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRRRWRRRWRRRWRYRYRWR](/stripes/rwrwrrrwrrrwrrrwryryrwr/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7061/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1720 — Glenorchy, Lord (Portrait) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7061/))
-- 01/01/2006 — Glenorchy, Lord (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1435))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1720 — Glenorchy, Lord (Portrait) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7061/">record</a>)</li>
+<li>01/01/2006 — Glenorchy, Lord (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1435">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

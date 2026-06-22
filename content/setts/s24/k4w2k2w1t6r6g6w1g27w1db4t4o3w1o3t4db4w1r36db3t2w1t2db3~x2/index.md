@@ -2,9 +2,10 @@
 title: "Ross, Wedding dress"
 date: 2023-03-18
 ---
-In pattern [BBWBBRWBBRWRBBWGWGRBWKWK](/stripes/bbwbbrwbbrwrbbwgwgrbwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln2k2ln1ba6r6g6ln1g27ln1b4ba4lt3ln1lt3ba4b4ln1r36b3ba2ln1ba2b3/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBRWBBRWRBBWGWGRBWKWK](/stripes/bbwbbrwbbrwrbbwgwgrbwkwk/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

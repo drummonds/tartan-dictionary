@@ -2,9 +2,10 @@
 title: "Couper of Gogar (Clan)"
 date: 2023-03-18
 ---
-In pattern [RBWBKBGWBWKBGBGBWR](/stripes/rbwbkbgwbwkbgbgbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2lp4db2g24db4g2db4k10lp4db2lp4g8db1k2db22lp4db2r2/)
+(the same proportion at any scale), whose colour order is pattern [RBWBKBGWBWKBGBGBWR](/stripes/rbwbkbgwbwkbgbgbwr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/74/
 

@@ -2,9 +2,10 @@
 title: "IRPA"
 date: 2023-03-18
 ---
-In pattern [RBRBKRKBRBW](/stripes/rbrbkrkbrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6n2r2n23k2r4k2b21r2b2w6/)
+(the same proportion at any scale), whose colour order is pattern [RBRBKRKBRBW](/stripes/rbrbkrkbrbw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10602
 

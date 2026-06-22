@@ -2,9 +2,10 @@
 title: "Brodie Dress"
 date: 2023-03-18
 ---
-In pattern [KRKYKR](/stripes/krkykr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r16k8y1k8r2/)
+(the same proportion at any scale), whose colour order is pattern [KRKYKR](/stripes/krkykr/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Brodie
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Brodie Dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Brodie Dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Brodie Dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/2 R16 K8 Y1 K8 R/2

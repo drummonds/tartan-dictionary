@@ -2,9 +2,10 @@
 title: "Duchess of York"
 date: 2023-03-18
 ---
-In pattern [BRGRKRGRW](/stripes/brgrkrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b1t9g5t1k5t1g5t9ln1/)
+(the same proportion at any scale), whose colour order is pattern [BRGRKRGRW](/stripes/brgrkrgrw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

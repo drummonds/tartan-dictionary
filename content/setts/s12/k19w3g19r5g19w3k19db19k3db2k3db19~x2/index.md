@@ -2,9 +2,10 @@
 title: "Fruin Colquhoun"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19ln3g19r5g19ln3k19db19k3db2k3db19/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWGRGWK](/stripes/bkbkbkwgrgwk/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1285
 

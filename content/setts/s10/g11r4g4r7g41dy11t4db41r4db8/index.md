@@ -2,9 +2,10 @@
 title: "Stewart of Appin Hunting Clan Tartan Tartan Number: 430. Earliest known date: 1930-50 There is extensive correspondence about the use of the terms 'ancient' and 'hunting' in relation to this sett in the Stewart files at the Scottish Tartan Society. The use of brown makes this sett proportionately similar to the count recorded by James Scarlett as early nineteenth century. He says that the brown was probably black originally. (No. 417, The Highland Textile, 1990) See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11r4g4r7g41t11b4db41r4db8/)
+(the same proportion at any scale), whose colour order is pattern [BRBBGGRGRG](/stripes/brbbggrgrg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=430
 

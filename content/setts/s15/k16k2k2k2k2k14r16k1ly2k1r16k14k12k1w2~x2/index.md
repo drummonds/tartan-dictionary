@@ -2,9 +2,10 @@
 title: "Bogle (2015)"
 date: 2023-03-18
 ---
-In pattern [KKKKKKRKYKRKKKW](/stripes/kkkkkkrkykrkkkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n16k2n2k2n2k14r16k1y2k1r16k14n12k1w2/)
+(the same proportion at any scale), whose colour order is pattern [KKKKKKRKYKRKKKW](/stripes/kkkkkkrkykrkkkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11349
 

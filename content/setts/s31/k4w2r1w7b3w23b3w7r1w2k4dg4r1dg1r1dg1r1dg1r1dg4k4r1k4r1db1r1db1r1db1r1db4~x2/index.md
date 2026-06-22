@@ -2,9 +2,10 @@
 title: "MacDonald Dress #3"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4ln2r1ln7ba3ln23ba3ln7r1ln2k4g4r1g1r1g1r1g1r1g4k4r1k4r1b1r1b1r1b1r1b4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRKRKGRGRGRGRGKWRWBWBWRWK](/stripes/brbrbrbrkrkgrgrgrgrgkwrwbwbwrwk/).
 
-This was sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from register-of-tartans.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2345
 

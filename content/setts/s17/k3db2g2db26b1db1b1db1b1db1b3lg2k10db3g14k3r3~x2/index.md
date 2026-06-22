@@ -2,18 +2,20 @@
 title: "St. Lawrence"
 date: 2023-03-18
 ---
-In pattern [KBGBBBBBBBBYKBGKR](/stripes/kbgbbbbbbbbykbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db2g2db26ba1db1ba1db1ba1db1ba3b2k10db3g14k3dr3/)
+(the same proportion at any scale), whose colour order is pattern [KBGBBBBBBBBYKBGKR](/stripes/kbgbbbbbbbbykbgkr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1963 — St. Lawrence (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897))
-- 1963 — St. Lawrence (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1030/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1963 — St. Lawrence (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3897">record</a>)</li>
+<li>1963 — St. Lawrence (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1030/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

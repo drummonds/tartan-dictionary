@@ -2,9 +2,10 @@
 title: "Loch Morar"
 date: 2023-03-18
 ---
-In pattern [RWRBW](/stripes/rwrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r38ln9r3dr9ln3/)
+(the same proportion at any scale), whose colour order is pattern [RWRBW](/stripes/rwrbw/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

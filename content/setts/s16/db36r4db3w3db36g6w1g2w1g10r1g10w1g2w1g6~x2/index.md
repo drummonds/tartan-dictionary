@@ -2,18 +2,20 @@
 title: "Fred Perry"
 date: 2023-03-18
 ---
-In pattern [BRBWBGWGWGRGWGWG](/stripes/brbwbgwgwgrgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db36r4db3w3db36g6w1g2w1g10r1g10w1g2w1g6/)
+(the same proportion at any scale), whose colour order is pattern [BRBWBGWGWGRGWGWG](/stripes/brbwbgwgwgrgwgwg/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 10/08/2013 — Fred Perry (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902))
-- 2013 — Fred Perry (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10902/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>10/08/2013 — Fred Perry (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10902">record</a>)</li>
+<li>2013 — Fred Perry (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10902/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

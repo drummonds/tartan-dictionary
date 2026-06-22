@@ -2,9 +2,10 @@
 title: "EthosEnergy"
 date: 2023-03-18
 ---
-In pattern [BWGKYKRWKWYW](/stripes/bwgkykrwkwyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10w1g10k40n8k40r10w1k10w1n10w1/)
+(the same proportion at any scale), whose colour order is pattern [BWGKYKRWKWYW](/stripes/bwgkykrwkwyw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11381
 

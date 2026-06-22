@@ -2,9 +2,10 @@
 title: "MacKenzie, dress"
 date: 2023-03-18
 ---
-In pattern [BKGKWKGKWBWBWBWBWKBR](/stripes/bkgkwkgkwbwbwbwbwkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b10k10g9k2ln2k2g9k10ln2b2ln14b2ln2b2ln14b2ln2k10b10r2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKWKGKWBWBWBWBWKBR](/stripes/bkgkwkgkwbwbwbwbwkbr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - MacKenzie Dress #4
 - MacKenzie, dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacKenzie, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacKenzie Dress Clan Tartan Tartan Number: 1981. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1981))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacKenzie, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacKenzie Dress Clan Tartan Tartan Number: 1981. Earliest known date: pre 2003 This sample comes from the MacGregor-Hastie collection which forms the basis of the cloth archive of the Scottish Tartans Society. Some of the samples, including this one, were unmarked. One can assume that the sample dates between 1930 and 1950. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1981">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/20 K20 G18 K4 LN4 K4 G18 K20 LN4 B4 LN28 B4 LN4 B4 LN28 B4 LN4 K20 B20 R/4

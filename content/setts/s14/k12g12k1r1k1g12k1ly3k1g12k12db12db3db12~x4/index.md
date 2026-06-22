@@ -2,9 +2,10 @@
 title: "Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBBKGKYKGKRKGK](/stripes/bbbkgkykgkrkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g12k1r1k1g12k1y3k1g12k12db12dba3db12/)
+(the same proportion at any scale), whose colour order is pattern [BBBKGKYKGKRKGK](/stripes/bbbkgkykgkrkgk/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1893
 

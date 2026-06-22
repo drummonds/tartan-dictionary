@@ -2,9 +2,10 @@
 title: "Lasting"
 date: 2023-03-18
 ---
-In pattern [WBWBWYWBWYWGWBWBWRWRBRW](/stripes/wbwbwywbwywgwbwbwrwrbrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2p7ln2b6ln2y4ln2p4ln2y4ln2g19ln2p7ln2p7ln2r19ln4r3b2r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWYWBWYWGWBWBWRWRBRW](/stripes/wbwbwywbwywgwbwbwrwrbrw/).
 
-This was sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from weddslist.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

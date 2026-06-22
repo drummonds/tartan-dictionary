@@ -2,9 +2,10 @@
 title: "Waggrall"
 date: 2023-03-18
 ---
-In pattern [RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR](/stripes/rwrrwbgwgbwgywbwygwggwggwgbwbgwrrwrwrrwgbwbgwggywyggwrrwrwrrwggywyggwgbwbgwrrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra11w1r4w1ra11r2w1lg2dp6w1dp6lg2w2dg6g2y2w1y2g2dg6w2r2ra11w1r4w1ra11r2w2dg6g2y2w1y2g2dg6w2lg2dp6w1dp6lg2w1r2ra11w1r4w1ra11r2w2lg2dp6w1dp6lg2w2dg10g4w2g4dg10w2g4y4w1dp5w1y4g4w2dp11lg4w2lg4dp11w2r2ra11w1r4/)
+(the same proportion at any scale), whose colour order is pattern [RWRRWBGWGBWGYWBWYGWGGWGGWGBWBGWRRWRWRRWGBWBGWGGYWYGGWRRWRWRRWGGYWYGGWGBWBGWRRWRWR](/stripes/rwrrwbgwgbwgywbwygwggwggwgbwbgwrrwrwrrwgbwbgwggywyggwrrwrwrrwggywyggwgbwbgwrrwrwr/).
 
-This was sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
+Sourced from register-of-tartans.  It is a [81 stripe tartan](/stripes/stripes81/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4474
 

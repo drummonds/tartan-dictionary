@@ -2,9 +2,10 @@
 title: "MacColl, hunting"
 date: 2023-03-18
 ---
-In pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6dr3r6b22r7dr2ln1r2b2r2ln1dr2r7g22r7g2r2dr2/)
+(the same proportion at any scale), whose colour order is pattern [RRGRGRRWRBRWRRBRRR](/stripes/rrgrgrrwrbrwrrbrrr/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

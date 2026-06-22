@@ -2,9 +2,10 @@
 title: "Lochnagar Trade Tartan Tartan Number: 1771. Earliest known date: pre 2003 Colours represents the Scottish hills, the water, and the heather. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WBWRWW](/stripes/wbwrww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln1p1na7n4na1ln1/)
+(the same proportion at any scale), whose colour order is pattern [WBWRWW](/stripes/wbwrww/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1771
 

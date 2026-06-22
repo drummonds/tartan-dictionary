@@ -2,9 +2,10 @@
 title: "Bell of Ardbel (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBRBGBGWG](/stripes/brbrbgbgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr7dra4dr4dra25p1g32p4g2w2g5/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBGBGWG](/stripes/brbrbgbgwg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=242
 

@@ -2,9 +2,10 @@
 title: "Wimbledon"
 date: 2023-03-18
 ---
-In pattern [BYBWG](/stripes/bybwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g30w8db32y1db8/)
+(the same proportion at any scale), whose colour order is pattern [BYBWG](/stripes/bybwg/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3714
 

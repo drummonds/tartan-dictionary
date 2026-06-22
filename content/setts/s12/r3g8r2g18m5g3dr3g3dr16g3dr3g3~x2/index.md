@@ -2,9 +2,10 @@
 title: "Dublin"
 date: 2023-03-18
 ---
-In pattern [GBGBGBGRGRGR](/stripes/gbgbgbgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g8r2g18dr5g3dra3g3dra16g3dra3g3/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGBGRGRGR](/stripes/gbgbgbgrgrgr/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

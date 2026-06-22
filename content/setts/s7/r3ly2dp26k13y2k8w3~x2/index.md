@@ -2,9 +2,10 @@
 title: "Curnow of Kernow (Personal)"
 date: 2023-03-18
 ---
-In pattern [RYBKGKW](/stripes/rybkgkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3y2dp26k13lg2k8ln3/)
+(the same proportion at any scale), whose colour order is pattern [RYBKGKW](/stripes/rybkgkw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4084/
 

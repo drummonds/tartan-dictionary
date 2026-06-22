@@ -2,9 +2,10 @@
 title: "Welly (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBGBWRGWRGRRBBRGW](/stripes/brbgbwrgwrgrrbbrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n1lp1n1b1n1w1lp1b1w1lp1b1r1lp1n1na1lp1b1w1/)
+(the same proportion at any scale), whose colour order is pattern [BRBGBWRGWRGRRBBRGW](/stripes/brbgbwrgwrgrrbbrgw/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10413
 

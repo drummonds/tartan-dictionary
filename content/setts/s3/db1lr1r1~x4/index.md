@@ -2,9 +2,10 @@
 title: "Usa"
 date: 2023-03-18
 ---
-In pattern [BYR](/stripes/byr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1n1db1/)
+(the same proportion at any scale), whose colour order is pattern [BYR](/stripes/byr/).
 
-This was sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
+Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x
 

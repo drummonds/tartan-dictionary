@@ -2,18 +2,20 @@
 title: "Royal Scottish Corporation"
 date: 2023-03-18
 ---
-In pattern [WRBBBBRBY](/stripes/wrbbbbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db3r3db28dbb3db3dbb12r3ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRBBBBRBY](/stripes/wrbbbbrby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3609
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/06/2005 — Royal Scottish Corporation (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3609))
-- 2005, June — Royal Scottish Corporation (Corp) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6907/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/06/2005 — Royal Scottish Corporation (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3609">record</a>)</li>
+<li>2005, June — Royal Scottish Corporation (Corp) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6907/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

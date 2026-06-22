@@ -2,9 +2,10 @@
 title: "MacKean Hunting"
 date: 2023-03-18
 ---
-In pattern [GRGKGKGKGKGKBKW](/stripes/grgkgkgkgkgkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2k1db8k4g4k2g2k2g4k16g2k16g2dr4g2/)
+(the same proportion at any scale), whose colour order is pattern [GRGKGKGKGKGKBKW](/stripes/grgkgkgkgkgkbkw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2510
 

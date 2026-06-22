@@ -2,9 +2,10 @@
 title: "MacGregor-Ryan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWGYBW](/stripes/bwgybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr62k13lt17t13w40b20/)
+(the same proportion at any scale), whose colour order is pattern [BWGYBW](/stripes/bwgybw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11030
 

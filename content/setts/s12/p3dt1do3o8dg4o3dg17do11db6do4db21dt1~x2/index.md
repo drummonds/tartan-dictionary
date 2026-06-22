@@ -2,18 +2,20 @@
 title: "Doane"
 date: 2023-03-18
 ---
-In pattern [BBBBBGRGRBBB](/stripes/bbbbbgrgrbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p3k1n3dr8dg4dr3dg17n11db6n4db21k1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBGRGRBBB](/stripes/bbbbbgrgrbbb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2006 — Doane (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940))
-- 2006 September — Doane (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7011/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2006 — Doane (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=940">record</a>)</li>
+<li>2006 September — Doane (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7011/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

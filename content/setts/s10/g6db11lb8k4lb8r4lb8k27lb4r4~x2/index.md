@@ -2,9 +2,10 @@
 title: "Kervegant, Suzanne (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBWKWRWKWR](/stripes/gbwkwrwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6db11n8k4n8r4n8k27n4r4/)
+(the same proportion at any scale), whose colour order is pattern [GBWKWRWKWR](/stripes/gbwkwrwkwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11269
 

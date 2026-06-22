@@ -2,9 +2,10 @@
 title: "Ritch"
 date: 2023-03-18
 ---
-In pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2r3ln2r20ln2b6ln2p10ln2p10ln2b6ln2ga10g4ln2g4ga10n2r14ln2r14n2ga3ln2ga2y2ga2ln2b4ln2b4ln2ga2y2ga2ln2ga3ln2r14ln2r14ln2p10b2ln2y4ln2g4ln2y4ln2b2p10ln2r20ln2b6ln2r14ln1/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRWBWBWBWBWGGWGGYRWRYGWGYGWBWBWGYGWGWRWRWBBWYWGWYWBBWRWBWRW](/stripes/rwrwrwbwbwbwbwggwggyrwrygwgygwbwbwgygwgwrwrwbbwywgwywbbwrwbwrw/).
 
-This was sourced from weddslist.  It is a [62 stripe tartan](/stripes/stripes62/).
+Sourced from weddslist.  It is a [62 stripe tartan](/stripes/stripes62/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

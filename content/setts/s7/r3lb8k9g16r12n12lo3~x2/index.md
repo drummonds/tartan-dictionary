@@ -2,9 +2,10 @@
 title: "Alabama (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RWKGRBY](/stripes/rwkgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy3n12r12g16k9na8r3/)
+(the same proportion at any scale), whose colour order is pattern [RWKGRBY](/stripes/rwkgrby/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3033/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Alabama Fancy
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- pre 2002 — Alabama (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3033/))
-- undated — Alabama Fancy Tartan Tartan Number: 3033. Earliest known date: 2002 No details known possibly a fashion tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3033))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Alabama (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3033/">record</a>)</li>
+<li>undated — Alabama Fancy Tartan Tartan Number: 3033. Earliest known date: 2002 No details known possibly a fashion tartan. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3033">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DY/6 N24 R24 G32 K18 Na16 R/6

@@ -2,9 +2,10 @@
 title: "Essex, County Ontario"
 date: 2023-03-18
 ---
-In pattern [WRBGGGKRKY](/stripes/wrbgggkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y30k1r4k1g3ga5dg4b6r2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRBGGGKRKY](/stripes/wrbgggkrky/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Essex, County Ontario
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Essex, County Ontario (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Essex County Ontario District Tartan Tartan Number: 1840. Earliest known date: 1985 The Essex County district tartan was designed by Mrs Edyth Baker of Leamington, Ontario, Canada in 1983. She used colours representing the various industries of the region; agriculture, salt mining, car building anf fishing. Azure blue symbolizes the sky and the water. The tartan was formally adopted by the Corporation of the County of Essex in 1984, and approved by the Leamington Council. The tartan is accredited by the Scottish Tartans Society. (STS archive) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1840))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Essex, County Ontario (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Essex County Ontario District Tartan Tartan Number: 1840. Earliest known date: 1985 The Essex County district tartan was designed by Mrs Edyth Baker of Leamington, Ontario, Canada in 1983. She used colours representing the various industries of the region; agriculture, salt mining, car building anf fishing. Azure blue symbolizes the sky and the water. The tartan was formally adopted by the Corporation of the County of Essex in 1984, and approved by the Leamington Council. The tartan is accredited by the Scottish Tartans Society. (STS archive) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1840">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/60 K2 R8 K2 G6 Ga10 DG8 B12 R4 LN/4

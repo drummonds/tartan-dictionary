@@ -2,18 +2,20 @@
 title: "Caithelyn (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p20k2ln2k2p2k10g3k2g20k2g3k10p8k2/)
+(the same proportion at any scale), whose colour order is pattern [BKWKBKGKGKGKBK](/stripes/bkwkbkgkgkgkbk/).
 
-This was sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3252/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2002 — Caithelyn (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3252/))
-- undated — Caithelyn (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2002 — Caithelyn (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3252/">record</a>)</li>
+<li>undated — Caithelyn (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5156">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

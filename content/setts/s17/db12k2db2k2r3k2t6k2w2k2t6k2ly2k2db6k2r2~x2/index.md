@@ -2,19 +2,21 @@
 title: "Kilburnie (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BKBKRKBKWKBKYKBKR](/stripes/bkbkrkbkwkbkykbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12k2db2k2r3k2b6k2ln2k2b6k2y2k2db6k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRKBKWKBKYKBKR](/stripes/bkbkrkbkwkbkykbkr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/284/
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 2002 — Kilburnie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/284/))
-- undated — Kilburnie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Kilburnie Trade Tartan Tartan Number: 284. Earliest known date: 1985 No count given. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=284))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 2002 — Kilburnie (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/284/">record</a>)</li>
+<li>undated — Kilburnie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Kilburnie Trade Tartan Tartan Number: 284. Earliest known date: 1985 No count given. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=284">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/24 K4 DB4 K4 R6 K4 B12 K4 LN4 K4 B12 K4 Y4 K4 DB12 K4 R/4

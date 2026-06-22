@@ -2,9 +2,10 @@
 title: "Hueg (Bavaria) Hunting (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGBGBGKKKG](/stripes/bgbgbgkkkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n17k5n5k17n4k17ka2t2ka2k5/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGKKKG](/stripes/bgbgbgkkkg/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10524
 

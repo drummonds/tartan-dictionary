@@ -2,9 +2,10 @@
 title: "Bute Heather, Glencallum (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y13dba2g38db13g8db8g17db2g17db4ln11/)
+(the same proportion at any scale), whose colour order is pattern [WBGBGBGBGBY](/stripes/wbgbgbgbgby/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8131/
 

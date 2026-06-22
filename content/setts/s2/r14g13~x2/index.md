@@ -2,9 +2,10 @@
 title: "Moncreiffe (MacLachlan) Clan Tartan Tartan Number: 963. Earliest known date: 1819 Sir Iain Moncreiffe of that Ilk, acquired the MacLachlan old sett for the clan when he became Chief in 1957. Micheil MacDonald writes in his book, 'The Clans of Scotland', \"As a result of a long association with Clan Murray, the Moncreiffes traditionally wore the Atholl tartan. But Sir Iain... arranged that Madam MacLachlan of MacLachlan assign to him a 'primitive' pattern of red and green squares which, though no longer favoured by Clan MacLachlan, Sir Iain felt was appropriate to the long history of the Moncreiffes 'before tartan became fashionable in its present form'. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GR](/stripes/gr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r14g13/)
+(the same proportion at any scale), whose colour order is pattern [GR](/stripes/gr/).
 
-This was sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
+Sourced from house-of-tartan.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=963
 

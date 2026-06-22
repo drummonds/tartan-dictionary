@@ -2,9 +2,10 @@
 title: "Lamquet (2015)"
 date: 2023-03-18
 ---
-In pattern [BKGBGBGBGBGBYKBKYKBKRK](/stripes/bkgbgbgbgbgbykbkykbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db16k16g2db2g2db2g16db2g2db2g2db16y8k2db2k2y8k16db16k2r5k2/)
+(the same proportion at any scale), whose colour order is pattern [BKGBGBGBGBGBYKBKYKBKRK](/stripes/bkgbgbgbgbgbykbkykbkrk/).
 
-This was sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from tartans-authority.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11217/
 

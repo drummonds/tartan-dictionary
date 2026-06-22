@@ -2,9 +2,10 @@
 title: "Kiltwalk"
 date: 2023-03-18
 ---
-In pattern [WWBRBRBRBRBRWY](/stripes/wwbrbrbrbrbrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y8lb8r8b2r3b2r3b3r2b3r2b52lb2w8/)
+(the same proportion at any scale), whose colour order is pattern [WWBRBRBRBRBRWY](/stripes/wwbrbrbrbrbrwy/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11418
 

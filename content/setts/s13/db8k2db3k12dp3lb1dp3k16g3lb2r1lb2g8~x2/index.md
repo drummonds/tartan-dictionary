@@ -2,9 +2,10 @@
 title: "MacKusick (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBWBKGWRWG](/stripes/bkbkbwbkgwrwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k2db3k12p3n1p3k16g3n2dr1n2g8/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBWBKGWRWG](/stripes/bkbkbwbkgwrwg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2143/
 

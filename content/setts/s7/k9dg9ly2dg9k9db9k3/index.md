@@ -2,9 +2,10 @@
 title: "Campbell Breadalbane"
 date: 2023-03-18
 ---
-In pattern [KBKGYGK](/stripes/kbkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9g9y2g9k9db9k3/)
+(the same proportion at any scale), whose colour order is pattern [KBKGYGK](/stripes/kbkgygk/).
 
-This was sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Campbell of Breadalbane
 - Campbell of Breadalbane #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Campbell Breadalbane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb))
-- undated — Campbell of Breadalbane (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Campbell Breadalbane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb">record</a>)</li>
+<li>undated — Campbell of Breadalbane (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/9 G9 Y2 G9 K9 DB9 K/3

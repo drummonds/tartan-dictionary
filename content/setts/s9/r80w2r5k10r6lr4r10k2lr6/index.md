@@ -2,9 +2,10 @@
 title: "Hampden-Sydney College"
 date: 2023-03-18
 ---
-In pattern [RWRKRYRKY](/stripes/rwrkryrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr80w2dr5k10dr6n4dr10k2n6/)
+(the same proportion at any scale), whose colour order is pattern [RWRKRYRKY](/stripes/rwrkryrky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10868
 

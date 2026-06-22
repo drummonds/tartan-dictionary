@@ -2,9 +2,10 @@
 title: "Wells (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRKGKGGGGKBKYKBKYKBKGGGGKGKR](/stripes/krkgkggggkbkykbkykbkggggkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k4y3k4db14k4g4gb6g3gb10k10gb9k3r3k4/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKGGGGKBKYKBKYKBKGGGGKGKR](/stripes/krkgkggggkbkykbkykbkggggkgkr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4592
 

@@ -2,9 +2,10 @@
 title: "Glenmore Green Fashion Tartan Tartan Number: 5041. Earliest known date: pre 1988 A Royal Stewart colour variation produced by many weaving mills See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [WGRGWGGYGYW](/stripes/wgrgwggygyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly38na10r2na3ly2na3g8n3na2n3ly2/)
+(the same proportion at any scale), whose colour order is pattern [WGRGWGGYGYW](/stripes/wgrgwggygyw/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5041
 

@@ -2,9 +2,10 @@
 title: "Erskine Purple (Dance) Fashion Tartan Tartan Number: 6534. Earliest known date: 01/01/1980 A dancers' tartan now woven by D C Dalgliesh of Selkirk. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BWBWBW](/stripes/bwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p6ln2p29ln29p2ln6/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBW](/stripes/bwbwbw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6534
 

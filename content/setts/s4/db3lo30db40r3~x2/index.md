@@ -2,9 +2,10 @@
 title: "Sanix Large Muted"
 date: 2023-03-18
 ---
-In pattern [BYBR](/stripes/bybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3b40o30b3/)
+(the same proportion at any scale), whose colour order is pattern [BYBR](/stripes/bybr/).
 
-This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

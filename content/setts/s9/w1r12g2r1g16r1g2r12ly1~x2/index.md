@@ -2,9 +2,10 @@
 title: "MacPhee, MacFie"
 date: 2023-03-18
 ---
-In pattern [WRGRGRGRY](/stripes/wrgrgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1r12g2r1g16r1g2r12ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRGRGRGRY](/stripes/wrgrgrgry/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacPhee, MacFie
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacPhee, MacFie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacPhee MacFie Clan Tartan Tartan Number: 1847. Earliest known date: 1906 Registered by Lord Lyon on August 29th, 1991 and approved by the Chief. The chief also approved a black and white MacPhee after consultation with the Scottish Tartans Society. MacPhees, MacFie, or MacDuffie held lands on the Isle of Colonsay until the mid seventeenth century but were later scattered by the Clearances. They were the hereditary Keeper of the Records to the Lords of the Isles. The present chief, Sandy MacFie, lives in Queensland, Australia. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1847))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacPhee, MacFie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacPhee MacFie Clan Tartan Tartan Number: 1847. Earliest known date: 1906 Registered by Lord Lyon on August 29th, 1991 and approved by the Chief. The chief also approved a black and white MacPhee after consultation with the Scottish Tartans Society. MacPhees, MacFie, or MacDuffie held lands on the Isle of Colonsay until the mid seventeenth century but were later scattered by the Clearances. They were the hereditary Keeper of the Records to the Lords of the Isles. The present chief, Sandy MacFie, lives in Queensland, Australia. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1847">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 Y/2 R24 G4 R2 G32 R2 G4 R24 LN/2

@@ -2,9 +2,10 @@
 title: "Nocken Blue Modern Tartan (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKWKY](/stripes/bkbkbkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k6w2k6db2k2db32k2n1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKWKY](/stripes/bkbkbkwky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Nocken Blue
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 30/11/2012 — Nocken Blue Modern Tartan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745))
-- undated — Nocken Blue Name Tartan Tartan Number: 10745. Earliest known date: 30/11/2012 Designed by Peter Nocken and Jessica Brosch for family members to share their love of all things Scottish and to preserve the memories of the wonderful times they have enjoyed in Scotland. The colours are the family's favourites, with blue representing the sea and sky; the two broad white stripes represent the two sons, and the light blue stripe in between them represents the daughter of the family; the thin white and black stripes in the centre of the large blue area represent the parents as origin and centre of the family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10745))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>30/11/2012 — Nocken Blue Modern Tartan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10745">record</a>)</li>
+<li>undated — Nocken Blue Name Tartan Tartan Number: 10745. Earliest known date: 30/11/2012 Designed by Peter Nocken and Jessica Brosch for family members to share their love of all things Scottish and to preserve the memories of the wonderful times they have enjoyed in Scotland. The colours are the family's favourites, with blue representing the sea and sky; the two broad white stripes represent the two sons, and the light blue stripe in between them represents the daughter of the family; the thin white and black stripes in the centre of the large blue area represent the parents as origin and centre of the family. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10745">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

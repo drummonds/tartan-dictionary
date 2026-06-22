@@ -2,9 +2,10 @@
 title: "(1) Abercrombie"
 date: 2023-03-18
 ---
-In pattern [BWBKYKYKY](/stripes/bwbkykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n27k4n4k4n4k14lp14w2lp27/)
+(the same proportion at any scale), whose colour order is pattern [BWBKYKYKY](/stripes/bwbkykyky/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 

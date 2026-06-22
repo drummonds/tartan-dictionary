@@ -2,9 +2,10 @@
 title: "MacCormick Festive"
 date: 2023-03-18
 ---
-In pattern [WBKBKBRBY](/stripes/wbkbkbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3db24r3db8k1b16k1db3ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBKBKBRBY](/stripes/wbkbkbrby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2325
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacCormick Festive?
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/09/2007 — MacCormick Festive (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2325))
-- September 2007 — MacCormick Festive? (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7295/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/09/2007 — MacCormick Festive (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2325">record</a>)</li>
+<li>September 2007 — MacCormick Festive? (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7295/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

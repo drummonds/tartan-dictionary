@@ -2,9 +2,10 @@
 title: "Perry Dress (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRWKY](/stripes/krwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k65dr27ln2k4y5/)
+(the same proportion at any scale), whose colour order is pattern [KRWKY](/stripes/krwky/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3321
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Perry, Ancient
 - Perry, dress
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1986 — Perry Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3321))
-- undated — Perry, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Perry, dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Perry Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3321">record</a>)</li>
+<li>undated — Perry, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Perry, dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

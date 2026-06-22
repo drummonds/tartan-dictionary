@@ -2,18 +2,20 @@
 title: "Puffin (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWKWGWGWR](/stripes/kwkwgwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4w1k1w9g1w1g1w1t4/)
+(the same proportion at any scale), whose colour order is pattern [KWKWGWGWR](/stripes/kwkwgwgwr/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/1997 — Puffin (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419))
-- 1997 — Puffin (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2374/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/1997 — Puffin (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3419">record</a>)</li>
+<li>1997 — Puffin (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2374/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

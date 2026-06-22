@@ -2,9 +2,10 @@
 title: "Sardar Chadha (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBGBGKGBGY](/stripes/gbgbgkgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg6g34db4g4k32g4db34g4db2g5/)
+(the same proportion at any scale), whose colour order is pattern [GBGBGKGBGY](/stripes/gbgbgkgbgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8455/
 

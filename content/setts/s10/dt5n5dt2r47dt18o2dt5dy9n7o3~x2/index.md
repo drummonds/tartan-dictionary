@@ -2,9 +2,10 @@
 title: "Rikaco Red"
 date: 2023-03-18
 ---
-In pattern [BBBRBRBGBR](/stripes/bbbrbrbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5n5k2dr47k18lt2k5t9n7lt3/)
+(the same proportion at any scale), whose colour order is pattern [BBBRBRBGBR](/stripes/bbbrbrbgbr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10224
 

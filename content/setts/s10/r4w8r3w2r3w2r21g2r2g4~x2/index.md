@@ -2,18 +2,20 @@
 title: "Queen Alexandra"
 date: 2023-03-18
 ---
-In pattern [GRGRWRWRWR](/stripes/grgrwrwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4ln8r3ln2r3ln2r21g2r2g4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRWRWRWR](/stripes/grgrwrwrwr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Queen Alexandra (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Queen Alexandra Tartan Tartan Number: 972. Earliest known date: pre 2003 The Scottish Tartans Society received a sample from A.C.Lumsden which is slightly different. (The black and the dark blue are almost indistinguishable). The colours of the tartan are taken from the Provincial Coat of Arms. The tartan is not registered with Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=972))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Queen Alexandra (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Queen Alexandra Tartan Tartan Number: 972. Earliest known date: pre 2003 The Scottish Tartans Society received a sample from A.C.Lumsden which is slightly different. (The black and the dark blue are almost indistinguishable). The colours of the tartan are taken from the Provincial Coat of Arms. The tartan is not registered with Lord Lyon. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=972">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/8 LN16 R6 LN4 R6 LN4 R42 G4 R4 G/8

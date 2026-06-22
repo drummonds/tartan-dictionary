@@ -2,18 +2,20 @@
 title: "Grand Lodge of Canada (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRK](/stripes/bkrkbkrbrkykrkbrkrkrbkrkykrbrkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b5k1r15k2b3k10r5db15r5k2y4k2r1k2db15r15k4r2/)
+(the same proportion at any scale), whose colour order is pattern [BKRKBKRBRKYKRKBRKRKRBKRKYKRBRKBKRK](/stripes/bkrkbkrbrkykrkbrkrkrbkrkykrbrkbkrk/).
 
-This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6353/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Grand Lodge of Canada (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6353/))
-- undated — Grand Lodge of Canada (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4892))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Grand Lodge of Canada (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6353/">record</a>)</li>
+<li>undated — Grand Lodge of Canada (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4892">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

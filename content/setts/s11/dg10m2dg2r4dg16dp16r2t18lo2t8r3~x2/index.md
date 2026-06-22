@@ -2,9 +2,10 @@
 title: "Commonwealth Games 1998"
 date: 2023-03-18
 ---
-In pattern [GRGRGBRBYBR](/stripes/grgrgbrbybr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg10ra2dg2r4dg16p16r2b18dy2b8r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBRBYBR](/stripes/grgrgbrbybr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Malay 98 / Commonwealth Games
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Commonwealth Games 1998 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722))
-- undated — Malay 98 / Commonwealth Games (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Commonwealth Games 1998 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=722">record</a>)</li>
+<li>undated — Malay 98 / Commonwealth Games (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4889">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

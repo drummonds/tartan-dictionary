@@ -2,9 +2,10 @@
 title: "Du Lion"
 date: 2023-03-18
 ---
-In pattern [GBGBYGYBYYKYKRKR](/stripes/gbgbygybyykykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8k8r3k1y15k3y3ya15db2ya2t10ya2db1t3db8t8/)
+(the same proportion at any scale), whose colour order is pattern [GBGBYGYBYYKYKRKR](/stripes/gbgbygybyykykrkr/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10905/
 

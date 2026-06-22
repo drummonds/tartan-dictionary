@@ -2,9 +2,10 @@
 title: "Invertere (Daks #1)"
 date: 2023-03-18
 ---
-In pattern [GYBYGYRYGYBYGR](/stripes/gybygyrygybygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg6lt2db2lt11dg2lt2r3lt2dg2lt11db2lt2dg6r3/)
+(the same proportion at any scale), whose colour order is pattern [GYBYGYRYGYBYGR](/stripes/gybygyrygybygr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1847
 

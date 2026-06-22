@@ -2,18 +2,20 @@
 title: "James of Glencarr (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGWRBGW](/stripes/brgwrbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8r8dg17ln3r35db10dg15ln3/)
+(the same proportion at any scale), whose colour order is pattern [BRGWRBGW](/stripes/brgwrbgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7542/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- February 2008 — James of Glencarr (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7542/))
-- undated — James of Glencarr (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5576))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>February 2008 — James of Glencarr (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7542/">record</a>)</li>
+<li>undated — James of Glencarr (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5576">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

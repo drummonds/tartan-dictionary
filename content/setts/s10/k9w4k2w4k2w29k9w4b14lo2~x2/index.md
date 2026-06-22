@@ -2,9 +2,10 @@
 title: "Hannay"
 date: 2023-03-18
 ---
-In pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k9w4k2w4k2w29k9w4b14dy2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKWKWBY](/stripes/kwkwkwkwby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1587
 

@@ -2,9 +2,10 @@
 title: "Blanton (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGBGBGKBKB](/stripes/bkbkbkgbgbgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k2b2k2b2k10ga5p3g2p3ga5k10b11k2b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGBGBGKBKB](/stripes/bkbkbkgbgbgkbkb/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4007/
 

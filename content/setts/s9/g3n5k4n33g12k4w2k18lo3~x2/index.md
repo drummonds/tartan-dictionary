@@ -2,9 +2,10 @@
 title: "Smoke Showing (UFES)"
 date: 2023-03-18
 ---
-In pattern [GBKBGKWKY](/stripes/gbkbgkwky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k18w2k4g12n33k4n5g3/)
+(the same proportion at any scale), whose colour order is pattern [GBKBGKWKY](/stripes/gbkbgkwky/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11227
 

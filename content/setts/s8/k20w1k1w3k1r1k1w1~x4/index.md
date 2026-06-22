@@ -2,9 +2,10 @@
 title: "Volkswagen Black Trim (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KWKWKRKW](/stripes/kwkwkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20ln1k1ln3k1r1k1ln1/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKRKW](/stripes/kwkwkrkw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7931/
 

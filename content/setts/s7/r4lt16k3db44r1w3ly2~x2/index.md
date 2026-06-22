@@ -2,18 +2,20 @@
 title: "Dress Blue"
 date: 2023-03-18
 ---
-In pattern [RWKBRWY](/stripes/rwkbrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4lb16k3db44r1w3y2/)
+(the same proportion at any scale), whose colour order is pattern [RWKBRWY](/stripes/rwkbrwy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10689
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 09/06/2012 — Dress Blue (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10689))
-- undated — Dress Blue Fashion Tartan Tartan Number: 10689. Earliest known date: 5 September 2012 This tartan is intended as an unofficial complementary alternative to the existing tartans worn by US Marines. The design should be recognisable to anyone who is familiar with the Dress Blue uniform. It may be worn by anyone who has served in the US Marine Corps, who has a family member who is, or was, a Marine, or who wishes to honour those who are, or have served as, Marines. The colours are presented in the tartan in the same ratios as they would appear in the uniform. The dark blue is from the uniform blouse, the light blue is from the trousers, the red is from the piping on the blouse and the 'blood stripe' down the trouser legs, the white is from the cover, waistbelt and gloves, the gold is from the brass buttons, waistplate and EGA, and the black is from the cover bill and the shoes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10689))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>09/06/2012 — Dress Blue (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10689">record</a>)</li>
+<li>undated — Dress Blue Fashion Tartan Tartan Number: 10689. Earliest known date: 5 September 2012 This tartan is intended as an unofficial complementary alternative to the existing tartans worn by US Marines. The design should be recognisable to anyone who is familiar with the Dress Blue uniform. It may be worn by anyone who has served in the US Marine Corps, who has a family member who is, or was, a Marine, or who wishes to honour those who are, or have served as, Marines. The colours are presented in the tartan in the same ratios as they would appear in the uniform. The dark blue is from the uniform blouse, the light blue is from the trousers, the red is from the piping on the blouse and the 'blood stripe' down the trouser legs, the white is from the cover, waistbelt and gloves, the gold is from the brass buttons, waistplate and EGA, and the black is from the cover bill and the shoes. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10689">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

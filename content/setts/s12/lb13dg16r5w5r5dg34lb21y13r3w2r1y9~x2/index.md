@@ -2,9 +2,10 @@
 title: "SYHA Hostelling Scotland"
 date: 2023-03-18
 ---
-In pattern [GRWRGWGRWRGW](/stripes/grwrgwgrwrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb13g16r5w5r5g34lb21ga13r3w2r1ga9/)
+(the same proportion at any scale), whose colour order is pattern [GRWRGWGRWRGW](/stripes/grwrgwgrwrgw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11596
 

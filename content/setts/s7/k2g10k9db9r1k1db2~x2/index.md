@@ -2,9 +2,10 @@
 title: "Reid and Taylor"
 date: 2023-03-18
 ---
-In pattern [BKRBKGK](/stripes/bkrbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g10k9db9r1k1db2/)
+(the same proportion at any scale), whose colour order is pattern [BKRBKGK](/stripes/bkrbkgk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Reid & Taylor
 - Reid Taylor, "House Check"
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1984 — Reid and Taylor (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493))
-- 1984 — Reid & Taylor (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/355/))
-- undated — Reid Taylor, "House Check" (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1984 — Reid and Taylor (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3493">record</a>)</li>
+<li>1984 — Reid & Taylor (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/355/">record</a>)</li>
+<li>undated — Reid Taylor, "House Check" (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

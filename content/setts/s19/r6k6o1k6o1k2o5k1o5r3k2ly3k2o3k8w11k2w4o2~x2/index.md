@@ -2,9 +2,10 @@
 title: "Douglas Ancient Dress (WCWM)"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRKRRKYKRKWKWR](/stripes/rkrkrkrkrrkykrkwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6k6n1k6n1k2n5k1n5r3k2y3k2n3k8ln11k2ln4n2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRKRRKYKRKWKWR](/stripes/rkrkrkrkrrkykrkwkwr/).
 
-This was sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
+Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=959
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Douglas Grey Dress
 - Douglas, Ancient dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Douglas Ancient Dress (WCWM) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=959))
-- undated — Douglas Grey Dress Clan Tartan Tartan Number: 1310. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1310))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Douglas Ancient Dress (WCWM) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=959">record</a>)</li>
+<li>undated — Douglas Grey Dress Clan Tartan Tartan Number: 1310. Earliest known date: pre 2003 Nothing See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1310">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

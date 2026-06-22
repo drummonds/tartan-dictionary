@@ -2,9 +2,10 @@
 title: "5th Royal Scots of Canada (Military)"
 date: 2023-03-18
 ---
-In pattern [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2/)
+(the same proportion at any scale), whose colour order is pattern [BKGKGKGKBKBKBKG](/stripes/bkgkgkgkbkbkbkg/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5892/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Lorne
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1871 — 5th Royal Scots of Canada (Military) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5892/))
-- 1871 — Lorne (Royal?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1871 — 5th Royal Scots of Canada (Military) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5892/">record</a>)</li>
+<li>1871 — Lorne (Royal?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/8 K4 G32 K4 G4 K4 G4 K32 DB4 K4 DB4 K4 DB32 K4 G/8

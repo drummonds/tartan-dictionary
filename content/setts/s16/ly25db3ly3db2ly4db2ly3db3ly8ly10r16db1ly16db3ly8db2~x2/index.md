@@ -2,9 +2,10 @@
 title: "Dundonald (Name)"
 date: 2023-03-18
 ---
-In pattern [BYBYBRYYBYBYBYBY](/stripes/bybybryybybybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y25dba3y3dba2y4dba2y3dba3y8y10r16dba1y16dba3y8db2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBRYYBYBYBYBY](/stripes/bybybryybybybyby/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7118/
 

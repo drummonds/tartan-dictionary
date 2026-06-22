@@ -2,9 +2,10 @@
 title: "Harkness Hunting #2"
 date: 2023-03-18
 ---
-In pattern [BWBGYGRGBGRGYGBWBG](/stripes/bwbgygrgbgrgygbwbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga10gb2ln2gb16ga6lt2ga4r2ga3gb6/)
+(the same proportion at any scale), whose colour order is pattern [BWBGYGRGBGRGYGBWBG](/stripes/bwbgygrgbgrgygbwbg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1598
 

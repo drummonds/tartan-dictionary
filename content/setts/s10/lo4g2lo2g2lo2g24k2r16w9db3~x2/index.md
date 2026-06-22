@@ -2,18 +2,20 @@
 title: "North West Territories"
 date: 2023-03-18
 ---
-In pattern [BWRKGYGYGY](/stripes/bwrkgygygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy4g2dy2g2dy2g24k2r16ln9db3/)
+(the same proportion at any scale), whose colour order is pattern [BWRKGYGYGY](/stripes/bwrkgygygy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3158
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1968 — North West Territories (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3158))
-- 1968/9 — North West Territories (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/662/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1968 — North West Territories (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3158">record</a>)</li>
+<li>1968/9 — North West Territories (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/662/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

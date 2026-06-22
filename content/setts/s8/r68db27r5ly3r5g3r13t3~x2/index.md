@@ -2,9 +2,10 @@
 title: "De Nardi #2 (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGRYRBR](/stripes/brgryrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r68db27r5y3r5g3r13b3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRYRBR](/stripes/brgryrbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5469
 

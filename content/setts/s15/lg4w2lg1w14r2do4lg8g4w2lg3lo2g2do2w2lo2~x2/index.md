@@ -2,9 +2,10 @@
 title: "Highlands of Haliburton Dress (Dist."
 date: 2023-03-18
 ---
-In pattern [YWBGYYWGYBRWYWY](/stripes/ywbgyywgybrwywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4ln2b1ln14r2dr4b8g4ln2b3dy2g2dr2ln2dy2/)
+(the same proportion at any scale), whose colour order is pattern [YWBGYYWGYBRWYWY](/stripes/ywbgyywgybrwywy/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10474/
 

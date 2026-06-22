@@ -2,9 +2,10 @@
 title: "Mazarian"
 date: 2023-03-18
 ---
-In pattern [KGWYBWKRWBKWY](/stripes/kgwybwkrwbkwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg6w4k3b14w3r34k34w4b3lg8w3g4k2/)
+(the same proportion at any scale), whose colour order is pattern [KGWYBWKRWBKWY](/stripes/kgwybwkrwbkwy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Nazarian
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2005 — Mazarian (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868))
-- pre 2005 — Nazarian (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6728/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2005 — Mazarian (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2868">record</a>)</li>
+<li>pre 2005 — Nazarian (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6728/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

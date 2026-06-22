@@ -2,9 +2,10 @@
 title: "Manitoba District Tartan Tartan Number: 146. Earliest known date: 1962 The tartan as it would appear with red in place of green, the 'G' of green having been interpreted as 'Gules'. The designer, Hugh Kirkwood Rankine, clearly intended a green stripe. This version can be found in the shops. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGBGRGRY](/stripes/bgbgrgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2r6g1ra2g12b1g1b2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGRGRY](/stripes/bgbgrgry/).
 
-This was sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from house-of-tartan.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=146
 

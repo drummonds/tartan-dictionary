@@ -2,9 +2,10 @@
 title: "Westminster College (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKYKKBKBKRBKBKBK](/stripes/bkykkbkbkrbkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2dbb2k2dbb21k2dba2r21k2dbb2k2db2k21k21n1k21db2/)
+(the same proportion at any scale), whose colour order is pattern [BKYKKBKBKRBKBKBK](/stripes/bkykkbkbkrbkbkbk/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3894/
 

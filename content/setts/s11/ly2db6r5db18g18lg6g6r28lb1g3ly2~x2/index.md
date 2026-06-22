@@ -2,18 +2,20 @@
 title: "Carr (Personal)"
 date: 2023-03-18
 ---
-In pattern [YBRBGYGRWGY](/stripes/ybrbgygrwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2db6dr5db18g18lg6g6dr28n1g3y2/)
+(the same proportion at any scale), whose colour order is pattern [YBRBGYGRWGY](/stripes/ybrbgygrwgy/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=574
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Carr (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=574))
-- pre 2002 — Carr (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4120/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Carr (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=574">record</a>)</li>
+<li>pre 2002 — Carr (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4120/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

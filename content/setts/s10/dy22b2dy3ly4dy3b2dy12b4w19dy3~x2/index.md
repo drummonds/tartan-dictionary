@@ -2,18 +2,20 @@
 title: "Burns Battalion (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GBGYGBGBWG](/stripes/gbgygbgbwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t22b2t3y4t3b2t12b4ly19t3/)
+(the same proportion at any scale), whose colour order is pattern [GBGYGBGBWG](/stripes/gbgygbgbwg/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3775/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1972 — Burns Battalion (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3775/))
-- undated — Burns Battalion (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5425))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1972 — Burns Battalion (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3775/">record</a>)</li>
+<li>undated — Burns Battalion (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5425">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

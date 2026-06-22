@@ -2,9 +2,10 @@
 title: "Highlands of Durham"
 date: 2023-03-18
 ---
-In pattern [BGWBRBWGBY](/stripes/bgwbrbwgby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k37g27w2k4r6k4w2g27k37y2/)
+(the same proportion at any scale), whose colour order is pattern [BGWBRBWGBY](/stripes/bgwbrbwgby/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1729
 

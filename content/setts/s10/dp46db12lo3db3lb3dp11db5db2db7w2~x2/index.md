@@ -2,9 +2,10 @@
 title: "Diamond Jubilee (Lochcarron) (Comm.)"
 date: 2023-03-18
 ---
-In pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p46dba12dy3dba3n3p11db5dba2db7ln2/)
+(the same proportion at any scale), whose colour order is pattern [BBYBWBBBBW](/stripes/bbybwbbbbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10551/
 

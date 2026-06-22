@@ -2,9 +2,10 @@
 title: "Duke of Edinburgh (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GRGRGKBKBKBKGBGBGKBKBKBKYWKWGRKRWR](/stripes/grgrgkbkbkbkgbgbgkbkbkbkywkwgrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g84r6g8r16g14k8db6k2db6k2db6k2g4b3g16b3g4k6db8k3db6k3db8k10y3ln3k3ln6g16r8k3r4ln4r4/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGKBKBKBKGBGBGKBKBKBKYWKWGRKRWR](/stripes/grgrgkbkbkbkgbgbgkbkbkbkywkwgrkrwr/).
 
-This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3983/
 

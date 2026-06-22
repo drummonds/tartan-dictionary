@@ -2,9 +2,10 @@
 title: "Lendrum (B&W)"
 date: 2023-03-18
 ---
-In pattern [KWKW](/stripes/kwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7w6k1/)
+(the same proportion at any scale), whose colour order is pattern [KWKW](/stripes/kwkw/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293
 
@@ -17,16 +18,17 @@ This cloth is also recorded under:
 - Wallace Dress
 - Wallace dress
 
-## Attestations
-
-This cloth appears in 6 source records; the oldest owns this page.
-
-- 01/01/1842 — Lendrum (B&W) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293))
-- 1842 — Wallace Dress (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1251/))
-- 1842 — MacFarlane B & W (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3051/))
-- 1842 — Lendrum (B&W) (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3086/))
-- undated — MacFarlane, Lendrum Black and White (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Wallace dress (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>6 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Lendrum (B&W) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5293">record</a>)</li>
+<li>1842 — Wallace Dress (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1251/">record</a>)</li>
+<li>1842 — MacFarlane B & W (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3051/">record</a>)</li>
+<li>1842 — Lendrum (B&W) (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3086/">record</a>)</li>
+<li>undated — MacFarlane, Lendrum Black and White (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Wallace dress (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

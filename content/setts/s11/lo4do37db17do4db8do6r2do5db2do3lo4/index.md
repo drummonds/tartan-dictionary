@@ -2,9 +2,10 @@
 title: "Griffiths Welsh Name Tartan Tartan Number: 5733. Earliest known date: 2002 The tartan for this Welsh surname and its variation, Griffith, is actually woven in Wales at the Cambrian Woollen Mill, weaving on the same site since 1830. This tartan differs from many traditional patterns in that the warp and weft differ, giving the finished worsted wool cloth more of a predominant stripe, vertically noticeable in the finished Kilt, or Cilt in Wales. Available from Wales Tartan Centres in Swansea See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [YBBBBBRBBBY](/stripes/ybbbbbrbbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt4dr37db17dr4db8dr6r2dr5db2dr3lt4/)
+(the same proportion at any scale), whose colour order is pattern [YBBBBBRBBBY](/stripes/ybbbbbrbbby/).
 
-This was sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from house-of-tartan.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5733
 

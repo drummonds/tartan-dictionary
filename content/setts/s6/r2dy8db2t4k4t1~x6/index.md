@@ -2,9 +2,10 @@
 title: "Thompson's Fancy Personal Tartan Tartan Number: 286. Earliest known date: pre 2003 Designed for his own use. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBBGR](/stripes/bkbbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2t8db2b4k4b1/)
+(the same proportion at any scale), whose colour order is pattern [BKBBGR](/stripes/bkbbgr/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=286
 

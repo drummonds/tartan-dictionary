@@ -2,9 +2,10 @@
 title: "Turnbull Dress, Bruce (Personal)"
 date: 2023-03-18
 ---
-In pattern [BGWBR](/stripes/bgwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10g4ln27db40r4/)
+(the same proportion at any scale), whose colour order is pattern [BGWBR](/stripes/bgwbr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7398/
 

@@ -2,9 +2,10 @@
 title: "Fraser, Arisaid"
 date: 2023-03-18
 ---
-In pattern [KWKBWBWKWK](/stripes/kwkbwbwkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14ln2db3ln2dr10ln32dr10db10ln2db3/)
+(the same proportion at any scale), whose colour order is pattern [KWKBWBWKWK](/stripes/kwkbwbwkwk/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

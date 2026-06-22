@@ -2,9 +2,10 @@
 title: "Coeur D'Alene Firefighters Richard Gaines Memorial"
 date: 2023-03-18
 ---
-In pattern [KWKRKWKWRKRKY](/stripes/kwkrkwkwrkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k61w1k1r2k1w1k16w1r4k2r6k1y4/)
+(the same proportion at any scale), whose colour order is pattern [KWKRKWKWRKRKY](/stripes/kwkrkwkwrkrky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10202
 

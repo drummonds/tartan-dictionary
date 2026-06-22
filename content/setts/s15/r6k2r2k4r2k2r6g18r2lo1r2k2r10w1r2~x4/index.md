@@ -2,9 +2,10 @@
 title: "Ainslie #2"
 date: 2023-03-18
 ---
-In pattern [RKRKRKRGRYRKRWR](/stripes/rkrkrkrgryrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6k2dr2k4dr2k2dr6g18dr2dy1dr2k2dr10w1dr2/)
+(the same proportion at any scale), whose colour order is pattern [RKRKRKRGRYRKRWR](/stripes/rkrkrkrgryrkrwr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=29
 

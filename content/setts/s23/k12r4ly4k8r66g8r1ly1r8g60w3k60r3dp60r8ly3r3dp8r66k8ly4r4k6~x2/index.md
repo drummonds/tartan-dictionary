@@ -2,9 +2,10 @@
 title: "Hay"
 date: 2023-03-18
 ---
-In pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12r4y4k8r66g8r1y1r8g60ln3k60r3p60r8y3r3p8r66k8y4r4k6/)
+(the same proportion at any scale), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRK](/stripes/krykrbryrbrkwgryrgrkyrk/).
 
-This was sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from logan-1831.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link /posts/logans-scottish-gael/
 

@@ -2,9 +2,10 @@
 title: "Glennie, The Rhythms of Evelyn"
 date: 2023-03-18
 ---
-In pattern [KBKRBKYKRKR](/stripes/kbkrbkykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r25k4r2k3y2k2db3r2k3db2k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBKYKRKR](/stripes/kbkrbkykrkr/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - Glennie, The Rhythms of Evelyn
 - Glennie, The Rhythms of Evelyn (Corp
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/11/1998 — Glennie, The Rhythms of Evelyn (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432))
-- Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2586/))
-- undated — The Rhythms of Evelyn Glennie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/1998 — Glennie, The Rhythms of Evelyn (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1432">record</a>)</li>
+<li>Nov. 1999 — Glennie, The Rhythms of Evelyn (Corp (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2586/">record</a>)</li>
+<li>undated — The Rhythms of Evelyn Glennie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

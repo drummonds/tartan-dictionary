@@ -2,9 +2,10 @@
 title: "Inverness Basque"
 date: 2023-03-18
 ---
-In pattern [RGKGW](/stripes/rgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r22g6k3g16w22/)
+(the same proportion at any scale), whose colour order is pattern [RGKGW](/stripes/rgkgw/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10067
 

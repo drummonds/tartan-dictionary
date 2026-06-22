@@ -2,18 +2,20 @@
 title: "Anderson"
 date: 2023-03-18
 ---
-In pattern [RBRKRBKYKYKYKRBRGRGR](/stripes/rbrkrbkykykykrbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg6dr2dg6dr3db4dr1k4lg1k1lg1k3n3k3b18dr1k2dr1b6dr3/)
+(the same proportion at any scale), whose colour order is pattern [RBRKRBKYKYKYKRBRGRGR](/stripes/rbrkrbkykykykrbrgrgr/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Anderson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Anderson (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Anderson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Anderson (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/8 DG12 DR4 DG12 DR6 DB8 DR2 K8 LG2 K2 LG2 K6 N6 K6 B36 DR2 K4 DR2 B12 DR/6

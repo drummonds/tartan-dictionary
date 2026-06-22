@@ -2,9 +2,10 @@
 title: "Austin"
 date: 2023-03-18
 ---
-In pattern [BKBGK](/stripes/bkbgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k4db4dg9k2/)
+(the same proportion at any scale), whose colour order is pattern [BKBGK](/stripes/bkbgk/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Keith and Austin
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — Keith and Austin (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — Keith and Austin (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DB/8 K8 DB8 DG18 K/4

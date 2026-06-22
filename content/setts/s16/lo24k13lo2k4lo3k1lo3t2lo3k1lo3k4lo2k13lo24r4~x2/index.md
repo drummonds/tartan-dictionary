@@ -2,9 +2,10 @@
 title: "Cardiff City Football Club"
 date: 2023-03-18
 ---
-In pattern [RYKYKYKYBYKYKYKY](/stripes/rykykykybykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt24k13lt2k4lt3k1lt3b2lt3k1lt3k4lt2k13lt24r4/)
+(the same proportion at any scale), whose colour order is pattern [RYKYKYKYBYKYKYKY](/stripes/rykykykybykykyky/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=560
 

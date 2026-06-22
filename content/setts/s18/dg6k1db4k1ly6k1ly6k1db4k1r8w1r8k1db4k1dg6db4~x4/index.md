@@ -2,9 +2,10 @@
 title: "Buchanan (Wilson)"
 date: 2023-03-18
 ---
-In pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6k1b4k1y6k1y6k1b4k1r8ln1r8k1b4k1g6b4/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKRWRKBKYKYKBKG](/stripes/bgkbkrwrkbkykykbkg/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=422
 

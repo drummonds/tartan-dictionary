@@ -2,9 +2,10 @@
 title: "Mission"
 date: 2023-03-18
 ---
-In pattern [KGYKGKBR](/stripes/kgykgkbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t2b14k1ga11k2lr2g2k1/)
+(the same proportion at any scale), whose colour order is pattern [KGYKGKBR](/stripes/kgykgkbr/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

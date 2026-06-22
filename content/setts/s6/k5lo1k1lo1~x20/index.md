@@ -2,9 +2,10 @@
 title: "Justus #2 (Personal)"
 date: 2023-03-18
 ---
-In pattern [KYKYKY](/stripes/kykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5dy1k1dy1/)
+(the same proportion at any scale), whose colour order is pattern [KYKYKY](/stripes/kykyky/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1917
 

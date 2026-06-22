@@ -2,9 +2,10 @@
 title: "Quebec, Centennial"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbkbkbkwbwkrbrbrbrbrbrbrbrkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b20k1b1k1b1k1b1k1b1k1b1k1b1k8ln8b16ln50k4r6b28r1b1r1b1r1b1r1b1r1b1r1b1r8k24ln12k4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKBKBKBKWBWKRBRBRBRBRBRBRBRKWK](/stripes/bkbkbkbkbkbkbkwbwkrbrbrbrbrbrbrbrkwk/).
 
-This was sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from weddslist.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

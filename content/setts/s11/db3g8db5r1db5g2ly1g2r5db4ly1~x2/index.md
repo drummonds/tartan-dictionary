@@ -2,9 +2,10 @@
 title: "Mariverain"
 date: 2023-03-18
 ---
-In pattern [BGBRBGYGRBY](/stripes/bgbrbgygrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3g8b5r1b5g2y1g2r5b4y1/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBGYGRBY](/stripes/bgbrbgygrby/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

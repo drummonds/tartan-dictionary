@@ -2,9 +2,10 @@
 title: "Adam Smith (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BKBKGYGKBKR](/stripes/bkbkgygkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2k1db8k7g8y2g8k7db8k1b2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGYGKBKR](/stripes/bkbkgygkbkr/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10290/
 

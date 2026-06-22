@@ -2,9 +2,10 @@
 title: "Hughes Interconnection Int."
 date: 2023-03-18
 ---
-In pattern [KGGBYBKWKBYBGGKR](/stripes/kggbybkwkbybggkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4k2b18y4b18t26g18k1p2/)
+(the same proportion at any scale), whose colour order is pattern [KGGBYBKWKBYBGGKR](/stripes/kggbybkwkbybggkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1781
 

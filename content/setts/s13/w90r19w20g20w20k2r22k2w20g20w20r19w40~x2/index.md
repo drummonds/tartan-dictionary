@@ -2,9 +2,10 @@
 title: "Border Sett"
 date: 2023-03-18
 ---
-In pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln90r19ln20g20ln20k2r22k2ln20g20ln20r19ln40/)
+(the same proportion at any scale), whose colour order is pattern [WRWGWKRKWGWRW](/stripes/wrwgwkrkwgwrw/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

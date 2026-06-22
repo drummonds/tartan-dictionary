@@ -2,9 +2,10 @@
 title: "Gwyn of Wales"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKBKWKBKRKRKRKW](/stripes/krkrkrkbkwkbkrkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3dr30k2dr4k2dr30k3db30k35ln2k35db30k3dr30k2dr4k2dr30k3ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKBKWKBKRKRKRKW](/stripes/krkrkrkbkwkbkrkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1563
 

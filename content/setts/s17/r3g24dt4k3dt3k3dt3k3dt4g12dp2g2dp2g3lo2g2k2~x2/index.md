@@ -2,9 +2,10 @@
 title: "Kennedy (Clan)"
 date: 2023-03-18
 ---
-In pattern [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g24n4k3n3k3n3k3n4g12p2g2p2g3dy2g2k2/)
+(the same proportion at any scale), whose colour order is pattern [KGYGBGBGBKBKBKBGR](/stripes/kgygbgbgbkbkbkbgr/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1123/
 

@@ -2,9 +2,10 @@
 title: "Dempster (Name)"
 date: 2023-03-18
 ---
-In pattern [BBBBKBKBRBYKB](/stripes/bbbbkbkbrbykb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12db3b12db16k3db6k3db16dr3db3dy3k16db4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBKBRBYKB](/stripes/bbbbkbkbrbykb/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2219/
 

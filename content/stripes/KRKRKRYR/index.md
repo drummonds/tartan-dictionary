@@ -4,9 +4,14 @@ date: 2023-03-18
 aliases:
 - /patterns/krkrkryr/
 ---
+<div class="pat-hero"><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#000000"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-block" style="background:#DCBC32"></span><span class="pat-hero-block" style="background:#D60020"></span><span class="pat-hero-seq">KRKRKRYR</span></div>
+
 It is a 8 stripe tartan.
 
-![Woven sample](/setts/s8/k13o1k1o1k4o10ly1o1~x6/tartan.png)
+<figure class="pat-woven">
+<img src="woven.png" alt="idealised woven sample of pattern KRKRKRYR" width="860" height="320">
+<figcaption>idealised sample</figcaption>
+</figure>
 
 
 

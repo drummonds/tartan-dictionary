@@ -2,9 +2,10 @@
 title: "Kilbarchan Unidentified No. 14"
 date: 2023-03-18
 ---
-In pattern [KBKBKBKKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW](/stripes/kbkbkbkkgkwgkwbwbwbwbwkgkwkgkbkrkbkgkwkgkwbwbwbwbwkgwkgkbkbkbkbkbkgkwkgkwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln3b2ln14b3ln3k5g12k1ln3k1g12k12b2k2b2k2b12k2b2k2b2k12g12k1ln3g12k5ln3b3ln14b2ln3b2ln14b3ln3k5g12k1ln3k1g12k12b12k1r3k1b12k12g12k1ln3k1g12k5ln3b3ln14b2ln3b2ln14b3ln3k5g12ln3k1g12k12k2b2k2b12k2b2k2/)
+(the same proportion at any scale), whose colour order is pattern [KBKBKBKKGKWGKWBWBWBWBWKGKWKGKBKRKBKGKWKGKWBWBWBWBWKGWKGKBKBKBKBKBKGKWKGKWBWBW](/stripes/kbkbkbkkgkwgkwbwbwbwbwkgkwkgkbkrkbkgkwkgkwbwbwbwbwkgwkgkbkbkbkbkbkgkwkgkwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [77 stripe tartan](/stripes/stripes77/).
+Sourced from register-of-tartans.  It is a [77 stripe tartan](/stripes/stripes77/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1960
 

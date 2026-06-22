@@ -2,9 +2,10 @@
 title: "Burnett of Powis (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRGRGYGR](/stripes/brgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g19y3g19r3g3r21b3/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGYGR](/stripes/brgrgygr/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3951/
 

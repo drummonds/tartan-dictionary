@@ -2,9 +2,10 @@
 title: "Ballater"
 date: 2023-03-18
 ---
-In pattern [RWRWRKRRW](/stripes/rwrwrkrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r12ln2lt3ln2r3k5r2lt18ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWRWRKRRW](/stripes/rwrwrkrrw/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

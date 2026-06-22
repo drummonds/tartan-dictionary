@@ -2,9 +2,10 @@
 title: "Valley of the Green #2"
 date: 2023-03-18
 ---
-In pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9r2ln2r6ln14r2k14g14r6g2r2g8y3/)
+(the same proportion at any scale), whose colour order is pattern [WRWRWRKGRGRGY](/stripes/wrwrwrkgrgrgy/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4439
 

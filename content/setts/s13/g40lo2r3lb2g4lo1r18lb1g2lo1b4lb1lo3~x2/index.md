@@ -2,9 +2,10 @@
 title: "Morgan Jocelyn . . . (Personal)"
 date: 2023-03-18
 ---
-In pattern [GYRWGYRWGYBWY](/stripes/gyrwgyrwgybwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40dy2r3lr2g4dy1r18lr1g2dy1b4lr1dy3/)
+(the same proportion at any scale), whose colour order is pattern [GYRWGYRWGYBWY](/stripes/gyrwgyrwgybwy/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10809/
 

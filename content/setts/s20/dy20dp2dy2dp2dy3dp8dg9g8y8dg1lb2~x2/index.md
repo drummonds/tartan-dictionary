@@ -2,9 +2,10 @@
 title: "Isle of Skye"
 date: 2023-03-18
 ---
-In pattern [BGBGBGGGGWGGGGBGBGBG](/stripes/bgbgbggggwggggbgbgbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t20p2t2p2t3p8dg9g8gc8dg1n2/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBGGGGWGGGGBGBGBG](/stripes/bgbgbggggwggggbgbgbg/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1868
 

@@ -2,9 +2,10 @@
 title: "Matthew Gloag Corporate Tartan Tartan Number: 2397. Earliest known date: 1996 Designed by Gillian Kirkwood of House of Edgar in 1996 for Matthew Gloag & Son Ltd who were established in 1800 as a whisky blenders and makers of the Famous Grouse Whisky. The company is based in Perth, Scotland and now (2002) has a major new visitor attraction at Crieff, 17 miles west of Perth. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRGKBKBKRGRKBKBKGR](/stripes/brgkbkbkrgrkbkbkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3g20k2db3k12db3k2dr20g3dr20k2db3k12db3k2g20dr3db2/)
+(the same proportion at any scale), whose colour order is pattern [BRGKBKBKRGRKBKBKGR](/stripes/brgkbkbkrgrkbkbkgr/).
 
-This was sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from house-of-tartan.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2397
 

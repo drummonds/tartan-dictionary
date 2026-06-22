@@ -2,9 +2,10 @@
 title: "Scottish Scouts (1922)"
 date: 2023-03-18
 ---
-In pattern [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11k2n2k2n2k12na12k2na12k12n11k2n2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBRBRBBBBBBBRBRBBBBB](/stripes/bbbbbbrbrbbbbbbbrbrbbbbb/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3745
 

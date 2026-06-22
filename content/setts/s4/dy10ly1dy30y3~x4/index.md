@@ -2,9 +2,10 @@
 title: "Pasteur"
 date: 2023-03-18
 ---
-In pattern [GGYG](/stripes/ggyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t10lr1t30lg3/)
+(the same proportion at any scale), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
-This was sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3299
 

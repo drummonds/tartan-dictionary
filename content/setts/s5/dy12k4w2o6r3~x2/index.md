@@ -2,18 +2,20 @@
 title: "Strathblane (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKWRR](/stripes/gkwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t12k4ln2n6r3/)
+(the same proportion at any scale), whose colour order is pattern [GKWRR](/stripes/gkwrr/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1633/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1984 — Strathblane (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1633/))
-- undated — Strathblane Tartan Tartan Number: 1633. Earliest known date: pre 2003 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1633))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1984 — Strathblane (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1633/">record</a>)</li>
+<li>undated — Strathblane Tartan Tartan Number: 1633. Earliest known date: pre 2003 This is a simplified Stirling and Bannockburn district sett with the Universities 'Green and Grey' striped through the black. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1633">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 T/24 K8 LN4 N12 R/6

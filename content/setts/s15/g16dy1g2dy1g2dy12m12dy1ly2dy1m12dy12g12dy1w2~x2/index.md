@@ -2,9 +2,10 @@
 title: "Prince Edward Island District Tartan Tartan Number: 918. Earliest known date: 1964 The warmth and glow of the fertile soil, The green field and tree, The yellow and the brown of Autumn, The white of surf or a summer snow, Rust, green, yellow and white, Yes! That's our Island Tartan. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GGGGGGRGYGRGGGW](/stripes/ggggggrgygrgggw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16t1g2t1g2t12r12t1y2t1r12t12g12t1ln2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGRGYGRGGGW](/stripes/ggggggrgygrgggw/).
 
-This was sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from house-of-tartan.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=918
 

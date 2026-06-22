@@ -2,9 +2,10 @@
 title: "Andreou Family (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKWKRKBKRKY](/stripes/rkwkrkbkrky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1k2ln8k2r1k2db8k2r1k2y1/)
+(the same proportion at any scale), whose colour order is pattern [RKWKRKBKRKY](/stripes/rkwkrkbkrky/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7909/
 

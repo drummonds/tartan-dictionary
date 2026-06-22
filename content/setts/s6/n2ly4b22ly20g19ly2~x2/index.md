@@ -2,9 +2,10 @@
 title: "Barbie's Plaid"
 date: 2023-03-18
 ---
-In pattern [BYBYGY](/stripes/bybygy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2g19y20b22y4ba2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYGY](/stripes/bybygy/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

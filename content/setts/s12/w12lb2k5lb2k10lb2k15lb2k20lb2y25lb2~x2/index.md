@@ -2,9 +2,10 @@
 title: "Liberty Square"
 date: 2023-03-18
 ---
-In pattern [WGWKWKWKWKWW](/stripes/wgwkwkwkwkww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w12n2k5n2k10n2k15n2k20n2lg25n2/)
+(the same proportion at any scale), whose colour order is pattern [WGWKWKWKWKWW](/stripes/wgwkwkwkwkww/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10621
 

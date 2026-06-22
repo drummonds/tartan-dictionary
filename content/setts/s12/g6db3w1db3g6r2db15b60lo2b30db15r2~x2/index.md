@@ -2,9 +2,10 @@
 title: "Roslin Roseline Da Vinci (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GBWBGRBBYBBR](/stripes/gbwbgrbbybbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6db3w1db3g6r2db15b60dy2b30db15r2/)
+(the same proportion at any scale), whose colour order is pattern [GBWBGRBBYBBR](/stripes/gbwbgrbbybbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6838/
 

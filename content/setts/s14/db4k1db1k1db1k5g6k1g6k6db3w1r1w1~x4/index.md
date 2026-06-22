@@ -2,9 +2,10 @@
 title: "Gemmell Clan Tartan Tartan Number: 3213. Earliest known date: 2001 Design copyright is owned by Thomas Kempsill Gemmell and Davina Creighton Gemmell. Designed in traditional tartan colours. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4k1db1k1db1k5g6k1g6k6db3ln1r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKGKBWRW](/stripes/bkbkbkgkgkbwrw/).
 
-This was sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from house-of-tartan.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3213
 

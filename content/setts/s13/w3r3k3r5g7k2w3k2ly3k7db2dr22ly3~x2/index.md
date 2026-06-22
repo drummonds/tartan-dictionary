@@ -2,9 +2,10 @@
 title: "Cree"
 date: 2023-03-18
 ---
-In pattern [WRKRGKWKYKBBY](/stripes/wrkrgkwkykbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3dr22b2k7y3k2ln3k2g7r5k3r3ln3/)
+(the same proportion at any scale), whose colour order is pattern [WRKRGKWKYKBBY](/stripes/wrkrgkwkykbby/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Connacht Irish District Tartan Tartan Number: 4485. Earliest known date: 1994 Phil Smith obtained in Perthshire from a swatch dated 1994 shown to him by Keith Lumsden of the Scottish Tartans Society. However www.uniq-orn.com shows this as Connaught Green. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBGBGW](/stripes/rbgbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2db32ga14db5ga16ln2/)
+(the same proportion at any scale), whose colour order is pattern [RBGBGW](/stripes/rbgbgw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4485
 

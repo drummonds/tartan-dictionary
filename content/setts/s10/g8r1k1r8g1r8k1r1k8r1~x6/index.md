@@ -2,9 +2,10 @@
 title: "Hebridean, South Uist"
 date: 2023-03-18
 ---
-In pattern [GRKRGRKRKR](/stripes/grkrgrkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8r1k1r8g1r8k1r1k8r1/)
+(the same proportion at any scale), whose colour order is pattern [GRKRGRKRKR](/stripes/grkrgrkrkr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Hebridean, South Uist
 - Hebrides South Uist #3
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Hebridean, South Uist (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hebridean South Uist District Tartan Tartan Number: 2036. Earliest known date: pre 2003 Red is wine colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2036))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Hebridean, South Uist (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hebridean South Uist District Tartan Tartan Number: 2036. Earliest known date: pre 2003 Red is wine colour. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2036">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/48 R6 K6 R48 G6 R48 K6 R6 K48 R/6

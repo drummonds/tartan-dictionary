@@ -2,19 +2,21 @@
 title: "University of Edinburgh"
 date: 2023-03-18
 ---
-In pattern [KRKBWKW](/stripes/krkbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8dr26k22n110ln4k5ln4/)
+(the same proportion at any scale), whose colour order is pattern [KRKBWKW](/stripes/krkbwkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5554
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 08/09/2007 — University of Edinburgh (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5554))
-- pre 2008 — University of Edinburgh (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7516/))
-- undated — University of Edinburgh Corporate Tartan Tartan Number: 7516. Earliest known date: 2008 Woven scarf sample from Lochcarron but this had been previously woven by another company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7516))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>08/09/2007 — University of Edinburgh (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5554">record</a>)</li>
+<li>pre 2008 — University of Edinburgh (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7516/">record</a>)</li>
+<li>undated — University of Edinburgh Corporate Tartan Tartan Number: 7516. Earliest known date: 2008 Woven scarf sample from Lochcarron but this had been previously woven by another company. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=7516">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

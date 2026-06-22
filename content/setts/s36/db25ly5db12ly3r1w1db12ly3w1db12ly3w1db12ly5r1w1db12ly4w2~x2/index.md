@@ -2,9 +2,10 @@
 title: "Racing Wanless Australian Corporate Tartan Tartan Number: 3913. Earliest known date: 2002 Mrs Judi Wanless of Calamvale, Queensland, Australia.Originally woven in silk for jockeys tunic. Wanless Stables. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBYRWBYWBYWBYRWBYWYBWRYBWYBWYBWRYBY](/stripes/bybyrwbywbywbyrwbywybwrybwybwybwryby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db25y5db12y3r1ln1db12y3ln1db12y3ln1db12y5r1ln1db12y4ln2/)
+(the same proportion at any scale), whose colour order is pattern [BYBYRWBYWBYWBYRWBYWYBWRYBWYBWYBWRYBY](/stripes/bybyrwbywbywbyrwbywybwrybwybwybwryby/).
 
-This was sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
+Sourced from house-of-tartan.  It is a [36 stripe tartan](/stripes/stripes36/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3913
 

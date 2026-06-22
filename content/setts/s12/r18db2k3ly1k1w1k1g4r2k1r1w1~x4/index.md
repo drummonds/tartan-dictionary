@@ -2,9 +2,10 @@
 title: "Royal Stewart Royal Family Tartan Tartan Number: 1370. Earliest known date: 1831 The best known of all Scottish tartans, the Royal Stewart is the tartan of the Royal House of Stewart and the personal tartan of Her Majesty the Queen. In the same way that clansmen wear the tartan of their chief, it is appropriate for all subjects of the Queen to wear the Royal Stewart tartan. The pattern was first published by James Logan in his book, 'The Scottish Gael' in 1831, but references indicate that the sett was known at the end of the 18th century. Early samples show blue as a light 'azure'. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18db2k3y1k1ln1k1g4r2k1r1ln1/)
+(the same proportion at any scale), whose colour order is pattern [RBKYKWKGRKRW](/stripes/rbkykwkgrkrw/).
 
-This was sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from house-of-tartan.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1370
 

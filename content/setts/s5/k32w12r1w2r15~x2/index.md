@@ -2,18 +2,20 @@
 title: "Nunes (2014)"
 date: 2023-03-18
 ---
-In pattern [KWRWR](/stripes/kwrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k32w12r1w2r15/)
+(the same proportion at any scale), whose colour order is pattern [KWRWR](/stripes/kwrwr/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10985
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2014 — Nunes (2014) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10985))
-- 2014 — Nunes (2014) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10985/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2014 — Nunes (2014) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10985">record</a>)</li>
+<li>2014 — Nunes (2014) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10985/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

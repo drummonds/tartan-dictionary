@@ -2,9 +2,10 @@
 title: "Edinburgh, '86 Border"
 date: 2023-03-18
 ---
-In pattern [BBBBBBBBBBBRBGBWBWBWBWBWBWBGBR](/stripes/bbbbbbbbbbbrbgbwbwbwbwbwbwbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1ba1n1ba10ln3ba2ln1ba1ln1ba3ln1ba1ln1ba2ln3ba10n1ba1r1ba1b2ba2b2ba2b39ba2b2ba2b2ba1/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBBBBBBRBGBWBWBWBWBWBWBGBR](/stripes/bbbbbbbbbbbrbgbwbwbwbwbwbwbgbr/).
 
-This was sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from weddslist.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

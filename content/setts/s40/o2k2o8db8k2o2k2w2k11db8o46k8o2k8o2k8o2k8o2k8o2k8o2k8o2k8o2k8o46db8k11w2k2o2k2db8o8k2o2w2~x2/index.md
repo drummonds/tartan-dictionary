@@ -2,9 +2,10 @@
 title: "Hood"
 date: 2023-03-18
 ---
-In pattern [RKRBKRKWKBRKRKRKRKRKRKRKRKRKRBKWKRKBRKRW](/stripes/rkrbkrkwkbrkrkrkrkrkrkrkrkrkrbkwkrkbrkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2k2n8db8k2n2k2ln2k11db8n46k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n2k8n46db8k11ln2k2n2k2db8n8k2n2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKRBKRKWKBRKRKRKRKRKRKRKRKRKRBKWKRKBRKRW](/stripes/rkrbkrkwkbrkrkrkrkrkrkrkrkrkrbkwkrkbrkrw/).
 
-This was sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
+Sourced from register-of-tartans.  It is a [40 stripe tartan](/stripes/stripes40/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1760
 

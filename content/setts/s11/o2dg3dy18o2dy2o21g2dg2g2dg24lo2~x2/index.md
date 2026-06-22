@@ -2,9 +2,10 @@
 title: "Methven"
 date: 2023-03-18
 ---
-In pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do2dg3t18do2t2do21g2dg2g2dg24dy2/)
+(the same proportion at any scale), whose colour order is pattern [RGGRGRGGGGY](/stripes/rggrgrggggy/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11092/
 

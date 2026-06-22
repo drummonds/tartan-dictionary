@@ -2,9 +2,10 @@
 title: "Wood Clan/Family Tartan Tartan Number: 6630. Earliest known date: March 2005 A tartan for all of the name. Initiated by Leslie N Wood of Dartmouth, Devon and designed by Keith Lumsden. Incorporates the colours of the Duke of Fife and Angus district tartans - areas with which the Woods are said to be historically connected. A Clan Wood Society is in the process of being formed (March 2005) and it is expected that they will adopt this tartan. Woven sample See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KYKGKGBRBRBRBRBRBGKGKYK](/stripes/kykgkgbrbrbrbrbrbgkgkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3n2k6g3k3g21db18r2db2r2db2r3db2r2db2r2db18g21k3g3k6y2k3/)
+(the same proportion at any scale), whose colour order is pattern [KYKGKGBRBRBRBRBRBGKGKYK](/stripes/kykgkgbrbrbrbrbrbgkgkyk/).
 
-This was sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from house-of-tartan.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6630
 

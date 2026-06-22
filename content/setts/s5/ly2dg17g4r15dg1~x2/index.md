@@ -2,18 +2,20 @@
 title: "Christmas"
 date: 2023-03-18
 ---
-In pattern [GRGGY](/stripes/grggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2dg17g4r15dg1/)
+(the same proportion at any scale), whose colour order is pattern [GRGGY](/stripes/grggy/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10554
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 25/12/2011 — Christmas (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10554))
-- 25th Dec. 2011 — Christmas (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10554/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>25/12/2011 — Christmas (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10554">record</a>)</li>
+<li>25th Dec. 2011 — Christmas (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10554/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

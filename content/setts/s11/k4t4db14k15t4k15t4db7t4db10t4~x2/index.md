@@ -2,18 +2,20 @@
 title: "Clark (Clerke/Clergy/Priest)"
 date: 2023-03-18
 ---
-In pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k4b4ba14k15b4k15b4ba7b4ba10b4/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBKBKBBK](/stripes/bbbbbkbkbbk/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Clark (Clerke/Clergy/Priest) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666))
-- undated — Clark (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Clark (Clerke/Clergy/Priest) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=666">record</a>)</li>
+<li>undated — Clark (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,18 +2,20 @@
 title: "Porteous (Clan)"
 date: 2023-03-18
 ---
-In pattern [KYBGWW](/stripes/kybgww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3y3db20g25lb18w3/)
+(the same proportion at any scale), whose colour order is pattern [KYBGWW](/stripes/kybgww/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1264/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1977 — Porteous (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1264/))
-- 01/01/1978 — Porteous (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3358))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1977 — Porteous (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1264/">record</a>)</li>
+<li>01/01/1978 — Porteous (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3358">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

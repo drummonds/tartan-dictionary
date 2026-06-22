@@ -2,9 +2,10 @@
 title: "MacKean dress Family/Clan Tartan Tartan Number: 2339. Earliest known date: 1995 This was designed as a special design for silk squares woven by D C Dalgliesh. Assumption is that all these New Zealand MacKeans are Personal tartans rather than Clan/Family. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KGKGKBKWKBKGKGKR](/stripes/kgkgkbkwkbkgkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ga4k1ga1k2db3k1ln1k1db3k2ga1k1ga4k2r1/)
+(the same proportion at any scale), whose colour order is pattern [KGKGKBKWKBKGKGKR](/stripes/kgkgkbkwkbkgkgkr/).
 
-This was sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from house-of-tartan.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2339
 

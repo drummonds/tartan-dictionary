@@ -2,9 +2,10 @@
 title: "Boxell of West Niddry, Baron (Personal)"
 date: 2023-03-18
 ---
-In pattern [BRBKGRGKBYB](/stripes/brbkgrgkbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp27y2dp2k12g6lp2g12k12db12r2db2/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGRGKBYB](/stripes/brbkgrgkbyb/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4912
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Boxell, Baron
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2004 — Boxell of West Niddry, Baron (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4912))
-- pre 2005 — Boxell, Baron (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6712/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2004 — Boxell of West Niddry, Baron (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4912">record</a>)</li>
+<li>pre 2005 — Boxell, Baron (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6712/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

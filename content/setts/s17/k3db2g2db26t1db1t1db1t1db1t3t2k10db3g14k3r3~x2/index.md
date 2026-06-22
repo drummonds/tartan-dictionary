@@ -2,9 +2,10 @@
 title: "St Lawrence District Tartan Tartan Number: 1030. Earliest known date: pre 1963 Presented to the STS collection by Mr A Yule in 1963. designed by Mrs. Helene Cobb of Clayton and is the registered trademark of the Thousand Islands Museum in Clayton, New York State - www.timuseum.org Woven by Peter MacArthur of Biggar, Scotland. The greens are for the cedars along the shore, the blues are for the St Lawrence River, and the red is the sunset over the Islands. John Fitzpatrick in his review of Canadian tartans in July 2008, pointed out that there were two slightly different thread counts given in the CIDD. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBGBBBBBBBBBKBGKR](/stripes/kbgbbbbbbbbbkbgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db2g2db26ba1db1ba1db1ba1db1ba3b2k10db3g14k3r3/)
+(the same proportion at any scale), whose colour order is pattern [KBGBBBBBBBBBKBGKR](/stripes/kbgbbbbbbbbbkbgkr/).
 
-This was sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from house-of-tartan.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1030
 

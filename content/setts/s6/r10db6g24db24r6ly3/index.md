@@ -2,9 +2,10 @@
 title: "Canine All Dogs (Fashion)"
 date: 2023-03-18
 ---
-In pattern [RBGBRY](/stripes/rbgbry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r10db6g24dba24r6y3/)
+(the same proportion at any scale), whose colour order is pattern [RBGBRY](/stripes/rbgbry/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10030/
 

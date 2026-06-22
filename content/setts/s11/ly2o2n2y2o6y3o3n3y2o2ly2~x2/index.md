@@ -2,9 +2,10 @@
 title: "Callanish (District)"
 date: 2023-03-18
 ---
-In pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg2na2n2g2na6g3na3n3g2na2lg2/)
+(the same proportion at any scale), whose colour order is pattern [YRBGRGRBGRY](/stripes/yrbgrgrbgry/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10393/
 

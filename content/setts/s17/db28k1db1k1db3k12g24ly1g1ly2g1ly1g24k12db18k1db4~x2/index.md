@@ -2,9 +2,10 @@
 title: "Gordon, Ancient"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28k1b1k1b3k12g24y1g1y2g1y1g24k12b18k1b4/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGYGYGYGKBKB](/stripes/bkbkbkgygygygkbkb/).
 
-This was sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from weddslist.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Gordon, Ancient
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Gordon, Ancient (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Gordon Old Clan/Family Tartan Tartan Number: 215. Earliest known date: 1842 Also The Setts No: 65. W & A K Johnston. Sample in Paton's collection. According to the story, The Duke of Gordon passed on the unwanted samples of the selection from Wilson's, to members of the family. The three stripe version was adopted by the Gordons of Esslemont. This discounts the Sobieski Stuarts claim to a 16th century origin for this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=215))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Gordon, Ancient (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Gordon Old Clan/Family Tartan Tartan Number: 215. Earliest known date: 1842 Also The Setts No: 65. W & A K Johnston. Sample in Paton's collection. According to the story, The Duke of Gordon passed on the unwanted samples of the selection from Wilson's, to members of the family. The three stripe version was adopted by the Gordons of Esslemont. This discounts the Sobieski Stuarts claim to a 16th century origin for this sett. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=215">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/56 K2 B2 K2 B6 K24 G48 Y2 G2 Y4 G2 Y2 G48 K24 B36 K2 B/8

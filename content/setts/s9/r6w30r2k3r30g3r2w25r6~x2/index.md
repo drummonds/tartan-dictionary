@@ -2,9 +2,10 @@
 title: "Virginia Military Institute (Milit.)"
 date: 2023-03-18
 ---
-In pattern [RWRGRKRWR](/stripes/rwrgrkrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ra6ln25r2g3r30k3r2ln30rb6/)
+(the same proportion at any scale), whose colour order is pattern [RWRGRKRWR](/stripes/rwrgrkrwr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2402/
 

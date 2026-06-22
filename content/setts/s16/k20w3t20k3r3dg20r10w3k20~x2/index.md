@@ -2,9 +2,10 @@
 title: "Soutar/Souter"
 date: 2023-03-18
 ---
-In pattern [KWRGRKBWKWBKRGRW](/stripes/kwrgrkbwkwbkrgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20ln3b20k3r3g20r10ln3k20/)
+(the same proportion at any scale), whose colour order is pattern [KWRGRKBWKWBKRGRW](/stripes/kwrgrkbwkwbkrgrw/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3839
 

@@ -2,9 +2,10 @@
 title: "Lodge Dunblane Australis No.966 (Cor"
 date: 2023-03-18
 ---
-In pattern [BGBGBYBGBGBGKBKBKBKGBGBGBRBGBGBGYKWKWKWKYG](/stripes/bgbgbybgbgbgkbkbkbkgbgbgbrbgbgbgykwkwkwkyg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg12y1k2ln2k2ln2k2ln2k2y1dg12p1dg2p3dg1p4r2p4dg1p3dg2p1dg12k1b4k1b4k1b4k1dg12p1dg2p3dg1p4y2p4dg1p3dg2p1/)
+(the same proportion at any scale), whose colour order is pattern [BGBGBYBGBGBGKBKBKBKGBGBGBRBGBGBGYKWKWKWKYG](/stripes/bgbgbybgbgbgkbkbkbkgbgbgbrbgbgbgykwkwkwkyg/).
 
-This was sourced from tartans-authority.  It is a [42 stripe tartan](/stripes/stripes42/).
+Sourced from tartans-authority.  It is a [42 stripe tartan](/stripes/stripes42/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10592/
 

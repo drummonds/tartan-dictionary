@@ -2,9 +2,10 @@
 title: "Braveheart -Warrior (hunting)"
 date: 2023-03-18
 ---
-In pattern [BBKBGKBKBKRK](/stripes/bbkbgkbkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k43lt7k9dp3k3dp3k3g18dra9k3dra4dr4/)
+(the same proportion at any scale), whose colour order is pattern [BBKBGKBKBKRK](/stripes/bbkbgkbkbkrk/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

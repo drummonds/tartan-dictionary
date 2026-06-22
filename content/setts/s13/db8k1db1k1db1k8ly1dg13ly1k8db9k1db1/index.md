@@ -2,9 +2,10 @@
 title: "Breadalbane Fencibles"
 date: 2023-03-18
 ---
-In pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k1db1k1db1k8y1g13y1k8db9k1db1/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKYGYKBKB](/stripes/bkbkbkygykbkb/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

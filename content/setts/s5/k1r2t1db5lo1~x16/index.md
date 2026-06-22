@@ -2,9 +2,10 @@
 title: "Trinity College, Toronto Uni. (Corp"
 date: 2023-03-18
 ---
-In pattern [KRBBY](/stripes/krbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r2b1db5dy1/)
+(the same proportion at any scale), whose colour order is pattern [KRBBY](/stripes/krbby/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10211/
 

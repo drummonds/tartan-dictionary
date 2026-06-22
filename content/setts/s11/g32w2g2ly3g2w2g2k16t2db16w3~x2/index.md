@@ -2,18 +2,20 @@
 title: "MacKellar"
 date: 2023-03-18
 ---
-In pattern [GWGYGWGKBBW](/stripes/gwgygwgkbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g32ln2g2y3g2ln2g2k16ba2b16ln3/)
+(the same proportion at any scale), whose colour order is pattern [GWGYGWGKBBW](/stripes/gwgygwgkbbw/).
 
-This was sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacKellar (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — MacKellar Clan Tartan Tartan Number: 939. Earliest known date: pre 2003 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=939))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacKellar (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — MacKellar Clan Tartan Tartan Number: 939. Earliest known date: pre 2003 As worn by Kenneth? - D.C.S. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=939">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 G/64 LN4 G4 Y6 G4 LN4 G4 K32 Ba4 B32 LN/6

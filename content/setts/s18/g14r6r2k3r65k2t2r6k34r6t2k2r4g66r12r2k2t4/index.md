@@ -2,9 +2,10 @@
 title: "Stewart of Ardshiel"
 date: 2023-03-18
 ---
-In pattern [BKRRGRKBRKRBKRKRRG](/stripes/bkrrgrkbrkrbkrkrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g14ra6r2db3ra65db2b2ra6db34ra6b2db2ra4g66ra12r2db2b4/)
+(the same proportion at any scale), whose colour order is pattern [BKRRGRKBRKRBKRKRRG](/stripes/bkrrgrkbrkrbkrkrrg/).
 
-This was sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from weddslist.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

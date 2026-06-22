@@ -2,18 +2,20 @@
 title: "Golden Heather, The"
 date: 2023-03-18
 ---
-In pattern [RYRYRYRYYY](/stripes/ryryryryyy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2n20doa2n2dr3o3dr3do6oa24n2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYRYYY](/stripes/ryryryryyy/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1445
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1975 — Golden Heather, The (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1445))
-- pre 1975 — Golden Heather, The (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5051/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1975 — Golden Heather, The (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1445">record</a>)</li>
+<li>pre 1975 — Golden Heather, The (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5051/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

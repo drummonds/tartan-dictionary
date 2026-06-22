@@ -2,18 +2,20 @@
 title: "MacDougall D"
 date: 2023-03-18
 ---
-In pattern [RGRBRBRYRBRBRGRGBRBBRGRGRBY](/stripes/rgrbrbryrbrbrgrgbrbbrgrgrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5dg10dr2db2dr30n3dr2na1dr2n3dr30db2dr2dg10dr10dg10n4dr2n4db10dr4dg2dr4dg30dr2n3na1/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRBRYRBRBRGRGBRBBRGRGRBY](/stripes/rgrbrbryrbrbrgrgbrbbrgrgrby/).
 
-This was sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
+Sourced from weddslist.  It is a [27 stripe tartan](/stripes/stripes27/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — MacDougall D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel))
-- undated — MacDougall D (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — MacDougall D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=tinsel">record</a>)</li>
+<li>undated — MacDougall D (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=x">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 DR/10 DG20 DR4 DB4 DR60 N6 DR4 Na2 DR4 N6 DR60 DB4 DR4 DG20 DR20 DG20 N8 DR4 N8 DB20 DR8 DG4 DR8 DG60 DR4 N6 Na/2

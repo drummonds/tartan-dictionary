@@ -2,9 +2,10 @@
 title: "Cribb (2016)"
 date: 2023-03-18
 ---
-In pattern [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2n1na12lp2na2lp2na2lp2na2dp10lp1dp10g12n2g4na2/)
+(the same proportion at any scale), whose colour order is pattern [WBYRYRYRYBRBGBGY](/stripes/wbyryryrybrbgbgy/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11455
 

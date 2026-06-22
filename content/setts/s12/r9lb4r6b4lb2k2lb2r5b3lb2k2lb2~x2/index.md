@@ -2,9 +2,10 @@
 title: "Westgaard Ladies' (Personal)"
 date: 2023-03-18
 ---
-In pattern [RWRBWKWRBWKW](/stripes/rwrbwkwrbwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr9n4dr6b4n2k2n2dr5b3n2k2n2/)
+(the same proportion at any scale), whose colour order is pattern [RWRBWKWRBWKW](/stripes/rwrbwkwrbwkw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4249/
 

@@ -2,9 +2,10 @@
 title: "Heneghan (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBYYYRGBRGBWRG](/stripes/gbyyyrgbrgbwrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16r3w1b2g4r2b4g2r1o1y1o1b6g12/)
+(the same proportion at any scale), whose colour order is pattern [GBYYYRGBRGBWRG](/stripes/gbyyyrgbrgbwrg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Heneghan Commemorative
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Heneghan (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969))
-- undated — Heneghan Commemorative Family Tartan Tartan Number: 3841. Earliest known date: May 2002 Designed by Phil Heneghan for his family in San Francisco, Maryland and Alaska. The whole family took part in finalizing the design in preparation for parents 50th wedding anniversary celebration. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3841))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Heneghan (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4969">record</a>)</li>
+<li>undated — Heneghan Commemorative Family Tartan Tartan Number: 3841. Earliest known date: May 2002 Designed by Phil Heneghan for his family in San Francisco, Maryland and Alaska. The whole family took part in finalizing the design in preparation for parents 50th wedding anniversary celebration. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3841">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

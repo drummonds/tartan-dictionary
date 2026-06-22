@@ -2,9 +2,10 @@
 title: "Beechgrove Garden, The"
 date: 2023-03-18
 ---
-In pattern [BGGGGGBGBGWGGG](/stripes/bgggggbgbgwggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp2lg25g8lg2g2lg25dp2lg2dp6lg2w2lg4g16lg2/)
+(the same proportion at any scale), whose colour order is pattern [BGGGGGBGBGWGGG](/stripes/bgggggbgbgwggg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10887
 

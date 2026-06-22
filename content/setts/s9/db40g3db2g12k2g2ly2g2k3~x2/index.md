@@ -2,9 +2,10 @@
 title: "Oliver, hunting"
 date: 2023-03-18
 ---
-In pattern [BGBGKGYGK](/stripes/bgbgkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b40g3b2g12k2g2y2g2k3/)
+(the same proportion at any scale), whose colour order is pattern [BGBGKGYGK](/stripes/bgbgkgygk/).
 
-This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Oliver, hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Oliver, hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Oliver Hunting Family Tartan Tartan Number: 126. Earliest known date: 1973 Designed for the Oliver Society in 1973 and based on a cottage weavers formula named 'Tweedside', dating from around 1820. The Tweedside District sett also appeared in one of the notebooks belonging to Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=126))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Oliver, hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Oliver Hunting Family Tartan Tartan Number: 126. Earliest known date: 1973 Designed for the Oliver Society in 1973 and based on a cottage weavers formula named 'Tweedside', dating from around 1820. The Tweedside District sett also appeared in one of the notebooks belonging to Wilson's of Bannockburn. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=126">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/80 G6 B4 G24 K4 G4 Y4 G4 K/6

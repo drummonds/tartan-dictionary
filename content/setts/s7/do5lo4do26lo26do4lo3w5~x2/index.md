@@ -2,9 +2,10 @@
 title: "Elgin District Tartan Tartan Number: 2196. Earliest known date: 1998 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BYBYBYW](/stripes/bybybyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr5o4dr26lt26dr4lt3ln5/)
+(the same proportion at any scale), whose colour order is pattern [BYBYBYW](/stripes/bybybyw/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2196
 

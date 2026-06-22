@@ -2,9 +2,10 @@
 title: "Lander (2013)"
 date: 2023-03-18
 ---
-In pattern [KGKGGRYRGGKGKGK](/stripes/kgkggryrggkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr18t3dr3t3dr3t16g16r1y1r1g16t16dr17t3dr3/)
+(the same proportion at any scale), whose colour order is pattern [KGKGGRYRGGKGKGK](/stripes/kgkggryrggkgkgk/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10951/
 

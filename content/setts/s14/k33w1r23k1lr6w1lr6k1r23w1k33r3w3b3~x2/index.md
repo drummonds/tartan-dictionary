@@ -2,9 +2,10 @@
 title: "Manac"
 date: 2023-03-18
 ---
-In pattern [BWRKWRKYWYKRWK](/stripes/bwrkwrkywykrwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k33w1r23k1n6w1n6k1r23w1k33r3w3b3/)
+(the same proportion at any scale), whose colour order is pattern [BWRKWRKYWYKRWK](/stripes/bwrkwrkywykrwk/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11337
 

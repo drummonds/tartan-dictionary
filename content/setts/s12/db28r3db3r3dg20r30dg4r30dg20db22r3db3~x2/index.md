@@ -2,9 +2,10 @@
 title: "Fraser Stewart of Athol"
 date: 2023-03-18
 ---
-In pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28r3b3r3g20r30g4r30g20b22r3b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBGRGRGRBRB](/stripes/brbgrgrgrbrb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1267
 

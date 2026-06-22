@@ -2,9 +2,10 @@
 title: "Murray, Mungo"
 date: 2023-03-18
 ---
-In pattern [RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW](/stripes/rykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykyrwryrwrykyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt10y4k2y2k2y2k2y4ra1y2ra1y4k4y3ra7y3ra7y1k1y1r7y1k1y1ra7y1k1y1ra7y3ra7y3k4y4k2y2k2y4k4y6k2y6k2y6k2y6k2y6k2y6k10y4lt1ln2lt1y2lt1ln2lt1y4k6y1ln2/)
+(the same proportion at any scale), whose colour order is pattern [RYKYKYKYRYRYKYRYRYKYRYKYRYKYRYRYKYKYKYKYKYKYKYKYKYKYRWRYRWRYKYW](/stripes/rykykykyryrykyryrykyrykyrykyryrykykykykykykykykykykyrwryrwrykyw/).
 
-This was sourced from weddslist.  It is a [63 stripe tartan](/stripes/stripes63/).
+Sourced from weddslist.  It is a [63 stripe tartan](/stripes/stripes63/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

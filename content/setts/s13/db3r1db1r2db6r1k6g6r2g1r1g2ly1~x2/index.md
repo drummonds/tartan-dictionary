@@ -2,18 +2,20 @@
 title: "Carnegie"
 date: 2023-03-18
 ---
-In pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3r1b1r2b6r1k6g6r2g1r1g2y1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRKGRGRGY](/stripes/brbrbrkgrgrgy/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Carnegie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Carnegie Family Tartan Tartan Number: 489. Earliest known date: c. 1715 A variant of the MacDonell of Glengarry said to have been adopted by Lord Southesk who was active in the 1715 rebellion. The Glengarry white becomes yellow in the Carnegie. It is possible that this minor difference was caused by the passage of time. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=489))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Carnegie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Carnegie Family Tartan Tartan Number: 489. Earliest known date: c. 1715 A variant of the MacDonell of Glengarry said to have been adopted by Lord Southesk who was active in the 1715 rebellion. The Glengarry white becomes yellow in the Carnegie. It is possible that this minor difference was caused by the passage of time. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=489">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/6 R2 B2 R4 B12 R2 K12 G12 R4 G2 R2 G4 Y/2

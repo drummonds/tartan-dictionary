@@ -2,9 +2,10 @@
 title: "Dundee, Green (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GYGRGRGRGY](/stripes/gygrgrgrgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n3g2dr1g3dr3g6dr1g3n2g3/)
+(the same proportion at any scale), whose colour order is pattern [GYGRGRGRGY](/stripes/gygrgrgrgy/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2065/
 

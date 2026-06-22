@@ -2,9 +2,10 @@
 title: "MacQuarrie 6"
 date: 2023-03-18
 ---
-In pattern [GRGRGRKRGRGRK](/stripes/grgrgrkrgrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1r1g1r21g1r1k10r1g14r1g1r1g1/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGRKRGRGRK](/stripes/grgrgrkrgrgrk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

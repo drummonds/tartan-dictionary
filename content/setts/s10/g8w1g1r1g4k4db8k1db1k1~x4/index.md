@@ -2,18 +2,20 @@
 title: "Allen (1996)"
 date: 2023-03-18
 ---
-In pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g8w1g1dr1g4k4db8k1db1k1/)
+(the same proportion at any scale), whose colour order is pattern [GWGRGKBKBK](/stripes/gwgrgkbkbk/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/1996 — Allen (1996) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55))
-- February 1996 — Allen (1996) (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2519/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/1996 — Allen (1996) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=55">record</a>)</li>
+<li>February 1996 — Allen (1996) (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2519/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

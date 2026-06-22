@@ -2,9 +2,10 @@
 title: "Wild Highlanders"
 date: 2023-03-18
 ---
-In pattern [KWKWGRKRGWKW](/stripes/kwkwgrkrgwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k36w3k10w3ga28dr6k18/)
+(the same proportion at any scale), whose colour order is pattern [KWKWGRKRGWKW](/stripes/kwkwgrkrgwkw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4625
 

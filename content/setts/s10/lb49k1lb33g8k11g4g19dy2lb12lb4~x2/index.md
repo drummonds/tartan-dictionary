@@ -2,9 +2,10 @@
 title: "State Seal of Alaska (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WKWGKGGGWW](/stripes/wkwgkgggww/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n49k1lb33ga8k11g4ga19t2lb12n4/)
+(the same proportion at any scale), whose colour order is pattern [WKWGKGGGWW](/stripes/wkwgkgggww/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8616/
 

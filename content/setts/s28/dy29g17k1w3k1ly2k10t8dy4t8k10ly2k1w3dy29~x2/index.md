@@ -2,9 +2,10 @@
 title: "Wilson's No.017 #2"
 date: 2023-03-18
 ---
-In pattern [GGKWKYKBGBKYKWGWKYKBGBKYKWKG](/stripes/ggkwkykbgbkykwgwkykbgbkykwkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t29g17k1w3k1y2k10b8t4b8k10y2k1w3t29/)
+(the same proportion at any scale), whose colour order is pattern [GGKWKYKBGBKYKWGWKYKBGBKYKWKG](/stripes/ggkwkykbgbkykwgwkykbgbkykwkg/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4649
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Massie/Massey
 - Wilson's No.017 #2
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Wilson's No.017 #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4649))
-- 01/01/2002 — Wilson's No.171 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4710))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Wilson's No.017 #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4649">record</a>)</li>
+<li>01/01/2002 — Wilson's No.171 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4710">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

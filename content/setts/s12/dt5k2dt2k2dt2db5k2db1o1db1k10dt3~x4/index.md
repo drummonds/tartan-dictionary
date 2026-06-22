@@ -2,9 +2,10 @@
 title: "Hopkins (Wales)"
 date: 2023-03-18
 ---
-In pattern [BKBKBBKBRBKB](/stripes/bkbkbbkbrbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba5k2dba2k2dba2db5k2db1n1db1k10dba3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBBKBRBKB](/stripes/bkbkbbkbrbkb/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5140
 

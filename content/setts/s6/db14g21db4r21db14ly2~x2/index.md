@@ -2,9 +2,10 @@
 title: "Kilgour"
 date: 2023-03-18
 ---
-In pattern [BGBRBY](/stripes/bgbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14g21db4r21db14y2/)
+(the same proportion at any scale), whose colour order is pattern [BGBRBY](/stripes/bgbrby/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

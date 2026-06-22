@@ -2,18 +2,20 @@
 title: "Glover, Thomas Blake"
 date: 2023-03-18
 ---
-In pattern [BBYBYBBWBWBY](/stripes/bbybybbwbwby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db5dr10dy4dr10dy4dr10db5lr4db3lr10db1dy1/)
+(the same proportion at any scale), whose colour order is pattern [BBYBYBBWBWBY](/stripes/bbybybbwbwby/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/1996 — Glover, Thomas Blake (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441))
-- 1996 — Glover, Thomas Blake (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2416/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/1996 — Glover, Thomas Blake (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1441">record</a>)</li>
+<li>1996 — Glover, Thomas Blake (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2416/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

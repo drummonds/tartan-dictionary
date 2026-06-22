@@ -2,9 +2,10 @@
 title: "Reid of Straloch (Personal)"
 date: 2023-03-18
 ---
-In pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o3g3o18g6o4b3ln3b18o6g18ln3g3o4b6o18g3o3/)
+(the same proportion at any scale), whose colour order is pattern [RGRBRGWGRBWBRGRGR](/stripes/rgrbrgwgrbwbrgrgr/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3494
 

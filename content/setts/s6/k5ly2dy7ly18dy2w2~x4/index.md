@@ -2,9 +2,10 @@
 title: "Shepherd, Derek (Piping)"
 date: 2023-03-18
 ---
-In pattern [KYGYGW](/stripes/kygygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5lya2t7ly18t2w2/)
+(the same proportion at any scale), whose colour order is pattern [KYGYGW](/stripes/kygygw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10160
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Shepherd, Derek
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 04/02/2010 — Shepherd, Derek (Piping) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10160))
-- 4th Feb. 2010 — Shepherd Piping (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10160/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>04/02/2010 — Shepherd, Derek (Piping) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10160">record</a>)</li>
+<li>4th Feb. 2010 — Shepherd Piping (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10160/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

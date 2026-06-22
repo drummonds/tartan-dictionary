@@ -2,9 +2,10 @@
 title: "Ritchie, Stephen James (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBYKBYW](/stripes/bbykbyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4n19na2k19n2na25nb2/)
+(the same proportion at any scale), whose colour order is pattern [BBYKBYW](/stripes/bbykbyw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11424
 

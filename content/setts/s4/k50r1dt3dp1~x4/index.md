@@ -2,9 +2,10 @@
 title: "Alich (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBRK](/stripes/bbrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k50r1db3p1/)
+(the same proportion at any scale), whose colour order is pattern [BBRK](/stripes/bbrk/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10130/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Alich Dutch Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 23rd Nov. 2009 — Alich (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10130/))
-- undated — Alich Dutch Personal Tartan Tartan Number: 10130. Earliest known date: 23rd Nov. 2009 This tartan is for the use of the families of Dirk Alich and his brothers Robert and Carsten. The almost black of the tartan represents the secrets the Alich family is hiding. The red lines represent the bloodlines and the fights that have been won. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10130))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>23rd Nov. 2009 — Alich (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10130/">record</a>)</li>
+<li>undated — Alich Dutch Personal Tartan Tartan Number: 10130. Earliest known date: 23rd Nov. 2009 This tartan is for the use of the families of Dirk Alich and his brothers Robert and Carsten. The almost black of the tartan represents the secrets the Alich family is hiding. The red lines represent the bloodlines and the fights that have been won. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10130">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/200 R4 DB12 P/4

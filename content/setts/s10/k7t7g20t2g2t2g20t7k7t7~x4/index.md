@@ -2,9 +2,10 @@
 title: "Falconer of Labhdal Personal Tartan Tartan Number: 6787. Earliest known date: 2005 August This is what James K.R. Falconer calls an update of the family tartan submitted in September 2005 and is the conventional Falconer tartan as seen at #387 with an extra blue line in the centre of the green and the colours rendered in lighter shades. Woven by Drove Weaving of Langholm (Lochcarron) and organised through Pride of Lammermuir, Lady Hilary Menzies. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBGBGBGBK](/stripes/bkbgbgbgbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k7ba7b20ba2b2ba2b20ba7k7ba7/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBGBGBK](/stripes/bkbgbgbgbk/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6787
 

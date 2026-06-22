@@ -2,18 +2,20 @@
 title: "Pernel (Personal)"
 date: 2023-03-18
 ---
-In pattern [KWRGRGRYGYGWRYRKW](/stripes/kwrgrgrygygwryrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k8w1r2g16r8g8r11ya2g2y1g2w2r10ya2r2k1w4/)
+(the same proportion at any scale), whose colour order is pattern [KWRGRGRYGYGWRYRKW](/stripes/kwrgrgrygygwryrkw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10098
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 14/09/2009 — Pernel (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10098))
-- pre 2009 — Pernel (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/10098/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>14/09/2009 — Pernel (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10098">record</a>)</li>
+<li>pre 2009 — Pernel (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/10098/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

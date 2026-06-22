@@ -2,9 +2,10 @@
 title: "Buchanan Dress Blue (Dance)"
 date: 2023-03-18
 ---
-In pattern [RWBWBW](/stripes/rwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w5db16w5db16w33dr3/)
+(the same proportion at any scale), whose colour order is pattern [RWBWBW](/stripes/rwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Buchanan Dress, Blue
 - Buchanan, dress Blue
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1983 — Buchanan Dress Blue (Dance) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424))
-- 1983 — Buchanan Dress, Blue (Dance) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1672/))
-- undated — Buchanan, dress Blue (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Buchanan Dress Blue Clan Tartan Tartan Number: 1672. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1672))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1983 — Buchanan Dress Blue (Dance) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=424">record</a>)</li>
+<li>1983 — Buchanan Dress, Blue (Dance) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1672/">record</a>)</li>
+<li>undated — Buchanan, dress Blue (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Buchanan Dress Blue Clan Tartan Tartan Number: 1672. Earliest known date: pre 2003 One of a number of dress tartans produced by Hugh Macpherson, a kiltmaker in Edinburgh, intended for dancing and other informal occassions. The 'dress' version of clan tartan is usually created by substituting white for one of the 'ground' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1672">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

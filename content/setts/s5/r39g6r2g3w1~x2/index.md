@@ -2,9 +2,10 @@
 title: "MacGregor"
 date: 2023-03-18
 ---
-In pattern [RGRGW](/stripes/rgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r39g6r2g3ln1/)
+(the same proportion at any scale), whose colour order is pattern [RGRGW](/stripes/rgrgw/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

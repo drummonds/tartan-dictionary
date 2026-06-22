@@ -2,9 +2,10 @@
 title: "Harmony, 9"
 date: 2023-03-18
 ---
-In pattern [RYRRY](/stripes/ryrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y2lt10r15y10lt2/)
+(the same proportion at any scale), whose colour order is pattern [RYRRY](/stripes/ryrry/).
 
-This was sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

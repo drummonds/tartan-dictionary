@@ -2,18 +2,20 @@
 title: "Burns"
 date: 2023-03-18
 ---
-In pattern [RGRGRGRBRYRY](/stripes/rgrgrgrbryry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3g3r3g14r3g3r3b5r18y2r8y2/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRGRBRYRY](/stripes/rgrgrgrbryry/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Burns (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Burns Family Tartan Tartan Number: 1539. Earliest known date: pre 2003 Modern family sett discovered by MacKinlay at Messrs Forsyth. Probably dates between 1930-50. There is also a Robert Burns check. (see under R...) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1539))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Burns (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Burns Family Tartan Tartan Number: 1539. Earliest known date: pre 2003 Modern family sett discovered by MacKinlay at Messrs Forsyth. Probably dates between 1930-50. There is also a Robert Burns check. (see under R...) See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1539">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/6 G6 R6 G28 R6 G6 R6 B10 R36 Y4 R16 Y/4

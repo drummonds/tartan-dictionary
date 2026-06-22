@@ -2,9 +2,10 @@
 title: "Glen Coe Trade Tartan Tartan Number: 1243. Earliest known date: Modern Many new designs have been given district names to promote their Scottish connections. However, these names should not be confused with the District tartans which have earned their title through 'use and wont' and not a little history. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKGW](/stripes/kwkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k37ln9k3dg9ln3/)
+(the same proportion at any scale), whose colour order is pattern [KWKGW](/stripes/kwkgw/).
 
-This was sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from house-of-tartan.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1243
 

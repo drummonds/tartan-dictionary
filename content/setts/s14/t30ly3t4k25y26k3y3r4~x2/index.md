@@ -2,9 +2,10 @@
 title: "Ogilvie Hunting"
 date: 2023-03-18
 ---
-In pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30y3b4k25lg26k3lg3lr4/)
+(the same proportion at any scale), whose colour order is pattern [GKGKBYBYBKGKGR](/stripes/gkgkbybybkgkgr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3231
 

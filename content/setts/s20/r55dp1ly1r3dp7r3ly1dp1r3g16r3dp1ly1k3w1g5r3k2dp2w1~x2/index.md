@@ -2,9 +2,10 @@
 title: "Fennell Grandmothers (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBYRBRYBRGRBYKWGRKBW](/stripes/rbyrbrybrgrbykwgrkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r55p1y1r3p7r3y1p1r3g16r3p1y1k3w1g5r3k2p2w1/)
+(the same proportion at any scale), whose colour order is pattern [RBYRBRYBRGRBYKWGRKBW](/stripes/rbyrbrybrgrbykwgrkbw/).
 
-This was sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from tartans-authority.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6112/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Fennell Grandmothers Canadian Personal
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 2003 — Fennell Grandmothers (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6112/))
-- undated — Fennell Grandmothers Canadian Personal Tartan Tartan Number: 6112. Earliest known date: 2003 During the design process, a version missing the white pivot was woven. A new piece was woven to replace the first but, in old Scots style, the original was put to good use. This tartan, therefore, has two versions extant. Designed to be woven with a 6 inch repeat and 2 thread stripes. Andre said, "I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart.". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6112))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>2003 — Fennell Grandmothers (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6112/">record</a>)</li>
+<li>undated — Fennell Grandmothers Canadian Personal Tartan Tartan Number: 6112. Earliest known date: 2003 During the design process, a version missing the white pivot was woven. A new piece was woven to replace the first but, in old Scots style, the original was put to good use. This tartan, therefore, has two versions extant. Designed to be woven with a 6 inch repeat and 2 thread stripes. Andre said, "I have designed a tartan around some of the major elements found in the tartans of her ancestors: Leitch; Munro; Wilson; Stuart.". See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6112">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/110 P2 Y2 R6 P14 R6 Y2 P2 R6 G32 R6 P2 Y2 K6 W2 G10 R6 K4 P4 W/2

@@ -2,9 +2,10 @@
 title: "Unidentified Cant #06"
 date: 2023-03-18
 ---
-In pattern [BRKGRKRGKRBRBRBRKRBRKRBRKRBRBRBRKGRKRGKRBR](/stripes/brkgrkrgkrbrbrbrkrbrkrbrkrbrbrbrkgrkrgkrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr16b3dr16k3g32dr16k3dr16g32k3dr18db3dr3b3dr3db3dr18k34dr3db34dr16k3/)
+(the same proportion at any scale), whose colour order is pattern [BRKGRKRGKRBRBRBRKRBRKRBRKRBRBRBRKGRKRGKRBR](/stripes/brkgrkrgkrbrbrbrkrbrkrbrkrbrbrbrkgrkrgkrbr/).
 
-This was sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
+Sourced from register-of-tartans.  It is a [42 stripe tartan](/stripes/stripes42/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4284
 

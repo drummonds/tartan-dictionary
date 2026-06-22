@@ -2,9 +2,10 @@
 title: "US Marine Corps"
 date: 2023-03-18
 ---
-In pattern [GRGRGBYR](/stripes/grgrgbyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g40r3g4r3g12db32dy4r3/)
+(the same proportion at any scale), whose colour order is pattern [GRGRGBYR](/stripes/grgrgbyr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4187
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - US Marine Corps
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1986 — US Marine Corps (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4187))
-- undated — Leatherneck (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5022))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — US Marine Corps (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4187">record</a>)</li>
+<li>undated — Leatherneck (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5022">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

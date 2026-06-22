@@ -2,9 +2,10 @@
 title: "MacAlister Modern (Lochcarron)"
 date: 2023-03-18
 ---
-In pattern [RBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rbrgrbrwrbrwrggrggrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r18b1r1g8r1b1r6ln1r1db4r1ln1r2g3ga1r2ga1g3r3ln1r1db2r1ln1r8/)
+(the same proportion at any scale), whose colour order is pattern [RBRGRBRWRBRWRGGRGGRWRBRWR](/stripes/rbrgrbrwrbrwrggrggrwrbrwr/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2267
 

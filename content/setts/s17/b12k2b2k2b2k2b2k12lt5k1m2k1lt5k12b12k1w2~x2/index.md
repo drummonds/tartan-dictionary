@@ -2,9 +2,10 @@
 title: "Donside Trampoline Club"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b12k2b2k2b2k2b2k12lb5k1lr2k1lb5k12b12k1w2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKWKRKWKBKW](/stripes/bkbkbkbkwkrkwkbkw/).
 
-This was sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from register-of-tartans.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10969
 

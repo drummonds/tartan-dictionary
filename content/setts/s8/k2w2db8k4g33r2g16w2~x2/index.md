@@ -2,9 +2,10 @@
 title: "Sarros (Personal) XX"
 date: 2023-03-18
 ---
-In pattern [KWBKGRGW](/stripes/kwbkgrgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2w2db8k4g33r2g16w2/)
+(the same proportion at any scale), whose colour order is pattern [KWBKGRGW](/stripes/kwbkgrgw/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10526/
 

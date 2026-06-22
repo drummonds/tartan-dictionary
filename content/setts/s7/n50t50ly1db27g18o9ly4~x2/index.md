@@ -2,9 +2,10 @@
 title: "Lachance Commemorative Tartan Tartan Number: 10645. Earliest known date: 01/04/2012 This tartan is designed to commemorate the award of the Queens Diamond Jubilee Medal in 2012. The colours inspired by the Lachance Arms are: silver (‘argent’), nobility, peace and serenity; green (‘vert’), antiquity and strength; gold (‘or’), the light of the sun; blue (‘azure’), the eastern sky; brown (‘brun’) for the base of the trees. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BBYBGRY](/stripes/bbybgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n50na50y1b27g18t9y4/)
+(the same proportion at any scale), whose colour order is pattern [BBYBGRY](/stripes/bbybgry/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10645
 

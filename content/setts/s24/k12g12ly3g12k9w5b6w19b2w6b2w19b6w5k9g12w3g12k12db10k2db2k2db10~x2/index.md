@@ -2,9 +2,10 @@
 title: "Campbell, dress"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k12g12y3g12k9ln5b6ln19b2ln6b2ln19b6ln5k9g12ln3g12k12ba10k2ba2k2ba10/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGWGKWBWBWBWBWKGYGK](/stripes/bkbkbkgwgkwbwbwbwbwkgygk/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

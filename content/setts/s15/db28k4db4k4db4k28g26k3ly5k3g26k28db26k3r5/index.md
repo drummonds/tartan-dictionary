@@ -2,18 +2,20 @@
 title: "Baillie"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b28k4b4k4b4k28g26k3y5k3g26k28b26k3r5/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKYKGKBKR](/stripes/bkbkbkgkykgkbkr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Baillie (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Baillie Clan Tartan Tartan Number: 278. Earliest known date: 1800 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a definitive source for the Baillie tartan. Wilson's were in business with a monopoly to supply tartan to the regiments. Wilson supplied the MacLeods, the MacKenzies and the Campbells with variations of the basic 'Black Watch' regimental sett. The Fencibles regiments were formed as a 'home guard' at the time of the Napoleonic Wars. Baillies Fencibles were disbanded in 1802 and it has been suggested that it was the white stripe of the MacKenzie turned yellow with age, that became the Baillie tartan some years later. Scoured but unbleached wool turns yellow in the course of a few years, but this theory is discounted by an entry in Wilson's manuscript notebooks of 1800, that 'this was the sett in which the Baillie Fencibles were clothed'. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=278))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Baillie (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Baillie Clan Tartan Tartan Number: 278. Earliest known date: 1800 The pattern books of the old firm of weavers, Wilson's of Bannockburn, provide a definitive source for the Baillie tartan. Wilson's were in business with a monopoly to supply tartan to the regiments. Wilson supplied the MacLeods, the MacKenzies and the Campbells with variations of the basic 'Black Watch' regimental sett. The Fencibles regiments were formed as a 'home guard' at the time of the Napoleonic Wars. Baillies Fencibles were disbanded in 1802 and it has been suggested that it was the white stripe of the MacKenzie turned yellow with age, that became the Baillie tartan some years later. Scoured but unbleached wool turns yellow in the course of a few years, but this theory is discounted by an entry in Wilson's manuscript notebooks of 1800, that 'this was the sett in which the Baillie Fencibles were clothed'. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=278">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/28 K4 B4 K4 B4 K28 G26 K3 Y5 K3 G26 K28 B26 K3 R/5

@@ -2,9 +2,10 @@
 title: "Hogarth of Firhill (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGYKBKB](/stripes/bgykbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4g14y2k14db14k2db3/)
+(the same proportion at any scale), whose colour order is pattern [BGYKBKB](/stripes/bgykbkb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/198/
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Hogarth, of Firhill
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- pre 1971 — Hogarth of Firhill (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/198/))
-- undated — Hogarth, of Firhill (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Hogarth of Firhill Family Tartan Tartan Number: 198. Earliest known date: pre 2003 The Lyon Court Books record Bu1, Bk1, Bu6, Bk6, Y1, Gr6, Az2 as the thread count. These figures may be proportionally increased at the weavers discretion. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=198))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1971 — Hogarth of Firhill (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/198/">record</a>)</li>
+<li>undated — Hogarth, of Firhill (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Hogarth of Firhill Family Tartan Tartan Number: 198. Earliest known date: pre 2003 The Lyon Court Books record Bu1, Bk1, Bu6, Bk6, Y1, Gr6, Az2 as the thread count. These figures may be proportionally increased at the weavers discretion. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=198">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 B/8 G28 Y4 K28 DB28 K4 DB/6

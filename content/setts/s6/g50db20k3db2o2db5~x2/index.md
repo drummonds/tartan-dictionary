@@ -2,9 +2,10 @@
 title: "St Andrews Hotel, Golf Resort, and SPA"
 date: 2023-03-18
 ---
-In pattern [BRBKBG](/stripes/brbkbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g50b20k3b2lt2b5/)
+(the same proportion at any scale), whose colour order is pattern [BRBKBG](/stripes/brbkbg/).
 
-This was sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

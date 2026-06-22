@@ -2,18 +2,20 @@
 title: "Bonnie Prince Charlie (Hudson Bay)"
 date: 2023-03-18
 ---
-In pattern [WBWBGYWBWYYGBGW](/stripes/wbwbgywbwyygbgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln9t14dr11t3lt11y7ln1dr3ln1y7t7dr3ln2b2ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBGYWBWYYGBGW](/stripes/wbwbgywbwyygbgw/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=310
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Bonnie Prince Charlie (Hudson Bay) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=310))
-- pre 1997 — Bonnie Prince Charlie (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2382/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Bonnie Prince Charlie (Hudson Bay) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=310">record</a>)</li>
+<li>pre 1997 — Bonnie Prince Charlie (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2382/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

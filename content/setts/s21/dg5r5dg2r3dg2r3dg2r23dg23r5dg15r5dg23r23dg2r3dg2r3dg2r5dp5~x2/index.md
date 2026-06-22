@@ -2,9 +2,10 @@
 title: "MacRae of Inverinate (Clan)"
 date: 2023-03-18
 ---
-In pattern [BRGRGRGRGRGRGRGRGRGRG](/stripes/brgrgrgrgrgrgrgrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp5r5dg2r3dg2r3dg2r23dg23r5dg15r5dg23r23dg2r3dg2r3dg2r5dga5/)
+(the same proportion at any scale), whose colour order is pattern [BRGRGRGRGRGRGRGRGRGRG](/stripes/brgrgrgrgrgrgrgrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2000/
 

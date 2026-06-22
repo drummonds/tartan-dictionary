@@ -2,9 +2,10 @@
 title: "Stewart/Stuart of Atholl"
 date: 2023-03-18
 ---
-In pattern [KRKGKGKGKGKGKRKR](/stripes/krkgkgkgkgkgkrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g22k1g2k1g3k8r20k1r3/)
+(the same proportion at any scale), whose colour order is pattern [KRKGKGKGKGKGKRKR](/stripes/krkgkgkgkgkgkrkr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3950
 

@@ -2,9 +2,10 @@
 title: "Justus Family Tartan Tartan Number: 2100. Earliest known date: 1990 Submitted as the Justus family sett but awaits the approval of the proposed Justus Family Society of North America. Sample supplied in 9 tpi. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKRKYKB](/stripes/bkrkykb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db1k4r1k1y1k4db1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKYKB](/stripes/bkrkykb/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2100
 

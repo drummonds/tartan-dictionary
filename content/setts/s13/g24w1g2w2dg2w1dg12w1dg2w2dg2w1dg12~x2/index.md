@@ -2,9 +2,10 @@
 title: "MacDonald, Lord of the Isles Hunting"
 date: 2023-03-18
 ---
-In pattern [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g24ln1g2ln2dg2ln1dg12ln1dg2ln2dg2ln1dg12/)
+(the same proportion at any scale), whose colour order is pattern [GWGWGWGWGWGWG](/stripes/gwgwgwgwgwgwg/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378
 
@@ -15,13 +16,14 @@ This cloth is also recorded under:
 - MacDonald, Lord of the Isles Htg #2
 - MacDonald, Lord of the Isles Hunting
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1950 — MacDonald, Lord of the Isles Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378))
-- 1950 — MacDonald, Lord of the Isles Htg #2 (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2209/))
-- undated — MacDonald, Lord Of the Isles hunting (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1950 — MacDonald, Lord of the Isles Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2378">record</a>)</li>
+<li>1950 — MacDonald, Lord of the Isles Htg #2 (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2209/">record</a>)</li>
+<li>undated — MacDonald, Lord Of the Isles hunting (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

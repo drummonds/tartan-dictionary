@@ -2,9 +2,10 @@
 title: "Prince Charles Edward"
 date: 2023-03-18
 ---
-In pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b40r40b44r2b2r40b2r2b2r7/)
+(the same proportion at any scale), whose colour order is pattern [BRBRBRBRBR](/stripes/brbrbrbrbr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

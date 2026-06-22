@@ -2,18 +2,20 @@
 title: "Wexford, County"
 date: 2023-03-18
 ---
-In pattern [GGGWKWGGGKYKGG](/stripes/gggwkwgggkykgg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g11dg6g6w1k2w1g6dg6g36k1y3k1g5dg5/)
+(the same proportion at any scale), whose colour order is pattern [GGGWKWGGGKYKGG](/stripes/gggwkwgggkykgg/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1997 — Wexford, County (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611))
-- 1997 — Wexford, County (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4248/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1997 — Wexford, County (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4611">record</a>)</li>
+<li>1997 — Wexford, County (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4248/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

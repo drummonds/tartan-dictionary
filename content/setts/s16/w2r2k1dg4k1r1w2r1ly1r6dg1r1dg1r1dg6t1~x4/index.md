@@ -2,9 +2,10 @@
 title: "MacInnes (MacGregor Hastie) (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGRGRGRYRWRKGKRW](/stripes/bgrgrgryrwrkgkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2r2k1g4k1r1ln2r1y1r6g1r1g1r1g6b1/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGRYRWRKGKRW](/stripes/bgrgrgryrwrkgkrw/).
 
-This was sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/189/
 

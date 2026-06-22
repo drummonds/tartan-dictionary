@@ -2,9 +2,10 @@
 title: "Macan, of Lurgyvallan"
 date: 2023-03-18
 ---
-In pattern [KRGRGKWKYKBBBKYKWKGRGRGR](/stripes/krgrgkwkykbbbkykwkgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r16g1r1g1r1g4k1ln1k1y1k1ba6b4ba6k1y1k1ln1k1g4r12g1r1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRGRGKWKYKBBBKYKWKGRGRGR](/stripes/krgrgkwkykbbbkykwkgrgrgr/).
 
-This was sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from weddslist.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Macan, of Lurgyvallan
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Macan, of Lurgyvallan (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Macan of Lurgyvallan Portrait Tartan Tartan Number: 1155. Earliest known date: 1831 The portrait of 'Captain Macan of Lurgyvallan painted and presented to him by his sincere friend William MacKenzie, 24th Oct. 1831' was recently sold at auction in London. The watercolour measured 10 by 7 inches. The chief (three eagles feathers) is wearing full Highland Dress. The tartan is a sort of MacLean of Duart, in the red Stewart group, but showing the MacLean inversion. No such person or clan or tartan or chief ever existed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1155))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Macan, of Lurgyvallan (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Macan of Lurgyvallan Portrait Tartan Tartan Number: 1155. Earliest known date: 1831 The portrait of 'Captain Macan of Lurgyvallan painted and presented to him by his sincere friend William MacKenzie, 24th Oct. 1831' was recently sold at auction in London. The watercolour measured 10 by 7 inches. The chief (three eagles feathers) is wearing full Highland Dress. The tartan is a sort of MacLean of Duart, in the red Stewart group, but showing the MacLean inversion. No such person or clan or tartan or chief ever existed. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1155">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 R/32 G2 R2 G2 R2 G8 K2 LN2 K2 Y2 K2 Ba12 B8 Ba12 K2 Y2 K2 LN2 K2 G8 R24 G2 R2 K/2

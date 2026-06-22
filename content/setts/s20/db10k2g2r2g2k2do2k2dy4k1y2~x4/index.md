@@ -2,9 +2,10 @@
 title: "Highfield Hunting"
 date: 2023-03-18
 ---
-In pattern [BKGRGKBKGKGKGKBKGRGK](/stripes/bkgrgkbkgkgkgkbkgrgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k2g2dra2g2k2dr2k2t4k1lt2/)
+(the same proportion at any scale), whose colour order is pattern [BKGRGKBKGKGKGKBKGRGK](/stripes/bkgrgkbkgkgkgkbkgrgk/).
 
-This was sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from register-of-tartans.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1705
 

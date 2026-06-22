@@ -2,9 +2,10 @@
 title: "Celtic 2009 (Sports)"
 date: 2023-03-18
 ---
-In pattern [GGGGG](/stripes/ggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga40dg15g4dg4g4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGG](/stripes/ggggg/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7990/
 

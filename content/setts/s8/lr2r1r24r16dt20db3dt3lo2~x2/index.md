@@ -2,9 +2,10 @@
 title: "Tache, Sir Etienne Paschal"
 date: 2023-03-18
 ---
-In pattern [YBBBRRRY](/stripes/ybbbrrry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy2k3db3k20dr16r24dr1n2/)
+(the same proportion at any scale), whose colour order is pattern [YBBBRRRY](/stripes/ybbbrrry/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4061
 

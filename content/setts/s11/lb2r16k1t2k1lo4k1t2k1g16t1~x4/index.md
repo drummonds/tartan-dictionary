@@ -2,9 +2,10 @@
 title: "Baxter (Clan)"
 date: 2023-03-18
 ---
-In pattern [BGKBKYKBKRW](/stripes/bgkbkykbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n2dr16k1b2k1dy4k1b2k1g16b1/)
+(the same proportion at any scale), whose colour order is pattern [BGKBKYKBKRW](/stripes/bgkbkykbkrw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/175/
 

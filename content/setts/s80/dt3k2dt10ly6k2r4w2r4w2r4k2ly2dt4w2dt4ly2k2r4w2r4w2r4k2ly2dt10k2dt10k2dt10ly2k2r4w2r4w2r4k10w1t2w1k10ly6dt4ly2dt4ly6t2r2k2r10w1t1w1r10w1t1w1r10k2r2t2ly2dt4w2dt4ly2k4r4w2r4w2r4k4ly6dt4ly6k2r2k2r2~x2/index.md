@@ -2,9 +2,10 @@
 title: "Ogilvy #2"
 date: 2023-03-18
 ---
-In pattern [BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWRKWBWKYBYBYBRKRWBWRWBWRKRBYBWBYKRWRWRKYBYKRKR](/stripes/bkbykrwrwrkybwbykrwrwrkybkbkbykrwrwrkwbwkybybybrkrwbwrwbwrkrbybwbykrwrwrkybykrkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3k2db10y6k2r4ln2r4ln2r4k2y2db4ln2db4y2k2r4ln2r4ln2r4k2y2db10k2db10k2db10y2k2r4ln2r4ln2r4k10ln1b2ln1k10y6db4y2db4y6b2r2k2r10ln1b1ln1r10ln1b1ln1r10k2r2b2y2db4ln2db4y2k4r4ln2r4ln2r4k4y6db4y6k2r2k2r2/)
+(the same proportion at any scale), whose colour order is pattern [BKBYKRWRWRKYBWBYKRWRWRKYBKBKBYKRWRWRKWBWKYBYBYBRKRWBWRWBWRKRBYBWBYKRWRWRKYBYKRKR](/stripes/bkbykrwrwrkybwbykrwrwrkybkbkbykrwrwrkwbwkybybybrkrwbwrwbwrkrbybwbykrwrwrkybykrkr/).
 
-This was sourced from register-of-tartans.  It is a [80 stripe tartan](/stripes/stripes80/).
+Sourced from register-of-tartans.  It is a [80 stripe tartan](/stripes/stripes80/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4843
 

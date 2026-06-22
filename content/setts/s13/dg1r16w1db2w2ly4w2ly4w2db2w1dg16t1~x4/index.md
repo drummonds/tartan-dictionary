@@ -2,9 +2,10 @@
 title: "Gibbs/Gibson (Name)"
 date: 2023-03-18
 ---
-In pattern [BGWBWYWYWBWRG](/stripes/bgwbwywywbwrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1r16w1db2w2y4w2y4w2db2w1g16b1/)
+(the same proportion at any scale), whose colour order is pattern [BGWBWYWYWBWRG](/stripes/bgwbwywywbwrg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2164/
 

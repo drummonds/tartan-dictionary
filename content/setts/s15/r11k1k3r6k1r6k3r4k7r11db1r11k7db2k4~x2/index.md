@@ -2,9 +2,10 @@
 title: "James (Welsh Name)"
 date: 2023-03-18
 ---
-In pattern [KBKRBRKRKRKRKKR](/stripes/kbkrbrkrkrkrkkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr11ka1k3dr6ka1dr6k3dr4k7dr11db1dr11k7db2ka4/)
+(the same proportion at any scale), whose colour order is pattern [KBKRBRKRKRKRKKR](/stripes/kbkrbrkrkrkrkkr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5736/
 

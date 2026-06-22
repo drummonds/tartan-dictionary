@@ -2,9 +2,10 @@
 title: "Finzean, Fancy"
 date: 2023-03-18
 ---
-In pattern [WRRKWGYRKRYBKRYW](/stripes/wrrkwgyrkrybkryw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5y8r6k6b28y12r6k2r6y12g28ln2k4r54dr1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WRRKWGYRKRYBKRYW](/stripes/wrrkwgyrkrybkryw/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

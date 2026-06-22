@@ -2,9 +2,10 @@
 title: "Yarrow Turquoise Dress Tartan Tartan Number: 8179. Earliest known date: See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KBWBWBKBYBYBY](/stripes/kbwbwbkbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2b2ln2b2ln27b2k9b3lg3b24lg2b4y2/)
+(the same proportion at any scale), whose colour order is pattern [KBWBWBKBYBYBY](/stripes/kbwbwbkbybyby/).
 
-This was sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from house-of-tartan.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=8179
 

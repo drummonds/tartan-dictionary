@@ -2,9 +2,10 @@
 title: "Scotland's National Dress"
 date: 2023-03-18
 ---
-In pattern [BWBRBKGKGKGBWR](/stripes/bwbrbkgkgkgbwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db14n2db2dr2db3k12g14k2g4k2g14db14n14dr2/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBKGKGKGBWR](/stripes/bwbrbkgkgkgbwr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3683
 

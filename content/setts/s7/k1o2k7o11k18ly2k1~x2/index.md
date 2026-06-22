@@ -2,18 +2,20 @@
 title: "DDB Canada (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRKRKYK](/stripes/krkrkyk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1n2k7n11k18y2k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKYK](/stripes/krkrkyk/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7657/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- June 2008 — DDB Canada (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7657/))
-- undated — DDB Canada (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5665))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>June 2008 — DDB Canada (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7657/">record</a>)</li>
+<li>undated — DDB Canada (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5665">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

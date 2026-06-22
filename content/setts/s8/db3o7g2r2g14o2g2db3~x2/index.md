@@ -2,9 +2,10 @@
 title: "Daks, Tartan-Loden"
 date: 2023-03-18
 ---
-In pattern [BGRGRGRB](/stripes/bgrgrgrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3lt7g2r2g14lt2g2b3/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRGRB](/stripes/bgrgrgrb/).
 
-This was sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

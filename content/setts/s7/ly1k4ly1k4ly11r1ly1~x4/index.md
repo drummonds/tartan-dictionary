@@ -2,9 +2,10 @@
 title: "Baileville (Personal)"
 date: 2023-03-18
 ---
-In pattern [YKYKYRY](/stripes/ykykyry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1k4y1k4y11dr1y1/)
+(the same proportion at any scale), whose colour order is pattern [YKYKYRY](/stripes/ykykyry/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2326/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Baileville
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- Oct. 1882 — Baileville (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2326/))
-- 01/01/1993 — Baileville (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>Oct. 1882 — Baileville (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2326/">record</a>)</li>
+<li>01/01/1993 — Baileville (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=159">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

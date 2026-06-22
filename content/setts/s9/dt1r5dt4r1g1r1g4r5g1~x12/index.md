@@ -2,9 +2,10 @@
 title: "Lumsden of Kintore (Clan?)"
 date: 2023-03-18
 ---
-In pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1r5g4r1g1r1dn4r5dn1/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRGRG](/stripes/brbrgrgrg/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/418/
 

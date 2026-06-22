@@ -2,9 +2,10 @@
 title: "Lochnagar Dress (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKGBGKBKRK](/stripes/gkgbgkbkrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5k1n33dp1n9k9dp5k1dr2k4/)
+(the same proportion at any scale), whose colour order is pattern [GKGBGKBKRK](/stripes/gkgbgkbkrk/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8237/
 

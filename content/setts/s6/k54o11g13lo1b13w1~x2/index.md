@@ -2,9 +2,10 @@
 title: "Kilmaine Saints (Corporate)"
 date: 2023-03-18
 ---
-In pattern [KRGYBW](/stripes/krgybw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k54n11g13dy1b13ln1/)
+(the same proportion at any scale), whose colour order is pattern [KRGYBW](/stripes/krgybw/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10423/
 

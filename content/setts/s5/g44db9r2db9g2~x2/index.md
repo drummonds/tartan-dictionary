@@ -2,19 +2,21 @@
 title: "Tyrconnell (Personal)"
 date: 2023-03-18
 ---
-In pattern [GBRBG](/stripes/gbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g44db9r2db9g2/)
+(the same proportion at any scale), whose colour order is pattern [GBRBG](/stripes/gbrbg/).
 
-This was sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/1998 — Tyrconnell (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177))
-- 1998 — Tyrconnell (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2580/))
-- undated — Tyrconnell (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1998 — Tyrconnell (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4177">record</a>)</li>
+<li>1998 — Tyrconnell (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2580/">record</a>)</li>
+<li>undated — Tyrconnell (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

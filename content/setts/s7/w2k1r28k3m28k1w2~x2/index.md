@@ -2,9 +2,10 @@
 title: "Aberdeen Football Club (1990)"
 date: 2023-03-18
 ---
-In pattern [WKRKRKW](/stripes/wkrkrkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln2k1dr28k3r28k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WKRKRKW](/stripes/wkrkrkw/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=16
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Aberdeen F.C.
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Aberdeen Football Club (1990) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=16))
-- undated — Aberdeen F.C. (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Aberdeen Football Club (1990) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=16">record</a>)</li>
+<li>undated — Aberdeen F.C. (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

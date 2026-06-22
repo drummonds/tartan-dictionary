@@ -2,9 +2,10 @@
 title: "O'Sullivan McCragh (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGYGRGBGBGBWRKRKRWBGBGBGBGBWRKRKRWBGBGBGRGYGR](/stripes/grgygrgbgbgbwrkrkrwbgbgbgbgbwrkrkrwbgbgbgrgygr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g16r2g4dy2g4r2g16db2g3db2g3db10ln2n12k2n5k2n12ln2db10g3db2g3db2/)
+(the same proportion at any scale), whose colour order is pattern [GRGYGRGBGBGBWRKRKRWBGBGBGBGBWRKRKRWBGBGBGRGYGR](/stripes/grgygrgbgbgbwrkrkrwbgbgbgbgbwrkrkrwbgbgbgrgygr/).
 
-This was sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
+Sourced from register-of-tartans.  It is a [46 stripe tartan](/stripes/stripes46/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3273
 

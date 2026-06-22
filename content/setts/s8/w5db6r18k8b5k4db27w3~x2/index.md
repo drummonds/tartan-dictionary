@@ -2,18 +2,20 @@
 title: "Clinton (Personal)"
 date: 2023-03-18
 ---
-In pattern [WBKBKRBW](/stripes/wbkbkrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln5db6r18k8b5k4db27ln3/)
+(the same proportion at any scale), whose colour order is pattern [WBKBKRBW](/stripes/wbkbkrbw/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2006 — Clinton (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688))
-- 2006 — Clinton (Personal) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/7076/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2006 — Clinton (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=688">record</a>)</li>
+<li>2006 — Clinton (Personal) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/7076/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

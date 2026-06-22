@@ -2,9 +2,10 @@
 title: "The Trew 40th"
 date: 2023-03-18
 ---
-In pattern [RBKBKBKWKBBBKKR](/stripes/rbkbkbkwkbbbkkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr4dg3k11ka3b3ka30k1ly4k1ka3k3ka3k3ka12dr2/)
+(the same proportion at any scale), whose colour order is pattern [RBKBKBKWKBBBKKR](/stripes/rbkbkbkwkbbbkkr/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10033
 

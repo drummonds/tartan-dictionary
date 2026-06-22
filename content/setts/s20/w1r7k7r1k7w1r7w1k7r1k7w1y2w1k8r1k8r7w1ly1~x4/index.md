@@ -2,9 +2,10 @@
 title: "Order of the Holy Sepulchre of Jerusalem"
 date: 2023-03-18
 ---
-In pattern [WRKRKWRWKRKWGWKRKRWY](/stripes/wrkrkwrwkrkwgwkrkrwy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1ln1r7k8r1k8ln1lg2ln1k7r1k7ln1r7ln1k7r1k7r7ln1/)
+(the same proportion at any scale), whose colour order is pattern [WRKRKWRWKRKWGWKRKRWY](/stripes/wrkrkwrwkrkwgwkrkrwy/).
 
-This was sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
+Sourced from weddslist.  It is a [20 stripe tartan](/stripes/stripes20/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

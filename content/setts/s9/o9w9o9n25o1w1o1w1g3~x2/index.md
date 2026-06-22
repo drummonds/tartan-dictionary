@@ -2,18 +2,20 @@
 title: "Ailsa, Grey (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GWRWRBRWR](/stripes/gwrwrbrwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na9ln9na9n25na1ln1na1ln1g3/)
+(the same proportion at any scale), whose colour order is pattern [GWRWRBRWR](/stripes/gwrwrbrwr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3025/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1985 — Ailsa, Grey (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3025/))
-- undated — Ailsa, Grey (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1985 — Ailsa, Grey (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3025/">record</a>)</li>
+<li>undated — Ailsa, Grey (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5008">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

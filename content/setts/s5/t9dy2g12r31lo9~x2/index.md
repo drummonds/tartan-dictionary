@@ -2,9 +2,10 @@
 title: "Buncle (Name)"
 date: 2023-03-18
 ---
-In pattern [BGGRY](/stripes/bggry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy9dr31g12t2b9/)
+(the same proportion at any scale), whose colour order is pattern [BGGRY](/stripes/bggry/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10300/
 

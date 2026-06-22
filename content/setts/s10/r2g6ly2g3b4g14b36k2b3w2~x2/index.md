@@ -2,9 +2,10 @@
 title: "Sarasota - Dunfermline (Commemorat)"
 date: 2023-03-18
 ---
-In pattern [RGYGBGBKBW](/stripes/rgygbgbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r2g6y2g3b4g14b36k2b3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RGYGBGBKBW](/stripes/rgygbgbkbw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5897/
 

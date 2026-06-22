@@ -2,9 +2,10 @@
 title: "Lamont Heather"
 date: 2023-03-18
 ---
-In pattern [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt18t3lt3t3lt3t16g16ln3g16t16lt17t3lt3t3lt17t16g16ln3/)
+(the same proportion at any scale), whose colour order is pattern [WGBYBYBYBGWGBYBYBY](/stripes/wgbybybybgwgbybyby/).
 
-This was sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from register-of-tartans.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2037
 

@@ -2,9 +2,10 @@
 title: "Sawicki, Peter (Personal)"
 date: 2023-03-18
 ---
-In pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10g2k2db2g14dy1g14db2k10g4k2g2k2/)
+(the same proportion at any scale), whose colour order is pattern [KGKBGYGBKGKGK](/stripes/kgkbgygbkgkgk/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10223/
 

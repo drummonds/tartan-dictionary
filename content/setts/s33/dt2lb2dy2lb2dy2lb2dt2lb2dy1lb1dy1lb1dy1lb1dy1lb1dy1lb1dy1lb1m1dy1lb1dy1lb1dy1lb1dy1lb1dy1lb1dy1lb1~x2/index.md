@@ -2,9 +2,10 @@
 title: "Invermark"
 date: 2023-03-18
 ---
-In pattern [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwgwgwgwgwrgwgwgwgwgwgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2lr2t2lr2t2lr2db2lr2t1lr1t1lr1t1lr1t1lr1t1lr1t1lr1r1t1lr1t1lr1t1lr1t1lr1t1lr1t1lr1/)
+(the same proportion at any scale), whose colour order is pattern [BWGWGWBWGWGWGWGWGWGWRGWGWGWGWGWGW](/stripes/bwgwgwbwgwgwgwgwgwgwrgwgwgwgwgwgw/).
 
-This was sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
+Sourced from tartans-authority.  It is a [33 stripe tartan](/stripes/stripes33/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8682/
 

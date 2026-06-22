@@ -2,18 +2,20 @@
 title: "Mundigl"
 date: 2023-03-18
 ---
-In pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba12k2ba2k2ba2k10r2k10b12k3b12k10ba11k2ba2/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKBKRKBKBKB](/stripes/bkbkbkbkrkbkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/11/2003 — Mundigl (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046))
-- Nov 2003 — Mundigl (Name) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/6066/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/11/2003 — Mundigl (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3046">record</a>)</li>
+<li>Nov 2003 — Mundigl (Name) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/6066/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

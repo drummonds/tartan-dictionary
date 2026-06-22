@@ -2,9 +2,10 @@
 title: "Dunbar Hunting"
 date: 2023-03-18
 ---
-In pattern [GGKGKG](/stripes/ggkgkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g4k2g28k8dg21g3/)
+(the same proportion at any scale), whose colour order is pattern [GGKGKG](/stripes/ggkgkg/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Dunbar Hunting
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1986 — Dunbar Hunting (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017))
-- 1986 — Dunbar Htg (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4744/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1986 — Dunbar Hunting (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1017">record</a>)</li>
+<li>1986 — Dunbar Htg (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4744/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

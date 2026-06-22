@@ -2,18 +2,20 @@
 title: "Lang"
 date: 2023-03-18
 ---
-In pattern [BBBBBBGBGB](/stripes/bbbbbbgbgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4p2b6p2b10p30g10p2g9p2/)
+(the same proportion at any scale), whose colour order is pattern [BBBBBBGBGB](/stripes/bbbbbbgbgb/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4833
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1840 — Lang (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4833))
-- Circa 1840 — Lang (Artefact) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3113/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1840 — Lang (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4833">record</a>)</li>
+<li>Circa 1840 — Lang (Artefact) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3113/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

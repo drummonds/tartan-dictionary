@@ -2,9 +2,10 @@
 title: "Cameron Hose #2"
 date: 2023-03-18
 ---
-In pattern [RKRRRWRR](/stripes/rkrrrwrr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r3ra3ln23ra3r3ra23k2ra3/)
+(the same proportion at any scale), whose colour order is pattern [RKRRRWRR](/stripes/rkrrrwrr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=493
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Cameron, Hose for E
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Cameron Hose #2 (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=493))
-- undated — Cameron, Hose for E (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Cameron Hose #2 (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=493">record</a>)</li>
+<li>undated — Cameron, Hose for E (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Free (Universal)"
 date: 2023-03-18
 ---
-In pattern [BKBKGKGKGKWBR](/stripes/bkbkgkgkgkwbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8k4dba15k16g16k4g6k4g16k16ln2dba6p6/)
+(the same proportion at any scale), whose colour order is pattern [BKBKGKGKGKWBR](/stripes/bkbkgkgkgkwbr/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10156/
 

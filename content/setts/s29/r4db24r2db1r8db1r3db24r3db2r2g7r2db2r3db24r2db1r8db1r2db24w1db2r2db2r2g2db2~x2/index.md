@@ -2,9 +2,10 @@
 title: "Hebridean, South Uist Specimen"
 date: 2023-03-18
 ---
-In pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBR](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4b24r2b1r8b1r3b24r3b2r2g7r2b2r3b24r2b1r8b1r2b24ln1b2r2b2r2g2b2/)
+(the same proportion at any scale), whose colour order is pattern [BGRBRBWBRBRBRBRBRGRBRBRBRBRBR](/stripes/bgrbrbwbrbrbrbrbrgrbrbrbrbrbr/).
 
-This was sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
+Sourced from weddslist.  It is a [29 stripe tartan](/stripes/stripes29/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

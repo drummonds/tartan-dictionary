@@ -2,9 +2,10 @@
 title: "MacBean dress"
 date: 2023-03-18
 ---
-In pattern [GWRRGRRWGWBWBWKR](/stripes/gwrrgrrwgwbwbwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g10ln4r4dr4g2dr4r4ln4g10ln4b4ln2b4ln23k2r2/)
+(the same proportion at any scale), whose colour order is pattern [GWRRGRRWGWBWBWKR](/stripes/gwrrgrrwgwbwbwkr/).
 
-This was sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from weddslist.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Gordon, Red (1819)"
 date: 2023-03-18
 ---
-In pattern [BWRWKBWBWGBGRKRKRKRGBGWBWBKWRW](/stripes/bwrwkbwbwgbgrkrkrkrgbgwbwbkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p16ln2lr7ln2k14b6ln2p15ln2g17b6g6r8k6r8k2/)
+(the same proportion at any scale), whose colour order is pattern [BWRWKBWBWGBGRKRKRKRGBGWBWBKWRW](/stripes/bwrwkbwbwgbgrkrkrkrgbgwbwbkwrw/).
 
-This was sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from register-of-tartans.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1466
 

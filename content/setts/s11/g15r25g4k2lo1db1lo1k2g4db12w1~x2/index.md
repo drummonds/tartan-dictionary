@@ -2,9 +2,10 @@
 title: "Livingstone - Australia (Personal)"
 date: 2023-03-18
 ---
-In pattern [GRGKYBYKGBW](/stripes/grgkybykgbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15dr25g4k2dy1db1dy1k2g4db12ln1/)
+(the same proportion at any scale), whose colour order is pattern [GRGKYBYKGBW](/stripes/grgkybykgbw/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10612/
 

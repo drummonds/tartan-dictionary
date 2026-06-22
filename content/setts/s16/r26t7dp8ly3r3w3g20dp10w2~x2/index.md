@@ -2,9 +2,10 @@
 title: "Wilson's No.227"
 date: 2023-03-18
 ---
-In pattern [BBYRWGBWBGWRYBBR](/stripes/bbyrwgbwbgwrybbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r26b7dp8y3r3w3g20dp10w2/)
+(the same proportion at any scale), whose colour order is pattern [BBYRWGBWBGWRYBBR](/stripes/bbyrwgbwbgwrybbr/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4754
 

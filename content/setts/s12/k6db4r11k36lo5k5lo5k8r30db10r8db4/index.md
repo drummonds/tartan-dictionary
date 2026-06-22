@@ -2,9 +2,10 @@
 title: "Johnnie Walker (2003) (Corporate)"
 date: 2023-03-18
 ---
-In pattern [BRBRKYKYKRBK](/stripes/brbrkykykrbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k6db4dr11k36dy5k5dy5k8dr30db10dr8db4/)
+(the same proportion at any scale), whose colour order is pattern [BRBRKYKYKRBK](/stripes/brbrkykykrbk/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6100/
 

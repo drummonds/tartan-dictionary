@@ -2,9 +2,10 @@
 title: "Mill o Forest Primary School (Corp)"
 date: 2023-03-18
 ---
-In pattern [BGRGRWRGGBRBG](/stripes/bgrgrwrggbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db3ga22r5ga5n5ln1n1ga1g8db6n1db5ga2/)
+(the same proportion at any scale), whose colour order is pattern [BGRGRWRGGBRBG](/stripes/bgrgrwrggbrbg/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7891/
 

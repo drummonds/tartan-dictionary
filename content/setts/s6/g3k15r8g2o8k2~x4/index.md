@@ -2,9 +2,10 @@
 title: "Thompson Black (Fashion)"
 date: 2023-03-18
 ---
-In pattern [GKRGRK](/stripes/gkrgrk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3k15r8g2n8k2/)
+(the same proportion at any scale), whose colour order is pattern [GKRGRK](/stripes/gkrgrk/).
 
-This was sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3596/
 
@@ -15,14 +16,15 @@ This cloth is also recorded under:
 - Lindsay Hunting Clan/Family
 - Thompson Black
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- pre 1987 — Thompson Black (Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3596/))
-- pre 2002 — Lindsay Htg (Clan?) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5429/))
-- undated — Thompson Black (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5196))
-- undated — Lindsay Hunting Clan/Family Tartan Tartan Number: 5429. Earliest known date: pre 2002 Sample in STA Johnston Collection. The history of this is not known and it may just be a fashion tartan from Pringles. The sett is the same as Thompson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5429))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>pre 1987 — Thompson Black (Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3596/">record</a>)</li>
+<li>pre 2002 — Lindsay Htg (Clan?) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5429/">record</a>)</li>
+<li>undated — Thompson Black (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5196">record</a>)</li>
+<li>undated — Lindsay Hunting Clan/Family Tartan Tartan Number: 5429. Earliest known date: pre 2002 Sample in STA Johnston Collection. The history of this is not known and it may just be a fashion tartan from Pringles. The sett is the same as Thompson. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=5429">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Recovery"
 date: 2023-03-18
 ---
-In pattern [BYBGBGBGKGKGKGKGRBRBR](/stripes/bybgbgbgkgkgkgkgrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db6y1db1g1db1g1db1g5k1g1k1g1k1g1k1g6r5db2r2b1r5/)
+(the same proportion at any scale), whose colour order is pattern [BYBGBGBGKGKGKGKGRBRBR](/stripes/bybgbgbgkgkgkgkgrbrbr/).
 
-This was sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from weddslist.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

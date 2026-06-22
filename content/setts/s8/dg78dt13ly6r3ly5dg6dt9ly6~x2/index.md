@@ -2,9 +2,10 @@
 title: "Walterström (2014)"
 date: 2023-03-18
 ---
-In pattern [GBYRYGBY](/stripes/gbyrygby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg78db13y6dr3y5dg6db9y6/)
+(the same proportion at any scale), whose colour order is pattern [GBYRYGBY](/stripes/gbyrygby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11080
 

@@ -2,9 +2,10 @@
 title: "Drummond of Perth Dress (Dance)"
 date: 2023-03-18
 ---
-In pattern [GYGBWGGBW](/stripes/gygbwggbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga41dy3g7n3w24ga10g7n7w3/)
+(the same proportion at any scale), whose colour order is pattern [GYGBWGGBW](/stripes/gygbwggbw/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6556/
 

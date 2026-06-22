@@ -2,9 +2,10 @@
 title: "Hay Hunting"
 date: 2023-03-18
 ---
-In pattern [GBYBGBGBGBGKGW](/stripes/gbybgbgbgbgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g6b4y2b17g2b2g2b8g26b6g4k2g4w6/)
+(the same proportion at any scale), whose colour order is pattern [GBYBGBGBGBGKGW](/stripes/gbybgbgbgbgkgw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=6021
 

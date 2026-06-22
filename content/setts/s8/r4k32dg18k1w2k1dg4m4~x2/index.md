@@ -2,9 +2,10 @@
 title: "Hot Boontjie"
 date: 2023-03-18
 ---
-In pattern [RGKWKGKR](/stripes/rgkwkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4k32g18k1ln2k1g4ra4/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKGKR](/stripes/rgkwkgkr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11317
 

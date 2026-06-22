@@ -2,9 +2,10 @@
 title: "Six Frigates (US)"
 date: 2023-03-18
 ---
-In pattern [BKYKBKBBGR](/stripes/bkykbkbbgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k1y2k1db10k17db2b1t1r1/)
+(the same proportion at any scale), whose colour order is pattern [BKYKBKBBGR](/stripes/bkykbkbbgr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10972
 

@@ -2,9 +2,10 @@
 title: "Erskine BW MINI Design Tartan Tartan Number: 12466. Earliest known date: Generated for display purposes. Reduced copy of the original 1246 Erskine BW. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [KWKWKW](/stripes/kwkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2ln1k9ln9k1ln2/)
+(the same proportion at any scale), whose colour order is pattern [KWKWKW](/stripes/kwkwkw/).
 
-This was sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=12466
 

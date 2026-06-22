@@ -2,9 +2,10 @@
 title: "Innes, of Cowie"
 date: 2023-03-18
 ---
-In pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1k6r1k1r1k1r6ln1r2g3r2k1g5k1r2ln1r2k1g5k1r2g3r2ln1r6k1r1k1r1k6b1/)
+(the same proportion at any scale), whose colour order is pattern [BKRKRKRWRGRKGKRWRKGKRGRWRKRKRKG](/stripes/bkrkrkrwrgrkgkrwrkgkrgrwrkrkrkg/).
 
-This was sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
+Sourced from weddslist.  It is a [31 stripe tartan](/stripes/stripes31/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

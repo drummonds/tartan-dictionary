@@ -2,9 +2,10 @@
 title: "Laurie Clan Tartan Tartan Number: 3201. Earliest known date: 2000 One of a set of three similar designs for Laurie, Lawrie and Lowry, designed by Peter MacDonald for Iain Laurie. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBGBRB](/stripes/bkbgbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp6r2dp1g25db16k2db4/)
+(the same proportion at any scale), whose colour order is pattern [BKBGBRB](/stripes/bkbgbrb/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=3201
 

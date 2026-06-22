@@ -2,20 +2,22 @@
 title: "Lauder (Family)"
 date: 2023-03-18
 ---
-In pattern [GBGKGR](/stripes/gbgkgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3db8g3k4g15r2/)
+(the same proportion at any scale), whose colour order is pattern [GBGKGR](/stripes/gbgkgr/).
 
-This was sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
+Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057
 
-## Attestations
-
-This cloth appears in 4 source records; the oldest owns this page.
-
-- 01/01/1842 — Lauder (Family) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057))
-- 1842 — Lauder (Family) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/709/))
-- undated — Lauder (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Lauder Clan Tartan Tartan Number: 709. Earliest known date: 1842 Possibly designed by Sir Thomas Dick Lauder who was a particular friend of the Sobieski brothers. The Setts No: 87. W & A K Johnston(1906). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=709))
+<details class="attestations">
+<summary>4 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1842 — Lauder (Family) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2057">record</a>)</li>
+<li>1842 — Lauder (Family) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/709/">record</a>)</li>
+<li>undated — Lauder (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Lauder Clan Tartan Tartan Number: 709. Earliest known date: 1842 Possibly designed by Sir Thomas Dick Lauder who was a particular friend of the Sobieski brothers. The Setts No: 87. W & A K Johnston(1906). See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=709">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

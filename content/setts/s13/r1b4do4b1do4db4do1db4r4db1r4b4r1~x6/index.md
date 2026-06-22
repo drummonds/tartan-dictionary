@@ -2,9 +2,10 @@
 title: "Vincent"
 date: 2023-03-18
 ---
-In pattern [RBBBBBBBRBRBR](/stripes/rbbbbbbbrbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr1b4k4b1k4db4k1db4dr4db1dr4b4dr1/)
+(the same proportion at any scale), whose colour order is pattern [RBBBBBBBRBRBR](/stripes/rbbbbbbbrbrbr/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Vincent (WCWM
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Vincent (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462))
-- pre 2002 — Vincent (WCWM - Fashion) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4342/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Vincent (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4462">record</a>)</li>
+<li>pre 2002 — Vincent (WCWM - Fashion) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4342/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

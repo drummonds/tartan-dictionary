@@ -2,9 +2,10 @@
 title: "Highland Village"
 date: 2023-03-18
 ---
-In pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly2k1dr10lt12k10ly6dr10k1ly2/)
+(the same proportion at any scale), whose colour order is pattern [YBRRBYRBY](/stripes/ybrrbyrby/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1724
 

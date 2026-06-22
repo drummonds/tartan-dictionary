@@ -2,9 +2,10 @@
 title: "Lake Superior (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln52b4ba6db28ba1ln1ba1ln1ba1ln1ba1ln1ba1ln1ba1ln1ba8ln24db12ln4db20b1db1b1db1b1db1b1db1b1db1ln8b8db16/)
+(the same proportion at any scale), whose colour order is pattern [BBWBBBBBBBBBBBWBWBWBWBWBWBWBWBBBBW](/stripes/bbwbbbbbbbbbbbwbwbwbwbwbwbwbwbbbbw/).
 
-This was sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
+Sourced from tartans-authority.  It is a [34 stripe tartan](/stripes/stripes34/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10198/
 

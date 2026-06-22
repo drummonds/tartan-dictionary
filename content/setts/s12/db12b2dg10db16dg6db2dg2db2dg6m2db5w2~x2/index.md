@@ -2,9 +2,10 @@
 title: "Ayre Robinson (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGBGBGBGRBW](/stripes/bbgbgbgbgrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db12b2dg10db16dg6db2dg2db2dg6r2db5w2/)
+(the same proportion at any scale), whose colour order is pattern [BBGBGBGBGRBW](/stripes/bbgbgbgbgrbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11291
 

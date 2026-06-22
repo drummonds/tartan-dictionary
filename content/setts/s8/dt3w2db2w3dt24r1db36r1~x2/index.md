@@ -2,9 +2,10 @@
 title: "Raith Rovers Football Club"
 date: 2023-03-18
 ---
-In pattern [BWBWBRBR](/stripes/bwbwbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba3ln2dbb2ln3dba24r1db36r1/)
+(the same proportion at any scale), whose colour order is pattern [BWBWBRBR](/stripes/bwbwbrbr/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Raith Rovers Football Club
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1995 — Raith Rovers Football Club (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446))
-- May 2002 — Raith Rovers (Sports) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2424/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1995 — Raith Rovers Football Club (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3446">record</a>)</li>
+<li>May 2002 — Raith Rovers (Sports) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2424/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

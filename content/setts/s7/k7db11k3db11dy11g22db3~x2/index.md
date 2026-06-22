@@ -2,9 +2,10 @@
 title: "Scottish Odyssey Commemorative Tartan Tartan Number: 4071. Earliest known date: 01/01/2002 The Scottish Odyssey tartan from Lochcarron is a 'celebration of the wonderful experiences to be gained' from a visit to Scotland and some of the most spectacularly contrasting landscapes to be seen in Europe. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BGGBKBK](/stripes/bggbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lb7b11k3b11t11g22b3/)
+(the same proportion at any scale), whose colour order is pattern [BGGBKBK](/stripes/bggbkbk/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4071
 

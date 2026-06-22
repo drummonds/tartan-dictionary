@@ -2,9 +2,10 @@
 title: "Reagan Clan Tartan Tartan Number: 6427. Earliest known date: 2004 Clan na Ua Riagain Debby Reagan, Secretary, 11 Bennett St., Sanford, ME 04073 U.S.A. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BRBBYBBRBG](/stripes/brbbybbrbg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2db1ba29dr29db1b2/)
+(the same proportion at any scale), whose colour order is pattern [BRBBYBBRBG](/stripes/brbbybbrbg/).
 
-This was sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from house-of-tartan.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6427
 

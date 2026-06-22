@@ -2,9 +2,10 @@
 title: "Guildford Town Centre (British Columbia)"
 date: 2023-03-18
 ---
-In pattern [BKGKBWBKGKGKBKGK](/stripes/bkgkbwbkgkgkbkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n38k5g5k5n5w2n12k10t5k5t10k9n76k9g2k5/)
+(the same proportion at any scale), whose colour order is pattern [BKGKBWBKGKGKBKGK](/stripes/bkgkbwbkgkgkbkgk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10785
 

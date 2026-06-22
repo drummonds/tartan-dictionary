@@ -2,9 +2,10 @@
 title: "Winthrop University"
 date: 2023-03-18
 ---
-In pattern [RWBRBRBRYRYRYWY](/stripes/rwbrbrbryryrywy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr2w2db6dr2db2dr2db1dr20y1dr2y2dr2y6w2y2/)
+(the same proportion at any scale), whose colour order is pattern [RWBRBRBRYRYRYWY](/stripes/rwbrbrbryryrywy/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10820
 

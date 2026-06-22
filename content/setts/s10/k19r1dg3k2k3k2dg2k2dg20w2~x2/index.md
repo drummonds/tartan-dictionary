@@ -2,9 +2,10 @@
 title: "Scottish Chieftain"
 date: 2023-03-18
 ---
-In pattern [KRGKKKGKGW](/stripes/krgkkkgkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k19r1g3k2k3k2g2k2g20ln2/)
+(the same proportion at any scale), whose colour order is pattern [KRGKKKGKGW](/stripes/krgkkkgkgw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5445
 

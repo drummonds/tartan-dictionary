@@ -2,9 +2,10 @@
 title: "Neumann - GPS German Pipe Smokers"
 date: 2023-03-18
 ---
-In pattern [BRYBYGYBYKYRB](/stripes/brybygybykyrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2r3y1t2y1n16y1ka32y1k2y1r1k1/)
+(the same proportion at any scale), whose colour order is pattern [BRYBYGYBYKYRB](/stripes/brybygybykyrb/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Neumann, Marcus
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 24/04/2012 — Neumann - GPS German Pipe Smokers (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606))
-- undated — Neumann, Marcus Name Tartan Tartan Number: 10606. Earliest known date: 24/04/2012 Created primarily for the designer and his immediate family but also for German pipe smokers to share. The broad fields of green and blue represent the Scottish landscape. The red, black and gold reflect the designer's German origins and the main tobaccos blended for pipe smoking (gold for Virginia; black for Latakia; red for Virginia; brown for Burley). Design created online at Scotweb. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10606))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>24/04/2012 — Neumann - GPS German Pipe Smokers (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10606">record</a>)</li>
+<li>undated — Neumann, Marcus Name Tartan Tartan Number: 10606. Earliest known date: 24/04/2012 Created primarily for the designer and his immediate family but also for German pipe smokers to share. The broad fields of green and blue represent the Scottish landscape. The red, black and gold reflect the designer's German origins and the main tobaccos blended for pipe smoking (gold for Virginia; black for Latakia; red for Virginia; brown for Burley). Design created online at Scotweb. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=10606">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

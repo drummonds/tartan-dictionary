@@ -2,9 +2,10 @@
 title: "Robertson 4"
 date: 2023-03-18
 ---
-In pattern [BRBRGRBRGRGRBRBRGRBRGRGRGRGR](/stripes/brbrgrbrgrgrbrbrgrbrgrgrgrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r28g2r5g2r28g2r5g2r28b3r3g24r3b24r3b3r28g2r5g2r28b3r3g24r3b24r3b3/)
+(the same proportion at any scale), whose colour order is pattern [BRBRGRBRGRGRBRBRGRBRGRGRGRGR](/stripes/brbrgrbrgrgrbrbrgrbrgrgrgrgr/).
 
-This was sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from weddslist.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

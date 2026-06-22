@@ -2,9 +2,10 @@
 title: "Hislop/Hyslop Hunting"
 date: 2023-03-18
 ---
-In pattern [KWKGBKWKBGKWKR](/stripes/kwkgbkwkbgkwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k18w3k18g18bb18k2ln4k2bb18g18k18w3k18r3/)
+(the same proportion at any scale), whose colour order is pattern [KWKGBKWKBGKWKR](/stripes/kwkgbkwkbgkwkr/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1737
 

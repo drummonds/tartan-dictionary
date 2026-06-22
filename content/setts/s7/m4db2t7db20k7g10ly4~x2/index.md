@@ -2,9 +2,10 @@
 title: "Renfrewshire District Tartan Tartan Number: 2560. Earliest known date: 1998 Designed for anyone residing in the County of Renfrewshire See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [RBBBKGY](/stripes/rbbbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4db2b7db20k7g10y4/)
+(the same proportion at any scale), whose colour order is pattern [RBBBKGY](/stripes/rbbbkgy/).
 
-This was sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from house-of-tartan.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2560
 

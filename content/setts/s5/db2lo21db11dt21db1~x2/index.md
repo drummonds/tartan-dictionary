@@ -2,9 +2,10 @@
 title: "St. Matthews Check (School)"
 date: 2023-03-18
 ---
-In pattern [BBBYB](/stripes/bbbyb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba2dy21dba11db21dba1/)
+(the same proportion at any scale), whose colour order is pattern [BBBYB](/stripes/bbbyb/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8147/
 

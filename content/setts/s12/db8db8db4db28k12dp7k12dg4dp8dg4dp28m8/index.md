@@ -2,9 +2,10 @@
 title: "Kinloch Anderson Thistle (Fashion)"
 date: 2023-03-18
 ---
-In pattern [BBBBKBKGBGBR](/stripes/bbbbkbkgbgbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db8dba8db4dba28k12p7k12dg4p8dg4p28lp8/)
+(the same proportion at any scale), whose colour order is pattern [BBBBKBKGBGBR](/stripes/bbbbkbkgbgbr/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10146/
 

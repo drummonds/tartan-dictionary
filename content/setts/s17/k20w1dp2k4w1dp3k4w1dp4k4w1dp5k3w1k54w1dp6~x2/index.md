@@ -2,9 +2,10 @@
 title: "Purdy Black (Name)"
 date: 2023-03-18
 ---
-In pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k20ln1p2k4ln1p3k4ln1p4k4ln1p5k3ln1k54ln1p6/)
+(the same proportion at any scale), whose colour order is pattern [BWKWKBWKBWKBWKBWK](/stripes/bwkwkbwkbwkbwkbwk/).
 
-This was sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
+Sourced from tartans-authority.  It is a [17 stripe tartan](/stripes/stripes17/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10587/
 

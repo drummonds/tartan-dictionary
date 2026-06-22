@@ -2,9 +2,10 @@
 title: "Kinnieson (Personal)"
 date: 2023-03-18
 ---
-In pattern [BKWGWGWKRKWYWYWK](/stripes/bkwgwgwkrkwywywk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k64n38dy4n38dy4n38k64dr8k64n38g4n38g4n38k65db8/)
+(the same proportion at any scale), whose colour order is pattern [BKWGWGWKRKWYWYWK](/stripes/bkwgwgwkrkwywywk/).
 
-This was sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
+Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1994
 

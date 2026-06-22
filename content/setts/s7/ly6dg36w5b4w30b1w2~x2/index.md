@@ -2,9 +2,10 @@
 title: "Pearce Scotch Plaid 4 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [WBWBWGY](/stripes/wbwbwgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y6dg36ln5b4ln30b1ln2/)
+(the same proportion at any scale), whose colour order is pattern [WBWBWGY](/stripes/wbwbwgy/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8096/
 

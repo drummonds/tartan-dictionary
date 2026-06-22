@@ -2,9 +2,10 @@
 title: "McAlbourne (Corporate)"
 date: 2023-03-18
 ---
-In pattern [GGGGGGGGY](/stripes/ggggggggy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o4gb7g17dg12dga6ga8dga4gb52g4/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGGGY](/stripes/ggggggggy/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10073/
 

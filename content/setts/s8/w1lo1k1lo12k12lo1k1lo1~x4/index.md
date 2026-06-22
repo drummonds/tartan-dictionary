@@ -2,9 +2,10 @@
 title: "Johnston Orange/Black (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WYKYKYKY](/stripes/wykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o1k1o1k12o12k1o1w1/)
+(the same proportion at any scale), whose colour order is pattern [WYKYKYKY](/stripes/wykykyky/).
 
-This was sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5307/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Johnston Orange/Black
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1945 — Johnston Orange/Black (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/5307/))
-- pre 2010 — Atlas Textile (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/8090/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1945 — Johnston Orange/Black (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/5307/">record</a>)</li>
+<li>pre 2010 — Atlas Textile (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/8090/">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 O/4 K4 O4 K48 O48 K4 O4 W/4

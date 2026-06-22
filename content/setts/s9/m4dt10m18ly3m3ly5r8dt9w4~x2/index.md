@@ -2,9 +2,10 @@
 title: "Khosla, Sarah and Jatin (Personal)"
 date: 2023-03-18
 ---
-In pattern [RBRYRYRBW](/stripes/rbryryrbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p4k10r18lya3r3lya5lr8k9ly4/)
+(the same proportion at any scale), whose colour order is pattern [RBRYRYRBW](/stripes/rbryryrbw/).
 
-This was sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11164
 

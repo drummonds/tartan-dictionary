@@ -2,9 +2,10 @@
 title: "Kingennie Sunrise"
 date: 2023-03-18
 ---
-In pattern [RWYBBRWKGRW](/stripes/rwybbrwkgrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/p24n4na3b3ba3p3lp3r24g2p2ln2/)
+(the same proportion at any scale), whose colour order is pattern [RWYBBRWKGRW](/stripes/rwybbrwkgrw/).
 
-This was sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from register-of-tartans.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11467
 

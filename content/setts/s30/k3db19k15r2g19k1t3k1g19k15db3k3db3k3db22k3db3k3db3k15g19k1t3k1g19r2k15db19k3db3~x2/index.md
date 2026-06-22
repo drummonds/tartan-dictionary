@@ -2,9 +2,10 @@
 title: "Sempill Clan/Family Tartan Tartan Number: 2420. Earliest known date: 1996 The historic connection between the Forbes and the Sempills is the reason for the similarity of the tartans. Sir Thomas Innes of Learney GCVO Lord Lyon 1945 - 1969 suggested that red should be use in the tartan because that colour was in the Sempill chevron. The white in the Forbes was adjusted to light blue as a late change and a further difference. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [BKBKRGKBKGKBKBKBKBKBKGKBKGRKBK](/stripes/bkbkrgkbkgkbkbkbkbkbkgkbkgrkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k3db19k15r2g19k1b3k1g19k15db3k3db3k3db22k3db3k3db3k15g19k1b3k1g19r2k15db19k3db3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKRGKBKGKBKBKBKBKBKGKBKGRKBK](/stripes/bkbkrgkbkgkbkbkbkbkbkgkbkgrkbk/).
 
-This was sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
+Sourced from house-of-tartan.  It is a [30 stripe tartan](/stripes/stripes30/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2420
 

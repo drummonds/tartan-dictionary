@@ -2,9 +2,10 @@
 title: "MacMillan - 1842 (Dress)"
 date: 2023-03-18
 ---
-In pattern [RYRYRYRYR](/stripes/ryryryryr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr3y2dr12y2dr3y8dr2y8dr2/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRYRYR](/stripes/ryryryryr/).
 
-This was sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
+Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1723/
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - MacMillan Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 1842 — MacMillan - 1842 (Dress) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/1723/))
-- 01/01/1880 — MacMillan Dress (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2658))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>1842 — MacMillan - 1842 (Dress) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/1723/">record</a>)</li>
+<li>01/01/1880 — MacMillan Dress (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2658">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "McKnight (Personal)"
 date: 2023-03-18
 ---
-In pattern [BYRBKBK](/stripes/byrbkbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4y1r28db25k10b5k3/)
+(the same proportion at any scale), whose colour order is pattern [BYRBKBK](/stripes/byrbkbk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2892
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - McKnight Dress
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/02/2003 — McKnight (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2892))
-- 01/02/2003 — McKnight Dress (Personal) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2894))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/02/2003 — McKnight (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2892">record</a>)</li>
+<li>01/02/2003 — McKnight Dress (Personal) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2894">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Sanley-Cantamessa (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRKBKWK](/stripes/krkbkwk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k16w15k4db12k22r2k6/)
+(the same proportion at any scale), whose colour order is pattern [KRKBKWK](/stripes/krkbkwk/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10854
 

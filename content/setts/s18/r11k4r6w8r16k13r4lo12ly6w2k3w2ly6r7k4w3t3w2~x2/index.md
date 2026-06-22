@@ -2,9 +2,10 @@
 title: "Jacobite Old Sett (Artefact)"
 date: 2023-03-18
 ---
-In pattern [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r11k4r6ln8r16k13r4dy12y6ln2k3ln2y6r7k4ln3b3ln2/)
+(the same proportion at any scale), whose colour order is pattern [RKRWRKRYYWKWYRKWBW](/stripes/rkrwrkryywkwyrkwbw/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1603/
 

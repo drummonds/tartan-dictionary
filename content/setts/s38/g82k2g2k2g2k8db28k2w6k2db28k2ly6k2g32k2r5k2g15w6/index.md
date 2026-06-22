@@ -2,9 +2,10 @@
 title: "Ayre Personal Tartan Tartan Number: 6305. Earliest known date: 1819 This is Wilsons No. 038 (1819) and has been adopted by David Ayre of Kilmarnock as a private family tartan. See #805. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-In pattern [GKGKGKBKWKBKYKGKRKGWGKRKGKYKBKWKBKGKGK](/stripes/gkgkgkbkwkbkykgkrkgwgkrkgkykbkwkbkgkgk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g82k2g2k2g2k8db28k2w6k2db28k2y6k2g32k2r5k2g15w6/)
+(the same proportion at any scale), whose colour order is pattern [GKGKGKBKWKBKYKGKRKGWGKRKGKYKBKWKBKGKGK](/stripes/gkgkgkbkwkbkykgkrkgwgkrkgkykbkwkbkgkgk/).
 
-This was sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
+Sourced from house-of-tartan.  It is a [38 stripe tartan](/stripes/stripes38/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=6305
 

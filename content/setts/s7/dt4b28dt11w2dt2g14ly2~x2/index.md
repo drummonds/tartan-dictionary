@@ -2,9 +2,10 @@
 title: "Rhode Island, State of"
 date: 2023-03-18
 ---
-In pattern [BBBWBGY](/stripes/bbbwbgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn4b28dn11ln2dn2g14y2/)
+(the same proportion at any scale), whose colour order is pattern [BBBWBGY](/stripes/bbbwbgy/).
 
-This was sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from register-of-tartans.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504
 
@@ -14,13 +15,14 @@ This cloth is also recorded under:
 
 - Rhode Island, State of
 
-## Attestations
-
-This cloth appears in 3 source records; the oldest owns this page.
-
-- 01/01/2000 — Rhode Island, State of (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504))
-- Mar. 2000 — Rhode Island, State of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2659/))
-- undated — Rhode Island State American District Tartan Tartan Number: 2659. Earliest known date: Mar. 2000 Official state tartan for RI. Designed for the St Andrew's Society of the State of Rhode Island by Claire Donaldson of the House of Edgar. Distribution contolled by the St Andrew's Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2659))
+<details class="attestations">
+<summary>3 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2000 — Rhode Island, State of (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3504">record</a>)</li>
+<li>Mar. 2000 — Rhode Island, State of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2659/">record</a>)</li>
+<li>undated — Rhode Island State American District Tartan Tartan Number: 2659. Earliest known date: Mar. 2000 Official state tartan for RI. Designed for the St Andrew's Society of the State of Rhode Island by Claire Donaldson of the House of Edgar. Distribution contolled by the St Andrew's Society. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2659">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

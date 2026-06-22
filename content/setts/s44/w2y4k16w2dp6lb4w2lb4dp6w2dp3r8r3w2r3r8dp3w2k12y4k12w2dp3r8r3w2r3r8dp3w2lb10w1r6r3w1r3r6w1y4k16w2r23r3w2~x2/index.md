@@ -2,9 +2,10 @@
 title: "Aberdeen - 1819 (District)"
 date: 2023-03-18
 ---
-In pattern [WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/wgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w2t4k16w2dp6lb4w2lb4dp6w2dp3r8lr3w2lr3r8dp3w2k12t4k12w2dp3r8lr3w2lr3r8dp3w2lb10w1r6lr3w1lr3r6w1t4k16w2r23lr3w2/)
+(the same proportion at any scale), whose colour order is pattern [WGKWBWWWBWBRRWRRBWKGKWBRRWRRBWWWRRWRRWGKWRRW](/stripes/wgkwbwwwbwbrrwrrbwkgkwbrrwrrbwwwrrwrrwgkwrrw/).
 
-This was sourced from tartans-authority.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from tartans-authority.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1801/
 

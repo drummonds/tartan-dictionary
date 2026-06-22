@@ -2,18 +2,20 @@
 title: "Border Union Cattle Show"
 date: 2023-03-18
 ---
-In pattern [BKGKRKGKWR](/stripes/bkgkrkgkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr20k4g14k1do2k1g14k10ln22do7/)
+(the same proportion at any scale), whose colour order is pattern [BKGKRKGKWR](/stripes/bkgkrkgkwr/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5333
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1994 — Border Union Cattle Show (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5333))
-- 1994 — Border Union Cattle Show (Corporate) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/3715/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1994 — Border Union Cattle Show (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5333">record</a>)</li>
+<li>1994 — Border Union Cattle Show (Corporate) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/3715/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

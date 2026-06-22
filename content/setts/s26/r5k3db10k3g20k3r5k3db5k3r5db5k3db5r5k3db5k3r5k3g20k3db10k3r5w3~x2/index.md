@@ -2,18 +2,20 @@
 title: "Schneidersohne Centenary"
 date: 2023-03-18
 ---
-In pattern [RKBKGKRKBKRBKBRKBKRKGKBKRW](/stripes/rkbkgkrkbkrbkbrkbkrkgkbkrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r5k3db10k3g20k3r5k3db5k3r5db5k3db5r5k3db5k3r5k3g20k3db10k3r5ln3/)
+(the same proportion at any scale), whose colour order is pattern [RKBKGKRKBKRBKBRKBKRKGKBKRW](/stripes/rkbkgkrkbkrbkbrkbkrkgkbkrw/).
 
-This was sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
+Sourced from register-of-tartans.  It is a [26 stripe tartan](/stripes/stripes26/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3665
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/2002 — Schneidersohne Centenary (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3665))
-- undated — Schneidersohne Centenary Corporate Tartan Tartan Number: 4533. Earliest known date: April 2002 100 year celebration of German paper mill, Schneidersohne. The tartan design was prepared and presented to them by Inveresk in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4533))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/2002 — Schneidersohne Centenary (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3665">record</a>)</li>
+<li>undated — Schneidersohne Centenary Corporate Tartan Tartan Number: 4533. Earliest known date: April 2002 100 year celebration of German paper mill, Schneidersohne. The tartan design was prepared and presented to them by Inveresk in Scotland. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=4533">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

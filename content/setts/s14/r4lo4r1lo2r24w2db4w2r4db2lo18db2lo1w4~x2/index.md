@@ -2,9 +2,10 @@
 title: "San Francisco"
 date: 2023-03-18
 ---
-In pattern [RYRYRWBWRBYBYW](/stripes/ryryrwbwrbybyw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r4dy4r1dy2r24ln2db4ln2r4db2dy18db2dy1ln4/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRWBWRBYBYW](/stripes/ryryrwbwrbybyw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5827
 

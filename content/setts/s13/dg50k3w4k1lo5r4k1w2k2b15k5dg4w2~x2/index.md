@@ -2,9 +2,10 @@
 title: "City of Abbotsford (District)"
 date: 2023-03-18
 ---
-In pattern [GKWKYRKWKBKGW](/stripes/gkwkyrkwkbkgw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg50k3ln4k1dy5r4k1ln2k2b15k5dg4ln2/)
+(the same proportion at any scale), whose colour order is pattern [GKWKYRKWKBKGW](/stripes/gkwkyrkwkbkgw/).
 
-This was sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10387/
 

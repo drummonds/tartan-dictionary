@@ -2,9 +2,10 @@
 title: "Clemens and August (Personal)"
 date: 2023-03-18
 ---
-In pattern [BWBRBRBY](/stripes/bwbrbrby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y35db3r4db3r8db30ln3db4/)
+(the same proportion at any scale), whose colour order is pattern [BWBRBRBY](/stripes/bwbrbrby/).
 
-This was sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
+Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5781
 

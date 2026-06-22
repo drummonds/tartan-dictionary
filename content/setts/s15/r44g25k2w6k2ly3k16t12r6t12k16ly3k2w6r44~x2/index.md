@@ -2,9 +2,10 @@
 title: "Wilson's, No 17"
 date: 2023-03-18
 ---
-In pattern [RGKWKYKBRBKYKWR](/stripes/rgkwkykbrbkykwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r44g25k2ln6k2y3k16b12r6b12k16y3k2ln6r44/)
+(the same proportion at any scale), whose colour order is pattern [RGKWKYKBRBKYKWR](/stripes/rgkwkykbrbkykwr/).
 
-This was sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

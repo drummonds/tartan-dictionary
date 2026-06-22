@@ -2,9 +2,10 @@
 title: "Doon Valley Crafters"
 date: 2023-03-18
 ---
-In pattern [WKGKBGBGBKGKY](/stripes/wkgkbgbgbkgky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y3k1g10k7b10g2b2g2b10k7g10k1ln3/)
+(the same proportion at any scale), whose colour order is pattern [WKGKBGBGBKGKY](/stripes/wkgkbgbgbkgky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10806
 

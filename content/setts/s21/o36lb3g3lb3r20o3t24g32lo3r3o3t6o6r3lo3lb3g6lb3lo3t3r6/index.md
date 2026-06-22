@@ -2,18 +2,20 @@
 title: "Victoria, County of (District)"
 date: 2023-03-18
 ---
-In pattern [RBYWGWYRRBRRYGBRRWGWR](/stripes/rbywgwyrrbrrygbrrwgwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na36n3g3n3r20na3b24g32dy3r3na3b6na6r3dy3n3g6n3dy3b3r6/)
+(the same proportion at any scale), whose colour order is pattern [RBYWGWYRRBRRYGBRRWGWR](/stripes/rbywgwyrrbrrygbrrwgwr/).
 
-This was sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
+Sourced from tartans-authority.  It is a [21 stripe tartan](/stripes/stripes21/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4343/
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- May 1984 — Victoria, County of (District) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/4343/))
-- 01/01/1986 — Victoria, County of (Texas, USA) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4459))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>May 1984 — Victoria, County of (District) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/4343/">record</a>)</li>
+<li>01/01/1986 — Victoria, County of (Texas, USA) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4459">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Dempster, Ross (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBGRRGB](/stripes/bbgrrgb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4g2dr17dra9g10db30n2/)
+(the same proportion at any scale), whose colour order is pattern [BBGRRGB](/stripes/bbgrrgb/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2814/
 

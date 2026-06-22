@@ -2,9 +2,10 @@
 title: "State Seal of Idaho (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KGYYBYGYWBKW](/stripes/kgyybygywbkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr4k1b33lr4lt15g4lt3b4lt15dy2g30k2/)
+(the same proportion at any scale), whose colour order is pattern [KGYYBYGYWBKW](/stripes/kgyybygywbkw/).
 
-This was sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8626/
 

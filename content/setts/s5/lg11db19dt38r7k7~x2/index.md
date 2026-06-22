@@ -2,9 +2,10 @@
 title: "Rose, Danny and Hanna (Personal)"
 date: 2023-03-18
 ---
-In pattern [KRBBY](/stripes/krbby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b11db19dn38dr7k7/)
+(the same proportion at any scale), whose colour order is pattern [KRBBY](/stripes/krbby/).
 
-This was sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
+Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11219/
 

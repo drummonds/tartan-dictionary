@@ -2,9 +2,10 @@
 title: "Leutz (Name?)"
 date: 2023-03-18
 ---
-In pattern [BGWB](/stripes/bgwb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b53g20ln18db14/)
+(the same proportion at any scale), whose colour order is pattern [BGWB](/stripes/bgwb/).
 
-This was sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
+Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6977/
 

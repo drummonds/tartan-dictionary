@@ -2,9 +2,10 @@
 title: "Sandhu (Name)"
 date: 2023-03-18
 ---
-In pattern [BRBKGWYKBRB](/stripes/brbkgwykbrb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n12r4n64k64o7ln7g7k64n64r4n12/)
+(the same proportion at any scale), whose colour order is pattern [BRBKGWYKBRB](/stripes/brbkgwykbrb/).
 
-This was sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
+Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7495/
 

@@ -2,9 +2,10 @@
 title: "Werris Creek Catholic Parish"
 date: 2023-03-18
 ---
-In pattern [GYGYBYYWBWBWRW](/stripes/gygybyywbwbwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga4n1ga5y4p3y5g6w3ba5w2b3w4r3w1/)
+(the same proportion at any scale), whose colour order is pattern [GYGYBYYWBWBWRW](/stripes/gygybyywbwbwrw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10137
 

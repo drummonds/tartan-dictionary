@@ -2,9 +2,10 @@
 title: "Newall (Personal)"
 date: 2023-03-18
 ---
-In pattern [BBWGWBW](/stripes/bbwgwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b30db15lr4g12lr9b8lr3/)
+(the same proportion at any scale), whose colour order is pattern [BBWGWBW](/stripes/bbwgwbw/).
 
-This was sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
+Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10830/
 

@@ -2,9 +2,10 @@
 title: "Leith (Hay)"
 date: 2023-03-18
 ---
-In pattern [KRYKRBRYRBRKWGRYRGRKYRKRYKRGRYRGWKRBRYRBRKYR](/stripes/krykrbryrbrkwgryrgrkyrkrykrgryrgwkrbryrbrkyr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k14r4y4k8r70dp8r3y3r8dp64r3k63ln3g64r8y3r3g8r70k8y4r4k14/)
+(the same proportion at any scale), whose colour order is pattern [KRYKRBRYRBRKWGRYRGRKYRKRYKRGRYRGWKRBRYRBRKYR](/stripes/krykrbryrbrkwgryrgrkyrkrykrgryrgwkrbryrbrkyr/).
 
-This was sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
+Sourced from register-of-tartans.  It is a [44 stripe tartan](/stripes/stripes44/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091
 
@@ -14,12 +15,13 @@ This cloth is also recorded under:
 
 - Leith & Hay
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- 01/01/1819 — Leith (Hay) (register-of-tartans, [record](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091))
-- 1819 — Leith & Hay (Clan) (tartans-authority, [record](http://www.tartansauthority.com/tartan-ferret/display/2131/))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>01/01/1819 — Leith (Hay) (register-of-tartans, <a href="https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2091">record</a>)</li>
+<li>1819 — Leith & Hay (Clan) (tartans-authority, <a href="http://www.tartansauthority.com/tartan-ferret/display/2131/">record</a>)</li>
+</ul>
+</details>
 
 ## Register references
 

@@ -2,9 +2,10 @@
 title: "Bumbee #2 (Fashion)"
 date: 2023-03-18
 ---
-In pattern [KRKRKRKGKRKGKRKGKR](/stripes/krkrkrkgkrkgkrkgkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o10k1t1k1o1k1t10k1dr1k1t1k1dr10k1o1k1dr1k1/)
+(the same proportion at any scale), whose colour order is pattern [KRKRKRKGKRKGKRKGKR](/stripes/krkrkrkgkrkgkrkgkr/).
 
-This was sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
+Sourced from tartans-authority.  It is a [18 stripe tartan](/stripes/stripes18/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3765/
 

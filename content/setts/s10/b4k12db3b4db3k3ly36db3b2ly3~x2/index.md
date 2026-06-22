@@ -2,9 +2,10 @@
 title: "Hughes (USA) (Name)"
 date: 2023-03-18
 ---
-In pattern [BKBBBKYBBY](/stripes/bkbbbkybby/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4k12db3b4db3k3y36db3b2y3/)
+(the same proportion at any scale), whose colour order is pattern [BKBBBKYBBY](/stripes/bkbbbkybby/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6604/
 

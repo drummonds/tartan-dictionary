@@ -2,9 +2,10 @@
 title: "Wilson's No.043"
 date: 2023-03-18
 ---
-In pattern [KWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/kwrbkbkbkygrbrbrgykbkbkbrwkr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k5w4r19b12k2b2k2b12k20y3g26r19b5r20b5r19g26y3k20b12k2b2k2b12r19w4k5r5/)
+(the same proportion at any scale), whose colour order is pattern [KWRBKBKBKYGRBRBRGYKBKBKBRWKR](/stripes/kwrbkbkbkygrbrbrgykbkbkbrwkr/).
 
-This was sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
+Sourced from register-of-tartans.  It is a [28 stripe tartan](/stripes/stripes28/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4653
 

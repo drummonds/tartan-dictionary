@@ -2,9 +2,10 @@
 title: "Holland, Tartan of"
 date: 2023-03-18
 ---
-In pattern [BWBBBBRBRYRYWYRYRBRBBBBW](/stripes/bwbbbbrbryrywyryrbrbbbbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dba15w2dba9db10dba2db10r8db2r8o6r2o19w3/)
+(the same proportion at any scale), whose colour order is pattern [BWBBBBRBRYRYWYRYRBRBBBBW](/stripes/bwbbbbrbryrywyryrbrbbbbw/).
 
-This was sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from register-of-tartans.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1750
 

@@ -2,9 +2,10 @@
 title: "Forbes #2"
 date: 2023-03-18
 ---
-In pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b17k3b3k3b3k16g15k2ln3k2g15k16b16k3b3/)
+(the same proportion at any scale), whose colour order is pattern [BKBKBKGKWKGKBKB](/stripes/bkbkbkgkwkgkbkb/).
 
-This was sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from register-of-tartans.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1215
 

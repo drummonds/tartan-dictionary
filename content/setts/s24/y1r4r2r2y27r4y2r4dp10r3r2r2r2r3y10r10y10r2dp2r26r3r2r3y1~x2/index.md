@@ -2,9 +2,10 @@
 title: "MacDougall - 1819 (Clan)"
 date: 2023-03-18
 ---
-In pattern [GRRRGRGRBRRRRRGRGRBRRRRG](/stripes/grrrgrgrbrrrrrgrgrbrrrrg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg1r4lr2ra2g27ra4g2ra4dp10r3lr2ra2lr2r3g10ra10g10ra2dp2ra26r3lr2ra3lg1/)
+(the same proportion at any scale), whose colour order is pattern [GRRRGRGRBRRRRRGRGRBRRRRG](/stripes/grrrgrgrbrrrrrgrgrbrrrrg/).
 
-This was sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
+Sourced from tartans-authority.  It is a [24 stripe tartan](/stripes/stripes24/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/567/
 

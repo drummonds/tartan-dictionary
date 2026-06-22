@@ -2,9 +2,10 @@
 title: "Boyd"
 date: 2023-03-18
 ---
-In pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n5k4r4g5r38k10db2k2db2k2g22y5/)
+(the same proportion at any scale), whose colour order is pattern [WKRGRKBKBKGY](/stripes/wkrgrkbkbkgy/).
 
-This was sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 

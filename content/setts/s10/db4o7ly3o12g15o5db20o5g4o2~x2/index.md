@@ -2,9 +2,10 @@
 title: "Tupper., Sir Charles.."
 date: 2023-03-18
 ---
-In pattern [BRYRGRBRGR](/stripes/bryrgrbrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b4lt7y3lt12g15lt5b20lt5g4lt2/)
+(the same proportion at any scale), whose colour order is pattern [BRYRGRBRGR](/stripes/bryrgrbrgr/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

@@ -2,9 +2,10 @@
 title: "Sri Lanka"
 date: 2023-03-18
 ---
-In pattern [RYRYRBKWKBGRY](/stripes/ryryrbkwkbgry/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o18r3g30b4k2ln2k2b4r37y1r3y1r3/)
+(the same proportion at any scale), whose colour order is pattern [RYRYRBKWKBGRY](/stripes/ryryrbkwkbgry/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3871
 

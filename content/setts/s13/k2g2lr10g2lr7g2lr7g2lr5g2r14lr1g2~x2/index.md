@@ -2,9 +2,10 @@
 title: "Glen Affric, Fragment"
 date: 2023-03-18
 ---
-In pattern [GYRGYGYGYGYGK](/stripes/gyrgygygygygk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k2g2n10g2n7g2n7g2n5g2r14n1g2/)
+(the same proportion at any scale), whose colour order is pattern [GYRGYGYGYGYGK](/stripes/gyrgygygygygk/).
 
-This was sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
@@ -15,12 +16,13 @@ This cloth is also recorded under:
 - Glen Affric Fragment Artefact
 - Glen Affric, Fragment
 
-## Attestations
-
-This cloth appears in 2 source records; the oldest owns this page.
-
-- undated — Glen Affric, Fragment (weddslist, [record](http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts))
-- undated — Glen Affric Fragment Artefact Tartan Tartan Number: 2090. Earliest known date: pre 1800 The Glen Affric fragment appears to have been hand spun and hand woven. The piece has a hard surface, loose texture, and the use of combed yarn and a natural background is unlike the products of recent decades. It is similar to samples recovered from burials in peat - late 17th century. The dye used in the red stripe is not madder. The black stripe used iron mordant to a standard recipe. The green contains indigotin. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, [record](http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2090))
+<details class="attestations">
+<summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
+<ul>
+<li>undated — Glen Affric, Fragment (weddslist, <a href="http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts">record</a>)</li>
+<li>undated — Glen Affric Fragment Artefact Tartan Tartan Number: 2090. Earliest known date: pre 1800 The Glen Affric fragment appears to have been hand spun and hand woven. The piece has a hard surface, loose texture, and the use of combed yarn and a natural background is unlike the products of recent decades. It is similar to samples recovered from burials in peat - late 17th century. The dye used in the red stripe is not madder. The black stripe used iron mordant to a standard recipe. The green contains indigotin. See products available Copyright © Blair Urquhart, Comrie, 2015 (house-of-tartan, <a href="http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=2090">record</a>)</li>
+</ul>
+</details>
 
 ## Thread count
 K/4 G4 N20 G4 N14 G4 N14 G4 N10 G4 R28 N2 G/4

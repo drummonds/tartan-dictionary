@@ -2,9 +2,10 @@
 title: "Robieson QAHS"
 date: 2023-03-18
 ---
-In pattern [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1b1k8r1k1r8b1y8k1y1k8b1k1/)
+(the same proportion at any scale), whose colour order is pattern [KBKRKRBYKYKBK](/stripes/kbkrkrbykykbk/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5790
 

@@ -2,9 +2,10 @@
 title: "Prince of Denmark"
 date: 2023-03-18
 ---
-In pattern [RGRGRWBWBW](/stripes/rgrgrwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r51t2r2t2r3ln3db2ln2db2ln8/)
+(the same proportion at any scale), whose colour order is pattern [RGRGRWBWBW](/stripes/rgrgrwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3393
 

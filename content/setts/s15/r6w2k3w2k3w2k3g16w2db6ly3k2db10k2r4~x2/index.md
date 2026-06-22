@@ -2,9 +2,10 @@
 title: "Webb (Personal)"
 date: 2023-03-18
 ---
-In pattern [RKBKYBWGKWKWKWR](/stripes/rkbkybwgkwkwkwr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6ln2k3ln2k3ln2k3g16ln2db6y3k2db10k2r4/)
+(the same proportion at any scale), whose colour order is pattern [RKBKYBWGKWKWKWR](/stripes/rkbkybwgkwkwkwr/).
 
-This was sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
+Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3921/
 

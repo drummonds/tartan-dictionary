@@ -2,9 +2,10 @@
 title: "Arbutus"
 date: 2023-03-18
 ---
-In pattern [WGBYGBGYWYGYGW](/stripes/wgbygbgywygygw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly40dg3dy6dg2dy2ly2dy2dg10dr2dg2dy2dr2dg3ly2/)
+(the same proportion at any scale), whose colour order is pattern [WGBYGBGYWYGYGW](/stripes/wgbygbgywygygw/).
 
-This was sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
+Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=5037
 

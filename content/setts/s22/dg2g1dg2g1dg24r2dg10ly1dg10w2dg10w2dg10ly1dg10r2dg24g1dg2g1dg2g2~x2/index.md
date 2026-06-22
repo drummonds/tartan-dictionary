@@ -2,9 +2,10 @@
 title: "Womens Royal Army Corps Assoc."
 date: 2023-03-18
 ---
-In pattern [GGGGGGRGYGWGWGYGRGGGGG](/stripes/ggggggrgygwgwgygrggggg/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg2ga1dg2ga1dg24r2dg10y1dg10ln2dg10ln2dg10y1dg10r2dg24ga1dg2ga1dg2ga2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGGGRGYGWGWGYGRGGGGG](/stripes/ggggggrgygwgwgygrggggg/).
 
-This was sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
+Sourced from register-of-tartans.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4777
 

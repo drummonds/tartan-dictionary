@@ -2,9 +2,10 @@
 title: "Yamaguchi Tsutomu"
 date: 2023-03-18
 ---
-In pattern [YKYKYKYKYKYKY](/stripes/ykykykykykyky/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y20k3y10k6y8k8y6k10y3k12y2k14y1/)
+(the same proportion at any scale), whose colour order is pattern [YKYKYKYKYKYKY](/stripes/ykykykykykyky/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10622
 

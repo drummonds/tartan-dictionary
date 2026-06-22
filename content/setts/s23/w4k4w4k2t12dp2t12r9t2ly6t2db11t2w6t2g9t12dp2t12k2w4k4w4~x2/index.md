@@ -2,9 +2,10 @@
 title: "Progress Blue Lodge (Corporate)"
 date: 2023-03-18
 ---
-In pattern [WKWKBBBGBWBBBYBRBBBKWKW](/stripes/wkwkbbbgbwbbbybrbbbkwkw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4k4ln4k2b12p2b12r9b2y6b2db11b2ln6b2g9b12p2b12k2ln4k4ln4/)
+(the same proportion at any scale), whose colour order is pattern [WKWKBBBGBWBBBYBRBBBKWKW](/stripes/wkwkbbbgbwbbbybrbbbkwkw/).
 
-This was sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
+Sourced from tartans-authority.  It is a [23 stripe tartan](/stripes/stripes23/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10242/
 

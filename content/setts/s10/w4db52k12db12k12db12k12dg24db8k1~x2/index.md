@@ -2,9 +2,10 @@
 title: "Dollar Academy, The"
 date: 2023-03-18
 ---
-In pattern [KBGKBKBKBW](/stripes/kbgkbkbkbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ln4b52k12b12k12b12k12dg24b8k1/)
+(the same proportion at any scale), whose colour order is pattern [KBGKBKBKBW](/stripes/kbgkbkbkbw/).
 
-This was sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 

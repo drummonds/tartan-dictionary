@@ -2,9 +2,10 @@
 title: "Pacific"
 date: 2023-03-18
 ---
-In pattern [GGGGBGBGBRBR](/stripes/ggggbgbgbrbr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lp2p2lp1p14g2p10g10p2g14ga1g2ga2/)
+(the same proportion at any scale), whose colour order is pattern [GGGGBGBGBRBR](/stripes/ggggbgbgbrbr/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3282
 

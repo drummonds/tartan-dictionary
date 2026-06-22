@@ -2,9 +2,10 @@
 title: "Gordonstoun (1957)"
 date: 2023-03-18
 ---
-In pattern [BBRGYGYGYGRBBRGRKRBKRKRGR](/stripes/bbrgygygygrbbrgrkrbkrkrgr/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r8g8r2k14r2k2b2r2k14r2g8r8b2ba8r2g14y2g2y3g2y2g14r2ba8b2/)
+(the same proportion at any scale), whose colour order is pattern [BBRGYGYGYGRBBRGRKRBKRKRGR](/stripes/bbrgygygygrbbrgrkrbkrkrgr/).
 
-This was sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
+Sourced from register-of-tartans.  It is a [25 stripe tartan](/stripes/stripes25/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1470
 

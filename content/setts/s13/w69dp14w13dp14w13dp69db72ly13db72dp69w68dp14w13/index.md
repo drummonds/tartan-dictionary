@@ -2,9 +2,10 @@
 title: "Poulter Tron"
 date: 2023-03-18
 ---
-In pattern [WBWBBYBBWBWBW](/stripes/wbwbbybbwbwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w69p14w13p14w13p69db72ly13db72p69w68p14w13/)
+(the same proportion at any scale), whose colour order is pattern [WBWBBYBBWBWBW](/stripes/wbwbbybbwbwbw/).
 
-This was sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
+Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11240
 

@@ -2,9 +2,10 @@
 title: "Vemma (Corporate) XXXXXXXXX"
 date: 2023-03-18
 ---
-In pattern [RWRWKBKWRW](/stripes/rwrwkbkwrw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do24n2do7n3k2na4k2n1do4n1/)
+(the same proportion at any scale), whose colour order is pattern [RWRWKBKWRW](/stripes/rwrwkbkwrw/).
 
-This was sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
+Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10730/
 

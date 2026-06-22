@@ -2,9 +2,10 @@
 title: "StammBar"
 date: 2023-03-18
 ---
-In pattern [BRYRBWWWWWBW](/stripes/bryrbwwwwwbw/).
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w4db8w4lb8w2lb2w4db42r1y2r1db2/)
+(the same proportion at any scale), whose colour order is pattern [BRYRBWWWWWBW](/stripes/bryrbwwwwwbw/).
 
-This was sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
+Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=11040
 

@@ -19,13 +19,13 @@ LB/40 K40 G40 LB20 K/20
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#008040;"><span style="color:#008040;filter:grayscale(1) invert(1) contrast(100);">#008040</span></code> `#008040` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
-| K | <code style="background-color:#0A0A0A;"><span style="color:#0A0A0A;filter:grayscale(1) invert(1) contrast(100);">#0A0A0A</span></code> `#0A0A0A` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.14 |
-| LB | <code style="background-color:#7AA9DD;"><span style="color:#7AA9DD;filter:grayscale(1) invert(1) contrast(100);">#7AA9DD</span></code> `#7AA9DD` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.27 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#008040;"><span style="color:#008040;filter:grayscale(1) invert(1) contrast(100);">#008040</span></code> `oklch(52.5% 0.138 152.2)` <small>#008040</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#0A0A0A;"><span style="color:#0A0A0A;filter:grayscale(1) invert(1) contrast(100);">#0A0A0A</span></code> `oklch(14.5% 0.000 89.9)` <small>#0A0A0A</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| LB | <code style="background-color:#7AA9DD;"><span style="color:#7AA9DD;filter:grayscale(1) invert(1) contrast(100);">#7AA9DD</span></code> `oklch(72.1% 0.091 251.6)` <small>#7AA9DD</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
 
 # Sample pattern
 

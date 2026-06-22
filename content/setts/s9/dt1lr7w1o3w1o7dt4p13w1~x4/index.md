@@ -20,15 +20,15 @@ K/4 LR28 LY4 LT12 LY4 LT28 K16 P52 LY/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| K | <code style="background-color:#202020;"><span style="color:#202020;filter:grayscale(1) invert(1) contrast(100);">#202020</span></code> `#202020` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
-| LR | <code style="background-color:#FC9494;"><span style="color:#FC9494;filter:grayscale(1) invert(1) contrast(100);">#FC9494</span></code> `#FC9494` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.18 |
-| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `#A0783C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
-| LY | <code style="background-color:#F0F0B0;"><span style="color:#F0F0B0;filter:grayscale(1) invert(1) contrast(100);">#F0F0B0</span></code> `#F0F0B0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.09 |
-| P | <code style="background-color:#6400E0;"><span style="color:#6400E0;filter:grayscale(1) invert(1) contrast(100);">#6400E0</span></code> `#6400E0` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| K | <code style="background-color:#202020;"><span style="color:#202020;filter:grayscale(1) invert(1) contrast(100);">#202020</span></code> `oklch(24.4% 0.000 89.9)` <small>#202020</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| LR | <code style="background-color:#FC9494;"><span style="color:#FC9494;filter:grayscale(1) invert(1) contrast(100);">#FC9494</span></code> `oklch(77.6% 0.126 20.3)` <small>#FC9494</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `oklch(60.0% 0.092 75.5)` <small>#A0783C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| LY | <code style="background-color:#F0F0B0;"><span style="color:#F0F0B0;filter:grayscale(1) invert(1) contrast(100);">#F0F0B0</span></code> `oklch(94.0% 0.082 107.9)` <small>#F0F0B0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| P | <code style="background-color:#6400E0;"><span style="color:#6400E0;filter:grayscale(1) invert(1) contrast(100);">#6400E0</span></code> `oklch(46.8% 0.266 289.6)` <small>#6400E0</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 ## Nearest tartans
 

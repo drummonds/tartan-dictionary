@@ -13,13 +13,13 @@ DO/12 DYa12 DO12 DYa12 DO48 DYa36 DY/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DO | <code style="background-color:#C04C08;"><span style="color:#C04C08;filter:grayscale(1) invert(1) contrast(100);">#C04C08</span></code> `#C04C08` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
-| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `#BC8C00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
-| DYa | <code style="background-color:#AC7000;"><span style="color:#AC7000;filter:grayscale(1) invert(1) contrast(100);">#AC7000</span></code> `#AC7000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.16 |
+| Colour | Shade | Base |
+|---|---|---|
+| DO | <code style="background-color:#C04C08;"><span style="color:#C04C08;filter:grayscale(1) invert(1) contrast(100);">#C04C08</span></code> `oklch(56.4% 0.163 43.2)` <small>#C04C08</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| DY | <code style="background-color:#BC8C00;"><span style="color:#BC8C00;filter:grayscale(1) invert(1) contrast(100);">#BC8C00</span></code> `oklch(66.8% 0.137 84.1)` <small>#BC8C00</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| DYa | <code style="background-color:#AC7000;"><span style="color:#AC7000;filter:grayscale(1) invert(1) contrast(100);">#AC7000</span></code> `oklch(59.4% 0.127 72.3)` <small>#AC7000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 # Sample pattern
 

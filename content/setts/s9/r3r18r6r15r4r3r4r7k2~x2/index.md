@@ -13,13 +13,13 @@ R/6 DR36 DRa12 R30 DR8 R6 DR8 R14 W/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `#A50313` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
-| DRa | <code style="background-color:#962121;"><span style="color:#962121;filter:grayscale(1) invert(1) contrast(100);">#962121</span></code> `#962121` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.11 |
-| R | <code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> `#EE2E24` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
+| Colour | Shade | Base |
+|---|---|---|
+| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `oklch(45.5% 0.184 26.4)` <small>#A50313</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| DRa | <code style="background-color:#962121;"><span style="color:#962121;filter:grayscale(1) invert(1) contrast(100);">#962121</span></code> `oklch(44.4% 0.153 26.1)` <small>#962121</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| R | <code style="background-color:#EE2E24;"><span style="color:#EE2E24;filter:grayscale(1) invert(1) contrast(100);">#EE2E24</span></code> `oklch(61.4% 0.227 28.9)` <small>#EE2E24</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 ## Nearest tartans
 

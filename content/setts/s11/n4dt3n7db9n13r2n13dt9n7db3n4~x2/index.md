@@ -19,15 +19,15 @@ N/8 K6 N14 DB18 B26 DR4 N26 K18 N14 DB6 B/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#2F5980;"><span style="color:#2F5980;filter:grayscale(1) invert(1) contrast(100);">#2F5980</span></code> `#2F5980` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.08 |
-| DB | <code style="background-color:#0B1245;"><span style="color:#0B1245;filter:grayscale(1) invert(1) contrast(100);">#0B1245</span></code> `#0B1245` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
-| DR | <code style="background-color:#B3020E;"><span style="color:#B3020E;filter:grayscale(1) invert(1) contrast(100);">#B3020E</span></code> `#B3020E` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.05 |
-| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `#1E1E1E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
-| N | <code style="background-color:#515151;"><span style="color:#515151;filter:grayscale(1) invert(1) contrast(100);">#515151</span></code> `#515151` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#2F5980;"><span style="color:#2F5980;filter:grayscale(1) invert(1) contrast(100);">#2F5980</span></code> `oklch(45.2% 0.080 248.4)` <small>#2F5980</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DB | <code style="background-color:#0B1245;"><span style="color:#0B1245;filter:grayscale(1) invert(1) contrast(100);">#0B1245</span></code> `oklch(21.8% 0.095 270.1)` <small>#0B1245</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DR | <code style="background-color:#B3020E;"><span style="color:#B3020E;filter:grayscale(1) invert(1) contrast(100);">#B3020E</span></code> `oklch(48.3% 0.196 27.6)` <small>#B3020E</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `oklch(23.5% 0.000 89.9)` <small>#1E1E1E</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| N | <code style="background-color:#515151;"><span style="color:#515151;filter:grayscale(1) invert(1) contrast(100);">#515151</span></code> `oklch(43.5% 0.000 89.9)` <small>#515151</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 ## Nearest tartans
 

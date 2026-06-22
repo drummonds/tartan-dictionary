@@ -19,13 +19,13 @@ K/10 DN10 K18 P10 K10 P/10
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DN | <code style="background-color:#32313A;"><span style="color:#32313A;filter:grayscale(1) invert(1) contrast(100);">#32313A</span></code> `#32313A` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
-| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `#1E1E1E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
-| P | <code style="background-color:#5900CE;"><span style="color:#5900CE;filter:grayscale(1) invert(1) contrast(100);">#5900CE</span></code> `#5900CE` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
+| Colour | Shade | Base |
+|---|---|---|
+| DN | <code style="background-color:#32313A;"><span style="color:#32313A;filter:grayscale(1) invert(1) contrast(100);">#32313A</span></code> `oklch(31.8% 0.016 290.6)` <small>#32313A</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| K | <code style="background-color:#1E1E1E;"><span style="color:#1E1E1E;filter:grayscale(1) invert(1) contrast(100);">#1E1E1E</span></code> `oklch(23.5% 0.000 89.9)` <small>#1E1E1E</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| P | <code style="background-color:#5900CE;"><span style="color:#5900CE;filter:grayscale(1) invert(1) contrast(100);">#5900CE</span></code> `oklch(43.7% 0.249 288.6)` <small>#5900CE</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 # Sample pattern
 

@@ -19,13 +19,13 @@ DN/12 T4 DN56 K56 T4 K4 T4 K4 T/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DN | <code style="background-color:#233634;"><span style="color:#233634;filter:grayscale(1) invert(1) contrast(100);">#233634</span></code> `#233634` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
-| K | <code style="background-color:#27371D;"><span style="color:#27371D;filter:grayscale(1) invert(1) contrast(100);">#27371D</span></code> `#27371D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
-| T | <code style="background-color:#51200F;"><span style="color:#51200F;filter:grayscale(1) invert(1) contrast(100);">#51200F</span></code> `#51200F` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.21 |
+| Colour | Shade | Base |
+|---|---|---|
+| DN | <code style="background-color:#233634;"><span style="color:#233634;filter:grayscale(1) invert(1) contrast(100);">#233634</span></code> `oklch(31.6% 0.025 187.8)` <small>#233634</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| K | <code style="background-color:#27371D;"><span style="color:#27371D;filter:grayscale(1) invert(1) contrast(100);">#27371D</span></code> `oklch(31.5% 0.049 134.2)` <small>#27371D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| T | <code style="background-color:#51200F;"><span style="color:#51200F;filter:grayscale(1) invert(1) contrast(100);">#51200F</span></code> `oklch(31.2% 0.079 39.1)` <small>#51200F</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 ## Nearest tartans
 

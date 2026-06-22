@@ -19,15 +19,15 @@ DB/8 K24 G8 K24 DG48 Y/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#0D0D4B;"><span style="color:#0D0D4B;filter:grayscale(1) invert(1) contrast(100);">#0D0D4B</span></code> `#0D0D4B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
-| DG | <code style="background-color:#062706;"><span style="color:#062706;filter:grayscale(1) invert(1) contrast(100);">#062706</span></code> `#062706` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.20 |
-| G | <code style="background-color:#109920;"><span style="color:#109920;filter:grayscale(1) invert(1) contrast(100);">#109920</span></code> `#109920` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| Y | <code style="background-color:#D3C229;"><span style="color:#D3C229;filter:grayscale(1) invert(1) contrast(100);">#D3C229</span></code> `#D3C229` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.05 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#0D0D4B;"><span style="color:#0D0D4B;filter:grayscale(1) invert(1) contrast(100);">#0D0D4B</span></code> `oklch(21.7% 0.110 272.5)` <small>#0D0D4B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DG | <code style="background-color:#062706;"><span style="color:#062706;filter:grayscale(1) invert(1) contrast(100);">#062706</span></code> `oklch(24.0% 0.069 143.1)` <small>#062706</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| G | <code style="background-color:#109920;"><span style="color:#109920;filter:grayscale(1) invert(1) contrast(100);">#109920</span></code> `oklch(59.4% 0.189 143.7)` <small>#109920</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| Y | <code style="background-color:#D3C229;"><span style="color:#D3C229;filter:grayscale(1) invert(1) contrast(100);">#D3C229</span></code> `oklch(80.4% 0.159 102.5)` <small>#D3C229</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

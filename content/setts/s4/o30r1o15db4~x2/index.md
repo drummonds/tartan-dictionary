@@ -8,42 +8,20 @@ This was sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
-## Register references
-
-External register numbers recorded for this tartan.
-
-- Scottish Register of Tartans: [1166](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1166)
-- Scottish Register of Tartans: [1758](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1758)
-- Scottish Register of Tartans: [2307](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2307)
-- Scottish Register of Tartans: [2540](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2540)
-- Scottish Register of Tartans: [2666](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2666)
-- Scottish Register of Tartans: [2862](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2862)
-- Scottish Register of Tartans: [3808](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3808)
-- Scottish Register of Tartans: [982](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=982)
-- Scottish Tartans Authority (ITI): 218
-- Scottish Tartans World Register: 1010
-- Scottish Tartans World Register: 1042
-- Scottish Tartans World Register: 127
-- Scottish Tartans World Register: 1585
-- Scottish Tartans World Register: 218
-- Scottish Tartans World Register: 2218
-- Scottish Tartans World Register: 737
-- Scottish Tartans World Register: 897
-
 ## Thread count
 LG/60 R2 LG30 B/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#0000C8;"><span style="color:#0000C8;filter:grayscale(1) invert(1) contrast(100);">#0000C8</span></code> `#0000C8` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
-| G | <code style="background-color:#00C800;"><span style="color:#00C800;filter:grayscale(1) invert(1) contrast(100);">#00C800</span></code> `#00C800` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.22 |
-| LG | <code style="background-color:#9B7A0B;"><span style="color:#9B7A0B;filter:grayscale(1) invert(1) contrast(100);">#9B7A0B</span></code> `#9B7A0B` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.20 |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
-| T | <code style="background-color:#8B4513;"><span style="color:#8B4513;filter:grayscale(1) invert(1) contrast(100);">#8B4513</span></code> `#8B4513` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#0000C8;"><span style="color:#0000C8;filter:grayscale(1) invert(1) contrast(100);">#0000C8</span></code> `oklch(37.6% 0.261 264.1)` <small>#0000C8</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| G | <code style="background-color:#00C800;"><span style="color:#00C800;filter:grayscale(1) invert(1) contrast(100);">#00C800</span></code> `oklch(72.2% 0.246 142.5)` <small>#00C800</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| LG | <code style="background-color:#9B7A0B;"><span style="color:#9B7A0B;filter:grayscale(1) invert(1) contrast(100);">#9B7A0B</span></code> `oklch(59.5% 0.119 89.1)` <small>#9B7A0B</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `oklch(52.3% 0.215 29.2)` <small>#C80000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| T | <code style="background-color:#8B4513;"><span style="color:#8B4513;filter:grayscale(1) invert(1) contrast(100);">#8B4513</span></code> `oklch(47.1% 0.112 50.8)` <small>#8B4513</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 # Sample pattern
 

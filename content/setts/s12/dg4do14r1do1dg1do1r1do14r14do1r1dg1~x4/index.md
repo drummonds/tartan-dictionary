@@ -19,13 +19,13 @@ G/16 DR56 DRa4 DR4 G4 DR4 DRa4 DR56 DRa56 DR4 DRa4 G/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DR | <code style="background-color:#3D1903;"><span style="color:#3D1903;filter:grayscale(1) invert(1) contrast(100);">#3D1903</span></code> `#3D1903` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.23 |
-| DRa | <code style="background-color:#AD0000;"><span style="color:#AD0000;filter:grayscale(1) invert(1) contrast(100);">#AD0000</span></code> `#AD0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.07 |
-| G | <code style="background-color:#00480D;"><span style="color:#00480D;filter:grayscale(1) invert(1) contrast(100);">#00480D</span></code> `#00480D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.09 |
+| Colour | Shade | Base |
+|---|---|---|
+| DR | <code style="background-color:#3D1903;"><span style="color:#3D1903;filter:grayscale(1) invert(1) contrast(100);">#3D1903</span></code> `oklch(26.3% 0.065 49.1)` <small>#3D1903</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DRa | <code style="background-color:#AD0000;"><span style="color:#AD0000;filter:grayscale(1) invert(1) contrast(100);">#AD0000</span></code> `oklch(46.9% 0.193 29.2)` <small>#AD0000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| G | <code style="background-color:#00480D;"><span style="color:#00480D;filter:grayscale(1) invert(1) contrast(100);">#00480D</span></code> `oklch(34.9% 0.110 144.8)` <small>#00480D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
 
 ## Nearest tartans
 

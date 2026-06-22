@@ -19,13 +19,13 @@ O/40 G4 K4 G4 K4 G44 O72 G4 K4 G/40
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#757547;"><span style="color:#757547;filter:grayscale(1) invert(1) contrast(100);">#757547</span></code> `#757547` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.16 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| O | <code style="background-color:#CC7A00;"><span style="color:#CC7A00;filter:grayscale(1) invert(1) contrast(100);">#CC7A00</span></code> `#CC7A00` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.18 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#757547;"><span style="color:#757547;filter:grayscale(1) invert(1) contrast(100);">#757547</span></code> `oklch(55.1% 0.065 108.4)` <small>#757547</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| O | <code style="background-color:#CC7A00;"><span style="color:#CC7A00;filter:grayscale(1) invert(1) contrast(100);">#CC7A00</span></code> `oklch(65.4% 0.147 65.0)` <small>#CC7A00</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 ## Nearest tartans
 

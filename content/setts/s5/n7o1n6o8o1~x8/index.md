@@ -19,14 +19,14 @@ Na/56 DR8 N48 DR64 LT/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DR | <code style="background-color:#8C2828;"><span style="color:#8C2828;filter:grayscale(1) invert(1) contrast(100);">#8C2828</span></code> `#8C2828` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
-| LT | <code style="background-color:#A07D73;"><span style="color:#A07D73;filter:grayscale(1) invert(1) contrast(100);">#A07D73</span></code> `#A07D73` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.19 |
-| N | <code style="background-color:#4B4B58;"><span style="color:#4B4B58;filter:grayscale(1) invert(1) contrast(100);">#4B4B58</span></code> `#4B4B58` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.11 |
-| Na | <code style="background-color:#4B4F4B;"><span style="color:#4B4F4B;filter:grayscale(1) invert(1) contrast(100);">#4B4F4B</span></code> `#4B4F4B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
+| Colour | Shade | Base |
+|---|---|---|
+| DR | <code style="background-color:#8C2828;"><span style="color:#8C2828;filter:grayscale(1) invert(1) contrast(100);">#8C2828</span></code> `oklch(43.3% 0.135 24.8)` <small>#8C2828</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| LT | <code style="background-color:#A07D73;"><span style="color:#A07D73;filter:grayscale(1) invert(1) contrast(100);">#A07D73</span></code> `oklch(62.1% 0.046 36.5)` <small>#A07D73</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| N | <code style="background-color:#4B4B58;"><span style="color:#4B4B58;filter:grayscale(1) invert(1) contrast(100);">#4B4B58</span></code> `oklch(41.8% 0.021 285.4)` <small>#4B4B58</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| Na | <code style="background-color:#4B4F4B;"><span style="color:#4B4F4B;filter:grayscale(1) invert(1) contrast(100);">#4B4F4B</span></code> `oklch(42.3% 0.008 145.4)` <small>#4B4F4B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 # Sample pattern
 

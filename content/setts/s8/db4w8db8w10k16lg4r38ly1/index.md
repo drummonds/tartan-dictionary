@@ -19,16 +19,16 @@ B/4 W8 B8 W10 K16 G4 R38 Y/1
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#000CDB;"><span style="color:#000CDB;filter:grayscale(1) invert(1) contrast(100);">#000CDB</span></code> `#000CDB` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
-| G | <code style="background-color:#32CD32;"><span style="color:#32CD32;filter:grayscale(1) invert(1) contrast(100);">#32CD32</span></code> `#32CD32` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.21 |
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| R | <code style="background-color:#DC143C;"><span style="color:#DC143C;filter:grayscale(1) invert(1) contrast(100);">#DC143C</span></code> `#DC143C` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.05 |
-| W | <code style="background-color:#FAF0E6;"><span style="color:#FAF0E6;filter:grayscale(1) invert(1) contrast(100);">#FAF0E6</span></code> `#FAF0E6` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
-| Y | <code style="background-color:#DAA520;"><span style="color:#DAA520;filter:grayscale(1) invert(1) contrast(100);">#DAA520</span></code> `#DAA520` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#000CDB;"><span style="color:#000CDB;filter:grayscale(1) invert(1) contrast(100);">#000CDB</span></code> `oklch(40.8% 0.276 264.1)` <small>#000CDB</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| G | <code style="background-color:#32CD32;"><span style="color:#32CD32;filter:grayscale(1) invert(1) contrast(100);">#32CD32</span></code> `oklch(74.2% 0.229 142.8)` <small>#32CD32</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| R | <code style="background-color:#DC143C;"><span style="color:#DC143C;filter:grayscale(1) invert(1) contrast(100);">#DC143C</span></code> `oklch(57.1% 0.222 20.1)` <small>#DC143C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| W | <code style="background-color:#FAF0E6;"><span style="color:#FAF0E6;filter:grayscale(1) invert(1) contrast(100);">#FAF0E6</span></code> `oklch(96.0% 0.017 67.6)` <small>#FAF0E6</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| Y | <code style="background-color:#DAA520;"><span style="color:#DAA520;filter:grayscale(1) invert(1) contrast(100);">#DAA520</span></code> `oklch(75.2% 0.147 84.0)` <small>#DAA520</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

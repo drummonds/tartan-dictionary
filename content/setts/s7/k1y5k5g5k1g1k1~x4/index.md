@@ -13,13 +13,13 @@ K/4 Ga20 K20 G20 K4 G4 K/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#407C84;"><span style="color:#407C84;filter:grayscale(1) invert(1) contrast(100);">#407C84</span></code> `#407C84` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.18 |
-| Ga | <code style="background-color:#648038;"><span style="color:#648038;filter:grayscale(1) invert(1) contrast(100);">#648038</span></code> `#648038` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#407C84;"><span style="color:#407C84;filter:grayscale(1) invert(1) contrast(100);">#407C84</span></code> `oklch(54.9% 0.063 206.8)` <small>#407C84</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| Ga | <code style="background-color:#648038;"><span style="color:#648038;filter:grayscale(1) invert(1) contrast(100);">#648038</span></code> `oklch(56.1% 0.105 127.2)` <small>#648038</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
 
 # Sample pattern
 

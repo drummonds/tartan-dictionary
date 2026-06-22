@@ -32,15 +32,15 @@ W/6 N38 W2 Na34 Ga22 G20 W2 N6 W/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#486934;"><span style="color:#486934;filter:grayscale(1) invert(1) contrast(100);">#486934</span></code> `#486934` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.08 |
-| Ga | <code style="background-color:#7C7D5D;"><span style="color:#7C7D5D;filter:grayscale(1) invert(1) contrast(100);">#7C7D5D</span></code> `#7C7D5D` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.19 |
-| N | <code style="background-color:#414C6C;"><span style="color:#414C6C;filter:grayscale(1) invert(1) contrast(100);">#414C6C</span></code> `#414C6C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
-| Na | <code style="background-color:#738182;"><span style="color:#738182;filter:grayscale(1) invert(1) contrast(100);">#738182</span></code> `#738182` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.22 |
-| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `#FFFFFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.02 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#486934;"><span style="color:#486934;filter:grayscale(1) invert(1) contrast(100);">#486934</span></code> `oklch(48.2% 0.088 134.8)` <small>#486934</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| Ga | <code style="background-color:#7C7D5D;"><span style="color:#7C7D5D;filter:grayscale(1) invert(1) contrast(100);">#7C7D5D</span></code> `oklch(58.0% 0.047 109.3)` <small>#7C7D5D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| N | <code style="background-color:#414C6C;"><span style="color:#414C6C;filter:grayscale(1) invert(1) contrast(100);">#414C6C</span></code> `oklch(42.1% 0.055 269.4)` <small>#414C6C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| Na | <code style="background-color:#738182;"><span style="color:#738182;filter:grayscale(1) invert(1) contrast(100);">#738182</span></code> `oklch(59.2% 0.017 201.9)` <small>#738182</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `oklch(100.0% 0.000 89.9)` <small>#FFFFFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
 
 ## Nearest tartans
 

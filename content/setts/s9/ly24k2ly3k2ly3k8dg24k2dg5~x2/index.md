@@ -19,13 +19,13 @@ Y/48 K4 Y6 K4 Y6 K16 G48 K4 G/10
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#154D1E;"><span style="color:#154D1E;filter:grayscale(1) invert(1) contrast(100);">#154D1E</span></code> `#154D1E` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| Y | <code style="background-color:#E8E50C;"><span style="color:#E8E50C;filter:grayscale(1) invert(1) contrast(100);">#E8E50C</span></code> `#E8E50C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.09 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#154D1E;"><span style="color:#154D1E;filter:grayscale(1) invert(1) contrast(100);">#154D1E</span></code> `oklch(37.2% 0.096 146.1)` <small>#154D1E</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| Y | <code style="background-color:#E8E50C;"><span style="color:#E8E50C;filter:grayscale(1) invert(1) contrast(100);">#E8E50C</span></code> `oklch(89.5% 0.192 108.8)` <small>#E8E50C</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 ## Nearest tartans
 

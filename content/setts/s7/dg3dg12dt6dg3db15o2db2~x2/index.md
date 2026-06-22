@@ -19,16 +19,16 @@ DN/6 DG24 DB12 N6 DBa30 LT4 DBa/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#282D4B;"><span style="color:#282D4B;filter:grayscale(1) invert(1) contrast(100);">#282D4B</span></code> `#282D4B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
-| DBa | <code style="background-color:#200A4A;"><span style="color:#200A4A;filter:grayscale(1) invert(1) contrast(100);">#200A4A</span></code> `#200A4A` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.18 |
-| DG | <code style="background-color:#0E3820;"><span style="color:#0E3820;filter:grayscale(1) invert(1) contrast(100);">#0E3820</span></code> `#0E3820` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
-| DN | <code style="background-color:#233D30;"><span style="color:#233D30;filter:grayscale(1) invert(1) contrast(100);">#233D30</span></code> `#233D30` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
-| LT | <code style="background-color:#8D815B;"><span style="color:#8D815B;filter:grayscale(1) invert(1) contrast(100);">#8D815B</span></code> `#8D815B` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.21 |
-| N | <code style="background-color:#2D503C;"><span style="color:#2D503C;filter:grayscale(1) invert(1) contrast(100);">#2D503C</span></code> `#2D503C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#282D4B;"><span style="color:#282D4B;filter:grayscale(1) invert(1) contrast(100);">#282D4B</span></code> `oklch(30.8% 0.054 275.5)` <small>#282D4B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DBa | <code style="background-color:#200A4A;"><span style="color:#200A4A;filter:grayscale(1) invert(1) contrast(100);">#200A4A</span></code> `oklch(23.0% 0.108 290.9)` <small>#200A4A</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DG | <code style="background-color:#0E3820;"><span style="color:#0E3820;filter:grayscale(1) invert(1) contrast(100);">#0E3820</span></code> `oklch(30.4% 0.063 154.6)` <small>#0E3820</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| DN | <code style="background-color:#233D30;"><span style="color:#233D30;filter:grayscale(1) invert(1) contrast(100);">#233D30</span></code> `oklch(33.4% 0.040 161.5)` <small>#233D30</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| LT | <code style="background-color:#8D815B;"><span style="color:#8D815B;filter:grayscale(1) invert(1) contrast(100);">#8D815B</span></code> `oklch(60.4% 0.056 92.6)` <small>#8D815B</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| N | <code style="background-color:#2D503C;"><span style="color:#2D503C;filter:grayscale(1) invert(1) contrast(100);">#2D503C</span></code> `oklch(39.8% 0.053 157.8)` <small>#2D503C</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
 
 # Sample pattern
 

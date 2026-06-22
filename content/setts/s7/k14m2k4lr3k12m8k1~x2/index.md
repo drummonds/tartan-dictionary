@@ -19,13 +19,13 @@ K/28 LR4 K8 N6 K24 LR16 K/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| LR | <code style="background-color:#FF00CC;"><span style="color:#FF00CC;filter:grayscale(1) invert(1) contrast(100);">#FF00CC</span></code> `#FF00CC` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.26 |
-| N | <code style="background-color:#BBBBBB;"><span style="color:#BBBBBB;filter:grayscale(1) invert(1) contrast(100);">#BBBBBB</span></code> `#BBBBBB` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| LR | <code style="background-color:#FF00CC;"><span style="color:#FF00CC;filter:grayscale(1) invert(1) contrast(100);">#FF00CC</span></code> `oklch(67.4% 0.293 340.4)` <small>#FF00CC</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| N | <code style="background-color:#BBBBBB;"><span style="color:#BBBBBB;filter:grayscale(1) invert(1) contrast(100);">#BBBBBB</span></code> `oklch(79.2% 0.000 89.9)` <small>#BBBBBB</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

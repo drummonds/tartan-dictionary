@@ -13,12 +13,12 @@ DN/18 K6 DN34 K12 DN8 K8 DN24 K6 DN24 K6 DN/14
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DN | <code style="background-color:#323232;"><span style="color:#323232;filter:grayscale(1) invert(1) contrast(100);">#323232</span></code> `#323232` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
-| K | <code style="background-color:#080808;"><span style="color:#080808;filter:grayscale(1) invert(1) contrast(100);">#080808</span></code> `#080808` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.13 |
+| Colour | Shade | Base |
+|---|---|---|
+| DN | <code style="background-color:#323232;"><span style="color:#323232;filter:grayscale(1) invert(1) contrast(100);">#323232</span></code> `oklch(31.7% 0.000 89.9)` <small>#323232</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| K | <code style="background-color:#080808;"><span style="color:#080808;filter:grayscale(1) invert(1) contrast(100);">#080808</span></code> `oklch(13.4% 0.000 89.9)` <small>#080808</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
 
 ## Nearest tartans
 

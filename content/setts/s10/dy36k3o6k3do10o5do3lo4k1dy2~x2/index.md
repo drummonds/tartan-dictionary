@@ -19,15 +19,15 @@ T/72 K6 Ta12 K6 Tb20 Ta10 Tb6 DO8 K2 T/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DO | <code style="background-color:#C5831B;"><span style="color:#C5831B;filter:grayscale(1) invert(1) contrast(100);">#C5831B</span></code> `#C5831B` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.17 |
-| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `#120A01` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.15 |
-| T | <code style="background-color:#4E3D20;"><span style="color:#4E3D20;filter:grayscale(1) invert(1) contrast(100);">#4E3D20</span></code> `#4E3D20` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.14 |
-| Ta | <code style="background-color:#A5422F;"><span style="color:#A5422F;filter:grayscale(1) invert(1) contrast(100);">#A5422F</span></code> `#A5422F` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.09 |
-| Tb | <code style="background-color:#4B2E24;"><span style="color:#4B2E24;filter:grayscale(1) invert(1) contrast(100);">#4B2E24</span></code> `#4B2E24` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| DO | <code style="background-color:#C5831B;"><span style="color:#C5831B;filter:grayscale(1) invert(1) contrast(100);">#C5831B</span></code> `oklch(66.2% 0.134 71.7)` <small>#C5831B</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `oklch(15.2% 0.028 78.6)` <small>#120A01</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| T | <code style="background-color:#4E3D20;"><span style="color:#4E3D20;filter:grayscale(1) invert(1) contrast(100);">#4E3D20</span></code> `oklch(37.1% 0.050 79.6)` <small>#4E3D20</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| Ta | <code style="background-color:#A5422F;"><span style="color:#A5422F;filter:grayscale(1) invert(1) contrast(100);">#A5422F</span></code> `oklch(51.0% 0.135 32.7)` <small>#A5422F</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| Tb | <code style="background-color:#4B2E24;"><span style="color:#4B2E24;filter:grayscale(1) invert(1) contrast(100);">#4B2E24</span></code> `oklch(33.4% 0.046 39.8)` <small>#4B2E24</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 ## Nearest tartans
 

@@ -26,13 +26,13 @@ LY/10 DB30 LB10 DB10 LB80 LY/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#00006B;"><span style="color:#00006B;filter:grayscale(1) invert(1) contrast(100);">#00006B</span></code> `#00006B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.17 |
-| LB | <code style="background-color:#ABCDD9;"><span style="color:#ABCDD9;filter:grayscale(1) invert(1) contrast(100);">#ABCDD9</span></code> `#ABCDD9` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.15 |
-| LY | <code style="background-color:#EFF265;"><span style="color:#EFF265;filter:grayscale(1) invert(1) contrast(100);">#EFF265</span></code> `#EFF265` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.12 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#00006B;"><span style="color:#00006B;filter:grayscale(1) invert(1) contrast(100);">#00006B</span></code> `oklch(23.9% 0.165 264.1)` <small>#00006B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| LB | <code style="background-color:#ABCDD9;"><span style="color:#ABCDD9;filter:grayscale(1) invert(1) contrast(100);">#ABCDD9</span></code> `oklch(82.7% 0.040 221.2)` <small>#ABCDD9</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| LY | <code style="background-color:#EFF265;"><span style="color:#EFF265;filter:grayscale(1) invert(1) contrast(100);">#EFF265</span></code> `oklch(93.3% 0.162 110.3)` <small>#EFF265</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

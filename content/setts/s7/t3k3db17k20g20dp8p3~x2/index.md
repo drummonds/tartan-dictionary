@@ -19,16 +19,16 @@ B/6 K6 DB34 K40 G40 DP16 P/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#688CC0;"><span style="color:#688CC0;filter:grayscale(1) invert(1) contrast(100);">#688CC0</span></code> `#688CC0` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.24 |
-| DB | <code style="background-color:#040498;"><span style="color:#040498;filter:grayscale(1) invert(1) contrast(100);">#040498</span></code> `#040498` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
-| DP | <code style="background-color:#3C104C;"><span style="color:#3C104C;filter:grayscale(1) invert(1) contrast(100);">#3C104C</span></code> `#3C104C` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.15 |
-| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `#00643C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.05 |
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| P | <code style="background-color:#880078;"><span style="color:#880078;filter:grayscale(1) invert(1) contrast(100);">#880078</span></code> `#880078` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.19 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#688CC0;"><span style="color:#688CC0;filter:grayscale(1) invert(1) contrast(100);">#688CC0</span></code> `oklch(63.4% 0.089 257.5)` <small>#688CC0</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DB | <code style="background-color:#040498;"><span style="color:#040498;filter:grayscale(1) invert(1) contrast(100);">#040498</span></code> `oklch(31.1% 0.210 264.9)` <small>#040498</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DP | <code style="background-color:#3C104C;"><span style="color:#3C104C;filter:grayscale(1) invert(1) contrast(100);">#3C104C</span></code> `oklch(27.9% 0.109 315.4)` <small>#3C104C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| G | <code style="background-color:#00643C;"><span style="color:#00643C;filter:grayscale(1) invert(1) contrast(100);">#00643C</span></code> `oklch(44.3% 0.104 157.7)` <small>#00643C</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| P | <code style="background-color:#880078;"><span style="color:#880078;filter:grayscale(1) invert(1) contrast(100);">#880078</span></code> `oklch(43.0% 0.191 334.8)` <small>#880078</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
 
 # Sample pattern
 

@@ -19,13 +19,13 @@ N/70 Y16 LB3 O/45
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| LB | <code style="background-color:#00CCFF;"><span style="color:#00CCFF;filter:grayscale(1) invert(1) contrast(100);">#00CCFF</span></code> `#00CCFF` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.24 |
-| O | <code style="background-color:#FF6600;"><span style="color:#FF6600;filter:grayscale(1) invert(1) contrast(100);">#FF6600</span></code> `#FF6600` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.17 |
-| Y | <code style="background-color:#FF9900;"><span style="color:#FF9900;filter:grayscale(1) invert(1) contrast(100);">#FF9900</span></code> `#FF9900` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.09 |
+| Colour | Shade | Base |
+|---|---|---|
+| LB | <code style="background-color:#00CCFF;"><span style="color:#00CCFF;filter:grayscale(1) invert(1) contrast(100);">#00CCFF</span></code> `oklch(78.6% 0.148 224.3)` <small>#00CCFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| O | <code style="background-color:#FF6600;"><span style="color:#FF6600;filter:grayscale(1) invert(1) contrast(100);">#FF6600</span></code> `oklch(69.6% 0.204 43.5)` <small>#FF6600</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| Y | <code style="background-color:#FF9900;"><span style="color:#FF9900;filter:grayscale(1) invert(1) contrast(100);">#FF9900</span></code> `oklch(77.2% 0.174 64.6)` <small>#FF9900</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

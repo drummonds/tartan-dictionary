@@ -33,13 +33,13 @@ R/96 DR64 LN/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DR | <code style="background-color:#5C2458;"><span style="color:#5C2458;filter:grayscale(1) invert(1) contrast(100);">#5C2458</span></code> `#5C2458` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
-| LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `#E8E8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.05 |
-| R | <code style="background-color:#E82460;"><span style="color:#E82460;filter:grayscale(1) invert(1) contrast(100);">#E82460</span></code> `#E82460` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.10 |
+| Colour | Shade | Base |
+|---|---|---|
+| DR | <code style="background-color:#5C2458;"><span style="color:#5C2458;filter:grayscale(1) invert(1) contrast(100);">#5C2458</span></code> `oklch(36.3% 0.108 330.4)` <small>#5C2458</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `oklch(93.1% 0.000 89.9)` <small>#E8E8E8</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| R | <code style="background-color:#E82460;"><span style="color:#E82460;filter:grayscale(1) invert(1) contrast(100);">#E82460</span></code> `oklch(60.7% 0.225 11.0)` <small>#E82460</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 # Sample pattern
 

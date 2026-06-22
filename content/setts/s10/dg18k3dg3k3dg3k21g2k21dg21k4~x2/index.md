@@ -19,13 +19,13 @@ Ga/36 K6 Ga6 K6 Ga6 K42 G4 K42 Ga42 K/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| G | <code style="background-color:#3C6838;"><span style="color:#3C6838;filter:grayscale(1) invert(1) contrast(100);">#3C6838</span></code> `#3C6838` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
-| Ga | <code style="background-color:#005014;"><span style="color:#005014;filter:grayscale(1) invert(1) contrast(100);">#005014</span></code> `#005014` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| G | <code style="background-color:#3C6838;"><span style="color:#3C6838;filter:grayscale(1) invert(1) contrast(100);">#3C6838</span></code> `oklch(47.2% 0.089 142.2)` <small>#3C6838</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| Ga | <code style="background-color:#005014;"><span style="color:#005014;filter:grayscale(1) invert(1) contrast(100);">#005014</span></code> `oklch(37.5% 0.115 145.8)` <small>#005014</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
 
 ## Nearest tartans
 

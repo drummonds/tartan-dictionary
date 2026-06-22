@@ -19,14 +19,14 @@ K/8 DB86 Ka40 K14 N/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#01002C;"><span style="color:#01002C;filter:grayscale(1) invert(1) contrast(100);">#01002C</span></code> `#01002C` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.16 |
-| K | <code style="background-color:#1B1B1B;"><span style="color:#1B1B1B;filter:grayscale(1) invert(1) contrast(100);">#1B1B1B</span></code> `#1B1B1B` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.22 |
-| Ka | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| N | <code style="background-color:#696969;"><span style="color:#696969;filter:grayscale(1) invert(1) contrast(100);">#696969</span></code> `#696969` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#01002C;"><span style="color:#01002C;filter:grayscale(1) invert(1) contrast(100);">#01002C</span></code> `oklch(13.4% 0.091 266.6)` <small>#01002C</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| K | <code style="background-color:#1B1B1B;"><span style="color:#1B1B1B;filter:grayscale(1) invert(1) contrast(100);">#1B1B1B</span></code> `oklch(22.2% 0.000 89.9)` <small>#1B1B1B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| Ka | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| N | <code style="background-color:#696969;"><span style="color:#696969;filter:grayscale(1) invert(1) contrast(100);">#696969</span></code> `oklch(52.1% 0.000 89.9)` <small>#696969</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
 
 # Sample pattern
 

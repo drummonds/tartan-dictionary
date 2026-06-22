@@ -19,16 +19,16 @@ N/24 K6 W6 K6 W6 K6 N24 B12 G36 DR/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#4C6484;"><span style="color:#4C6484;filter:grayscale(1) invert(1) contrast(100);">#4C6484</span></code> `#4C6484` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
-| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `#A50313` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
-| G | <code style="background-color:#0C5E41;"><span style="color:#0C5E41;filter:grayscale(1) invert(1) contrast(100);">#0C5E41</span></code> `#0C5E41` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.07 |
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| N | <code style="background-color:#848589;"><span style="color:#848589;filter:grayscale(1) invert(1) contrast(100);">#848589</span></code> `#848589` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.24 |
-| W | <code style="background-color:#FFFFF0;"><span style="color:#FFFFF0;filter:grayscale(1) invert(1) contrast(100);">#FFFFF0</span></code> `#FFFFF0` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.03 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#4C6484;"><span style="color:#4C6484;filter:grayscale(1) invert(1) contrast(100);">#4C6484</span></code> `oklch(49.7% 0.059 255.8)` <small>#4C6484</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DR | <code style="background-color:#A50313;"><span style="color:#A50313;filter:grayscale(1) invert(1) contrast(100);">#A50313</span></code> `oklch(45.5% 0.184 26.4)` <small>#A50313</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| G | <code style="background-color:#0C5E41;"><span style="color:#0C5E41;filter:grayscale(1) invert(1) contrast(100);">#0C5E41</span></code> `oklch(42.8% 0.088 162.9)` <small>#0C5E41</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| N | <code style="background-color:#848589;"><span style="color:#848589;filter:grayscale(1) invert(1) contrast(100);">#848589</span></code> `oklch(61.7% 0.006 274.9)` <small>#848589</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| W | <code style="background-color:#FFFFF0;"><span style="color:#FFFFF0;filter:grayscale(1) invert(1) contrast(100);">#FFFFF0</span></code> `oklch(99.6% 0.020 106.8)` <small>#FFFFF0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
 
 ## Nearest tartans
 

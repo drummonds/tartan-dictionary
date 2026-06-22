@@ -13,14 +13,14 @@ R/8 N60 T28 Na22 T/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| N | <code style="background-color:#C8C8BC;"><span style="color:#C8C8BC;filter:grayscale(1) invert(1) contrast(100);">#C8C8BC</span></code> `#C8C8BC` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.15 |
-| Na | <code style="background-color:#B4C0C8;"><span style="color:#B4C0C8;filter:grayscale(1) invert(1) contrast(100);">#B4C0C8</span></code> `#B4C0C8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.18 |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `#C80000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.01 |
-| T | <code style="background-color:#704400;"><span style="color:#704400;filter:grayscale(1) invert(1) contrast(100);">#704400</span></code> `#704400` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
+| Colour | Shade | Base |
+|---|---|---|
+| N | <code style="background-color:#C8C8BC;"><span style="color:#C8C8BC;filter:grayscale(1) invert(1) contrast(100);">#C8C8BC</span></code> `oklch(82.9% 0.016 106.8)` <small>#C8C8BC</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| Na | <code style="background-color:#B4C0C8;"><span style="color:#B4C0C8;filter:grayscale(1) invert(1) contrast(100);">#B4C0C8</span></code> `oklch(80.1% 0.017 236.8)` <small>#B4C0C8</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `oklch(52.3% 0.215 29.2)` <small>#C80000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| T | <code style="background-color:#704400;"><span style="color:#704400;filter:grayscale(1) invert(1) contrast(100);">#704400</span></code> `oklch(42.8% 0.094 68.6)` <small>#704400</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
 
 # Sample pattern
 

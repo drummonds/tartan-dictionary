@@ -19,16 +19,16 @@ K/4 DB24 K16 N20 LY2 N20 K8 DR2 K8 DB24 K4 G/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#003F87;"><span style="color:#003F87;filter:grayscale(1) invert(1) contrast(100);">#003F87</span></code> `#003F87` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.03 |
-| DR | <code style="background-color:#8C1717;"><span style="color:#8C1717;filter:grayscale(1) invert(1) contrast(100);">#8C1717</span></code> `#8C1717` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.13 |
-| G | <code style="background-color:#008B45;"><span style="color:#008B45;filter:grayscale(1) invert(1) contrast(100);">#008B45</span></code> `#008B45` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.13 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| LY | <code style="background-color:#FFF68F;"><span style="color:#FFF68F;filter:grayscale(1) invert(1) contrast(100);">#FFF68F</span></code> `#FFF68F` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.13 |
-| N | <code style="background-color:#96C8A2;"><span style="color:#96C8A2;filter:grayscale(1) invert(1) contrast(100);">#96C8A2</span></code> `#96C8A2` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.16 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#003F87;"><span style="color:#003F87;filter:grayscale(1) invert(1) contrast(100);">#003F87</span></code> `oklch(38.0% 0.134 256.8)` <small>#003F87</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DR | <code style="background-color:#8C1717;"><span style="color:#8C1717;filter:grayscale(1) invert(1) contrast(100);">#8C1717</span></code> `oklch(41.5% 0.152 27.0)` <small>#8C1717</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| G | <code style="background-color:#008B45;"><span style="color:#008B45;filter:grayscale(1) invert(1) contrast(100);">#008B45</span></code> `oklch(55.8% 0.147 151.8)` <small>#008B45</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| LY | <code style="background-color:#FFF68F;"><span style="color:#FFF68F;filter:grayscale(1) invert(1) contrast(100);">#FFF68F</span></code> `oklch(95.9% 0.125 104.1)` <small>#FFF68F</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+| N | <code style="background-color:#96C8A2;"><span style="color:#96C8A2;filter:grayscale(1) invert(1) contrast(100);">#96C8A2</span></code> `oklch(78.7% 0.075 151.8)` <small>#96C8A2</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 ## Nearest tartans
 

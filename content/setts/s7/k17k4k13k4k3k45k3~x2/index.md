@@ -13,12 +13,12 @@ K/34 Ka8 K26 Ka8 K6 Ka90 K/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| K | <code style="background-color:#010204;"><span style="color:#010204;filter:grayscale(1) invert(1) contrast(100);">#010204</span></code> `#010204` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.08 |
-| Ka | <code style="background-color:#121617;"><span style="color:#121617;filter:grayscale(1) invert(1) contrast(100);">#121617</span></code> `#121617` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.20 |
+| Colour | Shade | Base |
+|---|---|---|
+| K | <code style="background-color:#010204;"><span style="color:#010204;filter:grayscale(1) invert(1) contrast(100);">#010204</span></code> `oklch(8.4% 0.012 255.9)` <small>#010204</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| Ka | <code style="background-color:#121617;"><span style="color:#121617;filter:grayscale(1) invert(1) contrast(100);">#121617</span></code> `oklch(19.6% 0.007 214.5)` <small>#121617</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
 
 # Sample pattern
 

@@ -105,8 +105,25 @@
         .then(function (result) {
           go.run(result.instance); // parks; do not await
           if (!window.logoWeaver) throw new Error('engine did not install its API');
+          stampBuild(window.logoWeaver);
         });
     });
+  }
+
+  /* Append the engine's link-time build stamp (commit + UTC date) at the foot of the matcher, so
+   * the tool always says which weaver built it. buildInfo() is stamped by `task wasm:logo`; an
+   * older binary without it (or a dev build) is simply not stamped. Runs once. */
+  function stampBuild(engine) {
+    var app = document.getElementById('logoweaver-app');
+    if (!app || !engine || typeof engine.buildInfo !== 'function') return;
+    if (document.getElementById('weaver-build')) return;
+    var b = engine.buildInfo();
+    if (!b || b.error) return;
+    var el = document.createElement('p');
+    el.id = 'weaver-build';
+    el.className = 'weaver-build';
+    el.textContent = 'weaver ' + b.commit + ' · built ' + b.built;
+    app.appendChild(el);
   }
 
   function showPreview(file) {

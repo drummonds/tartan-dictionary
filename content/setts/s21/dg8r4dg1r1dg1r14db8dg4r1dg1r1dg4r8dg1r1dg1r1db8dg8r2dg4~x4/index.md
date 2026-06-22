@@ -13,13 +13,13 @@ G/32 R16 G4 R4 G4 R56 DB32 G16 R4 G4 R4 G16 R32 G4 R4 G4 R4 DB32 G32 R8 G/16
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `#1C1C50` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
-| G | <code style="background-color:#005010;"><span style="color:#005010;filter:grayscale(1) invert(1) contrast(100);">#005010</span></code> `#005010` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
-| R | <code style="background-color:#AC2418;"><span style="color:#AC2418;filter:grayscale(1) invert(1) contrast(100);">#AC2418</span></code> `#AC2418` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.06 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#1C1C50;"><span style="color:#1C1C50;filter:grayscale(1) invert(1) contrast(100);">#1C1C50</span></code> `oklch(26.2% 0.093 277.9)` <small>#1C1C50</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| G | <code style="background-color:#005010;"><span style="color:#005010;filter:grayscale(1) invert(1) contrast(100);">#005010</span></code> `oklch(37.5% 0.118 144.9)` <small>#005010</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| R | <code style="background-color:#AC2418;"><span style="color:#AC2418;filter:grayscale(1) invert(1) contrast(100);">#AC2418</span></code> `oklch(48.6% 0.174 29.8)` <small>#AC2418</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 ## Nearest tartans
 

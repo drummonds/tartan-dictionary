@@ -1,6 +1,17 @@
 <script defer src="{{ "js/search.js" | relURL }}"></script>
 <script defer src="{{ "js/nav.js" | relURL }}"></script>
 
+{{/* Register the image-rendering service worker (static/sw.js): it renders a missing sett.png /
+     tartan.png on demand via the weaver wasm. Progressive enhancement — pages with statically
+     generated images are unaffected, and no-JS reading is untouched. Root-scoped, so /sw.js. */}}
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register('/sw.js').catch(function () {});
+    });
+  }
+</script>
+
 {{ if and .Site.Params.lazyImage (not .IsHome) -}}
 <script src="{{ .Site.Params.staticPrefix }}{{ "js/lazyload.min.js" | relURL }}"></script>
 <script>

@@ -21,14 +21,14 @@ LT/60 K8 LG20 K8 R10 LG10 R/30
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
-| LG | <code style="background-color:#BDBD65;"><span style="color:#BDBD65;filter:grayscale(1) invert(1) contrast(100);">#BDBD65</span></code> `#BDBD65` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.09 |
-| LT | <code style="background-color:#777733;"><span style="color:#777733;filter:grayscale(1) invert(1) contrast(100);">#777733</span></code> `#777733` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.15 |
-| R | <code style="background-color:#B13E0F;"><span style="color:#B13E0F;filter:grayscale(1) invert(1) contrast(100);">#B13E0F</span></code> `#B13E0F` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.07 |
+| Colour | Shade | Base |
+|---|---|---|
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| LG | <code style="background-color:#BDBD65;"><span style="color:#BDBD65;filter:grayscale(1) invert(1) contrast(100);">#BDBD65</span></code> `oklch(77.9% 0.111 108.7)` <small>#BDBD65</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| LT | <code style="background-color:#777733;"><span style="color:#777733;filter:grayscale(1) invert(1) contrast(100);">#777733</span></code> `oklch(55.4% 0.090 109.0)` <small>#777733</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| R | <code style="background-color:#B13E0F;"><span style="color:#B13E0F;filter:grayscale(1) invert(1) contrast(100);">#B13E0F</span></code> `oklch(52.1% 0.159 39.0)` <small>#B13E0F</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 # Sample pattern
 

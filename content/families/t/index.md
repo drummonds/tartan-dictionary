@@ -3,14 +3,12 @@ title: "Families & clans — T"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-26 clans and families beginning with T. [Back to the A–Z](/families/).
+24 clans and families beginning with T. [Back to the A–Z](/families/).
 
 ## Ta
 
 - [Taggart](/setts/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4n35k1r2k1n4r3~x2/)
 - [Tainsh](/setts/s6/k62r9w7lt6ly3g6~x2/)
-- [Tamer](/clan/tamer/) — clan
-- [Tamer of Wolves](/families/tamer-of-wolves/)
 - [Taplin](/setts/s11/r52k2r5dg3r5k5r5ly3r5k2r52~x2/)
 
 ## Te

@@ -26,16 +26,16 @@ W/6 R4 DR2 W2 R18 DR2 R4 DR4 R2 DR54 DB2 B4 DR2 DB22 O2 DR4 O2 DR4 O/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#349ED4;"><span style="color:#349ED4;filter:grayscale(1) invert(1) contrast(100);">#349ED4</span></code> `#349ED4` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.27 |
-| DB | <code style="background-color:#0F2745;"><span style="color:#0F2745;filter:grayscale(1) invert(1) contrast(100);">#0F2745</span></code> `#0F2745` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.14 |
-| DR | <code style="background-color:#87192B;"><span style="color:#87192B;filter:grayscale(1) invert(1) contrast(100);">#87192B</span></code> `#87192B` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.15 |
-| O | <code style="background-color:#D39D37;"><span style="color:#D39D37;filter:grayscale(1) invert(1) contrast(100);">#D39D37</span></code> `#D39D37` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.11 |
-| R | <code style="background-color:#EB3118;"><span style="color:#EB3118;filter:grayscale(1) invert(1) contrast(100);">#EB3118</span></code> `#EB3118` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.08 |
-| W | <code style="background-color:#FDF3F1;"><span style="color:#FDF3F1;filter:grayscale(1) invert(1) contrast(100);">#FDF3F1</span></code> `#FDF3F1` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.01 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#349ED4;"><span style="color:#349ED4;filter:grayscale(1) invert(1) contrast(100);">#349ED4</span></code> `oklch(66.3% 0.123 235.6)` <small>#349ED4</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DB | <code style="background-color:#0F2745;"><span style="color:#0F2745;filter:grayscale(1) invert(1) contrast(100);">#0F2745</span></code> `oklch(27.1% 0.064 255.3)` <small>#0F2745</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DR | <code style="background-color:#87192B;"><span style="color:#87192B;filter:grayscale(1) invert(1) contrast(100);">#87192B</span></code> `oklch(41.0% 0.144 18.1)` <small>#87192B</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| O | <code style="background-color:#D39D37;"><span style="color:#D39D37;filter:grayscale(1) invert(1) contrast(100);">#D39D37</span></code> `oklch(73.0% 0.131 79.5)` <small>#D39D37</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| R | <code style="background-color:#EB3118;"><span style="color:#EB3118;filter:grayscale(1) invert(1) contrast(100);">#EB3118</span></code> `oklch(61.0% 0.223 31.1)` <small>#EB3118</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| W | <code style="background-color:#FDF3F1;"><span style="color:#FDF3F1;filter:grayscale(1) invert(1) contrast(100);">#FDF3F1</span></code> `oklch(97.1% 0.011 31.1)` <small>#FDF3F1</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
 
 ## Nearest tartans
 

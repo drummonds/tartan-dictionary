@@ -19,13 +19,13 @@ Y/12 DB2 Y2 DB2 Y2 DB10 Y4 DB10 Y8 DB4 R2 DB80 R/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| DB | <code style="background-color:#380474;"><span style="color:#380474;filter:grayscale(1) invert(1) contrast(100);">#380474</span></code> `#380474` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
-| R | <code style="background-color:#EE0000;"><span style="color:#EE0000;filter:grayscale(1) invert(1) contrast(100);">#EE0000</span></code> `#EE0000` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.07 |
-| Y | <code style="background-color:#CDAD00;"><span style="color:#CDAD00;filter:grayscale(1) invert(1) contrast(100);">#CDAD00</span></code> `#CDAD00` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.08 |
+| Colour | Shade | Base |
+|---|---|---|
+| DB | <code style="background-color:#380474;"><span style="color:#380474;filter:grayscale(1) invert(1) contrast(100);">#380474</span></code> `oklch(30.1% 0.161 294.5)` <small>#380474</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| R | <code style="background-color:#EE0000;"><span style="color:#EE0000;filter:grayscale(1) invert(1) contrast(100);">#EE0000</span></code> `oklch(59.6% 0.245 29.2)` <small>#EE0000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| Y | <code style="background-color:#CDAD00;"><span style="color:#CDAD00;filter:grayscale(1) invert(1) contrast(100);">#CDAD00</span></code> `oklch(75.3% 0.155 95.6)` <small>#CDAD00</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 ## Nearest tartans
 

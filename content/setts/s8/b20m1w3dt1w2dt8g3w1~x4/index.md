@@ -32,15 +32,15 @@ B/80 DR4 LN12 G4 LN8 G32 LG12 LN/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#2C5890;"><span style="color:#2C5890;filter:grayscale(1) invert(1) contrast(100);">#2C5890</span></code> `#2C5890` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.07 |
-| DR | <code style="background-color:#902C58;"><span style="color:#902C58;filter:grayscale(1) invert(1) contrast(100);">#902C58</span></code> `#902C58` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.14 |
-| G | <code style="background-color:#043C48;"><span style="color:#043C48;filter:grayscale(1) invert(1) contrast(100);">#043C48</span></code> `#043C48` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.12 |
-| LG | <code style="background-color:#549028;"><span style="color:#549028;filter:grayscale(1) invert(1) contrast(100);">#549028</span></code> `#549028` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.17 |
-| LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `#E8E8E8` | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> | 0.05 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#2C5890;"><span style="color:#2C5890;filter:grayscale(1) invert(1) contrast(100);">#2C5890</span></code> `oklch(45.8% 0.104 255.5)` <small>#2C5890</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| DR | <code style="background-color:#902C58;"><span style="color:#902C58;filter:grayscale(1) invert(1) contrast(100);">#902C58</span></code> `oklch(45.7% 0.140 357.2)` <small>#902C58</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+| G | <code style="background-color:#043C48;"><span style="color:#043C48;filter:grayscale(1) invert(1) contrast(100);">#043C48</span></code> `oklch(32.9% 0.057 217.0)` <small>#043C48</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| LG | <code style="background-color:#549028;"><span style="color:#549028;filter:grayscale(1) invert(1) contrast(100);">#549028</span></code> `oklch(59.1% 0.149 134.8)` <small>#549028</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `oklch(93.1% 0.000 89.9)` <small>#E8E8E8</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
 
 # Sample pattern
 

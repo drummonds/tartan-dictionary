@@ -730,13 +730,6 @@
       "rank": 0
     },
     {
-      "name": "inches,",
-      "display": "Inches,",
-      "kind": "clan",
-      "url": "/clan/inches/",
-      "rank": 0
-    },
-    {
       "name": "innes,",
       "display": "Innes,",
       "kind": "clan",
@@ -1616,13 +1609,6 @@
       "display": "Sutherland",
       "kind": "clan",
       "url": "/clan/sutherland/",
-      "rank": 0
-    },
-    {
-      "name": "tamer",
-      "display": "Tamer",
-      "kind": "clan",
-      "url": "/clan/tamer/",
       "rank": 0
     },
     {
@@ -2778,13 +2764,6 @@
       "display": "Hunter of Peebleshire",
       "kind": "family",
       "url": "/families/hunter-of-peebleshire/",
-      "rank": 1
-    },
-    {
-      "name": "inches, of perth",
-      "display": "Inches, of Perth",
-      "kind": "family",
-      "url": "/families/inches-of-perth/",
       "rank": 1
     },
     {
@@ -4283,13 +4262,6 @@
       "display": "Sutherland of Duffus",
       "kind": "family",
       "url": "/families/sutherland-of-duffus/",
-      "rank": 1
-    },
-    {
-      "name": "tamer of wolves",
-      "display": "Tamer of Wolves",
-      "kind": "family",
-      "url": "/families/tamer-of-wolves/",
       "rank": 1
     },
     {

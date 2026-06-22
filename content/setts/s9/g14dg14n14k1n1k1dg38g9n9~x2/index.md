@@ -27,14 +27,14 @@ G/28 Ga28 B28 K2 B2 K2 Ga76 G18 B/18
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#506880;"><span style="color:#506880;filter:grayscale(1) invert(1) contrast(100);">#506880</span></code> `#506880` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
-| G | <code style="background-color:#40783C;"><span style="color:#40783C;filter:grayscale(1) invert(1) contrast(100);">#40783C</span></code> `#40783C` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.10 |
-| Ga | <code style="background-color:#005834;"><span style="color:#005834;filter:grayscale(1) invert(1) contrast(100);">#005834</span></code> `#005834` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.06 |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `#101010` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.17 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#506880;"><span style="color:#506880;filter:grayscale(1) invert(1) contrast(100);">#506880</span></code> `oklch(50.8% 0.048 248.8)` <small>#506880</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| G | <code style="background-color:#40783C;"><span style="color:#40783C;filter:grayscale(1) invert(1) contrast(100);">#40783C</span></code> `oklch(51.9% 0.108 142.5)` <small>#40783C</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| Ga | <code style="background-color:#005834;"><span style="color:#005834;filter:grayscale(1) invert(1) contrast(100);">#005834</span></code> `oklch(40.5% 0.096 157.6)` <small>#005834</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
 
 ## Nearest tartans
 

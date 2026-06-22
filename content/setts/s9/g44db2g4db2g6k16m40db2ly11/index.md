@@ -8,28 +8,20 @@ This was sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=misc
 
-## Register references
-
-External register numbers recorded for this tartan.
-
-- Scottish Register of Tartans: [440](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=440)
-- Scottish Tartans Authority (ITI): 1239
-- Scottish Tartans World Register: 1239
-
 ## Thread count
 B/44 DB2 B4 DB2 B6 K16 LT40 DB2 LR/11
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#4D9E8A;"><span style="color:#4D9E8A;filter:grayscale(1) invert(1) contrast(100);">#4D9E8A</span></code> `#4D9E8A` | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> | 0.23 |
-| DB | <code style="background-color:#00009E;"><span style="color:#00009E;filter:grayscale(1) invert(1) contrast(100);">#00009E</span></code> `#00009E` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.13 |
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `#000000` | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> | 0.00 |
-| LR | <code style="background-color:#DFC29A;"><span style="color:#DFC29A;filter:grayscale(1) invert(1) contrast(100);">#DFC29A</span></code> `#DFC29A` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.11 |
-| LT | <code style="background-color:#B24D6D;"><span style="color:#B24D6D;filter:grayscale(1) invert(1) contrast(100);">#B24D6D</span></code> `#B24D6D` | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> | 0.12 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#4D9E8A;"><span style="color:#4D9E8A;filter:grayscale(1) invert(1) contrast(100);">#4D9E8A</span></code> `oklch(64.2% 0.086 175.2)` <small>#4D9E8A</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+| DB | <code style="background-color:#00009E;"><span style="color:#00009E;filter:grayscale(1) invert(1) contrast(100);">#00009E</span></code> `oklch(31.6% 0.219 264.1)` <small>#00009E</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+| LR | <code style="background-color:#DFC29A;"><span style="color:#DFC29A;filter:grayscale(1) invert(1) contrast(100);">#DFC29A</span></code> `oklch(82.9% 0.063 75.6)` <small>#DFC29A</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+| LT | <code style="background-color:#B24D6D;"><span style="color:#B24D6D;filter:grayscale(1) invert(1) contrast(100);">#B24D6D</span></code> `oklch(55.9% 0.135 2.6)` <small>#B24D6D</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
 
 ## Nearest tartans
 

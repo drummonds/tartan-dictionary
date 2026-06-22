@@ -13,12 +13,12 @@ B/100 T8 B24 T46 Y8 T/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and its ΔE from the base-6 reference it is a variant of.
+Each colour and the base-6 reference it is a variant of.
 
-| Colour | Shade | Base | ΔE (OKLab) |
-|---|---|---|---|
-| B | <code style="background-color:#687C94;"><span style="color:#687C94;filter:grayscale(1) invert(1) contrast(100);">#687C94</span></code> `#687C94` | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> | 0.20 |
-| Y | <code style="background-color:#D49C1C;"><span style="color:#D49C1C;filter:grayscale(1) invert(1) contrast(100);">#D49C1C</span></code> `#D49C1C` | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> | 0.10 |
+| Colour | Shade | Base |
+|---|---|---|
+| B | <code style="background-color:#687C94;"><span style="color:#687C94;filter:grayscale(1) invert(1) contrast(100);">#687C94</span></code> `oklch(57.9% 0.044 253.2)` <small>#687C94</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+| Y | <code style="background-color:#D49C1C;"><span style="color:#D49C1C;filter:grayscale(1) invert(1) contrast(100);">#D49C1C</span></code> `oklch(72.7% 0.144 81.4)` <small>#D49C1C</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
 
 # Sample pattern
 

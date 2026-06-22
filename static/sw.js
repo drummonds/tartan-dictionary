@@ -20,7 +20,6 @@ importScripts('/wasm/wasm_exec.js');
 
 var WASM = '/wasm/weaver.wasm';
 var IMG = /\/(sett|tartan)\.png$/;
-var FRAGMENT = '/x/ttd'; // experimental SW-rendered palette fragment (issue #47, approach C)
 var enginePromise = null;
 
 /* Lazily instantiate the weaver wasm, once. go.run() parks in select{}, so self.weaver is
@@ -39,13 +38,9 @@ self.addEventListener('activate', function (e) { e.waitUntil(self.clients.claim(
 
 self.addEventListener('fetch', function (e) {
   var url = new URL(e.request.url);
-  if (e.request.method !== 'GET' || url.origin !== self.location.origin) return;
-  // The cloth images: serve the static file, render on a miss.
-  if (IMG.test(url.pathname)) { e.respondWith(renderOnMiss(e.request, url)); return; }
-  // The dynamic palette fragment (approach C / issue #47): the SW renders the editor palette via the
-  // wasm and returns HTML for the page to swap in. ?s=<slug>, optional &jc=&jh= apply one shade jog
-  // first; the resulting canonical slug comes back in X-Sett-Slug so the page can push the URL.
-  if (url.pathname === FRAGMENT) { e.respondWith(renderFragment(url)); return; }
+  // Only same-origin GETs for the two cloth images; everything else is left to the browser.
+  if (e.request.method !== 'GET' || url.origin !== self.location.origin || !IMG.test(url.pathname)) return;
+  e.respondWith(renderOnMiss(e.request, url));
 });
 
 /* Serve the static file if it exists; otherwise render it. A fetch made here is NOT re-dispatched
@@ -65,31 +60,6 @@ function render(url) {
     var png = kind === 'sett' ? w.renderSett(slug, 1000, 64) : w.renderWoven(slug, 480);
     if (!png || png.error) return new Response((png && png.error) || 'render failed', { status: 422 });
     return new Response(png, { headers: { 'Content-Type': 'image/png', 'Cache-Control': 'no-store' } });
-  }).catch(function (err) {
-    return new Response(String(err), { status: 500 });
-  });
-}
-
-/* Render the editor palette fragment in the worker. An optional jog (jc=code, jh=#hex) is applied
- * via applyShade first — re-deriving the canonical sett — and the result's slug is returned in the
- * X-Sett-Slug header so the page can keep its address bar canonical, exactly as the in-page weaver
- * does on a jog. This is the HTML half of issue #47: one renderer (the Go wasm), reached over HTTP. */
-function renderFragment(url) {
-  var slug = url.searchParams.get('s');
-  if (!slug) return Promise.resolve(new Response('no slug', { status: 404 }));
-  var jc = url.searchParams.get('jc'), jh = url.searchParams.get('jh');
-  var sup = url.searchParams.get('sup') || '';
-  return engine().then(function (w) {
-    if (jc && jh && typeof w.applyShade === 'function') {
-      var info = w.applyShade(slug, jc, jh);
-      if (info && !info.error && info.slug) slug = info.slug;
-    }
-    if (typeof w.renderPalette !== 'function') return new Response('engine too old', { status: 501 });
-    var html = w.renderPalette(slug, sup);
-    if (typeof html !== 'string') return new Response((html && html.error) || 'render failed', { status: 422 });
-    return new Response(html, {
-      headers: { 'Content-Type': 'text/html; charset=utf-8', 'X-Sett-Slug': slug, 'Cache-Control': 'no-store' },
-    });
   }).catch(function (err) {
     return new Response(String(err), { status: 500 });
   });

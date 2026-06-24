@@ -2,7 +2,7 @@
 title: "MacNab WI2"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g15r3p11n2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg15r3dp11lb2/)
 (the same proportion at any scale), whose colour order is pattern [GRBW](/stripes/grbw/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -14,14 +14,7 @@ G/15 R3 P11 N/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| G | <code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> `oklch(36.1% 0.123 142.5)` <small>#004C00</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| N | <code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> `oklch(85.8% 0.000 89.9)` <small>#D0D0D0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| P | <code style="background-color:#5A3094;"><span style="color:#5A3094;filter:grayscale(1) invert(1) contrast(100);">#5A3094</span></code> `oklch(41.8% 0.156 298.7)` <small>#5A3094</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| R | <code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> `oklch(52.3% 0.215 29.2)` <small>#C80000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">15</td><td><code style="background-color:#004C00;"><span style="color:#004C00;filter:grayscale(1) invert(1) contrast(100);">#004C00</span></code> <small style="color:#888">#004C00</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(36.1% 0.123 142.5)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#C80000;"><span style="color:#C80000;filter:grayscale(1) invert(1) contrast(100);">#C80000</span></code> <small style="color:#888">#C80000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(52.3% 0.215 29.2)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">11</td><td><code style="background-color:#5A3094;"><span style="color:#5A3094;filter:grayscale(1) invert(1) contrast(100);">#5A3094</span></code> <small style="color:#888">#5A3094</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(41.8% 0.156 298.7)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> <small style="color:#888">#D0D0D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(85.8% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

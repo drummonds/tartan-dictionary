@@ -24,13 +24,9 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/)|
-|![MacDonald of Clanranald example sett](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8~x2/sett.png)|
-| [MacDonald of Clanranald](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/)|
+| [MacDonald of Clanranald](/tartans/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/)|
 |![MacDonald of Clanranald example sett](/setts/s13/dg8r1dg2r3dg12lr1k12r1db12r3db2r1db8/sett.png)|
-| [MacDonald of Clanranald D](/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/)|
-|![MacDonald of Clanranald D example sett](/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6~x2/sett.png)|
-| [MacDonald of Clanranald D](/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/)|
+| [MacDonald of Clanranald D](/tartans/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/)|
 |![MacDonald of Clanranald D example sett](/setts/s13/dg6r2dg2r3dg11lr2k11r2db12r3db2r2db6/sett.png)|
 | [Macallan](/setts/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/)|
 |![Macallan example sett](/setts/s13/dg12r2dg4r5dg16lo2k16r2db16r5db4r2db12~x2/sett.png)|

@@ -1,0 +1,13 @@
+---
+title: "Celtic Football Club (2005)"
+date: 2023-03-18
+---
+The **Celtic Football Club (2005)** tartan is one sett proportion (`dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4`) recorded at 2 scales — the
+same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
+[GGGKGKGKYKGKY](/stripes/gggkgkgkykgky/); each scale below is its own sett page. First attested **2005**
+— its oldest sett (★) anchors the tartan as the parent.
+
+| Scale | Sett | Earliest | |
+|---|---|---|---|
+| ×2 | [Celtic Football Club (2005)](/setts/s13/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/) ★ | 2005 | ![Celtic Football Club (2005) sett](/setts/s13/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/sett.png) |
+| ×2 | [Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/) | ~2016 | ![Celtic 2005 Sports Tartan Tartan Number: 6496. Earliest known date: 2005 January Designed by Claire Donaldson of The House of Edgar for Celtic Football Club updating the club's tartan for 2005. See products available Copyright © Blair Urquhart, Comrie, 2015 sett](/setts/s24/dg6dg3dg22k2dg4k14dg5k3ly5k3dg20k4lo4~x2/sett.png) |

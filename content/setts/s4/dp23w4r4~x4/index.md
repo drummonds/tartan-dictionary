@@ -2,7 +2,7 @@
 title: "Auchmaliddie Samkoma"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n23w4r4/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dp23w4r4/)
 (the same proportion at any scale), whose colour order is pattern [RWBW](/stripes/rwbw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,13 +20,7 @@ R/16 W16 N92 W/16
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| N | <code style="background-color:#433A5A;"><span style="color:#433A5A;filter:grayscale(1) invert(1) contrast(100);">#433A5A</span></code> `oklch(37.2% 0.055 296.6)` <small>#433A5A</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| R | <code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> `oklch(50.8% 0.180 22.7)` <small>#B62531</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| W | <code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> `oklch(97.2% 0.009 78.3)` <small>#F9F5EF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Dictionary</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#B62531;"><span style="color:#B62531;filter:grayscale(1) invert(1) contrast(100);">#B62531</span></code> <small style="color:#888">#B62531</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.8% 0.180 22.7)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> <small style="color:#888">#F9F5EF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(97.2% 0.009 78.3)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">92</td><td><code style="background-color:#433A5A;"><span style="color:#433A5A;filter:grayscale(1) invert(1) contrast(100);">#433A5A</span></code> <small style="color:#888">#433A5A</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(37.2% 0.055 296.6)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#F9F5EF;"><span style="color:#F9F5EF;filter:grayscale(1) invert(1) contrast(100);">#F9F5EF</span></code> <small style="color:#888">#F9F5EF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(97.2% 0.009 78.3)</small></td></tr></tbody></table>
 
 # Sample pattern
 

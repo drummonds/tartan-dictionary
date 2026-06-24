@@ -24,10 +24,8 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1/)|
+| [Fraser](/tartans/db16r1db1r1dg12r16dg2r16dg12db12r1db1/)|
 |![Fraser example sett](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1/sett.png)|
-| [Fraser](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1~x2/)|
-|![Fraser example sett](/setts/s12/db16r1db1r1dg12r16dg2r16dg12db12r1db1~x2/sett.png)|
 | [Fraser Stewart of Athol](/setts/s12/db28r3db3r3dg20r30dg4r30dg20db22r3db3~x2/)|
 |![Fraser Stewart of Athol example sett](/setts/s12/db28r3db3r3dg20r30dg4r30dg20db22r3db3~x2/sett.png)|
 | [Fraser of Stratherrick](/setts/s12/db20r2db2r2g19r18g2r18g19db19r2db2~x2/)|

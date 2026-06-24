@@ -2,7 +2,7 @@
 title: "Ryutokukan Junior High School"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr6dg13k5dr20ly3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r6dg13k5r20w3/)
 (the same proportion at any scale), whose colour order is pattern [RGKRW](/stripes/rgkrw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -29,14 +29,7 @@ DR/12 DG26 K10 DR40 LY/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DG | <code style="background-color:#003D0D;"><span style="color:#003D0D;filter:grayscale(1) invert(1) contrast(100);">#003D0D</span></code> `oklch(31.3% 0.096 145.8)` <small>#003D0D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| DR | <code style="background-color:#880110;"><span style="color:#880110;filter:grayscale(1) invert(1) contrast(100);">#880110</span></code> `oklch(39.5% 0.160 25.7)` <small>#880110</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| LY | <code style="background-color:#FBF8D7;"><span style="color:#FBF8D7;filter:grayscale(1) invert(1) contrast(100);">#FBF8D7</span></code> `oklch(97.3% 0.043 102.9)` <small>#FBF8D7</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(1 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#880110;"><span style="color:#880110;filter:grayscale(1) invert(1) contrast(100);">#880110</span></code> <small style="color:#888">#880110</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.5% 0.160 25.7)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#003D0D;"><span style="color:#003D0D;filter:grayscale(1) invert(1) contrast(100);">#003D0D</span></code> <small style="color:#888">#003D0D</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(31.3% 0.096 145.8)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#880110;"><span style="color:#880110;filter:grayscale(1) invert(1) contrast(100);">#880110</span></code> <small style="color:#888">#880110</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.5% 0.160 25.7)</small></td></tr><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#FBF8D7;"><span style="color:#FBF8D7;filter:grayscale(1) invert(1) contrast(100);">#FBF8D7</span></code> <small style="color:#888">#FBF8D7</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(97.3% 0.043 102.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

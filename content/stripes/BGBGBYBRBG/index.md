@@ -24,7 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Ridge](/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x2/)|
+| [Blue Ridge](/tartans/g6t8o2t2ly2t16g18t4g4t3/)|
 |![Blue Ridge example sett](/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x2/sett.png)|
-| [Blue Ridge (District)](/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x4/)|
-|![Blue Ridge (District) example sett](/setts/s10/g6t8o2t2ly2t16g18t4g4t3~x4/sett.png)|

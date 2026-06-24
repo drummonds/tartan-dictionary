@@ -2,7 +2,7 @@
 title: "McWilliams Hunting (2014)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt22dra1g22dr4/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o22m1y22dr4/)
 (the same proportion at any scale), whose colour order is pattern [BGRR](/stripes/bgrr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,14 +20,7 @@ LT/88 DRa4 G88 DR/16
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> `oklch(26.2% 0.107 29.2)` <small>#4C0000</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DRa | <code style="background-color:#781C38;"><span style="color:#781C38;filter:grayscale(1) invert(1) contrast(100);">#781C38</span></code> `oklch(38.7% 0.127 7.4)` <small>#781C38</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| G | <code style="background-color:#767E52;"><span style="color:#767E52;filter:grayscale(1) invert(1) contrast(100);">#767E52</span></code> `oklch(57.5% 0.064 116.8)` <small>#767E52</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| LT | <code style="background-color:#B07430;"><span style="color:#B07430;filter:grayscale(1) invert(1) contrast(100);">#B07430</span></code> `oklch(61.0% 0.112 66.0)` <small>#B07430</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">88</td><td><code style="background-color:#B07430;"><span style="color:#B07430;filter:grayscale(1) invert(1) contrast(100);">#B07430</span></code> <small style="color:#888">#B07430</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(61.0% 0.112 66.0)</small></td></tr><tr><td>DRa</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#781C38;"><span style="color:#781C38;filter:grayscale(1) invert(1) contrast(100);">#781C38</span></code> <small style="color:#888">#781C38</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(38.7% 0.127 7.4)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">88</td><td><code style="background-color:#767E52;"><span style="color:#767E52;filter:grayscale(1) invert(1) contrast(100);">#767E52</span></code> <small style="color:#888">#767E52</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(57.5% 0.064 116.8)</small></td></tr><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#4C0000;"><span style="color:#4C0000;filter:grayscale(1) invert(1) contrast(100);">#4C0000</span></code> <small style="color:#888">#4C0000</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(26.2% 0.107 29.2)</small></td></tr></tbody></table>
 
 # Sample pattern
 

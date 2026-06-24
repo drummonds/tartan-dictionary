@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Palazzo Bloise (Personal)](/setts/s6/db74g54r44w2p15ly10/)|
-|![Palazzo Bloise (Personal) example sett](/setts/s6/db74g54r44w2p15ly10/sett.png)|
 | [Palazzo Bloise (Personal)](/setts/s6/db37g27r22w1dp6ly5~x2/)|
 |![Palazzo Bloise (Personal) example sett](/setts/s6/db37g27r22w1dp6ly5~x2/sett.png)|
+| [Palazzo Bloise (Personal)](/setts/s6/db74g54r44w2p15ly10/)|
+|![Palazzo Bloise (Personal) example sett](/setts/s6/db74g54r44w2p15ly10/sett.png)|

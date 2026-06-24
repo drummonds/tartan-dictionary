@@ -24,11 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sinclair](/setts/s6/r30dg12k5lr2b6r30~x2/)|
-|![Sinclair example sett](/setts/s6/r30dg12k5lr2b6r30~x2/sett.png)|
-| [Sinclair](/setts/s6/r30dg12k5lr2b6r30/)|
+| [Sinclair](/tartans/r30dg12k5lr2b6r30/)|
 |![Sinclair example sett](/setts/s6/r30dg12k5lr2b6r30/sett.png)|
-| [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28~x2/)|
-|![Sinclair Dress example sett](/setts/s6/r28dg16k4lr1b6r28~x2/sett.png)|
-| [Sinclair Dress](/setts/s6/r28dg16k4lr1b6r28/)|
+| [Sinclair Dress](/tartans/r28dg16k4lr1b6r28/)|
 |![Sinclair Dress example sett](/setts/s6/r28dg16k4lr1b6r28/sett.png)|

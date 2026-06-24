@@ -24,13 +24,11 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cargill](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/)|
-|![Cargill example sett](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x4/sett.png)|
+| [Cargill](/tartans/db1g1db6k6g1k6g1db2g1db3g1/)|
+|![Cargill example sett](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png)|
 | [Clergy](/setts/s11/dg1db3dg1db2dg1k6dg1k6db6dg1db1~x2/)|
 |![Clergy example sett](/setts/s11/dg1db3dg1db2dg1k6dg1k6db6dg1db1~x2/sett.png)|
 | [Clergy #2](/setts/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/)|
 |![Clergy #2 example sett](/setts/s11/db4dg4db18k19dg4k19dg4db7dg4db12dg2~x2/sett.png)|
-| [Clergy 2](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/)|
-|![Clergy 2 example sett](/setts/s11/db1g1db6k6g1k6g1db2g1db3g1~x2/sett.png)|
 | [Clergy 3](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/)|
 |![Clergy 3 example sett](/setts/s11/db4g4db18k19g4k19g4db7g4db12g2~x2/sett.png)|

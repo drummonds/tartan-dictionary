@@ -24,9 +24,7 @@ It is a 2 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Justus Check (Personal)](/setts/s2/k1ly1~x40/)|
+| [Justus Check (Personal)](/tartans/k1ly1/)|
 |![Justus Check (Personal) example sett](/setts/s2/k1ly1~x40/sett.png)|
-| [Justus Check (Personal)](/setts/s2/k1ly1~x50/)|
-|![Justus Check (Personal) example sett](/setts/s2/k1ly1~x50/sett.png)|
 | [Shepherd](/setts/s2/k1lr1/)|
 |![Shepherd example sett](/setts/s2/k1lr1/sett.png)|

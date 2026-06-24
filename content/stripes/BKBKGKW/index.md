@@ -32,9 +32,7 @@ It is a 7 stripe tartan.
 |![Forbes example sett](/setts/s7/db1k1db6k6g6k1w1~x2/sett.png)|
 | [Forbes #4](/setts/s7/db1k1db6k6dg6k1w1~x2/)|
 |![Forbes #4 example sett](/setts/s7/db1k1db6k6dg6k1w1~x2/sett.png)|
-| [Forbes - 1947 (Lyon Court)](/setts/s7/db1k6db6k6g6k1w1~x6/)|
-|![Forbes - 1947 (Lyon Court) example sett](/setts/s7/db1k6db6k6g6k1w1~x6/sett.png)|
-| [Forbes Ancient](/setts/s7/db1k6db6k6g6k1w1~x2/)|
+| [Forbes Ancient](/tartans/db1k6db6k6g6k1w1/)|
 |![Forbes Ancient example sett](/setts/s7/db1k6db6k6g6k1w1~x2/sett.png)|
 | [Forbes LC](/setts/s7/db1k6db6k6dg6k1lb1/)|
 |![Forbes LC example sett](/setts/s7/db1k6db6k6dg6k1lb1/sett.png)|

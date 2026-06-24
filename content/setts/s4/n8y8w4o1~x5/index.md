@@ -2,7 +2,7 @@
 title: "Farooq in Livingston (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8na8w4lt1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n8y8w4o1/)
 (the same proportion at any scale), whose colour order is pattern [BGWR](/stripes/bgwr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,14 +20,7 @@ N/40 Na40 W20 LT/5
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LT | <code style="background-color:#874C52;"><span style="color:#874C52;filter:grayscale(1) invert(1) contrast(100);">#874C52</span></code> `oklch(48.8% 0.080 13.9)` <small>#874C52</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| N | <code style="background-color:#465665;"><span style="color:#465665;filter:grayscale(1) invert(1) contrast(100);">#465665</span></code> `oklch(44.5% 0.032 246.8)` <small>#465665</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| Na | <code style="background-color:#6E7766;"><span style="color:#6E7766;filter:grayscale(1) invert(1) contrast(100);">#6E7766</span></code> `oklch(55.7% 0.028 130.1)` <small>#6E7766</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `oklch(100.0% 0.000 89.9)` <small>#FFFFFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#465665;"><span style="color:#465665;filter:grayscale(1) invert(1) contrast(100);">#465665</span></code> <small style="color:#888">#465665</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(44.5% 0.032 246.8)</small></td></tr><tr><td>Na</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#6E7766;"><span style="color:#6E7766;filter:grayscale(1) invert(1) contrast(100);">#6E7766</span></code> <small style="color:#888">#6E7766</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(55.7% 0.028 130.1)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">5</td><td><code style="background-color:#874C52;"><span style="color:#874C52;filter:grayscale(1) invert(1) contrast(100);">#874C52</span></code> <small style="color:#888">#874C52</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(48.8% 0.080 13.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

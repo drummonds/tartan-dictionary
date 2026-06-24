@@ -2,7 +2,7 @@
 title: "Klymson (Chicago) (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n70y16lb3o45/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k70lo16lt3r45/)
 (the same proportion at any scale), whose colour order is pattern [KYWR](/stripes/kywr/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,13 +20,7 @@ N/70 Y16 LB3 O/45
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LB | <code style="background-color:#00CCFF;"><span style="color:#00CCFF;filter:grayscale(1) invert(1) contrast(100);">#00CCFF</span></code> `oklch(78.6% 0.148 224.3)` <small>#00CCFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| O | <code style="background-color:#FF6600;"><span style="color:#FF6600;filter:grayscale(1) invert(1) contrast(100);">#FF6600</span></code> `oklch(69.6% 0.204 43.5)` <small>#FF6600</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| Y | <code style="background-color:#FF9900;"><span style="color:#FF9900;filter:grayscale(1) invert(1) contrast(100);">#FF9900</span></code> `oklch(77.2% 0.174 64.6)` <small>#FF9900</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">70</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#FF9900;"><span style="color:#FF9900;filter:grayscale(1) invert(1) contrast(100);">#FF9900</span></code> <small style="color:#888">#FF9900</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(77.2% 0.174 64.6)</small></td></tr><tr><td>LB</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#00CCFF;"><span style="color:#00CCFF;filter:grayscale(1) invert(1) contrast(100);">#00CCFF</span></code> <small style="color:#888">#00CCFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(78.6% 0.148 224.3)</small></td></tr><tr><td>O/</td><td style="text-align:right;font-variant-numeric:tabular-nums">45</td><td><code style="background-color:#FF6600;"><span style="color:#FF6600;filter:grayscale(1) invert(1) contrast(100);">#FF6600</span></code> <small style="color:#888">#FF6600</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(69.6% 0.204 43.5)</small></td></tr></tbody></table>
 
 # Sample pattern
 

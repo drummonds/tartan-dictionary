@@ -26,9 +26,7 @@ It is a 6 stripe tartan.
 |---------------|
 | [Melville (Two black lines)](/setts/s6/dg4w1dg26b26k2b4~x4/)|
 |![Melville (Two black lines) example sett](/setts/s6/dg4w1dg26b26k2b4~x4/sett.png)|
+| [Oliphant](/tartans/db4k4db24g32w1g2/)|
+|![Oliphant example sett](/setts/s6/db4k4db24g32w1g2~x2/sett.png)|
 | [Oliphant](/setts/s6/db4k4db24dg32lb1dg2~x2/)|
 |![Oliphant example sett](/setts/s6/db4k4db24dg32lb1dg2~x2/sett.png)|
-| [Oliphant](/setts/s6/db4k4db24g32w1g2~x2/)|
-|![Oliphant example sett](/setts/s6/db4k4db24g32w1g2~x2/sett.png)|
-| [Oliphant (Clan)](/setts/s6/db4k4db24g32w1g2~x4/)|
-|![Oliphant (Clan) example sett](/setts/s6/db4k4db24g32w1g2~x4/sett.png)|

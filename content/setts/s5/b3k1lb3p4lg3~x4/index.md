@@ -2,7 +2,7 @@
 title: "Crinnion (Middlesbrough) (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3p4n3k1b3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b3k1lb3p4lg3/)
 (the same proportion at any scale), whose colour order is pattern [BKWBY](/stripes/bkwby/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -20,15 +20,7 @@ G/12 P16 N12 K4 B/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#275EDC;"><span style="color:#275EDC;filter:grayscale(1) invert(1) contrast(100);">#275EDC</span></code> `oklch(52.5% 0.202 263.3)` <small>#275EDC</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| G | <code style="background-color:#0BB43F;"><span style="color:#0BB43F;filter:grayscale(1) invert(1) contrast(100);">#0BB43F</span></code> `oklch(67.1% 0.200 146.4)` <small>#0BB43F</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| N | <code style="background-color:#D1D5CD;"><span style="color:#D1D5CD;filter:grayscale(1) invert(1) contrast(100);">#D1D5CD</span></code> `oklch(86.8% 0.012 128.6)` <small>#D1D5CD</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| P | <code style="background-color:#761CA0;"><span style="color:#761CA0;filter:grayscale(1) invert(1) contrast(100);">#761CA0</span></code> `oklch(44.2% 0.198 311.6)` <small>#761CA0</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(1 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#0BB43F;"><span style="color:#0BB43F;filter:grayscale(1) invert(1) contrast(100);">#0BB43F</span></code> <small style="color:#888">#0BB43F</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(67.1% 0.200 146.4)</small></td></tr><tr><td>P</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#761CA0;"><span style="color:#761CA0;filter:grayscale(1) invert(1) contrast(100);">#761CA0</span></code> <small style="color:#888">#761CA0</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(44.2% 0.198 311.6)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#D1D5CD;"><span style="color:#D1D5CD;filter:grayscale(1) invert(1) contrast(100);">#D1D5CD</span></code> <small style="color:#888">#D1D5CD</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(86.8% 0.012 128.6)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#275EDC;"><span style="color:#275EDC;filter:grayscale(1) invert(1) contrast(100);">#275EDC</span></code> <small style="color:#888">#275EDC</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(52.5% 0.202 263.3)</small></td></tr></tbody></table>
 
 # Sample pattern
 

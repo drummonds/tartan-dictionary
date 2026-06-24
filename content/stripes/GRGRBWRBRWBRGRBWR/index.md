@@ -24,10 +24,10 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/)|
-|![Dalzell example sett](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/sett.png)|
 | [Dalzell](/setts/s17/r24w1db2r8g52r8db2w1r8db12r8w1db2r52g4r6g6~x2/)|
 |![Dalzell example sett](/setts/s17/r24w1db2r8g52r8db2w1r8db12r8w1db2r52g4r6g6~x2/sett.png)|
+| [Dalzell](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/)|
+|![Dalzell example sett](/setts/s17/r24lb1db2r4dg32r4db2lb1r4db6r4lb1db2r32dg2r3dg6~x2/sett.png)|
 | [Dalziel](/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/)|
 |![Dalziel example sett](/setts/s17/r40w2db1r3g31r3db1w2r3db8r3w2db1r34g4r4g4~x2/sett.png)|
 | [Dalziel](/setts/s17/r24w1db2r4g32r4db2w1r4db6r4w1db2r32g2r3g6~x2/)|

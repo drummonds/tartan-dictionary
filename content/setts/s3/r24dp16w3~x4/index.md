@@ -2,7 +2,7 @@
 title: "National Autistic Society Scotland"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24dr16ln3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24dp16w3/)
 (the same proportion at any scale), whose colour order is pattern [RBW](/stripes/rbw/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
@@ -35,13 +35,7 @@ R/96 DR64 LN/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#5C2458;"><span style="color:#5C2458;filter:grayscale(1) invert(1) contrast(100);">#5C2458</span></code> `oklch(36.3% 0.108 330.4)` <small>#5C2458</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LN | <code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> `oklch(93.1% 0.000 89.9)` <small>#E8E8E8</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| R | <code style="background-color:#E82460;"><span style="color:#E82460;filter:grayscale(1) invert(1) contrast(100);">#E82460</span></code> `oklch(60.7% 0.225 11.0)` <small>#E82460</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">96</td><td><code style="background-color:#E82460;"><span style="color:#E82460;filter:grayscale(1) invert(1) contrast(100);">#E82460</span></code> <small style="color:#888">#E82460</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.7% 0.225 11.0)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#5C2458;"><span style="color:#5C2458;filter:grayscale(1) invert(1) contrast(100);">#5C2458</span></code> <small style="color:#888">#5C2458</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(36.3% 0.108 330.4)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#E8E8E8;"><span style="color:#E8E8E8;filter:grayscale(1) invert(1) contrast(100);">#E8E8E8</span></code> <small style="color:#888">#E8E8E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(93.1% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

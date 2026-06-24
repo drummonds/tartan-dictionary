@@ -26,12 +26,10 @@ It is a 17 stripe tartan.
 |---------------|
 | [Lochiel (Cameron)](/setts/s17/r36ly2dp1r3g41r3dp1ly2r3dp12r3ly2dp1r37g3r3g4~x2/)|
 |![Lochiel (Cameron) example sett](/setts/s17/r36ly2dp1r3g41r3dp1ly2r3dp12r3ly2dp1r37g3r3g4~x2/sett.png)|
-| [Munro](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x4/)|
-|![Munro example sett](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x4/sett.png)|
+| [Munro](/tartans/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2/)|
+|![Munro example sett](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x2/sett.png)|
 | [Munro](/setts/s17/r24ly1db1r3dg16r3db1ly1r3db6r3ly1db1r16dg2r2dg2~x2/)|
 |![Munro example sett](/setts/s17/r24ly1db1r3dg16r3db1ly1r3db6r3ly1db1r16dg2r2dg2~x2/sett.png)|
-| [Munro](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x2/)|
-|![Munro example sett](/setts/s17/r24ly1db1r3g16r3db1ly1r3db6r3ly1db1r16g2r2g2~x2/sett.png)|
 | [Munro (Clan)](/setts/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3r3g4~x2/)|
 |![Munro (Clan) example sett](/setts/s17/r36ly2db1r3g41r3db1ly2r3db12r3ly2db1r36g3r3g4~x2/sett.png)|
 | [Munro (Logan)](/setts/s17/r19ly1db1r2g18r2db1ly1r2db4r2ly1db1r19g2r2g2~x2/)|

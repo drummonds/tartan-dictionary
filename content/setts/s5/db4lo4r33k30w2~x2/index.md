@@ -2,7 +2,7 @@
 title: "Wormeck (2013) Germany"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4o4dr33k30w2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db4lo4r33k30w2/)
 (the same proportion at any scale), whose colour order is pattern [BYRKW](/stripes/byrkw/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -34,15 +34,7 @@ DB/8 O8 DR66 K60 W/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DB | <code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> `oklch(32.6% 0.166 276.9)` <small>#271B86</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DR | <code style="background-color:#A90725;"><span style="color:#A90725;filter:grayscale(1) invert(1) contrast(100);">#A90725</span></code> `oklch(46.6% 0.185 22.1)` <small>#A90725</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| K | <code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> `oklch(15.2% 0.028 78.6)` <small>#120A01</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| O | <code style="background-color:#EBAA57;"><span style="color:#EBAA57;filter:grayscale(1) invert(1) contrast(100);">#EBAA57</span></code> `oklch(78.4% 0.125 70.8)` <small>#EBAA57</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
-| W | <code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> `oklch(96.0% 0.014 78.3)` <small>#F7F1E8</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#271B86;"><span style="color:#271B86;filter:grayscale(1) invert(1) contrast(100);">#271B86</span></code> <small style="color:#888">#271B86</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(32.6% 0.166 276.9)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#EBAA57;"><span style="color:#EBAA57;filter:grayscale(1) invert(1) contrast(100);">#EBAA57</span></code> <small style="color:#888">#EBAA57</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(78.4% 0.125 70.8)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">66</td><td><code style="background-color:#A90725;"><span style="color:#A90725;filter:grayscale(1) invert(1) contrast(100);">#A90725</span></code> <small style="color:#888">#A90725</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(46.6% 0.185 22.1)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#120A01;"><span style="color:#120A01;filter:grayscale(1) invert(1) contrast(100);">#120A01</span></code> <small style="color:#888">#120A01</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(15.2% 0.028 78.6)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#F7F1E8;"><span style="color:#F7F1E8;filter:grayscale(1) invert(1) contrast(100);">#F7F1E8</span></code> <small style="color:#888">#F7F1E8</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.0% 0.014 78.3)</small></td></tr></tbody></table>
 
 # Sample pattern
 

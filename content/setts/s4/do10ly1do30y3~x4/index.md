@@ -2,7 +2,7 @@
 title: "Pasteur Fancy Tartan Tartan Number: 7094. Earliest known date: 1836 The pattern is taken from a shawl or cloak which appears in a portrait of Louie Pasteur's mother. The portrait was drawn in pastels when Pasteur was just 13 years old. The information came Marie-Claude Fortier researching the life of Pasteur. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k10lr1k30lg3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do10ly1do30y3/)
 (the same proportion at any scale), whose colour order is pattern [BYBG](/stripes/bybg/).
 
 Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -14,13 +14,7 @@ K/40 LR4 K120 LG/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| K | <code style="background-color:#34281C;"><span style="color:#34281C;filter:grayscale(1) invert(1) contrast(100);">#34281C</span></code> `oklch(28.7% 0.027 66.4)` <small>#34281C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `oklch(64.0% 0.040 160.0)` <small>#789484</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| LR | <code style="background-color:#E4CCA4;"><span style="color:#E4CCA4;filter:grayscale(1) invert(1) contrast(100);">#E4CCA4</span></code> `oklch(85.5% 0.059 80.4)` <small>#E4CCA4</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#34281C;"><span style="color:#34281C;filter:grayscale(1) invert(1) contrast(100);">#34281C</span></code> <small style="color:#888">#34281C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.7% 0.027 66.4)</small></td></tr><tr><td>LR</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E4CCA4;"><span style="color:#E4CCA4;filter:grayscale(1) invert(1) contrast(100);">#E4CCA4</span></code> <small style="color:#888">#E4CCA4</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(85.5% 0.059 80.4)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">120</td><td><code style="background-color:#34281C;"><span style="color:#34281C;filter:grayscale(1) invert(1) contrast(100);">#34281C</span></code> <small style="color:#888">#34281C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.7% 0.027 66.4)</small></td></tr><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> <small style="color:#888">#789484</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(64.0% 0.040 160.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

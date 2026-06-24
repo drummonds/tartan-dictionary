@@ -2,7 +2,7 @@
 title: "Wilson's No.205"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1dg10dp4lb1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w1dg10dp4lt1/)
 (the same proportion at any scale), whose colour order is pattern [WBGW](/stripes/wbgw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -22,14 +22,7 @@ W/2 DG20 DP8 LB/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DG | <code style="background-color:#044028;"><span style="color:#044028;filter:grayscale(1) invert(1) contrast(100);">#044028</span></code> `oklch(32.9% 0.072 160.0)` <small>#044028</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| DP | <code style="background-color:#280034;"><span style="color:#280034;filter:grayscale(1) invert(1) contrast(100);">#280034</span></code> `oklch(20.5% 0.100 316.9)` <small>#280034</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LB | <code style="background-color:#00FCFC;"><span style="color:#00FCFC;filter:grayscale(1) invert(1) contrast(100);">#00FCFC</span></code> `oklch(89.7% 0.153 194.8)` <small>#00FCFC</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| W | <code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> `oklch(99.1% 0.000 89.9)` <small>#FCFCFC</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#FCFCFC;"><span style="color:#FCFCFC;filter:grayscale(1) invert(1) contrast(100);">#FCFCFC</span></code> <small style="color:#888">#FCFCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(99.1% 0.000 89.9)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#044028;"><span style="color:#044028;filter:grayscale(1) invert(1) contrast(100);">#044028</span></code> <small style="color:#888">#044028</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.9% 0.072 160.0)</small></td></tr><tr><td>DP</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#280034;"><span style="color:#280034;filter:grayscale(1) invert(1) contrast(100);">#280034</span></code> <small style="color:#888">#280034</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(20.5% 0.100 316.9)</small></td></tr><tr><td>LB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#00FCFC;"><span style="color:#00FCFC;filter:grayscale(1) invert(1) contrast(100);">#00FCFC</span></code> <small style="color:#888">#00FCFC</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(89.7% 0.153 194.8)</small></td></tr></tbody></table>
 
 # Sample pattern
 

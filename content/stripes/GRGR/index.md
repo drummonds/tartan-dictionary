@@ -24,18 +24,14 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Applecross](/setts/s4/r18g7r2g18~x2/)|
+| [Applecross](/tartans/r18g7r2g18/)|
 |![Applecross example sett](/setts/s4/r18g7r2g18~x2/sett.png)|
-| [Applecross (District)](/setts/s4/r18g7r2g18~x4/)|
-|![Applecross (District) example sett](/setts/s4/r18g7r2g18~x4/sett.png)|
 | [Duke of Windsor (Royal)](/setts/s4/g75r2g4r40~x2/)|
 |![Duke of Windsor (Royal) example sett](/setts/s4/g75r2g4r40~x2/sett.png)|
 | [Highland Spring (Green)](/setts/s4/g7r3g23m7~x2/)|
 |![Highland Spring (Green) example sett](/setts/s4/g7r3g23m7~x2/sett.png)|
-| [MacDonald Lord of the Isles](/setts/s4/r38dg2r5dg16/)|
+| [MacDonald Lord of the Isles](/tartans/r38dg2r5dg16/)|
 |![MacDonald Lord of the Isles example sett](/setts/s4/r38dg2r5dg16/sett.png)|
-| [MacDonald Lord of the Isles](/setts/s4/r38dg2r5dg16~x2/)|
-|![MacDonald Lord of the Isles example sett](/setts/s4/r38dg2r5dg16~x2/sett.png)|
 | [MacDonald of Sleat](/setts/s4/r36g2r5g16~x2/)|
 |![MacDonald of Sleat example sett](/setts/s4/r36g2r5g16~x2/sett.png)|
 | [MacDonald of Sleat - 1810 (Clan)](/setts/s4/r36dg2r5dg16~x2/)|

@@ -24,7 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacQueen](/setts/s6/k2r6k2r6k12ly1~x4/)|
-|![MacQueen example sett](/setts/s6/k2r6k2r6k12ly1~x4/sett.png)|
-| [MacQueen](/setts/s6/k2r6k2r6k12ly1~x2/)|
+| [MacQueen](/tartans/k2r6k2r6k12ly1/)|
 |![MacQueen example sett](/setts/s6/k2r6k2r6k12ly1~x2/sett.png)|

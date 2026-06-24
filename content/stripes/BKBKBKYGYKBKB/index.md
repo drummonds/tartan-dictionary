@@ -24,12 +24,10 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black from Cumnock (Personal)](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/)|
-|![Black from Cumnock (Personal) example sett](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/sett.png)|
+| [Breadalbane Fencibles](/tartans/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/)|
+|![Breadalbane Fencibles example sett](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/sett.png)|
 | [Breadalbane Fencibles](/setts/s13/db8k1db1k1db1k8ly1dg13ly1k8db9k1db1/)|
 |![Breadalbane Fencibles example sett](/setts/s13/db8k1db1k1db1k8ly1dg13ly1k8db9k1db1/sett.png)|
-| [Breadalbane Fencibles](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/)|
-|![Breadalbane Fencibles example sett](/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1/sett.png)|
 | [Campbell of Breadalbane](/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/)|
 |![Campbell of Breadalbane example sett](/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/sett.png)|
 | [Campbell of Breadalbane](/setts/s13/db4k2db2k2db2k14ly1g22ly1k14db12k2db2~x4/)|

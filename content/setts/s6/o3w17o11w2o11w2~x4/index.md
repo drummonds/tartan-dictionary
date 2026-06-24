@@ -2,7 +2,7 @@
 title: "Fallow Deer, The"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg3ly17lg11ly2lg11ly2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o3w17o11w2o11w2/)
 (the same proportion at any scale), whose colour order is pattern [RWRWRW](/stripes/rwrwrw/).
 
 Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/).
@@ -35,12 +35,7 @@ LG/12 LY68 LG44 LY8 LG44 LY/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LG | <code style="background-color:#9C8000;"><span style="color:#9C8000;filter:grayscale(1) invert(1) contrast(100);">#9C8000</span></code> `oklch(60.8% 0.125 93.4)` <small>#9C8000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| LY | <code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> `oklch(96.1% 0.047 102.0)` <small>#F8F4D0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#9C8000;"><span style="color:#9C8000;filter:grayscale(1) invert(1) contrast(100);">#9C8000</span></code> <small style="color:#888">#9C8000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.8% 0.125 93.4)</small></td></tr><tr><td>LY</td><td style="text-align:right;font-variant-numeric:tabular-nums">68</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr><tr><td>LG</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#9C8000;"><span style="color:#9C8000;filter:grayscale(1) invert(1) contrast(100);">#9C8000</span></code> <small style="color:#888">#9C8000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.8% 0.125 93.4)</small></td></tr><tr><td>LY</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr><tr><td>LG</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#9C8000;"><span style="color:#9C8000;filter:grayscale(1) invert(1) contrast(100);">#9C8000</span></code> <small style="color:#888">#9C8000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.8% 0.125 93.4)</small></td></tr><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

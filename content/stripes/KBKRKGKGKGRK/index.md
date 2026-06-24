@@ -24,7 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skene N](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4~x2/)|
-|![Skene N example sett](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4~x2/sett.png)|
-| [Skene N](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4/)|
+| [Skene N](/tartans/k4db24k4r3k4dg24k4y3k4dg24r3k4/)|
 |![Skene N example sett](/setts/s12/k4db24k4r3k4dg24k4y3k4dg24r3k4/sett.png)|

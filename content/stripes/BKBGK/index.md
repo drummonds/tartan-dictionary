@@ -24,15 +24,11 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Austin](/setts/s5/db4k4db4dg9k2/)|
+| [Austin](/tartans/db4k4db4dg9k2/)|
 |![Austin example sett](/setts/s5/db4k4db4dg9k2/sett.png)|
-| [Austin](/setts/s5/db4k4db4dg9k2~x2/)|
-|![Austin example sett](/setts/s5/db4k4db4dg9k2~x2/sett.png)|
 | [Austin Clan](/setts/s5/db4k4db4g9k2~x2/)|
 |![Austin Clan example sett](/setts/s5/db4k4db4g9k2~x2/sett.png)|
-| [Austin WI](/setts/s5/n3k3n3dg6k2~x2/)|
-|![Austin WI example sett](/setts/s5/n3k3n3dg6k2~x2/sett.png)|
-| [Austin WI](/setts/s5/n3k3n3dg6k2/)|
+| [Austin WI](/tartans/n3k3n3dg6k2/)|
 |![Austin WI example sett](/setts/s5/n3k3n3dg6k2/sett.png)|
 | [Dallard (Personal)](/setts/s5/k37dg37n8k3dp5~x2/)|
 |![Dallard (Personal) example sett](/setts/s5/k37dg37n8k3dp5~x2/sett.png)|

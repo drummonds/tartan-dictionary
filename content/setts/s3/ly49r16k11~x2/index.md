@@ -20,13 +20,7 @@ LY/98 R32 K/22
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| K | <code style="background-color:#1C1714;"><span style="color:#1C1714;filter:grayscale(1) invert(1) contrast(100);">#1C1714</span></code> `oklch(20.9% 0.010 52.9)` <small>#1C1714</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| LY | <code style="background-color:#F8E38C;"><span style="color:#F8E38C;filter:grayscale(1) invert(1) contrast(100);">#F8E38C</span></code> `oklch(91.4% 0.110 96.2)` <small>#F8E38C</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
-| R | <code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> `oklch(54.4% 0.199 27.2)` <small>#CA2625</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">98</td><td><code style="background-color:#F8E38C;"><span style="color:#F8E38C;filter:grayscale(1) invert(1) contrast(100);">#F8E38C</span></code> <small style="color:#888">#F8E38C</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(91.4% 0.110 96.2)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#CA2625;"><span style="color:#CA2625;filter:grayscale(1) invert(1) contrast(100);">#CA2625</span></code> <small style="color:#888">#CA2625</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(54.4% 0.199 27.2)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">22</td><td><code style="background-color:#1C1714;"><span style="color:#1C1714;filter:grayscale(1) invert(1) contrast(100);">#1C1714</span></code> <small style="color:#888">#1C1714</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(20.9% 0.010 52.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

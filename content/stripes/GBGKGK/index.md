@@ -24,12 +24,10 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKay](/setts/s6/k3dg14k14dg2db14dg3/)|
+| [MacKay](/tartans/k3dg14k14dg2db14dg3/)|
 |![MacKay example sett](/setts/s6/k3dg14k14dg2db14dg3/sett.png)|
 | [MacKay](/setts/s6/k3g14k14g2db14g3~x2/)|
 |![MacKay example sett](/setts/s6/k3g14k14g2db14g3~x2/sett.png)|
-| [MacKay](/setts/s6/k3dg14k14dg2db14dg3~x2/)|
-|![MacKay example sett](/setts/s6/k3dg14k14dg2db14dg3~x2/sett.png)|
 | [MacKay (Logan)](/setts/s6/k4g23k23g2db23g4~x2/)|
 |![MacKay (Logan) example sett](/setts/s6/k4g23k23g2db23g4~x2/sett.png)|
 | [MacKay - 1800 (Clan)](/setts/s6/k4g23k23g2n23g4~x2/)|

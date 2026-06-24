@@ -2,7 +2,7 @@
 title: "Pasteur"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t10lr1t30lg3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dy10ly1dy30y3/)
 (the same proportion at any scale), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -21,13 +21,7 @@ T/40 LR4 T120 LG/12
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `oklch(64.0% 0.040 160.0)` <small>#789484</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| LR | <code style="background-color:#E4CCA4;"><span style="color:#E4CCA4;filter:grayscale(1) invert(1) contrast(100);">#E4CCA4</span></code> `oklch(85.5% 0.059 80.4)` <small>#E4CCA4</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
-| T | <code style="background-color:#483824;"><span style="color:#483824;filter:grayscale(1) invert(1) contrast(100);">#483824</span></code> `oklch(35.3% 0.039 72.2)` <small>#483824</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">40</td><td><code style="background-color:#483824;"><span style="color:#483824;filter:grayscale(1) invert(1) contrast(100);">#483824</span></code> <small style="color:#888">#483824</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(35.3% 0.039 72.2)</small></td></tr><tr><td>LR</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#E4CCA4;"><span style="color:#E4CCA4;filter:grayscale(1) invert(1) contrast(100);">#E4CCA4</span></code> <small style="color:#888">#E4CCA4</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(85.5% 0.059 80.4)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">120</td><td><code style="background-color:#483824;"><span style="color:#483824;filter:grayscale(1) invert(1) contrast(100);">#483824</span></code> <small style="color:#888">#483824</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(35.3% 0.039 72.2)</small></td></tr><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> <small style="color:#888">#789484</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(64.0% 0.040 160.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

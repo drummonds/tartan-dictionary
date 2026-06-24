@@ -30,7 +30,5 @@ It is a 15 stripe tartan.
 |![Baillie example sett](/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/sett.png)|
 | [Baillie (William Wilson)](/setts/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/)|
 |![Baillie (William Wilson) example sett](/setts/s15/db28k4db4k4db4k28g27k3ly5k3g27k28db27k3r5~x2/sett.png)|
-| [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/)|
-|![MacKenzie example sett](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/sett.png)|
-| [MacKenzie](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/)|
+| [MacKenzie](/tartans/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/)|
 |![MacKenzie example sett](/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/sett.png)|

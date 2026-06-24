@@ -2,7 +2,7 @@
 title: "Oxford University"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b9dg16g56y4/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db9dg16g56ly4/)
 (the same proportion at any scale), whose colour order is pattern [BGGY](/stripes/bggy/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -14,14 +14,7 @@ B/18 DG32 G112 Y/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> `oklch(39.4% 0.109 270.2)` <small>#304080</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DG | <code style="background-color:#004010;"><span style="color:#004010;filter:grayscale(1) invert(1) contrast(100);">#004010</span></code> `oklch(32.3% 0.098 146.3)` <small>#004010</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| G | <code style="background-color:#30A010;"><span style="color:#30A010;filter:grayscale(1) invert(1) contrast(100);">#30A010</span></code> `oklch(61.9% 0.195 140.5)` <small>#30A010</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| Y | <code style="background-color:#FFE000;"><span style="color:#FFE000;filter:grayscale(1) invert(1) contrast(100);">#FFE000</span></code> `oklch(90.5% 0.188 99.1)` <small>#FFE000</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> <small style="color:#888">#304080</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.109 270.2)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#004010;"><span style="color:#004010;filter:grayscale(1) invert(1) contrast(100);">#004010</span></code> <small style="color:#888">#004010</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.3% 0.098 146.3)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">112</td><td><code style="background-color:#30A010;"><span style="color:#30A010;filter:grayscale(1) invert(1) contrast(100);">#30A010</span></code> <small style="color:#888">#30A010</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(61.9% 0.195 140.5)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#FFE000;"><span style="color:#FFE000;filter:grayscale(1) invert(1) contrast(100);">#FFE000</span></code> <small style="color:#888">#FFE000</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(90.5% 0.188 99.1)</small></td></tr></tbody></table>
 
 # Sample pattern
 

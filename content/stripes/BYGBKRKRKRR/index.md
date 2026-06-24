@@ -24,7 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/)|
+| [Blais (Personal)](/tartans/db20ly1dy1db3k1o2k1r10k1o2r4/)|
 |![Blais (Personal) example sett](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x2/sett.png)|
-| [Blais (Personal)](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/)|
-|![Blais (Personal) example sett](/setts/s11/db20ly1dy1db3k1o2k1r10k1o2r4~x4/sett.png)|

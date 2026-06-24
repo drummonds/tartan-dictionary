@@ -26,7 +26,5 @@ It is a 2 stripe tartan.
 |---------------|
 | [Bruce Special 1985 XXX](/setts/s2/t1b1~x2/)|
 |![Bruce Special 1985 XXX example sett](/setts/s2/t1b1~x2/sett.png)|
-| [Rob Roy, Blue (Fashion)](/setts/s2/db1b1~x100/)|
-|![Rob Roy, Blue (Fashion) example sett](/setts/s2/db1b1~x100/sett.png)|
-| [St. Combs Fisher Plaid](/setts/s2/db1b1~x14/)|
+| [St. Combs Fisher Plaid](/tartans/db1b1/)|
 |![St. Combs Fisher Plaid example sett](/setts/s2/db1b1~x14/sett.png)|

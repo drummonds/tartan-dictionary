@@ -2,7 +2,7 @@
 title: "Lochcarron, Camel (Fashion)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lt12k1lta2lt1r1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o12k1o2o1k1/)
 (the same proportion at any scale), whose colour order is pattern [KRRKR](/stripes/krrkr/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -14,13 +14,7 @@ LT/96 K8 LTa16 LT8 R/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| K | <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> `oklch(0.0% 0.000 0.0)` <small>#000000</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| LT | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `oklch(60.0% 0.092 75.5)` <small>#A0783C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| LTa | <code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> `oklch(60.0% 0.092 75.5)` <small>#A0783C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Ingles Buchan</strong> <small style="color:#888">(1 of 2 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">96</td><td><code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> <small style="color:#888">#A0783C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.0% 0.092 75.5)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> <small style="color:#888">#000000</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(0.0% 0.000 0.0)</small></td></tr><tr><td>LTa</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> <small style="color:#888">#A0783C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.0% 0.092 75.5)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#A0783C;"><span style="color:#A0783C;filter:grayscale(1) invert(1) contrast(100);">#A0783C</span></code> <small style="color:#888">#A0783C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(60.0% 0.092 75.5)</small></td></tr><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr></tbody></table>
 
 # Sample pattern
 

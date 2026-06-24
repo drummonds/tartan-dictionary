@@ -2,7 +2,7 @@
 title: "MacKillen Hunting"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dg1g1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k1g1/)
 (the same proportion at any scale), whose colour order is pattern [GK](/stripes/gk/).
 
 Sourced from register-of-tartans.  It is a [2 stripe tartan](/stripes/stripes2/).
@@ -27,12 +27,7 @@ DG/168 G/168
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DG | <code style="background-color:#001E00;"><span style="color:#001E00;filter:grayscale(1) invert(1) contrast(100);">#001E00</span></code> `oklch(20.4% 0.069 142.5)` <small>#001E00</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| G | <code style="background-color:#006428;"><span style="color:#006428;filter:grayscale(1) invert(1) contrast(100);">#006428</span></code> `oklch(43.9% 0.124 149.0)` <small>#006428</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">168</td><td><code style="background-color:#001E00;"><span style="color:#001E00;filter:grayscale(1) invert(1) contrast(100);">#001E00</span></code> <small style="color:#888">#001E00</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(20.4% 0.069 142.5)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">168</td><td><code style="background-color:#006428;"><span style="color:#006428;filter:grayscale(1) invert(1) contrast(100);">#006428</span></code> <small style="color:#888">#006428</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(43.9% 0.124 149.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

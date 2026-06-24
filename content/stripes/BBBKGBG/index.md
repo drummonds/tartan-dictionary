@@ -24,13 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacThomas](/setts/s7/dg3dr2dg21k11db21dr2db3~x2/)|
-|![MacThomas example sett](/setts/s7/dg3dr2dg21k11db21dr2db3~x2/sett.png)|
-| [MacThomas](/setts/s7/dg3dr2dg21k11db21dr2db3/)|
+| [MacThomas](/tartans/dg3dr2dg21k11db21dr2db3/)|
 |![MacThomas example sett](/setts/s7/dg3dr2dg21k11db21dr2db3/sett.png)|
+| [MacThomas LC](/tartans/dg5n3dg32k16db32dp3db5/)|
+|![MacThomas LC example sett](/setts/s7/dg5n3dg32k16db32dp3db5/sett.png)|
 | [MacThomas LC](/setts/s7/dg5dp3dg32k16db32dp3db5/)|
 |![MacThomas LC example sett](/setts/s7/dg5dp3dg32k16db32dp3db5/sett.png)|
-| [MacThomas LC](/setts/s7/dg5n3dg32k16db32dp3db5~x2/)|
-|![MacThomas LC example sett](/setts/s7/dg5n3dg32k16db32dp3db5~x2/sett.png)|
-| [MacThomas LC](/setts/s7/dg5n3dg32k16db32dp3db5/)|
-|![MacThomas LC example sett](/setts/s7/dg5n3dg32k16db32dp3db5/sett.png)|

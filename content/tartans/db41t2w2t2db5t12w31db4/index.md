@@ -1,0 +1,13 @@
+---
+title: "Harmony Eildon"
+date: 2023-03-18
+---
+The **Harmony Eildon** tartan is one sett proportion (`db41t2w2t2db5t12w31db4`) recorded at 2 scales — the
+same cloth woven fine or broad, with close colours folded together. Its colour order is pattern
+[BBWBBBWB](/stripes/bbwbbbwb/); each scale below is its own sett page. First attested **1983**
+— its oldest sett (★) anchors the tartan as the parent.
+
+| Scale | Sett | Earliest | |
+|---|---|---|---|
+| ×2 | [Harmony Eildon](/setts/s14/db41t2w2t2db5t12w31db4~x2/) ★ | 1983 | ![Harmony Eildon sett](/setts/s14/db41t2w2t2db5t12w31db4~x2/sett.png) |
+| ×2 | [Harmony Eildon (Dance)](/setts/s8/db41t2w2t2db5t12w31db4~x2/) | 1983 | ![Harmony Eildon (Dance) sett](/setts/s8/db41t2w2t2db5t12w31db4~x2/sett.png) |

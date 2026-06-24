@@ -2,7 +2,7 @@
 title: "Burns (Fashion)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly15n6ly1n3lt3ly1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w15do6w1do3o3w1/)
 (the same proportion at any scale), whose colour order is pattern [WBWBRW](/stripes/wbwbrw/).
 
 Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
@@ -29,13 +29,7 @@ LY/60 N24 LY4 N12 LT12 LY/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LT | <code style="background-color:#B0781C;"><span style="color:#B0781C;filter:grayscale(1) invert(1) contrast(100);">#B0781C</span></code> `oklch(61.6% 0.122 73.7)` <small>#B0781C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| LY | <code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> `oklch(96.1% 0.047 102.0)` <small>#F8F4D0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| N | <code style="background-color:#3C3C3C;"><span style="color:#3C3C3C;filter:grayscale(1) invert(1) contrast(100);">#3C3C3C</span></code> `oklch(35.6% 0.000 89.9)` <small>#3C3C3C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#3C3C3C;"><span style="color:#3C3C3C;filter:grayscale(1) invert(1) contrast(100);">#3C3C3C</span></code> <small style="color:#888">#3C3C3C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.6% 0.000 89.9)</small></td></tr><tr><td>LY</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#3C3C3C;"><span style="color:#3C3C3C;filter:grayscale(1) invert(1) contrast(100);">#3C3C3C</span></code> <small style="color:#888">#3C3C3C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(35.6% 0.000 89.9)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#B0781C;"><span style="color:#B0781C;filter:grayscale(1) invert(1) contrast(100);">#B0781C</span></code> <small style="color:#888">#B0781C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(61.6% 0.122 73.7)</small></td></tr><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#F8F4D0;"><span style="color:#F8F4D0;filter:grayscale(1) invert(1) contrast(100);">#F8F4D0</span></code> <small style="color:#888">#F8F4D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(96.1% 0.047 102.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

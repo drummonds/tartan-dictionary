@@ -2,7 +2,7 @@
 title: "Triplett, Jack Arnold"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ly35b12r2n2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/w35n12r2n2/)
 (the same proportion at any scale), whose colour order is pattern [BRBW](/stripes/brbw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,14 +20,7 @@ LY/70 B24 R4 N/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#335280;"><span style="color:#335280;filter:grayscale(1) invert(1) contrast(100);">#335280</span></code> `oklch(43.7% 0.085 258.1)` <small>#335280</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LY | <code style="background-color:#F8EEB7;"><span style="color:#F8EEB7;filter:grayscale(1) invert(1) contrast(100);">#F8EEB7</span></code> `oklch(94.4% 0.071 99.0)` <small>#F8EEB7</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| N | <code style="background-color:#666666;"><span style="color:#666666;filter:grayscale(1) invert(1) contrast(100);">#666666</span></code> `oklch(51.0% 0.000 89.9)` <small>#666666</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| R | <code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> `oklch(62.8% 0.258 29.2)` <small>#FF0000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LY/</td><td style="text-align:right;font-variant-numeric:tabular-nums">70</td><td><code style="background-color:#F8EEB7;"><span style="color:#F8EEB7;filter:grayscale(1) invert(1) contrast(100);">#F8EEB7</span></code> <small style="color:#888">#F8EEB7</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(94.4% 0.071 99.0)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#335280;"><span style="color:#335280;filter:grayscale(1) invert(1) contrast(100);">#335280</span></code> <small style="color:#888">#335280</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(43.7% 0.085 258.1)</small></td></tr><tr><td>R</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#FF0000;"><span style="color:#FF0000;filter:grayscale(1) invert(1) contrast(100);">#FF0000</span></code> <small style="color:#888">#FF0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.8% 0.258 29.2)</small></td></tr><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#666666;"><span style="color:#666666;filter:grayscale(1) invert(1) contrast(100);">#666666</span></code> <small style="color:#888">#666666</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(51.0% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

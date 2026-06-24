@@ -32,9 +32,7 @@ It is a 15 stripe tartan.
 |![Glenfarclas Distillery example sett](/setts/s15/o8db3o3g20o3g3o3db6o3b3o20db3o3db2o6~x2/sett.png)|
 | [Grant](/setts/s15/r6db2r2dg24r2dg2r2db8r2b1r32db2r2db1r6~x2/)|
 |![Grant example sett](/setts/s15/r6db2r2dg24r2dg2r2db8r2b1r32db2r2db1r6~x2/sett.png)|
-| [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/)|
-|![Grant D example sett](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x4/sett.png)|
-| [Grant D](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/)|
+| [Grant D](/tartans/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3/)|
 |![Grant D example sett](/setts/s15/r3db1r1dg10r1dg1r1db3r1b1r12db1r1db1r3~x2/sett.png)|
 | [Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/)|
 |![Grant of Ballindalloch Clan Tartan Tartan Number: 2149. Earliest known date: 1993 Grant of Ballindalloch tartan was designed during the refurbishment of Ballindalloch Castle. It is based on the Grant tartan recorded by Logan in 1831. The first samples produced by Johnstons of Elgin were woven in 'Antique' colours. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/r5dt5r3g16r3g3r3dt10r3t5r12dt5r3dt3r5~x2/sett.png)|

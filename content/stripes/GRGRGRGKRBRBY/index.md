@@ -24,9 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cochrane (1974)](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/)|
-|![Cochrane (1974) example sett](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3~x2/sett.png)|
-| [Cochrane LC](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/)|
+| [Cochrane LC](/tartans/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/)|
 |![Cochrane LC example sett](/setts/s13/dg22r4dg2r2dg2r4dg12k12r2db10r4db4ly3/sett.png)|
 | [Cochrane of Dundonald](/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/)|
 |![Cochrane of Dundonald example sett](/setts/s13/g44r4g2r2g2r4g12k12r2db10r4db4ly3~x2/sett.png)|

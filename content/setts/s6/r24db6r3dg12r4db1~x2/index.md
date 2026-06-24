@@ -2,7 +2,7 @@
 title: "MacKintosh"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dr24db6dr3dg12dr4db1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r24db6r3dg12r4db1/)
 (the same proportion at any scale), whose colour order is pattern [BRGRBR](/stripes/brgrbr/).
 
 Sourced from weddslist.  It is a [6 stripe tartan](/stripes/stripes6/).
@@ -14,13 +14,7 @@ DR/48 DB12 DR6 DG24 DR8 DB/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DB | <code style="background-color:#000052;"><span style="color:#000052;filter:grayscale(1) invert(1) contrast(100);">#000052</span></code> `oklch(19.8% 0.137 264.1)` <small>#000052</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DG | <code style="background-color:#11450D;"><span style="color:#11450D;filter:grayscale(1) invert(1) contrast(100);">#11450D</span></code> `oklch(34.4% 0.101 142.1)` <small>#11450D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| DR | <code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> `oklch(46.3% 0.190 29.2)` <small>#AA0000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> <small style="color:#888">#AA0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(46.3% 0.190 29.2)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#000052;"><span style="color:#000052;filter:grayscale(1) invert(1) contrast(100);">#000052</span></code> <small style="color:#888">#000052</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(19.8% 0.137 264.1)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> <small style="color:#888">#AA0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(46.3% 0.190 29.2)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#11450D;"><span style="color:#11450D;filter:grayscale(1) invert(1) contrast(100);">#11450D</span></code> <small style="color:#888">#11450D</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(34.4% 0.101 142.1)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#AA0000;"><span style="color:#AA0000;filter:grayscale(1) invert(1) contrast(100);">#AA0000</span></code> <small style="color:#888">#AA0000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(46.3% 0.190 29.2)</small></td></tr><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#000052;"><span style="color:#000052;filter:grayscale(1) invert(1) contrast(100);">#000052</span></code> <small style="color:#888">#000052</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(19.8% 0.137 264.1)</small></td></tr></tbody></table>
 
 # Sample pattern
 

@@ -32,7 +32,5 @@ It is a 8 stripe tartan.
 |![Kyle Green (Name) example sett](/setts/s8/r54g6r5g6r10g3r2g18~x2/sett.png)|
 | [Menzies](/setts/s8/g48r4g2r4g6r2g3r9~x2/)|
 |![Menzies example sett](/setts/s8/g48r4g2r4g6r2g3r9~x2/sett.png)|
-| [Menzies Hunting](/setts/s8/dg48r4dg2r4dg6r2dg3r9/)|
+| [Menzies Hunting](/tartans/dg48r4dg2r4dg6r2dg3r9/)|
 |![Menzies Hunting example sett](/setts/s8/dg48r4dg2r4dg6r2dg3r9/sett.png)|
-| [Menzies Hunting](/setts/s8/dg48r4dg2r4dg6r2dg3r9~x2/)|
-|![Menzies Hunting example sett](/setts/s8/dg48r4dg2r4dg6r2dg3r9~x2/sett.png)|

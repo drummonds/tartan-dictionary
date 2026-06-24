@@ -1,19 +1,19 @@
 ---
 title: "Drummonds of Megginch Tartan Notes"
-date: "2022-05-28"
+date: "2026-06-23"
 ---
 
 Drummonds of Megginch Tartan
 
 Originally written May 16, 2018
 
-There has long been confusion about the tartan for the Drummonds of Megginch. This is due the tartan being very similar to the New Grant tartan that was recorded by Wilson in the 1819 weaving pattern book.
+There has long been confusion about the tartan for the Drummonds of Megginch. This is due the tartan being very similar to the New Bruce / New Grant tartan that was recorded by Wilson in the 1819 weaving pattern book.
 
 Drummonds of Megginch Tartan different from Wilson Grant pattern.
 
-The earliest example I currently have of the tartans that the Drummonds of Megginch is a kilt dating from 1849 which I wore from about 1975 to 2000. The picture is of the inside which has faded less the outer. I can be confident of the date as there is a picture of JMD (James Murray Drummond) wearing this with a sporran which I also have. The sporran was made in 1849 in Edinbugh and can be dated from the silver makers mark.
+The earliest example I currently have of the tartans that the Drummonds of Megginch is a kilt dating from 1820 to 1849 which I wore from about 1975 to 2000. The picture is of the inside which has faded less the outer. I can be confident of the latter date as there is a picture of JMD (James Murray Drummond) wearing this with a sporran which I also have. The sporran was made in 1849 in Edinbugh and can be dated from the silver makers mark.
 
-There is probably an older tartan plaid which is thought to date from around 1820 but the precise history is uncertain.
+There is probably an older tartan plaid which is thought to date from around 1820 but the precise history is uncertain.  It is possible it is an example of Wilsons superfine weaving.
 
 My old Kilt:
 
@@ -26,7 +26,7 @@ R/14 DB2 R4 DB4 R70 LB4 R4 DB20 R4 G4 R4 G74 R6 DB4 R/12
 (The colours of this are not yet quite matched)
 ![Drummond1849](Drummond1849Tartan.png "Drummond 1849")
 
-This is very similar to Drummond 1819 Clan as listed in the Scottish Tartans Authority, the Wilson Pattern book describes it as New Bruce. In the setts of the Tartans by DC Stewart p53 it is referred to as Grant although he notes others eg Logan have recorded it as a Drummond tartan:
+This is very similar to Drummond 1819 Clan as listed in the Scottish Tartans Authority, the Wilson Pattern book describes it as New Bruce. In the setts of the Tartans by DC Stewart p53 it is referred to as Grant although he notes others eg Logan have recorded it as a Drummond tartan (although I can't find a reference to that):
 
 R12 B2 R4 B4 R64 LB2 R4 B16 R4 G4 R4 G48 R4 B4 R12
 

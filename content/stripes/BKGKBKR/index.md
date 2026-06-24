@@ -24,9 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Argyll](/setts/s7/r2k1db8k8g8k1t2~x2/)|
+| [Argyll](/tartans/r2k1db8k8g8k1t2/)|
 |![Argyll example sett](/setts/s7/r2k1db8k8g8k1t2~x2/sett.png)|
-| [Campbell of Cawdor](/setts/s7/r2k1db8k8g8k1t2~x4/)|
-|![Campbell of Cawdor example sett](/setts/s7/r2k1db8k8g8k1t2~x4/sett.png)|
 | [Campbell of Cawdor](/setts/s7/r2k1db8k8dg8k1b2~x2/)|
 |![Campbell of Cawdor example sett](/setts/s7/r2k1db8k8dg8k1b2~x2/sett.png)|

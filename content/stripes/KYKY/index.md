@@ -28,9 +28,7 @@ It is a 4 stripe tartan.
 |![Justus example sett](/setts/s4/k5ly1k1~x12/sett.png)|
 | [Justus #2 (Personal)](/setts/s4/k5lo1k1~x20/)|
 |![Justus #2 (Personal) example sett](/setts/s4/k5lo1k1~x20/sett.png)|
-| [MacFarlane VS](/setts/s4/k7lr6k1~x2/)|
-|![MacFarlane VS example sett](/setts/s4/k7lr6k1~x2/sett.png)|
-| [MacFarlane VS](/setts/s4/k7lr6k1/)|
+| [MacFarlane VS](/tartans/k7lr6k1/)|
 |![MacFarlane VS example sett](/setts/s4/k7lr6k1/sett.png)|
 | [Raeburn](/setts/s4/k34ly3k34ly26~x2/)|
 |![Raeburn example sett](/setts/s4/k34ly3k34ly26~x2/sett.png)|

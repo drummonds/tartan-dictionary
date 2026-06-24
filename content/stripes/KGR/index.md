@@ -26,10 +26,8 @@ It is a 3 stripe tartan.
 |---------------|
 | [Glen Lyon](/setts/s3/k6g5r2~x2/)|
 |![Glen Lyon example sett](/setts/s3/k6g5r2~x2/sett.png)|
-| [Kincaid](/setts/s3/k11dg17r3/)|
+| [Kincaid](/tartans/k11dg17r3/)|
 |![Kincaid example sett](/setts/s3/k11dg17r3/sett.png)|
-| [Kincaid](/setts/s3/k11dg17r3~x2/)|
-|![Kincaid example sett](/setts/s3/k11dg17r3~x2/sett.png)|
 | [Kincaid of Kincaid (Clan)](/setts/s3/k11g16r2~x4/)|
 |![Kincaid of Kincaid (Clan) example sett](/setts/s3/k11g16r2~x4/sett.png)|
 | [Kincaid, of Kincaid](/setts/s3/k4g6r1~x10/)|

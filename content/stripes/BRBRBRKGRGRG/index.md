@@ -24,12 +24,10 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/)|
-|![MacDonald example sett](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8~x2/sett.png)|
+| [MacDonald](/tartans/dg8r1dg2r3dg12k12r1db12r3db2r1db8/)|
+|![MacDonald example sett](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/sett.png)|
 | [MacDonald](/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/)|
 |![MacDonald example sett](/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/sett.png)|
-| [MacDonald](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/)|
-|![MacDonald example sett](/setts/s12/dg8r1dg2r3dg12k12r1db12r3db2r1db8/sett.png)|
 | [MacDonald #2](/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/)|
 |![MacDonald #2 example sett](/setts/s12/dg11r2dg2r4dg15k15r2db15r4db2r2db11~x2/sett.png)|
 | [MacDonald #3](/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/)|

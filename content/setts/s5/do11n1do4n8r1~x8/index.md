@@ -2,7 +2,7 @@
 title: "Cairns, David (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n11na1n4na8dr1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/do11n1do4n8r1/)
 (the same proportion at any scale), whose colour order is pattern [BBBBR](/stripes/bbbbr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -20,13 +20,7 @@ N/88 Na8 N32 Na64 DR/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#A40B00;"><span style="color:#A40B00;filter:grayscale(1) invert(1) contrast(100);">#A40B00</span></code> `oklch(45.5% 0.182 30.1)` <small>#A40B00</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| N | <code style="background-color:#393939;"><span style="color:#393939;filter:grayscale(1) invert(1) contrast(100);">#393939</span></code> `oklch(34.5% 0.000 89.9)` <small>#393939</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| Na | <code style="background-color:#5B5B5B;"><span style="color:#5B5B5B;filter:grayscale(1) invert(1) contrast(100);">#5B5B5B</span></code> `oklch(47.1% 0.000 89.9)` <small>#5B5B5B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>N/</td><td style="text-align:right;font-variant-numeric:tabular-nums">88</td><td><code style="background-color:#393939;"><span style="color:#393939;filter:grayscale(1) invert(1) contrast(100);">#393939</span></code> <small style="color:#888">#393939</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(34.5% 0.000 89.9)</small></td></tr><tr><td>Na</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#5B5B5B;"><span style="color:#5B5B5B;filter:grayscale(1) invert(1) contrast(100);">#5B5B5B</span></code> <small style="color:#888">#5B5B5B</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.1% 0.000 89.9)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#393939;"><span style="color:#393939;filter:grayscale(1) invert(1) contrast(100);">#393939</span></code> <small style="color:#888">#393939</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(34.5% 0.000 89.9)</small></td></tr><tr><td>Na</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#5B5B5B;"><span style="color:#5B5B5B;filter:grayscale(1) invert(1) contrast(100);">#5B5B5B</span></code> <small style="color:#888">#5B5B5B</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(47.1% 0.000 89.9)</small></td></tr><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#A40B00;"><span style="color:#A40B00;filter:grayscale(1) invert(1) contrast(100);">#A40B00</span></code> <small style="color:#888">#A40B00</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(45.5% 0.182 30.1)</small></td></tr></tbody></table>
 
 # Sample pattern
 

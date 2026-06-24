@@ -2,7 +2,7 @@
 title: "Sligo Irish County Tartan Tartan Number: 2256. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b50t4b12t23y4t4/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t50k4t12k23lo4k4/)
 (the same proportion at any scale), whose colour order is pattern [BKBKYK](/stripes/bkbkyk/).
 
 Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
@@ -14,12 +14,7 @@ B/100 T8 B24 T46 Y8 T/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#687C94;"><span style="color:#687C94;filter:grayscale(1) invert(1) contrast(100);">#687C94</span></code> `oklch(57.9% 0.044 253.2)` <small>#687C94</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| Y | <code style="background-color:#D49C1C;"><span style="color:#D49C1C;filter:grayscale(1) invert(1) contrast(100);">#D49C1C</span></code> `oklch(72.7% 0.144 81.4)` <small>#D49C1C</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">100</td><td><code style="background-color:#687C94;"><span style="color:#687C94;filter:grayscale(1) invert(1) contrast(100);">#687C94</span></code> <small style="color:#888">#687C94</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(57.9% 0.044 253.2)</small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#687C94;"><span style="color:#687C94;filter:grayscale(1) invert(1) contrast(100);">#687C94</span></code> <small style="color:#888">#687C94</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(57.9% 0.044 253.2)</small></td></tr><tr><td></td><td style="text-align:right;font-variant-numeric:tabular-nums">46</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#D49C1C;"><span style="color:#D49C1C;filter:grayscale(1) invert(1) contrast(100);">#D49C1C</span></code> <small style="color:#888">#D49C1C</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(72.7% 0.144 81.4)</small></td></tr><tr><td>/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code> <small style="color:#888"></small></td><td> <code style="background-color:;"><span style="color:;filter:grayscale(1) invert(1) contrast(100);"></span></code></td><td><small style="color:#888"></small></td></tr></tbody></table>
 
 # Sample pattern
 

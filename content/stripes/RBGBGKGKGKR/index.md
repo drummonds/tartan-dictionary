@@ -24,11 +24,9 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davidson](/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/)|
+| [Davidson](/tartans/r1k6g1k1g8k1g8db1g1db6r1/)|
 |![Davidson example sett](/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/sett.png)|
 | [Davidson](/setts/s11/r1k6dg1k1dg8k1dg8db1dg1db6r1~x2/)|
 |![Davidson example sett](/setts/s11/r1k6dg1k1dg8k1dg8db1dg1db6r1~x2/sett.png)|
 | [Davidson](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/)|
 |![Davidson example sett](/setts/s11/r1k6g1k1g6k1g6db1g1db6r1~x4/sett.png)|
-| [Davidson - 1842 (Clan)](/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/)|
-|![Davidson - 1842 (Clan) example sett](/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/sett.png)|

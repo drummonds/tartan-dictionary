@@ -2,7 +2,7 @@
 title: "Pilgrims (Bedford)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga3y6g4ga2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g3ly6dg4g2/)
 (the same proportion at any scale), whose colour order is pattern [GGYG](/stripes/ggyg/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -35,13 +35,7 @@ Ga/6 Y12 G8 Ga/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| G | <code style="background-color:#003800;"><span style="color:#003800;filter:grayscale(1) invert(1) contrast(100);">#003800</span></code> `oklch(29.5% 0.100 142.5)` <small>#003800</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| Ga | <code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> `oklch(49.6% 0.169 142.5)` <small>#007800</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| Y | <code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> `oklch(86.2% 0.176 91.5)` <small>#FCCC00</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(2 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Ga/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> <small style="color:#888">#007800</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(49.6% 0.169 142.5)</small></td></tr><tr><td>Y</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#FCCC00;"><span style="color:#FCCC00;filter:grayscale(1) invert(1) contrast(100);">#FCCC00</span></code> <small style="color:#888">#FCCC00</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(86.2% 0.176 91.5)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#003800;"><span style="color:#003800;filter:grayscale(1) invert(1) contrast(100);">#003800</span></code> <small style="color:#888">#003800</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(29.5% 0.100 142.5)</small></td></tr><tr><td>Ga/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#007800;"><span style="color:#007800;filter:grayscale(1) invert(1) contrast(100);">#007800</span></code> <small style="color:#888">#007800</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(49.6% 0.169 142.5)</small></td></tr></tbody></table>
 
 # Sample pattern
 

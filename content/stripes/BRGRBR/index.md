@@ -24,14 +24,12 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caledonian](/setts/s6/r60p20r8g45r8p2~x2/)|
-|![Caledonian example sett](/setts/s6/r60p20r8g45r8p2~x2/sett.png)|
 | [Caledonian](/setts/s6/r60dp20r8dg45r8dp2~x2/)|
 |![Caledonian example sett](/setts/s6/r60dp20r8dg45r8dp2~x2/sett.png)|
-| [Caledonian - 1819 (Fashion?)](/setts/s6/r60dp20r8g45r8dp2/)|
+| [Caledonian](/setts/s6/r60p20r8g45r8p2~x2/)|
+|![Caledonian example sett](/setts/s6/r60p20r8g45r8p2~x2/sett.png)|
+| [Caledonian - 1819 (Fashion?)](/tartans/r60dp20r8g45r8dp2/)|
 |![Caledonian - 1819 (Fashion?) example sett](/setts/s6/r60dp20r8g45r8dp2/sett.png)|
-| [Caledonian District Tartan Tartan Number: 526. Earliest known date: 1819 In view of its widespread use as a foundation for other tartans it is perhaps not surprising that Wilson's named the Mackintosh tartan 'Caledonian'. They also called it 'Lovat or Fraser'. For this reason the tartan is not suitable for persons seeking a Caledonian tartan unless they are also Frasers of Lovat or Mackintoshes. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s6/r60dp20r8g45r8dp2~x2/)|
-|![Caledonian District Tartan Tartan Number: 526. Earliest known date: 1819 In view of its widespread use as a foundation for other tartans it is perhaps not surprising that Wilson's named the Mackintosh tartan 'Caledonian'. They also called it 'Lovat or Fraser'. For this reason the tartan is not suitable for persons seeking a Caledonian tartan unless they are also Frasers of Lovat or Mackintoshes. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s6/r60dp20r8g45r8dp2~x2/sett.png)|
 | [Edinchat](/setts/s6/db2o28g13o2db13o2~x4/)|
 |![Edinchat example sett](/setts/s6/db2o28g13o2db13o2~x4/sett.png)|
 | [Grant of Lurg](/setts/s6/db2r25g10r2db10r2~x2/)|
@@ -40,12 +38,10 @@ It is a 6 stripe tartan.
 |![Lovat or Fraser #2 example sett](/setts/s6/r80dp19r8dg36r10dp2~x2/sett.png)|
 | [Lovat, or Fraser](/setts/s6/r80p19r8g36r10p2~x2/)|
 |![Lovat, or Fraser example sett](/setts/s6/r80p19r8g36r10p2~x2/sett.png)|
+| [MacKintosh](/tartans/r24db6r3dg12r4db1/)|
+|![MacKintosh example sett](/setts/s6/r24db6r3dg12r4db1/sett.png)|
 | [MacKintosh](/setts/s6/r70db20r10g40r10db3/)|
 |![MacKintosh example sett](/setts/s6/r70db20r10g40r10db3/sett.png)|
-| [MacKintosh](/setts/s6/r24db6r3dg12r4db1~x2/)|
-|![MacKintosh example sett](/setts/s6/r24db6r3dg12r4db1~x2/sett.png)|
-| [MacKintosh](/setts/s6/r24db6r3dg12r4db1/)|
-|![MacKintosh example sett](/setts/s6/r24db6r3dg12r4db1/sett.png)|
 | [MacKintosh #2](/setts/s6/r68db18r9dg34r9db3~x2/)|
 |![MacKintosh #2 example sett](/setts/s6/r68db18r9dg34r9db3~x2/sett.png)|
 | [MacKintosh #3](/setts/s6/r48db2r3dg28r4db2~x2/)|
@@ -56,10 +52,8 @@ It is a 6 stripe tartan.
 |![MacKintosh 2 example sett](/setts/s6/r48db2r3g28r4db2~x2/sett.png)|
 | [MacKintosh 3](/setts/s6/r68db18r9g34r9db3~x2/)|
 |![MacKintosh 3 example sett](/setts/s6/r68db18r9g34r9db3~x2/sett.png)|
-| [MacKintosh D](/setts/s6/r22db5r2dg11r3db1/)|
+| [MacKintosh D](/tartans/r22db5r2dg11r3db1/)|
 |![MacKintosh D example sett](/setts/s6/r22db5r2dg11r3db1/sett.png)|
-| [MacKintosh D](/setts/s6/r22db5r2dg11r3db1~x2/)|
-|![MacKintosh D example sett](/setts/s6/r22db5r2dg11r3db1~x2/sett.png)|
 | [MacKintosh Plaid](/setts/s6/r16db6r2dg6r2db1~x2/)|
 |![MacKintosh Plaid example sett](/setts/s6/r16db6r2dg6r2db1~x2/sett.png)|
 | [MacKintosh, Plaid](/setts/s6/r16db6r2g6r2db1~x2/)|

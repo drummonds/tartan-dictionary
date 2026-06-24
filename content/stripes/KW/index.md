@@ -28,13 +28,7 @@ An ornamental twill check of natural light and dark wool, found at Falkirk in th
 
 | Tartans |
 |---------------|
-| [Falkirk Tartan](/setts/s2/k1w1~x24/)|
-|![Falkirk Tartan example sett](/setts/s2/k1w1~x24/sett.png)|
 | [Joy's Fancy, Allen (Personal)](/setts/s2/k15lb1~x12/)|
 |![Joy's Fancy, Allen (Personal) example sett](/setts/s2/k15lb1~x12/sett.png)|
-| [Shepherd](/setts/s2/k1w1~x15/)|
-|![Shepherd example sett](/setts/s2/k1w1~x15/sett.png)|
-| [Shepherd Check](/setts/s2/k1w1~x28/)|
-|![Shepherd Check example sett](/setts/s2/k1w1~x28/sett.png)|
-| [Shepherd Check (Universal)](/setts/s2/k1w1~x6/)|
-|![Shepherd Check (Universal) example sett](/setts/s2/k1w1~x6/sett.png)|
+| [Shepherd](/tartans/k1w1/)|
+|![Shepherd example sett](/setts/s2/k1w1~x6/sett.png)|

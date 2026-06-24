@@ -2,7 +2,7 @@
 title: "Debbie Munro Memorial (Corporate)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b26lp11b3lp4k2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db26lp11db3lp4k2/)
 (the same proportion at any scale), whose colour order is pattern [BWBWK](/stripes/bwbwk/).
 
 Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -29,13 +29,7 @@ B/104 LP44 B12 LP16 K/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#003C9C;"><span style="color:#003C9C;filter:grayscale(1) invert(1) contrast(100);">#003C9C</span></code> `oklch(39.2% 0.166 260.7)` <small>#003C9C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| LP | <code style="background-color:#FC9CD4;"><span style="color:#FC9CD4;filter:grayscale(1) invert(1) contrast(100);">#FC9CD4</span></code> `oklch(80.7% 0.133 344.6)` <small>#FC9CD4</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">104</td><td><code style="background-color:#003C9C;"><span style="color:#003C9C;filter:grayscale(1) invert(1) contrast(100);">#003C9C</span></code> <small style="color:#888">#003C9C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.2% 0.166 260.7)</small></td></tr><tr><td>LP</td><td style="text-align:right;font-variant-numeric:tabular-nums">44</td><td><code style="background-color:#FC9CD4;"><span style="color:#FC9CD4;filter:grayscale(1) invert(1) contrast(100);">#FC9CD4</span></code> <small style="color:#888">#FC9CD4</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.7% 0.133 344.6)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">12</td><td><code style="background-color:#003C9C;"><span style="color:#003C9C;filter:grayscale(1) invert(1) contrast(100);">#003C9C</span></code> <small style="color:#888">#003C9C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.2% 0.166 260.7)</small></td></tr><tr><td>LP</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#FC9CD4;"><span style="color:#FC9CD4;filter:grayscale(1) invert(1) contrast(100);">#FC9CD4</span></code> <small style="color:#888">#FC9CD4</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(80.7% 0.133 344.6)</small></td></tr><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

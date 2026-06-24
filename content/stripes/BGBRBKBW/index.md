@@ -24,7 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotch Whisky Heritage Centre](/setts/s8/db73g16db10r8db10k4db10w2~x2/)|
-|![Scotch Whisky Heritage Centre example sett](/setts/s8/db73g16db10r8db10k4db10w2~x2/sett.png)|
-| [Scotch Whisky, Heritage](/setts/s8/db73g16db10r8db10k4db10w2/)|
+| [Scotch Whisky, Heritage](/tartans/db73g16db10r8db10k4db10w2/)|
 |![Scotch Whisky, Heritage example sett](/setts/s8/db73g16db10r8db10k4db10w2/sett.png)|

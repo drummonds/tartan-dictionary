@@ -24,7 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nairn](/setts/s5/r1k8g2db4r1~x8/)|
-|![Nairn example sett](/setts/s5/r1k8g2db4r1~x8/sett.png)|
-| [Nairn](/setts/s5/r1k8g2db4r1~x4/)|
+| [Nairn](/tartans/r1k8g2db4r1/)|
 |![Nairn example sett](/setts/s5/r1k8g2db4r1~x4/sett.png)|

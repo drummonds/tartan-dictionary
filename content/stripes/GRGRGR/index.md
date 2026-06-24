@@ -36,12 +36,10 @@ It is a 6 stripe tartan.
 |![Harmony, 11 example sett](/setts/s6/o6g2o29g29o2g6~x2/sett.png)|
 | [Harmony, 12](/setts/s6/o6y2o29y29o2y6~x2/)|
 |![Harmony, 12 example sett](/setts/s6/o6y2o29y29o2y6~x2/sett.png)|
-| [MacQuarrie](/setts/s6/r16dg1r1dg1r4dg12/)|
+| [MacQuarrie](/tartans/r16dg1r1dg1r4dg12/)|
 |![MacQuarrie example sett](/setts/s6/r16dg1r1dg1r4dg12/sett.png)|
 | [MacQuarrie #5](/setts/s6/r16g1r1g1r4g12~x4/)|
 |![MacQuarrie #5 example sett](/setts/s6/r16g1r1g1r4g12~x4/sett.png)|
-| [MacQuarrie 7](/setts/s6/r16dg1r1dg1r4dg12~x2/)|
-|![MacQuarrie 7 example sett](/setts/s6/r16dg1r1dg1r4dg12~x2/sett.png)|
 | [Unidentified NW Highlands](/setts/s6/dg2r2dg15r16dg2r2~x2/)|
 |![Unidentified NW Highlands example sett](/setts/s6/dg2r2dg15r16dg2r2~x2/sett.png)|
 | [Unidentified, NW Highlands](/setts/s6/r2g2r16g15r2g2~x2/)|

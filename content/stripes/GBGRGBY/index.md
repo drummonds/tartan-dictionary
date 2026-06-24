@@ -24,7 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/)|
-|![MacKinnon Hunting example sett](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x4/sett.png)|
-| [MacKinnon Hunting](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/)|
+| [MacKinnon Hunting](/tartans/dg1dr8dg8r1dg8dr8lr1/)|
 |![MacKinnon Hunting example sett](/setts/s7/dg1dr8dg8r1dg8dr8lr1~x2/sett.png)|

@@ -2,7 +2,7 @@
 title: "Glenmorangie, Check"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1t2ta1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/r1o2o1/)
 (the same proportion at any scale), whose colour order is pattern [RRR](/stripes/rrr/).
 
 Sourced from weddslist.  It is a [3 stripe tartan](/stripes/stripes3/).
@@ -14,13 +14,7 @@ R/10 T20 Ta/10
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| R | <code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> `oklch(50.7% 0.208 29.2)` <small>#C00000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| T | <code style="background-color:#703000;"><span style="color:#703000;filter:grayscale(1) invert(1) contrast(100);">#703000</span></code> `oklch(39.1% 0.105 49.1)` <small>#703000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| Ta | <code style="background-color:#703000;"><span style="color:#703000;filter:grayscale(1) invert(1) contrast(100);">#703000</span></code> `oklch(39.1% 0.105 49.1)` <small>#703000</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>R/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#C00000;"><span style="color:#C00000;filter:grayscale(1) invert(1) contrast(100);">#C00000</span></code> <small style="color:#888">#C00000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(50.7% 0.208 29.2)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">20</td><td><code style="background-color:#703000;"><span style="color:#703000;filter:grayscale(1) invert(1) contrast(100);">#703000</span></code> <small style="color:#888">#703000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.1% 0.105 49.1)</small></td></tr><tr><td>Ta/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#703000;"><span style="color:#703000;filter:grayscale(1) invert(1) contrast(100);">#703000</span></code> <small style="color:#888">#703000</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(39.1% 0.105 49.1)</small></td></tr></tbody></table>
 
 # Sample pattern
 

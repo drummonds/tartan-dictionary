@@ -2,7 +2,7 @@
 title: "Phoenix Police Honor Guard"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ba10k3b65dg56y6/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db10k3t65dg56ly6/)
 (the same proportion at any scale), whose colour order is pattern [BKBGY](/stripes/bkbgy/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -20,15 +20,7 @@ Ba/10 K3 B65 DG56 Y/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#2787C3;"><span style="color:#2787C3;filter:grayscale(1) invert(1) contrast(100);">#2787C3</span></code> `oklch(59.7% 0.125 241.6)` <small>#2787C3</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| Ba | <code style="background-color:#0A419E;"><span style="color:#0A419E;filter:grayscale(1) invert(1) contrast(100);">#0A419E</span></code> `oklch(40.6% 0.161 260.9)` <small>#0A419E</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DG | <code style="background-color:#00470D;"><span style="color:#00470D;filter:grayscale(1) invert(1) contrast(100);">#00470D</span></code> `oklch(34.6% 0.109 144.9)` <small>#00470D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| Y | <code style="background-color:#F7C413;"><span style="color:#F7C413;filter:grayscale(1) invert(1) contrast(100);">#F7C413</span></code> `oklch(84.2% 0.169 89.3)` <small>#F7C413</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(1 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Ba/</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#0A419E;"><span style="color:#0A419E;filter:grayscale(1) invert(1) contrast(100);">#0A419E</span></code> <small style="color:#888">#0A419E</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(40.6% 0.161 260.9)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">65</td><td><code style="background-color:#2787C3;"><span style="color:#2787C3;filter:grayscale(1) invert(1) contrast(100);">#2787C3</span></code> <small style="color:#888">#2787C3</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(59.7% 0.125 241.6)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#00470D;"><span style="color:#00470D;filter:grayscale(1) invert(1) contrast(100);">#00470D</span></code> <small style="color:#888">#00470D</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(34.6% 0.109 144.9)</small></td></tr><tr><td>Y/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#F7C413;"><span style="color:#F7C413;filter:grayscale(1) invert(1) contrast(100);">#F7C413</span></code> <small style="color:#888">#F7C413</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(84.2% 0.169 89.3)</small></td></tr></tbody></table>
 
 # Sample pattern
 

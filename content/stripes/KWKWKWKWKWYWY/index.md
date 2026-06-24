@@ -24,7 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thain Dress #1](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x4/)|
-|![Thain Dress #1 example sett](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x4/sett.png)|
-| [Thain, dress](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x2/)|
+| [Thain, dress](/tartans/ly22w1ly2w2k2w1k14w1k2w2k2w1k14/)|
 |![Thain, dress example sett](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x2/sett.png)|

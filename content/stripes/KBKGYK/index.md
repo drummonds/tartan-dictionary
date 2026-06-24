@@ -24,7 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Melville](/setts/s6/k5lr2dg18k17n16k3~x2/)|
-|![Melville example sett](/setts/s6/k5lr2dg18k17n16k3~x2/sett.png)|
-| [Melville](/setts/s6/k5lr2dg18k17n16k3/)|
+| [Melville](/tartans/k5lr2dg18k17n16k3/)|
 |![Melville example sett](/setts/s6/k5lr2dg18k17n16k3/sett.png)|

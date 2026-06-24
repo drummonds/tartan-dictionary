@@ -28,9 +28,7 @@ It is a 15 stripe tartan.
 |![Glen Orchy example sett](/setts/s15/t2r3db3r5g14r3db2r5g2r3db14r5g3r3t2~x2/sett.png)|
 | [Glen Orchy #1](/setts/s15/t2r3dg3r5db14r3dg2r5db2r3dg14r5db3r3t2~x2/)|
 |![Glen Orchy #1 example sett](/setts/s15/t2r3dg3r5db14r3dg2r5db2r3dg14r5db3r3t2~x2/sett.png)|
-| [MacIntyre](/setts/s15/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1~x2/)|
-|![MacIntyre example sett](/setts/s15/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1~x2/sett.png)|
-| [MacIntyre](/setts/s15/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1/)|
+| [MacIntyre](/tartans/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1/)|
 |![MacIntyre example sett](/setts/s15/b1r2dg2r4db16r2dg1r4db1r2dg16r4db2r2b1/sett.png)|
 | [MacIntyre (of Gatehouse)](/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/)|
 |![MacIntyre (of Gatehouse) example sett](/setts/s15/t3r24db4r8g32r4db4r8g4r4db32r8g4r4t2~x2/sett.png)|

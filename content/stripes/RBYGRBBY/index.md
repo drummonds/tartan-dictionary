@@ -24,7 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3b4lr1~x2/)|
-|![Prince Charles Cloak example sett](/setts/s8/r48db3ly1dg14r8db3b4lr1~x2/sett.png)|
-| [Prince Charles Cloak](/setts/s8/r48db3ly1dg14r8db3b4lr1/)|
+| [Prince Charles Cloak](/tartans/r48db3ly1dg14r8db3b4lr1/)|
 |![Prince Charles Cloak example sett](/setts/s8/r48db3ly1dg14r8db3b4lr1/sett.png)|

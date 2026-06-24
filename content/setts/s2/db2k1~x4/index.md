@@ -2,7 +2,7 @@
 title: "Tartan Army"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/b2db1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/db2k1/)
 (the same proportion at any scale), whose colour order is pattern [BK](/stripes/bk/).
 
 Sourced from weddslist.  It is a [2 stripe tartan](/stripes/stripes2/).
@@ -14,12 +14,7 @@ B/8 DB/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> `oklch(39.4% 0.109 270.2)` <small>#304080</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DB | <code style="background-color:#000030;"><span style="color:#000030;filter:grayscale(1) invert(1) contrast(100);">#000030</span></code> `oklch(14.0% 0.097 264.1)` <small>#000030</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>B/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#304080;"><span style="color:#304080;filter:grayscale(1) invert(1) contrast(100);">#304080</span></code> <small style="color:#888">#304080</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(39.4% 0.109 270.2)</small></td></tr><tr><td>DB/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#000030;"><span style="color:#000030;filter:grayscale(1) invert(1) contrast(100);">#000030</span></code> <small style="color:#888">#000030</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(14.0% 0.097 264.1)</small></td></tr></tbody></table>
 
 # Sample pattern
 

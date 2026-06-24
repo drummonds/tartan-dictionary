@@ -24,7 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIntyre LC](/setts/s6/dg4db12r3db12dg32lr4~x2/)|
-|![MacIntyre LC example sett](/setts/s6/dg4db12r3db12dg32lr4~x2/sett.png)|
-| [MacIntyre LC](/setts/s6/dg4db12r3db12dg32lr4/)|
+| [MacIntyre LC](/tartans/dg4db12r3db12dg32lr4/)|
 |![MacIntyre LC example sett](/setts/s6/dg4db12r3db12dg32lr4/sett.png)|

@@ -2,7 +2,7 @@
 title: "Une Energie Nouvelle (Corporate) XXX"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lr1lg1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y1m1/)
 (the same proportion at any scale), whose colour order is pattern [GR](/stripes/gr/).
 
 Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
@@ -14,12 +14,7 @@ LR/2 LG/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| LG | <code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> `oklch(64.0% 0.040 160.0)` <small>#789484</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| LR | <code style="background-color:#EC34C4;"><span style="color:#EC34C4;filter:grayscale(1) invert(1) contrast(100);">#EC34C4</span></code> `oklch(65.8% 0.255 338.8)` <small>#EC34C4</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 2 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#EC34C4;"><span style="color:#EC34C4;filter:grayscale(1) invert(1) contrast(100);">#EC34C4</span></code> <small style="color:#888">#EC34C4</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(65.8% 0.255 338.8)</small></td></tr><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#789484;"><span style="color:#789484;filter:grayscale(1) invert(1) contrast(100);">#789484</span></code> <small style="color:#888">#789484</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(64.0% 0.040 160.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

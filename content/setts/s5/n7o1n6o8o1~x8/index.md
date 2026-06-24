@@ -2,7 +2,7 @@
 title: "Callum (Buchan)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/na7dr1n6dr8lt1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/n7o1n6o8o1/)
 (the same proportion at any scale), whose colour order is pattern [BRBRR](/stripes/brbrr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -20,14 +20,7 @@ Na/56 DR8 N48 DR64 LT/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#8C2828;"><span style="color:#8C2828;filter:grayscale(1) invert(1) contrast(100);">#8C2828</span></code> `oklch(43.3% 0.135 24.8)` <small>#8C2828</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| LT | <code style="background-color:#A07D73;"><span style="color:#A07D73;filter:grayscale(1) invert(1) contrast(100);">#A07D73</span></code> `oklch(62.1% 0.046 36.5)` <small>#A07D73</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| N | <code style="background-color:#4B4B58;"><span style="color:#4B4B58;filter:grayscale(1) invert(1) contrast(100);">#4B4B58</span></code> `oklch(41.8% 0.021 285.4)` <small>#4B4B58</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| Na | <code style="background-color:#4B4F4B;"><span style="color:#4B4F4B;filter:grayscale(1) invert(1) contrast(100);">#4B4F4B</span></code> `oklch(42.3% 0.008 145.4)` <small>#4B4F4B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Na/</td><td style="text-align:right;font-variant-numeric:tabular-nums">56</td><td><code style="background-color:#4B4F4B;"><span style="color:#4B4F4B;filter:grayscale(1) invert(1) contrast(100);">#4B4F4B</span></code> <small style="color:#888">#4B4F4B</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(42.3% 0.008 145.4)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#8C2828;"><span style="color:#8C2828;filter:grayscale(1) invert(1) contrast(100);">#8C2828</span></code> <small style="color:#888">#8C2828</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(43.3% 0.135 24.8)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#4B4B58;"><span style="color:#4B4B58;filter:grayscale(1) invert(1) contrast(100);">#4B4B58</span></code> <small style="color:#888">#4B4B58</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(41.8% 0.021 285.4)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#8C2828;"><span style="color:#8C2828;filter:grayscale(1) invert(1) contrast(100);">#8C2828</span></code> <small style="color:#888">#8C2828</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(43.3% 0.135 24.8)</small></td></tr><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#A07D73;"><span style="color:#A07D73;filter:grayscale(1) invert(1) contrast(100);">#A07D73</span></code> <small style="color:#888">#A07D73</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(62.1% 0.046 36.5)</small></td></tr></tbody></table>
 
 # Sample pattern
 

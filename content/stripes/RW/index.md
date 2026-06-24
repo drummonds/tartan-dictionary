@@ -26,7 +26,5 @@ It is a 2 stripe tartan.
 |---------------|
 | [English Kilt (Fashion)](/setts/s2/w10r3~x10/)|
 |![English Kilt (Fashion) example sett](/setts/s2/w10r3~x10/sett.png)|
-| [MacMedic](/setts/s2/r1w1~x40/)|
-|![MacMedic example sett](/setts/s2/r1w1~x40/sett.png)|
-| [Spare](/setts/s2/r1w1~x5/)|
+| [Spare](/tartans/r1w1/)|
 |![Spare example sett](/setts/s2/r1w1~x5/sett.png)|

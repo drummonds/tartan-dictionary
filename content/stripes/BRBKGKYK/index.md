@@ -24,7 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/)|
-|![Davidson Double example sett](/setts/s8/k3lr2k3dg8k8db8r2db3~x2/sett.png)|
-| [Davidson Double](/setts/s8/k3lr2k3dg8k8db8r2db3/)|
+| [Davidson Double](/tartans/k3lr2k3dg8k8db8r2db3/)|
 |![Davidson Double example sett](/setts/s8/k3lr2k3dg8k8db8r2db3/sett.png)|

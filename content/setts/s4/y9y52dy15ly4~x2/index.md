@@ -2,7 +2,7 @@
 title: "McGuigan, Julia (St Monans, Fife) (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/ga9g52t15o4/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y9y52dy15ly4/)
 (the same proportion at any scale), whose colour order is pattern [GGGY](/stripes/gggy/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -34,14 +34,7 @@ Ga/18 G104 T30 O/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| G | <code style="background-color:#5A601E;"><span style="color:#5A601E;filter:grayscale(1) invert(1) contrast(100);">#5A601E</span></code> `oklch(47.0% 0.088 114.2)` <small>#5A601E</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| Ga | <code style="background-color:#70714D;"><span style="color:#70714D;filter:grayscale(1) invert(1) contrast(100);">#70714D</span></code> `oklch(53.8% 0.053 109.4)` <small>#70714D</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| O | <code style="background-color:#BFAB40;"><span style="color:#BFAB40;filter:grayscale(1) invert(1) contrast(100);">#BFAB40</span></code> `oklch(73.9% 0.127 98.6)` <small>#BFAB40</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
-| T | <code style="background-color:#4E3D20;"><span style="color:#4E3D20;filter:grayscale(1) invert(1) contrast(100);">#4E3D20</span></code> `oklch(37.1% 0.050 79.6)` <small>#4E3D20</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>Ga/</td><td style="text-align:right;font-variant-numeric:tabular-nums">18</td><td><code style="background-color:#70714D;"><span style="color:#70714D;filter:grayscale(1) invert(1) contrast(100);">#70714D</span></code> <small style="color:#888">#70714D</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(53.8% 0.053 109.4)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">104</td><td><code style="background-color:#5A601E;"><span style="color:#5A601E;filter:grayscale(1) invert(1) contrast(100);">#5A601E</span></code> <small style="color:#888">#5A601E</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(47.0% 0.088 114.2)</small></td></tr><tr><td>T</td><td style="text-align:right;font-variant-numeric:tabular-nums">30</td><td><code style="background-color:#4E3D20;"><span style="color:#4E3D20;filter:grayscale(1) invert(1) contrast(100);">#4E3D20</span></code> <small style="color:#888">#4E3D20</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(37.1% 0.050 79.6)</small></td></tr><tr><td>O/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#BFAB40;"><span style="color:#BFAB40;filter:grayscale(1) invert(1) contrast(100);">#BFAB40</span></code> <small style="color:#888">#BFAB40</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(73.9% 0.127 98.6)</small></td></tr></tbody></table>
 
 # Sample pattern
 

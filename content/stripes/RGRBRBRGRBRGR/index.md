@@ -32,9 +32,7 @@ It is a 13 stripe tartan.
 |![Robertson Curtain example sett](/setts/s13/r3dg2r19db2r3dg20r3db20r3db2r19dg2r3~x4/sett.png)|
 | [Robertson D](/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/)|
 |![Robertson D example sett](/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/sett.png)|
-| [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5~x2/)|
-|![Robertson D example sett](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5~x2/sett.png)|
-| [Robertson D](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/)|
+| [Robertson D](/tartans/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/)|
 |![Robertson D example sett](/setts/s13/r5dg2r30db3r3dg30r3db30r3db3r30dg2r5/sett.png)|
 | [Robertson, Curtain](/setts/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/)|
 |![Robertson, Curtain example sett](/setts/s13/r3g2r19db2r3db20r3g20r3db2r19g2r3~x4/sett.png)|

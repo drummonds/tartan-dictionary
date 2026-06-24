@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/)|
-|![Loch Etive example sett](/setts/s8/w3g2r21k26db18k2db3ly3~x2/sett.png)|
 | [Loch Etive](/setts/s8/ly3db3k2db18k26r21g2lb3~x2/)|
 |![Loch Etive example sett](/setts/s8/ly3db3k2db18k26r21g2lb3~x2/sett.png)|
+| [Loch Etive](/setts/s8/w3g2r21k26db18k2db3ly3~x2/)|
+|![Loch Etive example sett](/setts/s8/w3g2r21k26db18k2db3ly3~x2/sett.png)|

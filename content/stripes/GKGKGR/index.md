@@ -28,7 +28,5 @@ It is a 6 stripe tartan.
 |![Gunn example sett](/setts/s6/r2g12k12g1k12g2~x2/sett.png)|
 | [Gunn (Logan)](/setts/s6/dg2k12dg1k12dg12r2~x2/)|
 |![Gunn (Logan) example sett](/setts/s6/dg2k12dg1k12dg12r2~x2/sett.png)|
-| [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x2/)|
+| [Gunn VS](/tartans/dg1k8dg1k8dg15r1/)|
 |![Gunn VS example sett](/setts/s6/dg1k8dg1k8dg15r1~x2/sett.png)|
-| [Gunn VS](/setts/s6/dg1k8dg1k8dg15r1~x4/)|
-|![Gunn VS example sett](/setts/s6/dg1k8dg1k8dg15r1~x4/sett.png)|

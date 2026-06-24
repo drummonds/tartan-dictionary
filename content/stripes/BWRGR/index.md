@@ -24,7 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x2/)|
+| [Staves (Personal)](/tartans/r10dg4r1w1t1/)|
 |![Staves (Personal) example sett](/setts/s5/r10dg4r1w1t1~x2/sett.png)|
-| [Staves (Personal)](/setts/s5/r10dg4r1w1t1~x6/)|
-|![Staves (Personal) example sett](/setts/s5/r10dg4r1w1t1~x6/sett.png)|

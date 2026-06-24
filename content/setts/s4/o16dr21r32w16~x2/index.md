@@ -2,7 +2,7 @@
 title: "Bloomer-Alexander (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t16dr21dra32w16/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o16dr21r32w16/)
 (the same proportion at any scale), whose colour order is pattern [RBRW](/stripes/rbrw/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,14 +20,7 @@ T/32 DR42 DRa64 W/32
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#5D1B36;"><span style="color:#5D1B36;filter:grayscale(1) invert(1) contrast(100);">#5D1B36</span></code> `oklch(33.6% 0.100 358.8)` <small>#5D1B36</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DRa | <code style="background-color:#8E1818;"><span style="color:#8E1818;filter:grayscale(1) invert(1) contrast(100);">#8E1818</span></code> `oklch(42.0% 0.153 26.9)` <small>#8E1818</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| T | <code style="background-color:#6C2012;"><span style="color:#6C2012;filter:grayscale(1) invert(1) contrast(100);">#6C2012</span></code> `oklch(36.2% 0.111 32.6)` <small>#6C2012</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `oklch(100.0% 0.000 89.9)` <small>#FFFFFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 4 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#6C2012;"><span style="color:#6C2012;filter:grayscale(1) invert(1) contrast(100);">#6C2012</span></code> <small style="color:#888">#6C2012</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(36.2% 0.111 32.6)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">42</td><td><code style="background-color:#5D1B36;"><span style="color:#5D1B36;filter:grayscale(1) invert(1) contrast(100);">#5D1B36</span></code> <small style="color:#888">#5D1B36</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(33.6% 0.100 358.8)</small></td></tr><tr><td>DRa</td><td style="text-align:right;font-variant-numeric:tabular-nums">64</td><td><code style="background-color:#8E1818;"><span style="color:#8E1818;filter:grayscale(1) invert(1) contrast(100);">#8E1818</span></code> <small style="color:#888">#8E1818</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(42.0% 0.153 26.9)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">32</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

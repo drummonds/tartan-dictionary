@@ -26,11 +26,5 @@ It is a 4 stripe tartan.
 |---------------|
 | [Masai Shuka 26 (Artefact)](/setts/s4/ly3k2r10k1~x4/)|
 |![Masai Shuka 26 (Artefact) example sett](/setts/s4/ly3k2r10k1~x4/sett.png)|
-| [Wallace](/setts/s4/k1r8k8ly1~x6/)|
-|![Wallace example sett](/setts/s4/k1r8k8ly1~x6/sett.png)|
-| [Wallace](/setts/s4/k1r8k8ly1/)|
+| [Wallace](/tartans/k1r8k8ly1/)|
 |![Wallace example sett](/setts/s4/k1r8k8ly1/sett.png)|
-| [Wallace](/setts/s4/k1r8k8ly1~x2/)|
-|![Wallace example sett](/setts/s4/k1r8k8ly1~x2/sett.png)|
-| [Wallace (Clan)](/setts/s4/k1r8k8ly1~x4/)|
-|![Wallace (Clan) example sett](/setts/s4/k1r8k8ly1~x4/sett.png)|

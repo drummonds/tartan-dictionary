@@ -2,7 +2,7 @@
 title: "Stirling of Keir (Clan)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1dr10dra10g1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g1dr10r10g1/)
 (the same proportion at any scale), whose colour order is pattern [GBRG](/stripes/gbrg/).
 
 Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -14,13 +14,7 @@ G/6 DR60 DRa60 G/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DR | <code style="background-color:#5C0014;"><span style="color:#5C0014;filter:grayscale(1) invert(1) contrast(100);">#5C0014</span></code> `oklch(30.1% 0.121 18.8)` <small>#5C0014</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DRa | <code style="background-color:#8C0020;"><span style="color:#8C0020;filter:grayscale(1) invert(1) contrast(100);">#8C0020</span></code> `oklch(40.5% 0.163 20.3)` <small>#8C0020</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| G | <code style="background-color:#006840;"><span style="color:#006840;filter:grayscale(1) invert(1) contrast(100);">#006840</span></code> `oklch(45.6% 0.106 158.5)` <small>#006840</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#006840;"><span style="color:#006840;filter:grayscale(1) invert(1) contrast(100);">#006840</span></code> <small style="color:#888">#006840</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.6% 0.106 158.5)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#5C0014;"><span style="color:#5C0014;filter:grayscale(1) invert(1) contrast(100);">#5C0014</span></code> <small style="color:#888">#5C0014</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(30.1% 0.121 18.8)</small></td></tr><tr><td>DRa</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#8C0020;"><span style="color:#8C0020;filter:grayscale(1) invert(1) contrast(100);">#8C0020</span></code> <small style="color:#888">#8C0020</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(40.5% 0.163 20.3)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#006840;"><span style="color:#006840;filter:grayscale(1) invert(1) contrast(100);">#006840</span></code> <small style="color:#888">#006840</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(45.6% 0.106 158.5)</small></td></tr></tbody></table>
 
 # Sample pattern
 

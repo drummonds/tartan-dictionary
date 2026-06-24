@@ -2,7 +2,7 @@
 title: "Wedding"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/t2w1db30dr1lt2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/o2dr1dp30w1o2/)
 (the same proportion at any scale), whose colour order is pattern [RBBWR](/stripes/rbbwr/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -20,15 +20,7 @@ T/4 W2 DB60 DR2 LT/4
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DB | <code style="background-color:#2A074B;"><span style="color:#2A074B;filter:grayscale(1) invert(1) contrast(100);">#2A074B</span></code> `oklch(24.0% 0.114 301.1)` <small>#2A074B</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| DR | <code style="background-color:#530014;"><span style="color:#530014;filter:grayscale(1) invert(1) contrast(100);">#530014</span></code> `oklch(28.1% 0.112 16.7)` <small>#530014</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LT | <code style="background-color:#AE566C;"><span style="color:#AE566C;filter:grayscale(1) invert(1) contrast(100);">#AE566C</span></code> `oklch(56.6% 0.117 5.7)` <small>#AE566C</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| T | <code style="background-color:#A46216;"><span style="color:#A46216;filter:grayscale(1) invert(1) contrast(100);">#A46216</span></code> `oklch(55.8% 0.119 63.0)` <small>#A46216</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| W | <code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> `oklch(100.0% 0.000 89.9)` <small>#FFFFFF</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>Tartan Register</strong> <small style="color:#888">(1 of 5 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>T/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#A46216;"><span style="color:#A46216;filter:grayscale(1) invert(1) contrast(100);">#A46216</span></code> <small style="color:#888">#A46216</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(55.8% 0.119 63.0)</small></td></tr><tr><td>W</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#FFFFFF;"><span style="color:#FFFFFF;filter:grayscale(1) invert(1) contrast(100);">#FFFFFF</span></code> <small style="color:#888">#FFFFFF</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(100.0% 0.000 89.9)</small></td></tr><tr><td>DB</td><td style="text-align:right;font-variant-numeric:tabular-nums">60</td><td><code style="background-color:#2A074B;"><span style="color:#2A074B;filter:grayscale(1) invert(1) contrast(100);">#2A074B</span></code> <small style="color:#888">#2A074B</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(24.0% 0.114 301.1)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#530014;"><span style="color:#530014;filter:grayscale(1) invert(1) contrast(100);">#530014</span></code> <small style="color:#888">#530014</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(28.1% 0.112 16.7)</small></td></tr><tr><td>LT/</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#AE566C;"><span style="color:#AE566C;filter:grayscale(1) invert(1) contrast(100);">#AE566C</span></code> <small style="color:#888">#AE566C</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(56.6% 0.117 5.7)</small></td></tr></tbody></table>
 
 # Sample pattern
 

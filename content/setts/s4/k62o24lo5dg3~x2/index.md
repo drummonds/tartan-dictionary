@@ -2,7 +2,7 @@
 title: "Meaux, Luc G (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn62dr24o5g3/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/k62o24lo5dg3/)
 (the same proportion at any scale), whose colour order is pattern [GYRK](/stripes/gyrk/).
 
 Sourced from register-of-tartans.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -20,14 +20,7 @@ DN/124 DR48 O10 G/6
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DN | <code style="background-color:#05132F;"><span style="color:#05132F;filter:grayscale(1) invert(1) contrast(100);">#05132F</span></code> `oklch(19.4% 0.060 261.5)` <small>#05132F</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| DR | <code style="background-color:#780713;"><span style="color:#780713;filter:grayscale(1) invert(1) contrast(100);">#780713</span></code> `oklch(36.5% 0.142 24.5)` <small>#780713</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
-| G | <code style="background-color:#084106;"><span style="color:#084106;filter:grayscale(1) invert(1) contrast(100);">#084106</span></code> `oklch(32.8% 0.104 142.4)` <small>#084106</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| O | <code style="background-color:#EF8F06;"><span style="color:#EF8F06;filter:grayscale(1) invert(1) contrast(100);">#EF8F06</span></code> `oklch(73.5% 0.165 64.2)` <small>#EF8F06</small> | Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">124</td><td><code style="background-color:#05132F;"><span style="color:#05132F;filter:grayscale(1) invert(1) contrast(100);">#05132F</span></code> <small style="color:#888">#05132F</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(19.4% 0.060 261.5)</small></td></tr><tr><td>DR</td><td style="text-align:right;font-variant-numeric:tabular-nums">48</td><td><code style="background-color:#780713;"><span style="color:#780713;filter:grayscale(1) invert(1) contrast(100);">#780713</span></code> <small style="color:#888">#780713</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(36.5% 0.142 24.5)</small></td></tr><tr><td>O</td><td style="text-align:right;font-variant-numeric:tabular-nums">10</td><td><code style="background-color:#EF8F06;"><span style="color:#EF8F06;filter:grayscale(1) invert(1) contrast(100);">#EF8F06</span></code> <small style="color:#888">#EF8F06</small></td><td>Y <code style="background-color:#F2BF00;"><span style="color:#F2BF00;filter:grayscale(1) invert(1) contrast(100);">#F2BF00</span></code></td><td><small style="color:#888">oklch(73.5% 0.165 64.2)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">6</td><td><code style="background-color:#084106;"><span style="color:#084106;filter:grayscale(1) invert(1) contrast(100);">#084106</span></code> <small style="color:#888">#084106</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(32.8% 0.104 142.4)</small></td></tr></tbody></table>
 
 # Sample pattern
 

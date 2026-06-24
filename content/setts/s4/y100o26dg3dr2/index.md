@@ -2,7 +2,7 @@
 title: "13, Irish Regiment"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/lg100lt26dg3dr2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/y100o26dg3dr2/)
 (the same proportion at any scale), whose colour order is pattern [BGRG](/stripes/bgrg/).
 
 Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
@@ -14,14 +14,7 @@ LG/100 LT26 DG3 DR/2
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DG | <code style="background-color:#003000;"><span style="color:#003000;filter:grayscale(1) invert(1) contrast(100);">#003000</span></code> `oklch(26.8% 0.091 142.5)` <small>#003000</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| DR | <code style="background-color:#600030;"><span style="color:#600030;filter:grayscale(1) invert(1) contrast(100);">#600030</span></code> `oklch(31.7% 0.129 359.5)` <small>#600030</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LG | <code style="background-color:#908000;"><span style="color:#908000;filter:grayscale(1) invert(1) contrast(100);">#908000</span></code> `oklch(59.6% 0.124 100.6)` <small>#908000</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| LT | <code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> `oklch(51.7% 0.049 47.8)` <small>#806050</small> | R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>LG/</td><td style="text-align:right;font-variant-numeric:tabular-nums">100</td><td><code style="background-color:#908000;"><span style="color:#908000;filter:grayscale(1) invert(1) contrast(100);">#908000</span></code> <small style="color:#888">#908000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(59.6% 0.124 100.6)</small></td></tr><tr><td>LT</td><td style="text-align:right;font-variant-numeric:tabular-nums">26</td><td><code style="background-color:#806050;"><span style="color:#806050;filter:grayscale(1) invert(1) contrast(100);">#806050</span></code> <small style="color:#888">#806050</small></td><td>R <code style="background-color:#CC0000;"><span style="color:#CC0000;filter:grayscale(1) invert(1) contrast(100);">#CC0000</span></code></td><td><small style="color:#888">oklch(51.7% 0.049 47.8)</small></td></tr><tr><td>DG</td><td style="text-align:right;font-variant-numeric:tabular-nums">3</td><td><code style="background-color:#003000;"><span style="color:#003000;filter:grayscale(1) invert(1) contrast(100);">#003000</span></code> <small style="color:#888">#003000</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(26.8% 0.091 142.5)</small></td></tr><tr><td>DR/</td><td style="text-align:right;font-variant-numeric:tabular-nums">2</td><td><code style="background-color:#600030;"><span style="color:#600030;filter:grayscale(1) invert(1) contrast(100);">#600030</span></code> <small style="color:#888">#600030</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(31.7% 0.129 359.5)</small></td></tr></tbody></table>
 
 # Sample pattern
 

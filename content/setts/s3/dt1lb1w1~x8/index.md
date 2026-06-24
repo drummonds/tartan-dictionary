@@ -2,7 +2,7 @@
 title: "Glen Moriston Estate Check"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dn1n1ln1/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/dt1lb1w1/)
 (the same proportion at any scale), whose colour order is pattern [BWW](/stripes/bww/).
 
 Sourced from register-of-tartans.  It is a [3 stripe tartan](/stripes/stripes3/).
@@ -35,13 +35,7 @@ DN/8 N8 LN/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| DN | <code style="background-color:#00243C;"><span style="color:#00243C;filter:grayscale(1) invert(1) contrast(100);">#00243C</span></code> `oklch(25.0% 0.060 243.0)` <small>#00243C</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| LN | <code style="background-color:#D4DCE0;"><span style="color:#D4DCE0;filter:grayscale(1) invert(1) contrast(100);">#D4DCE0</span></code> `oklch(89.0% 0.010 228.9)` <small>#D4DCE0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
-| N | <code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> `oklch(85.8% 0.000 89.9)` <small>#D0D0D0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>DN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#00243C;"><span style="color:#00243C;filter:grayscale(1) invert(1) contrast(100);">#00243C</span></code> <small style="color:#888">#00243C</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(25.0% 0.060 243.0)</small></td></tr><tr><td>N</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#D0D0D0;"><span style="color:#D0D0D0;filter:grayscale(1) invert(1) contrast(100);">#D0D0D0</span></code> <small style="color:#888">#D0D0D0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(85.8% 0.000 89.9)</small></td></tr><tr><td>LN/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#D4DCE0;"><span style="color:#D4DCE0;filter:grayscale(1) invert(1) contrast(100);">#D4DCE0</span></code> <small style="color:#888">#D4DCE0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(89.0% 0.010 228.9)</small></td></tr></tbody></table>
 
 # Sample pattern
 

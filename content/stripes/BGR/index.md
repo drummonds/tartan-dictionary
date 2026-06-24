@@ -24,9 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Agnew](/setts/s3/db53g42r14~x2/)|
-|![Agnew example sett](/setts/s3/db53g42r14~x2/sett.png)|
-| [Agnew](/setts/s3/db53g42r14/)|
+| [Agnew](/tartans/db53g42r14/)|
 |![Agnew example sett](/setts/s3/db53g42r14/sett.png)|
 | [Ferguson](/setts/s3/db6dg5r1~x4/)|
 |![Ferguson example sett](/setts/s3/db6dg5r1~x4/sett.png)|

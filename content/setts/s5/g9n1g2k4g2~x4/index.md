@@ -2,7 +2,7 @@
 title: "Peterhead (Personal)"
 date: 2023-03-18
 ---
-This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9b1g2k4g2/)
+This page is one **sett** — a single exact thread-count. It belongs to the [tartan](/tartans/g9n1g2k4g2/)
 (the same proportion at any scale), whose colour order is pattern [GBGKG](/stripes/gbgkg/).
 
 Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/).
@@ -30,13 +30,7 @@ G/36 B4 G8 K16 G/8
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| B | <code style="background-color:#487088;"><span style="color:#487088;filter:grayscale(1) invert(1) contrast(100);">#487088</span></code> `oklch(52.5% 0.059 235.8)` <small>#487088</small> | B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code> |
-| G | <code style="background-color:#407058;"><span style="color:#407058;filter:grayscale(1) invert(1) contrast(100);">#407058</span></code> `oklch(50.4% 0.066 161.0)` <small>#407058</small> | G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code> |
-| K | <code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> `oklch(17.3% 0.000 89.9)` <small>#101010</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
+<p class="palette-source">Palette: <strong>Logan (The Scottish Gael, 1831)</strong> <small style="color:#888">(1 of 3 colours)</small></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">36</td><td><code style="background-color:#407058;"><span style="color:#407058;filter:grayscale(1) invert(1) contrast(100);">#407058</span></code> <small style="color:#888">#407058</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(50.4% 0.066 161.0)</small></td></tr><tr><td>B</td><td style="text-align:right;font-variant-numeric:tabular-nums">4</td><td><code style="background-color:#487088;"><span style="color:#487088;filter:grayscale(1) invert(1) contrast(100);">#487088</span></code> <small style="color:#888">#487088</small></td><td>B <code style="background-color:#2A418A;"><span style="color:#2A418A;filter:grayscale(1) invert(1) contrast(100);">#2A418A</span></code></td><td><small style="color:#888">oklch(52.5% 0.059 235.8)</small></td></tr><tr><td>G</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#407058;"><span style="color:#407058;filter:grayscale(1) invert(1) contrast(100);">#407058</span></code> <small style="color:#888">#407058</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(50.4% 0.066 161.0)</small></td></tr><tr><td>K</td><td style="text-align:right;font-variant-numeric:tabular-nums">16</td><td><code style="background-color:#101010;"><span style="color:#101010;filter:grayscale(1) invert(1) contrast(100);">#101010</span></code> <small style="color:#888">#101010</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(17.3% 0.000 89.9)</small></td></tr><tr><td>G/</td><td style="text-align:right;font-variant-numeric:tabular-nums">8</td><td><code style="background-color:#407058;"><span style="color:#407058;filter:grayscale(1) invert(1) contrast(100);">#407058</span></code> <small style="color:#888">#407058</small></td><td>G <code style="background-color:#006100;"><span style="color:#006100;filter:grayscale(1) invert(1) contrast(100);">#006100</span></code></td><td><small style="color:#888">oklch(50.4% 0.066 161.0)</small></td></tr></tbody></table>
 
 # Sample pattern
 

@@ -24,9 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell, Border (Name)](/setts/s7/k1r1w1k1w1k1db1~x14/)|
-|![Bell, Border (Name) example sett](/setts/s7/k1r1w1k1w1k1db1~x14/sett.png)|
-| [Bell, South.](/setts/s7/k1r1w1k1w1k1db1~x8/)|
-|![Bell, South. example sett](/setts/s7/k1r1w1k1w1k1db1~x8/sett.png)|
-| [Border Bell](/setts/s7/k1r1w1k1w1k1db1~x16/)|
-|![Border Bell example sett](/setts/s7/k1r1w1k1w1k1db1~x16/sett.png)|
+| [Border Bell](/tartans/k1r1w1k1w1k1db1/)|
+|![Border Bell example sett](/setts/s7/k1r1w1k1w1k1db1~x8/sett.png)|

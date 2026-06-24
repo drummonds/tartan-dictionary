@@ -24,9 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moncreiffe D](/setts/s3/r1dg1r1~x2/)|
-|![Moncreiffe D example sett](/setts/s3/r1dg1r1~x2/sett.png)|
-| [Moncreiffe D](/setts/s3/r1dg1r1/)|
+| [Moncreiffe D](/tartans/r1dg1r1/)|
 |![Moncreiffe D example sett](/setts/s3/r1dg1r1/sett.png)|
 | [Outlander #5](/setts/s3/o13dy15o2~x4/)|
 |![Outlander #5 example sett](/setts/s3/o13dy15o2~x4/sett.png)|

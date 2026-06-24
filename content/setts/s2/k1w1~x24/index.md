@@ -14,12 +14,7 @@ K/24 W/24
 ![Sett](sett.png)
 
 ## Palette
-Each colour and the base-6 reference it is a variant of.
-
-| Colour | Shade | Base |
-|---|---|---|
-| K | <code style="background-color:#1E160E;"><span style="color:#1E160E;filter:grayscale(1) invert(1) contrast(100);">#1E160E</span></code> `oklch(20.8% 0.020 66.4)` <small>#1E160E</small> | K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code> |
-| W | <code style="background-color:#E8DCC0;"><span style="color:#E8DCC0;filter:grayscale(1) invert(1) contrast(100);">#E8DCC0</span></code> `oklch(89.7% 0.039 87.6)` <small>#E8DCC0</small> | W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code> |
+<p class="palette-source">Palette: <strong>custom</strong></p><table><thead><tr><th>Colour</th><th>Threads</th><th>Shade</th><th>Base</th><th>OKLCh</th></tr></thead><tbody><tr><td>K/</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#1E160E;"><span style="color:#1E160E;filter:grayscale(1) invert(1) contrast(100);">#1E160E</span></code> <small style="color:#888">#1E160E</small></td><td>K <code style="background-color:#000000;"><span style="color:#000000;filter:grayscale(1) invert(1) contrast(100);">#000000</span></code></td><td><small style="color:#888">oklch(20.8% 0.020 66.4)</small></td></tr><tr><td>W/</td><td style="text-align:right;font-variant-numeric:tabular-nums">24</td><td><code style="background-color:#E8DCC0;"><span style="color:#E8DCC0;filter:grayscale(1) invert(1) contrast(100);">#E8DCC0</span></code> <small style="color:#888">#E8DCC0</small></td><td>W <code style="background-color:#F7F7F7;"><span style="color:#F7F7F7;filter:grayscale(1) invert(1) contrast(100);">#F7F7F7</span></code></td><td><small style="color:#888">oklch(89.7% 0.039 87.6)</small></td></tr></tbody></table>
 
 # Sample pattern
 

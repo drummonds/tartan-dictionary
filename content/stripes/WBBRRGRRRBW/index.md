@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moray of Abercairny](/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/)|
-|![Moray of Abercairny example sett](/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/sett.png)|
+| [Moray of Abercairny](/setts/s11/w1t3db2ri18r2g16r2ri2r2t3w1~x2/)|
+|![Moray of Abercairny example sett](/setts/s11/w1t3db2ri18r2g16r2ri2r2t3w1~x2/sett.png)|

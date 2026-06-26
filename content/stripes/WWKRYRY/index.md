@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Oor Wullie (Corporate)](/setts/s7/ly3r3ly2r20k16lb24w2~x2/)|
-|![Oor Wullie (Corporate) example sett](/setts/s7/ly3r3ly2r20k16lb24w2~x2/sett.png)|
-| [Oor Wullie (DC Thomson)](/setts/s7/ly3r3lo2r20k16w24w2~x2/)|
-|![Oor Wullie (DC Thomson) example sett](/setts/s7/ly3r3lo2r20k16w24w2~x2/sett.png)|
+| [Oor Wullie (Corporate)](/setts/s7/lyi3r3ly2r20k16lb24w2~x2/)|
+|![Oor Wullie (Corporate) example sett](/setts/s7/lyi3r3ly2r20k16lb24w2~x2/sett.png)|
+| [Oor Wullie (DC Thomson)](/setts/s7/ly3r3lo2r20k16wi24w2~x2/)|
+|![Oor Wullie (DC Thomson) example sett](/setts/s7/ly3r3lo2r20k16wi24w2~x2/sett.png)|

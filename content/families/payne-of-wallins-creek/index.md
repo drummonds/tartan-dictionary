@@ -2,7 +2,7 @@
 title: "Payne of Wallins Creek"
 date: 2023-03-18
 ---
-A family of [Clan Payne](/clan/payne/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Wallins Creek”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Wallins+Creek&viewmode=grid)
 

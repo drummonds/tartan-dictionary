@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red, White, Blue Watch (Dance)](/setts/s13/r12k2r2k2r2k10k12k3k12k10r12k2r2~x2/)|
-|![Red, White, Blue Watch (Dance) example sett](/setts/s13/r12k2r2k2r2k10k12k3k12k10r12k2r2~x2/sett.png)|
+| [Red, White, Blue Watch (Dance)](/setts/s13/r12k2r2k2r2k10ki12k3ki12k10r12k2r2~x2/)|
+|![Red, White, Blue Watch (Dance) example sett](/setts/s13/r12k2r2k2r2k10ki12k3ki12k10r12k2r2~x2/sett.png)|

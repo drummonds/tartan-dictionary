@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [PSD: Operation Iraqi Freedom](/setts/s7/k2y1dg12y12r12k1r2~x4/)|
-|![PSD: Operation Iraqi Freedom example sett](/setts/s7/k2y1dg12y12r12k1r2~x4/sett.png)|
+| [PSD: Operation Iraqi Freedom](/setts/s7/k2y1dg12y12ri12k1r2~x4/)|
+|![PSD: Operation Iraqi Freedom example sett](/setts/s7/k2y1dg12y12ri12k1r2~x4/sett.png)|

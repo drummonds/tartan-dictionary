@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moon (Georgia, USA)](/setts/s18/lb4k1r5k3r8dg8k1lo3k1b4k27b4k1lo3k1dg8r8k3~x2/)|
-|![Moon (Georgia, USA) example sett](/setts/s18/lb4k1r5k3r8dg8k1lo3k1b4k27b4k1lo3k1dg8r8k3~x2/sett.png)|
+| [Moon (Georgia, USA)](/setts/s18/lb4k1r5ki3r8dg8k1lo3k1b4ki27b4k1lo3k1dg8r8ki3~x2/)|
+|![Moon (Georgia, USA) example sett](/setts/s18/lb4k1r5ki3r8dg8k1lo3k1b4ki27b4k1lo3k1dg8r8ki3~x2/sett.png)|

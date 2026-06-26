@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Belk Festive (Fashion)](/setts/s18/r16r1dg4b2w1b2dg4r1r1dg41r1r36g2r3ly1g3ly1r4~x2/)|
-|![Belk Festive (Fashion) example sett](/setts/s18/r16r1dg4b2w1b2dg4r1r1dg41r1r36g2r3ly1g3ly1r4~x2/sett.png)|
+| [Belk Festive (Fashion)](/setts/s18/ri16r1dg4b2w1b2dg4r1ri1dg41r1ri36g2r3ly1g3ly1r4~x2/)|
+|![Belk Festive (Fashion) example sett](/setts/s18/ri16r1dg4b2w1b2dg4r1ri1dg41r1ri36g2r3ly1g3ly1r4~x2/sett.png)|

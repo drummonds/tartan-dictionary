@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified (Woven sample)](/setts/s11/g18r4g4r6g28dp28r4lt3ly4lt13r6/)|
-|![Unidentified (Woven sample) example sett](/setts/s11/g18r4g4r6g28dp28r4lt3ly4lt13r6/sett.png)|
+| [Unidentified (Woven sample)](/setts/s11/g18ri4g4r6g28dp28r4lt3ly4lt13r6/)|
+|![Unidentified (Woven sample) example sett](/setts/s11/g18ri4g4r6g28dp28r4lt3ly4lt13r6/sett.png)|

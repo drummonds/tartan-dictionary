@@ -26,5 +26,5 @@ It is a 6 stripe tartan.
 |---------------|
 | [Georgian Bay, Waters of](/setts/s6/db35w3db8t36dg9o3~x2/)|
 |![Georgian Bay, Waters of example sett](/setts/s6/db35w3db8t36dg9o3~x2/sett.png)|
-| [Waters of Georgian Bay (District)](/setts/s6/db38w3db8db36dg9r3~x2/)|
-|![Waters of Georgian Bay (District) example sett](/setts/s6/db38w3db8db36dg9r3~x2/sett.png)|
+| [Waters of Georgian Bay (District)](/setts/s6/db38w3db8dbi36dg9r3~x2/)|
+|![Waters of Georgian Bay (District) example sett](/setts/s6/db38w3db8dbi36dg9r3~x2/sett.png)|

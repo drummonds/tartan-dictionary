@@ -1,8 +1,5 @@
 ---
 title: "Clan Thomas"
-date: 2023-03-18
+redirect: "/families/thomas-of-craigie/"
 ---
-## Families
-
-- [Thomas of Craigie](/families/thomas-of-craigie/)
-
+Clan Thomas is recorded as the single family [Thomas of Craigie](/families/thomas-of-craigie/) — redirecting there.

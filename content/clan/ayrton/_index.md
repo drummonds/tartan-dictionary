@@ -1,8 +1,5 @@
 ---
 title: "Clan Ayrton"
-date: 2023-03-18
+redirect: "/families/ayrton-of-laoch/"
 ---
-## Families
-
-- [Ayrton of Laoch](/families/ayrton-of-laoch/)
-
+Clan Ayrton is recorded as the single family [Ayrton of Laoch](/families/ayrton-of-laoch/) — redirecting there.

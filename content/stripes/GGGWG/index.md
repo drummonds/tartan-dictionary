@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Castle Bay (Fashion)](/setts/s5/g40w2y5g5y15~x2/)|
-|![Castle Bay (Fashion) example sett](/setts/s5/g40w2y5g5y15~x2/sett.png)|
+| [Castle Bay (Fashion)](/setts/s5/g40w2y5gi5y15~x2/)|
+|![Castle Bay (Fashion) example sett](/setts/s5/g40w2y5gi5y15~x2/sett.png)|

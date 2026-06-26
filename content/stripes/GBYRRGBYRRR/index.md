@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kreutz, Arthur (Personal)](/setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/)|
-|![Kreutz, Arthur (Personal) example sett](/setts/s11/r8r8m8ly3db1g1r8m8ly3db1g1~x2/sett.png)|
+| [Kreutz, Arthur (Personal)](/setts/s11/r8ri8m8ly3db1g1r8m8ly3db1g1~x2/)|
+|![Kreutz, Arthur (Personal) example sett](/setts/s11/r8ri8m8ly3db1g1r8m8ly3db1g1~x2/sett.png)|

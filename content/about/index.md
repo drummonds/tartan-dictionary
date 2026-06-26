@@ -19,6 +19,10 @@ historical record from China 3.000 years ago, contemporary with Austria, to Roma
 front line at Vindolanda, the weaving in the Isles to the current day.  I am convinced that wearing
 of tartan with modern twists is a long standing tradition.
 
+This is not a register of particular tartans but it does allow you to see all tartans and visualise them.
+The TotalTartandDiction (TTD) viewer allows you to navigate the whole space of tarans and show you every
+possible one.  I am interested in collating all the known information into the record.
+
 This is my attempt to make sense of it all. It is an early, alpha site: things will change, and
 some of it (colour conversions, dating, attributions) is still uncertain — openly so.
 

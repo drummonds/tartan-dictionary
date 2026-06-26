@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10915/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10915](https://www.tartanregister.gov.uk/tartanDetails?ref=10915)
+- Scottish Tartans Authority (ITI): 10915
+
 ## Thread count
 K/4 W2 G50 T22 R24 W2 Y24 K2 W/4
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="172.6" cy="91.5" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/"><circle cx="170.1" cy="101.6" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s9/w2g27ly1lo7b5ly5r17ly6b1~x2/"><circle cx="169.9" cy="86.4" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="208.2" cy="82.1" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="191.9" cy="87.0" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="208.8" cy="86.7" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="165.2" cy="94.4" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s8/g2do13g11ly5do1lo21g2dy1~x2/"><circle cx="210.7" cy="142.6" r="4" fill="#3465a4"><title>St. Lawrence #2 (Fashion)</title></circle></a><circle cx="167.3" cy="96.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/w2dg27ly1lo7t5ly5r17ly6t1~x2/"><circle cx="171.8" cy="91.9" r="4" fill="#3465a4"><title>Elystan Glodrydd (Name)</title></circle></a><a href="/setts/s9/k2w1dg25dy11r12w1lo12k1w2~x2/"><circle cx="169.5" cy="102.1" r="4" fill="#3465a4"><title>Leaf Peeper</title></circle></a><a href="/setts/s9/w2g27ly1lo7b5ly5r17ly6b1~x2/"><circle cx="168.9" cy="86.8" r="4" fill="#3465a4"><title>Elystan Glodrydd (Welsh Tribe)</title></circle></a><a href="/setts/s11/w3k1r25k2dy2g25dy2ly2dy10k1r2~x2/"><circle cx="207.4" cy="82.3" r="4" fill="#3465a4"><title>Bicknell, The Hamish (Personal)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/"><circle cx="191.2" cy="87.4" r="4" fill="#3465a4"><title>O'Keefe (Name)</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.2" cy="85.1" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s10/r15lo30k1w6k1lo2dg16t4r6w1~x2/"><circle cx="208.0" cy="87.0" r="4" fill="#3465a4"><title>Westwood (Fashion?)</title></circle></a><a href="/setts/s11/lb2r16k1t2k1lo4k1t2k1g16t1~x4/"><circle cx="164.6" cy="94.9" r="4" fill="#3465a4"><title>Baxter (Clan)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="138.6" cy="111.1" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><a href="/setts/s8/g2do13g11ly5do1lo21g2dy1~x2/"><circle cx="210.1" cy="143.1" r="4" fill="#3465a4"><title>St. Lawrence #2 (Fashion)</title></circle></a><circle cx="166.6" cy="96.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k2w1dg25dy11r12w1ly12k1w2~x2/

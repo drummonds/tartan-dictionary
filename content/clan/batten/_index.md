@@ -1,8 +1,5 @@
 ---
 title: "Clan Batten"
-date: 2023-03-18
+redirect: "/families/batten-of-argyll/"
 ---
-## Families
-
-- [Batten of Argyll](/families/batten-of-argyll/)
-
+Clan Batten is recorded as the single family [Batten of Argyll](/families/batten-of-argyll/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gorman Family (Canada) (Personal)](/setts/s6/g6n16db49n14db2w6~x2/)|
-|![Gorman Family (Canada) (Personal) example sett](/setts/s6/g6n16db49n14db2w6~x2/sett.png)|
+| [Gorman Family (Canada) (Personal)](/setts/s6/g6ni16db49n14db2w6~x2/)|
+|![Gorman Family (Canada) (Personal) example sett](/setts/s6/g6ni16db49n14db2w6~x2/sett.png)|

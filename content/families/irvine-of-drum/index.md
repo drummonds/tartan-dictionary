@@ -2,7 +2,7 @@
 title: "Irvine of Drum"
 date: 2023-03-18
 ---
-A family of [Clan Irvine](/clan/irvine/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Drum”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Drum&viewmode=grid)
 

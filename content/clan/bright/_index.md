@@ -1,8 +1,5 @@
 ---
 title: "Clan Bright"
-date: 2023-03-18
+redirect: "/families/bright-of-garth/"
 ---
-## Families
-
-- [Bright of Garth](/families/bright-of-garth/)
-
+Clan Bright is recorded as the single family [Bright of Garth](/families/bright-of-garth/) — redirecting there.

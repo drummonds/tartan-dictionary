@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chess](/setts/s13/k1w1k8k1k1dg8k1k8k1dg1k8w1k1~x6/)|
-|![Chess example sett](/setts/s13/k1w1k8k1k1dg8k1k8k1dg1k8w1k1~x6/sett.png)|
+| [Chess](/setts/s13/k1w1k8ki1k1dg8k1ki8k1dg1k8w1k1~x6/)|
+|![Chess example sett](/setts/s13/k1w1k8ki1k1dg8k1ki8k1dg1k8w1k1~x6/sett.png)|

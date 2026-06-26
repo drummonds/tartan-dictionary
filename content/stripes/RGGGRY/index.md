@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGeorge (Personal)](/setts/s6/r4dg3dg39dg40r2lo4~x2/)|
-|![McGeorge (Personal) example sett](/setts/s6/r4dg3dg39dg40r2lo4~x2/sett.png)|
+| [McGeorge (Personal)](/setts/s6/r4dg3dgi39dg40r2lo4~x2/)|
+|![McGeorge (Personal) example sett](/setts/s6/r4dg3dgi39dg40r2lo4~x2/sett.png)|

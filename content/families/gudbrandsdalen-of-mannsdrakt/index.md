@@ -2,7 +2,7 @@
 title: "Gudbrandsdalen of Mannsdrakt"
 date: 2023-03-18
 ---
-A family of [Clan Gudbrandsdalen](/clan/gudbrandsdalen/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Mannsdrakt”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Mannsdrakt&viewmode=grid)
 

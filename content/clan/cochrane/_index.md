@@ -1,8 +1,5 @@
 ---
 title: "Clan Cochrane"
-date: 2023-03-18
+redirect: "/families/cochrane-of-dundonald/"
 ---
-## Families
-
-- [Cochrane of Dundonald](/families/cochrane-of-dundonald/)
-
+Clan Cochrane is recorded as the single family [Cochrane of Dundonald](/families/cochrane-of-dundonald/) — redirecting there.

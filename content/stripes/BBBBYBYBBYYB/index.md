@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Foundation VA Highlands (Co](/setts/s12/dp5ly2lr36db3db3ly2dp4lr3t2db3db3db3~x2/)|
-|![Scottish Foundation VA Highlands (Co example sett](/setts/s12/dp5ly2lr36db3db3ly2dp4lr3t2db3db3db3~x2/sett.png)|
+| [Scottish Foundation VA Highlands (Co](/setts/s12/dp5ly2lr36db3dbi3ly2dp4lr3t2dbi3db3dbi3~x2/)|
+|![Scottish Foundation VA Highlands (Co example sett](/setts/s12/dp5ly2lr36db3dbi3ly2dp4lr3t2dbi3db3dbi3~x2/sett.png)|

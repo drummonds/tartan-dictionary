@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacShimsi](/setts/s5/r11r5g5k40ly3~x2/)|
-|![MacShimsi example sett](/setts/s5/r11r5g5k40ly3~x2/sett.png)|
+| [MacShimsi](/setts/s5/r11ri5g5k40ly3~x2/)|
+|![MacShimsi example sett](/setts/s5/r11ri5g5k40ly3~x2/sett.png)|

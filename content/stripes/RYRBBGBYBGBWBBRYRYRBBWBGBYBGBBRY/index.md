@@ -24,5 +24,5 @@ It is a 32 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stevens (Personal)](/setts/s32/r6ly3r3db24db24g24t3ly4t3g24db10w3db10db24r3ly3r6/)|
-|![Stevens (Personal) example sett](/setts/s32/r6ly3r3db24db24g24t3ly4t3g24db10w3db10db24r3ly3r6/sett.png)|
+| [Stevens (Personal)](/setts/s32/r6ly3r3db24dbi24g24t3ly4t3g24dbi10w3dbi10db24r3ly3r6/)|
+|![Stevens (Personal) example sett](/setts/s32/r6ly3r3db24dbi24g24t3ly4t3g24dbi10w3dbi10db24r3ly3r6/sett.png)|

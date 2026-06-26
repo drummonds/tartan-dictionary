@@ -1,8 +1,5 @@
 ---
 title: "Clan Stirling"
-date: 2023-03-18
+redirect: "/families/stirling-of-keir/"
 ---
-## Families
-
-- [Stirling of Keir](/families/stirling-of-keir/)
-
+Clan Stirling is recorded as the single family [Stirling of Keir](/families/stirling-of-keir/) — redirecting there.

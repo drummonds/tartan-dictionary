@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Knights, The](/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/)|
-|![Blue Knights, The example sett](/setts/s9/w3lg15db6db2db1db2db1db21ly2~x2/sett.png)|
+| [Blue Knights, The](/setts/s9/w3lg15dbi6db2dbi1db2dbi1db21ly2~x2/)|
+|![Blue Knights, The example sett](/setts/s9/w3lg15dbi6db2dbi1db2dbi1db21ly2~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Gwyn"
-date: 2023-03-18
+redirect: "/families/gwyn-of-wales/"
 ---
-## Families
-
-- [Gwyn of Wales](/families/gwyn-of-wales/)
-
+Clan Gwyn is recorded as the single family [Gwyn of Wales](/families/gwyn-of-wales/) — redirecting there.

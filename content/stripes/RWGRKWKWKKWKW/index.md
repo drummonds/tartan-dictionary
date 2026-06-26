@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Niagara Celtic Heritage Festival](/setts/s13/r3w2g8r8k16w2k3w2k16k8w8k2w3~x2/)|
-|![Niagara Celtic Heritage Festival example sett](/setts/s13/r3w2g8r8k16w2k3w2k16k8w8k2w3~x2/sett.png)|
+| [Niagara Celtic Heritage Festival](/setts/s13/r3w2g8r8k16w2k3w2k16ki8w8ki2w3~x2/)|
+|![Niagara Celtic Heritage Festival example sett](/setts/s13/r3w2g8r8k16w2k3w2k16ki8w8ki2w3~x2/sett.png)|

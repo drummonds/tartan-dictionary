@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scout Mapping Service #2 (Corporate)](/setts/s8/r2db11k8g8ly2g8k1ly2~x2/)|
-|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/r2db11k8g8ly2g8k1ly2~x2/sett.png)|
+| [Scout Mapping Service #2 (Corporate)](/setts/s8/r2db11k8gi8ly2g8k1ly2~x2/)|
+|![Scout Mapping Service #2 (Corporate) example sett](/setts/s8/r2db11k8gi8ly2g8k1ly2~x2/sett.png)|

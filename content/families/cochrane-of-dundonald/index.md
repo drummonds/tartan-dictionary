@@ -2,7 +2,7 @@
 title: "Cochrane of Dundonald"
 date: 2023-03-18
 ---
-A family of [Clan Cochrane](/clan/cochrane/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Dundonald”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dundonald&viewmode=grid)
 

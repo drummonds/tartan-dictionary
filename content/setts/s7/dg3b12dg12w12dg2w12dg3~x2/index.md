@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4081/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4081
+
 ## Thread count
 DG/6 B24 DGc24 LN24 DGa4 LN24 DGb/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g25r9b3ly7w3dp11/"><circle cx="127.0" cy="167.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/setts/s8/k4db9ly6db22g4w20g6w4/"><circle cx="115.2" cy="188.2" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/setts/s6/db13w13db4ly2g8r3~x2/"><circle cx="113.5" cy="205.9" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="120.3" cy="204.9" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="109.9" cy="189.2" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/"><circle cx="82.4" cy="170.1" r="4" fill="#3465a4"><title>Elora (District)</title></circle></a><a href="/setts/s6/k3ly3db20g25lb18w3~x2/"><circle cx="99.1" cy="179.0" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/setts/s8/w4k1w4g6k4w5r1t2~x2/"><circle cx="113.5" cy="203.0" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="52.0" cy="194.1" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.5" cy="163.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><circle cx="87.0" cy="193.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g25r9b3ly7w3dp11/"><circle cx="126.3" cy="168.9" r="4" fill="#3465a4"><title>Montessori School of Denver</title></circle></a><a href="/setts/s8/k4db9ly6db22g4w20g6w4/"><circle cx="114.7" cy="189.4" r="4" fill="#3465a4"><title>Ship Hector</title></circle></a><a href="/setts/s6/db13w13db4ly2g8r3~x2/"><circle cx="113.0" cy="207.2" r="4" fill="#3465a4"><title>Unidentified (Winterbottom)</title></circle></a><a href="/setts/s8/w4k1w4dg6k4w5r1t2~x2/"><circle cx="119.6" cy="206.1" r="4" fill="#3465a4"><title>MacDuff Dress</title></circle></a><a href="/setts/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="109.3" cy="190.5" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/setts/s8/dt2g2dt11o2w8t12ly2t2~x2/"><circle cx="82.0" cy="171.1" r="4" fill="#3465a4"><title>Elora (District)</title></circle></a><a href="/setts/s6/k3ly3db20g25lb18w3~x2/"><circle cx="98.8" cy="180.1" r="4" fill="#3465a4"><title>Porteous (Clan)</title></circle></a><a href="/setts/s8/w4k1w4g6k4w5r1t2~x2/"><circle cx="112.8" cy="204.3" r="4" fill="#3465a4"><title>MacDuff, dress</title></circle></a><a href="/setts/s10/g5db3t3g5w4ly2t1ly2db1r1~x6/"><circle cx="51.6" cy="195.3" r="4" fill="#3465a4"><title>Northern College (Ontario)</title></circle></a><a href="/setts/s7/db20r2g9w6ly4k2g8~x2/"><circle cx="130.0" cy="164.7" r="4" fill="#3465a4"><title>Crofters (Personal)</title></circle></a><circle cx="86.4" cy="194.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/dg3b12dg12w12dg2w12dg3~x2/

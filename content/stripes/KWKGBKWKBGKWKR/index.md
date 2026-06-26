@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hislop/Hyslop Hunting](/setts/s14/k18w3k18g18t18k2w4k2t18g18k18w3k18r3~x2/)|
-|![Hislop/Hyslop Hunting example sett](/setts/s14/k18w3k18g18t18k2w4k2t18g18k18w3k18r3~x2/sett.png)|
+| [Hislop/Hyslop Hunting](/setts/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2/)|
+|![Hislop/Hyslop Hunting example sett](/setts/s14/k18wi3k18g18t18k2w4k2t18g18k18wi3k18r3~x2/sett.png)|

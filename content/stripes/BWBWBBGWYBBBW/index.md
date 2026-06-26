@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of India (Fashion)](/setts/s13/db32w2db1w2db4db1g8w8lo8db1db16db1w4~x2/)|
-|![Spirit of India (Fashion) example sett](/setts/s13/db32w2db1w2db4db1g8w8lo8db1db16db1w4~x2/sett.png)|
+| [Spirit of India (Fashion)](/setts/s13/dbi32w2db1w2dbi4db1g8w8lo8db1dbi16db1w4~x2/)|
+|![Spirit of India (Fashion) example sett](/setts/s13/dbi32w2db1w2dbi4db1g8w8lo8db1dbi16db1w4~x2/sett.png)|

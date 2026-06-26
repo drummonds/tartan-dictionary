@@ -1,8 +1,5 @@
 ---
 title: "Clan MacRaes"
-date: 2023-03-18
+redirect: "/families/macraes-of-america/"
 ---
-## Families
-
-- [MacRaes of America](/families/macraes-of-america/)
-
+Clan MacRaes is recorded as the single family [MacRaes of America](/families/macraes-of-america/) — redirecting there.

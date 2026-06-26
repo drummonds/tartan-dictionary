@@ -1,8 +1,5 @@
 ---
 title: "Clan Milne"
-date: 2023-03-18
+redirect: "/families/milne-of-corstorphine/"
 ---
-## Families
-
-- [Milne of Corstorphine](/families/milne-of-corstorphine/)
-
+Clan Milne is recorded as the single family [Milne of Corstorphine](/families/milne-of-corstorphine/) — redirecting there.

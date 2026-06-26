@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Childers (Personal)](/setts/s6/k44g8k4g13k4w3~x2/)|
-|![Childers (Personal) example sett](/setts/s6/k44g8k4g13k4w3~x2/sett.png)|
+| [Childers (Personal)](/setts/s6/k44g8k4gi13k4w3~x2/)|
+|![Childers (Personal) example sett](/setts/s6/k44g8k4gi13k4w3~x2/sett.png)|

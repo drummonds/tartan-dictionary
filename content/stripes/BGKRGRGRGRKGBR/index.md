@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sheffield, City of](/setts/s14/t5g5k4o31g3o3g62o3g3o31k4g5t5r3~x2/)|
-|![Sheffield, City of example sett](/setts/s14/t5g5k4o31g3o3g62o3g3o31k4g5t5r3~x2/sett.png)|
+| [Sheffield, City of](/setts/s14/t5g5k4o31gi3o3gi62o3gi3o31k4g5t5r3~x2/)|
+|![Sheffield, City of example sett](/setts/s14/t5g5k4o31gi3o3gi62o3gi3o31k4g5t5r3~x2/sett.png)|

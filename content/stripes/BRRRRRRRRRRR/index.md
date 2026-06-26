@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waverly, Check](/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/)|
-|![Waverly, Check example sett](/setts/s12/dr44o5o8o2o2o2o2o14o9o2o4o2~x2/sett.png)|
+| [Waverly, Check](/setts/s12/dr44o5oii8o2oii2o2oii2o14oi9oii2oi4o2~x2/)|
+|![Waverly, Check example sett](/setts/s12/dr44o5oii8o2oii2o2oii2o14oi9oii2oi4o2~x2/sett.png)|

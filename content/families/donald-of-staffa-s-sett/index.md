@@ -2,7 +2,7 @@
 title: "Donald of Staffa's Sett"
 date: 2023-03-18
 ---
-A family of [Clan Donald](/clan/donald/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Staffa's Sett”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Staffa%27s+Sett&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ertico](/setts/s10/k3ly1db1db6m2db1m1db1db10w1~x4/)|
-|![Ertico example sett](/setts/s10/k3ly1db1db6m2db1m1db1db10w1~x4/sett.png)|
+| [Ertico](/setts/s10/k3ly1dbi1db6m2db1m1db1dbi10w1~x4/)|
+|![Ertico example sett](/setts/s10/k3ly1dbi1db6m2db1m1db1dbi10w1~x4/sett.png)|

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Clyde](/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/)|
-|![Clyde example sett](/setts/s10/o5n3o22r3n6n17r2n4r2n4~x2/sett.png)|
+| [Clyde](/setts/s10/o5n3o22r3n6ni17r2ni4r2ni4~x2/)|
+|![Clyde example sett](/setts/s10/o5n3o22r3n6ni17r2ni4r2ni4~x2/sett.png)|

@@ -2,7 +2,7 @@
 title: "James of Glencarr"
 date: 2023-03-18
 ---
-A family of [Clan James](/clan/james/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Glencarr”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glencarr&viewmode=grid)
 

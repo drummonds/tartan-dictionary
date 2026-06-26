@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chisholm, Christopher (Personal)](/setts/s14/r2dt2r1dt2r1dt28k6r2b1r2b1r24k1r1~x2/)|
-|![Chisholm, Christopher (Personal) example sett](/setts/s14/r2dt2r1dt2r1dt28k6r2b1r2b1r24k1r1~x2/sett.png)|
+| [Chisholm, Christopher (Personal)](/setts/s14/ri2dt2ri1dt2ri1dt28k6ri2b1ri2b1ri24k1r1~x2/)|
+|![Chisholm, Christopher (Personal) example sett](/setts/s14/ri2dt2ri1dt2ri1dt28k6ri2b1ri2b1ri24k1r1~x2/sett.png)|

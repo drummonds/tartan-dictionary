@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Reflections of the Sea](/setts/s12/b3b6dg12b14dg2b17b3dg1b3b17dg2lg3~x2/)|
-|![Reflections of the Sea example sett](/setts/s12/b3b6dg12b14dg2b17b3dg1b3b17dg2lg3~x2/sett.png)|
+| [Reflections of the Sea](/setts/s12/b3bi6dg12b14dg2bi17b3dg1b3bi17dg2lg3~x2/)|
+|![Reflections of the Sea example sett](/setts/s12/b3bi6dg12b14dg2bi17b3dg1b3bi17dg2lg3~x2/sett.png)|

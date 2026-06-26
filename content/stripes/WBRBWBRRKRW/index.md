@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenmore Pink](/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/)|
-|![Glenmore Pink example sett](/setts/s11/w60dt24o3dt5w3dt5o16o8k3o6w4/sett.png)|
+| [Glenmore Pink](/setts/s11/w60dt24oi3dt5w3dt5o16oi8k3oi6w4/)|
+|![Glenmore Pink example sett](/setts/s11/w60dt24oi3dt5w3dt5o16oi8k3oi6w4/sett.png)|

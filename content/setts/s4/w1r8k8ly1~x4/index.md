@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1854/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1854
+
 ## Thread count
 Y/4 K32 R32 W/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r4k25o25w4~x2/"><circle cx="214.6" cy="234.9" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="258.6" cy="228.6" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s4/w1r8k8ly1~x2/"><circle cx="231.3" cy="217.9" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s4/w1k10r10w1~x4/"><circle cx="278.6" cy="222.1" r="4" fill="#3465a4"><title>Masai Shuka 01 (Artefact)</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="289.6" cy="205.7" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><a href="/setts/s5/ly2r15k7db8ly2~x4/"><circle cx="185.9" cy="213.6" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="206.4" cy="202.6" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/r15g3w2k10w5~x2/"><circle cx="166.1" cy="205.8" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><circle cx="239.7" cy="217.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r4k25o25w4~x2/"><circle cx="213.9" cy="236.3" r="4" fill="#3465a4"><title>Bonhill Primary School</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="257.9" cy="229.9" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s4/w1r8k8ly1~x2/"><circle cx="230.5" cy="219.3" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s4/w1k10r10w1~x4/"><circle cx="277.6" cy="223.4" r="4" fill="#3465a4"><title>Masai Shuka 01 (Artefact)</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="288.5" cy="206.8" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><a href="/setts/s5/ly2r15k7db8ly2~x4/"><circle cx="185.1" cy="215.0" r="4" fill="#3465a4"><title>Aberdeen University</title></circle></a><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="304.9" cy="243.9" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="304.9" cy="243.9" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s6/lb5r34k22r4o24r4~x2/"><circle cx="205.7" cy="203.8" r="4" fill="#3465a4"><title>Wcwm 759-2</title></circle></a><a href="/setts/s5/r15g3w2k10w5~x2/"><circle cx="165.2" cy="207.1" r="4" fill="#3465a4"><title>SAL Cubiska Stenen</title></circle></a><circle cx="238.8" cy="218.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/w1r8k8ly1~x4/

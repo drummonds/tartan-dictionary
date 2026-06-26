@@ -2,7 +2,7 @@
 title: "Rose of Kilravock"
 date: 2023-03-18
 ---
-A family of [Clan Rose](/clan/rose/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Kilravock”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Kilravock&viewmode=grid)
 

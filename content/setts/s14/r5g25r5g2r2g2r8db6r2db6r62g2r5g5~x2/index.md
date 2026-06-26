@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Ross #7
-
 ## Thread count
 R/10 G50 R10 G4 R4 G4 R16 B12 R4 B12 R124 G4 R10 G/10
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/"><circle cx="469.2" cy="113.6" r="4" fill="#3465a4"><title>Ross 5</title></circle></a><a href="/setts/s14/dg5r5dg2r62db6r2db6r8dg2r2dg2r5dg25r5~x2/"><circle cx="475.8" cy="99.4" r="4" fill="#3465a4"><title>Ross #7</title></circle></a><a href="/setts/s14/r3dg12r2dg1r1dg1r4db3r1db3r28db1r3db2~x2/"><circle cx="461.7" cy="105.4" r="4" fill="#3465a4"><title>Ross #2</title></circle></a><a href="/setts/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="445.6" cy="136.6" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><circle cx="468.2" cy="125.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s14/dg19r7dg7r7dg7r14db3r3dg19r3db3r66db7r14~x2/"><circle cx="439.3" cy="129.0" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/setts/s14/r54g6r5g6r10g3r2g18~x2/"><circle cx="504.8" cy="143.4" r="4" fill="#3465a4"><title>Kyle (Green)</title></circle></a><a href="/setts/s17/w2r32dg2r3dg2r4dg17r4dg16r4dg2r3dg2r32w1r1w2~x2/"><circle cx="452.6" cy="101.2" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="441.5" cy="108.4" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="408.9" cy="136.5" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><circle cx="482.5" cy="107.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r3g12r2g1r1g1r4db3r1db3r28db1r3db2~x2/"><circle cx="468.0" cy="113.6" r="4" fill="#3465a4"><title>Ross 5</title></circle></a><a href="/setts/s14/dg5r5dg2r62db6r2db6r8dg2r2dg2r5dg25r5~x2/"><circle cx="474.3" cy="99.4" r="4" fill="#3465a4"><title>Ross #7</title></circle></a><a href="/setts/s14/r3dg12r2dg1r1dg1r4db3r1db3r28db1r3db2~x2/"><circle cx="460.3" cy="105.5" r="4" fill="#3465a4"><title>Ross #2</title></circle></a><a href="/setts/s14/g19r7g7r7g7r14db3r3g19r3db3r66db7r14~x2/"><circle cx="444.4" cy="136.8" r="4" fill="#3465a4"><title>MacGillivray</title></circle></a><a href="/setts/s15/r24g4r2g2r2g2r12g24r1k1r24k1r1k1r6~x2/"><circle cx="466.8" cy="125.3" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s14/dg19r7dg7r7dg7r14db3r3dg19r3db3r66db7r14~x2/"><circle cx="438.0" cy="129.3" r="4" fill="#3465a4"><title>MacGillivray #3</title></circle></a><a href="/setts/s14/r54g6r5g6r10g3r2g18~x2/"><circle cx="503.5" cy="143.5" r="4" fill="#3465a4"><title>Kyle (Green)</title></circle></a><a href="/setts/s17/w2r32dg2r3dg2r4dg17r4dg16r4dg2r3dg2r32w1r1w2~x2/"><circle cx="451.2" cy="101.4" r="4" fill="#3465a4"><title>Rothesay</title></circle></a><a href="/setts/s17/w8r83g7r5g7r7g28r7g28r7g7r5g7r83w4r4w8/"><circle cx="440.0" cy="108.6" r="4" fill="#3465a4"><title>Rothesay (Red)</title></circle></a><a href="/setts/s14/g20r3g6r6g6r8dp2r2g20r2dp2r46dp3r8~x2/"><circle cx="407.8" cy="136.7" r="4" fill="#3465a4"><title>MacAlister of Glenbarr</title></circle></a><circle cx="481.2" cy="107.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r5g25r5g2r2g2r8db6r2db6r62g2r5g5~x2/

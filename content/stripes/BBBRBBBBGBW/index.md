@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Highland Yacht Club (Corporate](/setts/s11/db26db3db1m2db1db3db3db12g14db2w2~x2/)|
-|![Royal Highland Yacht Club (Corporate example sett](/setts/s11/db26db3db1m2db1db3db3db12g14db2w2~x2/sett.png)|
+| [Royal Highland Yacht Club (Corporate](/setts/s11/dbi26db3dbi1m2dbi1db3dbi3db12g14dbi2w2~x2/)|
+|![Royal Highland Yacht Club (Corporate example sett](/setts/s11/dbi26db3dbi1m2dbi1db3dbi3db12g14dbi2w2~x2/sett.png)|

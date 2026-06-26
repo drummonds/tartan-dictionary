@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unnamed No 158, Silk Fragment
-
 ## Thread count
 B/16 K2 R8 K2 R8 K2 R8 K2 G16 K2 Y2 R2 LN/2
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="121.3" cy="134.4" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1dg8k1ly1r1w1~x2/"><circle cx="122.5" cy="133.6" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="119.2" cy="133.7" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="91.2" cy="137.0" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="131.0" cy="135.9" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="100.5" cy="120.0" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.5" cy="129.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.7" cy="140.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="126.3" cy="112.5" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><circle cx="107.3" cy="129.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="120.8" cy="135.3" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1dg8k1ly1r1w1~x2/"><circle cx="121.9" cy="134.4" r="4" fill="#3465a4"><title>Unidentified No 158 Silk Fragment</title></circle></a><a href="/setts/s10/g19k18r18ly2w2dp2ly2w2r8dp3~x2/"><circle cx="118.7" cy="134.6" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s15/r6db1r6g8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="90.8" cy="138.1" r="4" fill="#3465a4"><title>MacPherson 9</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.2" cy="125.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s13/lo2g6r12k3w3k3g16k2g2k2g2k12lp2~x2/"><circle cx="130.5" cy="136.7" r="4" fill="#3465a4"><title>Kapasi (Personal)</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3g24r14k4r4w2~x2/"><circle cx="99.9" cy="120.9" r="4" fill="#3465a4"><title>Royal Stewart</title></circle></a><a href="/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/"><circle cx="106.0" cy="130.5" r="4" fill="#3465a4"><title>McMuldroch (2014)</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.2" cy="141.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s14/r25w4k4g25ly3k15t13r5t5r15g4r5k2g3~x2/"><circle cx="125.6" cy="113.3" r="4" fill="#3465a4"><title>Wilson's, No 226</title></circle></a><circle cx="106.8" cy="129.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/

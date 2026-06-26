@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Titanic (Belfast)](/setts/s13/n1r1n9ly1n7k1n1k1n7w4n2w4r1~x4/)|
-|![Titanic (Belfast) example sett](/setts/s13/n1r1n9ly1n7k1n1k1n7w4n2w4r1~x4/sett.png)|
+| [Titanic (Belfast)](/setts/s13/ni1r1ni9ly1ni7k1ni1k1ni7w4n2w4r1~x4/)|
+|![Titanic (Belfast) example sett](/setts/s13/ni1r1ni9ly1ni7k1ni1k1ni7w4n2w4r1~x4/sett.png)|

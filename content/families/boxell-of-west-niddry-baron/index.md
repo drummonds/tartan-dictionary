@@ -2,7 +2,7 @@
 title: "Boxell of West Niddry, Baron"
 date: 2023-03-18
 ---
-A family of [Clan Boxell](/clan/boxell/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “West Niddry, Baron”](https://www.trove.scot/search?page_type=Designations+Decisions&q=West+Niddry%2C+Baron&viewmode=grid)
 

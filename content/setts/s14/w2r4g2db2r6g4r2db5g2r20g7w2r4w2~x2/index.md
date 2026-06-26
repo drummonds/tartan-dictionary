@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacKinnon #12
-
 ## Thread count
 LN/4 R8 G4 B4 R12 G8 R4 B10 G4 R40 G14 LN4 R8 LN/4
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w2r4dg2db2r6dg4r2db5dg2r20dg7w2r4w2~x2/"><circle cx="292.3" cy="141.4" r="4" fill="#3465a4"><title>MacKinnon #12</title></circle></a><a href="/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/"><circle cx="301.8" cy="144.0" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/"><circle cx="310.9" cy="173.3" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="316.8" cy="121.5" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="339.9" cy="161.9" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="259.9" cy="173.5" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s18/k10t1k1r10t1k1t1r10g6r2~x4/"><circle cx="295.4" cy="143.2" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="319.8" cy="126.6" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="298.5" cy="177.2" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="342.4" cy="166.6" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><circle cx="295.0" cy="146.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w2r4dg2db2r6dg4r2db5dg2r20dg7w2r4w2~x2/"><circle cx="291.1" cy="142.0" r="4" fill="#3465a4"><title>MacKinnon #12</title></circle></a><a href="/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/"><circle cx="300.8" cy="144.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s12/r3g3r3g14r3g3r3db5r18ly2r8ly2~x2/"><circle cx="309.9" cy="173.9" r="4" fill="#3465a4"><title>Burns</title></circle></a><a href="/setts/s18/b10r2w2r16g6r1g2r1g3r6~x4/"><circle cx="315.7" cy="121.9" r="4" fill="#3465a4"><title>Harkness Dress</title></circle></a><a href="/setts/s13/r9db2r21t2r2db8r2g2r2g17r2db2r8~x2/"><circle cx="338.9" cy="162.4" r="4" fill="#3465a4"><title>London, Caledonian</title></circle></a><a href="/setts/s11/w2r4dg8r16t2r3dg16r4t2r4w2~x2/"><circle cx="259.0" cy="174.3" r="4" fill="#3465a4"><title>MacKinnon #10</title></circle></a><a href="/setts/s18/k10t1k1r10t1k1t1r10g6r2~x4/"><circle cx="294.5" cy="143.9" r="4" fill="#3465a4"><title>Unidentified (Scolpaig)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="318.8" cy="127.1" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s13/r5b3r24g7db6r3g3r3g11r6db3r3b3~x2/"><circle cx="297.6" cy="177.8" r="4" fill="#3465a4"><title>Dabney Red (Personal)</title></circle></a><a href="/setts/s12/r2g2r2g8r2g2r2db2r11ly1r4ly1~x4/"><circle cx="341.2" cy="167.2" r="4" fill="#3465a4"><title>Burns 1930</title></circle></a><circle cx="293.9" cy="147.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/w2r4g2db2r6g4r2db5g2r20g7w2r4w2~x2/

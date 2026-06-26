@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Braveheart -Warrior (hunting)](/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/)|
-|![Braveheart -Warrior (hunting) example sett](/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dr4~x2/sett.png)|
+| [Braveheart -Warrior (hunting)](/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dri4~x2/)|
+|![Braveheart -Warrior (hunting) example sett](/setts/s12/k43o7k9dp3k3dp3k3g18dr9k3dr4dri4~x2/sett.png)|

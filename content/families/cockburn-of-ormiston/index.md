@@ -2,7 +2,7 @@
 title: "Cockburn of Ormiston"
 date: 2023-03-18
 ---
-A family of [Clan Cockburn](/clan/cockburn/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Ormiston”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Ormiston&viewmode=grid)
 

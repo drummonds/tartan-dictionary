@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westgaard of Kileughtero](/setts/s12/r15w7r10k7w3k3w3r10k5w3k3w3~x2/)|
-|![Westgaard of Kileughtero example sett](/setts/s12/r15w7r10k7w3k3w3r10k5w3k3w3~x2/sett.png)|
+| [Westgaard of Kileughtero](/setts/s12/r15w7r10ki7w3k3w3r10ki5w3k3w3~x2/)|
+|![Westgaard of Kileughtero example sett](/setts/s12/r15w7r10ki7w3k3w3r10ki5w3k3w3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Century 21 (Fashion)](/setts/s11/db2k2db21db1db1db2db1db8dg23ly2r2~x2/)|
-|![Century 21 (Fashion) example sett](/setts/s11/db2k2db21db1db1db2db1db8dg23ly2r2~x2/sett.png)|
+| [Century 21 (Fashion)](/setts/s11/db2k2db21dbi1db1dbi2db1dbi8dg23ly2r2~x2/)|
+|![Century 21 (Fashion) example sett](/setts/s11/db2k2db21dbi1db1dbi2db1dbi8dg23ly2r2~x2/sett.png)|

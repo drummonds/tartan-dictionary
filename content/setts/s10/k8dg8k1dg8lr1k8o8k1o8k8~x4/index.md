@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6918/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 6918
+
 ## Thread count
 K/32 DG32 K4 DG32 N4 K32 LT32 K4 LT32 K/32
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.8" cy="228.5" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.9" cy="201.9" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.6" cy="250.4" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.6" cy="217.9" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.6" cy="250.1" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s7/k7g6w1g6k7db7k1~x4/"><circle cx="152.5" cy="249.0" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.3" cy="257.8" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="148.7" cy="212.4" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.6" cy="206.3" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.5" cy="252.4" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><circle cx="172.6" cy="227.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k7g7k1g7k7t1p7k1~x4/"><circle cx="163.6" cy="229.9" r="4" fill="#3465a4"><title>Wilson's, No 108</title></circle></a><a href="/setts/s10/db9k9db9r2k18g12r2g4r2g4~x2/"><circle cx="149.8" cy="203.2" r="4" fill="#3465a4"><title>Newlands</title></circle></a><a href="/setts/s7/k6g6ly1g6k6p6k1~x4/"><circle cx="137.4" cy="252.1" r="4" fill="#3465a4"><title>Abercrombie, (Wilson's No 64)</title></circle></a><a href="/setts/s13/r3k2db10k10g12k8g12k10g2k10db2k2db2/"><circle cx="184.5" cy="219.3" r="4" fill="#3465a4"><title>Unnamed 5</title></circle></a><a href="/setts/s7/k6g6w1g6k6p6k1~x4/"><circle cx="136.4" cy="251.7" r="4" fill="#3465a4"><title>Wilson's, No 64 or Abercrombie</title></circle></a><a href="/setts/s7/k7g6w1g6k7db7k1~x4/"><circle cx="152.4" cy="250.5" r="4" fill="#3465a4"><title>MacLaggan</title></circle></a><a href="/setts/s7/k6g6r1g6k6db6k1~x2/"><circle cx="141.2" cy="259.4" r="4" fill="#3465a4"><title>MacCallum</title></circle></a><a href="/setts/s10/r3k6r3k6g6k1w1k1g6r1~x2/"><circle cx="148.4" cy="213.8" r="4" fill="#3465a4"><title>MacDiarmid</title></circle></a><a href="/setts/s10/k3db17k20g18w4g18k20db18k2db2~x2/"><circle cx="145.5" cy="207.6" r="4" fill="#3465a4"><title>Argyll, Campbell</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.3" cy="254.0" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><circle cx="172.5" cy="228.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/k8dg8k1dg8lr1k8o8k1o8k8~x4/

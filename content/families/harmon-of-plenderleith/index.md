@@ -2,7 +2,7 @@
 title: "Harmon of Plenderleith"
 date: 2023-03-18
 ---
-A family of [Clan Harmon](/clan/harmon/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Plenderleith”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Plenderleith&viewmode=grid)
 

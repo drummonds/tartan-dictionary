@@ -28,10 +28,10 @@ It is a 6 stripe tartan.
 |![Coburg example sett](/setts/s6/g18t2g4k14dp12k3~x2/sett.png)|
 | [Graham of Menteith](/setts/s6/g8b1g1k6db6k1~x4/)|
 |![Graham of Menteith example sett](/setts/s6/g8b1g1k6db6k1~x4/sett.png)|
-| [Graham of Menteith](/setts/s6/g18t2g4k14db12k3~x2/)|
-|![Graham of Menteith example sett](/setts/s6/g18t2g4k14db12k3~x2/sett.png)|
 | [Graham of Menteith](/setts/s6/dg16b2dg1k12db12k1~x2/)|
 |![Graham of Menteith example sett](/setts/s6/dg16b2dg1k12db12k1~x2/sett.png)|
+| [Graham of Menteith](/setts/s6/g18t2g4k14db12k3~x2/)|
+|![Graham of Menteith example sett](/setts/s6/g18t2g4k14db12k3~x2/sett.png)|
 | [Graham of Menteith (Clan)](/setts/s6/g8t1g1k6db6k1~x4/)|
 |![Graham of Menteith (Clan) example sett](/setts/s6/g8t1g1k6db6k1~x4/sett.png)|
 | [MacArthur of Milton (Clan)](/setts/s6/g7db1g1k4dp4k1~x4/)|

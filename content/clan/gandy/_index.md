@@ -1,8 +1,5 @@
 ---
 title: "Clan Gandy"
-date: 2023-03-18
+redirect: "/families/gandy-of-myrton/"
 ---
-## Families
-
-- [Gandy of Myrton](/families/gandy-of-myrton/)
-
+Clan Gandy is recorded as the single family [Gandy of Myrton](/families/gandy-of-myrton/) — redirecting there.

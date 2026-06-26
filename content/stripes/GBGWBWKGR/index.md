@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Vorwerk, The](/setts/s9/g40db8g8lp8db5lp13k9g40r4/)|
-|![Vorwerk, The example sett](/setts/s9/g40db8g8lp8db5lp13k9g40r4/sett.png)|
+| [Vorwerk, The](/setts/s9/g40dbi8g8lp8db5lp13k9g40r4/)|
+|![Vorwerk, The example sett](/setts/s9/g40dbi8g8lp8db5lp13k9g40r4/sett.png)|

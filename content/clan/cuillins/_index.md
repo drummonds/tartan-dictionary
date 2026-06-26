@@ -1,8 +1,5 @@
 ---
 title: "Clan Cuillins"
-date: 2023-03-18
+redirect: "/families/cuillins-of-skye/"
 ---
-## Families
-
-- [Cuillins of Skye](/families/cuillins-of-skye/)
-
+Clan Cuillins is recorded as the single family [Cuillins of Skye](/families/cuillins-of-skye/) — redirecting there.

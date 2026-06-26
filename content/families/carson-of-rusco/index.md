@@ -2,7 +2,7 @@
 title: "Carson of Rusco"
 date: 2023-03-18
 ---
-A family of [Clan Carson](/clan/carson/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Rusco”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Rusco&viewmode=grid)
 

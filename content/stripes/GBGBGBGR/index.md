@@ -24,14 +24,16 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cranston](/setts/s8/g14t2g2t2g3t6g12r2~x2/)|
-|![Cranston example sett](/setts/s8/g14t2g2t2g3t6g12r2~x2/sett.png)|
-| [Cranstoun](/setts/s8/g14db1g1db1g3db6g12r2~x2/)|
-|![Cranstoun example sett](/setts/s8/g14db1g1db1g3db6g12r2~x2/sett.png)|
-| [Crantock](/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/)|
-|![Crantock example sett](/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/sett.png)|
+| [Cranston](/setts/s8/gi14t2gi2t2gi3t6g12r2~x2/)|
+|![Cranston example sett](/setts/s8/gi14t2gi2t2gi3t6g12r2~x2/sett.png)|
+| [Cranstoun](/setts/s8/gi14db1gi1db1gi3db6g12r2~x2/)|
+|![Cranstoun example sett](/setts/s8/gi14db1gi1db1gi3db6g12r2~x2/sett.png)|
+| [Cranstoun Clan Tartan Tartan Number: 706. Earliest known date: 1842 References: The Setts No: 35. W & A K Johnston, 1906. D.C.Stewart (The Setts of the Scottish Tartans, 1950) would have the light green and dark green transposed but this does not correspond to the Vestiarium Scoticum, the only known source for the tartan. The VS version is shown. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g14db1g1db1g3db6gi12r2~x2/)|
+|![Cranstoun Clan Tartan Tartan Number: 706. Earliest known date: 1842 References: The Setts No: 35. W & A K Johnston, 1906. D.C.Stewart (The Setts of the Scottish Tartans, 1950) would have the light green and dark green transposed but this does not correspond to the Vestiarium Scoticum, the only known source for the tartan. The VS version is shown. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g14db1g1db1g3db6gi12r2~x2/sett.png)|
 | [Crantock](/setts/s8/g24p3g3p3g3p7dg20r3~x2/)|
 |![Crantock example sett](/setts/s8/g24p3g3p3g3p7dg20r3~x2/sett.png)|
+| [Crantock](/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/)|
+|![Crantock example sett](/setts/s8/y24dp3y3dp3y3dp7dg20r3~x2/sett.png)|
 | [Crantock Trade Tartan Tartan Number: 707. Earliest known date: pre 2003 'Poached by Clan Laird from a Yorkshire mill and marketed as 'Crantock''(sic) (Scottish Tartans Society archives.) See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/g24dp3g3dp3g3dp7dg20r3~x2/)|
 |![Crantock Trade Tartan Tartan Number: 707. Earliest known date: pre 2003 'Poached by Clan Laird from a Yorkshire mill and marketed as 'Crantock''(sic) (Scottish Tartans Society archives.) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/g24dp3g3dp3g3dp7dg20r3~x2/sett.png)|
 | [Devarr (Fashion)](/setts/s8/dy31do3dy3do3dy3do22y26r4~x2/)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacHardy](/setts/s8/db1r1g6db6ly1db6r1g1~x2/)|
-|![MacHardy example sett](/setts/s8/db1r1g6db6ly1db6r1g1~x2/sett.png)|
 | [MacHardy](/setts/s8/dg1r1db6ly1db6dg6r1db1~x2/)|
 |![MacHardy example sett](/setts/s8/dg1r1db6ly1db6dg6r1db1~x2/sett.png)|
+| [MacHardy](/setts/s8/db1r1g6db6ly1db6r1g1~x2/)|
+|![MacHardy example sett](/setts/s8/db1r1g6db6ly1db6r1g1~x2/sett.png)|

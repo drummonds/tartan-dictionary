@@ -24,5 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moran (Wedding) (Personal)](/setts/s8/db5m3g2m3g12b34g2w2~x2/)|
-|![Moran (Wedding) (Personal) example sett](/setts/s8/db5m3g2m3g12b34g2w2~x2/sett.png)|
+| [Moran (Drummond) Personal Tartan Tartan Number: 5986. Earliest known date: 2003 A version of the Moran Blue (#3901) for use for the wedding of Julie Drummond and Ian Moran See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/db5m3g2m3gi12b34g2w2~x2/)|
+|![Moran (Drummond) Personal Tartan Tartan Number: 5986. Earliest known date: 2003 A version of the Moran Blue (#3901) for use for the wedding of Julie Drummond and Ian Moran See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/db5m3g2m3gi12b34g2w2~x2/sett.png)|
+| [Moran (Wedding) (Personal)](/setts/s8/db5m3gi2m3g12b34gi2w2~x2/)|
+|![Moran (Wedding) (Personal) example sett](/setts/s8/db5m3gi2m3g12b34gi2w2~x2/sett.png)|

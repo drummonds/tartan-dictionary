@@ -3,7 +3,7 @@ title: 5 stripes tartan setts (page 3)
 date: 2023-03-18
 weight: 5
 ---
-705 setts across 665 tartans with 5 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+706 setts across 688 tartans with 5 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes5/p2/">‹ prev</a> <a href="/stripes/stripes5/">1</a> <a href="/stripes/stripes5/p2/">2</a> <strong>3</strong> </nav>
 
 ### GYBWR
@@ -39,7 +39,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Lagrande](/setts/s5/dg100lo4dg2lo3ly6~x2/) | register-of-tartans |
+| 0.12 | [Lagrande](/setts/s5/dg100loi4dg2lo3ly6~x2/) | register-of-tartans |
 
 ### GYKBR
 <a class="pat" href="/stripes/gykbr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">GYKBR</span></a>
@@ -95,7 +95,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [McTear's Auctioneers](/setts/s5/k2k23k23dt23k2~x2/) | register-of-tartans |
+| 0.12 | [McTear's Auctioneers](/setts/s5/k2ki23k23dt23ki2~x2/) | register-of-tartans |
 
 ### KBRBW
 <a class="pat" href="/stripes/kbrbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KBRBW</span></a>
@@ -158,7 +158,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Raeside](/setts/s5/k6g4g44k41w4~x2/) | register-of-tartans |
+| 0.11 | [Raeside](/setts/s5/k6g4gi44k41w4~x2/) | register-of-tartans |
 
 ### KGGKY
 <a class="pat" href="/stripes/kggky/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KGGKY</span></a>
@@ -193,7 +193,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Novotel, The](/setts/s5/k3r11k26dy11r3~x2/) | register-of-tartans |
+| 0.13 | [Novotel, The](/setts/s5/ki3r11k26dy11ri3~x2/) | register-of-tartans |
 
 ### KRKGY
 <a class="pat" href="/stripes/krkgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KRKGY</span></a>
@@ -221,7 +221,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Lochcarron, Camel (Fashion)](/setts/s5/o12k1o2o1k1~x8/) | tartans-authority |
+| 0.12 | [Lochcarron, Camel (Fashion)](/setts/s5/o12k1o2o1ki1~x8/) | tartans-authority |
 
 ### KRWBY
 <a class="pat" href="/stripes/krwby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KRWBY</span></a>
@@ -452,7 +452,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Wedding (Fashion)](/setts/s5/r2dp30w1lo2r1~x2/) | tartans-authority |
+| 0.12 | [Wedding (Fashion)](/setts/s5/ri2dp30w1lo2r1~x2/) | tartans-authority |
 
 ### RBYGR
 <a class="pat" href="/stripes/rbygr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBYGR</span></a>
@@ -473,7 +473,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Belladrum Estate](/setts/s5/r4dg1y6y3r2~x8/) | register-of-tartans |
+| 0.12 | [Belladrum Estate](/setts/s5/r4dg1yi6y3r2~x8/) | register-of-tartans |
 
 ### RGKRW
 <a class="pat" href="/stripes/rgkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGKRW</span></a>
@@ -508,14 +508,14 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/o60dg13o9o8ly4~x2/) | house-of-tartan |
+| 0.15 | [Ballantyne Personal Tartan Tartan Number: 7563. Earliest known date: 2007 Andrew Ballantyne said, l finally decided to purchase a tartan of my own design. The first kilt was made for my father and he was very pleased with it. The fabric was designed online at House of Tartan and woven by Edgars, Perth. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/o60dg13o9oi8ly4~x2/) | house-of-tartan |
 
 ### RGWGR
 <a class="pat" href="/stripes/rgwgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGWGR</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [MacNab - 1800 (Portrait)](/setts/s5/r96g3lb3g6r95/) | tartans-authority |
+| 0.09 | [MacNab - 1800 (Portrait)](/setts/s5/r96g3lb3g6ri95/) | tartans-authority |
 
 ### RGWKR
 <a class="pat" href="/stripes/rgwkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGWKR</span></a>
@@ -585,7 +585,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacShimsi](/setts/s5/r11r5g5k40ly3~x2/) | register-of-tartans |
+| 0.08 | [MacShimsi](/setts/s5/r11ri5g5k40ly3~x2/) | register-of-tartans |
 
 ### RRKWR
 <a class="pat" href="/stripes/rrkwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RRKWR</span></a>
@@ -599,7 +599,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Love (Fashion)](/setts/s5/r1r4r10lo2w1~x4/) | tartans-authority |
+| 0.12 | [Love (Fashion)](/setts/s5/rii1ri4r10lo2w1~x4/) | tartans-authority |
 
 ### RWBGW
 <a class="pat" href="/stripes/rwbgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWBGW</span></a>
@@ -718,7 +718,7 @@ weight: 5
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [Amber Rose (Fashion)](/setts/s5/w1o6lo4o4lo1~x10/) | tartans-authority |
+| 0.15 | [Amber Rose (Fashion)](/setts/s5/w1o6loi4o4lo1~x10/) | tartans-authority |
 
 ### YBKBY
 <a class="pat" href="/stripes/ybkby/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBKBY</span></a>

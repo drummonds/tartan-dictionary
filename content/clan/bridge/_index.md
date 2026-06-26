@@ -1,8 +1,5 @@
 ---
 title: "Clan Bridge"
-date: 2023-03-18
+redirect: "/families/bridge-of-weir-leather-co/"
 ---
-## Families
-
-- [Bridge of Weir Leather Co.](/families/bridge-of-weir-leather-co/)
-
+Clan Bridge is recorded as the single family [Bridge of Weir Leather Co.](/families/bridge-of-weir-leather-co/) — redirecting there.

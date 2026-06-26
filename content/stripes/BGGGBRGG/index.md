@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Little-Dowse Wedding](/setts/s8/dy31y6o3db31dy8y60y7b7~x2/)|
-|![Little-Dowse Wedding example sett](/setts/s8/dy31y6o3db31dy8y60y7b7~x2/sett.png)|
+| [Little-Dowse Wedding](/setts/s8/dy31y6o3db31dy8yi60y7b7~x2/)|
+|![Little-Dowse Wedding example sett](/setts/s8/dy31y6o3db31dy8yi60y7b7~x2/sett.png)|

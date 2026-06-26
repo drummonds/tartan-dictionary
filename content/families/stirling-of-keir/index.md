@@ -2,7 +2,7 @@
 title: "Stirling of Keir"
 date: 2023-03-18
 ---
-A family of [Clan Stirling](/clan/stirling/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Keir”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Keir&viewmode=grid)
 

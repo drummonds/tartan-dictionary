@@ -24,8 +24,8 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ellan Vannin (1958)](/setts/s7/dp2dg8r1lo1db4db16lb1~x4/)|
-|![Ellan Vannin (1958) example sett](/setts/s7/dp2dg8r1lo1db4db16lb1~x4/sett.png)|
+| [Ellan Vannin (1958)](/setts/s7/dp2dg8r1lo1db4dbi16lb1~x4/)|
+|![Ellan Vannin (1958) example sett](/setts/s7/dp2dg8r1lo1db4dbi16lb1~x4/sett.png)|
 | [Manx National](/setts/s7/b5dg9o2ly2db6t14w3~x4/)|
 |![Manx National example sett](/setts/s7/b5dg9o2ly2db6t14w3~x4/sett.png)|
 | [Manx National #2](/setts/s7/dp8dg31r4lo4db17b64w4/)|

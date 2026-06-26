@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Belladrum Estate](/setts/s5/r4dg1y6y3r2~x8/)|
-|![Belladrum Estate example sett](/setts/s5/r4dg1y6y3r2~x8/sett.png)|
+| [Belladrum Estate](/setts/s5/r4dg1yi6y3r2~x8/)|
+|![Belladrum Estate example sett](/setts/s5/r4dg1yi6y3r2~x8/sett.png)|

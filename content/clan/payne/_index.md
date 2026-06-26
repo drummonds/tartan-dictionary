@@ -1,8 +1,5 @@
 ---
 title: "Clan Payne"
-date: 2023-03-18
+redirect: "/families/payne-of-wallins-creek/"
 ---
-## Families
-
-- [Payne of Wallins Creek](/families/payne-of-wallins-creek/)
-
+Clan Payne is recorded as the single family [Payne of Wallins Creek](/families/payne-of-wallins-creek/) — redirecting there.

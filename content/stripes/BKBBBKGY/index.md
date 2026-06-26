@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Castellari of Lochaber Lairds (Pers](/setts/s8/db2k2dp1db30t1k12dg25lo1~x2/)|
-|![Castellari of Lochaber Lairds (Pers example sett](/setts/s8/db2k2dp1db30t1k12dg25lo1~x2/sett.png)|
+| [Castellari of Lochaber Lairds (Pers](/setts/s8/db2k2dp1dbi30t1k12dg25lo1~x2/)|
+|![Castellari of Lochaber Lairds (Pers example sett](/setts/s8/db2k2dp1dbi30t1k12dg25lo1~x2/sett.png)|

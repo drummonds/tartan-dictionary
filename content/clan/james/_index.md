@@ -1,8 +1,5 @@
 ---
 title: "Clan James"
-date: 2023-03-18
+redirect: "/families/james-of-glencarr/"
 ---
-## Families
-
-- [James of Glencarr](/families/james-of-glencarr/)
-
+Clan James is recorded as the single family [James of Glencarr](/families/james-of-glencarr/) — redirecting there.

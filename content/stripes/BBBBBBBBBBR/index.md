@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Royal Delight](/setts/s11/dp3dp12dp12dp3db18dp3dp2dp3db18dp2r3~x2/)|
-|![Royal Delight example sett](/setts/s11/dp3dp12dp12dp3db18dp3dp2dp3db18dp2r3~x2/sett.png)|
+| [Royal Delight](/setts/s11/dpi3dp12dpi12dp3db18dpi3dp2dpi3db18dp2r3~x2/)|
+|![Royal Delight example sett](/setts/s11/dpi3dp12dpi12dp3db18dpi3dp2dpi3db18dp2r3~x2/sett.png)|

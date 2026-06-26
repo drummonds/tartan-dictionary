@@ -2,7 +2,7 @@
 title: "MacDonnald of ye Ylis"
 date: 2023-03-18
 ---
-A family of [Clan MacDonnald](/clan/macdonnald/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “ye Ylis”](https://www.trove.scot/search?page_type=Designations+Decisions&q=ye+Ylis&viewmode=grid)
 

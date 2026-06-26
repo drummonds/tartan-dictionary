@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Seacliff Academy](/setts/s10/k46w1k3lb4k3db3k2db11k1lb2~x2/)|
-|![Seacliff Academy example sett](/setts/s10/k46w1k3lb4k3db3k2db11k1lb2~x2/sett.png)|
+| [Seacliff Academy](/setts/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2/)|
+|![Seacliff Academy example sett](/setts/s10/k46w1ki3lb4ki3db3ki2db11ki1lb2~x2/sett.png)|

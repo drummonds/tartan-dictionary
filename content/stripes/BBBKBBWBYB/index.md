@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian Heavy Horse](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/)|
-|![Australian Heavy Horse example sett](/setts/s10/n4n2n18k2n5do16w2n2lr2n4~x2/sett.png)|
+| [Australian Heavy Horse](/setts/s10/nii4ni2nii18k2n5do16w2n2lr2nii4~x2/)|
+|![Australian Heavy Horse example sett](/setts/s10/nii4ni2nii18k2n5do16w2n2lr2nii4~x2/sett.png)|

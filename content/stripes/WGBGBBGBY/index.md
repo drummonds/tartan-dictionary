@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Borderland (Fashion)](/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/)|
-|![Scottish Borderland (Fashion) example sett](/setts/s9/lb2dg2n1dg30n10n20dg1n2lo1~x2/sett.png)|
+| [Scottish Borderland (Fashion)](/setts/s9/lb2dg2ni1dg30n10ni20dg1ni2lo1~x2/)|
+|![Scottish Borderland (Fashion) example sett](/setts/s9/lb2dg2ni1dg30n10ni20dg1ni2lo1~x2/sett.png)|

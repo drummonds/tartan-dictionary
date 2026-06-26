@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Myres Castle (Corporate)](/setts/s7/g3dg12dp6g3dp15lo2dp2~x2/)|
-|![Myres Castle (Corporate) example sett](/setts/s7/g3dg12dp6g3dp15lo2dp2~x2/sett.png)|
+| [Myres Castle (Corporate)](/setts/s7/gi3dg12dpi6g3dp15lo2dp2~x2/)|
+|![Myres Castle (Corporate) example sett](/setts/s7/gi3dg12dpi6g3dp15lo2dp2~x2/sett.png)|

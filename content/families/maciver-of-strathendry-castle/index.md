@@ -2,7 +2,7 @@
 title: "Maciver of Strathendry Castle"
 date: 2023-03-18
 ---
-A family of [Clan MacIver](/clan/maciver/).
+A family of [Clan Maciver](/clan/maciver/).
 
 **Trove of Scotland:** [search “Strathendry Castle”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Strathendry+Castle&viewmode=grid)
 

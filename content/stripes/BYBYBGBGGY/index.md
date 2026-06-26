@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Auld Scotland](/setts/s10/dr2lo12dr3lo3dr12y12n12y12y1ly2~x2/)|
-|![Auld Scotland example sett](/setts/s10/dr2lo12dr3lo3dr12y12n12y12y1ly2~x2/sett.png)|
+| [Auld Scotland](/setts/s10/dr2lo12dr3lo3dr12yi12n12y12yi1ly2~x2/)|
+|![Auld Scotland example sett](/setts/s10/dr2lo12dr3lo3dr12yi12n12y12yi1ly2~x2/sett.png)|

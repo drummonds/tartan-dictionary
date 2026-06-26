@@ -1,8 +1,5 @@
 ---
 title: "Clan Montrose"
-date: 2023-03-18
+redirect: "/families/montrose-of-alabama/"
 ---
-## Families
-
-- [Montrose of Alabama](/families/montrose-of-alabama/)
-
+Clan Montrose is recorded as the single family [Montrose of Alabama](/families/montrose-of-alabama/) — redirecting there.

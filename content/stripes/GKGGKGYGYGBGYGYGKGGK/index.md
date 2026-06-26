@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wagga Wagga](/setts/s20/g16k6g16g32k2dy7ly2dy7ly2dy7b13/)|
-|![Wagga Wagga example sett](/setts/s20/g16k6g16g32k2dy7ly2dy7ly2dy7b13/sett.png)|
+| [Wagga Wagga](/setts/s20/gi16k6gi16g32k2dy7ly2dy7ly2dy7b13/)|
+|![Wagga Wagga example sett](/setts/s20/gi16k6gi16g32k2dy7ly2dy7ly2dy7b13/sett.png)|

@@ -26,5 +26,5 @@ It is a 11 stripe tartan.
 |---------------|
 | [Carnegie of Skibo (Corporate)](/setts/s11/w3db5t2db9dp10k2dp5k2dg8g29w2~x2/)|
 |![Carnegie of Skibo (Corporate) example sett](/setts/s11/w3db5t2db9dp10k2dp5k2dg8g29w2~x2/sett.png)|
-| [Inverclyde, Green (Corporate)](/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/)|
-|![Inverclyde, Green (Corporate) example sett](/setts/s11/w3db5b2db9dp10k2dp4k2g10g33w2~x2/sett.png)|
+| [Inverclyde, Green (Corporate)](/setts/s11/w3db5b2db9dp10k2dp4k2gi10g33w2~x2/)|
+|![Inverclyde, Green (Corporate) example sett](/setts/s11/w3db5b2db9dp10k2dp4k2gi10g33w2~x2/sett.png)|

@@ -24,6 +24,12 @@ This cloth is also recorded under:
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3843
+
 ## Thread count
 Y/16 K4 R120 K60 R96 K8 R16 K/4
 ![Sett](sett.png)
@@ -43,8 +49,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="488.6" cy="155.4" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="561.0" cy="132.5" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/setts/s8/k22w1k12r43w1~x2/"><circle cx="450.0" cy="136.4" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/"><circle cx="502.1" cy="129.2" r="4" fill="#3465a4"><title>Oilmens</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="488.9" cy="173.0" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s7/r3dg16r4k6r28dg1r3~x2/"><circle cx="428.6" cy="156.0" r="4" fill="#3465a4"><title>Maxwell Ancient</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="435.5" cy="115.7" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="453.9" cy="165.9" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="463.5" cy="145.3" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="493.6" cy="143.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="486.9" cy="156.0" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s8/r20k1ly3k1r60k30r48k4~x2/"><circle cx="559.2" cy="132.7" r="4" fill="#3465a4"><title>Barkwell (Personal)</title></circle></a><a href="/setts/s8/k22w1k12r43w1~x2/"><circle cx="448.6" cy="136.9" r="4" fill="#3465a4"><title>Knights Templar Hunting</title></circle></a><a href="/setts/s14/r4k2r24k15r30k1ly4k1r30k15r24k2r4k1~x4/"><circle cx="500.5" cy="129.4" r="4" fill="#3465a4"><title>Oilmens</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="487.3" cy="173.4" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="516.5" cy="117.3" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s7/r3dg16r4k6r28dg1r3~x2/"><circle cx="427.3" cy="156.5" r="4" fill="#3465a4"><title>Maxwell Ancient</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="433.9" cy="116.1" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s6/r5db10r5dg5r25ly1~x4/"><circle cx="452.5" cy="166.4" r="4" fill="#3465a4"><title>AON</title></circle></a><a href="/setts/s9/g4r32db9r6db2r3db2r12w3~x2/"><circle cx="461.9" cy="145.7" r="4" fill="#3465a4"><title>Rose</title></circle></a><circle cx="491.9" cy="144.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/ly4k1r30k15r24k2r4k1~x4/

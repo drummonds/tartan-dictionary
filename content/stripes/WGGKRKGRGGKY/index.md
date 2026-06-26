@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walsh (Name)](/setts/s12/w1g12g1k2m2k1g16r1g16g1k1ly1~x2/)|
-|![Walsh (Name) example sett](/setts/s12/w1g12g1k2m2k1g16r1g16g1k1ly1~x2/sett.png)|
+| [Walsh (Name)](/setts/s12/w1g12gi1k2m2k1gi16r1gi16g1k1ly1~x2/)|
+|![Walsh (Name) example sett](/setts/s12/w1g12gi1k2m2k1gi16r1gi16g1k1ly1~x2/sett.png)|

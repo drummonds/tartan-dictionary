@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heritage](/setts/s12/y24k24db24k5db8r5db8k5db24k24y24y5~x2/)|
-|![Heritage example sett](/setts/s12/y24k24db24k5db8r5db8k5db24k24y24y5~x2/sett.png)|
+| [Heritage](/setts/s12/yi24k24db24k5db8r5db8k5db24k24yi24y5~x2/)|
+|![Heritage example sett](/setts/s12/yi24k24db24k5db8r5db8k5db24k24yi24y5~x2/sett.png)|

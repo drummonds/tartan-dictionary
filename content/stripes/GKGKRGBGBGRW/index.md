@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tweedbank](/setts/s12/w4r8g1db4g1db4g1r25k25g2k1g2~x2/)|
-|![Tweedbank example sett](/setts/s12/w4r8g1db4g1db4g1r25k25g2k1g2~x2/sett.png)|
+| [Tweedbank](/setts/s12/w4ri8g1db4g1db4g1r25k25g2k1g2~x2/)|
+|![Tweedbank example sett](/setts/s12/w4ri8g1db4g1db4g1r25k25g2k1g2~x2/sett.png)|

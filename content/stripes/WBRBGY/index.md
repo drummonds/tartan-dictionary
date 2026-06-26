@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Atlantic, Ancient](/setts/s6/w3db17o16db2dg17ly2~x2/)|
-|![Atlantic, Ancient example sett](/setts/s6/w3db17o16db2dg17ly2~x2/sett.png)|
+| [Atlantic, Ancient](/setts/s6/w3db17o16dbi2dg17ly2~x2/)|
+|![Atlantic, Ancient example sett](/setts/s6/w3db17o16dbi2dg17ly2~x2/sett.png)|

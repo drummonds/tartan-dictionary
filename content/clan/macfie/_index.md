@@ -1,8 +1,5 @@
 ---
 title: "Clan MacFie"
-date: 2023-03-18
+redirect: "/families/macfie-of-colonsay/"
 ---
-## Families
-
-- [MacFie of Colonsay](/families/macfie-of-colonsay/)
-
+Clan MacFie is recorded as the single family [MacFie of Colonsay](/families/macfie-of-colonsay/) — redirecting there.

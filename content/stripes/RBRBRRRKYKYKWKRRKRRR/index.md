@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Westwood Red Anderson (Fashion)](/setts/s20/r5b6r2b9r4r6r4k5lo2k2lo2k5w5k5r23r1k2r1r5r4~x2/)|
-|![Westwood Red Anderson (Fashion) example sett](/setts/s20/r5b6r2b9r4r6r4k5lo2k2lo2k5w5k5r23r1k2r1r5r4~x2/sett.png)|
+| [Westwood Red Anderson (Fashion)](/setts/s20/ri5b6ri2b9ri4r6ri4k5lo2k2lo2k5w5k5r23ri1k2ri1r5ri4~x2/)|
+|![Westwood Red Anderson (Fashion) example sett](/setts/s20/ri5b6ri2b9ri4r6ri4k5lo2k2lo2k5w5k5r23ri1k2ri1r5ri4~x2/sett.png)|

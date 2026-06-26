@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mack of Stoneywood Hunting (Pers.)](/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/)|
-|![Mack of Stoneywood Hunting (Pers.) example sett](/setts/s11/dg18dg4t1dg5dg6dg3k1dy6k1dg25t1~x2/sett.png)|
-| [Mack of Stoneywood Hunting (Personal)](/setts/s11/dg18dg4b1dg5dg6dg3k1dy6k1dg25b1~x2/)|
-|![Mack of Stoneywood Hunting (Personal) example sett](/setts/s11/dg18dg4b1dg5dg6dg3k1dy6k1dg25b1~x2/sett.png)|
+| [Mack of Stoneywood Hunting (Pers.)](/setts/s11/dg18dgi4t1dgi5dg6dgi3k1dy6k1dgi25t1~x2/)|
+|![Mack of Stoneywood Hunting (Pers.) example sett](/setts/s11/dg18dgi4t1dgi5dg6dgi3k1dy6k1dgi25t1~x2/sett.png)|
+| [Mack of Stoneywood Hunting (Personal)](/setts/s11/dg18dgi4b1dgi5dg6dgi3k1dy6k1dgi25b1~x2/)|
+|![Mack of Stoneywood Hunting (Personal) example sett](/setts/s11/dg18dgi4b1dgi5dg6dgi3k1dy6k1dgi25b1~x2/sett.png)|

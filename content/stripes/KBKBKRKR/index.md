@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Laird Abdullah (Personal)](/setts/s8/k10n2k2n8k40r4k5r2~x2/)|
-|![Laird Abdullah (Personal) example sett](/setts/s8/k10n2k2n8k40r4k5r2~x2/sett.png)|
+| [Laird Abdullah (Personal)](/setts/s8/k10n2k2n8k40r4k5ri2~x2/)|
+|![Laird Abdullah (Personal) example sett](/setts/s8/k10n2k2n8k40r4k5ri2~x2/sett.png)|

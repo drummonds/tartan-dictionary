@@ -24,8 +24,8 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Waterford](/setts/s6/g42ly2g16db7dr16r5~x2/)|
-|![Waterford example sett](/setts/s6/g42ly2g16db7dr16r5~x2/sett.png)|
+| [Waterford](/setts/s6/g42ly2gi16db7dr16r5~x2/)|
+|![Waterford example sett](/setts/s6/g42ly2gi16db7dr16r5~x2/sett.png)|
 | [Waterford, County](/setts/s6/dg42lo2y16db7do16r5~x2/)|
 |![Waterford, County example sett](/setts/s6/dg42lo2y16db7do16r5~x2/sett.png)|
 | [Waterford, County (District)](/setts/s6/dg24lo2y16db7do16r5~x2/)|

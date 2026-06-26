@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urquhart](/setts/s9/r3g6k1g1k1g1k6g9k2~x2/)|
-|![Urquhart example sett](/setts/s9/r3g6k1g1k1g1k6g9k2~x2/sett.png)|
+| [Urquhart](/setts/s9/r3g6k1g1k1g1k6gi9k2~x2/)|
+|![Urquhart example sett](/setts/s9/r3g6k1g1k1g1k6gi9k2~x2/sett.png)|

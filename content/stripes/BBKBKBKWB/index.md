@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Chinzei Keiai Junior High School](/setts/s9/n3lp3k16n2k2n16k3n2n2~x2/)|
-|![Chinzei Keiai Junior High School example sett](/setts/s9/n3lp3k16n2k2n16k3n2n2~x2/sett.png)|
+| [Chinzei Keiai Junior High School](/setts/s9/ni3lp3k16ni2k2ni16k3ni2n2~x2/)|
+|![Chinzei Keiai Junior High School example sett](/setts/s9/ni3lp3k16ni2k2ni16k3ni2n2~x2/sett.png)|

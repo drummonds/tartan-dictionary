@@ -26,3 +26,5 @@ It is a 10 stripe tartan.
 |---------------|
 | [Dutch Friendship](/setts/s10/k3dy14o4dy9o14k14y14y14k1n3~x2/)|
 |![Dutch Friendship example sett](/setts/s10/k3dy14o4dy9o14k14y14y14k1n3~x2/sett.png)|
+| [Dutch Friendship (Fashion)](/setts/s10/k3dy14o4dy9o14k14y14yi14k1n3~x2/)|
+|![Dutch Friendship (Fashion) example sett](/setts/s10/k3dy14o4dy9o14k14y14yi14k1n3~x2/sett.png)|

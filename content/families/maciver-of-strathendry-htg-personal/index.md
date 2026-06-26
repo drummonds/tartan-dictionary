@@ -2,7 +2,7 @@
 title: "MacIver of Strathendry Htg (Personal"
 date: 2023-03-18
 ---
-A family of [Clan MacIver](/clan/maciver/).
+A family of [Clan Maciver](/clan/maciver/).
 
 **Trove of Scotland:** [search “Strathendry Htg (Personal”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Strathendry+Htg+%28Personal&viewmode=grid)
 

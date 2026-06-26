@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bristol Gramar School Check (School)](/setts/s6/r4n3n12db8n2r4/)|
-|![Bristol Gramar School Check (School) example sett](/setts/s6/r4n3n12db8n2r4/sett.png)|
+| [Bristol Gramar School Check (School)](/setts/s6/r4ni3n12db8ni2r4/)|
+|![Bristol Gramar School Check (School) example sett](/setts/s6/r4ni3n12db8ni2r4/sett.png)|
 | [St. Edmunds (School)](/setts/s6/r4b3t11db8b2r4/)|
 |![St. Edmunds (School) example sett](/setts/s6/r4b3t11db8b2r4/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maxem Eyewear](/setts/s16/k8do78k8y8k4y4k4do13y1do4k4w4k4do52k4y1~x4/)|
-|![Maxem Eyewear example sett](/setts/s16/k8do78k8y8k4y4k4do13y1do4k4w4k4do52k4y1~x4/sett.png)|
+| [Maxem Eyewear](/setts/s16/k8do78k8yi8k4yi4k4do13y1do4k4w4k4do52k4y1~x4/)|
+|![Maxem Eyewear example sett](/setts/s16/k8do78k8yi8k4yi4k4do13y1do4k4w4k4do52k4y1~x4/sett.png)|

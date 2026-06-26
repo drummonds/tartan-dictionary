@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7134/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7134
+
 ## Thread count
 K/14 LB6 G36 DB36 LN/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4b2g13db13w2~x4/"><circle cx="170.3" cy="235.6" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/setts/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.4" cy="208.8" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/db20k6lo4db3g20w2~x2/"><circle cx="206.8" cy="203.1" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s5/k2ly1g10db10w1~x6/"><circle cx="215.6" cy="204.5" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/setts/s6/r3k2g20k10b20ly2~x2/"><circle cx="169.5" cy="202.8" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s5/k7r3g30db28lb3~x2/"><circle cx="222.4" cy="213.7" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/setts/s5/k7m3g29db29w3~x2/"><circle cx="198.4" cy="204.9" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/setts/s6/g2b22r2k21g23ly2~x2/"><circle cx="175.6" cy="199.3" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="165.2" cy="225.1" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s6/k2g17k16r2db17w2~x2/"><circle cx="151.3" cy="213.2" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><circle cx="167.9" cy="220.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/k4b2g13db13w2~x4/"><circle cx="170.2" cy="236.9" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/setts/s6/lr4g24db10r3db12lo4~x2/"><circle cx="183.1" cy="210.0" r="4" fill="#3465a4"><title>Inglis (Name)</title></circle></a><a href="/setts/s6/db20k6lo4db3g20w2~x2/"><circle cx="206.6" cy="204.1" r="4" fill="#3465a4"><title>DeLoughery (Personal)</title></circle></a><a href="/setts/s5/k2ly1g10db10w1~x6/"><circle cx="215.3" cy="205.6" r="4" fill="#3465a4"><title>Turnbull Hunting (1983) #2</title></circle></a><a href="/setts/s6/r3k2g20k10b20ly2~x2/"><circle cx="169.4" cy="203.8" r="4" fill="#3465a4"><title>MacLeod of Assynt</title></circle></a><a href="/setts/s5/k7r3g30db28lb3~x2/"><circle cx="222.2" cy="214.8" r="4" fill="#3465a4"><title>Highlander Highland Laddie</title></circle></a><a href="/setts/s5/k7m3g29db29w3~x2/"><circle cx="198.1" cy="205.9" r="4" fill="#3465a4"><title>Highlander, Highland Laddie Kilts</title></circle></a><a href="/setts/s6/g2b22r2k21g23ly2~x2/"><circle cx="175.5" cy="200.3" r="4" fill="#3465a4"><title>Royal Ashburn Golf Club</title></circle></a><a href="/setts/s5/k7lt3dg18db18w2~x2/"><circle cx="165.3" cy="226.4" r="4" fill="#3465a4"><title>Bhatti</title></circle></a><a href="/setts/s6/k2g17k16r2db17w2~x2/"><circle cx="151.3" cy="214.5" r="4" fill="#3465a4"><title>Galbraith</title></circle></a><circle cx="167.8" cy="221.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/k7lb3g18db18w2~x2/

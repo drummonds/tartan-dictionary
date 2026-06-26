@@ -2,7 +2,7 @@
 title: "MacGill of Jura"
 date: 2023-03-18
 ---
-A family of [Clan MacGill](/clan/macgill/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Jura”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Jura&viewmode=grid)
 

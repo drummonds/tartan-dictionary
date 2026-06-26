@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rhys of Wales](/setts/s18/db46db17db5db7db7lo15db3lo3db6lo3db3lo15db7db7db5db17db46w4/)|
-|![Rhys of Wales example sett](/setts/s18/db46db17db5db7db7lo15db3lo3db6lo3db3lo15db7db7db5db17db46w4/sett.png)|
+| [Rhys of Wales](/setts/s18/dbi46db17dbi5db7dbi7lo15db3lo3db6lo3db3lo15dbi7db7dbi5db17dbi46w4/)|
+|![Rhys of Wales example sett](/setts/s18/dbi46db17dbi5db7dbi7lo15db3lo3db6lo3db3lo15dbi7db7dbi5db17dbi46w4/sett.png)|

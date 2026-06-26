@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4233/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4233
+
 ## Thread count
 G/12 LP24 P6 W2 P12 LP8 W2 LP8 P12 W2 K56 G10 W/2
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/y6lb12db3w1db6lb4w1lb4db6w1k27y5w2~x2/"><circle cx="163.1" cy="89.1" r="4" fill="#3465a4"><title>Willox</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="149.2" cy="85.5" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="163.2" cy="96.2" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s12/db17r6lo2r6k2w2k2w10k1w2k1lo3~x2/"><circle cx="114.1" cy="103.3" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/setts/s10/db4k4db23k12g10k1w23dp2w2dp4~x2/"><circle cx="134.4" cy="114.3" r="4" fill="#3465a4"><title>Baird Dress</title></circle></a><a href="/setts/s15/r20b36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2/"><circle cx="177.7" cy="92.9" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="191.1" cy="77.4" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.6" cy="104.3" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/"><circle cx="206.7" cy="87.3" r="4" fill="#3465a4"><title>Submariners (Unofficial)</title></circle></a><a href="/setts/s10/db4k4db23k12g10k1w23p2w2p4~x2/"><circle cx="127.1" cy="112.0" r="4" fill="#3465a4"><title>Baird, dress</title></circle></a><circle cx="177.4" cy="83.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/y6lb12db3w1db6lb4w1lb4db6w1k27y5w2~x2/"><circle cx="162.6" cy="89.8" r="4" fill="#3465a4"><title>Willox</title></circle></a><a href="/setts/s14/w4k1dg10k1db7k1w4k1db5k1db2k1r20k2~x4/"><circle cx="148.6" cy="86.2" r="4" fill="#3465a4"><title>Unnamed - C19th (Annie Oakley)</title></circle></a><a href="/setts/s13/db15lb2w8lb2db42k42r42w8r4w4r4w4r10~x2/"><circle cx="162.5" cy="96.9" r="4" fill="#3465a4"><title>American St Andrews Societies</title></circle></a><a href="/setts/s12/db17r6lo2r6k2w2k2w10k1w2k1lo3~x2/"><circle cx="113.5" cy="104.2" r="4" fill="#3465a4"><title>Chieftain, The</title></circle></a><a href="/setts/s10/db4k4db23k12g10k1w23dp2w2dp4~x2/"><circle cx="133.9" cy="115.2" r="4" fill="#3465a4"><title>Baird Dress</title></circle></a><a href="/setts/s15/r20b36r4k2t7k4r2k2w3k2r3k4t7k13r20~x2/"><circle cx="177.0" cy="93.6" r="4" fill="#3465a4"><title>MacDougall #7</title></circle></a><a href="/setts/s14/w4k1db24k1r8w2dg8w2db8k1ly2k8ly2k1~x2/"><circle cx="190.5" cy="77.9" r="4" fill="#3465a4"><title>South Africa</title></circle></a><a href="/setts/s14/w4db20k1g2k1g2k4g1w2g1k4g16dp8g1~x2/"><circle cx="169.3" cy="104.9" r="4" fill="#3465a4"><title>St Andrew</title></circle></a><a href="/setts/s14/w4dt1db12dt1r8w8dt8w2dt1w2dt24ly4dt1r2~x2/"><circle cx="205.9" cy="87.9" r="4" fill="#3465a4"><title>Submariners (Unofficial)</title></circle></a><a href="/setts/s10/db4k4db23k12g10k1w23p2w2p4~x2/"><circle cx="126.6" cy="112.8" r="4" fill="#3465a4"><title>Baird, dress</title></circle></a><circle cx="176.9" cy="83.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/y6lb12dp3w1dp6lb4w1lb4dp6w1k28y5w1~x2/

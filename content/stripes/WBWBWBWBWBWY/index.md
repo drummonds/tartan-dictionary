@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Moskyok-Collins (Portland) (Personal](/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/)|
-|![Moskyok-Collins (Portland) (Personal example sett](/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/sett.png)|
+| [Moskyok-Collins (Portland) (Personal](/setts/s12/ly6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2/)|
+|![Moskyok-Collins (Portland) (Personal example sett](/setts/s12/ly6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2/sett.png)|

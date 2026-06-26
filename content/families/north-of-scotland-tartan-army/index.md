@@ -2,7 +2,7 @@
 title: "North of Scotland Tartan Army"
 date: 2023-03-18
 ---
-A family of [Clan North](/clan/north/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Scotland Tartan Army”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Scotland+Tartan+Army&viewmode=grid)
 

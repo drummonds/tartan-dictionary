@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4902/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4902
+
 ## Thread count
 LT/20 LP4 G6 LP4 K48 LP8 K8 LT68 K4 LP6 K/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/"><circle cx="260.0" cy="141.9" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="337.8" cy="116.7" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="260.0" cy="144.3" r="4" fill="#3465a4"><title>Glen Tilt</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="340.8" cy="116.9" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/"><circle cx="286.8" cy="157.2" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="261.7" cy="148.5" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/setts/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="284.9" cy="127.5" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="307.1" cy="118.2" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="268.1" cy="161.1" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s8/g18w3ly1r2ly1r3ly1r10~x4/"><circle cx="282.8" cy="138.0" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><circle cx="298.4" cy="127.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/w1dg1r1dg14r1db6r11dg1r1w1~x4/"><circle cx="259.3" cy="142.5" r="4" fill="#3465a4"><title>Unidentified Specimen #2</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="336.8" cy="117.1" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s10/w1r1g1r11db6r1g14r1g1w1~x4/"><circle cx="259.2" cy="144.9" r="4" fill="#3465a4"><title>Glen Tilt</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="339.9" cy="117.3" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s10/o15y1o2lo2o2y1o3k8y10o3~x4/"><circle cx="286.0" cy="157.9" r="4" fill="#3465a4"><title>Annan</title></circle></a><a href="/setts/s10/dg5r4dg17lt5r32lt5dg17r4dg5w2~x2/"><circle cx="260.8" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.005</title></circle></a><a href="/setts/s13/w1g2r18db2r2db18r2g18r2db2r18g2w1~x2/"><circle cx="284.0" cy="128.1" r="4" fill="#3465a4"><title>Robertson 1820 - White line</title></circle></a><a href="/setts/s9/g71k4r4dp9r4dp4r36dp4w4/"><circle cx="306.2" cy="118.5" r="4" fill="#3465a4"><title>Rattray</title></circle></a><a href="/setts/s8/do2lr2k6do3k2o14k1o1~x4/"><circle cx="267.4" cy="161.8" r="4" fill="#3465a4"><title>Blair Atholl (Fashion)</title></circle></a><a href="/setts/s8/g18w3ly1r2ly1r3ly1r10~x4/"><circle cx="281.7" cy="138.5" r="4" fill="#3465a4"><title>Brisbane (Artefact)</title></circle></a><circle cx="297.5" cy="127.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o10lb2lg3lb2do24lb4do4o34do2lb3do2~x2/

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Canals (Corporate)](/setts/s7/g2db1db29db2g9db26ly2~x2/)|
-|![Scottish Canals (Corporate) example sett](/setts/s7/g2db1db29db2g9db26ly2~x2/sett.png)|
+| [Scottish Canals (Corporate)](/setts/s7/g2db1dbi29db2g9db26ly2~x2/)|
+|![Scottish Canals (Corporate) example sett](/setts/s7/g2db1dbi29db2g9db26ly2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kilmarnock Football Club (2005)](/setts/s20/db28db11db8db15dp3db3dp3db4w3db4w3db4dp3db3dp3db15db8db11db28ly2~x2/)|
-|![Kilmarnock Football Club (2005) example sett](/setts/s20/db28db11db8db15dp3db3dp3db4w3db4w3db4dp3db3dp3db15db8db11db28ly2~x2/sett.png)|
+| [Kilmarnock Football Club (2005)](/setts/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/)|
+|![Kilmarnock Football Club (2005) example sett](/setts/s20/db28dbi11db8dbi15dp3dbi3dp3dbi4w3dbi4w3dbi4dp3dbi3dp3dbi15db8dbi11db28ly2~x2/sett.png)|

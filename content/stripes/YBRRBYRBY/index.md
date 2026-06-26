@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Village](/setts/s9/ly2do1o10o12do10ly6o10do1ly2~x4/)|
-|![Highland Village example sett](/setts/s9/ly2do1o10o12do10ly6o10do1ly2~x4/sett.png)|
+| [Highland Village](/setts/s9/ly2do1oi10o12do10ly6oi10do1ly2~x4/)|
+|![Highland Village example sett](/setts/s9/ly2do1oi10o12do10ly6oi10do1ly2~x4/sett.png)|

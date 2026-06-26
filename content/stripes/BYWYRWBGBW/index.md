@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Hawaii (Fashion)](/setts/s10/lb49dt25g16dt4lb3r8lo4lb18lo1dt9~x2/)|
-|![State Seal of Hawaii (Fashion) example sett](/setts/s10/lb49dt25g16dt4lb3r8lo4lb18lo1dt9~x2/sett.png)|
+| [State Seal of Hawaii (Fashion)](/setts/s10/lb49dt25g16dt4lbi3r8lo4lb18lo1dt9~x2/)|
+|![State Seal of Hawaii (Fashion) example sett](/setts/s10/lb49dt25g16dt4lbi3r8lo4lb18lo1dt9~x2/sett.png)|

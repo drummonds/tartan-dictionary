@@ -2,7 +2,7 @@
 title: "Fletcher of Dunans"
 date: 2023-03-18
 ---
-A family of [Clan Fletcher](/clan/fletcher/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Dunans”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dunans&viewmode=grid)
 

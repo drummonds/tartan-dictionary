@@ -2,7 +2,7 @@
 title: "Thomas of Craigie"
 date: 2023-03-18
 ---
-A family of [Clan Thomas](/clan/thomas/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Craigie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Craigie&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nocken (Personal)](/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/)|
-|![Nocken (Personal) example sett](/setts/s9/lb3k6lb2k6db2k2db32k2n1~x2/sett.png)|
+| [Nocken (Personal)](/setts/s9/lb3k6lbi2k6db2k2db32k2n1~x2/)|
+|![Nocken (Personal) example sett](/setts/s9/lb3k6lbi2k6db2k2db32k2n1~x2/sett.png)|

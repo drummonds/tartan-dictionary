@@ -1,8 +1,5 @@
 ---
 title: "Clan Jorgensen"
-date: 2023-03-18
+redirect: "/families/jorgensen-of-taasinge/"
 ---
-## Families
-
-- [Jorgensen of Taasinge](/families/jorgensen-of-taasinge/)
-
+Clan Jorgensen is recorded as the single family [Jorgensen of Taasinge](/families/jorgensen-of-taasinge/) — redirecting there.

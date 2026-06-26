@@ -1,8 +1,5 @@
 ---
 title: "Clan Hannigan"
-date: 2023-03-18
+redirect: "/families/hannigan-of-dirleton/"
 ---
-## Families
-
-- [Hannigan of Dirleton](/families/hannigan-of-dirleton/)
-
+Clan Hannigan is recorded as the single family [Hannigan of Dirleton](/families/hannigan-of-dirleton/) — redirecting there.

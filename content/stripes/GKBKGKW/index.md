@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marchant](/setts/s7/dg15k8db15k8dg23k8w3~x2/)|
-|![Marchant example sett](/setts/s7/dg15k8db15k8dg23k8w3~x2/sett.png)|
+| [Marchant](/setts/s7/dg15ki8db15ki8dg23k8w3~x2/)|
+|![Marchant example sett](/setts/s7/dg15ki8db15ki8dg23k8w3~x2/sett.png)|

@@ -24,7 +24,9 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cranston Dress](/setts/s8/r15db2r1db2r3db7g13g3~x2/)|
-|![Cranston Dress example sett](/setts/s8/r15db2r1db2r3db7g13g3~x2/sett.png)|
-| [Cranston, dress](/setts/s8/r30db3r2db3r6db14g26g6/)|
-|![Cranston, dress example sett](/setts/s8/r30db3r2db3r6db14g26g6/sett.png)|
+| [Cranston Dress](/setts/s8/r15db2r1db2r3db7g13gi3~x2/)|
+|![Cranston Dress example sett](/setts/s8/r15db2r1db2r3db7g13gi3~x2/sett.png)|
+| [Cranston Dress Family Tartan Tartan Number: 753. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s8/r30db3r2db3r6db14g26gi6/)|
+|![Cranston Dress Family Tartan Tartan Number: 753. Earliest known date: pre 2003 Restricted See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s8/r30db3r2db3r6db14g26gi6/sett.png)|
+| [Cranston, dress](/setts/s8/r30db3r2db3r6db14gi26g6/)|
+|![Cranston, dress example sett](/setts/s8/r30db3r2db3r6db14gi26g6/sett.png)|

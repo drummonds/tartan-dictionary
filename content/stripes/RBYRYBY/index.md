@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manhattan Ethnic](/setts/s7/lo36do15lo9r31lo5do4r16~x2/)|
-|![Manhattan Ethnic example sett](/setts/s7/lo36do15lo9r31lo5do4r16~x2/sett.png)|
+| [Manhattan Ethnic](/setts/s7/loi36do15loi9r31lo5do4r16~x2/)|
+|![Manhattan Ethnic example sett](/setts/s7/loi36do15loi9r31lo5do4r16~x2/sett.png)|

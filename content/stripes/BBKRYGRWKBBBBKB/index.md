@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Euler Hermes](/setts/s15/b86b6k24o6lo6g6r6lb6k4b22b6b8b8k3b8/)|
-|![Euler Hermes example sett](/setts/s15/b86b6k24o6lo6g6r6lb6k4b22b6b8b8k3b8/sett.png)|
+| [Euler Hermes](/setts/s15/bi86b6k24o6lo6g6r6lb6k4b22bi6b8bi8k3b8/)|
+|![Euler Hermes example sett](/setts/s15/bi86b6k24o6lo6g6r6lb6k4b22bi6b8bi8k3b8/sett.png)|

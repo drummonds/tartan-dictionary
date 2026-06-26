@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacRae, Special Hunting](/setts/s8/dg18db2dg5r2dg5k21k20k5~x2/)|
-|![MacRae, Special Hunting example sett](/setts/s8/dg18db2dg5r2dg5k21k20k5~x2/sett.png)|
+| [MacRae, Special Hunting](/setts/s8/dg18db2dg5r2dg5ki21k20ki5~x2/)|
+|![MacRae, Special Hunting example sett](/setts/s8/dg18db2dg5r2dg5ki21k20ki5~x2/sett.png)|

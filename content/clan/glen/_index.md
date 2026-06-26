@@ -1,8 +1,5 @@
 ---
 title: "Clan Glen"
-date: 2023-03-18
+redirect: "/families/glen-of-daviot/"
 ---
-## Families
-
-- [Glen of Daviot](/families/glen-of-daviot/)
-
+Clan Glen is recorded as the single family [Glen of Daviot](/families/glen-of-daviot/) — redirecting there.

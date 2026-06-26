@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of the Nation (Fashion)](/setts/s8/t12db6t50db39p12dp6p6w4/)|
-|![Pride of the Nation (Fashion) example sett](/setts/s8/t12db6t50db39p12dp6p6w4/sett.png)|
+| [Pride of the Nation (Fashion)](/setts/s8/t12db6t50dbi39p12dp6p6w4/)|
+|![Pride of the Nation (Fashion) example sett](/setts/s8/t12db6t50dbi39p12dp6p6w4/sett.png)|

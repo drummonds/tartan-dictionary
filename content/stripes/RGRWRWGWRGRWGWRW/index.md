@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sekai Fushigi Hakken](/setts/s16/w18r2w3dg2w27r3dg2r3w27dg2w3r2w18r3dg2r3~x2/)|
-|![Sekai Fushigi Hakken example sett](/setts/s16/w18r2w3dg2w27r3dg2r3w27dg2w3r2w18r3dg2r3~x2/sett.png)|
+| [Sekai Fushigi Hakken](/setts/s16/w18rii2w3dg2w27ri3dg2r3w27dg2w3rii2w18r3dg2ri3~x2/)|
+|![Sekai Fushigi Hakken example sett](/setts/s16/w18rii2w3dg2w27ri3dg2r3w27dg2w3rii2w18r3dg2ri3~x2/sett.png)|

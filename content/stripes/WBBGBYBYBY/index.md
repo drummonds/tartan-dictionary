@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leitrem County Crest (Fashion)](/setts/s10/lo10db24lo5db13lo24db5g52db5db18w8/)|
-|![Leitrem County Crest (Fashion) example sett](/setts/s10/lo10db24lo5db13lo24db5g52db5db18w8/sett.png)|
+| [Leitrem County Crest (Fashion)](/setts/s10/lo10dbi24lo5dbi13lo24dbi5g52dbi5db18w8/)|
+|![Leitrem County Crest (Fashion) example sett](/setts/s10/lo10dbi24lo5dbi13lo24dbi5g52dbi5db18w8/sett.png)|

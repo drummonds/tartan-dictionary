@@ -1,8 +1,5 @@
 ---
 title: "Clan Alvis"
-date: 2023-03-18
+redirect: "/families/alvis-of-lee/"
 ---
-## Families
-
-- [Alvis of Lee](/families/alvis-of-lee/)
-
+Clan Alvis is recorded as the single family [Alvis of Lee](/families/alvis-of-lee/) — redirecting there.

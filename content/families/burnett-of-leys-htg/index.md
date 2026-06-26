@@ -8,5 +8,5 @@ A family of [Clan Burnett](/clan/burnett/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/r75db6r6w2r6g2r6r2~x2/"><img src="/setts/s8/r75db6r6w2r6g2r6r2~x2/sett.png" alt="Burnett of Leys Htg (Clan)" width="240"><br>Burnett of Leys Htg (Clan)</a>
+<a class="tartan" href="/setts/s8/ri75db6ri6w2ri6g2ri6r2~x2/"><img src="/setts/s8/ri75db6ri6w2ri6g2ri6r2~x2/sett.png" alt="Burnett of Leys Htg (Clan)" width="240"><br>Burnett of Leys Htg (Clan)</a>
 

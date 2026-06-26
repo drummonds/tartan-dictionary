@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Leinster](/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/)|
-|![Leinster example sett](/setts/s14/r3g18k10db12k1g2k1db12ly2k10g2g2g15g3~x2/sett.png)|
+| [Leinster](/setts/s14/r3gi18k10db12k1g2k1db12ly2k10g2gi2g15gi3~x2/)|
+|![Leinster example sett](/setts/s14/r3gi18k10db12k1g2k1db12ly2k10g2gi2g15gi3~x2/sett.png)|

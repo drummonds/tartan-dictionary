@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ste-Anne-de-Portneuf](/setts/s17/lo2w3lo7lt1dy4r2ly6lg2w1lo2lt6do2r4ly1lg7w3lt2~x4/)|
-|![Ste-Anne-de-Portneuf example sett](/setts/s17/lo2w3lo7lt1dy4r2ly6lg2w1lo2lt6do2r4ly1lg7w3lt2~x4/sett.png)|
+| [Ste-Anne-de-Portneuf](/setts/s17/lo2w3loi7lt1dy4r2ly6lg2w1loi2lt6do2r4ly1lg7w3lt2~x4/)|
+|![Ste-Anne-de-Portneuf example sett](/setts/s17/lo2w3loi7lt1dy4r2ly6lg2w1loi2lt6do2r4ly1lg7w3lt2~x4/sett.png)|

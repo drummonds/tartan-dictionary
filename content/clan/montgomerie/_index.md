@@ -1,8 +1,5 @@
 ---
 title: "Clan Montgomerie"
-date: 2023-03-18
+redirect: "/families/montgomerie-of-eglinton/"
 ---
-## Families
-
-- [Montgomerie of Eglinton](/families/montgomerie-of-eglinton/)
-
+Clan Montgomerie is recorded as the single family [Montgomerie of Eglinton](/families/montgomerie-of-eglinton/) — redirecting there.

@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7772/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7772
+
 ## Thread count
 K/6 LN18 DB12 LN24 DB48 LN6 DB/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="283.7" cy="194.6" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/setts/s6/k3lr16k4lr3k12w2~x3/"><circle cx="251.6" cy="220.9" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/b30ly5b4r12~x4/"><circle cx="346.9" cy="217.8" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="234.9" cy="177.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="265.2" cy="183.9" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><a href="/setts/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="288.4" cy="188.1" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/setts/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="256.4" cy="180.8" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/setts/s6/db8t3db28w32dt3w4~x2/"><circle cx="243.3" cy="175.5" r="4" fill="#3465a4"><title>Ailsa, Royal Blue (Dance)</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="288.4" cy="200.2" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><circle cx="280.5" cy="208.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="278.4" cy="191.0" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s6/w5db16w5db16w33r3~x2/"><circle cx="282.6" cy="195.7" r="4" fill="#3465a4"><title>Buchanan Dress Blue (Dance)</title></circle></a><a href="/setts/s6/k3lr16k4lr3k12w2~x3/"><circle cx="251.0" cy="222.3" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s6/b30ly5b4r12~x4/"><circle cx="346.0" cy="218.9" r="4" fill="#3465a4"><title>UEFA (Glasgow)</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="234.0" cy="178.2" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s10/db19ly2db3w7db3w7db9w3db2w19~x2/"><circle cx="264.3" cy="184.9" r="4" fill="#3465a4"><title>Yorkshire, The Spirit of</title></circle></a><a href="/setts/s8/db8w2db11w13db30w13r11db2~x2/"><circle cx="287.6" cy="189.3" r="4" fill="#3465a4"><title>Jubilation (Commemorative)</title></circle></a><a href="/setts/s9/w16db3w2db3w2db3r5db6w2~x4/"><circle cx="255.4" cy="181.9" r="4" fill="#3465a4"><title>Jeux Canada Games '87 (Corporate)</title></circle></a><a href="/setts/s6/db8t3db28w32dt3w4~x2/"><circle cx="242.4" cy="176.6" r="4" fill="#3465a4"><title>Ailsa, Royal Blue (Dance)</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="287.5" cy="201.3" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><circle cx="279.7" cy="209.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k1w3db2w4db8w1db1~x6/

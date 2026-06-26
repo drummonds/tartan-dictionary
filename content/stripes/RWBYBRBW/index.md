@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thousand Islands Int. Council (Corp)](/setts/s8/r22w2db11ly4db11r6db2w10~x2/)|
-|![Thousand Islands Int. Council (Corp) example sett](/setts/s8/r22w2db11ly4db11r6db2w10~x2/sett.png)|
+| [Thousand Islands Int. Council (Corp)](/setts/s8/ri22w2db11ly4db11r6db2w10~x2/)|
+|![Thousand Islands Int. Council (Corp) example sett](/setts/s8/ri22w2db11ly4db11r6db2w10~x2/sett.png)|

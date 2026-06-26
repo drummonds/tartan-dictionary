@@ -1,8 +1,5 @@
 ---
 title: "Clan Reid"
-date: 2023-03-18
+redirect: "/families/reid-of-straloch/"
 ---
-## Families
-
-- [Reid of Straloch](/families/reid-of-straloch/)
-
+Clan Reid is recorded as the single family [Reid of Straloch](/families/reid-of-straloch/) — redirecting there.

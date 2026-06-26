@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather (NSPCC) (Corporate)](/setts/s9/g4dp48dp10lb3dp16lb3o30lb3db2~x2/)|
-|![Heather (NSPCC) (Corporate) example sett](/setts/s9/g4dp48dp10lb3dp16lb3o30lb3db2~x2/sett.png)|
+| [Heather (NSPCC) (Corporate)](/setts/s9/g4dpi48dp10lb3dp16lb3o30lb3db2~x2/)|
+|![Heather (NSPCC) (Corporate) example sett](/setts/s9/g4dpi48dp10lb3dp16lb3o30lb3db2~x2/sett.png)|

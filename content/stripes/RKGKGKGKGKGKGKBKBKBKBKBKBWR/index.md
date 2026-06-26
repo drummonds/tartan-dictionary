@@ -24,5 +24,5 @@ It is a 27 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews Soc. of New York (Corp)](/setts/s27/r8k4g34k1g5k2g4k3g3k4g2k5g1k36db1k5db2k4db3k3db4k2db5k1db34w2r8/)|
-|![St. Andrews Soc. of New York (Corp) example sett](/setts/s27/r8k4g34k1g5k2g4k3g3k4g2k5g1k36db1k5db2k4db3k3db4k2db5k1db34w2r8/sett.png)|
+| [St. Andrews Soc. of New York (Corp)](/setts/s27/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8/)|
+|![St. Andrews Soc. of New York (Corp) example sett](/setts/s27/r8w2db34k1db5k2db4k3db3k4db2k5db1k36g1k5g2k4g3k3g4k2g5k1g34k4ri8/sett.png)|

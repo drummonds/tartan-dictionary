@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hynett, William (Personal)](/setts/s13/r1dt14k10dt10k1dt2k1dt10k10r8dt2r2w1~x2/)|
-|![Hynett, William (Personal) example sett](/setts/s13/r1dt14k10dt10k1dt2k1dt10k10r8dt2r2w1~x2/sett.png)|
+| [Hynett, William (Personal)](/setts/s13/rii1dt14k10dt10k1dt2k1dt10k10ri8dt2r2w1~x2/)|
+|![Hynett, William (Personal) example sett](/setts/s13/rii1dt14k10dt10k1dt2k1dt10k10ri8dt2r2w1~x2/sett.png)|

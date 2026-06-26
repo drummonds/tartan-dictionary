@@ -34,10 +34,10 @@ It is a 10 stripe tartan.
 |![Chisholm Hunting (HSL) Clan Tartan Tartan Number: 1457. Earliest known date: c.1815 Possibly the true source of the Vestiarium Scoticum sett with crimson changed to red. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/m7w2m32db7g3db2g3db2g16m3~x2/sett.png)|
 | [Chisholm hunting](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/)|
 |![Chisholm hunting example sett](/setts/s10/o6w1o24db6g2db1g2db1g12r1~x2/sett.png)|
-| [Chisholm of Strathglass](/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/)|
-|![Chisholm of Strathglass example sett](/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/sett.png)|
 | [Chisholm of Strathglass](/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/)|
 |![Chisholm of Strathglass example sett](/setts/s10/r7w2r36db6g3db3g3db3g12r4~x2/sett.png)|
+| [Chisholm of Strathglass](/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/)|
+|![Chisholm of Strathglass example sett](/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/sett.png)|
 | [Chisholm of Strathglass (Clan)](/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/)|
 |![Chisholm of Strathglass (Clan) example sett](/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/sett.png)|
 | [Chisholm, hunting](/setts/s10/r7w2r32db7g3db2g3db2g16r3~x2/)|

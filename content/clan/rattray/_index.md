@@ -1,8 +1,5 @@
 ---
 title: "Clan Rattray"
-date: 2023-03-18
+redirect: "/families/rattray-of-lude/"
 ---
-## Families
-
-- [Rattray of Lude](/families/rattray-of-lude/)
-
+Clan Rattray is recorded as the single family [Rattray of Lude](/families/rattray-of-lude/) — redirecting there.

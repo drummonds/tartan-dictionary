@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Michie, Andrew (Personal)](/setts/s5/dp62g5g20lb5k1~x2/)|
-|![Michie, Andrew (Personal) example sett](/setts/s5/dp62g5g20lb5k1~x2/sett.png)|
+| [Michie, Andrew (Personal)](/setts/s5/dp62g5gi20lb5k1~x2/)|
+|![Michie, Andrew (Personal) example sett](/setts/s5/dp62g5gi20lb5k1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montrose of Alabama](/setts/s7/k3k3r1k3k3g3ly1~x8/)|
-|![Montrose of Alabama example sett](/setts/s7/k3k3r1k3k3g3ly1~x8/sett.png)|
+| [Montrose of Alabama](/setts/s7/k3ki3r1ki3k3g3ly1~x8/)|
+|![Montrose of Alabama example sett](/setts/s7/k3ki3r1ki3k3g3ly1~x8/sett.png)|

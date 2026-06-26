@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Parkhead](/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/)|
-|![Parkhead example sett](/setts/s11/g1k1g9k7ly1g5g4w2g1w1g1~x4/sett.png)|
+| [Parkhead](/setts/s11/gi1k1gi9k7ly1gi5g4w2g1w1gi1~x4/)|
+|![Parkhead example sett](/setts/s11/gi1k1gi9k7ly1gi5g4w2g1w1gi1~x4/sett.png)|

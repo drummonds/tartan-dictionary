@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Maciocia (Personal)](/setts/s12/y46lo8dt11y3dt3w3dt3dy16r9dt3r1w3~x2/)|
-|![Maciocia (Personal) example sett](/setts/s12/y46lo8dt11y3dt3w3dt3dy16r9dt3r1w3~x2/sett.png)|
+| [Maciocia (Personal)](/setts/s12/y46lo8dt11yi3dt3w3dt3dy16r9dt3r1w3~x2/)|
+|![Maciocia (Personal) example sett](/setts/s12/y46lo8dt11yi3dt3w3dt3dy16r9dt3r1w3~x2/sett.png)|

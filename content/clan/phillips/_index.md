@@ -1,8 +1,5 @@
 ---
 title: "Clan Phillips"
-date: 2023-03-18
+redirect: "/families/phillips-of-wales/"
 ---
-## Families
-
-- [Phillips of Wales](/families/phillips-of-wales/)
-
+Clan Phillips is recorded as the single family [Phillips of Wales](/families/phillips-of-wales/) — redirecting there.

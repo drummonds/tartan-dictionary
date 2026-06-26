@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Law Enforcement](/setts/s10/lg4k3db6db4db57o3db3o3db3r3~x2/)|
-|![U.S. Law Enforcement example sett](/setts/s10/lg4k3db6db4db57o3db3o3db3r3~x2/sett.png)|
+| [U.S. Law Enforcement](/setts/s10/lg4k3db6dbi4db57o3db3o3db3r3~x2/)|
+|![U.S. Law Enforcement example sett](/setts/s10/lg4k3db6dbi4db57o3db3o3db3r3~x2/sett.png)|

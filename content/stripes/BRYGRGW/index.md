@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elystan Glodrydd (Name)](/setts/s7/w3g24r13g4lo11r8db2~x2/)|
-|![Elystan Glodrydd (Name) example sett](/setts/s7/w3g24r13g4lo11r8db2~x2/sett.png)|
+| [Elystan Glodrydd (Name)](/setts/s7/w3g24r13gi4lo11r8db2~x2/)|
+|![Elystan Glodrydd (Name) example sett](/setts/s7/w3g24r13gi4lo11r8db2~x2/sett.png)|

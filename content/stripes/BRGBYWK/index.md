@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of Assynt & Coigach (Name)](/setts/s7/db8r11g5db3ly3w5k3~x2/)|
-|![Nicolson of Assynt & Coigach (Name) example sett](/setts/s7/db8r11g5db3ly3w5k3~x2/sett.png)|
+| [Nicolson of Assynt & Coigach (Name)](/setts/s7/db8r11g5dbi3ly3w5k3~x2/)|
+|![Nicolson of Assynt & Coigach (Name) example sett](/setts/s7/db8r11g5dbi3ly3w5k3~x2/sett.png)|

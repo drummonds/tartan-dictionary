@@ -1,8 +1,5 @@
 ---
 title: "Clan Howell"
-date: 2023-03-18
+redirect: "/families/howell-of-wales/"
 ---
-## Families
-
-- [Howell of Wales](/families/howell-of-wales/)
-
+Clan Howell is recorded as the single family [Howell of Wales](/families/howell-of-wales/) — redirecting there.

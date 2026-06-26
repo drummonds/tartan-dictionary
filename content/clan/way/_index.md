@@ -1,8 +1,5 @@
 ---
 title: "Clan Way"
-date: 2023-03-18
+redirect: "/families/way-of-the-rainbow/"
 ---
-## Families
-
-- [Way of the Rainbow](/families/way-of-the-rainbow/)
-
+Clan Way is recorded as the single family [Way of the Rainbow](/families/way-of-the-rainbow/) — redirecting there.

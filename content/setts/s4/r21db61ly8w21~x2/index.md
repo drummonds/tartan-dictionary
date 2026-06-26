@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10912/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10912](https://www.tartanregister.gov.uk/tartanDetails?ref=10912)
+- Scottish Tartans Authority (ITI): 10912
+
 ## Thread count
 R/42 B122 Y16 W/42
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r21db61lo8w21~x2/"><circle cx="230.9" cy="221.8" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s4/k1w8db8r1~x8/"><circle cx="212.8" cy="211.7" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/setts/s4/k4w35dp35m4~x2/"><circle cx="224.5" cy="197.0" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/setts/s4/r1w8dt8ly1~x4/"><circle cx="208.1" cy="212.4" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="288.4" cy="200.2" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/setts/s5/b8w13r3w2k5~x2/"><circle cx="165.3" cy="213.2" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="222.9" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s4/r7w36db36ly7~x2/"><circle cx="161.7" cy="232.6" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s5/m30k7o20ly4k4~x2/"><circle cx="234.1" cy="219.4" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/setts/s5/k4lb4k4o15r2~x4/"><circle cx="242.6" cy="217.8" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="242.3" cy="222.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/r21db61lo8w21~x2/"><circle cx="230.1" cy="223.2" r="4" fill="#3465a4"><title>Kellogg College University of Oxford</title></circle></a><a href="/setts/s4/k1w8db8r1~x8/"><circle cx="212.0" cy="213.1" r="4" fill="#3465a4"><title>MacRae Dress Purple</title></circle></a><a href="/setts/s4/k4w35dp35m4~x2/"><circle cx="223.4" cy="198.3" r="4" fill="#3465a4"><title>MacRae - 2000 (Dress, Purple)</title></circle></a><a href="/setts/s4/r1w8dt8ly1~x4/"><circle cx="207.3" cy="213.7" r="4" fill="#3465a4"><title>MacRae of Conchra</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="287.5" cy="201.3" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/setts/s5/b8w13r3w2k5~x2/"><circle cx="164.3" cy="214.6" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="185.6" cy="224.3" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s4/r7w36db36ly7~x2/"><circle cx="160.8" cy="234.1" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s5/m30k7o20ly4k4~x2/"><circle cx="233.4" cy="220.5" r="4" fill="#3465a4"><title>Drumfintley (Fashion)</title></circle></a><a href="/setts/s5/k4lb4k4o15r2~x4/"><circle cx="241.9" cy="218.9" r="4" fill="#3465a4"><title>Oban Grey (Fashion)</title></circle></a><circle cx="241.4" cy="223.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r21db61ly8w21~x2/

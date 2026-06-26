@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sunart, Saphire (Dance)](/setts/s12/r3db1r20db20w2db2w2db2w32dg1db1r3~x2/)|
-|![Sunart, Saphire (Dance) example sett](/setts/s12/r3db1r20db20w2db2w2db2w32dg1db1r3~x2/sett.png)|
+| [Sunart, Saphire (Dance)](/setts/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2/)|
+|![Sunart, Saphire (Dance) example sett](/setts/s12/r3db1ri20db20w2db2w2db2w32dg1db1r3~x2/sett.png)|

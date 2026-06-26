@@ -2,7 +2,7 @@
 title: "Hannigan of Dirleton"
 date: 2023-03-18
 ---
-A family of [Clan Hannigan](/clan/hannigan/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Dirleton”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dirleton&viewmode=grid)
 

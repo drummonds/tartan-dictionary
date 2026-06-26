@@ -1,8 +1,5 @@
 ---
 title: "Clan Couper"
-date: 2023-03-18
+redirect: "/families/couper-of-gogar/"
 ---
-## Families
-
-- [Couper of Gogar](/families/couper-of-gogar/)
-
+Clan Couper is recorded as the single family [Couper of Gogar](/families/couper-of-gogar/) — redirecting there.

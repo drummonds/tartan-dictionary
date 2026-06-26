@@ -23,6 +23,12 @@ This cloth is also recorded under:
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1005
+
 ## Thread count
 R/8 G8 W6 G8 R8 G28 R56 K2 R6 G/8
 ![Sett](sett.png)
@@ -38,8 +44,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="383.6" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="366.5" cy="135.5" r="4" fill="#3465a4"><title>Cumming, Comyn</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="371.6" cy="133.8" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="372.2" cy="137.5" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="384.0" cy="141.4" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="334.7" cy="109.0" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s8/r56w2db6w2g32r11db6w5/"><circle cx="360.3" cy="123.9" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="378.5" cy="109.6" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="381.0" cy="141.7" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="395.6" cy="130.2" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="381.8" cy="123.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dg4r3k1r28dg14r4dg4lb3dg4r4~x2/"><circle cx="382.4" cy="125.1" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s10/r4g8w1g8r4g4r2g4r24k2~x2/"><circle cx="365.3" cy="135.9" r="4" fill="#3465a4"><title>Cumming, Comyn</title></circle></a><a href="/setts/s10/r4dg8w1dg8r4dg4r2dg4r24k2~x2/"><circle cx="370.4" cy="134.2" r="4" fill="#3465a4"><title>Cumming/Comyn</title></circle></a><a href="/setts/s10/r4dg8lb1dg8r4dg4r2dg4r24k2~x2/"><circle cx="371.1" cy="137.9" r="4" fill="#3465a4"><title>Cumming VS</title></circle></a><a href="/setts/s9/r5g20r5g3r4g5r36do2w4~x2/"><circle cx="382.7" cy="141.7" r="4" fill="#3465a4"><title>Baluch Regiment (Military)</title></circle></a><a href="/setts/s12/g4r3k1r28g14r4g4w3g4r4g4w3~x2/"><circle cx="333.5" cy="109.3" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s8/r56w2db6w2g32r11db6w5/"><circle cx="359.1" cy="124.2" r="4" fill="#3465a4"><title>Spens</title></circle></a><a href="/setts/s11/r6db1r1g28r4db8w1r32g1r4g2~x2/"><circle cx="377.4" cy="109.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r12w2r37db6g3db3r4db3g21r4~x2/"><circle cx="379.8" cy="142.0" r="4" fill="#3465a4"><title>Chisholm, The</title></circle></a><a href="/setts/s10/g2r2db1r24t1db6r3g12r4db1~x2/"><circle cx="394.5" cy="130.4" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><circle cx="380.5" cy="123.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r4g4w3g4r4g14r28k1r3g4~x2/

@@ -1,8 +1,5 @@
 ---
 title: "Clan Chafee"
-date: 2023-03-18
+redirect: "/families/chafee-of-glenmary/"
 ---
-## Families
-
-- [Chafee of Glenmary](/families/chafee-of-glenmary/)
-
+Clan Chafee is recorded as the single family [Chafee of Glenmary](/families/chafee-of-glenmary/) — redirecting there.

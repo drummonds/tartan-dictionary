@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mitsukoshi (Corporate)](/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/)|
-|![Mitsukoshi (Corporate) example sett](/setts/s8/lb12k3lb3k3lb13t6k17r3~x2/sett.png)|
+| [Mitsukoshi (Corporate)](/setts/s8/lb12k3lbi3k3lb13t6k17r3~x2/)|
+|![Mitsukoshi (Corporate) example sett](/setts/s8/lb12k3lbi3k3lb13t6k17r3~x2/sett.png)|

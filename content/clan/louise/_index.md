@@ -1,8 +1,5 @@
 ---
 title: "Clan Louise"
-date: 2023-03-18
+redirect: "/families/louise-of-lorne/"
 ---
-## Families
-
-- [Louise of Lorne](/families/louise-of-lorne/)
-
+Clan Louise is recorded as the single family [Louise of Lorne](/families/louise-of-lorne/) — redirecting there.

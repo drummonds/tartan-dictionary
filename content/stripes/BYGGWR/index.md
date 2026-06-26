@@ -26,5 +26,5 @@ It is a 6 stripe tartan.
 |---------------|
 | [College of New Caledonia](/setts/s6/db52lo23g6dg5w1r1~x2/)|
 |![College of New Caledonia example sett](/setts/s6/db52lo23g6dg5w1r1~x2/sett.png)|
-| [College of New Caledonia (Corporate)](/setts/s6/b52ly23g6g5w1r1~x2/)|
-|![College of New Caledonia (Corporate) example sett](/setts/s6/b52ly23g6g5w1r1~x2/sett.png)|
+| [College of New Caledonia (Corporate)](/setts/s6/b52ly23g6gi5w1r1~x2/)|
+|![College of New Caledonia (Corporate) example sett](/setts/s6/b52ly23g6gi5w1r1~x2/sett.png)|

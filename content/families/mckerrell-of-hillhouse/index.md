@@ -2,7 +2,7 @@
 title: "McKerrell of Hillhouse"
 date: 2023-03-18
 ---
-A family of [Clan McKerrell](/clan/mckerrell/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Hillhouse”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Hillhouse&viewmode=grid)
 

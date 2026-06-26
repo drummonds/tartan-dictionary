@@ -2,7 +2,7 @@
 title: "Lashbrooke of Barrowfield"
 date: 2023-03-18
 ---
-A family of [Clan Lashbrooke](/clan/lashbrooke/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Barrowfield”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Barrowfield&viewmode=grid)
 

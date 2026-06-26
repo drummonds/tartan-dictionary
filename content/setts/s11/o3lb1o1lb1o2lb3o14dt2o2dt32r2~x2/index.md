@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8684/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8684](https://www.tartanregister.gov.uk/tartanDetails?ref=8684)
+- Scottish Tartans Authority (ITI): 8684
+
 ## Thread count
 N/6 LR2 N2 LR2 N4 LR6 N28 DB4 N4 DB64 R/4
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/"><circle cx="350.7" cy="126.4" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/setts/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/"><circle cx="321.2" cy="107.9" r="4" fill="#3465a4"><title>D.E.B.S. (Fashion)</title></circle></a><a href="/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/"><circle cx="340.6" cy="103.0" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/setts/s12/t38r1t2r2t2r6lo4r10db8t11r3lo1~x2/"><circle cx="404.3" cy="106.3" r="4" fill="#3465a4"><title>Spirit of Dunkeld (Fashion)</title></circle></a><a href="/setts/s13/b38do4m3dy6w2dy2w2dy2do12b6dy2b6w2~x2/"><circle cx="327.3" cy="110.5" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.8" cy="108.0" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s9/y35k3db2k5db3k1db20k3w3~x2/"><circle cx="332.0" cy="130.7" r="4" fill="#3465a4"><title>Unidentified (School)</title></circle></a><a href="/setts/s11/n45lo6n3lo6lb3dp5lb3dp5lb20n2lb3~x2/"><circle cx="292.3" cy="117.0" r="4" fill="#3465a4"><title>Dunn</title></circle></a><a href="/setts/s10/b106r3b4r6b8k28g8lb4g12k8/"><circle cx="403.1" cy="98.4" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="451.0" cy="123.5" r="4" fill="#3465a4"><title>Chateau</title></circle></a><circle cx="374.9" cy="107.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/w2r5db4g8db4r5w2r5db40g8db4w2~x2/"><circle cx="350.0" cy="126.9" r="4" fill="#3465a4"><title>Yamaue (Corporate)</title></circle></a><a href="/setts/s10/lo15k2lo3k2b50k2lo3k2w10k4~x2/"><circle cx="320.5" cy="108.2" r="4" fill="#3465a4"><title>D.E.B.S. (Fashion)</title></circle></a><a href="/setts/s11/r3w2r3g14w3r3g2r3w3db47w2~x2/"><circle cx="339.9" cy="103.5" r="4" fill="#3465a4"><title>Friends of Scotland Caucus</title></circle></a><a href="/setts/s12/t38r1t2r2t2r6lo4r10db8t11r3lo1~x2/"><circle cx="403.4" cy="106.4" r="4" fill="#3465a4"><title>Spirit of Dunkeld (Fashion)</title></circle></a><a href="/setts/s13/b38do4m3dy6w2dy2w2dy2do12b6dy2b6w2~x2/"><circle cx="326.6" cy="110.8" r="4" fill="#3465a4"><title>Leando Dress (Personal)</title></circle></a><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.1" cy="108.4" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s9/y35k3db2k5db3k1db20k3w3~x2/"><circle cx="331.5" cy="131.1" r="4" fill="#3465a4"><title>Unidentified (School)</title></circle></a><a href="/setts/s11/n45lo6n3lo6lb3dp5lb3dp5lb20n2lb3~x2/"><circle cx="291.6" cy="117.4" r="4" fill="#3465a4"><title>Dunn</title></circle></a><a href="/setts/s10/b106r3b4r6b8k28g8lb4g12k8/"><circle cx="402.4" cy="98.5" r="4" fill="#3465a4"><title>Parr</title></circle></a><a href="/setts/s10/n36k3dy3t1dy3k3n4dy6k1t2~x4/"><circle cx="450.4" cy="123.6" r="4" fill="#3465a4"><title>Chateau</title></circle></a><circle cx="374.2" cy="107.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/o3lb1o1lb1o2lb3o14dt2o2dt32r2~x2/

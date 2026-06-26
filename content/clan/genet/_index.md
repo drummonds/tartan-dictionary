@@ -1,8 +1,5 @@
 ---
 title: "Clan Genet"
-date: 2023-03-18
+redirect: "/families/genet-of-an-gwylvos/"
 ---
-## Families
-
-- [Genet of An Gwylvos](/families/genet-of-an-gwylvos/)
-
+Clan Genet is recorded as the single family [Genet of An Gwylvos](/families/genet-of-an-gwylvos/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Pride of Scotland](/setts/s20/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/)|
-|![Highland Pride of Scotland example sett](/setts/s20/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/sett.png)|
+| [Highland Pride of Scotland](/setts/s20/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2/)|
+|![Highland Pride of Scotland example sett](/setts/s20/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2/sett.png)|

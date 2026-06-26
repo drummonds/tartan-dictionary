@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kuehle (Personal)](/setts/s7/lp6w2lp1db6o30w1r3~x2/)|
-|![Kuehle (Personal) example sett](/setts/s7/lp6w2lp1db6o30w1r3~x2/sett.png)|
+| [Kuehle (Personal)](/setts/s7/lp6wi2lp1db6o30w1r3~x2/)|
+|![Kuehle (Personal) example sett](/setts/s7/lp6wi2lp1db6o30w1r3~x2/sett.png)|

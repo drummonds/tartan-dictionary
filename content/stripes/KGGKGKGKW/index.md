@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dropkick Murphys](/setts/s9/k6g55g6k85g4k4g12k2w5/)|
-|![Dropkick Murphys example sett](/setts/s9/k6g55g6k85g4k4g12k2w5/sett.png)|
+| [Dropkick Murphys](/setts/s9/k6gi55g6k85g4k4gi12k2w5/)|
+|![Dropkick Murphys example sett](/setts/s9/k6gi55g6k85g4k4gi12k2w5/sett.png)|

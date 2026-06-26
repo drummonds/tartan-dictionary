@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDonald of Glencoe](/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/)|
-|![MacDonald of Glencoe example sett](/setts/s13/dg3r1r2dg2r16lb1db4r3dg13r1db1r1r3~x2/sett.png)|
+| [MacDonald of Glencoe](/setts/s13/dg3ri1r2dg2r16lb1db4r3dg13r1db1ri1r3~x2/)|
+|![MacDonald of Glencoe example sett](/setts/s13/dg3ri1r2dg2r16lb1db4r3dg13r1db1ri1r3~x2/sett.png)|

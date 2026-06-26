@@ -2,7 +2,7 @@
 title: "Boat of Garten"
 date: 2023-03-18
 ---
-A family of [Clan Boat](/clan/boat/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Garten”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Garten&viewmode=grid)
 

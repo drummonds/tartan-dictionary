@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [10 stripe tartan](/stripes/stripes10
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2968
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Miyuki, Check Red, 1002A
-
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -46,8 +40,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="495.9" cy="120.8" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="521.8" cy="90.2" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="524.5" cy="92.1" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="509.6" cy="64.2" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="525.6" cy="119.2" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="578.5" cy="75.8" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co., Ltd (Corp)</title></circle></a><a href="/setts/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="555.3" cy="129.6" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s14/dg5r5dg2r62db6r2db6r8dg2r2dg2r5dg25r5~x2/"><circle cx="475.8" cy="99.4" r="4" fill="#3465a4"><title>Ross #7</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="536.6" cy="67.1" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="546.6" cy="99.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r30db8r2k1r2k1~x2/"><circle cx="494.5" cy="121.0" r="4" fill="#3465a4"><title>Masai Shuka 27 (Artefact)</title></circle></a><a href="/setts/s10/r40w1r1k8r1w1r6w1r1k8~x2/"><circle cx="520.2" cy="90.3" r="4" fill="#3465a4"><title>Miyuki, Check Red, 1002A</title></circle></a><a href="/setts/s10/r64db16r1db1r12g16r8db2r2k1~x2/"><circle cx="523.0" cy="92.0" r="4" fill="#3465a4"><title>Moffat (1950)</title></circle></a><a href="/setts/s10/r80w7k2w2k2r3k7r2p12k2~x2/"><circle cx="507.8" cy="64.1" r="4" fill="#3465a4"><title>Masai Shuka 05 (Artefact)</title></circle></a><a href="/setts/s9/k5r40k4w2k4r10w4r5w1~x2/"><circle cx="524.1" cy="119.4" r="4" fill="#3465a4"><title>Southern Illinois University (Corp.)</title></circle></a><a href="/setts/s13/k6r1k1r1k1r5k2r5k4r2w1r40w1~x2/"><circle cx="576.7" cy="75.7" r="4" fill="#3465a4"><title>Jupiter Shop Channel Co., Ltd (Corp)</title></circle></a><a href="/setts/s11/r90k6r6k6r90g6r6g45r6k4r3/"><circle cx="553.6" cy="129.6" r="4" fill="#3465a4"><title>MacPherson-Grant</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="516.5" cy="117.3" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s14/dg5r5dg2r62db6r2db6r8dg2r2dg2r5dg25r5~x2/"><circle cx="474.3" cy="99.4" r="4" fill="#3465a4"><title>Ross #7</title></circle></a><a href="/setts/s16/r80w2r5k10r6o4r4k2o6k2r10o4r8k10r5w2/"><circle cx="535.0" cy="66.9" r="4" fill="#3465a4"><title>Hampden-Sydney College</title></circle></a><circle cx="545.0" cy="99.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r40w1r1dt8r1w1r6w1r1dt8~x2/

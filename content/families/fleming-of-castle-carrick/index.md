@@ -2,7 +2,7 @@
 title: "Fleming of Castle Carrick"
 date: 2023-03-18
 ---
-A family of [Clan Fleming](/clan/fleming/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Castle Carrick”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Castle+Carrick&viewmode=grid)
 

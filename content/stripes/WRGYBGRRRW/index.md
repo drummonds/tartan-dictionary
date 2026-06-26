@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Silk scarf](/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/)|
-|![Unidentified Silk scarf example sett](/setts/s10/w3r10dy6ly8t8dg32r8r10r6w3~x4/sett.png)|
+| [Unidentified Silk scarf](/setts/s10/w3r10dy6ly8t8dg32ri8r10ri6w3~x4/)|
+|![Unidentified Silk scarf example sett](/setts/s10/w3r10dy6ly8t8dg32ri8r10ri6w3~x4/sett.png)|

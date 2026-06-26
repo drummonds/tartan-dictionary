@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Minster](/setts/s14/db6r2db2r3db3r18db16r2g18r2db3t3db2r6~x2/)|
-|![Minster example sett](/setts/s14/db6r2db2r3db3r18db16r2g18r2db3t3db2r6~x2/sett.png)|
+| [Minster](/setts/s14/dbi6ri2db2ri3db3ri18dbi16ri2g18r2dbi3t3dbi2ri6~x2/)|
+|![Minster example sett](/setts/s14/dbi6ri2db2ri3db3ri18dbi16ri2g18r2dbi3t3dbi2ri6~x2/sett.png)|

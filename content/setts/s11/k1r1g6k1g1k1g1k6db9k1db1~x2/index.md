@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Louise
-
 ## Thread count
 K/2 R2 G12 K2 G2 K2 G2 K12 B18 K2 B/2
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.6" cy="156.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.7" cy="189.5" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s10/db20k3db3k3db3k16g2ly3g12r2~x2/"><circle cx="161.0" cy="161.7" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.2" cy="150.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="173.5" cy="173.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="152.1" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.4" cy="157.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s8/db10k1db1k1db2k8g10w1~x2/"><circle cx="184.5" cy="190.6" r="4" fill="#3465a4"><title>Lamont</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.7" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="174.0" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="164.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.5" cy="185.0" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s10/db20k3db3k3db3k16g2ly3g12r2~x2/"><circle cx="160.8" cy="162.7" r="4" fill="#3465a4"><title>Barnes</title></circle></a><a href="/setts/s11/db24k4db4k4db4k24g24r5g6k2ly2~x2/"><circle cx="144.1" cy="151.7" r="4" fill="#3465a4"><title>Grant</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.9" cy="182.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><circle cx="173.4" cy="174.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/

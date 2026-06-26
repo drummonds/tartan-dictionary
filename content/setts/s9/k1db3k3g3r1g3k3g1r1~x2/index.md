@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unnamed, No 30
-
 ## Thread count
 K/2 B6 K6 G6 R2 G6 K6 G2 R/2
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/"><circle cx="77.2" cy="257.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4g4ly1g4k4db4k1~x2/"><circle cx="110.9" cy="277.3" r="4" fill="#3465a4"><title>MacKay, Coat</title></circle></a><a href="/setts/s7/k4g4k1g4k4db4ly1~x2/"><circle cx="110.9" cy="277.3" r="4" fill="#3465a4"><title>Unnamed, No 39</title></circle></a><a href="/setts/s7/k4g4w1g4k4db4k1~x4/"><circle cx="109.3" cy="276.7" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.8" cy="238.1" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="68.1" cy="240.6" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="129.0" cy="281.7" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.8" cy="250.3" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.5" cy="252.4" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><circle cx="82.9" cy="269.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k4g4w1g4k4db4k1db4k4g4w1~x2/"><circle cx="77.2" cy="259.2" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s7/k4g4ly1g4k4db4k1~x2/"><circle cx="110.8" cy="279.1" r="4" fill="#3465a4"><title>MacKay, Coat</title></circle></a><a href="/setts/s7/k4g4k1g4k4db4ly1~x2/"><circle cx="110.8" cy="279.1" r="4" fill="#3465a4"><title>Unnamed, No 39</title></circle></a><a href="/setts/s7/k4g4w1g4k4db4k1~x4/"><circle cx="109.3" cy="278.5" r="4" fill="#3465a4"><title>Graham of Montrose</title></circle></a><a href="/setts/s9/ly8g16k6g6k6g6k16r21k5/"><circle cx="97.5" cy="239.7" r="4" fill="#3465a4"><title>Martin</title></circle></a><a href="/setts/s10/lb8k4lb8k2lb3k8dg8r2dg8k4~x2/"><circle cx="67.8" cy="242.2" r="4" fill="#3465a4"><title>Ferguson Dress variation</title></circle></a><a href="/setts/s7/k9g9ly2g9k9db9k3~x2/"><circle cx="129.1" cy="283.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Clan)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="83.9" cy="254.3" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s9/r2db4k4g4lb1g4k4g4lb1~x4/"><circle cx="76.7" cy="252.0" r="4" fill="#3465a4"><title>Arrol</title></circle></a><a href="/setts/s7/k11g12k2g12k12p12w3~x2/"><circle cx="121.3" cy="254.0" r="4" fill="#3465a4"><title>Wilson's, No 97</title></circle></a><circle cx="82.9" cy="271.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k1db3k3g3r1g3k3g1r1~x2/

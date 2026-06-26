@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Hamilton, hunting
-
 ## Thread count
 B/22 G4 B30 G36 LN/4
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="304.3" cy="287.4" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s5/db5g2db5g8w1~x8/"><circle cx="285.4" cy="282.8" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/db4w1db12g12db1g4~x2/"><circle cx="339.8" cy="243.6" r="4" fill="#3465a4"><title>Unidentified, Tweed</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.3" cy="245.4" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s5/db8g2db8g15lb2~x4/"><circle cx="282.6" cy="271.0" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/setts/s4/db2dg7db7w1~x2/"><circle cx="333.1" cy="303.9" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.5" cy="248.9" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s3/g17r2db15~x2/"><circle cx="326.9" cy="313.2" r="4" fill="#3465a4"><title>Ferguson - 1930 (Old)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.6" cy="224.8" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s6/db8r4db24g35lb4g8/"><circle cx="284.9" cy="228.3" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><circle cx="328.6" cy="270.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db2g7db7w1~x2/"><circle cx="303.9" cy="288.6" r="4" fill="#3465a4"><title>Unnamed No 78</title></circle></a><a href="/setts/s5/db5g2db5g8w1~x8/"><circle cx="285.1" cy="284.0" r="4" fill="#3465a4"><title>Hamilton, hunting</title></circle></a><a href="/setts/s6/db4w1db12g12db1g4~x2/"><circle cx="339.4" cy="244.5" r="4" fill="#3465a4"><title>Unidentified, Tweed</title></circle></a><a href="/setts/s7/b3k1g4k1b4g9k2~x4/"><circle cx="298.0" cy="246.4" r="4" fill="#3465a4"><title>Outdoorsmen (Fashion)</title></circle></a><a href="/setts/s5/db8g2db8g15lb2~x4/"><circle cx="282.4" cy="272.3" r="4" fill="#3465a4"><title>Hamilton Green Hunting</title></circle></a><a href="/setts/s4/db2dg7db7w1~x2/"><circle cx="333.0" cy="305.2" r="4" fill="#3465a4"><title>Unidentified No 78</title></circle></a><a href="/setts/s6/t7k7t7g20t2g2~x4/"><circle cx="296.2" cy="249.8" r="4" fill="#3465a4"><title>Falconer of Labhdal (Personal)</title></circle></a><a href="/setts/s3/g17r2db15~x2/"><circle cx="326.7" cy="314.5" r="4" fill="#3465a4"><title>Ferguson - 1930 (Old)</title></circle></a><a href="/setts/s7/db1g12db4lb1db4g4db1~x4/"><circle cx="369.2" cy="225.7" r="4" fill="#3465a4"><title>St. Dennis &amp; Cranley School</title></circle></a><a href="/setts/s6/db8r4db24g35lb4g8/"><circle cx="284.6" cy="229.3" r="4" fill="#3465a4"><title>Heritage Tartan, The</title></circle></a><circle cx="328.2" cy="271.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db11g2db15g18w2~x2/

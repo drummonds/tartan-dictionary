@@ -24,5 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Womble](/tartans/w4db8w1db1lo6db3r6db1w4/)|
-|![Womble example sett](/setts/s9/w4db8w1db1lo6db3r6db1w4~x2/sett.png)|
+| [Womble](/setts/s9/w4dbi8w1db1lo6db3r6db1w4~x2/)|
+|![Womble example sett](/setts/s9/w4dbi8w1db1lo6db3r6db1w4~x2/sett.png)|
+| [Wombles 4 (Corporate)](/setts/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x4/)|
+|![Wombles 4 (Corporate) example sett](/setts/s9/w4db8w1dbi1lo6dbi3r6dbi1w4~x4/sett.png)|

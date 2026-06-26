@@ -1,8 +1,5 @@
 ---
 title: "Clan Pilette"
-date: 2023-03-18
+redirect: "/families/pilette-of-kinnear/"
 ---
-## Families
-
-- [Pilette of Kinnear](/families/pilette-of-kinnear/)
-
+Clan Pilette is recorded as the single family [Pilette of Kinnear](/families/pilette-of-kinnear/) — redirecting there.

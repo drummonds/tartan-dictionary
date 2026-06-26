@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Knox, David Paul (Personal)](/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/)|
-|![Knox, David Paul (Personal) example sett](/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5r1~x2/sett.png)|
+| [Knox, David Paul (Personal)](/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2/)|
+|![Knox, David Paul (Personal) example sett](/setts/s11/w2k2w2k10lb1dg40w1r4w1dg5ri1~x2/sett.png)|

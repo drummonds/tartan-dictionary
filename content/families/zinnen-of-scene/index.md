@@ -2,7 +2,7 @@
 title: "Zinnen of Scene"
 date: 2023-03-18
 ---
-A family of [Clan Zinnen](/clan/zinnen/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Scene”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Scene&viewmode=grid)
 

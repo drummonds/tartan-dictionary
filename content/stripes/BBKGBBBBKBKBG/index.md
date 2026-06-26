@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland 1782 (Fashion)](/setts/s13/g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/)|
-|![Scotland 1782 (Fashion) example sett](/setts/s13/g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/sett.png)|
+| [Scotland 1782 (Fashion)](/setts/s13/g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30t3~x2/)|
+|![Scotland 1782 (Fashion) example sett](/setts/s13/g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30t3~x2/sett.png)|

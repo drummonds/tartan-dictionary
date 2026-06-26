@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Humphries (Personal)](/setts/s14/k16k4k4k4k6k14dg17k2r3k2dg17k14k18w4~x2/)|
-|![Humphries (Personal) example sett](/setts/s14/k16k4k4k4k6k14dg17k2r3k2dg17k14k18w4~x2/sett.png)|
+| [Humphries (Personal)](/setts/s14/k16ki4k4ki4k6ki14dg17ki2r3ki2dg17ki14k18w4~x2/)|
+|![Humphries (Personal) example sett](/setts/s14/k16ki4k4ki4k6ki14dg17ki2r3ki2dg17ki14k18w4~x2/sett.png)|

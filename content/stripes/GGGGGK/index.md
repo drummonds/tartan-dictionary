@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Park Estate](/setts/s6/y4dg18dg6dg6dg24k3~x2/)|
-|![Park Estate example sett](/setts/s6/y4dg18dg6dg6dg24k3~x2/sett.png)|
+| [Park Estate](/setts/s6/y4dg18dgi6dg6dgi24k3~x2/)|
+|![Park Estate example sett](/setts/s6/y4dg18dgi6dg6dgi24k3~x2/sett.png)|

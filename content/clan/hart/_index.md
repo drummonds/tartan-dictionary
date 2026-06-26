@@ -1,8 +1,5 @@
 ---
 title: "Clan Hart"
-date: 2023-03-18
+redirect: "/families/hart-of-scotland/"
 ---
-## Families
-
-- [Hart of Scotland](/families/hart-of-scotland/)
-
+Clan Hart is recorded as the single family [Hart of Scotland](/families/hart-of-scotland/) — redirecting there.

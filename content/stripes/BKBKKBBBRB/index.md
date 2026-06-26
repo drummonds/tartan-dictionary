@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Thistle](/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/)|
-|![Scottish Thistle example sett](/setts/s10/dt2k3dt33k11k3dt3dp15dt4o1dt2~x2/sett.png)|
+| [Scottish Thistle](/setts/s10/dt2k3dt33ki11k3dt3dp15dt4o1dt2~x2/)|
+|![Scottish Thistle example sett](/setts/s10/dt2k3dt33ki11k3dt3dp15dt4o1dt2~x2/sett.png)|

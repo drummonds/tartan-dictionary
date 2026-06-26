@@ -2,7 +2,7 @@
 title: "Sunderland of Scotland"
 date: 2023-03-18
 ---
-A family of [Clan Sunderland](/clan/sunderland/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Scotland”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Scotland&viewmode=grid)
 

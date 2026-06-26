@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
+| [Sibbald Blue (2014)](/setts/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2/)|
+|![Sibbald Blue (2014) example sett](/setts/s9/dg4db22dbi6w10db3w6dp4dbi3w4~x2/sett.png)|
 | [Sibbald Blue (2014)](/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/)|
 |![Sibbald Blue (2014) example sett](/setts/s9/dg4db22dt6w10db3w6dp4dt3w4~x2/sett.png)|
-| [Sibbald Blue (2014)](/setts/s9/dg4db22db6w10db3w6dp4db3w4~x2/)|
-|![Sibbald Blue (2014) example sett](/setts/s9/dg4db22db6w10db3w6dp4db3w4~x2/sett.png)|

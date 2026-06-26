@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lalage (Personal)](/setts/s8/w4k13w17lo2r2lo24w2w2~x2/)|
-|![Lalage (Personal) example sett](/setts/s8/w4k13w17lo2r2lo24w2w2~x2/sett.png)|
+| [Lalage (Personal)](/setts/s8/wi4k13wi17lo2r2lo24wi2w2~x2/)|
+|![Lalage (Personal) example sett](/setts/s8/wi4k13wi17lo2r2lo24wi2w2~x2/sett.png)|

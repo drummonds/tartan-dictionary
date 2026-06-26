@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Merise and Lars (Personal)](/setts/s12/ly3ly3ly12k2ly2lo2ly8k2db12dp8k2dp2~x2/)|
-|![Merise and Lars (Personal) example sett](/setts/s12/ly3ly3ly12k2ly2lo2ly8k2db12dp8k2dp2~x2/sett.png)|
+| [Merise and Lars (Personal)](/setts/s12/ly3lyi3ly12k2lyi2lo2lyi8k2db12dp8k2dp2~x2/)|
+|![Merise and Lars (Personal) example sett](/setts/s12/ly3lyi3ly12k2lyi2lo2lyi8k2db12dp8k2dp2~x2/sett.png)|

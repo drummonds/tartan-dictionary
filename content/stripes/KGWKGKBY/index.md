@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mission](/setts/s8/lo2t14k1g11k2w2g2k1~x4/)|
-|![Mission example sett](/setts/s8/lo2t14k1g11k2w2g2k1~x4/sett.png)|
+| [Mission](/setts/s8/lo2t14k1gi11k2w2g2k1~x4/)|
+|![Mission example sett](/setts/s8/lo2t14k1gi11k2w2g2k1~x4/sett.png)|

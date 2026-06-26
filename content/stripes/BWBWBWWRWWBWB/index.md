@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Poulter Sonic](/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/)|
-|![Poulter Sonic example sett](/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/sett.png)|
 | [Poulter Sonic](/setts/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/)|
 |![Poulter Sonic example sett](/setts/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/sett.png)|
+| [Poulter Sonic](/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/)|
+|![Poulter Sonic example sett](/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/sett.png)|

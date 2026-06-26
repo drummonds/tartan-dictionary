@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Walls, Steve C (Personal)](/setts/s10/k3ly2k2ly14lo3k6r8r14w2r3~x2/)|
-|![Walls, Steve C (Personal) example sett](/setts/s10/k3ly2k2ly14lo3k6r8r14w2r3~x2/sett.png)|
+| [Walls, Steve C (Personal)](/setts/s10/k3ly2k2ly14lo3k6ri8r14w2r3~x2/)|
+|![Walls, Steve C (Personal) example sett](/setts/s10/k3ly2k2ly14lo3k6ri8r14w2r3~x2/sett.png)|

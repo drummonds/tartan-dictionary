@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watret](/setts/s12/db21dp21ly2r2lg2r21r21ly21db2r2dp2lg21~x2/)|
-|![Watret example sett](/setts/s12/db21dp21ly2r2lg2r21r21ly21db2r2dp2lg21~x2/sett.png)|
+| [Watret](/setts/s12/db21dp21ly2ri2lg2r21ri21ly21db2r2dp2lg21~x2/)|
+|![Watret example sett](/setts/s12/db21dp21ly2ri2lg2r21ri21ly21db2r2dp2lg21~x2/sett.png)|

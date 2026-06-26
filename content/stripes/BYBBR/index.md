@@ -24,9 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brazell (Personal)](/setts/s5/db7ly1db7b11r2~x6/)|
-|![Brazell (Personal) example sett](/setts/s5/db7ly1db7b11r2~x6/sett.png)|
 | [Brazell (Personal)](/setts/s5/db7ly1db7t11r2~x6/)|
 |![Brazell (Personal) example sett](/setts/s5/db7ly1db7t11r2~x6/sett.png)|
+| [Brazell (Personal)](/setts/s5/db7ly1db7b11r2~x6/)|
+|![Brazell (Personal) example sett](/setts/s5/db7ly1db7b11r2~x6/sett.png)|
 | [Tilburg (District)](/setts/s5/db9ly9db9t23r3~x2/)|
 |![Tilburg (District) example sett](/setts/s5/db9ly9db9t23r3~x2/sett.png)|

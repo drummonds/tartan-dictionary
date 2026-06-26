@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Ambulance Service](/setts/s16/t16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12t16r3~x2/)|
-|![Scottish Ambulance Service example sett](/setts/s16/t16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12t16r3~x2/sett.png)|
+| [Scottish Ambulance Service](/setts/s16/ti16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12ti16r3~x2/)|
+|![Scottish Ambulance Service example sett](/setts/s16/ti16k12g2k2dg32t2dg2lb3dg2t2dg32k2g2k12ti16r3~x2/sett.png)|

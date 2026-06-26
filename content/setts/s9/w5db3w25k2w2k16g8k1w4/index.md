@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/6095/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 6095
+
 ## Thread count
 LN/5 DB3 LN25 K2 LN2 K16 G8 K1 LN/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/"><circle cx="264.1" cy="91.3" r="4" fill="#3465a4"><title>Skye Dress Blue, Isle of (Dance)</title></circle></a><a href="/setts/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="281.9" cy="139.9" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="252.5" cy="131.2" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="322.5" cy="120.7" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="279.4" cy="108.7" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="243.1" cy="130.9" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="269.8" cy="114.5" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/setts/s9/w1b6w4b1w16k1g4k6ly1~x2/"><circle cx="217.2" cy="114.2" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/setts/s10/k9w4k2w4k2w29k9w4b14lo2~x2/"><circle cx="234.3" cy="128.0" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="257.8" cy="131.7" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="278.1" cy="117.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/n7w7k3w30n20k5t1w8t1k4w4k7t1w6~x2/"><circle cx="263.1" cy="91.7" r="4" fill="#3465a4"><title>Skye Dress Blue, Isle of (Dance)</title></circle></a><a href="/setts/s7/w1m2w17k11w2k4ly1~x4/"><circle cx="280.8" cy="140.7" r="4" fill="#3465a4"><title>MacPherson - 1842 (VS) Dress</title></circle></a><a href="/setts/s10/k9lb4k2lb4k2lb30k9lb4b14lo2~x2/"><circle cx="251.5" cy="131.9" r="4" fill="#3465a4"><title>Hannay (Clan)</title></circle></a><a href="/setts/s7/w3r1w30k20w3k9ly1~x2/"><circle cx="321.3" cy="121.2" r="4" fill="#3465a4"><title>MacPherson Dress (1842)</title></circle></a><a href="/setts/s10/dg7r3k3w54dg24r5dg5w5dg5r5~x2/"><circle cx="278.2" cy="109.2" r="4" fill="#3465a4"><title>Scott Dress #2</title></circle></a><a href="/setts/s10/k9w4k2w4k2w30k9w4db14ly2~x2/"><circle cx="242.1" cy="131.7" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/setts/s7/ly6dg36w5b4w30b1w2~x2/"><circle cx="268.8" cy="115.0" r="4" fill="#3465a4"><title>Pearce Scotch Plaid 4 (Fashion)</title></circle></a><a href="/setts/s9/w1b6w4b1w16k1g4k6ly1~x2/"><circle cx="216.2" cy="114.9" r="4" fill="#3465a4"><title>Henderson Dress</title></circle></a><a href="/setts/s10/k9w4k2w4k2w29k9w4b14lo2~x2/"><circle cx="233.2" cy="128.7" r="4" fill="#3465a4"><title>Hannay</title></circle></a><a href="/setts/s8/r4w19dg2w8dg2w8k38w4~x2/"><circle cx="256.8" cy="132.4" r="4" fill="#3465a4"><title>St. Piran Dress</title></circle></a><circle cx="277.0" cy="118.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w5db3w25k2w2k16g8k1w4/

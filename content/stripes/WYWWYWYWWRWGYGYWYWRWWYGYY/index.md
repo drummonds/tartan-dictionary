@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morddyn](/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/)|
-|![Morddyn example sett](/setts/s25/lt5lg13lt6w3lg5lt5lg24lt5w2r1w2g9lg18g9lg2lt4lg2w2r3w2lt12lg6g24lg6lg2~x2/sett.png)|
+| [Morddyn](/setts/s25/lt5lgi13lt6w3lg5lt5lgi24lt5w2r1w2g9lg18g9lgi2lt4lgi2w2r3w2lt12lg6g24lg6lgi2~x2/)|
+|![Morddyn example sett](/setts/s25/lt5lgi13lt6w3lg5lt5lgi24lt5w2r1w2g9lg18g9lgi2lt4lgi2w2r3w2lt12lg6g24lg6lgi2~x2/sett.png)|

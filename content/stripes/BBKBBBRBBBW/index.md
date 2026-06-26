@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish American](/setts/s11/db50dp3k3db11dp8db2r6db2db8db2w4~x2/)|
-|![Scottish American example sett](/setts/s11/db50dp3k3db11dp8db2r6db2db8db2w4~x2/sett.png)|
+| [Scottish American](/setts/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2/)|
+|![Scottish American example sett](/setts/s11/db50dp3k3db11dp8db2r6db2dbi8db2w4~x2/sett.png)|

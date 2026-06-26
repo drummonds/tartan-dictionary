@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Irving of Bonshaw Clan/Family
-
 ## Thread count
 G/108 B56 DB8 B8 Y/8
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g47r3g6db35ly3~x2/"><circle cx="364.4" cy="212.4" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/setts/s5/g18db9k1db1w1~x4/"><circle cx="379.9" cy="193.3" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/setts/s4/t1db4g10ly1~x2/"><circle cx="362.6" cy="241.7" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s4/t1db4g10w1~x2/"><circle cx="360.2" cy="240.0" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.5" cy="237.3" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><a href="/setts/s6/g24k2db3k2db8r2~x2/"><circle cx="369.8" cy="208.6" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="357.0" cy="188.3" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s6/g50db20k3db2o2db5~x2/"><circle cx="416.7" cy="173.4" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/setts/s5/g47r3g6db35lo3~x2/"><circle cx="356.9" cy="210.4" r="4" fill="#3465a4"><title>Gracie (Name)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="340.2" cy="226.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="353.5" cy="209.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/g47r3g6db35ly3~x2/"><circle cx="363.9" cy="213.0" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/setts/s5/g18db9k1db1w1~x4/"><circle cx="379.2" cy="193.8" r="4" fill="#3465a4"><title>Irvine</title></circle></a><a href="/setts/s4/t1db4g10ly1~x2/"><circle cx="362.1" cy="242.5" r="4" fill="#3465a4"><title>Wilson's No.174</title></circle></a><a href="/setts/s4/t1db4g10w1~x2/"><circle cx="359.7" cy="240.7" r="4" fill="#3465a4"><title>Wilson's, No 205</title></circle></a><a href="/setts/s4/k5g40db20ly3~x2/"><circle cx="353.1" cy="238.1" r="4" fill="#3465a4"><title>Robert Byers Family - Dooballagh, Ireland</title></circle></a><a href="/setts/s6/g24k2db3k2db8r2~x2/"><circle cx="369.4" cy="209.2" r="4" fill="#3465a4"><title>Shaw (Clan 1)</title></circle></a><a href="/setts/s8/g99db20w8db30ly8db10ly8g46/"><circle cx="356.4" cy="188.9" r="4" fill="#3465a4"><title>Duke of York Hunting</title></circle></a><a href="/setts/s6/g50db20k3db2o2db5~x2/"><circle cx="416.1" cy="173.7" r="4" fill="#3465a4"><title>St Andrews Hotel, Golf Resort, and SPA</title></circle></a><a href="/setts/s5/g47r3g6db35lo3~x2/"><circle cx="356.4" cy="211.1" r="4" fill="#3465a4"><title>Gracie (Name)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="339.9" cy="226.8" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><circle cx="353.0" cy="209.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/g27db14k2db2ly2~x4/

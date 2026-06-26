@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/820/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 820
+
 ## Thread count
 G/28 K4 DR32 K8 W28 K40 W28 K8 W/16
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g7k1m7k1w7k10w7k2w4~x2/"><circle cx="127.4" cy="186.8" r="4" fill="#3465a4"><title>Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="121.5" cy="187.0" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/setts/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="99.5" cy="194.7" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/"><circle cx="119.9" cy="198.5" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/setts/s7/w8k2y12k11w1r6y4~x2/"><circle cx="143.5" cy="193.2" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/"><circle cx="152.2" cy="166.9" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/setts/s6/r6k14r6dg14w27k4/"><circle cx="120.4" cy="207.7" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="163.9" cy="170.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/setts/s6/r6k14r6g14w27k4/"><circle cx="113.2" cy="207.4" r="4" fill="#3465a4"><title>Fraser, dress</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8lo13ly2lo4~x2/"><circle cx="157.3" cy="168.1" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><circle cx="111.1" cy="187.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/g7k1m7k1w7k10w7k2w4~x2/"><circle cx="126.7" cy="188.0" r="4" fill="#3465a4"><title>Borthwick Dress Artifact Tartan Tartan Number: 820. Earliest known date: pre 2003 No details available. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s9/g7k1r7k1w7k10w7k2w4~x2/"><circle cx="120.8" cy="188.3" r="4" fill="#3465a4"><title>Borthwick, dress</title></circle></a><a href="/setts/s9/g12k2r12k3w7k16w7k3w6~x2/"><circle cx="99.0" cy="196.1" r="4" fill="#3465a4"><title>Borthwick Dress</title></circle></a><a href="/setts/s7/dg16dp4dg8dp13k3w26dp10~x2/"><circle cx="119.3" cy="199.8" r="4" fill="#3465a4"><title>Because You Care</title></circle></a><a href="/setts/s7/w8k2y12k11w1r6y4~x2/"><circle cx="142.9" cy="194.4" r="4" fill="#3465a4"><title>Unidentified</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8o13ly2o4~x2/"><circle cx="151.5" cy="168.0" r="4" fill="#3465a4"><title>Bannockbane Grey #1</title></circle></a><a href="/setts/s6/r6k14r6dg14w27k4/"><circle cx="119.7" cy="209.1" r="4" fill="#3465a4"><title>Fraser Dress</title></circle></a><a href="/setts/s8/dr4ly2dr13ly1w8t13ly2t4~x2/"><circle cx="163.3" cy="171.8" r="4" fill="#3465a4"><title>Bannockbane, Dark Tan</title></circle></a><a href="/setts/s6/r6k14r6g14w27k4/"><circle cx="112.5" cy="208.8" r="4" fill="#3465a4"><title>Fraser, dress</title></circle></a><a href="/setts/s8/k4ly2k13ly1w8lo13ly2lo4~x2/"><circle cx="156.6" cy="169.1" r="4" fill="#3465a4"><title>Bannockbane Light Tan</title></circle></a><circle cx="110.4" cy="188.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/g7k1r8k2w7k10w7k2w4~x4/

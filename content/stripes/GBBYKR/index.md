@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rei Okamoto (Personal)](/setts/s6/r60k40ly3p5p3dg12~x2/)|
-|![Rei Okamoto (Personal) example sett](/setts/s6/r60k40ly3p5p3dg12~x2/sett.png)|
+| [Rei Okamoto (Personal)](/setts/s6/r60k40ly3pi5p3dg12~x2/)|
+|![Rei Okamoto (Personal) example sett](/setts/s6/r60k40ly3pi5p3dg12~x2/sett.png)|

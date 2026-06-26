@@ -1,8 +1,5 @@
 ---
 title: "Clan Kincaid"
-date: 2023-03-18
+redirect: "/families/kincaid-of-kincaid/"
 ---
-## Families
-
-- [Kincaid of Kincaid](/families/kincaid-of-kincaid/)
-
+Clan Kincaid is recorded as the single family [Kincaid of Kincaid](/families/kincaid-of-kincaid/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wicklow County Crest (Fashion)](/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/)|
-|![Wicklow County Crest (Fashion) example sett](/setts/s9/db16db7lo4db2lo16db2y24db8lr11~x2/sett.png)|
+| [Wicklow County Crest (Fashion)](/setts/s9/db16dbi7lo4dbi2lo16dbi2y24dbi8lr11~x2/)|
+|![Wicklow County Crest (Fashion) example sett](/setts/s9/db16dbi7lo4dbi2lo16dbi2y24dbi8lr11~x2/sett.png)|

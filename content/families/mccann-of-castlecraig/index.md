@@ -2,7 +2,7 @@
 title: "McCann of Castlecraig"
 date: 2023-03-18
 ---
-A family of [Clan McCann](/clan/mccann/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Castlecraig”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Castlecraig&viewmode=grid)
 

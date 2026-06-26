@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weston-McCue (Personal)](/setts/s17/w2n2w24lr3w2lr3lb9w2lb2w2w8w4w2w2w36w2w2~x2/)|
-|![Weston-McCue (Personal) example sett](/setts/s17/w2n2w24lr3w2lr3lb9w2lb2w2w8w4w2w2w36w2w2~x2/sett.png)|
+| [Weston-McCue (Personal)](/setts/s17/w2n2w24lr3w2lr3lb9wi2lb2wi2w8wi4w2wi2w36wi2w2~x2/)|
+|![Weston-McCue (Personal) example sett](/setts/s17/w2n2w24lr3w2lr3lb9wi2lb2wi2w8wi4w2wi2w36wi2w2~x2/sett.png)|

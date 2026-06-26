@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fountain of the Strong](/setts/s11/o6k3dg3k6r2k2r2k6dg3o14r2~x2/)|
-|![Fountain of the Strong example sett](/setts/s11/o6k3dg3k6r2k2r2k6dg3o14r2~x2/sett.png)|
+| [Fountain of the Strong](/setts/s11/o6k3dg3k6ri2k2ri2k6dg3o14r2~x2/)|
+|![Fountain of the Strong example sett](/setts/s11/o6k3dg3k6ri2k2ri2k6dg3o14r2~x2/sett.png)|

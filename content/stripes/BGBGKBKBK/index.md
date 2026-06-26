@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Begg (Scarfskerry)](/setts/s9/p4dg30db12g3k2db3k26dp4k2/)|
-|![Begg (Scarfskerry) example sett](/setts/s9/p4dg30db12g3k2db3k26dp4k2/sett.png)|
+| [Begg (Scarfskerry)](/setts/s9/p4dg30dbi12g3k2db3k26dp4k2/)|
+|![Begg (Scarfskerry) example sett](/setts/s9/p4dg30dbi12g3k2db3k26dp4k2/sett.png)|

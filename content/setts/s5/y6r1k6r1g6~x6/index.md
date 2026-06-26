@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Timespan,
-
 ## Thread count
 N/36 R6 K36 R6 G/36
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o6r1k6r1g6~x6/"><circle cx="129.5" cy="256.2" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.7" cy="248.1" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k2g10t2k9p8g2~x2/"><circle cx="127.0" cy="244.2" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="137.1" cy="235.4" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.5" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.6" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.6" cy="243.8" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.4" cy="222.5" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="84.1" cy="252.7" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.2" cy="224.4" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><circle cx="101.8" cy="245.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/o6r1k6r1g6~x6/"><circle cx="129.4" cy="257.6" r="4" fill="#3465a4"><title>Timespan</title></circle></a><a href="/setts/s6/t3g12k14t11r3t3~x2/"><circle cx="115.6" cy="249.7" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k2g10t2k9p8g2~x2/"><circle cx="126.9" cy="245.8" r="4" fill="#3465a4"><title>Lennie</title></circle></a><a href="/setts/s6/k3g14k14g2db14r3~x2/"><circle cx="137.1" cy="236.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.4" cy="237.6" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.5" cy="230.9" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/t3g6k6t4r1t1~x2/"><circle cx="128.4" cy="245.3" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s6/k4g14k14g2w14b3~x2/"><circle cx="120.1" cy="223.9" r="4" fill="#3465a4"><title>MacKay, Dress (Corporate)</title></circle></a><a href="/setts/s7/k4o9k13g6o3g9w4~x2/"><circle cx="83.9" cy="254.3" r="4" fill="#3465a4"><title>Ramsay, Red</title></circle></a><a href="/setts/s6/w4db4g22k20db20w3/"><circle cx="118.1" cy="225.8" r="4" fill="#3465a4"><title>Unnamed, No 26</title></circle></a><circle cx="101.5" cy="246.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/y6r1k6r1g6~x6/

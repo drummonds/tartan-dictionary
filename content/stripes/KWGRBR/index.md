@@ -24,5 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Norris (1998)](/setts/s6/k2w1g5r1t18r2~x2/)|
-|![Norris (1998) example sett](/setts/s6/k2w1g5r1t18r2~x2/sett.png)|
+| [Norris (1998)](/setts/s6/k2w1g5ri1t18r2~x2/)|
+|![Norris (1998) example sett](/setts/s6/k2w1g5ri1t18r2~x2/sett.png)|
+| [Norris (1998) (Name)](/setts/s6/k2w1g5r1t18r2~x2/)|
+|![Norris (1998) (Name) example sett](/setts/s6/k2w1g5r1t18r2~x2/sett.png)|

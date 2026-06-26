@@ -1,8 +1,5 @@
 ---
 title: "Clan Curnow"
-date: 2023-03-18
+redirect: "/families/curnow-of-kernow/"
 ---
-## Families
-
-- [Curnow of Kernow](/families/curnow-of-kernow/)
-
+Clan Curnow is recorded as the single family [Curnow of Kernow](/families/curnow-of-kernow/) — redirecting there.

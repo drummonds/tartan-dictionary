@@ -9,13 +9,6 @@ Sourced from house-of-tartan.  It is a [22 stripe tartan](/stripes/stripes22/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1350
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Anderson 11
-- Anderson Variant
-
 ## Thread count
 R/6 G12 K2 R4 K2 G12 R4 DB10 R4 K4 Y4 K4 Y4 K6 LN6 K6 B28 K2 R4 K2 B12 R/6
 ![Sett](sett.png)
@@ -31,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/r3g6r1db1r2db1r1g6r2db4r1k4ly1k2ly1k2w3db4t14r1db1r1t4r3~x2/"><circle cx="42.7" cy="66.1" r="4" fill="#3465a4"><title>Anderson 3</title></circle></a><a href="/setts/s24/r6dg10r2db2r4db2r2dg10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="56.6" cy="71.5" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><a href="/setts/s22/r3dg6k1r2k1dg6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="34.0" cy="74.7" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #2)</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.7" cy="65.3" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s24/r3dg6r1db1r2db1r1dg6r2db4r1k4ly1k2ly1k2w3db4t14r1db1r1t4r3~x2/"><circle cx="56.0" cy="72.0" r="4" fill="#3465a4"><title>Anderson (STS)</title></circle></a><a href="/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="29.9" cy="70.5" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="55.2" cy="77.5" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/"><circle cx="43.7" cy="94.1" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s21/r4g7k1r2k1g7p5r2k5ly2k2ly2k3w3p3db16k1r2k1db6r4~x2/"><circle cx="46.8" cy="72.6" r="4" fill="#3465a4"><title>Anderson 6</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r1k4ly1k1ly1k3w3k3t18r1k2r1t6r3~x2/"><circle cx="83.0" cy="60.0" r="4" fill="#3465a4"><title>Anderson 5</title></circle></a><circle cx="43.9" cy="80.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s24/r3g6r1db1r2db1r1g6r2db4r1k4ly1k2ly1k2w3db4t14r1db1r1t4r3~x2/"><circle cx="42.4" cy="66.7" r="4" fill="#3465a4"><title>Anderson 3</title></circle></a><a href="/setts/s24/r6dg10r2db2r4db2r2dg10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="56.2" cy="72.1" r="4" fill="#3465a4"><title>Anderson (Highland Society of London)</title></circle></a><a href="/setts/s22/r3dg6k1r2k1dg6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="33.6" cy="75.5" r="4" fill="#3465a4"><title>Anderson (Coulson Bonner #2)</title></circle></a><a href="/setts/s24/r6g10r2db2r4db2r2g10r4db8r2k8ly2k4ly2k4w6k6t27r2k2r2t10r6~x2/"><circle cx="41.3" cy="66.0" r="4" fill="#3465a4"><title>Anderson 8</title></circle></a><a href="/setts/s24/r3dg6r1db1r2db1r1dg6r2db4r1k4ly1k2ly1k2w3db4t14r1db1r1t4r3~x2/"><circle cx="55.7" cy="72.6" r="4" fill="#3465a4"><title>Anderson (STS)</title></circle></a><a href="/setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3b14k1r2k1b6r3~x2/"><circle cx="29.5" cy="71.3" r="4" fill="#3465a4"><title>Anderson 11</title></circle></a><a href="/setts/s20/r4t5r2t7r4db5r3k5ly2k3ly2k4w4k4g18r1k2r1g4r3~x2/"><circle cx="54.8" cy="78.1" r="4" fill="#3465a4"><title>Anderson of Kinneddar Hunting</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r2k4ly2k2ly2k3w3k3lg18r2k2r2lg6r3~x2/"><circle cx="43.2" cy="94.8" r="4" fill="#3465a4"><title>Anderson</title></circle></a><a href="/setts/s21/r4g7k1r2k1g7p5r2k5ly2k2ly2k3w3p3db16k1r2k1db6r4~x2/"><circle cx="46.4" cy="73.4" r="4" fill="#3465a4"><title>Anderson 6</title></circle></a><a href="/setts/s20/r4g6r2g6r3db4r1k4ly1k1ly1k3w3k3t18r1k2r1t6r3~x2/"><circle cx="82.5" cy="60.6" r="4" fill="#3465a4"><title>Anderson 5</title></circle></a><circle cx="43.6" cy="80.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s22/r3g6k1r2k1g6r2db5r2k2ly2k2ly2k3w3k3t14k1r2k1t6r3~x2/

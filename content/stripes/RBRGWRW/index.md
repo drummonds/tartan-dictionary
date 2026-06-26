@@ -24,7 +24,9 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fraser Red Dress](/setts/s7/r4db18r4dg19w25r10w4~x2/)|
-|![Fraser Red Dress example sett](/setts/s7/r4db18r4dg19w25r10w4~x2/sett.png)|
-| [Fraser, Red dress](/setts/s7/r4db18r4g19w25r10w4~x2/)|
-|![Fraser, Red dress example sett](/setts/s7/r4db18r4g19w25r10w4~x2/sett.png)|
+| [Fraser Red Dress](/setts/s7/r4db18ri4dg19w25r10w4~x2/)|
+|![Fraser Red Dress example sett](/setts/s7/r4db18ri4dg19w25r10w4~x2/sett.png)|
+| [Fraser Red Dress Clan Tartan Tartan Number: 1427. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r4db18r4g19w25r10w4~x2/)|
+|![Fraser Red Dress Clan Tartan Tartan Number: 1427. Earliest known date: pre 2003 A sample of this tartan was recorded by the Scottish Tartans Society during the period 1970 to 1990. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s7/r4db18r4g19w25r10w4~x2/sett.png)|
+| [Fraser, Red dress](/setts/s7/r4db18ri4g19w25r10w4~x2/)|
+|![Fraser, Red dress example sett](/setts/s7/r4db18ri4g19w25r10w4~x2/sett.png)|

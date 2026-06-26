@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morgan (Welsh Name)](/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/)|
-|![Morgan (Welsh Name) example sett](/setts/s11/r4r34do20r4do8r6ly2r5do2r3r4/sett.png)|
+| [Morgan (Welsh Name)](/setts/s11/ri4r34do20r4do8r6ly2r5do2r3ri4/)|
+|![Morgan (Welsh Name) example sett](/setts/s11/ri4r34do20r4do8r6ly2r5do2r3ri4/sett.png)|

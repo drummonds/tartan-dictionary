@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathmore (District)](/setts/s16/g3r15g2r2g2r2g18dy2g2dy2g2dy27k2dy2k6lo2~x2/)|
-|![Strathmore (District) example sett](/setts/s16/g3r15g2r2g2r2g18dy2g2dy2g2dy27k2dy2k6lo2~x2/sett.png)|
+| [Strathmore (District)](/setts/s16/g3r15gi2r2gi2r2gi18dy2gi2dy2gi2dy27k2dy2k6lo2~x2/)|
+|![Strathmore (District) example sett](/setts/s16/g3r15gi2r2gi2r2gi18dy2gi2dy2gi2dy27k2dy2k6lo2~x2/sett.png)|

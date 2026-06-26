@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Letham Hunting](/setts/s15/dp2k1dg6k4k1k5k2dg30k2db4k1k4dg6k1dp2~x2/)|
-|![Letham Hunting example sett](/setts/s15/dp2k1dg6k4k1k5k2dg30k2db4k1k4dg6k1dp2~x2/sett.png)|
+| [Letham Hunting](/setts/s15/dp2ki1dg6k4ki1k5ki2dg30ki2db4ki1k4dg6ki1dp2~x2/)|
+|![Letham Hunting example sett](/setts/s15/dp2ki1dg6k4ki1k5ki2dg30ki2db4ki1k4dg6ki1dp2~x2/sett.png)|

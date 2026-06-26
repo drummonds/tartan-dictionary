@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10736/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10736](https://www.tartanregister.gov.uk/tartanDetails?ref=10736)
+- Scottish Tartans Authority (ITI): 10736
+
 ## Thread count
 R/4 DB4 K6 DG50 K4 DB6 DG8 Y4 DG4 LN4 DG12 DB4 R14 K4 R6 LN/4
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/"><circle cx="261.1" cy="105.4" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/"><circle cx="251.6" cy="113.2" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="211.3" cy="108.2" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s20/k16n4o3k2db1w1r1k2o3n4k12~x4/"><circle cx="235.9" cy="99.3" r="4" fill="#3465a4"><title>Iron Horse (Corporate)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="223.1" cy="120.6" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="207.0" cy="133.2" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="216.8" cy="132.2" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="248.3" cy="120.8" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/"><circle cx="298.1" cy="104.1" r="4" fill="#3465a4"><title>Raznotravie</title></circle></a><a href="/setts/s11/r3dg24k4ly2k3db2k6r4k2r3w2~x2/"><circle cx="198.9" cy="117.7" r="4" fill="#3465a4"><title>King George VI</title></circle></a><circle cx="248.8" cy="103.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r2dp2k3dg25k2dp3dg4lo2dg2w2dg6dp2r7k2r3w2~x2/"><circle cx="260.5" cy="105.7" r="4" fill="#3465a4"><title>Hueg (Bavaria) Scottish Thistle (Personal)</title></circle></a><a href="/setts/s14/g15r1g8r3dp1r1w1r3dp1r3dp12r1g7ly1~x2/"><circle cx="250.9" cy="113.6" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s22/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="210.9" cy="108.6" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s20/k16n4o3k2db1w1r1k2o3n4k12~x4/"><circle cx="235.4" cy="99.7" r="4" fill="#3465a4"><title>Iron Horse (Corporate)</title></circle></a><a href="/setts/s16/g10k1g1k1g1k1db4k1w1k1db1ly1k1g4k1r1~x4/"><circle cx="222.7" cy="121.1" r="4" fill="#3465a4"><title>Cockburn - 1830 (Clan)</title></circle></a><a href="/setts/s12/dp4w2dp10k10g3k3g3k2g24ly2g2r4~x2/"><circle cx="206.6" cy="133.8" r="4" fill="#3465a4"><title>Kerby (Personal)</title></circle></a><a href="/setts/s14/r2g11g2b2k3lo1k1lr1k1g4r2k1r2lr1~x4/"><circle cx="216.4" cy="132.7" r="4" fill="#3465a4"><title>Stewart (King George VI)</title></circle></a><a href="/setts/s14/g15r1g8m3dp1m3w1m3dp1m3dp12r1g7ly1~x2/"><circle cx="247.7" cy="121.2" r="4" fill="#3465a4"><title>Recycled Lamb, The</title></circle></a><a href="/setts/s18/k10ly1y2k1dt2k1y2ly1k1dt2k3dt1k17y18ly1y2k1dg2~x2/"><circle cx="297.6" cy="104.4" r="4" fill="#3465a4"><title>Raznotravie</title></circle></a><a href="/setts/s11/r3dg24k4ly2k3db2k6r4k2r3w2~x2/"><circle cx="198.4" cy="118.3" r="4" fill="#3465a4"><title>King George VI</title></circle></a><circle cx="248.3" cy="104.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r2dt2k3dg25k2dt3dg4ly2dg2w2dg6dt2r7k2r3w2~x2/

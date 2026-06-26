@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mount Dora](/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/)|
-|![Mount Dora example sett](/setts/s10/k42dp4k16dg10k2r6k2dg10k3w4~x2/sett.png)|
+| [Mount Dora](/setts/s10/k42dp4k16dg10ki2r6ki2dg10ki3w4~x2/)|
+|![Mount Dora example sett](/setts/s10/k42dp4k16dg10ki2r6ki2dg10ki3w4~x2/sett.png)|

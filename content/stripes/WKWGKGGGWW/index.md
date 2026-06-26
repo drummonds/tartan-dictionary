@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Alaska (Fashion)](/setts/s10/lb49k1lb33g8k11g4g19dy2lb12lb4~x2/)|
-|![State Seal of Alaska (Fashion) example sett](/setts/s10/lb49k1lb33g8k11g4g19dy2lb12lb4~x2/sett.png)|
+| [State Seal of Alaska (Fashion)](/setts/s10/lbi49k1lb33gi8k11g4gi19dy2lb12lbi4~x2/)|
+|![State Seal of Alaska (Fashion) example sett](/setts/s10/lbi49k1lb33gi8k11g4gi19dy2lb12lbi4~x2/sett.png)|

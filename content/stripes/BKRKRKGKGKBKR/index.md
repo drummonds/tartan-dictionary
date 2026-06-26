@@ -24,7 +24,7 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Hackle (Military)](/setts/s13/dp11k1r1k1r1k7dg8k1dg8k7dp8k1r1~x4/)|
-|![Red Hackle (Military) example sett](/setts/s13/dp11k1r1k1r1k7dg8k1dg8k7dp8k1r1~x4/sett.png)|
-| [The Red Hackle](/setts/s13/db23k2r2k2r2k16g17k2g17k15db17k2r2~x2/)|
-|![The Red Hackle example sett](/setts/s13/db23k2r2k2r2k16g17k2g17k15db17k2r2~x2/sett.png)|
+| [Red Hackle (Military)](/setts/s13/dp11k1ri1k1ri1k7dg8k1dg8k7dp8k1r1~x4/)|
+|![Red Hackle (Military) example sett](/setts/s13/dp11k1ri1k1ri1k7dg8k1dg8k7dp8k1r1~x4/sett.png)|
+| [The Red Hackle](/setts/s13/db23k2ri2k2ri2k16g17k2g17k15db17k2r2~x2/)|
+|![The Red Hackle example sett](/setts/s13/db23k2ri2k2ri2k16g17k2g17k15db17k2r2~x2/sett.png)|

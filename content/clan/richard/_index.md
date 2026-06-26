@@ -1,8 +1,5 @@
 ---
 title: "Clan Richard"
-date: 2023-03-18
+redirect: "/families/richard-of-wales/"
 ---
-## Families
-
-- [Richard of Wales](/families/richard-of-wales/)
-
+Clan Richard is recorded as the single family [Richard of Wales](/families/richard-of-wales/) — redirecting there.

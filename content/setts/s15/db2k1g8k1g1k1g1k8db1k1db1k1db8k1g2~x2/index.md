@@ -9,6 +9,12 @@ Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
+## Also known as
+
+This cloth is also recorded under:
+
+- 5th Royal Scots of Canada
+
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -32,8 +38,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="201.0" cy="192.6" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.8" cy="218.7" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.5" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.3" cy="172.9" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="167.0" cy="163.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="156.0" cy="181.3" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.9" cy="172.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.6" cy="183.8" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.7" cy="227.5" r="4" fill="#3465a4"><title>Black Water</title></circle></a><circle cx="195.3" cy="180.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db11k1db1k1db1k8g8k1g8k8db8k1db1~x2/"><circle cx="200.9" cy="193.8" r="4" fill="#3465a4"><title>Black Watch, A&amp;S Highlanders</title></circle></a><a href="/setts/s13/db2k2db11k10g12k3g12k10db2k2db2k2db2~x2/"><circle cx="177.7" cy="220.1" r="4" fill="#3465a4"><title>Campbell</title></circle></a><a href="/setts/s11/k1r1g6k1g1k1g1k6db9k1db1~x2/"><circle cx="173.4" cy="174.9" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s15/db38k6db6k6db6k40g38k4r9k4g38k40db38k6db6/"><circle cx="166.2" cy="174.0" r="4" fill="#3465a4"><title>Safeway</title></circle></a><a href="/setts/s15/db23k3db3k3db3k17g22k2ly4k2g22k17db22k3db3~x2/"><circle cx="166.9" cy="164.4" r="4" fill="#3465a4"><title>Gordon 2</title></circle></a><a href="/setts/s15/db17k3db3k3db3k16g15k2w3k2g15k16db16k3db3~x2/"><circle cx="155.9" cy="182.5" r="4" fill="#3465a4"><title>Forbes</title></circle></a><a href="/setts/s11/g2k1db9k7g1k1g1k1g9r1g1~x4/"><circle cx="194.7" cy="173.8" r="4" fill="#3465a4"><title>Louise</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="152.1" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s13/db9k9g9k1w1k2w1k1g9k9db9k1g2~x4/"><circle cx="149.5" cy="185.0" r="4" fill="#3465a4"><title>Stephenson, hunting</title></circle></a><a href="/setts/s11/db1g6k2db1k3g1k2db2g1db6g1~x4/"><circle cx="176.6" cy="228.9" r="4" fill="#3465a4"><title>Black Water</title></circle></a><circle cx="195.2" cy="181.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db2k1g8k1g1k1g1k8db1k1db1k1db8k1g2~x2/

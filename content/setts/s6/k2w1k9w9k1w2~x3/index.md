@@ -9,6 +9,15 @@ Sourced from house-of-tartan.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=12466
 
+## Also known as
+
+This cloth is also recorded under:
+
+- Erskine
+- Erskine BW or Ramsay
+- Erskine Black & White
+- Erskine, or Ramsay
+
 ## Thread count
 K/6 LN3 K27 LN27 K3 LN/6
 ![Sett](sett.png)
@@ -28,8 +37,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="294.5" cy="213.5" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s5/k2w1k8w8k1~x8/"><circle cx="312.6" cy="237.3" r="4" fill="#3465a4"><title>Cairn (Marton Mills)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="304.6" cy="219.1" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="320.2" cy="229.4" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="284.4" cy="248.4" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="299.8" cy="231.1" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="294.2" cy="226.2" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="263.7" cy="182.0" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/setts/s7/w6b3w20k2w3k25w3~x2/"><circle cx="282.1" cy="169.7" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/setts/s5/k5w25r6k45w4~x2/"><circle cx="316.9" cy="198.2" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><circle cx="299.2" cy="217.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k2w1k9w9k1w2~x6/"><circle cx="293.5" cy="214.6" r="4" fill="#3465a4"><title>Erskine (Black and White)</title></circle></a><a href="/setts/s5/k2w1k8w8k1~x8/"><circle cx="311.7" cy="238.6" r="4" fill="#3465a4"><title>Cairn (Marton Mills)</title></circle></a><a href="/setts/s6/lb5k4lb32k32lb5k4~x2/"><circle cx="303.7" cy="220.4" r="4" fill="#3465a4"><title>Valley Forge (Artefact)</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="319.2" cy="230.6" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="283.5" cy="249.8" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="298.8" cy="232.3" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s6/dt3w16dt4w3dt12w2~x3/"><circle cx="293.2" cy="227.4" r="4" fill="#3465a4"><title>MacMugen</title></circle></a><a href="/setts/s9/w2k11w2k2w16k2w2k11lo2~x4/"><circle cx="262.7" cy="183.1" r="4" fill="#3465a4"><title>MacFie of Colonsay Dress (Fashion?)</title></circle></a><a href="/setts/s7/w6b3w20k2w3k25w3~x2/"><circle cx="281.1" cy="170.6" r="4" fill="#3465a4"><title>Forbes Dress (Clans Originaux)</title></circle></a><a href="/setts/s5/k5w25r6k45w4~x2/"><circle cx="315.9" cy="199.3" r="4" fill="#3465a4"><title>Shembe Zulu Church</title></circle></a><circle cx="298.3" cy="218.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k2w1k9w9k1w2~x3/

@@ -1,8 +1,8 @@
 ---
-title: "Macneil of Barra"
+title: "MacNeil of Barra"
 date: 2023-03-18
 ---
-A family of [Clan Macneil](/clan/macneil/).
+A family of [Clan MacNeil](/clan/macneil/).
 
 **Trove of Scotland:** [search “Barra”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Barra&viewmode=grid)
 

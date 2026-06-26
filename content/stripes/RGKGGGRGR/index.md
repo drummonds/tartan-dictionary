@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Battle of the Somme Centenary](/setts/s9/r3g24k4g10g3g10r5dy3o3~x2/)|
-|![Battle of the Somme Centenary example sett](/setts/s9/r3g24k4g10g3g10r5dy3o3~x2/sett.png)|
+| [Battle of the Somme Centenary](/setts/s9/r3gi24k4gi10g3gi10r5dy3o3~x2/)|
+|![Battle of the Somme Centenary example sett](/setts/s9/r3gi24k4gi10g3gi10r5dy3o3~x2/sett.png)|

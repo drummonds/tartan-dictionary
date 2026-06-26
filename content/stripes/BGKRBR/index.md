@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacWilliam](/setts/s6/r10db24r4k30g36db5/)|
-|![MacWilliam example sett](/setts/s6/r10db24r4k30g36db5/sett.png)|
+| [MacWilliam](/setts/s6/r10db24r4k30g36dbi5/)|
+|![MacWilliam example sett](/setts/s6/r10db24r4k30g36dbi5/sett.png)|

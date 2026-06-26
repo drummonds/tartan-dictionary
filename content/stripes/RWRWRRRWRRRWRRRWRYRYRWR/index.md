@@ -24,5 +24,5 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenorchy, Lord (Portrait)](/setts/s23/r50w1r12lo4r1lo4r12w1r4r1r4w1r6r1r6w1r4r1r4w1r12w1r50~x2/)|
-|![Glenorchy, Lord (Portrait) example sett](/setts/s23/r50w1r12lo4r1lo4r12w1r4r1r4w1r6r1r6w1r4r1r4w1r12w1r50~x2/sett.png)|
+| [Glenorchy, Lord (Portrait)](/setts/s23/r50w1ri12lo4ri1lo4ri12w1r4ri1r4w1ri6r1ri6w1r4ri1r4w1ri12w1r50~x2/)|
+|![Glenorchy, Lord (Portrait) example sett](/setts/s23/r50w1ri12lo4ri1lo4ri12w1r4ri1r4w1ri6r1ri6w1r4ri1r4w1ri12w1r50~x2/sett.png)|

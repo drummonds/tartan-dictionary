@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McMillen Memorial, Hugh E. (Personal)](/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/)|
-|![McMillen Memorial, Hugh E. (Personal) example sett](/setts/s12/k8k2o18k3k8k18dp4w3k12r1k2k2~x2/sett.png)|
+| [McMillen Memorial, Hugh E. (Personal)](/setts/s12/ki8k2o18k3ki8k18dp4w3k12r1k2ki2~x2/)|
+|![McMillen Memorial, Hugh E. (Personal) example sett](/setts/s12/ki8k2o18k3ki8k18dp4w3k12r1k2ki2~x2/sett.png)|

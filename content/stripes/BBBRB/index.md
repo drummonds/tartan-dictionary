@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bryson](/setts/s5/t8r3db29db29t4~x2/)|
-|![Bryson example sett](/setts/s5/t8r3db29db29t4~x2/sett.png)|
+| [Bryson](/setts/s5/t8r3dbi29db29t4~x2/)|
+|![Bryson example sett](/setts/s5/t8r3dbi29db29t4~x2/sett.png)|
 | [Romanes Check (Fashion)](/setts/s5/dt2n21dt11r21dt1~x2/)|
 |![Romanes Check (Fashion) example sett](/setts/s5/dt2n21dt11r21dt1~x2/sett.png)|

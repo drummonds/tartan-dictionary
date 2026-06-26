@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Silk Plaid #2](/setts/s7/lo7ly12dg30o12r14r11ly2~x2/)|
-|![Unidentified Silk Plaid #2 example sett](/setts/s7/lo7ly12dg30o12r14r11ly2~x2/sett.png)|
+| [Unidentified Silk Plaid #2](/setts/s7/lo7ly12dg30o12ri14r11ly2~x2/)|
+|![Unidentified Silk Plaid #2 example sett](/setts/s7/lo7ly12dg30o12ri14r11ly2~x2/sett.png)|

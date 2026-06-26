@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wisconsin in Scotland](/setts/s28/db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/)|
-|![Wisconsin in Scotland example sett](/setts/s28/db11ly1r2o1r2r2w1r2r2o1r2ly1db11w1db11ly1r2o1r2r2w1r2r2o1r2ly1db11ly1~x8/sett.png)|
+| [Wisconsin in Scotland](/setts/s28/db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/)|
+|![Wisconsin in Scotland example sett](/setts/s28/db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11w1db11ly1ri2o1ri2r2w1r2ri2o1ri2ly1db11ly1~x8/sett.png)|

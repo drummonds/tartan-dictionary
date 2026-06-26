@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dinwiddie](/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/)|
-|![Dinwiddie example sett](/setts/s10/y7y2k2y41k12g22y6k2r4k2~x2/sett.png)|
+| [Dinwiddie](/setts/s10/y7yi2k2yi41k12g22yi6k2r4k2~x2/)|
+|![Dinwiddie example sett](/setts/s10/y7yi2k2yi41k12g22yi6k2r4k2~x2/sett.png)|

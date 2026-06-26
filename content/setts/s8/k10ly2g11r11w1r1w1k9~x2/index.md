@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unnamed No 5
-
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -42,8 +36,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/"><circle cx="173.0" cy="135.2" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s8/g28t3g3k10r2k10r20ly4~x2/"><circle cx="164.1" cy="148.9" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/setts/s8/k10ly2dg11r11w1r1w1k9~x2/"><circle cx="174.2" cy="169.9" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/setts/s7/r24lr2ly3dg16k16lr2ly3~x2/"><circle cx="155.8" cy="160.9" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/setts/s7/r24lr2ly3dg16k16lr2ly3/"><circle cx="155.8" cy="160.9" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/setts/s6/w5k26lo26t7k3r3~x2/"><circle cx="162.4" cy="174.2" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.9" cy="158.8" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/"><circle cx="165.5" cy="160.7" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/setts/s6/k3ly18g6r17k31g3~x2/"><circle cx="180.0" cy="190.4" r="4" fill="#3465a4"><title>MacMillan Variant (Unidentified)</title></circle></a><a href="/setts/s7/r24lb2ly3dg16k16lb2ly3/"><circle cx="140.1" cy="149.7" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><circle cx="156.1" cy="165.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/ly4k1r16k16w3r1k16g16k1ly4~x2/"><circle cx="172.4" cy="136.2" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s8/g28t3g3k10r2k10r20ly4~x2/"><circle cx="163.5" cy="149.8" r="4" fill="#3465a4"><title>Garvock (2015)</title></circle></a><a href="/setts/s8/k10ly2dg11r11w1r1w1k9~x2/"><circle cx="173.7" cy="170.9" r="4" fill="#3465a4"><title>Unidentified No 5</title></circle></a><a href="/setts/s7/r24lr2ly3dg16k16lr2ly3~x2/"><circle cx="155.2" cy="161.9" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/setts/s7/r24lr2ly3dg16k16lr2ly3/"><circle cx="155.2" cy="161.9" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><a href="/setts/s6/w5k26lo26t7k3r3~x2/"><circle cx="161.8" cy="175.4" r="4" fill="#3465a4"><title>Cornish National (District)</title></circle></a><a href="/setts/s12/r8w2r22k8dg6k6dg6k6dg8lg3dg3lg3~x2/"><circle cx="138.5" cy="159.9" r="4" fill="#3465a4"><title>Wcwm 1712</title></circle></a><a href="/setts/s10/k3lb7lo26k26w5k26lo26lb7k3r3~x2/"><circle cx="164.8" cy="161.8" r="4" fill="#3465a4"><title>Cornish National</title></circle></a><a href="/setts/s6/k3ly18g6r17k31g3~x2/"><circle cx="179.4" cy="191.6" r="4" fill="#3465a4"><title>MacMillan Variant (Unidentified)</title></circle></a><a href="/setts/s7/r24lb2ly3dg16k16lb2ly3/"><circle cx="139.3" cy="150.7" r="4" fill="#3465a4"><title>MacLachlan W</title></circle></a><circle cx="155.6" cy="166.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k10ly2g11r11w1r1w1k9~x2/

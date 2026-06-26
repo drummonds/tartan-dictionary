@@ -8,5 +8,5 @@ A family of [Clan Nicolson](/clan/nicolson/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/db8r11g5db3ly3w5k3~x2/"><img src="/setts/s7/db8r11g5db3ly3w5k3~x2/sett.png" alt="Nicolson of Assynt &amp; Coigach" width="240"><br>Nicolson of Assynt & Coigach</a>
+<a class="tartan" href="/setts/s7/db8r11g5dbi3ly3w5k3~x2/"><img src="/setts/s7/db8r11g5dbi3ly3w5k3~x2/sett.png" alt="Nicolson of Assynt &amp; Coigach" width="240"><br>Nicolson of Assynt & Coigach</a>
 

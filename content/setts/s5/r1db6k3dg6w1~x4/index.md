@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [5 stripe tartan](/stripes/stripes5/)
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=894
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Davidson of Tulloch #2
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -41,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1r1db6k6dg6w1~x2/"><circle cx="142.2" cy="236.4" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s5/r1db7k7g7w1~x6/"><circle cx="126.6" cy="241.4" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/setts/s5/r2db12k7g8t2~x4/"><circle cx="159.8" cy="256.9" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/setts/s6/k2ly1dg6k6db6w1~x4/"><circle cx="135.4" cy="239.1" r="4" fill="#3465a4"><title>Dyce #3</title></circle></a><a href="/setts/s5/k4b2g13db13w2~x4/"><circle cx="170.3" cy="235.6" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/setts/s6/r2k1db6k2g6m2~x4/"><circle cx="118.5" cy="240.6" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s6/k4g16k14lo3n16r4~x2/"><circle cx="127.2" cy="254.5" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="173.1" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/r4db24k12g14k4lb3~x2/"><circle cx="172.5" cy="220.7" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/setts/s7/t4g14ly2k14db14k2db3~x2/"><circle cx="134.8" cy="220.9" r="4" fill="#3465a4"><title>Hogarth of Firhill (Clan)</title></circle></a><circle cx="146.7" cy="247.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1r1db6k6dg6w1~x2/"><circle cx="142.3" cy="237.7" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s5/r1db7k7g7w1~x6/"><circle cx="126.6" cy="242.8" r="4" fill="#3465a4"><title>Davidson of Tulloch (Clan)</title></circle></a><a href="/setts/s5/r2db12k7g8t2~x4/"><circle cx="159.8" cy="258.3" r="4" fill="#3465a4"><title>Forbo Nairn</title></circle></a><a href="/setts/s6/k2ly1dg6k6db6w1~x4/"><circle cx="135.4" cy="240.5" r="4" fill="#3465a4"><title>Dyce #3</title></circle></a><a href="/setts/s5/k4b2g13db13w2~x4/"><circle cx="170.2" cy="236.9" r="4" fill="#3465a4"><title>Bath</title></circle></a><a href="/setts/s6/r2k1db6k2g6m2~x4/"><circle cx="118.6" cy="242.0" r="4" fill="#3465a4"><title>MacEachain (Clan)</title></circle></a><a href="/setts/s6/k4g16k14lo3n16r4~x2/"><circle cx="127.3" cy="255.9" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="172.9" cy="232.3" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s6/r4db24k12g14k4lb3~x2/"><circle cx="172.4" cy="222.0" r="4" fill="#3465a4"><title>MacPhail Hunting #2</title></circle></a><a href="/setts/s7/t4g14ly2k14db14k2db3~x2/"><circle cx="134.9" cy="222.1" r="4" fill="#3465a4"><title>Hogarth of Firhill (Clan)</title></circle></a><circle cx="146.7" cy="248.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r1db6k3dg6w1~x4/

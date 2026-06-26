@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Burns' Birthplace (Commem)](/setts/s7/o1o1o1o1o4o3lo1~x12/)|
-|![Burns' Birthplace (Commem) example sett](/setts/s7/o1o1o1o1o4o3lo1~x12/sett.png)|
+| [Burns' Birthplace (Commem)](/setts/s7/oi1o1oi1o1oi4o3lo1~x12/)|
+|![Burns' Birthplace (Commem) example sett](/setts/s7/oi1o1oi1o1oi4o3lo1~x12/sett.png)|

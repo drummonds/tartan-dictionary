@@ -18,6 +18,12 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/1021/
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1021
+
 ## Thread count
 R/4 Y2 K4 R26 K4 R4 K4 R4 K24 R4 Y2 G/4
 ![Sett](sett.png)
@@ -33,8 +39,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="296.1" cy="128.0" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="267.6" cy="126.8" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="276.1" cy="123.1" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="295.6" cy="103.9" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s10/dg4r2k2r20t1k7r2dg10r3k2~x2/"><circle cx="306.8" cy="135.4" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="248.1" cy="160.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="279.5" cy="128.1" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="319.8" cy="126.6" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="258.6" cy="174.0" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/"><circle cx="301.8" cy="144.0" r="4" fill="#3465a4"><title>Grant</title></circle></a><circle cx="295.8" cy="137.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r5k1r2k2r16t2r2k9r2dg2r2dg13r2k2r4~x2/"><circle cx="295.1" cy="128.6" r="4" fill="#3465a4"><title>Unidentified No 3 #2</title></circle></a><a href="/setts/s13/r8k14r6ly6r34k10r6w6r6k64r44db9r6/"><circle cx="266.7" cy="127.5" r="4" fill="#3465a4"><title>First Special Service Force</title></circle></a><a href="/setts/s15/r5k1r2k2r16t2r2k9r2g2r2g13r2k2r4~x2/"><circle cx="275.1" cy="123.8" r="4" fill="#3465a4"><title>Grant, Kilt</title></circle></a><a href="/setts/s13/r4k9r3ly3r18k4r2w2r2k36r24db4r3~x2/"><circle cx="294.6" cy="104.5" r="4" fill="#3465a4"><title>First Special Services Forces (Mil)</title></circle></a><a href="/setts/s10/dg4r2k2r20t1k7r2dg10r3k2~x2/"><circle cx="305.8" cy="136.0" r="4" fill="#3465a4"><title>MacKillop (Scottish Tartan Society)</title></circle></a><a href="/setts/s10/k10t1k1r10t1k1t1r10g6r2~x2/"><circle cx="247.2" cy="161.9" r="4" fill="#3465a4"><title>Scoepaig, fragment</title></circle></a><a href="/setts/s9/r60lo4k22g5k25t8k4r4k4~x2/"><circle cx="278.6" cy="128.8" r="4" fill="#3465a4"><title>State Seal of Alabama (Fashion)</title></circle></a><a href="/setts/s15/r3db1r1g10r1g1r1db3r1lb1r12db1r1db1r3~x2/"><circle cx="318.8" cy="127.1" r="4" fill="#3465a4"><title>Grant D</title></circle></a><a href="/setts/s12/dp3r4k5r12k24r3k10r26k12dp3r6w3~x2/"><circle cx="257.7" cy="175.1" r="4" fill="#3465a4"><title>MacKinnon Black (Personal)</title></circle></a><a href="/setts/s15/r16k6r6dg46r6dg5r6k12r6t6r48k6r6k6r16/"><circle cx="300.8" cy="144.6" r="4" fill="#3465a4"><title>Grant</title></circle></a><circle cx="294.8" cy="138.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/

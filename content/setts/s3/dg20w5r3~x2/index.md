@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [3 stripe tartan](/stripes/stripes3/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3092/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3092
+
 ## Thread count
 DG/40 LN10 R/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg21lo44dg86t10/"><circle cx="372.7" cy="262.0" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/setts/s4/dg21ly43dg86t10/"><circle cx="357.6" cy="254.7" r="4" fill="#3465a4"><title>Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg21lo43dg86b10/"><circle cx="379.1" cy="263.5" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="335.8" cy="249.6" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/setts/s4/dg20w5r3~x2/"><circle cx="306.5" cy="242.5" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="343.3" cy="277.5" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s4/k4lo15k4w2~x2/"><circle cx="308.2" cy="235.5" r="4" fill="#3465a4"><title>Takla Makan #2 (Artefact)</title></circle></a><a href="/setts/s4/g8p4g1p2~x4/"><circle cx="375.3" cy="281.6" r="4" fill="#3465a4"><title>Wilson's, No 211</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.3" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/k5lo1k1~x20/"><circle cx="443.5" cy="283.6" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><circle cx="390.2" cy="268.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/dg21lo44dg86t10/"><circle cx="371.9" cy="263.1" r="4" fill="#3465a4"><title>Special Saffron (Fashion)</title></circle></a><a href="/setts/s4/dg21ly43dg86t10/"><circle cx="356.7" cy="255.8" r="4" fill="#3465a4"><title>Special Saffron Tartan Tartan Number: 201. Earliest known date: pre 2003 Y = Saffron See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/dg21lo43dg86b10/"><circle cx="378.3" cy="264.6" r="4" fill="#3465a4"><title>Special, Saffron</title></circle></a><a href="/setts/s4/k46dy7k8w20~x2/"><circle cx="334.9" cy="251.0" r="4" fill="#3465a4"><title>Lords of Skye (Fashion?)</title></circle></a><a href="/setts/s4/dg20w5r3~x2/"><circle cx="305.6" cy="243.7" r="4" fill="#3465a4"><title>Juchter (Personal)</title></circle></a><a href="/setts/s3/g9k18r2~x4/"><circle cx="342.7" cy="278.8" r="4" fill="#3465a4"><title>Cowie, Justine (Personal)</title></circle></a><a href="/setts/s4/k4lo15k4w2~x2/"><circle cx="307.3" cy="236.7" r="4" fill="#3465a4"><title>Takla Makan #2 (Artefact)</title></circle></a><a href="/setts/s4/g8p4g1p2~x4/"><circle cx="374.6" cy="282.7" r="4" fill="#3465a4"><title>Wilson's, No 211</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="342.5" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s4/k5lo1k1~x20/"><circle cx="442.6" cy="284.9" r="4" fill="#3465a4"><title>Justus #2 (Personal)</title></circle></a><circle cx="389.3" cy="269.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/dg20w5r3~x2/

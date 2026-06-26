@@ -537,6 +537,26 @@ html.tartan-bg {
   background-size: auto;
 }
 
+/* ------- home-page hero (Forgejo #44) -------
+   The full-width journey map is the masthead: Natural Earth land tracing tartan's road west to
+   Scotland, with the "Tartan Dictionary" title carried in the map's own top-right panel. The page
+   <h1> stays in the DOM but is visually hidden — the map carries the title itself. */
+.homepage-header .journey-map {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: .25rem auto 1.25rem;
+}
+.homepage-header .visually-hidden {
+  position: absolute;
+  width: 1px; height: 1px;
+  margin: -1px; padding: 0; border: 0;
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
 /* ------- weaver build stamp -------
    The in-browser weaver (and logo matcher) report their link-time build (commit + UTC date) via
    buildInfo(); weaver.js / logoweaver.js append it as #weaver-build at the foot of the tool, so a

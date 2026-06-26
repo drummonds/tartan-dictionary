@@ -14,7 +14,7 @@ background: /bg/clans.png
 
 ## Ed
 
-- [Edgar](/setts/s13/w1db16k12t2dp3t2k12db2k2db2k2db7w1~x2/)
+- [Edgar](/setts/s13/w1db16k12lb2dp3lb2k12db2k2db2k2db7w1~x2/)
 - [Edmonstone](/clan/edmonstone/) — clan
 - [Edmonstone of Duntreath](/families/edmonstone-of-duntreath/)
 - [Edwards](/setts/s9/o37db4o7db4o9db40t2db4o2/)

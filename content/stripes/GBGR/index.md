@@ -32,5 +32,5 @@ It is a 4 stripe tartan.
 |![Barwell example sett](/setts/s4/dg1db3dg3r1~x4/sett.png)|
 | [Gyle](/setts/s4/t8dg1r2~x20/)|
 |![Gyle example sett](/setts/s4/t8dg1r2~x20/sett.png)|
-| [McWilliams (2014)](/setts/s4/y22dp1y22r4~x4/)|
-|![McWilliams (2014) example sett](/setts/s4/y22dp1y22r4~x4/sett.png)|
+| [McWilliams (2014)](/setts/s4/y22dp1yi22r4~x4/)|
+|![McWilliams (2014) example sett](/setts/s4/y22dp1yi22r4~x4/sett.png)|

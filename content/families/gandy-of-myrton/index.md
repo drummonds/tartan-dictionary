@@ -2,7 +2,7 @@
 title: "Gandy of Myrton"
 date: 2023-03-18
 ---
-A family of [Clan Gandy](/clan/gandy/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Myrton”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Myrton&viewmode=grid)
 

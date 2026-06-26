@@ -1,8 +1,5 @@
 ---
 title: "Clan Donald"
-date: 2023-03-18
+redirect: "/families/donald-of-staffa-s-sett/"
 ---
-## Families
-
-- [Donald of Staffa's Sett](/families/donald-of-staffa-s-sett/)
-
+Clan Donald is recorded as the single family [Donald of Staffa's Sett](/families/donald-of-staffa-s-sett/) — redirecting there.

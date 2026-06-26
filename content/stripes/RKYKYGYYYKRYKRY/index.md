@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Purdy, R Scott (Personal)](/setts/s15/r1k1ly1k1ly6g3ly7ly1ly12k1r21ly1k1r1ly1~x2/)|
-|![Purdy, R Scott (Personal) example sett](/setts/s15/r1k1ly1k1ly6g3ly7ly1ly12k1r21ly1k1r1ly1~x2/sett.png)|
+| [Purdy, R Scott (Personal)](/setts/s15/r1k1lyi1k1ly6g3ly7lyi1ly12k1r21lyi1k1r1ly1~x2/)|
+|![Purdy, R Scott (Personal) example sett](/setts/s15/r1k1lyi1k1ly6g3ly7lyi1ly12k1r21lyi1k1r1ly1~x2/sett.png)|

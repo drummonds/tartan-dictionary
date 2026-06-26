@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fiddes (Corrected)](/setts/s7/g12r11dp12r3dp8g8dp8~x2/)|
-|![Fiddes (Corrected) example sett](/setts/s7/g12r11dp12r3dp8g8dp8~x2/sett.png)|
+| [Fiddes (Corrected)](/setts/s7/g12r11dp12ri3dp8g8dp8~x2/)|
+|![Fiddes (Corrected) example sett](/setts/s7/g12r11dp12ri3dp8g8dp8~x2/sett.png)|

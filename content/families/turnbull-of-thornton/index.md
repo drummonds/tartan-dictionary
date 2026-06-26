@@ -2,7 +2,7 @@
 title: "Turnbull of Thornton"
 date: 2023-03-18
 ---
-A family of [Clan Turnbull](/clan/turnbull/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Thornton”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Thornton&viewmode=grid)
 

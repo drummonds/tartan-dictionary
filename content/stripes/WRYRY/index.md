@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Amber Rose (Fashion)](/setts/s5/w1o6lo4o4lo1~x10/)|
-|![Amber Rose (Fashion) example sett](/setts/s5/w1o6lo4o4lo1~x10/sett.png)|
+| [Amber Rose (Fashion)](/setts/s5/w1o6loi4o4lo1~x10/)|
+|![Amber Rose (Fashion) example sett](/setts/s5/w1o6loi4o4lo1~x10/sett.png)|

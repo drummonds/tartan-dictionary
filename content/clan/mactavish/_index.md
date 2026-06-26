@@ -1,8 +1,5 @@
 ---
 title: "Clan MacTavish"
-date: 2023-03-18
+redirect: "/families/mactavish-of-dunardry/"
 ---
-## Families
-
-- [MacTavish of Dunardry](/families/mactavish-of-dunardry/)
-
+Clan MacTavish is recorded as the single family [MacTavish of Dunardry](/families/mactavish-of-dunardry/) — redirecting there.

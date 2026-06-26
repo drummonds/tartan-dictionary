@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLeod Society of Scotland](/setts/s6/g3g3r22k5db22ly2~x2/)|
-|![MacLeod Society of Scotland example sett](/setts/s6/g3g3r22k5db22ly2~x2/sett.png)|
+| [MacLeod Society of Scotland](/setts/s6/gi3g3r22k5db22ly2~x2/)|
+|![MacLeod Society of Scotland example sett](/setts/s6/gi3g3r22k5db22ly2~x2/sett.png)|

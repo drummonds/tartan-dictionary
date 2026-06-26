@@ -1,8 +1,5 @@
 ---
 title: "Clan Marshall"
-date: 2023-03-18
+redirect: "/families/marshall-of-keith/"
 ---
-## Families
-
-- [Marshall of Keith](/families/marshall-of-keith/)
-
+Clan Marshall is recorded as the single family [Marshall of Keith](/families/marshall-of-keith/) — redirecting there.

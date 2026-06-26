@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bisset](/setts/s9/r9g18k6g6k3ly3g6db8w3~x2/)|
-|![Bisset example sett](/setts/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png)|
 | [Bisset](/setts/s9/r3g6k2g2k1ly1g2db3w1~x4/)|
 |![Bisset example sett](/setts/s9/r3g6k2g2k1ly1g2db3w1~x4/sett.png)|
+| [Bisset](/setts/s9/r9g18k6g6k3ly3g6db8w3~x2/)|
+|![Bisset example sett](/setts/s9/r9g18k6g6k3ly3g6db8w3~x2/sett.png)|

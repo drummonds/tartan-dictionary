@@ -1,8 +1,5 @@
 ---
 title: "Clan MacLagan"
-date: 2023-03-18
+redirect: "/families/maclagan-of-glenquiech/"
 ---
-## Families
-
-- [MacLagan of Glenquiech](/families/maclagan-of-glenquiech/)
-
+Clan MacLagan is recorded as the single family [MacLagan of Glenquiech](/families/maclagan-of-glenquiech/) — redirecting there.

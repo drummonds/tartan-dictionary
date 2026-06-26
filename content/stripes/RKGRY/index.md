@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGleish Formal (Personal)](/setts/s5/o50k25dg10o5ly2~x2/)|
-|![MacGleish Formal (Personal) example sett](/setts/s5/o50k25dg10o5ly2~x2/sett.png)|
+| [MacGleish Formal (Personal)](/setts/s5/o50k25dg10oi5ly2~x2/)|
+|![MacGleish Formal (Personal) example sett](/setts/s5/o50k25dg10oi5ly2~x2/sett.png)|
 | [MacGleish Formal (Personal)](/setts/s5/r50k25g10o5ly2~x2/)|
 |![MacGleish Formal (Personal) example sett](/setts/s5/r50k25g10o5ly2~x2/sett.png)|

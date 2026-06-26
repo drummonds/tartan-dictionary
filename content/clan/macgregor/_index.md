@@ -12,5 +12,6 @@ date: 2023-03-18
 
 - [MacGregor of Balquhidder](/families/macgregor-of-balquhidder/)
 - [MacGregor of Cardney](/families/macgregor-of-cardney/)
+- [MacGregor of Glen Strae](/families/macgregor-of-glen-strae/)
 - [MacGregor of Glenstrae](/families/macgregor-of-glenstrae/)
 

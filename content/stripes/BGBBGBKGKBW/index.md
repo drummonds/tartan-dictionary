@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Pride of Scotland (Fashion)](/setts/s11/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/)|
-|![Highland Pride of Scotland (Fashion) example sett](/setts/s11/db9dg2dp2dp2dg18dp2k2dg1k19db33w2~x2/sett.png)|
+| [Highland Pride of Scotland (Fashion)](/setts/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2/)|
+|![Highland Pride of Scotland (Fashion) example sett](/setts/s11/db9dg2dpi2dp2dg18dpi2k2dg1k19db33w2~x2/sett.png)|

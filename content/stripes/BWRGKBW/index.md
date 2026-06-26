@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bergen Scottish](/setts/s7/db5w3r12g37k12db21w2~x2/)|
-|![Bergen Scottish example sett](/setts/s7/db5w3r12g37k12db21w2~x2/sett.png)|
+| [Bergen Scottish](/setts/s7/dbi5w3r12g37k12db21w2~x2/)|
+|![Bergen Scottish example sett](/setts/s7/dbi5w3r12g37k12db21w2~x2/sett.png)|

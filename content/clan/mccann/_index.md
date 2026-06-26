@@ -1,8 +1,5 @@
 ---
 title: "Clan McCann"
-date: 2023-03-18
+redirect: "/families/mccann-of-castlecraig/"
 ---
-## Families
-
-- [McCann of Castlecraig](/families/mccann-of-castlecraig/)
-
+Clan McCann is recorded as the single family [McCann of Castlecraig](/families/mccann-of-castlecraig/) — redirecting there.

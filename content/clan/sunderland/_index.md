@@ -1,8 +1,5 @@
 ---
 title: "Clan Sunderland"
-date: 2023-03-18
+redirect: "/families/sunderland-of-scotland/"
 ---
-## Families
-
-- [Sunderland of Scotland](/families/sunderland-of-scotland/)
-
+Clan Sunderland is recorded as the single family [Sunderland of Scotland](/families/sunderland-of-scotland/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glenorchy #2](/setts/s15/g3r2lb1b18r2g8r4lb1b8r2g18r2lb1b3lb1~x2/)|
-|![Glenorchy #2 example sett](/setts/s15/g3r2lb1b18r2g8r4lb1b8r2g18r2lb1b3lb1~x2/sett.png)|
+| [Glenorchy #2](/setts/s15/g3r2lbi1b18r2g8r4lb1b8r2g18r2lbi1b3lb1~x2/)|
+|![Glenorchy #2 example sett](/setts/s15/g3r2lbi1b18r2g8r4lb1b8r2g18r2lbi1b3lb1~x2/sett.png)|

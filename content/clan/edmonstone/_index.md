@@ -1,8 +1,5 @@
 ---
 title: "Clan Edmonstone"
-date: 2023-03-18
+redirect: "/families/edmonstone-of-duntreath/"
 ---
-## Families
-
-- [Edmonstone of Duntreath](/families/edmonstone-of-duntreath/)
-
+Clan Edmonstone is recorded as the single family [Edmonstone of Duntreath](/families/edmonstone-of-duntreath/) — redirecting there.

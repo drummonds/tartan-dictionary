@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hackett (Personal)](/setts/s7/k20w4r4g20w5g2g2~x2/)|
-|![Hackett (Personal) example sett](/setts/s7/k20w4r4g20w5g2g2~x2/sett.png)|
+| [Hackett (Personal)](/setts/s7/k20w4r4gi20w5gi2g2~x2/)|
+|![Hackett (Personal) example sett](/setts/s7/k20w4r4gi20w5gi2g2~x2/sett.png)|

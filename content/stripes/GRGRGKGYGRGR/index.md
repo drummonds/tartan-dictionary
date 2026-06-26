@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Quinn (Name?)](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/)|
-|![Quinn (Name?) example sett](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/sett.png)|
+| [Quinn (Name?)](/setts/s12/r20gi5r5gi30ly8g10k10gi30r5gi5r20g20~x2/)|
+|![Quinn (Name?) example sett](/setts/s12/r20gi5r5gi30ly8g10k10gi30r5gi5r20g20~x2/sett.png)|

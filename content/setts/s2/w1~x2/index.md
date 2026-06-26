@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [2 stripe tartan](/stripes/stripes2/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8822/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 8822
+
 ## Thread count
 W/2 Wa/2
 ![Sett](sett.png)

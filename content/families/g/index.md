@@ -12,9 +12,10 @@ background: /bg/clans.png
 ## Ga
 
 - [Gaffney](/setts/s17/ly1r2k4r14g8r2g3ly1g3r2g8r13k2r2k2r1ly1~x2/)
-- [Gallacher,](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31r31k10g4~x2/)
-- [Galloway](/setts/s4/r2k50y2r1~x2/)
-- [Galvez-Brown](/setts/s7/db36ly5r12r9dp5w12ly7~x2/)
+- [Gallacher,](/setts/s20/g7w1b7w2b6w3b5w4b4w5b3w6b2w7b1w8r31ri31k10g4~x2/)
+- [Galloway](/setts/s4/r2k50n2r1~x2/)
+- [Galloway Family](/setts/s4/r2k50y2r1~x2/)
+- [Galvez-Brown](/setts/s7/db36ly5r12ri9dp5w12ly7~x2/)
 - [Gamba](/setts/s5/dg5r3g30db30w3~x2/)
 - [Gandy](/clan/gandy/) — clan
 - [Gandy of Myrton](/families/gandy-of-myrton/)
@@ -26,7 +27,7 @@ background: /bg/clans.png
 
 - [Genet](/clan/genet/) — clan
 - [Genet of An Gwylvos](/families/genet-of-an-gwylvos/)
-- [Gettelman](/setts/s10/k60o4g25g3g4w1db1r1w1db3~x2/)
+- [Gettelman](/setts/s10/k60o4gi25g3gi4w1db1r1w1db3~x2/)
 
 ## Gi
 
@@ -58,7 +59,7 @@ background: /bg/clans.png
 
 ## Gr
 
-- [Gracey](/setts/s7/r3dp8g20k20db17k3lg3~x2/)
+- [Gracey](/setts/s7/t3k3db17k20g20dp8p3~x2/)
 - [Gracie](/setts/s8/g47r3g6db35lo3~x2/)
 - [Graeme Heckenberg Hunting](/setts/s7/db3g13lr1o3lr1db10lo1~x2/)
 - [Graham](/clan/graham/) — clan
@@ -77,10 +78,9 @@ background: /bg/clans.png
 - [Grassi](/setts/s14/k70n2k3n12k1o3k1n12k3n2k60o2n2dp3~x2/)
 - [Gray](/setts/s10/r3y33g10r3g3r3g3r8y10r3~x2/)
 - [Green Rover, The](/setts/s7/dy10k2y5k2dg46ly2k2~x2/)
-- [Greenlaw, American](/setts/s8/b46r2b3r2b14g38k3g4~x2/)
 - [Greenup](/setts/s6/do8g50t4lb2w5ly2~x2/)
 - [Greer](/setts/s8/t16db3t3o3t3db10r12w4~x2/)
-- [Grewar](/setts/s10/o2g2o16g2dp17dg10g10g15dg1w2~x2/)
+- [Grewar](/setts/s10/o2g2o16g2dp17dg10gi10g15dg1w2~x2/)
 - [Griffith](/clan/griffith/) — clan
 - [Griffith of Wales](/families/griffith-of-wales/)
 - [Griffiths](/clan/griffiths/) — clan

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Choinka Family (Inverness)](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/)|
-|![Choinka Family (Inverness) example sett](/setts/s11/k4k2ly3k2k7k9dg20k2n3k2dg4~x2/sett.png)|
+| [Choinka Family (Inverness)](/setts/s11/k4ki2ly3ki2k7ki9dg20ki2n3ki2dg4~x2/)|
+|![Choinka Family (Inverness) example sett](/setts/s11/k4ki2ly3ki2k7ki9dg20ki2n3ki2dg4~x2/sett.png)|

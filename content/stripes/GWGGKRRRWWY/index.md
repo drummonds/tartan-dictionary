@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones, Alexander Michael (Personal)](/setts/s11/dg34w6y20y20k2r2r2r2lt24w40lo13/)|
-|![Jones, Alexander Michael (Personal) example sett](/setts/s11/dg34w6y20y20k2r2r2r2lt24w40lo13/sett.png)|
+| [Jones, Alexander Michael (Personal)](/setts/s11/dg34w6yi20y20k2ri2r2ri2lt24w40lo13/)|
+|![Jones, Alexander Michael (Personal) example sett](/setts/s11/dg34w6yi20y20k2ri2r2ri2lt24w40lo13/sett.png)|

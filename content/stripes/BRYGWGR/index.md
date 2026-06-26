@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [George Watson's College](/setts/s7/r1g4w1g4ly1r8t1~x6/)|
-|![George Watson's College example sett](/setts/s7/r1g4w1g4ly1r8t1~x6/sett.png)|
+| [George Watson's College](/setts/s7/r1g4w1g4ly1ri8t1~x6/)|
+|![George Watson's College example sett](/setts/s7/r1g4w1g4ly1ri8t1~x6/sett.png)|

@@ -3,7 +3,7 @@ title: "Families & clans — M"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-284 clans and families beginning with M. [Back to the A–Z](/families/).
+288 clans and families beginning with M. [Back to the A–Z](/families/).
 
 ## M
 
@@ -17,13 +17,13 @@ background: /bg/clans.png
 - [MacAlister of Skye](/families/macalister-of-skye/)
 - [MacAllum](/clan/macallum/) — clan
 - [MacAllum of Berwick](/families/macallum-of-berwick/)
-- [MacAn](/clan/macan/) — clan
-- [MacAn of Lurgyvallan](/families/macan-of-lurgyvallan/)
+- [Macan](/clan/macan/) — clan
+- [Macan of Lurgyvallan](/families/macan-of-lurgyvallan/)
 - [MacAndreis](/setts/s10/k3dg4dt25k16dg3k3dg3k3dg6o3~x2/)
 - [MacAndrew Dress](/setts/s6/r72k8r4g16r7o2~x2/)
 - [MacAndrew Hunting](/setts/s6/y72k8y4dy16y7o2~x2/)
 - [MacArthur](/clan/macarthur/) — clan
-- [MacArthur of Milton](/families/macarthur-of-milton/)
+- [MacArthur of Milton,](/families/macarthur-of-milton/)
 - [MacArthur-Fox Dress](/setts/s11/lb4k2db3r33dg9ly3r5db10r6dg2k2~x2/)
 - [MacArthur-Fox Green](/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/)
 - [MacArthur-Fox Htg](/setts/s6/r3g30k12g1k16lo2~x2/)
@@ -42,6 +42,7 @@ background: /bg/clans.png
 - [MacCormick](/setts/s7/w3k1g20k16db20k1ly3~x2/)
 - [MacCormick Festive](/setts/s9/w3db3k1t16k1db8r3db24ly3~x2/)
 - [MacCormick Hunting](/setts/s5/k3dg20k20g20k3~x2/)
+- [MacDonagh](/setts/s7/r20dg29db10dg16r6dg10k19~x2/)
 - [MacDonald](/clan/macdonald/) — clan
 - [MacDonald of Aird & Valley](/families/macdonald-of-aird-valley/)
 - [MacDonald of Ardnamurchan](/families/macdonald-of-ardnamurchan/)
@@ -52,7 +53,7 @@ background: /bg/clans.png
 - [MacDonald of Clanranald D](/families/macdonald-of-clanranald-d/)
 - [MacDonald of Denovan](/families/macdonald-of-denovan/)
 - [MacDonald of Glenaladale](/families/macdonald-of-glenaladale/)
-- [MacDonald of Glencoe](/clan/macdonald_glencoe/) — clan
+- [MacDonald of Glencoe](/families/macdonald-of-glencoe/)
 - [MacDonald of Glencoe Artifact](/families/macdonald-of-glencoe-artifact/)
 - [MacDonald of Glengarry](/clan/macdonald_glengarry/) — clan
 - [MacDonald of Keppoch](/clan/macdonald_keppoch/) — clan
@@ -65,18 +66,17 @@ background: /bg/clans.png
 - [MacDonald of Staffa](/families/macdonald-of-staffa/)
 - [MacDonald of The Isles](/families/macdonald-of-the-isles/)
 - [MacDonald of Vallay](/families/macdonald-of-vallay/)
-- [MacDonald, of Glencoe](/families/macdonald-of-glencoe/)
 - [MacDonell](/clan/macdonell/) — clan
+- [MacDonell of Glengarry](/families/macdonell-of-glengarry/)
 - [MacDonell of Glengarry D](/families/macdonell-of-glengarry-d/)
-- [MacDonell of Glengarry,](/families/macdonell-of-glengarry/)
 - [MacDonell of Keppach](/families/macdonell-of-keppach/)
 - [MacDonell of Keppoch](/families/macdonell-of-keppoch/)
 - [MacDonnald](/clan/macdonnald/) — clan
 - [MacDonnald of ye Ylis](/families/macdonnald-of-ye-ylis/)
 - [MacDougall of Lorn](/clan/macdougall/) — clan
-- [MacDougall, of MacDougall](/families/macdougall-of-macdougall/)
+- [MacDougall of MacDougall](/families/macdougall-of-macdougall/)
 - [MacDuff](/setts/s16/r16t6k8g13r7k8g13r7k2r7k2r7g13k8t6r8~x4/)
-- [MacFarland-Collins](/setts/s6/db40b16k5b16w2dp6~x2/)
+- [MacFarland-Collins](/setts/s6/db40b16k5bi16w2dp6~x2/)
 - [MacFarlane](/setts/s27/r42k1g12w2r3k1r3w2g2dp12k4r3w4g3w4r3k4dp12g2w2r3k1r3w2g12k1r21~x4/)
 - [MacFie](/clan/macfie/) — clan
 - [MacFie of Colonsay](/families/macfie-of-colonsay/)
@@ -84,11 +84,12 @@ background: /bg/clans.png
 - [MacGill](/clan/macgill/) — clan
 - [MacGill of Jura](/families/macgill-of-jura/)
 - [MacGillivray](/setts/s27/db2r8t1r8g36r4db28r2t2r72db2t1r8t1r8t1db1r72t1r2db28r4g36r8t1r8db2~x2/)
-- [MacGillivray Dress, Janice](/setts/s13/w4b1b1w22b2w2b12r2g16r4b1r4b2~x2/)
+- [MacGillivray Dress, Janice](/setts/s13/w4b1bi1w22b2w2bi12r2g16r4b1r4bi2~x2/)
 - [MacGlashan #2](/setts/s14/n5ly1n3lb6n1lb3n1o5ly1o3ly6o1ly3o1~x4/)
 - [MacGregor (Clan Gregor)](/clan/macgregor/) — clan
 - [MacGregor of Balquhidder](/families/macgregor-of-balquhidder/)
 - [MacGregor of Cardney](/families/macgregor-of-cardney/)
+- [MacGregor of Glen Strae](/families/macgregor-of-glen-strae/)
 - [MacGregor of Glenstrae](/families/macgregor-of-glenstrae/)
 - [MacGuinness](/setts/s17/o1w5o1k1o1k1o1k1o1w5o1k24o1k1o1k1o1~x2/)
 - [MacGuire](/setts/s14/w3k2g18r2db9r18g2r2g2r2db2r3g18k2~x2/)
@@ -100,14 +101,14 @@ background: /bg/clans.png
 - [MacIntyre of Glenorchy](/families/macintyre-of-glenorchy/)
 - [MacIntyre of Littleport](/families/macintyre-of-littleport/)
 - [MacIntyre of Whitehouse](/families/macintyre-of-whitehouse/)
-- [MacIver](/clan/maciver/) — clan
+- [Maciver](/clan/maciver/) — clan
 - [Maciver of Strathendry Castle](/families/maciver-of-strathendry-castle/)
 - [MacIver of Strathendry Htg (Personal](/families/maciver-of-strathendry-htg-personal/)
 - [MacIver of Strome](/families/maciver-of-strome/)
 - [Mack](/clan/mack/) — clan
 - [Mack of Stoneywood](/families/mack-of-stoneywood/)
 - [Mackay](/clan/mackay/) — clan
-- [MacKay, of Strathnaver](/families/mackay-of-strathnaver/)
+- [MacKay of Strathnaver](/families/mackay-of-strathnaver/)
 - [MacKenzie](/clan/mackenzie/) — clan
 - [MacKerrell](/clan/mackerrell/) — clan
 - [MacKerrell of Hillhouse](/families/mackerrell-of-hillhouse/)
@@ -133,25 +134,25 @@ background: /bg/clans.png
 - [MacLean of Duart](/families/maclean-of-duart/)
 - [MacLean of Duart Htg](/families/maclean-of-duart-htg/)
 - [MacLean of Kingairloch](/families/maclean-of-kingairloch/)
-- [MacLean, Kenneth, Baron of Denboig](/setts/s11/dg19dg5k2o3dg5dg3t5k2db3dg5w2~x2/)
+- [MacLean, Kenneth, Baron of Denboig](/setts/s11/dg19dgi5k2o3dg5dgi3t5k2db3dgi5w2~x2/)
 - [MacLellan](/clan/maclellan/) — clan
 - [MacLellan of Gartbreck](/families/maclellan-of-gartbreck/)
 - [MacLeod](/clan/macleod/) — clan
-- [MacLeod of Argentina](/families/macleod-of-argentina/)
 - [MacLeod of Assynt](/families/macleod-of-assynt/)
 - [MacLeod of Gesto](/families/macleod-of-gesto/)
 - [MacLeod of Lewis](/families/macleod-of-lewis/)
 - [MacLeod of Raasay](/families/macleod-of-raasay/)
 - [MacLeod of Skye](/families/macleod-of-skye/)
 - [MacLeod of Tullibardine](/families/macleod-of-tullibardine/)
+- [MacLeod, of Argentina](/families/macleod-of-argentina/)
 - [MacLeroy and Troine 1987](/setts/s10/k4t6w4t6do8t37lr12do46o6lo4/)
-- [MacMaster #1](/setts/s7/lb2g6r1g1r14k1lb1~x4/)
+- [MacMaster #1](/setts/s7/lb2g6r1g1r14k1lbi1~x4/)
 - [MacMaster #2](/setts/s24/dg34k1r4w1r4k1dg4k1ly2k1dg7k1r3k1dg3k1r3k1dg3w1db5w1ly4w2~x2/)
 - [MacMillan Varient](/setts/s6/k3ly18dg6r17k31dg3~x2/)
-- [MacNab](/setts/s26/r1g6r6r6r1r6r6g1r1g1r1g1r1g6r1g1r1g1r6r6r1r6r6g6r1g1~x8/)
+- [MacNab](/setts/s4/dg15r3db11t2~x2/)
 - [MacNaughton](/setts/s17/k2t2r32g32k24t18r32t2k2t2r32t18k24g32r32t2k1~x2/)
-- [Macneil](/clan/macneil/) — clan
-- [Macneil of Barra](/families/macneil-of-barra/)
+- [MacNeil](/clan/macneil/) — clan
+- [MacNeil of Barra](/families/macneil-of-barra/)
 - [MacNeil of Colonsay](/families/macneil-of-colonsay/)
 - [MacNeish](/setts/s12/g6r3k3r24g4k10r2g4r2g24r6g2~x2/)
 - [MacNiel](/clan/macniel/) — clan
@@ -172,7 +173,8 @@ background: /bg/clans.png
 - [MacRae of Inverinate](/families/macrae-of-inverinate/)
 - [MacRaes](/clan/macraes/) — clan
 - [MacRaes of America](/families/macraes-of-america/)
-- [MacSporran Rejected design](/setts/s6/dg30dg13dg7dg30dg2ly4~x2/)
+- [MacSporran Rejected design](/setts/s6/dg30dgi13dg7dgi30dg2ly4~x2/)
+- [MacSween Hunting (Lochs, Isle of Lew](/setts/s7/g3r3g31dg18g4k22ly3/)
 - [MacTavish](/clan/mactavish/) — clan
 - [MacTavish of Dunardry](/families/mactavish-of-dunardry/)
 - [MacTier](/clan/mactier/) — clan
@@ -185,7 +187,7 @@ background: /bg/clans.png
 - [Manderson #2](/setts/s10/k2o10k5dg8k12r20t16r4t5w2~x2/)
 - [Mangles, Peter and Annette (Personal](/setts/s7/r20k5dg5r5w5o3dg3~x4/)
 - [Manson](/setts/s9/dg1r11dg3k4dg4r1k2db11w1~x2/)
-- [Marchant](/setts/s7/dg15k8db15k8dg23k8w3~x2/)
+- [Marchant](/setts/s7/dg15ki8db15ki8dg23k8w3~x2/)
 - [Margach, William](/setts/s6/m4k3t18r3dp34w3~x2/)
 - [Marshall](/clan/marshall/) — clan
 - [Marshall of Keith](/families/marshall-of-keith/)
@@ -199,7 +201,7 @@ background: /bg/clans.png
 
 ## Mc
 
-- [McAleavy](/setts/s11/y56lb6ly6ly2w2ly2w16lb10w2y6r3~x2/)
+- [McAleavy](/setts/s11/y56lb6ly6lyi2w2lyi2w16lb10w2y6r3~x2/)
 - [McCabe](/setts/s6/db8ly1dg5ly12r1dg2~x6/)
 - [McCaig](/setts/s14/r4t11k4t4k4t4k21db21w4db21k21t20k1r4~x2/)
 - [McCall](/setts/s15/r8k5r8g27r8w2r3g3r3w2r8o27r8o3r3~x2/)
@@ -207,6 +209,7 @@ background: /bg/clans.png
 - [McCandlish Arisaid, Grey](/setts/s11/lb3k1n12k1n1k2n1k6w12k1lo1~x4/)
 - [McCandlish Arisaid, Red](/setts/s11/lb3k1r12k1r1k2r1k6w12k1lo1~x4/)
 - [McCandlish Dress, Grey](/setts/s11/lb3k1n12k1n1k2n1k6lr12k1lo1~x4/)
+- [McCandlish Htg, Green](/setts/s11/lb3k1gi12k1gi1k2gi1k6g12k1lo1~x4/)
 - [McCann](/clan/mccann/) — clan
 - [McCann of Castlecraig](/families/mccann-of-castlecraig/)
 - [McCarter](/setts/s8/o4k2dy15k2dg15db15k2r1~x2/)
@@ -221,19 +224,19 @@ background: /bg/clans.png
 - [McEachern, Andrew](/setts/s6/do7w1r6db10g10w1~x4/)
 - [McFarland-Collins](/setts/s6/db40n16k5dt16w2dp6~x2/)
 - [McGirr, David](/setts/s12/dg13r1dg13t6r1w6dg13r1dg13w6r1t6~x2/)
-- [McGovern](/setts/s5/dt62o4dy10dy3dg21~x2/)
+- [McGovern](/setts/s5/dt62o4dy10dyi3dg21~x2/)
 - [McGrane](/setts/s12/g13do7g13do2g13do2g13do2w3lo4w3g4~x2/)
 - [McGuirk](/setts/s12/dg4r1dg1r3dg16k12r1db27lb2db3lb1ly2~x2/)
 - [McHale, Barry](/setts/s6/t15k10dt30o11w3lg5~x2/)
 - [McKerrell](/clan/mckerrell/) — clan
 - [McKerrell of Hillhouse](/families/mckerrell-of-hillhouse/)
 - [McKirgan](/setts/s11/dg2n2w1r2w1n3dg1n12dg18w1r2~x2/)
-- [McMeeken](/setts/s10/r7g20ly2g4k5b4k2b20k3w1~x2/)
+- [McMeeken](/setts/s10/o7dg20y2dg4k5db4k2db20k3w1~x2/)
 - [McMuldroch](/setts/s10/g19k18r18w2ly2dp2ly2w2r8dp3~x2/)
-- [McNair](/setts/s24/r2r1dg1r1g1r1k2r2r2r1dg2g1ly1g1ly1g1ly1r2k8r1g1r1k3r1~x10/)
+- [McNair](/setts/s24/ri2r1dg1r1g1r1k2r2ri2r1dg2g1ly1g1ly1g1ly1ri2k8r1g1r1k3r1~x10/)
 - [McNee](/setts/s7/k9w2r50g42r16g17k4/)
-- [McWilliams](/setts/s4/y22dp1y22r4~x4/)
-- [McWilliams Dress](/setts/s12/db3r2db13k9k3k2k14k2k3k9db15w3~x2/)
+- [McWilliams](/setts/s12/k3dt15k9do3k2do14k2do3k9dt13k2dt3~x2/)
+- [McWilliams Dress](/setts/s12/dt3r2dt13k9do3k2do14k2do3k9dt15lb3~x2/)
 - [McWilliams Hunting](/setts/s4/o22m1y22dr4~x4/)
 
 ## Me
@@ -241,9 +244,9 @@ background: /bg/clans.png
 - [Mead](/clan/mead/) — clan
 - [Mead of Poetry](/families/mead-of-poetry/)
 - [Mead Of Poetry, The](/families/mead-of-poetry-the/)
-- [Meeson Formal](/setts/s6/b26n10dt19r6ly2b9~x2/)
+- [Meeson Formal](/setts/s6/bi26n10dt19r6ly2b9~x2/)
 - [Meeson Hunting](/setts/s6/k26n10dt19r6ly2db9~x2/)
-- [Meirhaeghe, Van](/setts/s12/db28k6lo2r2k6db12db5db5db5db3r8w3~x2/)
+- [Meirhaeghe, Van](/setts/s12/dbi28k6ly2r2k6dbi12db5dbi5db5dbi3r8w3~x2/)
 - [Melieres-Frost](/setts/s13/k4w1r2g16r8g8r15lo1r14ly2r2k1w4~x2/)
 - [Mellor](/setts/s6/w8k16g32dt3lo5w5~x2/)
 - [Mellor, Phillip](/setts/s7/do8w8k16dg32dp3lo5w5~x2/)
@@ -258,12 +261,12 @@ background: /bg/clans.png
 
 ## Mi
 
-- [Michie](/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27r4t4r4t27/)
+- [Michie](/setts/s24/p35g8p6g4p12g4p6g8p54k6p54g8p6g4p12g4p6g8p35t27ri4t4r4t27/)
 - [Michie Dress, Andrew](/setts/s5/dp62g5dg20lg5k1~x2/)
 - [Milling-Christensen](/setts/s5/w8r6ly2g34b3~x2/)
 - [Milne](/clan/milne/) — clan
 - [Milne of Corstorphine](/families/milne-of-corstorphine/)
-- [Milne-Murtagh](/setts/s7/m5y2k30y26y2y2k4~x2/)
+- [Milne-Murtagh](/setts/s7/m5yii2k30yi26y2yi2ki4~x2/)
 - [Miss Emma Halford-MacLeod](/setts/s10/w102dt3ly3dt3w3dt12n14g12w3o3~x2/)
 
 ## Mo
@@ -279,14 +282,14 @@ background: /bg/clans.png
 - [Moray](/clan/moray/) — clan
 - [Moray of Abercairney](/families/moray-of-abercairney/)
 - [Moray of Abercairny](/families/moray-of-abercairny/)
-- [Morgan in Maryland](/setts/s9/db4k1g18dy2g11dy11lg18k1r4~x2/)
+- [Morgan in Maryland](/setts/s9/db4k1lg18y2lg11y11lb18k1r4~x2/)
 - [Morris](/clan/morris/) — clan
 - [Morris of Balgonie](/families/morris-of-balgonie/)
 - [Morris of Balgonie Arisaid (Personal](/families/morris-of-balgonie-arisaid-personal/)
 - [Morris of Balgonie Htg](/families/morris-of-balgonie-htg/)
 - [Morris of Eddergoll](/families/morris-of-eddergoll/)
 - [Morris of Wales](/families/morris-of-wales/)
-- [Moskyok-Collins (Personal](/setts/s12/ly6w2n4lb1db6lb1db40lb1db6lb1n4w4~x2/)
+- [Moskyok-Collins (Personal](/setts/s12/ly6w2n4lb1dbi6lb1db40lb1dbi6lb1n4w4~x2/)
 - [Mostyn](/setts/s9/r20k2r2k2r2k8g24db2g3~x2/)
 
 ## Mu
@@ -301,15 +304,16 @@ background: /bg/clans.png
 - [Murray](/clan/murray/) — clan
 - [Murray (Duke of Atholl)](/clan/murray_atholl/) — clan
 - [Murray of Abercairney](/families/murray-of-abercairney/)
-- [Murray of Atholl,](/families/murray-of-atholl/)
+- [Murray of Atholl](/families/murray-of-atholl/)
 - [Murray of Dunmore](/families/murray-of-dunmore/)
 - [Murray of Elibank](/families/murray-of-elibank/)
 - [Murray of Ochtertyre](/families/murray-of-ochtertyre/)
 - [Murray of Polmaise](/families/murray-of-polmaise/)
 - [Murray of Tullibardine](/families/murray-of-tullibardine/)
 - [Murtaugh Hunting](/setts/s21/r4k4o4ly2o2w2o2ly2o2w2k4g3k2g24w2k2o3k3w2r4k2~x2/)
+- [Muzzi, Massimiliano Baron of Striche](/setts/s16/ly2o1r19k2r8k3g9k3g6k2db6k1db5k2r27w1~x2/)
 
 ## My
 
-- [Myles, Lee](/setts/s10/r2lb3r1lb9k4lb13k33lb1k4r1~x2/)
+- [Myles, Lee](/setts/s10/m2n3m1n9k4n13k33n1k4m1~x2/)
 

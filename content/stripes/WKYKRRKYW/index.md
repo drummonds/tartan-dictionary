@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Calgary HOG](/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/)|
-|![Calgary HOG example sett](/setts/s9/lb4lr6k4r2r10k44lr1k1lb2~x2/sett.png)|
+| [Calgary HOG](/setts/s9/lb4lr6k4ri2r10k44lr1k1lb2~x2/)|
+|![Calgary HOG example sett](/setts/s9/lb4lr6k4ri2r10k44lr1k1lb2~x2/sett.png)|

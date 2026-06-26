@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [BlackRock (Asymmetrical)](/setts/s7/w8r4k8k20k6k3k5~x2/)|
-|![BlackRock (Asymmetrical) example sett](/setts/s7/w8r4k8k20k6k3k5~x2/sett.png)|
+| [BlackRock (Asymmetrical)](/setts/s7/w8r4ki8kii20k6kii3k5~x2/)|
+|![BlackRock (Asymmetrical) example sett](/setts/s7/w8r4ki8kii20k6kii3k5~x2/sett.png)|

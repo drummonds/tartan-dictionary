@@ -2,7 +2,7 @@
 title: "Baxter of Balgavies"
 date: 2023-03-18
 ---
-A family of [Clan Baxter](/clan/baxter/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Balgavies”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Balgavies&viewmode=grid)
 

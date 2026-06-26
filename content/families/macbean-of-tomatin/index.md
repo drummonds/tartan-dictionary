@@ -2,7 +2,7 @@
 title: "MacBean of Tomatin"
 date: 2023-03-18
 ---
-A family of [Clan MacBean](/clan/macbean/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Tomatin”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Tomatin&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Tourist Guides Association](/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/)|
-|![Scottish Tourist Guides Association example sett](/setts/s13/g12dp3y3dp3y3dp12db3dp3db2dp2db14y1w3~x2/sett.png)|
+| [Scottish Tourist Guides Association](/setts/s13/g12dp3yi3dp3yi3dp12db3dp3db2dp2db14y1w3~x2/)|
+|![Scottish Tourist Guides Association example sett](/setts/s13/g12dp3yi3dp3yi3dp12db3dp3db2dp2db14y1w3~x2/sett.png)|

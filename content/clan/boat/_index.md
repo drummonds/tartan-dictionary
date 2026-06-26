@@ -1,8 +1,5 @@
 ---
 title: "Clan Boat"
-date: 2023-03-18
+redirect: "/families/boat-of-garten/"
 ---
-## Families
-
-- [Boat of Garten](/families/boat-of-garten/)
-
+Clan Boat is recorded as the single family [Boat of Garten](/families/boat-of-garten/) — redirecting there.

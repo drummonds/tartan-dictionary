@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elgin - Landshut](/setts/s14/r1k6g1k1g1k1g6k1b1k1k3k3g3w1~x8/)|
-|![Elgin - Landshut example sett](/setts/s14/r1k6g1k1g1k1g6k1b1k1k3k3g3w1~x8/sett.png)|
+| [Elgin - Landshut](/setts/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8/)|
+|![Elgin - Landshut example sett](/setts/s14/r1ki6g1k1g1k1g6k1b1k1ki3k3g3w1~x8/sett.png)|

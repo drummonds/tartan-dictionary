@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hebridean Heather](/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/)|
-|![Hebridean Heather example sett](/setts/s9/n4dt2n7dt30n8dt7r5dt1w2~x2/sett.png)|
+| [Hebridean Heather](/setts/s9/n4dt2n7dti30n8dti7r5dt1w2~x2/)|
+|![Hebridean Heather example sett](/setts/s9/n4dt2n7dti30n8dti7r5dt1w2~x2/sett.png)|

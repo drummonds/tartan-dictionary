@@ -2,7 +2,7 @@
 title: "Ogilvy of Airlie"
 date: 2023-03-18
 ---
-A family of [Clan Ogilvy](/clan/ogilvy/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Airlie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Airlie&viewmode=grid)
 

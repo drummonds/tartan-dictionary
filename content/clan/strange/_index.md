@@ -1,8 +1,5 @@
 ---
 title: "Clan Strange"
-date: 2023-03-18
+redirect: "/families/strange-of-balcaskie/"
 ---
-## Families
-
-- [Strange of Balcaskie](/families/strange-of-balcaskie/)
-
+Clan Strange is recorded as the single family [Strange of Balcaskie](/families/strange-of-balcaskie/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beanpole Brown Trial](/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/)|
-|![Beanpole Brown Trial example sett](/setts/s12/o4do31o2r2o2r2o2do2do2do4do11o4/sett.png)|
+| [Beanpole Brown Trial](/setts/s12/o4do31o2r2o2r2o2do2doi2do4doi11o4/)|
+|![Beanpole Brown Trial example sett](/setts/s12/o4do31o2r2o2r2o2do2doi2do4doi11o4/sett.png)|

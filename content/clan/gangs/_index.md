@@ -1,8 +1,5 @@
 ---
 title: "Clan Gangs"
-date: 2023-03-18
+redirect: "/families/gangs-of-new-york-fashion-check/"
 ---
-## Families
-
-- [Gangs of New York Fashion Check](/families/gangs-of-new-york-fashion-check/)
-
+Clan Gangs is recorded as the single family [Gangs of New York Fashion Check](/families/gangs-of-new-york-fashion-check/) — redirecting there.

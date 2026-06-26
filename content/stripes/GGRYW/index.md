@@ -24,5 +24,5 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Phinn (Personal)](/setts/s5/dg11dg3r4ly2w2~x10/)|
-|![Phinn (Personal) example sett](/setts/s5/dg11dg3r4ly2w2~x10/sett.png)|
+| [Phinn (Personal)](/setts/s5/dg11dgi3r4ly2w2~x10/)|
+|![Phinn (Personal) example sett](/setts/s5/dg11dgi3r4ly2w2~x10/sett.png)|

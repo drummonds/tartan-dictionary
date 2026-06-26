@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davis](/setts/s8/k3ly2k3r8k8r8dg2r3~x4/)|
-|![Davis example sett](/setts/s8/k3ly2k3r8k8r8dg2r3~x4/sett.png)|
+| [Davis](/setts/s8/k3ly2k3ri8k8r8dg2r3~x4/)|
+|![Davis example sett](/setts/s8/k3ly2k3ri8k8r8dg2r3~x4/sett.png)|

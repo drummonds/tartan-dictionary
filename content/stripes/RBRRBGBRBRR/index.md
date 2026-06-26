@@ -24,11 +24,11 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Drumlithie](/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/)|
-|![Drumlithie example sett](/setts/s11/r2dp3r2r15dp2g20dp20r15dp3r2r2~x2/sett.png)|
-| [Drumlithie - 1790 (Fashion)](/setts/s11/r2dp3r2r15dp2dg20dp20r15dp3r2r2~x2/)|
-|![Drumlithie - 1790 (Fashion) example sett](/setts/s11/r2dp3r2r15dp2dg20dp20r15dp3r2r2~x2/sett.png)|
-| [Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r2dp3r2r15dp3g19dp20r15dp3r2r2~x2/)|
-|![Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/r2dp3r2r15dp3g19dp20r15dp3r2r2~x2/sett.png)|
-| [Drumlithie, Rock and Wheel](/setts/s11/r2p3r2r15p3g19p20r15p3r2r2~x2/)|
-|![Drumlithie, Rock and Wheel example sett](/setts/s11/r2p3r2r15p3g19p20r15p3r2r2~x2/sett.png)|
+| [Drumlithie](/setts/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2/)|
+|![Drumlithie example sett](/setts/s11/r2dp3ri2r15dp2g20dp20r15dp3ri2r2~x2/sett.png)|
+| [Drumlithie - 1790 (Fashion)](/setts/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2/)|
+|![Drumlithie - 1790 (Fashion) example sett](/setts/s11/r2dp3ri2r15dp2dg20dp20r15dp3ri2r2~x2/sett.png)|
+| [Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2/)|
+|![Drumlithie Rock and Wheel Tartan Tartan Number: 1414. Earliest known date: pre 2003 tba See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s11/r2dp3ri2r15dp3g19dp20r15dp3ri2r2~x2/sett.png)|
+| [Drumlithie, Rock and Wheel](/setts/s11/r2p3ri2r15p3g19p20r15p3ri2r2~x2/)|
+|![Drumlithie, Rock and Wheel example sett](/setts/s11/r2p3ri2r15p3g19p20r15p3ri2r2~x2/sett.png)|

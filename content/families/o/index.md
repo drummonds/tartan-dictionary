@@ -3,7 +3,7 @@ title: "Families & clans — O"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-24 clans and families beginning with O. [Back to the A–Z](/families/).
+23 clans and families beginning with O. [Back to the A–Z](/families/).
 
 ## O
 
@@ -11,11 +11,10 @@ background: /bg/clans.png
 - [O'Brien](/setts/s12/lo13g6ly2g3ly2g6lb3g2lb3g12r3g6~x2/)
 - [O'Connell, William](/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/)
 - [O'Connor](/setts/s16/g5k12g6k8g13w2g12w2g13k8b2k2b2k2b14g3~x2/)
-- [O'Connor / Ochiltree](/setts/s19/db12k1g2k1g2k1db12r2k12k1k12r2g12k1db2k1db2k1g12~x4/)
+- [O'Connor / Ochiltree](/setts/s19/db12ki1g2ki1g2ki1db12r2ki12k1ki12r2g12ki1db2ki1db2ki1g12~x4/)
 - [O'Doherty](/setts/s13/w2dt10dg3dt2dg3k18dg10ly1dg3ly2dg2k2ly2~x2/)
 - [O'Farrell](/setts/s13/w2lo14ly3k6w2k2w2k2g8lo6k2lo3w1~x2/)
-- [O'Keefe](/setts/s12/k8r2k3ly2k2w3k2lo12y22r2y2k1~x2/)
-- [O'Neill, Martin](/setts/s13/g24g2g4g16g1k2g1g16g3ly1g12y2g5~x2/)
+- [O'Neill, Martin](/setts/s13/gi24g2gi4g16gi1k2gi1g16gi3ly1gi12y2gi5~x2/)
 
 ## Oa
 
@@ -23,7 +22,7 @@ background: /bg/clans.png
 
 ## Oc
 
-- [Ochiltree](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x4/)
+- [Ochiltree](/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/)
 
 ## Og
 

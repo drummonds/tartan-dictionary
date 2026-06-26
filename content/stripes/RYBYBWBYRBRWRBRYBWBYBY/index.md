@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/)|
-|![Stuart/Stewart - Prince Charles Edward example sett](/setts/s22/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/sett.png)|
+| [Stuart/Stewart - Prince Charles Edward](/setts/s22/r14lg4dt6ly1dt2w2dt2lgi12r6dt2r2w1~x4/)|
+|![Stuart/Stewart - Prince Charles Edward example sett](/setts/s22/r14lg4dt6ly1dt2w2dt2lgi12r6dt2r2w1~x4/sett.png)|

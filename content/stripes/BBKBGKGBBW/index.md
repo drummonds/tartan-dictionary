@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cowal](/setts/s10/db6db22k12dp10g3k1g3dp10db2w2~x2/)|
-|![Cowal example sett](/setts/s10/db6db22k12dp10g3k1g3dp10db2w2~x2/sett.png)|
+| [Cowal](/setts/s10/dbi6db22k12dp10g3k1g3dp10dbi2w2~x2/)|
+|![Cowal example sett](/setts/s10/dbi6db22k12dp10g3k1g3dp10dbi2w2~x2/sett.png)|
 | [Cowal (Corporate)](/setts/s10/db6dt22k12dp10g3k1g3dp10db2w2~x2/)|
 |![Cowal (Corporate) example sett](/setts/s10/db6dt22k12dp10g3k1g3dp10db2w2~x2/sett.png)|

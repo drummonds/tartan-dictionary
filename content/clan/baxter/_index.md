@@ -1,8 +1,5 @@
 ---
 title: "Clan Baxter"
-date: 2023-03-18
+redirect: "/families/baxter-of-balgavies/"
 ---
-## Families
-
-- [Baxter of Balgavies](/families/baxter-of-balgavies/)
-
+Clan Baxter is recorded as the single family [Baxter of Balgavies](/families/baxter-of-balgavies/) — redirecting there.

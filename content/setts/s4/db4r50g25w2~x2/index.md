@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unidentified, Locket
-
 ## Thread count
 B/8 R100 G50 LN/4
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db4r50dg25w2~x2/"><circle cx="414.8" cy="174.9" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.3" cy="138.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.4" cy="137.8" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="426.0" cy="139.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r35g16r5g5w2k3~x2/"><circle cx="380.5" cy="161.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.0" cy="134.2" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r96g42r16g17k4y6/"><circle cx="422.6" cy="167.4" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/setts/s4/r80t40k5lo6/"><circle cx="406.5" cy="203.6" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="419.6" cy="150.9" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/r35dg16r5dg5w2k3~x2/"><circle cx="387.6" cy="160.5" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="419.9" cy="181.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/db4r50dg25w2~x2/"><circle cx="413.4" cy="175.5" r="4" fill="#3465a4"><title>Unidentified Locket</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="420.9" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="427.1" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="424.7" cy="139.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r35g16r5g5w2k3~x2/"><circle cx="379.2" cy="162.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="420.6" cy="134.5" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r96g42r16g17k4y6/"><circle cx="421.5" cy="167.9" r="4" fill="#3465a4"><title>MacGregor, Glengyle</title></circle></a><a href="/setts/s4/r80t40k5lo6/"><circle cx="405.3" cy="204.3" r="4" fill="#3465a4"><title>Broberg (Scania) (Personal)</title></circle></a><a href="/setts/s6/r60k2w3dg20r10dg20~x2/"><circle cx="418.3" cy="151.3" r="4" fill="#3465a4"><title>Greig (Personal)</title></circle></a><a href="/setts/s6/r35dg16r5dg5w2k3~x2/"><circle cx="386.2" cy="161.0" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="418.6" cy="182.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/db4r50g25w2~x2/

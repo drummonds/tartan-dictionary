@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hatcher (Personal)](/setts/s7/lp33r7db9dp7g12r3k29~x2/)|
-|![Hatcher (Personal) example sett](/setts/s7/lp33r7db9dp7g12r3k29~x2/sett.png)|
+| [Hatcher (Personal)](/setts/s7/lp33ri7db9dp7g12r3k29~x2/)|
+|![Hatcher (Personal) example sett](/setts/s7/lp33ri7db9dp7g12r3k29~x2/sett.png)|

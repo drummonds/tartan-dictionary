@@ -1,5 +1,5 @@
 ---
-title: "Clan MacIver"
+title: "Clan Maciver"
 date: 2023-03-18
 ---
 ## Families

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Covington, Christopher (Personal)](/setts/s12/k33w3k2db7k2w3k5db21k15db1lt18db1~x2/)|
-|![Covington, Christopher (Personal) example sett](/setts/s12/k33w3k2db7k2w3k5db21k15db1lt18db1~x2/sett.png)|
+| [Covington, Christopher (Personal)](/setts/s12/k33w3k2dbi7k2w3k5db21k15db1lt18db1~x2/)|
+|![Covington, Christopher (Personal) example sett](/setts/s12/k33w3k2dbi7k2w3k5db21k15db1lt18db1~x2/sett.png)|

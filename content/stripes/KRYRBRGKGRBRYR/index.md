@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewarton (Personal)](/setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/)|
-|![Stewarton (Personal) example sett](/setts/s14/o3lr3o3db3o3g3k1g3o3db3o3lr3o3k1~x4/sett.png)|
+| [Stewarton (Personal)](/setts/s14/o3lr3oi3db3oi3g3k1g3oi3db3oi3lr3o3k1~x4/)|
+|![Stewarton (Personal) example sett](/setts/s14/o3lr3oi3db3oi3g3k1g3oi3db3oi3lr3o3k1~x4/sett.png)|

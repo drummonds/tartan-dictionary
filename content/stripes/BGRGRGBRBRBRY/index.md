@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cuthill (Personal)](/setts/s13/db3g4r2g3r3g16dt16r16db3r3db2r4ly3~x2/)|
-|![Cuthill (Personal) example sett](/setts/s13/db3g4r2g3r3g16dt16r16db3r3db2r4ly3~x2/sett.png)|
+| [Cuthill (Personal)](/setts/s13/db3g4r2g3r3g16dt16ri16db3ri3db2ri4ly3~x2/)|
+|![Cuthill (Personal) example sett](/setts/s13/db3g4r2g3r3g16dt16ri16db3ri3db2ri4ly3~x2/sett.png)|

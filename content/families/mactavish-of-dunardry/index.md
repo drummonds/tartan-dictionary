@@ -2,7 +2,7 @@
 title: "MacTavish of Dunardry"
 date: 2023-03-18
 ---
-A family of [Clan MacTavish](/clan/mactavish/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Dunardry”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dunardry&viewmode=grid)
 

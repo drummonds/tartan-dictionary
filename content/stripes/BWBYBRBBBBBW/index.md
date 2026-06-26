@@ -26,5 +26,5 @@ It is a 12 stripe tartan.
 |---------------|
 | [Mead of Poetry (Fashion)](/setts/s12/w6n2db6n2db25n2r1n2ly3t5w6n4~x2/)|
 |![Mead of Poetry (Fashion) example sett](/setts/s12/w6n2db6n2db25n2r1n2ly3t5w6n4~x2/sett.png)|
-| [Mead of Poetry, The](/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/)|
-|![Mead of Poetry, The example sett](/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/sett.png)|
+| [Mead of Poetry, The](/setts/s12/w6n2db6n2db25n2r1n2ly3dbi5w6n4~x2/)|
+|![Mead of Poetry, The example sett](/setts/s12/w6n2db6n2db25n2r1n2ly3dbi5w6n4~x2/sett.png)|

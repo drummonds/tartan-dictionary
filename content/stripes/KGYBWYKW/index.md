@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glasgow Islay, The](/setts/s8/k4g50lg4p4w2ly2k3w2~x2/)|
-|![Glasgow Islay, The example sett](/setts/s8/k4g50lg4p4w2ly2k3w2~x2/sett.png)|
+| [Glasgow Islay, The](/setts/s8/ki4g50lg4p4w2ly2k3w2~x2/)|
+|![Glasgow Islay, The example sett](/setts/s8/ki4g50lg4p4w2ly2k3w2~x2/sett.png)|

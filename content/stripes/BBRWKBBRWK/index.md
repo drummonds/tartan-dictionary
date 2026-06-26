@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Le Mirage (Corporate?)](/setts/s10/db36db15r25w5k6db35db15r7w5k6/)|
-|![Le Mirage (Corporate?) example sett](/setts/s10/db36db15r25w5k6db35db15r7w5k6/sett.png)|
+| [Le Mirage (Corporate?)](/setts/s10/dbi36db15r25w5k6dbi35db15r7w5k6/)|
+|![Le Mirage (Corporate?) example sett](/setts/s10/dbi36db15r25w5k6dbi35db15r7w5k6/sett.png)|

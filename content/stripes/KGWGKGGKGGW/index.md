@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [University of North Texas](/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/)|
-|![University of North Texas example sett](/setts/s11/k1g3w3g15k1g3g2k1g1g1w1~x2/sett.png)|
+| [University of North Texas](/setts/s11/k1gi3w3gii15k1gii3gi2k1gi1g1w1~x2/)|
+|![University of North Texas example sett](/setts/s11/k1gi3w3gii15k1gii3gi2k1gi1g1w1~x2/sett.png)|

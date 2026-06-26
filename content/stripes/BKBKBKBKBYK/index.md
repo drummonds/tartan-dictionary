@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Churchill (Personal)](/setts/s11/db12k1t2k1db9k7dp2k2dp2ly1k2~x4/)|
-|![Churchill (Personal) example sett](/setts/s11/db12k1t2k1db9k7dp2k2dp2ly1k2~x4/sett.png)|
+| [Churchill (Personal)](/setts/s11/db12ki1t2ki1dbi9ki7dp2ki2dp2ly1k2~x4/)|
+|![Churchill (Personal) example sett](/setts/s11/db12ki1t2ki1dbi9ki7dp2ki2dp2ly1k2~x4/sett.png)|

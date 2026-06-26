@@ -1,8 +1,5 @@
 ---
 title: "Clan Fletcher"
-date: 2023-03-18
+redirect: "/families/fletcher-of-dunans/"
 ---
-## Families
-
-- [Fletcher of Dunans](/families/fletcher-of-dunans/)
-
+Clan Fletcher is recorded as the single family [Fletcher of Dunans](/families/fletcher-of-dunans/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rikaco Heirloom (Fashion)](/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/)|
-|![Rikaco Heirloom (Fashion) example sett](/setts/s10/db3db3db1g26db10n1db3dp5db4lo2~x2/sett.png)|
+| [Rikaco Heirloom (Fashion)](/setts/s10/dbi3db3dbi1g26dbi10n1dbi3dp5db4lo2~x2/)|
+|![Rikaco Heirloom (Fashion) example sett](/setts/s10/dbi3db3dbi1g26dbi10n1dbi3dp5db4lo2~x2/sett.png)|

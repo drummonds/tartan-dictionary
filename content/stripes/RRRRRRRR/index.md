@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Miyuki, House Check Tan, 1004A](/setts/s8/r3o8r3o20o20o3o8o3~x2/)|
-|![Miyuki, House Check Tan, 1004A example sett](/setts/s8/r3o8r3o20o20o3o8o3~x2/sett.png)|
+| [Miyuki, House Check Tan, 1004A](/setts/s8/r3o8r3o20oi20o3oi8oi3~x2/)|
+|![Miyuki, House Check Tan, 1004A example sett](/setts/s8/r3o8r3o20oi20o3oi8oi3~x2/sett.png)|

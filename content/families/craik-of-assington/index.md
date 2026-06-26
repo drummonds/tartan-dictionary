@@ -2,7 +2,7 @@
 title: "Craik of Assington"
 date: 2023-03-18
 ---
-A family of [Clan Craik](/clan/craik/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Assington”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Assington&viewmode=grid)
 

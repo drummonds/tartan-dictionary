@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba Dress (Dance)](/setts/s8/g3r10lb2g3lb13g2lb2g3~x2/)|
-|![Manitoba Dress (Dance) example sett](/setts/s8/g3r10lb2g3lb13g2lb2g3~x2/sett.png)|
+| [Manitoba Dress (Dance)](/setts/s8/g3r10lb2gii3lb13gi2lb2gi3~x2/)|
+|![Manitoba Dress (Dance) example sett](/setts/s8/g3r10lb2gii3lb13gi2lb2gi3~x2/sett.png)|

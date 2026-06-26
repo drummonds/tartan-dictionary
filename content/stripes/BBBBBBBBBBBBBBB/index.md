@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Gas](/setts/s15/t11dt2t4dt2t4dt11b11dt2t4dt2b11dt11t11dt2t4~x2/)|
-|![Scottish Gas example sett](/setts/s15/t11dt2t4dt2t4dt11b11dt2t4dt2b11dt11t11dt2t4~x2/sett.png)|
-| [William Murdoch (Scottish Gas) Corporate Tartan Tartan Number: 29. Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t11dt2t4dt2t4dt11db11dt2t4dt2db11dt11t11dt2t4~x2/)|
-|![William Murdoch (Scottish Gas) Corporate Tartan Tartan Number: 29. Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/t11dt2t4dt2t4dt11db11dt2t4dt2db11dt11t11dt2t4~x2/sett.png)|
+| [Scottish Gas](/setts/s15/t11dt2t4dt2t4dt11b11dt2ti4dt2b11dt11t11dt2t4~x2/)|
+|![Scottish Gas example sett](/setts/s15/t11dt2t4dt2t4dt11b11dt2ti4dt2b11dt11t11dt2t4~x2/sett.png)|
+| [William Murdoch (Scottish Gas) Corporate Tartan Tartan Number: 29. Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s15/t11dt2t4dt2t4dt11db11dt2ti4dt2db11dt11t11dt2t4~x2/)|
+|![William Murdoch (Scottish Gas) Corporate Tartan Tartan Number: 29. Earliest known date: 1985 Permission required from Scottish Gas to reveal thread count. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s15/t11dt2t4dt2t4dt11db11dt2ti4dt2db11dt11t11dt2t4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrew Society](/setts/s7/db16k16db16w3db16k2t3~x2/)|
-|![St. Andrew Society example sett](/setts/s7/db16k16db16w3db16k2t3~x2/sett.png)|
+| [St. Andrew Society](/setts/s7/dbi16k16db16w3db16k2t3~x2/)|
+|![St. Andrew Society example sett](/setts/s7/dbi16k16db16w3db16k2t3~x2/sett.png)|

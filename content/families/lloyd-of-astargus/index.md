@@ -1,8 +1,8 @@
 ---
-title: "Lloyd of Astargus"
+title: "LLoyd of Astargus"
 date: 2023-03-18
 ---
-A family of [Clan Lloyd](/clan/lloyd/).
+A family of [Clan LLoyd](/clan/lloyd/).
 
 **Trove of Scotland:** [search “Astargus”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Astargus&viewmode=grid)
 

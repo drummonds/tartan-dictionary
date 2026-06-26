@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Nevada (Fashion)](/setts/s8/o49y13lo4o12lo10o23b13dy3~x2/)|
-|![State Seal of Nevada (Fashion) example sett](/setts/s8/o49y13lo4o12lo10o23b13dy3~x2/sett.png)|
+| [State Seal of Nevada (Fashion)](/setts/s8/o49y13lo4o12loi10oi23b13dy3~x2/)|
+|![State Seal of Nevada (Fashion) example sett](/setts/s8/o49y13lo4o12loi10oi23b13dy3~x2/sett.png)|

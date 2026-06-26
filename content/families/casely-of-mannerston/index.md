@@ -2,7 +2,7 @@
 title: "Casely of Mannerston"
 date: 2023-03-18
 ---
-A family of [Clan Casely](/clan/casely/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Mannerston”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Mannerston&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Father’s Pride, The](/setts/s11/do90y8k10y3k4dg4k3r16k14r6k28/)|
-|![Father’s Pride, The example sett](/setts/s11/do90y8k10y3k4dg4k3r16k14r6k28/sett.png)|
+| [Father’s Pride, The](/setts/s11/do90y8k10y3k4dg4k3ri16k14r6k28/)|
+|![Father’s Pride, The example sett](/setts/s11/do90y8k10y3k4dg4k3ri16k14r6k28/sett.png)|

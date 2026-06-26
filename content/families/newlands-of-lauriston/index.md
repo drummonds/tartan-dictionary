@@ -2,7 +2,7 @@
 title: "Newlands of Lauriston"
 date: 2023-03-18
 ---
-A family of [Clan Newlands](/clan/newlands/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Lauriston”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Lauriston&viewmode=grid)
 

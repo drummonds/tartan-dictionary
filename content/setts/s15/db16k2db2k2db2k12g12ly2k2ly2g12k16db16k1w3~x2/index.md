@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [15 stripe tartan](/stripes/stripes15/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Dyce #2
-
 ## Thread count
 B/32 K4 B4 K4 B4 K24 G24 Y4 K4 Y4 G24 K32 B32 K2 LN/6
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.5" cy="135.7" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="138.1" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.4" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.3" cy="136.1" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="138.7" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="140.7" cy="124.9" r="4" fill="#3465a4"><title>Ochiltree</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.4" cy="159.4" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="139.0" cy="155.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><circle cx="146.9" cy="131.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="132.7" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/"><circle cx="157.3" cy="136.6" r="4" fill="#3465a4"><title>Campbell, Red</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="137.9" cy="155.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.2" cy="116.2" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s13/g16k5g4k8g44k40g4db52r10db4r4db10w6/"><circle cx="141.2" cy="137.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="145.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="139.6" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s19/db12k1g2k1g2k1db12r2k12ly1k12r2g12k1db2k1db2k1g12~x2/"><circle cx="140.6" cy="125.7" r="4" fill="#3465a4"><title>Ochiltree</title></circle></a><a href="/setts/s14/db10k1db1k1db1k6g6k1ly2k1g6k6db6r3~x2/"><circle cx="121.2" cy="160.5" r="4" fill="#3465a4"><title>MacLeod of Skye</title></circle></a><a href="/setts/s15/db28k4db4k4db4k28g26k3ly5k3g26k28db26k3r5/"><circle cx="138.9" cy="156.7" r="4" fill="#3465a4"><title>Baillie</title></circle></a><circle cx="146.7" cy="132.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/

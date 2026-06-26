@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tenon Tours](/setts/s19/g40lo3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1lo1lo1lo3r12lo3~x2/)|
-|![Tenon Tours example sett](/setts/s19/g40lo3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1lo1lo1lo3r12lo3~x2/sett.png)|
+| [Tenon Tours](/setts/s19/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3~x2/)|
+|![Tenon Tours example sett](/setts/s19/g40loi3r12lo3w1lo1w1lo1w1k4lo1w1lo1w1loi1lo1loi3r12loi3~x2/sett.png)|

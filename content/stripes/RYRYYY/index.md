@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buchele Check (Fashion?)](/setts/s6/r4ly1r3ly1ly8ly2~x4/)|
-|![Buchele Check (Fashion?) example sett](/setts/s6/r4ly1r3ly1ly8ly2~x4/sett.png)|
+| [Buchele Check (Fashion?)](/setts/s6/r4lyi1r3ly1lyi8ly2~x4/)|
+|![Buchele Check (Fashion?) example sett](/setts/s6/r4lyi1r3ly1lyi8ly2~x4/sett.png)|

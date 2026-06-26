@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of South Carolina (Fash)](/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/)|
-|![State Seal of South Carolina (Fash) example sett](/setts/s11/g55k13b4k3g6lo3b2k3dy10k12b14~x2/sett.png)|
+| [State Seal of South Carolina (Fash)](/setts/s11/gi55k13b4k3g6lo3b2k3dy10k12b14~x2/)|
+|![State Seal of South Carolina (Fash) example sett](/setts/s11/gi55k13b4k3g6lo3b2k3dy10k12b14~x2/sett.png)|

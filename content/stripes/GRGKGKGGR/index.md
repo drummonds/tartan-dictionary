@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lordship of Greencastle (Personal)](/setts/s9/dg12r2g12k3g2k40dg6g2r2~x2/)|
-|![Lordship of Greencastle (Personal) example sett](/setts/s9/dg12r2g12k3g2k40dg6g2r2~x2/sett.png)|
+| [Lordship of Greencastle (Personal)](/setts/s9/dg12r2gi12k3g2k40dg6g2r2~x2/)|
+|![Lordship of Greencastle (Personal) example sett](/setts/s9/dg12r2gi12k3g2k40dg6g2r2~x2/sett.png)|

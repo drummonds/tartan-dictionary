@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fulbright Foundation](/setts/s8/r3lr25db6db3r2t5db18w3~x2/)|
-|![Fulbright Foundation example sett](/setts/s8/r3lr25db6db3r2t5db18w3~x2/sett.png)|
+| [Fulbright Foundation](/setts/s8/r3lr25dbi6db3r2t5db18w3~x2/)|
+|![Fulbright Foundation example sett](/setts/s8/r3lr25dbi6db3r2t5db18w3~x2/sett.png)|

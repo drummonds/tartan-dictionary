@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland 1782](/setts/s24/db30k4g3dp2dp2dp2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/)|
-|![Scotland 1782 example sett](/setts/s24/db30k4g3dp2dp2dp2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dp2dp2dp2g3k4db30t3~x2/sett.png)|
+| [Scotland 1782](/setts/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30t3~x2/)|
+|![Scotland 1782 example sett](/setts/s24/db30k4g3dpi2dp2dpi2dp10k2dp2k4dp2g3dp2k4dp2k2dp10dpi2dp2dpi2g3k4db30t3~x2/sett.png)|

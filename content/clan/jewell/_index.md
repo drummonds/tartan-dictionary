@@ -1,8 +1,5 @@
 ---
 title: "Clan Jewell"
-date: 2023-03-18
+redirect: "/families/jewell-of-kernow/"
 ---
-## Families
-
-- [Jewell of Kernow](/families/jewell-of-kernow/)
-
+Clan Jewell is recorded as the single family [Jewell of Kernow](/families/jewell-of-kernow/) — redirecting there.

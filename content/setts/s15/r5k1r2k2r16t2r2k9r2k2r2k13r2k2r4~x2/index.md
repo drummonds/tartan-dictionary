@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8808/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 8808
+
 ## Thread count
 R/10 K2 R4 K4 R32 B4 R4 K18 R4 K4 R4 K26 R4 K4 R/8
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="369.8" cy="144.6" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s20/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="354.8" cy="133.5" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="341.0" cy="154.9" r="4" fill="#3465a4"><title>Westwood MacBrick (Fashion)</title></circle></a><a href="/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/"><circle cx="321.2" cy="155.5" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="319.7" cy="134.9" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/"><circle cx="379.3" cy="155.6" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s10/r4k4r3k8w3r3k20r40w2r4/"><circle cx="402.7" cy="141.4" r="4" fill="#3465a4"><title>University of South Carolina (Corp)</title></circle></a><a href="/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/"><circle cx="295.8" cy="137.5" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="326.8" cy="141.8" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="315.3" cy="131.5" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><circle cx="352.1" cy="148.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/k15r2k1r2k1r4lo1k1r14k1r2k1r1k10~x4/"><circle cx="368.9" cy="145.3" r="4" fill="#3465a4"><title>Johnnie Walker (1985)</title></circle></a><a href="/setts/s20/k2r2k12r2k2r18k2r2k12r2w1~x2/"><circle cx="353.8" cy="134.1" r="4" fill="#3465a4"><title>Hebrides #12</title></circle></a><a href="/setts/s13/k11r2k11r20w2r20k7r1k7r1k7r11w1~x2/"><circle cx="340.0" cy="155.7" r="4" fill="#3465a4"><title>Westwood MacBrick (Fashion)</title></circle></a><a href="/setts/s13/r3dg1r15db2r2dg15r2db15r2db2r15dg1r3~x2/"><circle cx="320.3" cy="156.3" r="4" fill="#3465a4"><title>Robertson D</title></circle></a><a href="/setts/s21/k4r3k3r4k22r4k3r3dg4r3k3r44k30r10dg10r40dg30r27k10r14dg3~x2/"><circle cx="318.8" cy="135.6" r="4" fill="#3465a4"><title>Murray of Tullibardine - Artefact</title></circle></a><a href="/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/"><circle cx="378.2" cy="156.2" r="4" fill="#3465a4"><title>MacColl</title></circle></a><a href="/setts/s10/r4k4r3k8w3r3k20r40w2r4/"><circle cx="401.5" cy="142.0" r="4" fill="#3465a4"><title>University of South Carolina (Corp)</title></circle></a><a href="/setts/s12/r2ly1k2r13k2r2k2r2k12r2ly1g2~x2/"><circle cx="294.8" cy="138.3" r="4" fill="#3465a4"><title>Hallingdal (District)</title></circle></a><a href="/setts/s15/r6db2r3dg12r2dg2r2db4r2lb2r14db2r2db1r6~x2/"><circle cx="325.7" cy="142.4" r="4" fill="#3465a4"><title>Drummond of Megginch - Child's Kilt (c.1890)</title></circle></a><a href="/setts/s14/r16db8r2k3ly1k3r2k3ly1k3r2db8r16k1~x4/"><circle cx="314.3" cy="132.1" r="4" fill="#3465a4"><title>Leslie Red (VS)</title></circle></a><circle cx="351.0" cy="149.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/r5k1r2k2r16t2r2k9r2k2r2k13r2k2r4~x2/

@@ -2,7 +2,7 @@
 title: "Carnegie of Skibo"
 date: 2023-03-18
 ---
-A family of [Clan Carnegie](/clan/carnegie/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Skibo”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Skibo&viewmode=grid)
 

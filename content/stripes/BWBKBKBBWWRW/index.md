@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Anglicare](/setts/s12/db12w4db4k12db12k4db8db12lt12w11r4w8/)|
-|![Anglicare example sett](/setts/s12/db12w4db4k12db12k4db8db12lt12w11r4w8/sett.png)|
+| [Anglicare](/setts/s12/dbi12w4dbi4k12db12k4db8dbi12lt12w11r4w8/)|
+|![Anglicare example sett](/setts/s12/dbi12w4dbi4k12db12k4db8dbi12lt12w11r4w8/sett.png)|

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Old Aberdeen Diamond Jubilee](/setts/s14/r3r2k7r3k3r52r4k52r3k3r3k7r2r3/)|
-|![Old Aberdeen Diamond Jubilee example sett](/setts/s14/r3r2k7r3k3r52r4k52r3k3r3k7r2r3/sett.png)|
+| [Old Aberdeen Diamond Jubilee](/setts/s14/ri3r2k7ri3k3ri52r4k52ri3k3ri3k7r2ri3/)|
+|![Old Aberdeen Diamond Jubilee example sett](/setts/s14/ri3r2k7ri3k3ri52r4k52ri3k3ri3k7r2ri3/sett.png)|

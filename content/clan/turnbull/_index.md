@@ -1,8 +1,5 @@
 ---
 title: "Clan Turnbull"
-date: 2023-03-18
+redirect: "/families/turnbull-of-thornton/"
 ---
-## Families
-
-- [Turnbull of Thornton](/families/turnbull-of-thornton/)
-
+Clan Turnbull is recorded as the single family [Turnbull of Thornton](/families/turnbull-of-thornton/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colorado Rogues (Corporate)](/setts/s13/r6w6r16k16g22w2dp2w2g22k16db13r2ly4/)|
-|![Colorado Rogues (Corporate) example sett](/setts/s13/r6w6r16k16g22w2dp2w2g22k16db13r2ly4/sett.png)|
+| [Colorado Rogues (Corporate)](/setts/s13/ri6w6r16k16g22w2dp2w2g22k16db13r2ly4/)|
+|![Colorado Rogues (Corporate) example sett](/setts/s13/ri6w6r16k16g22w2dp2w2g22k16db13r2ly4/sett.png)|

@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7880/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [7880](https://www.tartanregister.gov.uk/tartanDetails?ref=7880)
+- Scottish Tartans Authority (ITI): 7880
+
 ## Thread count
 G/72 R25 Y8 LN/5
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="348.1" cy="222.1" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="373.7" cy="191.9" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="343.3" cy="220.0" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="357.4" cy="230.6" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="364.7" cy="224.6" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="343.3" cy="223.6" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="367.1" cy="208.6" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s6/dg11lo1dg1lo6k1lo1~x4/"><circle cx="351.6" cy="201.1" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="347.5" cy="250.5" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s6/r2g2r1g12r3k1~x4/"><circle cx="445.8" cy="217.8" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><circle cx="392.4" cy="208.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/p4g10r1ly1~x2/"><circle cx="347.2" cy="222.8" r="4" fill="#3465a4"><title>Wilson's, No 192</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="372.8" cy="192.5" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s4/p4g10w1r1~x2/"><circle cx="342.5" cy="220.8" r="4" fill="#3465a4"><title>Wilson's, No 189</title></circle></a><a href="/setts/s4/dp4g10r1ly1~x2/"><circle cx="356.7" cy="231.4" r="4" fill="#3465a4"><title>Wilson's No.192</title></circle></a><a href="/setts/s4/g56dy13ly13w5~x2/"><circle cx="363.8" cy="225.2" r="4" fill="#3465a4"><title>Colonial Marine (Aliens Legacy)</title></circle></a><a href="/setts/s4/dp4g10r1w1~x2/"><circle cx="342.5" cy="224.5" r="4" fill="#3465a4"><title>Wilson's No.189</title></circle></a><a href="/setts/s7/g3w1g12r6g3k3g2~x4/"><circle cx="366.3" cy="209.2" r="4" fill="#3465a4"><title>Arkansas</title></circle></a><a href="/setts/s6/dg11lo1dg1lo6k1lo1~x4/"><circle cx="350.7" cy="201.7" r="4" fill="#3465a4"><title>Big Spruce Brewing</title></circle></a><a href="/setts/s4/g14k3r3lr2~x2/"><circle cx="346.9" cy="251.4" r="4" fill="#3465a4"><title>Bacon, Green (Fashion)</title></circle></a><a href="/setts/s6/r2g2r1g12r3k1~x4/"><circle cx="444.9" cy="218.3" r="4" fill="#3465a4"><title>Connell (Personal?)</title></circle></a><circle cx="391.4" cy="208.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/g72r25ly8w5/

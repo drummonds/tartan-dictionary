@@ -1,8 +1,5 @@
 ---
 title: "Clan Davies"
-date: 2023-03-18
+redirect: "/families/davies-of-wales/"
 ---
-## Families
-
-- [Davies of Wales](/families/davies-of-wales/)
-
+Clan Davies is recorded as the single family [Davies of Wales](/families/davies-of-wales/) — redirecting there.

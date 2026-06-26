@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacShane (Clan)](/setts/s8/dg9w2dg9k2lo14lo4w2r2~x4/)|
-|![MacShane (Clan) example sett](/setts/s8/dg9w2dg9k2lo14lo4w2r2~x4/sett.png)|
+| [MacShane (Clan)](/setts/s8/dg9w2dg9k2loi14lo4w2r2~x4/)|
+|![MacShane (Clan) example sett](/setts/s8/dg9w2dg9k2loi14lo4w2r2~x4/sett.png)|

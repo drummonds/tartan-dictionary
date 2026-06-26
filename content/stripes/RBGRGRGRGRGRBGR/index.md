@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [All Ireland Red](/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/)|
-|![All Ireland Red example sett](/setts/s15/r6y2db2r30g2r2g4r2g2r1g20r1y2db2r4~x2/sett.png)|
+| [All Ireland Red](/setts/s15/r6y2db2r30gi2r2g4r2gi2r1gi20r1y2db2r4~x2/)|
+|![All Ireland Red example sett](/setts/s15/r6y2db2r30gi2r2g4r2gi2r1gi20r1y2db2r4~x2/sett.png)|

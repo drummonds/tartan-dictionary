@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Montgomery, Stuart (Personal)](/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/)|
-|![Montgomery, Stuart (Personal) example sett](/setts/s10/db6g24k1w2k1g24g24w3k1w3~x2/sett.png)|
+| [Montgomery, Stuart (Personal)](/setts/s10/db6gi24k1w2k1gi24g24w3k1w3~x2/)|
+|![Montgomery, Stuart (Personal) example sett](/setts/s10/db6gi24k1w2k1gi24g24w3k1w3~x2/sett.png)|

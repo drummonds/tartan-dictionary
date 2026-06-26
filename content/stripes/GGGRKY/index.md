@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Abadia Da Cova (Corporate)](/setts/s6/g30g1g3r30k1ly3~x2/)|
-|![Abadia Da Cova (Corporate) example sett](/setts/s6/g30g1g3r30k1ly3~x2/sett.png)|
+| [Abadia Da Cova (Corporate)](/setts/s6/gi30g1gi3r30k1ly3~x2/)|
+|![Abadia Da Cova (Corporate) example sett](/setts/s6/gi30g1gi3r30k1ly3~x2/sett.png)|

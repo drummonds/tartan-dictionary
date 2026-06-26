@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [London Scottish Rugby Club](/setts/s6/r5k40w1k13g8k4~x2/)|
-|![London Scottish Rugby Club example sett](/setts/s6/r5k40w1k13g8k4~x2/sett.png)|
+| [London Scottish Rugby Club](/setts/s6/r5ki40w1ki13g8k4~x2/)|
+|![London Scottish Rugby Club example sett](/setts/s6/r5ki40w1ki13g8k4~x2/sett.png)|
 | [Thomson Camel (Jedburgh Mill)](/setts/s6/r4k2lb10k10y28k3~x2/)|
 |![Thomson Camel (Jedburgh Mill) example sett](/setts/s6/r4k2lb10k10y28k3~x2/sett.png)|

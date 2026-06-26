@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Lichtie (District)](/setts/s18/w3r2r1r9r1r2r2r1r27db1t2r1db11lo1r2lo1r2lo1~x2/)|
-|![Red Lichtie (District) example sett](/setts/s18/w3r2r1r9r1r2r2r1r27db1t2r1db11lo1r2lo1r2lo1~x2/sett.png)|
+| [Red Lichtie (District)](/setts/s18/w3r2ri1r9ri1r2ri2r1ri27db1t2ri1db11lo1ri2lo1ri2lo1~x2/)|
+|![Red Lichtie (District) example sett](/setts/s18/w3r2ri1r9ri1r2ri2r1ri27db1t2ri1db11lo1ri2lo1ri2lo1~x2/sett.png)|

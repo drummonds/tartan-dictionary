@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2731
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacQuarrie #4
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/"><circle cx="331.8" cy="113.9" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/"><circle cx="342.0" cy="114.9" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/"><circle cx="310.9" cy="129.1" r="4" fill="#3465a4"><title>Stewart/Stuart of Atholl</title></circle></a><a href="/setts/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="308.5" cy="109.9" r="4" fill="#3465a4"><title>MacQuarrie 6</title></circle></a><a href="/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2~x2/"><circle cx="309.3" cy="94.5" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="321.4" cy="97.0" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="337.8" cy="116.7" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/"><circle cx="360.9" cy="142.6" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="340.8" cy="116.9" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4~x2/"><circle cx="396.1" cy="120.3" r="4" fill="#3465a4"><title>Drummond #3</title></circle></a><circle cx="331.8" cy="116.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg1r2dg1r26dg1r1db14r1dg21r1dg1r2dg1/"><circle cx="331.0" cy="114.3" r="4" fill="#3465a4"><title>MacQuarrie 1815</title></circle></a><a href="/setts/s13/dg2r3dg2r52dg2r2db28r2dg42r2dg2r3dg2~x2/"><circle cx="341.2" cy="115.2" r="4" fill="#3465a4"><title>MacQuarrie #3</title></circle></a><a href="/setts/s16/dg22k1dg2k1dg3k8r20k1r3~x4/"><circle cx="310.2" cy="129.5" r="4" fill="#3465a4"><title>Stewart/Stuart of Atholl</title></circle></a><a href="/setts/s13/k1r1g1r21g1r1k10r1g14r1g1r1g1~x2/"><circle cx="307.5" cy="110.4" r="4" fill="#3465a4"><title>MacQuarrie 6</title></circle></a><a href="/setts/s16/r3db2lb1r2dg24r4dg2r2db8r2dg2r24db2lb1r2dg2~x2/"><circle cx="308.5" cy="94.9" r="4" fill="#3465a4"><title>Stewart of Appin</title></circle></a><a href="/setts/s15/r3db2r2g38r2g2r2db10r2lb2r37db2r2db2r3~x2/"><circle cx="320.4" cy="97.3" r="4" fill="#3465a4"><title>Grant and Drummond</title></circle></a><a href="/setts/s12/g38r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="336.8" cy="117.1" r="4" fill="#3465a4"><title>MacLintock</title></circle></a><a href="/setts/s11/dg18r3dg2r2db6r2dg2r24dg1r2dg6~x2/"><circle cx="359.9" cy="143.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #4</title></circle></a><a href="/setts/s12/g36r3g3r3db9r3t2r40db3r3db2r6~x2/"><circle cx="339.9" cy="117.3" r="4" fill="#3465a4"><title>MacLintock - 1880 (Clan)</title></circle></a><a href="/setts/s12/dg4r1dg1r28dg8k1dg1k1dg18r1dg1r4~x2/"><circle cx="395.0" cy="120.6" r="4" fill="#3465a4"><title>Drummond #3</title></circle></a><circle cx="330.9" cy="117.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k1r1dg1r21dg1r1k10r1dg14r1dg1r1dg1~x2/

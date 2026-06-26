@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Icelandic](/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/)|
-|![Icelandic example sett](/setts/s13/r8w4db24db2db4db2db1db2db4db2db1db20w6~x2/sett.png)|
+| [Icelandic](/setts/s13/r8w4db24dbi2db4dbi2db1dbi2db4dbi2db1dbi20w6~x2/)|
+|![Icelandic example sett](/setts/s13/r8w4db24dbi2db4dbi2db1dbi2db4dbi2db1dbi20w6~x2/sett.png)|

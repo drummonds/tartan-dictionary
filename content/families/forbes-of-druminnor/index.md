@@ -1,5 +1,5 @@
 ---
-title: "Forbes of Druminnor"
+title: "Forbes, of Druminnor"
 date: 2023-03-18
 ---
 A family of [Clan Forbes](/clan/forbes/).

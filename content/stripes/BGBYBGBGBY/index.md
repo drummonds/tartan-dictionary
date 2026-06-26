@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pinney's of Scotland](/setts/s10/db4g2db10ly1db2g13db11g13db13ly2~x2/)|
-|![Pinney's of Scotland example sett](/setts/s10/db4g2db10ly1db2g13db11g13db13ly2~x2/sett.png)|
+| [Pinney's of Scotland](/setts/s10/db4g2dbi10ly1dbi2g13db11g13dbi13ly2~x2/)|
+|![Pinney's of Scotland example sett](/setts/s10/db4g2dbi10ly1dbi2g13db11g13dbi13ly2~x2/sett.png)|

@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Stuart/Stewart of Urrard
-
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -38,8 +32,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg6r2dg2r18db9r3dg3r3db9r3dg24r2dg2r4~x2/"><circle cx="271.3" cy="171.1" r="4" fill="#3465a4"><title>Stuart/Stewart of Urrard</title></circle></a><a href="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="272.8" cy="169.9" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="305.2" cy="179.3" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.5" cy="189.0" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><a href="/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="321.5" cy="165.0" r="4" fill="#3465a4"><title>Bruce, Old</title></circle></a><a href="/setts/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><circle cx="273.3" cy="180.0" r="4" fill="#3465a4"><title>Frasers Highlanders (Military?)</title></circle></a><a href="/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/"><circle cx="256.2" cy="158.7" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/setts/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/"><circle cx="258.3" cy="178.9" r="4" fill="#3465a4"><title>Fraser, Stewart of Athol</title></circle></a><a href="/setts/s10/db10r2g2r6g16r1g2r1g3r6~x2/"><circle cx="301.7" cy="184.7" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="307.4" cy="152.7" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="269.3" cy="172.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/dg6r2dg2r18db9r3dg3r3db9r3dg24r2dg2r4~x2/"><circle cx="270.7" cy="171.8" r="4" fill="#3465a4"><title>Stuart/Stewart of Urrard</title></circle></a><a href="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><circle cx="272.2" cy="170.6" r="4" fill="#3465a4"><title>Stewart of Urrard (Clan?)</title></circle></a><a href="/setts/s12/r6g28r6dp2r6dp19r6dp2r6g28r6dp2~x2/"><circle cx="304.5" cy="180.0" r="4" fill="#3465a4"><title>Wilson's No.119</title></circle></a><a href="/setts/s12/db10r1db1r1g10r13g2r13g10db10r1db1~x2/"><circle cx="251.0" cy="189.8" r="4" fill="#3465a4"><title>Inverness, Fencibles</title></circle></a><a href="/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/"><circle cx="320.7" cy="165.5" r="4" fill="#3465a4"><title>Bruce, Old</title></circle></a><a href="/setts/s12/r28g2r2g2db12g18r2g18db12r15g2r3~x2/"><circle cx="272.6" cy="180.8" r="4" fill="#3465a4"><title>Frasers Highlanders (Military?)</title></circle></a><a href="/setts/s12/k6r3k3r24t4g10r2g4r2g24r6t2~x2/"><circle cx="255.5" cy="159.4" r="4" fill="#3465a4"><title>Leach (1999)</title></circle></a><a href="/setts/s12/db16r1db1r1g12r16g2r16g12db12r1db1~x2/"><circle cx="257.8" cy="179.7" r="4" fill="#3465a4"><title>Fraser, Stewart of Athol</title></circle></a><a href="/setts/s10/db10r2g2r6g16r1g2r1g3r6~x2/"><circle cx="301.1" cy="185.3" r="4" fill="#3465a4"><title>Nithsdale</title></circle></a><a href="/setts/s12/db24r7g7r39db4r2db2r5g42r7db6r7~x2/"><circle cx="306.7" cy="153.2" r="4" fill="#3465a4"><title>Drummond</title></circle></a><circle cx="268.7" cy="173.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/

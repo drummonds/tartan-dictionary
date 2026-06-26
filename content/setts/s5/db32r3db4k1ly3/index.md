@@ -9,6 +9,12 @@ Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=rb
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacLaine of Lochbuie, hunting
+
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -36,8 +42,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b10db6b3db62w4db5~x2/"><circle cx="553.1" cy="185.2" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/setts/s8/db61r6w2r8lo2db3lo2db15~x2/"><circle cx="551.2" cy="141.5" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/setts/s4/db80w1lo8w3~x2/"><circle cx="626.0" cy="169.4" r="4" fill="#3465a4"><title>Weir Minerals (Corporate)</title></circle></a><a href="/setts/s5/db100y10k5y10r8/"><circle cx="501.3" cy="184.5" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/setts/s5/db32r3db4k1ly3~x2/"><circle cx="597.3" cy="164.2" r="4" fill="#3465a4"><title>MacLaine of Lochbuie, hunting</title></circle></a><a href="/setts/s5/r5w4k4db80w4~x2/"><circle cx="562.0" cy="162.9" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/setts/s5/db100t10k5t10r8/"><circle cx="512.4" cy="183.4" r="4" fill="#3465a4"><title>Waugh (Name)</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2/"><circle cx="504.0" cy="132.2" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s8/db61w4db2w7p2g3ly2db16~x2/"><circle cx="534.7" cy="111.4" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/setts/s9/db66w2db10w2db10w2db12r3t24~x2/"><circle cx="494.9" cy="133.7" r="4" fill="#3465a4"><title>RAAF</title></circle></a><circle cx="575.7" cy="165.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/b10db6b3db62w4db5~x2/"><circle cx="552.3" cy="185.9" r="4" fill="#3465a4"><title>Auchairne</title></circle></a><a href="/setts/s8/db61r6w2r8lo2db3lo2db15~x2/"><circle cx="550.4" cy="141.9" r="4" fill="#3465a4"><title>Duke of York (Royal)</title></circle></a><a href="/setts/s4/db80w1lo8w3~x2/"><circle cx="626.0" cy="169.8" r="4" fill="#3465a4"><title>Weir Minerals (Corporate)</title></circle></a><a href="/setts/s5/db100y10k5y10r8/"><circle cx="500.7" cy="185.1" r="4" fill="#3465a4"><title>Waugh</title></circle></a><a href="/setts/s5/db32r3db4k1ly3~x2/"><circle cx="596.1" cy="164.5" r="4" fill="#3465a4"><title>MacLaine of Lochbuie, hunting</title></circle></a><a href="/setts/s5/r5w4k4db80w4~x2/"><circle cx="560.8" cy="163.3" r="4" fill="#3465a4"><title>Volunteer Lifesaving Corps (Corp.)</title></circle></a><a href="/setts/s5/db100t10k5t10r8/"><circle cx="511.7" cy="184.1" r="4" fill="#3465a4"><title>Waugh (Name)</title></circle></a><a href="/setts/s8/db73g16db10r8db10k4db10w2/"><circle cx="503.2" cy="132.5" r="4" fill="#3465a4"><title>Scotch Whisky, Heritage</title></circle></a><a href="/setts/s8/db61w4db2w7p2g3ly2db16~x2/"><circle cx="533.5" cy="111.6" r="4" fill="#3465a4"><title>Boat of Garten (District)</title></circle></a><a href="/setts/s9/db66w2db10w2db10w2db12r3t24~x2/"><circle cx="494.1" cy="134.1" r="4" fill="#3465a4"><title>RAAF</title></circle></a><circle cx="574.8" cy="166.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/db32r3db4k1ly3/

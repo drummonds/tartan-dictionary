@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [United Distillers (Corporate)](/setts/s6/o2k14o1k14o14ly2~x2/)|
-|![United Distillers (Corporate) example sett](/setts/s6/o2k14o1k14o14ly2~x2/sett.png)|
+| [United Distillers (Corporate)](/setts/s6/o2k14o1ki14o14ly2~x2/)|
+|![United Distillers (Corporate) example sett](/setts/s6/o2k14o1ki14o14ly2~x2/sett.png)|

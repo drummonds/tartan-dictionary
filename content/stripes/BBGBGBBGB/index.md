@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Alba (Fashion)](/setts/s9/t4db19g1db2g2db18dp24g1db2~x2/)|
-|![Spirit of Alba (Fashion) example sett](/setts/s9/t4db19g1db2g2db18dp24g1db2~x2/sett.png)|
+| [Spirit of Alba (Fashion)](/setts/s9/t4dbi19g1db2g2db18dp24g1dbi2~x2/)|
+|![Spirit of Alba (Fashion) example sett](/setts/s9/t4dbi19g1db2g2db18dp24g1dbi2~x2/sett.png)|

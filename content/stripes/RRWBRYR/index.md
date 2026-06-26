@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Barbour - Cardinal Red](/setts/s7/r3ly2r18db8w1r18r2~x2/)|
-|![Barbour - Cardinal Red example sett](/setts/s7/r3ly2r18db8w1r18r2~x2/sett.png)|
+| [Barbour - Cardinal Red](/setts/s7/r3ly2r18db8w1ri18r2~x2/)|
+|![Barbour - Cardinal Red example sett](/setts/s7/r3ly2r18db8w1ri18r2~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Llewellen"
-date: 2023-03-18
+redirect: "/families/llewellen-of-wales/"
 ---
-## Families
-
-- [Llewellen of Wales](/families/llewellen-of-wales/)
-
+Clan Llewellen is recorded as the single family [Llewellen of Wales](/families/llewellen-of-wales/) — redirecting there.

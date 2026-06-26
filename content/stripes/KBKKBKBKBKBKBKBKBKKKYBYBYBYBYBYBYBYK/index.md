@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Manitoba (Commemorative)](/setts/s36/k50db16k8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40k12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/)|
-|![Manitoba (Commemorative) example sett](/setts/s36/k50db16k8k8db1k1db1k1db1k1db1k1db1k1db1k1db20k40k12k24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6k4/sett.png)|
+| [Manitoba (Commemorative)](/setts/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6ki4/)|
+|![Manitoba (Commemorative) example sett](/setts/s36/k50db16k8ki8db1ki1db1ki1db1ki1db1ki1db1ki1db1ki1db20ki40k12ki24lo8db1lo1db1lo1db1lo1db1lo1db1lo1db1lo1db28lo6ki4/sett.png)|

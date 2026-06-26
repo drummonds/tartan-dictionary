@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [UPS No.2](/setts/s16/do2w8do4w1do2w2do2w1do4w60do2w15do2w2lo2w2~x2/)|
-|![UPS No.2 example sett](/setts/s16/do2w8do4w1do2w2do2w1do4w60do2w15do2w2lo2w2~x2/sett.png)|
+| [UPS No.2](/setts/s16/do2w8do4wi1do2wi2do2wi1do4w60do2w15do2w2lo2w2~x2/)|
+|![UPS No.2 example sett](/setts/s16/do2w8do4wi1do2wi2do2wi1do4w60do2w15do2w2lo2w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacMaster (USA) #1](/setts/s7/lb2g6r1g1r14k1lb1~x4/)|
-|![MacMaster (USA) #1 example sett](/setts/s7/lb2g6r1g1r14k1lb1~x4/sett.png)|
+| [MacMaster (USA) #1](/setts/s7/lb2g6r1g1r14k1lbi1~x4/)|
+|![MacMaster (USA) #1 example sett](/setts/s7/lb2g6r1g1r14k1lbi1~x4/sett.png)|

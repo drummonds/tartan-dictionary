@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5271/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5271
+
 ## Thread count
 DR/128 K16 W6 K16 W6 B8 W6 DR/36
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="442.3" cy="126.0" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11~x2/"><circle cx="448.2" cy="151.1" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="477.3" cy="90.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="435.5" cy="115.7" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="491.9" cy="143.1" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="414.1" cy="129.7" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s13/w2k2t2ly2k2r6k1r12k2r6w1r23k1~x2/"><circle cx="467.4" cy="95.5" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/setts/s8/r68db27r5ly3r5g3r13t3~x2/"><circle cx="475.7" cy="114.2" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><circle cx="484.4" cy="126.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r18k1ly3k1lr1r3k2r2lr2~x4/"><circle cx="440.9" cy="126.3" r="4" fill="#3465a4"><title>Anthony Plaid Red</title></circle></a><a href="/setts/s8/r35lb3r8ly2dg11~x2/"><circle cx="446.9" cy="151.5" r="4" fill="#3465a4"><title>Highlands of Wyomissing (Corporate)</title></circle></a><a href="/setts/s10/r58k12r4k2ly2k2r10w5k2ly4~x2/"><circle cx="475.7" cy="90.5" r="4" fill="#3465a4"><title>Unnamed C20th - Skirt</title></circle></a><a href="/setts/s8/k4r4ly2r41k4r4k12w2~x2/"><circle cx="433.9" cy="116.1" r="4" fill="#3465a4"><title>Aberdeen Football Club (2002)</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="506.4" cy="156.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="506.4" cy="156.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="490.3" cy="143.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/r12dg6k1dg2k1dg1k6r24lr2~x2/"><circle cx="412.8" cy="130.1" r="4" fill="#3465a4"><title>Stuart of Bute</title></circle></a><a href="/setts/s13/w2k2t2ly2k2r6k1r12k2r6w1r23k1~x2/"><circle cx="465.9" cy="95.7" r="4" fill="#3465a4"><title>Wilding, Michael John (Personal)</title></circle></a><a href="/setts/s8/r68db27r5ly3r5g3r13t3~x2/"><circle cx="474.1" cy="114.4" r="4" fill="#3465a4"><title>De Nardi #2 (Personal)</title></circle></a><circle cx="482.9" cy="126.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r64k8w3k8w3b4w3r18~x2/

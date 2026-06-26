@@ -8,7 +8,7 @@ A family of [Clan Maclean](/clan/maclean/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><img src="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/sett.png" alt="MacLean of Duart #4" width="240"><br>MacLean of Duart #4</a>
+<a class="tartan" href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><img src="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/sett.png" alt="MacLean of Duart 5" width="240"><br>MacLean of Duart 5</a>
 
 ## Other tartans
 
@@ -16,6 +16,7 @@ A family of [Clan Maclean](/clan/maclean/).
 <li><a class="tartan" href="/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/"><img src="/setts/s12/y9t5k8ly2k4w4k4dg31r50t4r4k3~x2/sett.png" alt="MacLean of Duart" width="140"><br>MacLean of Duart</a></li>
 <li><a class="tartan" href="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/"><img src="/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/sett.png" alt="MacLean of Duart #2" width="140"><br>MacLean of Duart #2</a></li>
 <li><a class="tartan" href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><img src="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/sett.png" alt="MacLean of Duart #3" width="140"><br>MacLean of Duart #3</a></li>
+<li><a class="tartan" href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><img src="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/sett.png" alt="MacLean of Duart #4" width="140"><br>MacLean of Duart #4</a></li>
 <li><a class="tartan" href="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/"><img src="/setts/s11/t14k8ly2k3w4k3dg21r48t4r5k3~x2/sett.png" alt="MacLean of Duart #5" width="140"><br>MacLean of Duart #5</a></li>
 <li><a class="tartan" href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/"><img src="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x4/sett.png" alt="MacLean of Duart #6" width="140"><br>MacLean of Duart #6</a></li>
 <li><a class="tartan" href="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/"><img src="/setts/s12/y12t2dy4ly2dy3w3dy3o20w29t2w4dy2~x2/sett.png" alt="MacLean of Duart (Reproduction Colours)" width="140"><br>MacLean of Duart (Reproduction Colours)</a></li>
@@ -23,7 +24,6 @@ A family of [Clan Maclean](/clan/maclean/).
 <li><a class="tartan" href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><img src="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/sett.png" alt="MacLean of Duart 2" width="140"><br>MacLean of Duart 2</a></li>
 <li><a class="tartan" href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><img src="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/sett.png" alt="MacLean of Duart 3" width="140"><br>MacLean of Duart 3</a></li>
 <li><a class="tartan" href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><img src="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/sett.png" alt="MacLean of Duart 4" width="140"><br>MacLean of Duart 4</a></li>
-<li><a class="tartan" href="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/"><img src="/setts/s12/db4t1k3ly1k1w1k1g8r12t1r2k1~x2/sett.png" alt="MacLean of Duart 5" width="140"><br>MacLean of Duart 5</a></li>
 <li><a class="tartan" href="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/"><img src="/setts/s12/y9t5k8ly2k4w4k4g31r50t4r4k3~x2/sett.png" alt="MacLean of Duart 6" width="140"><br>MacLean of Duart 6</a></li>
 <li><a class="tartan" href="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/"><img src="/setts/s12/y12t2dr4ly2dr3w3dr3o20w29t2w4dr2~x2/sett.png" alt="MacLean of Duart 7" width="140"><br>MacLean of Duart 7</a></li>
 <li><a class="tartan" href="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/"><img src="/setts/s12/n12o2dy4lo2dy3w3dy3w19r30o2r4dy2~x2/sett.png" alt="MacLean of Duart Dress" width="140"><br>MacLean of Duart Dress</a></li>

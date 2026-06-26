@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hitchens, William Henry (Commem)](/setts/s14/r4k2r2k2r2k2r8k6r2g2dt9g2k21w4~x2/)|
-|![Hitchens, William Henry (Commem) example sett](/setts/s14/r4k2r2k2r2k2r8k6r2g2dt9g2k21w4~x2/sett.png)|
+| [Hitchens, William Henry (Commem)](/setts/s14/r4k2r2k2r2k2ri8k6ri2g2dt9g2k21w4~x2/)|
+|![Hitchens, William Henry (Commem) example sett](/setts/s14/r4k2r2k2r2k2ri8k6ri2g2dt9g2k21w4~x2/sett.png)|

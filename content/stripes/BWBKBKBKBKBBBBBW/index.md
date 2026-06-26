@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [World Corporate Golf Challenge (Corp](/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/)|
-|![World Corporate Golf Challenge (Corp example sett](/setts/s16/db2lb2db22k6db3k4db3k4db3k6db12b4db2b6db7lb2~x2/sett.png)|
+| [World Corporate Golf Challenge (Corp](/setts/s16/db2lb2db22k6db3k4db3k4db3k6dbi12b4dbi2b6dbi7lbi2~x2/)|
+|![World Corporate Golf Challenge (Corp example sett](/setts/s16/db2lb2db22k6db3k4db3k4db3k6dbi12b4dbi2b6dbi7lbi2~x2/sett.png)|

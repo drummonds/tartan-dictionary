@@ -23,6 +23,12 @@ This cloth is also recorded under:
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 65
+
 ## Thread count
 Y/6 K2 G40 K40 DB36 B/6
 ![Sett](sett.png)
@@ -42,8 +48,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3k1g20k16db20k1ly3~x2/"><circle cx="172.3" cy="160.6" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/setts/s6/dy2g12k10r1b16r2~x4/"><circle cx="193.5" cy="191.5" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.6" cy="175.7" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s6/r2db16r1k10g12o2~x2/"><circle cx="170.5" cy="179.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s8/w4k1dg18k17db13r1db3r1~x2/"><circle cx="179.1" cy="161.0" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.7" cy="209.1" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/setts/s6/k2dg12k12r1db12w2~x2/"><circle cx="180.5" cy="211.1" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.8" cy="194.5" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.3" cy="167.2" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.9" cy="183.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><circle cx="179.9" cy="184.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/w3k1g20k16db20k1ly3~x2/"><circle cx="172.1" cy="161.5" r="4" fill="#3465a4"><title>MacCormick</title></circle></a><a href="/setts/s6/dy2g12k10r1b16r2~x4/"><circle cx="193.4" cy="192.4" r="4" fill="#3465a4"><title>MacWilliam (Clan)</title></circle></a><a href="/setts/s7/db18k10g6r4g6k1w2~x2/"><circle cx="189.4" cy="176.6" r="4" fill="#3465a4"><title>Ferguson - 1830 of Atholl (Clan)</title></circle></a><a href="/setts/s6/r2db16r1k10g12o2~x2/"><circle cx="170.2" cy="180.4" r="4" fill="#3465a4"><title>MacWilliam</title></circle></a><a href="/setts/s8/w4k1dg18k17db13r1db3r1~x2/"><circle cx="179.0" cy="161.8" r="4" fill="#3465a4"><title>Whitson #2</title></circle></a><a href="/setts/s6/k4w1g13k11db11lb3~x4/"><circle cx="153.6" cy="210.3" r="4" fill="#3465a4"><title>New York Fire Department Pipe Band</title></circle></a><a href="/setts/s6/k2dg12k12r1db12w2~x2/"><circle cx="180.5" cy="212.2" r="4" fill="#3465a4"><title>Russell or Mitchell or Hunter or Galbraith</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.7" cy="195.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/setts/s6/r6db32k18g28k1lb2~x2/"><circle cx="234.1" cy="168.0" r="4" fill="#3465a4"><title>Naysmith (Name)</title></circle></a><a href="/setts/s7/r2k9g12db8r1db1w1~x4/"><circle cx="170.8" cy="184.2" r="4" fill="#3465a4"><title>Genet, Citizen (Commem)</title></circle></a><circle cx="179.8" cy="185.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/t3db18k20g20k1ly3~x2/

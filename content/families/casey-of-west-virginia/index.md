@@ -2,7 +2,7 @@
 title: "Casey of West Virginia"
 date: 2023-03-18
 ---
-A family of [Clan Casey](/clan/casey/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “West Virginia”](https://www.trove.scot/search?page_type=Designations+Decisions&q=West+Virginia&viewmode=grid)
 

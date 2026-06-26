@@ -8,5 +8,5 @@ A family of [Clan Moray](/clan/moray/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/"><img src="/setts/s11/w1t3db2r18r2g16r2r2r2t3w1~x2/sett.png" alt="Moray of Abercairny" width="240"><br>Moray of Abercairny</a>
+<a class="tartan" href="/setts/s11/w1t3db2ri18r2g16r2ri2r2t3w1~x2/"><img src="/setts/s11/w1t3db2ri18r2g16r2ri2r2t3w1~x2/sett.png" alt="Moray of Abercairny" width="240"><br>Moray of Abercairny</a>
 

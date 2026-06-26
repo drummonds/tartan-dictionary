@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cumbernauld](/setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/)|
-|![Cumbernauld example sett](/setts/s15/k17k3k3k3k3k17g17k2w3k2g17k17k17k3r3~x2/sett.png)|
+| [Cumbernauld](/setts/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2/)|
+|![Cumbernauld example sett](/setts/s15/ki17k3ki3k3ki3k17g17k2w3k2g17k17ki17k3r3~x2/sett.png)|

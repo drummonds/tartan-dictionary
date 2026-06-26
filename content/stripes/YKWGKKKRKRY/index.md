@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Louth County, Crest Range](/setts/s11/lo16o5k8o8k16k48k4dg46w8k8lr8/)|
-|![Louth County, Crest Range example sett](/setts/s11/lo16o5k8o8k16k48k4dg46w8k8lr8/sett.png)|
+| [Louth County, Crest Range](/setts/s11/lo16o5k8o8k16ki48k4dg46w8k8lr8/)|
+|![Louth County, Crest Range example sett](/setts/s11/lo16o5k8o8k16ki48k4dg46w8k8lr8/sett.png)|

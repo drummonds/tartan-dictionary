@@ -15,6 +15,7 @@ date: 2023-03-18
 - [Campbell of Breadalbane](/families/campbell-of-breadalbane/)
 - [Campbell of Cawdor](/families/campbell-of-cawdor/)
 - [Campbell of Glenlyon](/families/campbell-of-glenlyon/)
+- [Campbell of Loch Awe](/families/campbell-of-loch-awe/)
 - [Campbell of Loch Neil](/families/campbell-of-loch-neil/)
 - [Campbell of Lochawe](/families/campbell-of-lochawe/)
 - [Campbell of Lochlane](/families/campbell-of-lochlane/)

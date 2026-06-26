@@ -2,7 +2,7 @@
 title: "Falconer of Labhdal"
 date: 2023-03-18
 ---
-A family of [Clan Falconer](/clan/falconer/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Labhdal”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Labhdal&viewmode=grid)
 

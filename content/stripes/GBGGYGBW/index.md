@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Elbrick Hunting (Personal)](/setts/s8/g6t22g6dy20ly1g45t1w5~x2/)|
-|![Elbrick Hunting (Personal) example sett](/setts/s8/g6t22g6dy20ly1g45t1w5~x2/sett.png)|
+| [Elbrick Hunting (Personal)](/setts/s8/g6ti22g6dy20ly1g45t1w5~x2/)|
+|![Elbrick Hunting (Personal) example sett](/setts/s8/g6ti22g6dy20ly1g45t1w5~x2/sett.png)|

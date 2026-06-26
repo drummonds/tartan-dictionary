@@ -1,8 +1,5 @@
 ---
 title: "Clan Newlands"
-date: 2023-03-18
+redirect: "/families/newlands-of-lauriston/"
 ---
-## Families
-
-- [Newlands of Lauriston](/families/newlands-of-lauriston/)
-
+Clan Newlands is recorded as the single family [Newlands of Lauriston](/families/newlands-of-lauriston/) — redirecting there.

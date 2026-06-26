@@ -1,8 +1,5 @@
 ---
 title: "Clan Moncrieff"
-date: 2023-03-18
+redirect: "/families/moncrieff-of-atholl/"
 ---
-## Families
-
-- [Moncrieff of Atholl](/families/moncrieff-of-atholl/)
-
+Clan Moncrieff is recorded as the single family [Moncrieff of Atholl](/families/moncrieff-of-atholl/) — redirecting there.

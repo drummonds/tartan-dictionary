@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bowcutt, David (Personal)](/setts/s14/db1k4k3dp2k15k2k3k50k2k2k6k2k1r1~x2/)|
-|![Bowcutt, David (Personal) example sett](/setts/s14/db1k4k3dp2k15k2k3k50k2k2k6k2k1r1~x2/sett.png)|
+| [Bowcutt, David (Personal)](/setts/s14/db1ki4k3dp2ki15k2ki3k50ki2k2ki6k2ki1r1~x2/)|
+|![Bowcutt, David (Personal) example sett](/setts/s14/db1ki4k3dp2ki15k2ki3k50ki2k2ki6k2ki1r1~x2/sett.png)|

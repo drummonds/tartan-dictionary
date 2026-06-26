@@ -26,5 +26,5 @@ It is a 17 stripe tartan.
 |---------------|
 | [Arbuthnott](/tartans/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1/)|
 |![Arbuthnott example sett](/setts/s17/db4k1db1k1db1k4dg2lr1dg2db2dg2lr1dg2k4db5k1db1/sett.png)|
-| [Polaris](/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/)|
-|![Polaris example sett](/setts/s17/db6k1db1k1db1k7g6ly1g1db1g1ly1g6k7db7k1db1~x4/sett.png)|
+| [Polaris](/setts/s17/dbi6k1dbi1k1dbi1k7g6ly1g1db1g1ly1g6k7dbi7k1dbi1~x4/)|
+|![Polaris example sett](/setts/s17/dbi6k1dbi1k1dbi1k7g6ly1g1db1g1ly1g6k7dbi7k1dbi1~x4/sett.png)|

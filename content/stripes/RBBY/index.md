@@ -24,5 +24,5 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Mackaw](/setts/s4/r2db35db35ly1~x2/)|
-|![Mackaw example sett](/setts/s4/r2db35db35ly1~x2/sett.png)|
+| [Mackaw](/setts/s4/r2dbi35db35ly1~x2/)|
+|![Mackaw example sett](/setts/s4/r2dbi35db35ly1~x2/sett.png)|

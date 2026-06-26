@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hyndman (Omagh)](/setts/s14/db8r4db6r10db24dg12o4dg4k4db18r10db4r6lr3/)|
-|![Hyndman (Omagh) example sett](/setts/s14/db8r4db6r10db24dg12o4dg4k4db18r10db4r6lr3/sett.png)|
+| [Hyndman (Omagh)](/setts/s14/db8ri4db6ri10db24dg12o4dg4k4dbi18r10dbi4r6lr3/)|
+|![Hyndman (Omagh) example sett](/setts/s14/db8ri4db6ri10db24dg12o4dg4k4dbi18r10dbi4r6lr3/sett.png)|

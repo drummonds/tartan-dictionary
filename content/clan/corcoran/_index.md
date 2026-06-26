@@ -1,8 +1,5 @@
 ---
 title: "Clan Corcoran"
-date: 2023-03-18
+redirect: "/families/corcoran-of-sherbrooke/"
 ---
-## Families
-
-- [Corcoran of Sherbrooke](/families/corcoran-of-sherbrooke/)
-
+Clan Corcoran is recorded as the single family [Corcoran of Sherbrooke](/families/corcoran-of-sherbrooke/) — redirecting there.

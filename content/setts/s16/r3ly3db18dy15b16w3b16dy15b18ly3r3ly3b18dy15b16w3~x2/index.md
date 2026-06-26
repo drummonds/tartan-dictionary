@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [16 stripe tartan](/stripes/stripes16/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3907/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3907
+
 ## Thread count
 R/6 Y6 DB36 T30 B32 W6 B32 T30 B36 Y6 R6 Y6 B36 T30 B32 W/6
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/"><circle cx="119.7" cy="166.4" r="4" fill="#3465a4"><title>Hirter Karo</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.9" cy="161.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.8" cy="178.3" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><a href="/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/"><circle cx="140.7" cy="161.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.7" cy="161.3" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="126.3" cy="178.3" r="4" fill="#3465a4"><title>Healy (Suspect)</title></circle></a><a href="/setts/s11/b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="162.4" cy="205.2" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/"><circle cx="122.1" cy="199.3" r="4" fill="#3465a4"><title>Hyndman (Name)</title></circle></a><a href="/setts/s22/t14db14t14w2o3w2db14t14db6ly2db6t14~x2/"><circle cx="197.1" cy="180.1" r="4" fill="#3465a4"><title>Walker, Michael (Personal)</title></circle></a><a href="/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/"><circle cx="166.4" cy="175.2" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><circle cx="150.7" cy="171.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s20/r3ly3db18dy15b16w3b16dy15b18ly3r3~x2/"><circle cx="119.4" cy="167.4" r="4" fill="#3465a4"><title>Hirter Karo</title></circle></a><a href="/setts/s16/t4db6g1w1r1db6t4db2lo1db1lo1db1lo1db2lo3db3~x4/"><circle cx="182.5" cy="162.6" r="4" fill="#3465a4"><title>de Baseggio (Golden Bones)</title></circle></a><a href="/setts/s16/b4dt6g1w1r1dt6b4dt2lo1dt1lo1dt1lo1dt2lo3dt3~x4/"><circle cx="208.5" cy="179.1" r="4" fill="#3465a4"><title>De Baseggio (Personal)</title></circle></a><a href="/setts/s10/b4g1b2g2lr6g2k3r1b8w1~x2/"><circle cx="140.2" cy="162.5" r="4" fill="#3465a4"><title>EAIE 2015</title></circle></a><a href="/setts/s16/k2w1db7k4r1db4r2db4w2db4r2db4r1dg7w1ly2~x4/"><circle cx="129.3" cy="162.4" r="4" fill="#3465a4"><title>MacLellan/McLellan (Personal)</title></circle></a><a href="/setts/s20/db2lb2b7r4ly8db4b10lb2db2b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="125.9" cy="179.3" r="4" fill="#3465a4"><title>Healy (Suspect)</title></circle></a><a href="/setts/s11/b9db2lb2b10db4ly8r4b7lb2db2ly2~x4/"><circle cx="162.0" cy="206.4" r="4" fill="#3465a4"><title>Healy (Name)</title></circle></a><a href="/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/"><circle cx="121.6" cy="200.5" r="4" fill="#3465a4"><title>Hyndman (Name)</title></circle></a><a href="/setts/s22/t14db14t14w2o3w2db14t14db6ly2db6t14~x2/"><circle cx="196.8" cy="181.1" r="4" fill="#3465a4"><title>Walker, Michael (Personal)</title></circle></a><a href="/setts/s14/r2db7k5r2db5k1db5w1db5k1db5r2g7ly2~x2/"><circle cx="166.0" cy="176.3" r="4" fill="#3465a4"><title>MacLellan, McLellan hunting</title></circle></a><circle cx="150.3" cy="172.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r3ly3db18dy15b16w3b16dy15b18ly3r3ly3b18dy15b16w3~x2/

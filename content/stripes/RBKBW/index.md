@@ -24,7 +24,9 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davidson of Tulloch](/setts/s5/r6db35k36db36w6/)|
-|![Davidson of Tulloch example sett](/setts/s5/r6db35k36db36w6/sett.png)|
+| [Davidson of Tulloch](/setts/s5/r6dbi35k36db36w6/)|
+|![Davidson of Tulloch example sett](/setts/s5/r6dbi35k36db36w6/sett.png)|
+| [Davidson of Tulloch Clan Tartan Tartan Number: 1360. Earliest known date: 1984 The Davidsons or Clan Dhai maintained a constant battle for precedence within Clan Chattan. The Davidsons of Tulloch in Ross-shire are one of the main branches of the Davidson family. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s5/r6db35k36db36w6/)|
+|![Davidson of Tulloch Clan Tartan Tartan Number: 1360. Earliest known date: 1984 The Davidsons or Clan Dhai maintained a constant battle for precedence within Clan Chattan. The Davidsons of Tulloch in Ross-shire are one of the main branches of the Davidson family. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s5/r6db35k36db36w6/sett.png)|
 | [RSCDS Australia? (Corporate)](/setts/s5/r2db12k5t16w2~x4/)|
 |![RSCDS Australia? (Corporate) example sett](/setts/s5/r2db12k5t16w2~x4/sett.png)|

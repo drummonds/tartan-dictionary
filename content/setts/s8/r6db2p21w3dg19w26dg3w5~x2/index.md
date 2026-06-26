@@ -9,13 +9,6 @@ Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Culloden Dress Old
-- Culloden, dress Ancient
-
 ## Thread count
 R/12 B4 P42 LN6 DG38 LN52 DG6 LN/10
 ![Sett](sett.png)
@@ -35,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="152.5" cy="141.5" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="171.3" cy="138.8" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s8/r5w2o20ly2k16w18k2w5~x2/"><circle cx="117.9" cy="146.9" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="165.2" cy="138.0" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/w8g5t10dp24w30g2lp2~x2/"><circle cx="198.8" cy="137.3" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="116.4" cy="147.8" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="147.9" cy="106.8" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s7/lb5k26ly4lb24dp8k3r4~x2/"><circle cx="152.6" cy="162.2" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/setts/s7/g4ly7o9ly9db20w2db2~x2/"><circle cx="156.1" cy="170.7" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="149.4" cy="138.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><circle cx="155.5" cy="140.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6db2dp21w3dg19w26dg3w5~x2/"><circle cx="151.8" cy="142.5" r="4" fill="#3465a4"><title>Culloden Dress Ancient</title></circle></a><a href="/setts/s7/w39db9k10dg11r7k3r7~x2/"><circle cx="170.4" cy="139.7" r="4" fill="#3465a4"><title>MacDuff Dress #5</title></circle></a><a href="/setts/s8/r5w2o20ly2k16w18k2w5~x2/"><circle cx="117.1" cy="148.0" r="4" fill="#3465a4"><title>Ailsa Craig</title></circle></a><a href="/setts/s7/w39db9k10g11r7k3r7~x2/"><circle cx="164.3" cy="138.9" r="4" fill="#3465a4"><title>MacDuff dress</title></circle></a><a href="/setts/s7/w8g5t10dp24w30g2lp2~x2/"><circle cx="197.8" cy="138.1" r="4" fill="#3465a4"><title>Shiel, Purple (Dance)</title></circle></a><a href="/setts/s8/r5w2t20ly2k16w18k2w5~x2/"><circle cx="115.6" cy="148.8" r="4" fill="#3465a4"><title>Ailsa Craig (District)</title></circle></a><a href="/setts/s12/lo4db2r7db15r3db3r3db7w28dy7w6dy2~x2/"><circle cx="147.0" cy="107.6" r="4" fill="#3465a4"><title>Walker, Dress (Personal)</title></circle></a><a href="/setts/s7/lb5k26ly4lb24dp8k3r4~x2/"><circle cx="151.8" cy="163.3" r="4" fill="#3465a4"><title>Pengelly, The Cornish (Name)</title></circle></a><a href="/setts/s7/g4ly7o9ly9db20w2db2~x2/"><circle cx="155.4" cy="171.7" r="4" fill="#3465a4"><title>Tombow 140th Anniversary, The</title></circle></a><a href="/setts/s7/r2db14k6g1w12g1w2~x4/"><circle cx="148.7" cy="139.7" r="4" fill="#3465a4"><title>Davidson (Wedding) (Personal)</title></circle></a><circle cx="154.7" cy="141.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r6db2p21w3dg19w26dg3w5~x2/

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bannatyne (Corporate)](/setts/s12/k8r8k42k4k4k4k4k20dg4k10dg25w8/)|
-|![Bannatyne (Corporate) example sett](/setts/s12/k8r8k42k4k4k4k4k20dg4k10dg25w8/sett.png)|
+| [Bannatyne (Corporate)](/setts/s12/k8r8k42ki4k4ki4k4ki20dg4ki10dg25w8/)|
+|![Bannatyne (Corporate) example sett](/setts/s12/k8r8k42ki4k4ki4k4ki20dg4ki10dg25w8/sett.png)|

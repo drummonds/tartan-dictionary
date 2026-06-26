@@ -1,8 +1,5 @@
 ---
 title: "Clan Leiato"
-date: 2023-03-18
+redirect: "/families/leiato-of-american-samoa/"
 ---
-## Families
-
-- [Leiato of American Samoa](/families/leiato-of-american-samoa/)
-
+Clan Leiato is recorded as the single family [Leiato of American Samoa](/families/leiato-of-american-samoa/) — redirecting there.

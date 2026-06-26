@@ -24,7 +24,7 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougall (Kinloch Anderson)](/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/)|
-|![MacDougall (Kinloch Anderson) example sett](/setts/s15/r7r5r5r31k9r4r3r5r3r4dg30r4r3r5r5~x2/sett.png)|
-| [MacDougall 3](/setts/s15/r7r5r5r31k9r4r3r5r3r4g30r4r3r5r5~x2/)|
-|![MacDougall 3 example sett](/setts/s15/r7r5r5r31k9r4r3r5r3r4g30r4r3r5r5~x2/sett.png)|
+| [MacDougall (Kinloch Anderson)](/setts/s15/r7ri5rii5r31k9rii4ri3r5ri3rii4dg30r4ri3rii5r5~x2/)|
+|![MacDougall (Kinloch Anderson) example sett](/setts/s15/r7ri5rii5r31k9rii4ri3r5ri3rii4dg30r4ri3rii5r5~x2/sett.png)|
+| [MacDougall 3](/setts/s15/ri7r5rii5ri31k9rii4r3ri5r3rii4g30ri4r3rii5ri5~x2/)|
+|![MacDougall 3 example sett](/setts/s15/ri7r5rii5ri31k9rii4r3ri5r3rii4g30ri4r3rii5ri5~x2/sett.png)|

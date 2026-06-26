@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Peter Pan](/setts/s20/db22g2g2g2g2g2db6k3g14db1g4db1g2g2g2g2g1db1k1r2~x2/)|
-|![Peter Pan example sett](/setts/s20/db22g2g2g2g2g2db6k3g14db1g4db1g2g2g2g2g1db1k1r2~x2/sett.png)|
+| [Peter Pan](/setts/s20/db22gi2gii2gi2gii2gi2db6k3gi14db1g4db1gi2g2gi2g2gi1db1k1r2~x2/)|
+|![Peter Pan example sett](/setts/s20/db22gi2gii2gi2gii2gi2db6k3gi14db1g4db1gi2g2gi2g2gi1db1k1r2~x2/sett.png)|

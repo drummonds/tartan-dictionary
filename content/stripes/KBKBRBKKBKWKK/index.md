@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pride of Norway](/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/)|
-|![Pride of Norway example sett](/setts/s13/k7db2k6db18r3db18k4k2db2k2w2k4k4~x2/sett.png)|
+| [Pride of Norway](/setts/s13/ki7db2ki6db18r3db18ki4k2db2k2w2k4ki4~x2/)|
+|![Pride of Norway example sett](/setts/s13/ki7db2ki6db18r3db18ki4k2db2k2w2k4ki4~x2/sett.png)|

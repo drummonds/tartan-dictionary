@@ -8,5 +8,5 @@ A family of [Clan Mead](/clan/mead/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/"><img src="/setts/s12/w6n2db6n2db25n2r1n2ly3db5w6n4~x2/sett.png" alt="Mead of Poetry, The" width="240"><br>Mead of Poetry, The</a>
+<a class="tartan" href="/setts/s12/w6n2db6n2db25n2r1n2ly3dbi5w6n4~x2/"><img src="/setts/s12/w6n2db6n2db25n2r1n2ly3dbi5w6n4~x2/sett.png" alt="Mead of Poetry, The" width="240"><br>Mead of Poetry, The</a>
 

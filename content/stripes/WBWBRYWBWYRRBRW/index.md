@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hudson Bay Company Artifact](/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/)|
-|![Hudson Bay Company Artifact example sett](/setts/s15/w9o14dr11o3o11ly7w1dr3w1ly7o7dr3w2b2w2~x2/sett.png)|
+| [Hudson Bay Company Artifact](/setts/s15/w9oi14dr11oi3o11ly7w1dr3w1ly7oi7dr3w2b2w2~x2/)|
+|![Hudson Bay Company Artifact example sett](/setts/s15/w9oi14dr11oi3o11ly7w1dr3w1ly7oi7dr3w2b2w2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lock in Northumberland](/setts/s8/dr90k1k2t10k5r2k2t2~x2/)|
-|![Lock in Northumberland example sett](/setts/s8/dr90k1k2t10k5r2k2t2~x2/sett.png)|
+| [Lock in Northumberland](/setts/s8/dr90k1ki2t10ki5r2k2t2~x2/)|
+|![Lock in Northumberland example sett](/setts/s8/dr90k1ki2t10ki5r2k2t2~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Clark"
-date: 2023-03-18
+redirect: "/families/clark-of-ulva/"
 ---
-## Families
-
-- [Clark of Ulva](/families/clark-of-ulva/)
-
+Clan Clark is recorded as the single family [Clark of Ulva](/families/clark-of-ulva/) — redirecting there.

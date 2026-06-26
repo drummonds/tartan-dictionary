@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5332/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5332
+
 ## Thread count
 N/100 K24 Na4 K4 W4 K4 Na24 N14 K14 W/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/t6k74t6k6t6k6t20lg30k3w6/"><circle cx="305.9" cy="119.4" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/"><circle cx="308.8" cy="143.1" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="320.2" cy="123.9" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="372.0" cy="113.3" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="286.6" cy="133.7" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="299.5" cy="95.1" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s8/w2db40g22ly3g2r3g2w2~x2/"><circle cx="303.8" cy="124.7" r="4" fill="#3465a4"><title>Tartan Day SA (Corporate)</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.7" cy="160.7" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s9/r4k2w6k2b40k80g10w6r3/"><circle cx="328.8" cy="88.7" r="4" fill="#3465a4"><title>Italian American (Corporate)</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="331.6" cy="115.5" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><circle cx="344.6" cy="117.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/t6k74t6k6t6k6t20lg30k3w6/"><circle cx="305.2" cy="120.0" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s9/r3b14ly2k2b14k36ly2k2ly2~x2/"><circle cx="308.2" cy="143.9" r="4" fill="#3465a4"><title>Ewbank</title></circle></a><a href="/setts/s10/k3y3lo3y3k12y24k1y3k3w3~x2/"><circle cx="319.3" cy="124.5" r="4" fill="#3465a4"><title>Bruichladdich (Corporate)</title></circle></a><a href="/setts/s11/o8k40dy2o2w2o2k9w5o2w5k2~x2/"><circle cx="371.1" cy="113.8" r="4" fill="#3465a4"><title>Grey Spencer Plaid</title></circle></a><a href="/setts/s10/w6k3g24lg16k6lg6k6lg6k60lg6/"><circle cx="286.0" cy="134.4" r="4" fill="#3465a4"><title>Scruffy Wallace</title></circle></a><a href="/setts/s13/n38k4r3do6w2do2w2do2k12n6do2n6w2~x2/"><circle cx="298.8" cy="95.6" r="4" fill="#3465a4"><title>Leando (Coldingham) Dress (Personal)</title></circle></a><a href="/setts/s8/w2db40g22ly3g2r3g2w2~x2/"><circle cx="303.2" cy="125.3" r="4" fill="#3465a4"><title>Tartan Day SA (Corporate)</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.2" cy="161.4" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s9/r4k2w6k2b40k80g10w6r3/"><circle cx="328.1" cy="89.0" r="4" fill="#3465a4"><title>Italian American (Corporate)</title></circle></a><a href="/setts/s10/w8k1db2k4ly2k2ly2k24w8k2~x2/"><circle cx="330.6" cy="116.1" r="4" fill="#3465a4"><title>Newcastle</title></circle></a><circle cx="343.9" cy="117.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/n50k12o2k2w2k2o12n7k7w2~x2/

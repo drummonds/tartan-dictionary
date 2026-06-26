@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Registers of Scotland, The (Corp)](/setts/s13/o2dt42lr1dt2n5dt1lb1dt2lr2n3ly1n1y2~x2/)|
-|![Registers of Scotland, The (Corp) example sett](/setts/s13/o2dt42lr1dt2n5dt1lb1dt2lr2n3ly1n1y2~x2/sett.png)|
+| [Registers of Scotland, The (Corp)](/setts/s13/o2dt42lri1dt2n5dt1lb1dt2lr2n3ly1n1y2~x2/)|
+|![Registers of Scotland, The (Corp) example sett](/setts/s13/o2dt42lri1dt2n5dt1lb1dt2lr2n3ly1n1y2~x2/sett.png)|

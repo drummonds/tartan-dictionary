@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Institute of Directors (Corporate)](/setts/s24/dp50w4dp12dp4dp10dp8dp4dp6dp4dp10k12dp5k42dp6k12dp10dp4dp6dp4dp8dp10dp4dp12w4/)|
-|![Institute of Directors (Corporate) example sett](/setts/s24/dp50w4dp12dp4dp10dp8dp4dp6dp4dp10k12dp5k42dp6k12dp10dp4dp6dp4dp8dp10dp4dp12w4/sett.png)|
+| [Institute of Directors (Corporate)](/setts/s24/dp50w4dp12dpi4dp10dpi8dp4dpi6dp4dpi10k12dpi5k42dpi6k12dpi10dp4dpi6dp4dpi8dp10dpi4dp12w4/)|
+|![Institute of Directors (Corporate) example sett](/setts/s24/dp50w4dp12dpi4dp10dpi8dp4dpi6dp4dpi10k12dpi5k42dpi6k12dpi10dp4dpi6dp4dpi8dp10dpi4dp12w4/sett.png)|

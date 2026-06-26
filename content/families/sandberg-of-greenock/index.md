@@ -2,7 +2,7 @@
 title: "Sandberg of Greenock"
 date: 2023-03-18
 ---
-A family of [Clan Sandberg](/clan/sandberg/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Greenock”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Greenock&viewmode=grid)
 

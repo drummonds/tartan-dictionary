@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Morris, Tom (Corporate)](/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lb3n30lb3n2lb7/)|
-|![Morris, Tom (Corporate) example sett](/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lb3n30lb3n2lb7/sett.png)|
+| [Morris, Tom (Corporate)](/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lbi3n30lbi3n2lbi7/)|
+|![Morris, Tom (Corporate) example sett](/setts/s13/lb38dp5lb6dp5lb4db20lb38o12lbi3n30lbi3n2lbi7/sett.png)|

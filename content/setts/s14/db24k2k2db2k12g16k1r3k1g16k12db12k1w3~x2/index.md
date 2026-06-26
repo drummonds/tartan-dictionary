@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8453/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8453](https://www.tartanregister.gov.uk/tartanDetails?ref=8453)
+- Scottish Tartans Authority (ITI): 8453
+
 ## Thread count
 DB/48 K4 K4 DB4 K24 G32 K2 R6 K2 G32 K24 DB24 K2 W/6
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.3" cy="127.7" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="217.1" cy="127.7" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.7" cy="115.6" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/"><circle cx="184.5" cy="143.5" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.2" cy="151.0" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="203.6" cy="153.1" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/"><circle cx="236.2" cy="117.2" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/"><circle cx="202.4" cy="131.0" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/"><circle cx="207.0" cy="116.7" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="176.7" cy="162.6" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><circle cx="206.0" cy="132.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db24k2db2k2db2k12g16k1r3k1g16k12db12k1w3~x2/"><circle cx="212.2" cy="128.4" r="4" fill="#3465a4"><title>Robertson Htg - 1816 (Clan)</title></circle></a><a href="/setts/s15/db24k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="216.9" cy="128.3" r="4" fill="#3465a4"><title>Robertson Hunting</title></circle></a><a href="/setts/s14/db20k2g3k2db20r3k20r2k20r3g30ly3g1ly2~x2/"><circle cx="206.6" cy="116.2" r="4" fill="#3465a4"><title>Glynn of Glynnstewart (Personal)</title></circle></a><a href="/setts/s14/o19dg2db8dg4db8dg2k19dg2k2dg11ly2dg11o1dg2~x2/"><circle cx="184.5" cy="144.3" r="4" fill="#3465a4"><title>Eildon (1996)</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12dg12ly2k2ly2dg12k16db16k1w3~x2/"><circle cx="187.1" cy="151.8" r="4" fill="#3465a4"><title>Dyce #2</title></circle></a><a href="/setts/s13/db2k2db12k18w1g14r2g14w3k18db12k2db1~x4/"><circle cx="203.4" cy="153.9" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s14/db88k15g9r12g20k3ly8k6g20r12g9k15db24k36/"><circle cx="235.9" cy="117.7" r="4" fill="#3465a4"><title>Gillies</title></circle></a><a href="/setts/s16/b22k3b3k3b3k15g19k1lb3k1g19r2k15b19k3b3~x2/"><circle cx="202.2" cy="131.6" r="4" fill="#3465a4"><title>Sempill (Clan)</title></circle></a><a href="/setts/s13/db4ly2g24ly2k12db3k2db2k2db14r1db1r3~x2/"><circle cx="206.8" cy="117.2" r="4" fill="#3465a4"><title>Baron of Greencastle Htg (Personal)</title></circle></a><a href="/setts/s13/r5db30k19g23k2w2k5w2k2g23k19db25g5~x2/"><circle cx="176.6" cy="163.5" r="4" fill="#3465a4"><title>Loch Carron</title></circle></a><circle cx="205.9" cy="133.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db24k2k2db2k12g16k1r3k1g16k12db12k1w3~x2/

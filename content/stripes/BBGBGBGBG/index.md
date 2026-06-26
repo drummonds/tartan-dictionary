@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish National (hunting)](/setts/s9/y65p3g3p3g16dr8g3dr3dr4~x2/)|
-|![Scottish National (hunting) example sett](/setts/s9/y65p3g3p3g16dr8g3dr3dr4~x2/sett.png)|
+| [Scottish National (hunting)](/setts/s9/y65p3g3p3g16dr8g3dr3dri4~x2/)|
+|![Scottish National (hunting) example sett](/setts/s9/y65p3g3p3g16dr8g3dr3dri4~x2/sett.png)|

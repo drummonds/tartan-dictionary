@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Abergavenny](/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/)|
-|![Abergavenny example sett](/setts/s17/lb36k41lb4lb6k8o24lb12lb4o4k6lb4lb4k48o4lb8k22lb18/sett.png)|
+| [Abergavenny](/setts/s17/lbi36k41lbi4lb6k8o24lbi12lb4o4k6lb4lbi4k48o4lbi8k22lbi18/)|
+|![Abergavenny example sett](/setts/s17/lbi36k41lbi4lb6k8o24lbi12lb4o4k6lb4lbi4k48o4lbi8k22lbi18/sett.png)|

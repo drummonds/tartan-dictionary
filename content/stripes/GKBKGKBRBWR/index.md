@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [HMS Neptune](/setts/s11/g4k1db9k1g3k1db27r1db27w1r3~x2/)|
-|![HMS Neptune example sett](/setts/s11/g4k1db9k1g3k1db27r1db27w1r3~x2/sett.png)|
+| [HMS Neptune](/setts/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2/)|
+|![HMS Neptune example sett](/setts/s11/g4k1dbi9k1g3k1db27r1db27w1r3~x2/sett.png)|
 | [HMS Neptune (Military)](/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/)|
 |![HMS Neptune (Military) example sett](/setts/s11/g4k1dt9k1g3k1db27r1db27w1r3~x2/sett.png)|

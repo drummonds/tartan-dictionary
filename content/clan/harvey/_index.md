@@ -1,8 +1,5 @@
 ---
 title: "Clan Harvey"
-date: 2023-03-18
+redirect: "/families/harvey-of-cornwall/"
 ---
-## Families
-
-- [Harvey of Cornwall](/families/harvey-of-cornwall/)
-
+Clan Harvey is recorded as the single family [Harvey of Cornwall](/families/harvey-of-cornwall/) — redirecting there.

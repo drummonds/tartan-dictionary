@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unidentified #45
-
 ## Thread count
 K/24 G3 R3 K24 R2 K2 R/2
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="472.4" cy="225.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s7/k24dg3r3k24r2k2r2/"><circle cx="578.3" cy="225.2" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/"><circle cx="516.8" cy="195.4" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="538.4" cy="209.3" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="542.7" cy="172.3" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="559.9" cy="180.5" r="4" fill="#3465a4"><title>St. Mirren Football Club (Sports)</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="458.4" cy="167.3" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.9" cy="160.7" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="437.5" cy="186.4" r="4" fill="#3465a4"><title>Hebridean 7</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="578.8" cy="141.7" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="548.8" cy="218.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k8ly1k1r1k4db1~x12/"><circle cx="471.7" cy="226.3" r="4" fill="#3465a4"><title>Justus</title></circle></a><a href="/setts/s7/k24dg3r3k24r2k2r2/"><circle cx="577.4" cy="225.8" r="4" fill="#3465a4"><title>Unidentified #45</title></circle></a><a href="/setts/s8/k45ly4k4ly9k4ly4k45r4~x2/"><circle cx="515.7" cy="196.1" r="4" fill="#3465a4"><title>Gwynn</title></circle></a><a href="/setts/s6/k4r4k20r1k20w4~x6/"><circle cx="537.3" cy="210.1" r="4" fill="#3465a4"><title>Lanoir</title></circle></a><a href="/setts/s10/r7k3r3k22r3k3r3k37ly2k4~x2/"><circle cx="541.7" cy="172.8" r="4" fill="#3465a4"><title>Maier (Personal)</title></circle></a><a href="/setts/s9/k7w2k21r2k34w5k3w2k7~x2/"><circle cx="558.8" cy="181.1" r="4" fill="#3465a4"><title>St. Mirren Football Club (Sports)</title></circle></a><a href="/setts/s11/k68y11k16y4k4y4k4y19k14w4k14/"><circle cx="457.7" cy="168.0" r="4" fill="#3465a4"><title>Stewart Mourning</title></circle></a><a href="/setts/s8/g8lo3k60g3k3g3k3g4~x2/"><circle cx="515.2" cy="161.2" r="4" fill="#3465a4"><title>Aberdeen-Angus Cattle Society (Corp)</title></circle></a><a href="/setts/s14/k2r1k10r1k2r1k10r2k10r2g2r2k10db2~x2/"><circle cx="436.8" cy="187.2" r="4" fill="#3465a4"><title>Hebridean 7</title></circle></a><a href="/setts/s8/k62r3k3lo3k3r3k9lr5~x2/"><circle cx="577.6" cy="142.0" r="4" fill="#3465a4"><title>Auld Bernensis</title></circle></a><circle cx="548.1" cy="219.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/k24g3r3k24r2k2r2/

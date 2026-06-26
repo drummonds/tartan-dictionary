@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8922/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8922](https://www.tartanregister.gov.uk/tartanDetails?ref=8922)
+- Scottish Tartans Authority (ITI): 8922
+
 ## Thread count
 K/100 W6 K6 R8 W6 R6 W10 R6 K/6
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="453.0" cy="150.7" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s7/r2k1r2k14w1k1w1~x8/"><circle cx="456.3" cy="167.2" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="487.5" cy="124.5" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="464.0" cy="120.3" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="480.8" cy="137.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="430.4" cy="144.4" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s7/w5k3ly6k5w3k30ly2~x2/"><circle cx="405.4" cy="167.7" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="484.1" cy="117.0" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="530.8" cy="120.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><circle cx="458.9" cy="134.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k27w2k2w2k2w2k2w2k4r5~x4/"><circle cx="452.0" cy="151.4" r="4" fill="#3465a4"><title>Reiver Check</title></circle></a><a href="/setts/s7/r2k1r2k14w1k1w1~x8/"><circle cx="455.3" cy="167.9" r="4" fill="#3465a4"><title>White Stripes Hunting</title></circle></a><a href="/setts/s12/k50w4k10r2k2w2r2k14r11k2r4w2~x2/"><circle cx="486.4" cy="124.9" r="4" fill="#3465a4"><title>Knights Templar Dress (Corporate)</title></circle></a><a href="/setts/s8/k70r5k3lb4dp4lb4k3r12/"><circle cx="462.9" cy="120.7" r="4" fill="#3465a4"><title>State University of New York College at Buffalo</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="525.2" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="479.8" cy="138.0" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s9/lo8k7r3k7r3k38w2k3lo6~x2/"><circle cx="429.4" cy="145.0" r="4" fill="#3465a4"><title>Bunnahabhain</title></circle></a><a href="/setts/s7/w5k3ly6k5w3k30ly2~x2/"><circle cx="404.3" cy="168.4" r="4" fill="#3465a4"><title>Northern Kentucky University</title></circle></a><a href="/setts/s8/k31w1k2w2dt3k2t4w2~x4/"><circle cx="483.1" cy="117.3" r="4" fill="#3465a4"><title>Capco</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="529.6" cy="120.4" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><circle cx="457.8" cy="134.9" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k50w3k3r4w3r3w5r3k3~x2/

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fothergill (Personal)](/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/)|
-|![Fothergill (Personal) example sett](/setts/s11/w50db3w8db8db12r4db12g16dg12o4w4/sett.png)|
+| [Fothergill (Personal)](/setts/s11/w50dbi3w8dbi8db12r4db12g16dg12o4w4/)|
+|![Fothergill (Personal) example sett](/setts/s11/w50dbi3w8dbi8db12r4db12g16dg12o4w4/sett.png)|

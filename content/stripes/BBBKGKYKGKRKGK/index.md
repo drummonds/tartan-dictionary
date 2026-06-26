@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/k12g12k1r1k1g12k1ly3k1g12k12db12db3db12~x4/)|
-|![Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/k12g12k1r1k1g12k1ly3k1g12k12db12db3db12~x4/sett.png)|
+| [Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s14/k12g12k1r1k1g12k1ly3k1g12k12dbi12db3dbi12~x4/)|
+|![Gow Hunting Family Tartan Tartan Number: 1893. Earliest known date: pre 2003 MacDonells of Keppoch are an independant branch of Clan Donald. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/k12g12k1r1k1g12k1ly3k1g12k12dbi12db3dbi12~x4/sett.png)|

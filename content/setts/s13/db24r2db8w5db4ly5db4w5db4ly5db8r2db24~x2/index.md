@@ -15,6 +15,12 @@ This cloth is also recorded under:
 
 - Clackson Personal Weavers
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5831
+
 ## Thread count
 DB/48 R4 DB16 Y10 DB8 LN10 DB8 Y10 DB8 LN10 DB16 R4 DB/48
 ![Sett](sett.png)
@@ -30,8 +36,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="329.8" cy="183.4" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="321.5" cy="184.4" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/setts/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/"><circle cx="416.6" cy="111.0" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><a href="/setts/s12/db36lo5db8lb3db8lb10db3~x2/"><circle cx="364.9" cy="174.4" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/"><circle cx="443.7" cy="158.5" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="433.1" cy="132.3" r="4" fill="#3465a4"><title>SPA Association</title></circle></a><a href="/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/"><circle cx="420.7" cy="148.5" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="460.5" cy="168.5" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="454.1" cy="201.7" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/"><circle cx="427.1" cy="161.3" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><circle cx="412.3" cy="162.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/db4r6db16w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="329.0" cy="184.4" r="4" fill="#3465a4"><title>Parker (USA)</title></circle></a><a href="/setts/s12/db4w4db4w4db4w4db16lo2db16r6w3db4~x2/"><circle cx="320.7" cy="185.4" r="4" fill="#3465a4"><title>Parker Dress (USA)</title></circle></a><a href="/setts/s19/db25ly5db12ly3r1w1db12ly3w1db12ly3w1db12ly5r1w1db12ly4w2~x2/"><circle cx="415.5" cy="111.4" r="4" fill="#3465a4"><title>Wanless (Personal)</title></circle></a><a href="/setts/s12/db36lo5db8lb3db8lb10db3~x2/"><circle cx="364.1" cy="175.3" r="4" fill="#3465a4"><title>Scottish Qualifications Authority</title></circle></a><a href="/setts/s13/db29r2db10w5db4lo5db4w5db4lo5db10r2db29~x2/"><circle cx="442.9" cy="159.3" r="4" fill="#3465a4"><title>Clackson (Personal)</title></circle></a><a href="/setts/s18/db5ly1db1ly1k4db15w1db2ly1db2w1db15k4ly1db1ly1db5w1~x4/"><circle cx="432.3" cy="132.8" r="4" fill="#3465a4"><title>SPA Association</title></circle></a><a href="/setts/s10/w1db5ly1db1ly1k4db15w1db2ly1~x4/"><circle cx="419.9" cy="149.1" r="4" fill="#3465a4"><title>SPA Association (Corporate)</title></circle></a><a href="/setts/s8/db18r1db1r1db1k7db13w2~x4/"><circle cx="459.7" cy="169.1" r="4" fill="#3465a4"><title>Tokyo Bluebells</title></circle></a><a href="/setts/s7/db36lo5db8lb3db8lb10db3~x2/"><circle cx="453.2" cy="202.6" r="4" fill="#3465a4"><title>Scottish Qualifications Auth. (Corp)</title></circle></a><a href="/setts/s9/db26r3db3w2db3r3db6r6ly2~x4/"><circle cx="426.1" cy="162.0" r="4" fill="#3465a4"><title>Newton Primary School</title></circle></a><circle cx="411.3" cy="163.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db24r2db8w5db4ly5db4w5db4ly5db8r2db24~x2/

@@ -1,8 +1,5 @@
 ---
 title: "Clan Griffiths"
-date: 2023-03-18
+redirect: "/families/griffiths-of-llangynin/"
 ---
-## Families
-
-- [Griffiths of Llangynin](/families/griffiths-of-llangynin/)
-
+Clan Griffiths is recorded as the single family [Griffiths of Llangynin](/families/griffiths-of-llangynin/) — redirecting there.

@@ -1,8 +1,5 @@
 ---
 title: "Clan Watkins"
-date: 2023-03-18
+redirect: "/families/watkins-of-wales/"
 ---
-## Families
-
-- [Watkins of Wales](/families/watkins-of-wales/)
-
+Clan Watkins is recorded as the single family [Watkins of Wales](/families/watkins-of-wales/) — redirecting there.

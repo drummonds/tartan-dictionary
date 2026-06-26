@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McCandlish, Red (Name)](/setts/s11/lb3k1r12k1r1k2r1k6r12k1lo1~x4/)|
-|![McCandlish, Red (Name) example sett](/setts/s11/lb3k1r12k1r1k2r1k6r12k1lo1~x4/sett.png)|
+| [McCandlish, Red (Name)](/setts/s11/lb3k1ri12k1ri1k2ri1k6r12k1lo1~x4/)|
+|![McCandlish, Red (Name) example sett](/setts/s11/lb3k1ri12k1ri1k2ri1k6r12k1lo1~x4/sett.png)|

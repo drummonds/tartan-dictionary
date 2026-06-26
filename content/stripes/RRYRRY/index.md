@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kozlosky (Personal)](/setts/s6/ly21r8r14ly6r3r10~x2/)|
-|![Kozlosky (Personal) example sett](/setts/s6/ly21r8r14ly6r3r10~x2/sett.png)|
-| [Kozlosky, Kilt](/setts/s6/ly42r15r28ly12r6r20/)|
-|![Kozlosky, Kilt example sett](/setts/s6/ly42r15r28ly12r6r20/sett.png)|
+| [Kozlosky (Personal)](/setts/s6/ly21ri8r14ly6ri3r10~x2/)|
+|![Kozlosky (Personal) example sett](/setts/s6/ly21ri8r14ly6ri3r10~x2/sett.png)|
+| [Kozlosky, Kilt](/setts/s6/ly42r15ri28ly12r6ri20/)|
+|![Kozlosky, Kilt example sett](/setts/s6/ly42r15ri28ly12r6ri20/sett.png)|

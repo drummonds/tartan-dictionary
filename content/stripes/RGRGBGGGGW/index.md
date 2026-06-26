@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grewar (Name)](/setts/s10/o2g2o16g2dp17dg10g10g15dg1w2~x2/)|
-|![Grewar (Name) example sett](/setts/s10/o2g2o16g2dp17dg10g10g15dg1w2~x2/sett.png)|
+| [Grewar (Name)](/setts/s10/o2g2o16g2dp17dg10gi10g15dg1w2~x2/)|
+|![Grewar (Name) example sett](/setts/s10/o2g2o16g2dp17dg10gi10g15dg1w2~x2/sett.png)|

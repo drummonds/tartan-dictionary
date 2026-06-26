@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones Htg (Name)](/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/)|
-|![Jones Htg (Name) example sett](/setts/s10/dp4t2dp2t8k3dp8g3dp4g24g2~x2/sett.png)|
+| [Jones Htg (Name)](/setts/s10/dp4t2dp2t8k3dp8gi3dp4gi24g2~x2/)|
+|![Jones Htg (Name) example sett](/setts/s10/dp4t2dp2t8k3dp8gi3dp4gi24g2~x2/sett.png)|

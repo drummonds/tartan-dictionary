@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ship Hector, The](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2/)|
-|![Ship Hector, The example sett](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10k3~x2/sett.png)|
+| [Ship Hector, The](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10ki3~x2/)|
+|![Ship Hector, The example sett](/setts/s14/db10k5db16g3w16g5w3g5w16g3db16k5db10ki3~x2/sett.png)|

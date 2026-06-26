@@ -2,7 +2,7 @@
 title: "Moncrieff of Atholl"
 date: 2023-03-18
 ---
-A family of [Clan Moncrieff](/clan/moncrieff/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Atholl”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Atholl&viewmode=grid)
 

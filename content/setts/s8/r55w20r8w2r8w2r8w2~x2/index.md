@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7199/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7199
+
 ## Thread count
 R/110 LN40 R16 LN4 R16 LN4 R16 LN/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r36lb4r3lb4r6lb2r1lb12/"><circle cx="511.0" cy="131.7" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="497.0" cy="125.6" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="484.2" cy="117.1" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="518.4" cy="117.1" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s8/r36lr4r3lr4r6lr2r1lr12~x2/"><circle cx="534.4" cy="150.0" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s8/r36lr4r3lr4r6lr2r1lr12/"><circle cx="534.4" cy="150.0" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="500.1" cy="85.5" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/setts/s8/ly4k1r30k15r24k2r4k1~x4/"><circle cx="493.6" cy="143.9" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="488.9" cy="173.0" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s7/k2r1k2r14w1r1w1~x8/"><circle cx="475.9" cy="146.0" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><circle cx="549.0" cy="140.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r36lb4r3lb4r6lb2r1lb12/"><circle cx="509.2" cy="131.9" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s8/r36w4r3w4r6w2r1w12~x2/"><circle cx="495.1" cy="125.8" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/r36w4r3w4r6w2r1w12~x4/"><circle cx="482.3" cy="117.3" r="4" fill="#3465a4"><title>Menzies (1815)</title></circle></a><a href="/setts/s8/r51o2r6k10r2k4o3k3~x2/"><circle cx="516.5" cy="117.3" r="4" fill="#3465a4"><title>Virgin</title></circle></a><a href="/setts/s8/r36lr4r3lr4r6lr2r1lr12~x2/"><circle cx="532.9" cy="150.2" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s8/r36lr4r3lr4r6lr2r1lr12/"><circle cx="532.9" cy="150.2" r="4" fill="#3465a4"><title>Menzies Dress</title></circle></a><a href="/setts/s12/r22k1r4w1r1k1w1r4w4r1w2k1~x4/"><circle cx="497.9" cy="85.5" r="4" fill="#3465a4"><title>Valour</title></circle></a><a href="/setts/s8/ly4k1r30k15r24k2r4k1~x4/"><circle cx="491.9" cy="144.3" r="4" fill="#3465a4"><title>Oilmens (Corporate)</title></circle></a><a href="/setts/s7/r58ly3r6dg16r12dg16r6/"><circle cx="487.3" cy="173.4" r="4" fill="#3465a4"><title>Cameron Ancient</title></circle></a><a href="/setts/s7/k2r1k2r14w1r1w1~x8/"><circle cx="474.2" cy="146.4" r="4" fill="#3465a4"><title>White Stripes Dress, (Corporate)</title></circle></a><circle cx="547.0" cy="140.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r55w20r8w2r8w2r8w2~x2/

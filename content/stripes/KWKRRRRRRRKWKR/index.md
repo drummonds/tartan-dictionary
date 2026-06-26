@@ -26,5 +26,5 @@ It is a 14 stripe tartan.
 |---------------|
 | [Sydney (Nova Scotia)](/setts/s14/r6o1r6o3k2w1k2o6~x4/)|
 |![Sydney (Nova Scotia) example sett](/setts/s14/r6o1r6o3k2w1k2o6~x4/sett.png)|
-| [Sydney (Nova Scotia) #2](/setts/s14/o16k4w2k4o6o11o2o16~x2/)|
-|![Sydney (Nova Scotia) #2 example sett](/setts/s14/o16k4w2k4o6o11o2o16~x2/sett.png)|
+| [Sydney (Nova Scotia) #2](/setts/s14/o16oi2o11oi6k4w2k4oi16~x2/)|
+|![Sydney (Nova Scotia) #2 example sett](/setts/s14/o16oi2o11oi6k4w2k4oi16~x2/sett.png)|

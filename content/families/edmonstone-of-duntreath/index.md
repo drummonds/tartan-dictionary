@@ -2,7 +2,7 @@
 title: "Edmonstone of Duntreath"
 date: 2023-03-18
 ---
-A family of [Clan Edmonstone](/clan/edmonstone/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Duntreath”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Duntreath&viewmode=grid)
 

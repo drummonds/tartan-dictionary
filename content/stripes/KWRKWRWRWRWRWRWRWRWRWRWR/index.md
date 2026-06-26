@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sobieski-Stewart](/setts/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o65w2r6~x2/)|
-|![Sobieski-Stewart example sett](/setts/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o65w2r6~x2/sett.png)|
+| [Sobieski-Stewart](/setts/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2oi65w2r6~x2/)|
+|![Sobieski-Stewart example sett](/setts/s24/k63w2o8k10w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2o2w2oi65w2r6~x2/sett.png)|

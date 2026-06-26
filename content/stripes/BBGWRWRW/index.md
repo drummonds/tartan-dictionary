@@ -26,5 +26,5 @@ It is a 8 stripe tartan.
 |---------------|
 | [Jubilee, South Canterbury Centre Piping & Dancing Association](/setts/s8/b36db5g5w2r4w2m9w22~x2/)|
 |![Jubilee, South Canterbury Centre Piping & Dancing Association example sett](/setts/s8/b36db5g5w2r4w2m9w22~x2/sett.png)|
-| [South Canterbury Jubillee (Corporate](/setts/s8/t36db5g5w2r4w2r9w22~x2/)|
-|![South Canterbury Jubillee (Corporate example sett](/setts/s8/t36db5g5w2r4w2r9w22~x2/sett.png)|
+| [South Canterbury Jubillee (Corporate](/setts/s8/t36db5g5w2ri4w2r9w22~x2/)|
+|![South Canterbury Jubillee (Corporate example sett](/setts/s8/t36db5g5w2ri4w2r9w22~x2/sett.png)|

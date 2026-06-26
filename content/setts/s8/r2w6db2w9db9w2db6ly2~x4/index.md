@@ -9,6 +9,12 @@ Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/)
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3156
 
+## Also known as
+
+This cloth is also recorded under:
+
+- North Vancouver, Island
+
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -44,8 +50,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r2w6db2w9db9w2db6ly2~x2/"><circle cx="169.8" cy="221.2" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="174.3" cy="204.9" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s5/b8w13r3w2k5~x2/"><circle cx="165.3" cy="213.2" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/setts/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="143.2" cy="204.1" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="234.9" cy="177.1" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s4/r7w36db36ly7~x2/"><circle cx="161.7" cy="232.6" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s7/w5r3w26db21w3db8ly3~x2/"><circle cx="241.9" cy="177.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="109.9" cy="189.2" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/setts/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/"><circle cx="103.2" cy="184.0" r="4" fill="#3465a4"><title>Poulter Sonic</title></circle></a><circle cx="156.9" cy="213.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r2w6db2w9db9w2db6ly2~x2/"><circle cx="169.0" cy="222.5" r="4" fill="#3465a4"><title>North Vancouver, Island</title></circle></a><a href="/setts/s9/w1b3w3b1w5k1w2k3lo1~x4/"><circle cx="173.3" cy="206.2" r="4" fill="#3465a4"><title>Henderson Dress (Dance)</title></circle></a><a href="/setts/s5/b8w13r3w2k5~x2/"><circle cx="164.3" cy="214.6" r="4" fill="#3465a4"><title>Boswell Dress (Personal)</title></circle></a><a href="/setts/s10/db6w2r6w3k2w6db10r2db3r2~x4/"><circle cx="142.5" cy="205.6" r="4" fill="#3465a4"><title>Commonwealth Games 1986</title></circle></a><a href="/setts/s7/w5k3w26db21w3db8ly3~x2/"><circle cx="234.0" cy="178.2" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance)</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="118.9" cy="201.5" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><a href="/setts/s4/r7w36db36ly7~x2/"><circle cx="160.8" cy="234.1" r="4" fill="#3465a4"><title>MacRae of Conchra #3</title></circle></a><a href="/setts/s7/w5r3w26db21w3db8ly3~x2/"><circle cx="240.9" cy="178.8" r="4" fill="#3465a4"><title>MacPherson, Blue &amp; White</title></circle></a><a href="/setts/s8/k3db10ly5db16g3w16g5w3~x2/"><circle cx="109.3" cy="190.5" r="4" fill="#3465a4"><title>Ship Hector, The (Commemorative)</title></circle></a><a href="/setts/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/"><circle cx="102.6" cy="185.3" r="4" fill="#3465a4"><title>Poulter Sonic</title></circle></a><circle cx="156.0" cy="214.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r2w6db2w9db9w2db6ly2~x4/

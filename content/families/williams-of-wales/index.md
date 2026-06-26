@@ -2,7 +2,7 @@
 title: "Williams of Wales"
 date: 2023-03-18
 ---
-A family of [Clan Williams](/clan/williams/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Wales”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Wales&viewmode=grid)
 

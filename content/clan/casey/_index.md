@@ -1,8 +1,5 @@
 ---
 title: "Clan Casey"
-date: 2023-03-18
+redirect: "/families/casey-of-west-virginia/"
 ---
-## Families
-
-- [Casey of West Virginia](/families/casey-of-west-virginia/)
-
+Clan Casey is recorded as the single family [Casey of West Virginia](/families/casey-of-west-virginia/) — redirecting there.

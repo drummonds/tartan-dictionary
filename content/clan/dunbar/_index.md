@@ -1,8 +1,5 @@
 ---
 title: "Clan Dunbar"
-date: 2023-03-18
+redirect: "/families/dunbar-of-pitgaveny/"
 ---
-## Families
-
-- [Dunbar of Pitgaveny](/families/dunbar-of-pitgaveny/)
-
+Clan Dunbar is recorded as the single family [Dunbar of Pitgaveny](/families/dunbar-of-pitgaveny/) — redirecting there.

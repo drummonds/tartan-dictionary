@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8891/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8891](https://www.tartanregister.gov.uk/tartanDetails?ref=8891)
+- Scottish Tartans Authority (ITI): 8891
+
 ## Thread count
 G/48 K10 G12 R12 G12 K40 B40 W/4
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.8" cy="194.5" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/setts/s9/n33k16g17o3g17k16n15k3w3~x2/"><circle cx="179.8" cy="203.4" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/setts/s8/r5k2db19g4k19g28k2ly5~x2/"><circle cx="184.4" cy="172.1" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><a href="/setts/s9/b22k12g11ly2g11k12b11k2r2~x2/"><circle cx="171.3" cy="203.3" r="4" fill="#3465a4"><title>Huntly Gordon Fancy Tartan Tartan Number: 3215. Earliest known date: 2001 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dp19w2g12t3k4~x2/"><circle cx="183.3" cy="183.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="163.0" cy="179.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.6" cy="195.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s7/r12db68w7k39g75r6g6/"><circle cx="196.9" cy="183.3" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/setts/s8/g28k4g5dr4g5k19db19y2~x2/"><circle cx="209.4" cy="179.4" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.9" cy="187.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><circle cx="182.1" cy="193.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g3db12w1k12g13r2g2~x2/"><circle cx="200.7" cy="195.4" r="4" fill="#3465a4"><title>Paterson (Personal)</title></circle></a><a href="/setts/s9/n33k16g17o3g17k16n15k3w3~x2/"><circle cx="179.7" cy="204.4" r="4" fill="#3465a4"><title>Dove (Personal)</title></circle></a><a href="/setts/s8/r5k2db19g4k19g28k2ly5~x2/"><circle cx="184.2" cy="173.0" r="4" fill="#3465a4"><title>Tait #1</title></circle></a><a href="/setts/s9/b22k12g11ly2g11k12b11k2r2~x2/"><circle cx="171.3" cy="204.3" r="4" fill="#3465a4"><title>Huntly Gordon Fancy Tartan Tartan Number: 3215. Earliest known date: 2001 Unknown until House of Edgar published their own Old and Rare. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/dp19w2g12t3k4~x2/"><circle cx="183.0" cy="184.4" r="4" fill="#3465a4"><title>Wilson's No.111</title></circle></a><a href="/setts/s10/db3ly1db12k4ly2k4dg8r2dg8r1~x4/"><circle cx="162.8" cy="180.1" r="4" fill="#3465a4"><title>MacMillan Htg (1906) (Clan)</title></circle></a><a href="/setts/s8/r3g2r3g18k14w2db16g3~x2/"><circle cx="174.5" cy="196.8" r="4" fill="#3465a4"><title>Mantle (Personal)</title></circle></a><a href="/setts/s7/r12db68w7k39g75r6g6/"><circle cx="196.7" cy="184.2" r="4" fill="#3465a4"><title>Rhun (Fashion)</title></circle></a><a href="/setts/s8/g28k4g5dr4g5k19db19y2~x2/"><circle cx="209.2" cy="180.3" r="4" fill="#3465a4"><title>City of Guelph</title></circle></a><a href="/setts/s7/g3db12w1k12g13r2g2~x4/"><circle cx="193.7" cy="188.3" r="4" fill="#3465a4"><title>MacFadzean/MacPhedran</title></circle></a><circle cx="181.9" cy="194.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/dg24k5dg6r6dg6k20b20w2~x2/

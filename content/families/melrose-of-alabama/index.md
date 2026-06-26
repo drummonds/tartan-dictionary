@@ -2,7 +2,7 @@
 title: "Melrose of Alabama"
 date: 2023-03-18
 ---
-A family of [Clan Melrose](/clan/melrose/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Alabama”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Alabama&viewmode=grid)
 

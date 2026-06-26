@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce, William](/setts/s13/k3r8w1r8g5r4db8r4db8r4g5r17w3~x2/)|
-|![Bruce, William example sett](/setts/s13/k3r8w1r8g5r4db8r4db8r4g5r17w3~x2/sett.png)|
+| [Bruce, William](/setts/s13/k3r8wi1r8g5r4db8r4db8r4g5r17w3~x2/)|
+|![Bruce, William example sett](/setts/s13/k3r8wi1r8g5r4db8r4db8r4g5r17w3~x2/sett.png)|

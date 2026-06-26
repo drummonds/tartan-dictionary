@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Evans (Welsh Name)](/setts/s11/r2k3dt30k2dt4k2dt30k36r30k2t2/)|
-|![Evans (Welsh Name) example sett](/setts/s11/r2k3dt30k2dt4k2dt30k36r30k2t2/sett.png)|
+| [Evans (Welsh Name)](/setts/s11/r2k3dt30k2dt4k2dt30k36ri30k2t2/)|
+|![Evans (Welsh Name) example sett](/setts/s11/r2k3dt30k2dt4k2dt30k36ri30k2t2/sett.png)|

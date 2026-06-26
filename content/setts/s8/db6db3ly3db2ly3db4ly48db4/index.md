@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5749/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5749
+
 ## Thread count
 DBa/6 DB3 Y3 DB2 Y3 DB4 Y48 DB/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly75k6w3o2k6o2k6w3o2/"><circle cx="460.1" cy="63.7" r="4" fill="#3465a4"><title>Norton (Corporate)</title></circle></a><a href="/setts/s5/ly75k26k3ly4k6~x2/"><circle cx="429.2" cy="149.2" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s7/k7w3k7w45r3w3r3~x2/"><circle cx="420.2" cy="133.7" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/setts/s7/w3k5lo3r3lo32k2lo3~x2/"><circle cx="469.3" cy="144.3" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s10/dg4w13dg3w4dg3w3dg40w3dg2ly4~x2/"><circle cx="396.9" cy="129.7" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/setts/s7/k14w4k8ly45w3k1ly2~x2/"><circle cx="393.1" cy="104.9" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="399.9" cy="150.2" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="468.0" cy="122.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="427.9" cy="97.5" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="446.7" cy="190.3" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><circle cx="473.4" cy="113.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/ly75k6w3o2k6o2k6w3o2/"><circle cx="458.3" cy="63.5" r="4" fill="#3465a4"><title>Norton (Corporate)</title></circle></a><a href="/setts/s5/ly75k26k3ly4k6~x2/"><circle cx="427.6" cy="149.6" r="4" fill="#3465a4"><title>Perry Ancient (Personal)</title></circle></a><a href="/setts/s7/k7w3k7w45r3w3r3~x2/"><circle cx="418.5" cy="134.1" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/setts/s7/w3k5lo3r3lo32k2lo3~x2/"><circle cx="467.8" cy="144.5" r="4" fill="#3465a4"><title>Bro-Dreger</title></circle></a><a href="/setts/s10/dg4w13dg3w4dg3w3dg40w3dg2ly4~x2/"><circle cx="395.8" cy="130.0" r="4" fill="#3465a4"><title>St. Patrick (Fashion)</title></circle></a><a href="/setts/s7/k14w4k8ly45w3k1ly2~x2/"><circle cx="391.6" cy="105.1" r="4" fill="#3465a4"><title>Kernow Spirit (Corporate)</title></circle></a><a href="/setts/s8/ly5k9ly2k7lo35r4lo35k4~x2/"><circle cx="398.5" cy="150.6" r="4" fill="#3465a4"><title>Wilbers</title></circle></a><a href="/setts/s13/ly40lo3ly10lo6ly20k3ly2k3ly10r4ly2r8ly2~x2/"><circle cx="466.4" cy="122.9" r="4" fill="#3465a4"><title>Virginia Quadricentennial (District)</title></circle></a><a href="/setts/s13/w40o3w10o6w20k3w2k3w10r4w2r8w2/"><circle cx="426.0" cy="97.5" r="4" fill="#3465a4"><title>Virginia Quadricentennial</title></circle></a><a href="/setts/s6/lo4k6lo1k1lo16k2~x2/"><circle cx="445.2" cy="190.9" r="4" fill="#3465a4"><title>Monoch Airline</title></circle></a><circle cx="471.7" cy="113.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db6db3ly3db2ly3db4ly48db4/

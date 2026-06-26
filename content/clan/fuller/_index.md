@@ -1,8 +1,5 @@
 ---
 title: "Clan Fuller"
-date: 2023-03-18
+redirect: "/families/fuller-of-hopewell/"
 ---
-## Families
-
-- [Fuller of Hopewell](/families/fuller-of-hopewell/)
-
+Clan Fuller is recorded as the single family [Fuller of Hopewell](/families/fuller-of-hopewell/) — redirecting there.

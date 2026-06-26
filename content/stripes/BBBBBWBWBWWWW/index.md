@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diamond Jubilee (McGill) (Fashion)](/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/)|
-|![Diamond Jubilee (McGill) (Fashion) example sett](/setts/s13/dp36dp8dp2dp8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/sett.png)|
+| [Diamond Jubilee (McGill) (Fashion)](/setts/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/)|
+|![Diamond Jubilee (McGill) (Fashion) example sett](/setts/s13/dp36dpi8dp2dpi8dp1lb2dp4lb2dp4lb18w2lb1w4~x2/sett.png)|

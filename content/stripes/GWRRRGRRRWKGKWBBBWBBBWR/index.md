@@ -24,7 +24,7 @@ It is a 23 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacBean MacVean](/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/)|
-|![MacBean MacVean example sett](/setts/s23/r32w2db2db2t2w2t2db2db2w2k2dg9k2w2m3r3r3dg2r3r3m3w2dg6~x2/sett.png)|
-| [MacBean, MacVean](/setts/s23/r32w2db2db2t2w2t2db2db2w2k2g9k2w2m3r3r3g2r3r3m3w2g6~x2/)|
-|![MacBean, MacVean example sett](/setts/s23/r32w2db2db2t2w2t2db2db2w2k2g9k2w2m3r3r3g2r3r3m3w2g6~x2/sett.png)|
+| [MacBean MacVean](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2dg9k2w2m3r3ri3dg2ri3r3m3w2dg6~x2/)|
+|![MacBean MacVean example sett](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2dg9k2w2m3r3ri3dg2ri3r3m3w2dg6~x2/sett.png)|
+| [MacBean, MacVean](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2g9k2w2m3r3ri3g2ri3r3m3w2g6~x2/)|
+|![MacBean, MacVean example sett](/setts/s23/r32w2dbi2db2t2w2t2db2dbi2w2k2g9k2w2m3r3ri3g2ri3r3m3w2g6~x2/sett.png)|

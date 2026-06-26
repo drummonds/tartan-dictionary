@@ -1,8 +1,5 @@
 ---
 title: "Clan Davidson"
-date: 2023-03-18
+redirect: "/families/davidson-of-tulloch/"
 ---
-## Families
-
-- [Davidson of Tulloch](/families/davidson-of-tulloch/)
-
+Clan Davidson is recorded as the single family [Davidson of Tulloch](/families/davidson-of-tulloch/) — redirecting there.

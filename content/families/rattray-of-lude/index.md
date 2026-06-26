@@ -2,7 +2,7 @@
 title: "Rattray of Lude"
 date: 2023-03-18
 ---
-A family of [Clan Rattray](/clan/rattray/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Lude”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Lude&viewmode=grid)
 

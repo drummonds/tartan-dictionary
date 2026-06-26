@@ -24,10 +24,10 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacLean](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/)|
-|![MacLean example sett](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/sett.png)|
 | [MacLean](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/)|
 |![MacLean example sett](/setts/s11/db8k8ly2k3w3k3g24r16db3r4k2~x2/sett.png)|
+| [MacLean](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/)|
+|![MacLean example sett](/setts/s11/db8k8ly2k3w3k3dg24r16db3r4k2~x2/sett.png)|
 | [MacLean Variation](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/)|
 |![MacLean Variation example sett](/setts/s11/dp45k12ly4k4w6k4dg50r57dp4r10k4~x2/sett.png)|
 | [MacLean of Duart #2](/setts/s11/t8k4ly1k2w3k2dg12r24t2r3k2~x2/)|

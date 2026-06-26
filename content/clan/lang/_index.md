@@ -1,8 +1,5 @@
 ---
 title: "Clan Lang"
-date: 2023-03-18
+redirect: "/families/lang-of-sherbrooke/"
 ---
-## Families
-
-- [Lang of Sherbrooke](/families/lang-of-sherbrooke/)
-
+Clan Lang is recorded as the single family [Lang of Sherbrooke](/families/lang-of-sherbrooke/) — redirecting there.

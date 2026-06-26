@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4314
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unnamed No 158, Silk Fragment
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="121.3" cy="134.4" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="107.3" cy="129.0" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="142.0" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/"><circle cx="137.8" cy="122.1" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.8" cy="124.6" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.7" cy="140.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.7" cy="125.6" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/k14ly3g18r15w2r3w2dp14~x2/"><circle cx="90.8" cy="127.3" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="133.3" cy="139.4" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.9" cy="141.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><circle cx="122.5" cy="133.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="120.8" cy="135.3" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s13/db8k1r4k1r4k1r4k1g8k1ly1r1w1~x2/"><circle cx="106.8" cy="129.9" r="4" fill="#3465a4"><title>Unnamed No 158, Silk Fragment</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.3" cy="142.9" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s14/db24g4dg2g8dg2g4db12g3r22ly3t8g3r22ly6~x2/"><circle cx="137.3" cy="122.8" r="4" fill="#3465a4"><title>Devon 2000</title></circle></a><a href="/setts/s12/r20t14k17ly2k3w3k3dg24r14k4r4w2~x2/"><circle cx="116.2" cy="125.5" r="4" fill="#3465a4"><title>Stuart/Stewart #2</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.2" cy="141.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s13/db23r6db6k10ly3k2w2k2dg11r12k2r10w2~x2/"><circle cx="109.2" cy="126.4" r="4" fill="#3465a4"><title>Prince Albert</title></circle></a><a href="/setts/s14/k14ly3g18r15w2r3w2dp14~x2/"><circle cx="90.2" cy="128.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/setts/s15/r14dg3r14dg13ly2k14db6k2db2k2db6r9w2k2r2~x2/"><circle cx="132.6" cy="140.3" r="4" fill="#3465a4"><title>MacPherson #8</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.3" cy="142.2" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><circle cx="121.9" cy="134.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db8k1r4k1r4k1r4k1dg8k1ly1r1w1~x2/

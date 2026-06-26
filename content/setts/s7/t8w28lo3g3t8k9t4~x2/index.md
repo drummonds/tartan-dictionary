@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10731/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 10731
+
 ## Thread count
 B/16 LN56 LT6 G6 B16 K18 B/8
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="163.8" cy="152.1" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="187.5" cy="152.3" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="208.7" cy="144.4" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="184.6" cy="151.6" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28db14ly2t17g4~x2/"><circle cx="162.5" cy="163.9" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="168.8" cy="140.4" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="204.4" cy="164.1" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="181.6" cy="150.5" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/r2ly1b8r1lg7ly1r2~x6/"><circle cx="150.7" cy="182.5" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/setts/s6/w8t30g5w3db8r5/"><circle cx="216.8" cy="172.7" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><circle cx="177.0" cy="161.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/n8w28o3g3n8k9n4~x2/"><circle cx="162.9" cy="153.0" r="4" fill="#3465a4"><title>MacTavish of Dunardry Dress</title></circle></a><a href="/setts/s6/db2w14p4ly1g8db2~x2/"><circle cx="186.6" cy="153.1" r="4" fill="#3465a4"><title>Manx Laxey, dress green</title></circle></a><a href="/setts/s7/w8g5dp10t24w30g2lp2~x2/"><circle cx="207.7" cy="145.1" r="4" fill="#3465a4"><title>Shiel, Purple V2 (Dance)</title></circle></a><a href="/setts/s6/g4w28p8ly2db17g4~x2/"><circle cx="183.8" cy="152.5" r="4" fill="#3465a4"><title>Manx, dress</title></circle></a><a href="/setts/s6/g4w28db14ly2t17g4~x2/"><circle cx="161.8" cy="164.8" r="4" fill="#3465a4"><title>Allanton Dress (Fashion)</title></circle></a><a href="/setts/s9/r2db2w26g25k14db13w26db2r2~x2/"><circle cx="168.0" cy="141.3" r="4" fill="#3465a4"><title>MacNaughton Dress</title></circle></a><a href="/setts/s5/w14dp4ly1g8db2~x2/"><circle cx="203.4" cy="165.0" r="4" fill="#3465a4"><title>Manx Laxey Dress Green</title></circle></a><a href="/setts/s6/g4w28dp8ly2db17g4~x2/"><circle cx="180.7" cy="151.4" r="4" fill="#3465a4"><title>Manx Dress</title></circle></a><a href="/setts/s7/r2ly1b8r1lg7ly1r2~x6/"><circle cx="150.1" cy="183.6" r="4" fill="#3465a4"><title>Cercle de Fermières de Saint-Élie d'Orford</title></circle></a><a href="/setts/s6/w8t30g5w3db8r5/"><circle cx="216.1" cy="173.5" r="4" fill="#3465a4"><title>Roseberry</title></circle></a><circle cx="176.2" cy="162.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t8w28lo3g3t8k9t4~x2/

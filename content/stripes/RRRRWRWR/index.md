@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gigha, Cherry (Dance)](/setts/s8/r4r3r18r18w18r1w2r4~x2/)|
-|![Gigha, Cherry (Dance) example sett](/setts/s8/r4r3r18r18w18r1w2r4~x2/sett.png)|
+| [Gigha, Cherry (Dance)](/setts/s8/ri4r3ri18rii18w18rii1w2rii4~x2/)|
+|![Gigha, Cherry (Dance) example sett](/setts/s8/ri4r3ri18rii18w18rii1w2rii4~x2/sett.png)|

@@ -2,7 +2,7 @@
 title: "Hill of Banchory Primary"
 date: 2023-03-18
 ---
-A family of [Clan Hill](/clan/hill/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Banchory Primary”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Banchory+Primary&viewmode=grid)
 

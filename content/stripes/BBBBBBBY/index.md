@@ -26,7 +26,7 @@ It is a 8 stripe tartan.
 |---------------|
 | [Edinburgh Monarchs](/setts/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/)|
 |![Edinburgh Monarchs example sett](/setts/s8/dt5db4dr1db14dt14dr1dt5lo3~x2/sett.png)|
-| [Marist School, The](/setts/s8/db29db2db1db1db1db1t8lo1~x4/)|
-|![Marist School, The example sett](/setts/s8/db29db2db1db1db1db1t8lo1~x4/sett.png)|
+| [Marist School, The](/setts/s8/db29dbi2db1dbi1db1dbi1t8lo1~x4/)|
+|![Marist School, The example sett](/setts/s8/db29dbi2db1dbi1db1dbi1t8lo1~x4/sett.png)|
 | [Marist School, The](/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/)|
 |![Marist School, The example sett](/setts/s8/dt29b2dt1b1dt1b1db8ly1~x4/sett.png)|

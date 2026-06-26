@@ -8,5 +8,5 @@ A family of [Clan Nicolson](/clan/nicolson/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s6/r3db15db8g5k2w1~x2/"><img src="/setts/s6/r3db15db8g5k2w1~x2/sett.png" alt="Nicolson of Harris (Clan?)" width="240"><br>Nicolson of Harris (Clan?)</a>
+<a class="tartan" href="/setts/s6/r3dbi15db8g5k2w1~x2/"><img src="/setts/s6/r3dbi15db8g5k2w1~x2/sett.png" alt="Nicolson of Harris (Clan?)" width="240"><br>Nicolson of Harris (Clan?)</a>
 

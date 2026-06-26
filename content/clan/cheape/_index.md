@@ -1,8 +1,5 @@
 ---
 title: "Clan Cheape"
-date: 2023-03-18
+redirect: "/families/cheape-of-torosay/"
 ---
-## Families
-
-- [Cheape of Torosay](/families/cheape-of-torosay/)
-
+Clan Cheape is recorded as the single family [Cheape of Torosay](/families/cheape-of-torosay/) — redirecting there.

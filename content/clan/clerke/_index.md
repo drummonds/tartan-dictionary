@@ -1,8 +1,5 @@
 ---
 title: "Clan Clerke"
-date: 2023-03-18
+redirect: "/families/clerke-of-ulva/"
 ---
-## Families
-
-- [Clerke of Ulva](/families/clerke-of-ulva/)
-
+Clan Clerke is recorded as the single family [Clerke of Ulva](/families/clerke-of-ulva/) — redirecting there.

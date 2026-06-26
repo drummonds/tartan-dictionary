@@ -8,14 +8,14 @@ A family of [Clan Murray](/clan/murray/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1~x2/"><img src="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1~x2/sett.png" alt="Murray of Tullibardine #2" width="240"><br>Murray of Tullibardine #2</a>
+<a class="tartan" href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/"><img src="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/sett.png" alt="Murray of Tullibardine" width="240"><br>Murray of Tullibardine</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2dg2r8dg12r4db2r2db1/"><img src="/setts/s21/db2r1db1r2db4r2db1r1db2r1db1r24db12r2dg2r8dg12r4db2r2db1/sett.png" alt="Murray of Tullibardine" width="140"><br>Murray of Tullibardine</a></li>
-<li><a class="tartan" href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/"><img src="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1/sett.png" alt="Murray of Tullibardine" width="140"><br>Murray of Tullibardine</a></li>
 <li><a class="tartan" href="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/"><img src="/setts/s21/db4r2db2r3db12r3db2r2k5r2db2r22db26r6dg6r22dg23r14db8r7k3~x2/sett.png" alt="Murray of Tullibardine" width="140"><br>Murray of Tullibardine</a></li>
+<li><a class="tartan" href="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1~x2/"><img src="/setts/s21/db2r1db1r2db4r2db1r1k2r1db1r24db12r2dg2r8dg12r4db2r2k1~x2/sett.png" alt="Murray of Tullibardine #2" width="140"><br>Murray of Tullibardine #2</a></li>
 <li><a class="tartan" href="/setts/s21/k4r5dp6r8dg12r13dg2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/"><img src="/setts/s21/k4r5dp6r8dg12r13dg2r2dp12r20dp2r2dp4r2dp2r3dp6r3dp2r2dp4~x2/sett.png" alt="Murray of Tullibardine #3" width="140"><br>Murray of Tullibardine #3</a></li>
 <li><a class="tartan" href="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/"><img src="/setts/s25/db6r5db4r3db6r4db4r5db9r5db4r3k8r3db4r36db27r4dg4r14dg27r9db6r6k3/sett.png" alt="Murray of Tullibardine #4" width="140"><br>Murray of Tullibardine #4</a></li>
 <li><a class="tartan" href="/setts/s21/db4r1db1r4db12r4db1r1dg4r1db1r26db26r4dg4r26dg21r13db6r5dg1~x2/"><img src="/setts/s21/db4r1db1r4db12r4db1r1dg4r1db1r26db26r4dg4r26dg21r13db6r5dg1~x2/sett.png" alt="Murray of Tullibardine (plaid)" width="140"><br>Murray of Tullibardine (plaid)</a></li>

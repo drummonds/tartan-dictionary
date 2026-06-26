@@ -1,8 +1,5 @@
 ---
 title: "Clan Scrimgeour"
-date: 2023-03-18
+redirect: "/families/scrimgeour-of-glassary/"
 ---
-## Families
-
-- [Scrimgeour of Glassary](/families/scrimgeour-of-glassary/)
-
+Clan Scrimgeour is recorded as the single family [Scrimgeour of Glassary](/families/scrimgeour-of-glassary/) — redirecting there.

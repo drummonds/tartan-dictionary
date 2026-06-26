@@ -24,7 +24,7 @@ It is a 3 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Buie](/setts/s3/r18k3r2~x4/)|
-|![Buie example sett](/setts/s3/r18k3r2~x4/sett.png)|
 | [Buie](/setts/s3/m18k3m2~x4/)|
 |![Buie example sett](/setts/s3/m18k3m2~x4/sett.png)|
+| [Buie](/setts/s3/r18k3r2~x4/)|
+|![Buie example sett](/setts/s3/r18k3r2~x4/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Skene"
-date: 2023-03-18
+redirect: "/families/skene-of-cromar/"
 ---
-## Families
-
-- [Skene of Cromar](/families/skene-of-cromar/)
-
+Clan Skene is recorded as the single family [Skene of Cromar](/families/skene-of-cromar/) — redirecting there.

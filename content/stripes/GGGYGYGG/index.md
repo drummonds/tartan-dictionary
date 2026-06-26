@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Semper](/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/)|
-|![Semper example sett](/setts/s8/g16dg1lg4dg41lg1dg6g2dg2~x2/sett.png)|
+| [Semper](/setts/s8/gi16dg1lg4dg41lg1dg6g2dg2~x2/)|
+|![Semper example sett](/setts/s8/gi16dg1lg4dg41lg1dg6g2dg2~x2/sett.png)|

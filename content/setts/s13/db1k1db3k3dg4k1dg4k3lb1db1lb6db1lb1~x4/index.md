@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3094/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3094
+
 ## Thread count
 DB/4 K4 DB12 K12 G16 K4 G16 K12 N4 DB4 N24 DB4 N/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db1k1db3k3g4k1g4k3w1db1w6db1w1~x4/"><circle cx="48.7" cy="186.7" r="4" fill="#3465a4"><title>Black Watch Dress (Symmetrical)</title></circle></a><a href="/setts/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/"><circle cx="61.4" cy="183.2" r="4" fill="#3465a4"><title>Sutherland, dress</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.2" cy="210.9" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.2" cy="173.2" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.7" cy="212.9" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s10/w2db10k10g11db2w2~x2/"><circle cx="105.6" cy="231.5" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.9" cy="166.3" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/"><circle cx="127.3" cy="211.8" r="4" fill="#3465a4"><title>Cheape</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.4" cy="172.0" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.8" cy="177.9" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="57.4" cy="195.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db1k1db3k3g4k1g4k3w1db1w6db1w1~x4/"><circle cx="48.5" cy="188.1" r="4" fill="#3465a4"><title>Black Watch Dress (Symmetrical)</title></circle></a><a href="/setts/s13/db6k5db10k10g13k3g13k10w4db4w18db2w3~x2/"><circle cx="61.2" cy="184.5" r="4" fill="#3465a4"><title>Sutherland, dress</title></circle></a><a href="/setts/s14/g4k1g1k1g1k5db5r2db2r2db5g5k1g1~x2/"><circle cx="102.2" cy="212.2" r="4" fill="#3465a4"><title>MacLachlan, Hunting</title></circle></a><a href="/setts/s13/db4k4db10k10g12lo2g12k10w4db4w16db3w2~x2/"><circle cx="40.1" cy="174.5" r="4" fill="#3465a4"><title>Gordon Dress (1965)</title></circle></a><a href="/setts/s13/r3b10k10g10r3g10k10b2k2b2k2b5k2~x2/"><circle cx="108.7" cy="214.4" r="4" fill="#3465a4"><title>Blairgowrie High School S.A. (Corp)</title></circle></a><a href="/setts/s10/w2db10k10g11db2w2~x2/"><circle cx="105.6" cy="233.1" r="4" fill="#3465a4"><title>Norwich No.026</title></circle></a><a href="/setts/s14/db12w2db2r2db3k11g12k2g3k2g12db12w13r2~x2/"><circle cx="71.6" cy="167.5" r="4" fill="#3465a4"><title>Scottish National Dress</title></circle></a><a href="/setts/s13/db6k1db1k1db1k6g6t2g6k6db6k1db2~x2/"><circle cx="127.3" cy="213.2" r="4" fill="#3465a4"><title>Cheape</title></circle></a><a href="/setts/s13/w20k3w3k3w3k16dg17ly5dg17k16db16k3db3~x2/"><circle cx="72.2" cy="173.2" r="4" fill="#3465a4"><title>Gordon Dress #2</title></circle></a><a href="/setts/s11/k9lb8k8lb8r5lb18k5lb5k12db36r5/"><circle cx="110.5" cy="179.2" r="4" fill="#3465a4"><title>Merchiston Castle School</title></circle></a><circle cx="57.4" cy="196.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db1k1db3k3dg4k1dg4k3lb1db1lb6db1lb1~x4/

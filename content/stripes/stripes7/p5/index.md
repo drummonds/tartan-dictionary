@@ -3,8 +3,71 @@ title: 7 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 7
 ---
-1,385 setts across 1,282 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,394 setts across 1,364 tartans with 7 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes7/p4/">‹ prev</a> <a href="/stripes/stripes7/">1</a> <a href="/stripes/stripes7/p2/">2</a> <a href="/stripes/stripes7/p3/">3</a> <a href="/stripes/stripes7/p4/">4</a> <strong>5</strong> </nav>
+
+### RBRBWKY
+<a class="pat" href="/stripes/rbrbwky/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBRBWKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Unidentified Printing](/setts/s7/r2db4r6db2lb6k1ly2~x2/) | register-of-tartans |
+
+### RBRBWRR
+<a class="pat" href="/stripes/rbrbwrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRBWRR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Barbour Dress](/setts/s7/o4do2o21db11w2oi20r3~x2/) | register-of-tartans |
+
+### RBRBYKW
+<a class="pat" href="/stripes/rbrbykw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRBYKW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.17 | [Loch Ness (Fashion)](/setts/s7/r2t2r2t21lg11k17lb2~x2/) | tartans-authority |
+
+### RBRGBGR
+<a class="pat" href="/stripes/rbrgbgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGBGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Carrick (Strathmore) District Tartan Tartan Number: 3216. Earliest known date: c.1999 Sales help Princess Diana Memorial Trust See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r28db12r3dg20t2dg2r7~x2/) | house-of-tartan |
+
+### RBRGBKR
+<a class="pat" href="/stripes/rbrgbkr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGBKR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.09 | [Tipperary](/setts/s7/r33k8dr12g12r8dr2r8~x2/) | weddslist |
+
+### RBRGRGR
+<a class="pat" href="/stripes/rbrgrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGRGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Williams, Jodi (Personal)](/setts/s7/o2db20r2g3r4g35r1~x2/) | tartans-authority |
+
+### RBRGYGR
+<a class="pat" href="/stripes/rbrgygr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBRGYGR</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.12 | [Gleneagles Group](/setts/s7/r5g6ly2g6r5b6r2~x2/) | register-of-tartans |
+
+### RBRRKWW
+<a class="pat" href="/stripes/rbrrkww/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RBRRKWW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Bombeiros Voluntarios De Galicia (Co](/setts/s7/r3n2r25o12k25w2lb2~x2/) | tartans-authority |
+
+### RBRWKBY
+<a class="pat" href="/stripes/rbrwkby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBRWKBY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [Glen Lyon (Fashion)](/setts/s7/o3db1o11w1k5n14lo3~x4/) | register-of-tartans |
 
 ### RBRWRKY
 <a class="pat" href="/stripes/rbrwrky/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBRWRKY</span></a>
@@ -39,7 +102,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Edinburgh Fire (Corporate)](/setts/s7/ly2dy4r4n21w1n1r1~x4/) | tartans-authority |
+| 0.07 | [Edinburgh Fire (Corporate)](/setts/s7/ly2dy4r4n21w1n1ri1~x4/) | tartans-authority |
 
 ### RBWBWBR
 <a class="pat" href="/stripes/rbwbwbr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="seq">RBWBWBR</span></a>
@@ -144,7 +207,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.20 | [Manhattan Ethnic](/setts/s7/lo36do15lo9r31lo5do4r16~x2/) | register-of-tartans |
+| 0.20 | [Manhattan Ethnic](/setts/s7/loi36do15loi9r31lo5do4r16~x2/) | register-of-tartans |
 
 ### RBYRYRY
 <a class="pat" href="/stripes/rbyryry/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBYRYRY</span></a>
@@ -179,7 +242,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [Lunting Papi (Personal)](/setts/s7/o5r8dp13dg21dg34dg55o3/) | register-of-tartans |
+| 0.15 | [Lunting Papi (Personal)](/setts/s7/o5r8dp13dgi21dg34dgii55o3/) | register-of-tartans |
 
 ### RGGGRGR
 <a class="pat" href="/stripes/rgggrgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGGGRGR</span></a>
@@ -410,7 +473,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Genet, Edmond Charles 'Citizen' (Personal)](/setts/s7/r4k9dg9k40r2k2w2~x2/) | register-of-tartans |
+| 0.08 | [Genet, Edmond Charles 'Citizen' (Personal)](/setts/s7/r4ki9dg9k40r2k2w2~x2/) | register-of-tartans |
 
 ### RKGKWKW
 <a class="pat" href="/stripes/rkgkwkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKGKWKW</span></a>
@@ -431,14 +494,14 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Tipperary Irish County Tartan Tartan Number: 2249. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r33k8k12dg12r8k2r8~x2/) | house-of-tartan |
+| 0.10 | [Tipperary Irish County Tartan Tartan Number: 2249. Earliest known date: 1995 One of a series of Irish District tartans designed by Polly Wittering of the House of Edgar, with colours reminiscent of the Country with soft warm colours dominating. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/r33k8ki12dg12r8ki2r8~x2/) | house-of-tartan |
 
 ### RKKGYKW
 <a class="pat" href="/stripes/rkkgykw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKKGYKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Cornish, hunting](/setts/s7/w5k26ly2dg24k7k3r3~x2/) | weddslist |
+| 0.07 | [Cornish, hunting](/setts/s7/w5k26ly2dg24ki7k3r3~x2/) | weddslist |
 
 ### RKRGBGW
 <a class="pat" href="/stripes/rkrgbgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKRGBGW</span></a>
@@ -522,21 +585,21 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Torridon, Cherry (Dance)](/setts/s7/r3r2db2r30w30db2w3~x2/) | tartans-authority |
+| 0.10 | [Torridon, Cherry (Dance)](/setts/s7/ri3r2db2r30w30db2w3~x2/) | tartans-authority |
 
 ### RRGBGBY
 <a class="pat" href="/stripes/rrgbgby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RRGBGBY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Wallace Memorial Centenary](/setts/s7/r1r12g1n9dy1t12lg1~x4/) | register-of-tartans |
+| 0.12 | [Wallace Memorial Centenary](/setts/s7/ri1r12g1n9dy1t12lg1~x4/) | register-of-tartans |
 
 ### RRGBRBY
 <a class="pat" href="/stripes/rrgbrby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RRGBRBY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Highland Prince (Fashion)](/setts/s7/r32r2g2db30r1db2ly1~x2/) | tartans-authority |
+| 0.07 | [Highland Prince (Fashion)](/setts/s7/ri32r2g2db30ri1db2ly1~x2/) | tartans-authority |
 
 ### RRKBKBY
 <a class="pat" href="/stripes/rrkbkby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RRKBKBY</span></a>
@@ -557,14 +620,14 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Burns' Birthplace (Commem)](/setts/s7/o1o1o1o1o4o3lo1~x12/) | tartans-authority |
+| 0.14 | [Burns' Birthplace (Commem)](/setts/s7/oi1o1oi1o1oi4o3lo1~x12/) | tartans-authority |
 
 ### RRRRWBW
 <a class="pat" href="/stripes/rrrrwbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRRRWBW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.07 | [Lennox Dress #2](/setts/s7/r2r1r10r2w10db1w2~x4/) | register-of-tartans |
+| 0.07 | [Lennox Dress #2](/setts/s7/r2ri1r10ri2w10db1w2~x4/) | register-of-tartans |
 
 ### RRRRWGW
 <a class="pat" href="/stripes/rrrrwgw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRRRWGW</span></a>
@@ -578,7 +641,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.03 | [Barbour - Cardinal Red](/setts/s7/r3ly2r18db8w1r18r2~x2/) | tartans-authority |
+| 0.03 | [Barbour - Cardinal Red](/setts/s7/r3ly2r18db8w1ri18r2~x2/) | tartans-authority |
 
 ### RRWRWRW
 <a class="pat" href="/stripes/rrwrwrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRWRWRW</span></a>
@@ -599,7 +662,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Bousie (Personal)](/setts/s7/w3t38db38w1t3w1r2~x2/) | register-of-tartans |
+| 0.11 | [Bousie (Personal)](/setts/s7/w3t38db38w1ti3w1r2~x2/) | register-of-tartans |
 
 ### RWBWRKW
 <a class="pat" href="/stripes/rwbwrkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWBWRKW</span></a>
@@ -613,7 +676,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Royal British Legion (Corporate)](/setts/s7/r3lb2g20k3db8g2lb2~x2/) | tartans-authority |
+| 0.10 | [Royal British Legion (Corporate)](/setts/s7/r3lb2gi20k3db8g2lb2~x2/) | tartans-authority |
 
 ### RWKBRYR
 <a class="pat" href="/stripes/rwkbryr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="seq">RWKBRYR</span></a>
@@ -655,7 +718,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.16 | [Kuehle (Personal)](/setts/s7/lp6w2lp1db6o30w1r3~x2/) | tartans-authority |
+| 0.16 | [Kuehle (Personal)](/setts/s7/lp6wi2lp1db6o30w1r3~x2/) | tartans-authority |
 
 ### RWRGRKW
 <a class="pat" href="/stripes/rwrgrkw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWRGRKW</span></a>
@@ -690,7 +753,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Susan G Komen 06](/setts/s7/w6lr27dr6o40lr44w8o4/) | register-of-tartans |
+| 0.12 | [Susan G Komen 06](/setts/s7/w6lri27dr6o40lr44w8o4/) | register-of-tartans |
 
 ### RWYRWRW
 <a class="pat" href="/stripes/rwyrwrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RWYRWRW</span></a>
@@ -753,7 +816,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Banff](/setts/s7/o6ly3o20o20o3o3lb6~x2/) | register-of-tartans |
+| 0.17 | [Banff](/setts/s7/oi6ly3oi20o20oi3o3lb6~x2/) | register-of-tartans |
 
 ### RYWKBYW
 <a class="pat" href="/stripes/rywkbyw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RYWKBYW</span></a>
@@ -767,7 +830,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Isle of Jura](/setts/s7/lb18t18db10w3o15o3ly8~x2/) | register-of-tartans |
+| 0.14 | [Isle of Jura](/setts/s7/lb18t18db10w3o15oi3ly8~x2/) | register-of-tartans |
 
 ### WBGKGWY
 <a class="pat" href="/stripes/wbgkgwy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WBGKGWY</span></a>
@@ -795,7 +858,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [St Andrews Links Dress](/setts/s7/w30b4w3dp2r2dp24w2~x2/) | register-of-tartans |
+| 0.09 | [St Andrews Links Dress](/setts/s7/w30b4w3dp2r2dp24wi2~x2/) | register-of-tartans |
 
 ### WBRBWBY
 <a class="pat" href="/stripes/wbrbwby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WBRBWBY</span></a>
@@ -830,7 +893,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Torridon, Saphire (Dance)](/setts/s7/w3db2w30db30k2db2ly3~x2/) | tartans-authority |
+| 0.08 | [Torridon, Saphire (Dance)](/setts/s7/w3dbi2w30db30k2db2ly3~x2/) | tartans-authority |
 
 ### WBWBWGY
 <a class="pat" href="/stripes/wbwbwgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WBWBWGY</span></a>
@@ -872,21 +935,21 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Mina Perhonen Japanese Corporate Tartan Tartan Number: 5797. Earliest known date: pre 2003 Designed by Fiona Hall of Lochcarron as a corporate tartan for the Mina Company of Tokyo whose logo is a butterfly. The blues are from the company's colours and represent the sky, the yellow represents the butterfly and the white is for the clouds.'Perhonen' is Finnish for butterfly and chosen because the Japanese design world has a great affinity with some Scandinavian countries. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w4db24ly2db24t5db4ly4~x2/) | house-of-tartan |
+| 0.11 | [Mina Perhonen Japanese Corporate Tartan Tartan Number: 5797. Earliest known date: pre 2003 Designed by Fiona Hall of Lochcarron as a corporate tartan for the Mina Company of Tokyo whose logo is a butterfly. The blues are from the company's colours and represent the sky, the yellow represents the butterfly and the white is for the clouds.'Perhonen' is Finnish for butterfly and chosen because the Japanese design world has a great affinity with some Scandinavian countries. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s7/w4db24ly2dbi24t5db4ly4~x2/) | house-of-tartan |
 
 ### WGBGGGY
 <a class="pat" href="/stripes/wgbgggy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WGBGGGY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Deeside](/setts/s7/w1y1p2y7g1g5ly1~x4/) | weddslist |
+| 0.13 | [Deeside](/setts/s7/w1y1p2y7g1gi5ly1~x4/) | weddslist |
 
 ### WGBRBGY
 <a class="pat" href="/stripes/wgbrbgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WGBRBGY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Nimah, Carissa & Bassem (Personal)](/setts/s7/w50g15db10r2db10g8ly3~x2/) | register-of-tartans |
+| 0.09 | [Nimah, Carissa & Bassem (Personal)](/setts/s7/w50gi15db10r2db10g8ly3~x2/) | register-of-tartans |
 
 ### WGGGBGY
 <a class="pat" href="/stripes/wgggbgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WGGGBGY</span></a>
@@ -900,21 +963,21 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Cornish Brewery, Green](/setts/s7/ly3dg24k11dg3k10dg3w2~x2/) | register-of-tartans |
+| 0.10 | [Cornish Brewery, Green](/setts/s7/ly3dg24ki11dg3k10dg3w2~x2/) | register-of-tartans |
 
 ### WGRGGKW
 <a class="pat" href="/stripes/wgrggkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WGRGGKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Lundy (Personal)](/setts/s7/lb2k2g8g8r1g1w1~x4/) | register-of-tartans |
+| 0.09 | [Lundy (Personal)](/setts/s7/lb2k2g8gi8r1gi1w1~x4/) | register-of-tartans |
 
 ### WGRGRKW
 <a class="pat" href="/stripes/wgrgrkw/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WGRGRKW</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.15 | [MacMaster (USA) #1](/setts/s7/lb2g6r1g1r14k1lb1~x4/) | register-of-tartans |
+| 0.15 | [MacMaster (USA) #1](/setts/s7/lb2g6r1g1r14k1lbi1~x4/) | register-of-tartans |
 
 ### WGRGWBY
 <a class="pat" href="/stripes/wgrgwby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WGRGWBY</span></a>
@@ -942,7 +1005,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [George Heriot's School](/setts/s7/w3k1db24db10o24k1ly3~x2/) | register-of-tartans |
+| 0.12 | [George Heriot's School](/setts/s7/w3k1db24dbi10o24k1ly3~x2/) | register-of-tartans |
 
 ### WKBRGKY
 <a class="pat" href="/stripes/wkbrgky/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WKBRGKY</span></a>
@@ -984,7 +1047,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Phantom](/setts/s7/w3o10k38w11o6k2w3~x2/) | register-of-tartans |
+| 0.09 | [Phantom](/setts/s7/w3o10k38wi11o6k2w3~x2/) | register-of-tartans |
 
 ### WKWBWBY
 <a class="pat" href="/stripes/wkwbwby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WKWBWBY</span></a>
@@ -1089,7 +1152,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Pubcrawlers, The](/setts/s7/w3o4dg2o22dt5o16ly3~x2/) | register-of-tartans |
+| 0.14 | [Pubcrawlers, The](/setts/s7/w3o4dg2o22dt5oi16ly3~x2/) | register-of-tartans |
 
 ### WRKRGKY
 <a class="pat" href="/stripes/wrkrgky/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WRKRGKY</span></a>
@@ -1117,7 +1180,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.06 | [MacPherson Dress Red](/setts/s7/w4r2w25r21w3r8ly3~x2/) | register-of-tartans |
+| 0.06 | [MacPherson Dress Red](/setts/s7/w4ri2w25r21w3r8ly3~x2/) | register-of-tartans |
 
 ### WRYRGWW
 <a class="pat" href="/stripes/wryrgww/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">WRYRGWW</span></a>
@@ -1166,7 +1229,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.16 | [Aberdeenshire Home Colours](/setts/s7/lb19lo12m4lo8o4g6lg16~x2/) | register-of-tartans |
+| 0.16 | [Aberdeenshire Home Colours](/setts/s7/lb19loi12m4lo8o4g6lg16~x2/) | register-of-tartans |
 
 ### WYWRBRY
 <a class="pat" href="/stripes/wywrbry/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYWRBRY</span></a>
@@ -1180,7 +1243,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Young Enterprise Scotland](/setts/s7/ly3k8o3g4g4dt22ly2~x2/) | register-of-tartans |
+| 0.17 | [Young Enterprise Scotland](/setts/s7/ly3k8o3g4gi4dt22lyi2~x2/) | register-of-tartans |
 
 ### YBKBKRY
 <a class="pat" href="/stripes/ybkbkry/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBKBKRY</span></a>
@@ -1201,7 +1264,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Deeside District](/setts/s7/ly1b4o1o5dr2o1ly1~x2/) | weddslist |
+| 0.12 | [Deeside District](/setts/s7/ly1b4o1oi5dr2oi1ly1~x2/) | weddslist |
 
 ### YBYBYBY
 <a class="pat" href="/stripes/ybybyby/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBYBYBY</span></a>
@@ -1278,7 +1341,7 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [LP Cover (Dance)](/setts/s7/ly3k9ly1k1k6k2ly3~x4/) | tartans-authority |
+| 0.08 | [LP Cover (Dance)](/setts/s7/ly3k9ly1k1ki6k2ly3~x4/) | tartans-authority |
 
 ### YKYRYKY
 <a class="pat" href="/stripes/ykyryky/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YKYRYKY</span></a>
@@ -1299,14 +1362,14 @@ weight: 7
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Unidentified Silk Plaid #2](/setts/s7/lo7ly12dg30o12r14r11ly2~x2/) | register-of-tartans |
+| 0.09 | [Unidentified Silk Plaid #2](/setts/s7/lo7ly12dg30o12ri14r11ly2~x2/) | register-of-tartans |
 
 ### YRWBYRY
 <a class="pat" href="/stripes/yrwbyry/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YRWBYRY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Barbour - Muted](/setts/s7/ly4o21w2dt11ly21r2ly4~x2/) | tartans-authority |
+| 0.09 | [Barbour - Muted](/setts/s7/ly4r2ly21dt11w2o21lyi4~x2/) | tartans-authority |
 
 ### YRWGYWY
 <a class="pat" href="/stripes/yrwgywy/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YRWGYWY</span></a>

@@ -2,7 +2,7 @@
 title: "Cairns of Finavon"
 date: 2023-03-18
 ---
-A family of [Clan Cairns](/clan/cairns/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Finavon”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Finavon&viewmode=grid)
 

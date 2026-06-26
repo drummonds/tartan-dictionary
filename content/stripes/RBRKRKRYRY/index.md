@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Duffus Plaid, Lord](/setts/s10/r16t3r12k3r12k3r12lo3r12lo3~x2/)|
-|![Duffus Plaid, Lord example sett](/setts/s10/r16t3r12k3r12k3r12lo3r12lo3~x2/sett.png)|
+| [Duffus Plaid, Lord](/setts/s10/r16t3ri12k3ri12k3ri12lo3ri12lo3~x2/)|
+|![Duffus Plaid, Lord example sett](/setts/s10/r16t3ri12k3ri12k3ri12lo3ri12lo3~x2/sett.png)|
 | [Duffus, Lord](/setts/s10/r16t3o12k3o12k3o12ly3o12ly3~x2/)|
 |![Duffus, Lord example sett](/setts/s10/r16t3o12k3o12k3o12ly3o12ly3~x2/sett.png)|

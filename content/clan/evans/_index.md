@@ -1,8 +1,5 @@
 ---
 title: "Clan Evans"
-date: 2023-03-18
+redirect: "/families/evans-of-wales/"
 ---
-## Families
-
-- [Evans of Wales](/families/evans-of-wales/)
-
+Clan Evans is recorded as the single family [Evans of Wales](/families/evans-of-wales/) — redirecting there.

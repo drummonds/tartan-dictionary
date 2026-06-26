@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [14 stripe tartan](/stripes/stripes14/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unidentified, Bedspread
-
 ## Thread count
 R/20 LN6 R100 B15 K10 B15 K40 Y5 G54 R15 K5 R15 K6 LN/8
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="196.5" cy="71.4" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="216.8" cy="65.6" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="225.6" cy="77.3" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/"><circle cx="187.9" cy="77.6" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="220.3" cy="71.4" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="188.0" cy="78.7" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="229.7" cy="67.6" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="192.7" cy="76.7" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="195.2" cy="67.0" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s12/lr5k4r4dg5r38k10db2k2db2k2dg22ly5~x2/"><circle cx="201.0" cy="87.8" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="211.2" cy="74.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/r44g25k2w6k2ly3k16t12r6t12k16ly3k2w6r44~x2/"><circle cx="195.5" cy="71.9" r="4" fill="#3465a4"><title>Wilson's, No 17</title></circle></a><a href="/setts/s12/r26w1k8ly1g13k1w4k1ly2k4t3r8~x4/"><circle cx="215.8" cy="66.0" r="4" fill="#3465a4"><title>Drummond, Relic</title></circle></a><a href="/setts/s14/r20w6r100db15k10db15k40ly5dg54r15k5r15k6w8/"><circle cx="224.6" cy="77.7" r="4" fill="#3465a4"><title>Unidentified Bedspread</title></circle></a><a href="/setts/s12/ly5dg22k2db2k2db2k10r38dg5r4k4lb5/"><circle cx="187.0" cy="78.1" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s11/t14k8ly2k3w4k3g21r48t4r5k3~x2/"><circle cx="219.4" cy="71.8" r="4" fill="#3465a4"><title>MacLean of Duart 2</title></circle></a><a href="/setts/s12/w5k4r4g5r38k10db2k2db2k2g22ly5~x2/"><circle cx="187.1" cy="79.3" r="4" fill="#3465a4"><title>Boyd</title></circle></a><a href="/setts/s12/r26w1k8ly1dg13k1w4k1ly2k4t3r8~x4/"><circle cx="228.6" cy="67.9" r="4" fill="#3465a4"><title>Drummond Relic</title></circle></a><a href="/setts/s11/t8k4ly1k2w3k2g12r24t2r3k2~x2/"><circle cx="191.8" cy="77.2" r="4" fill="#3465a4"><title>MacLean of Duart 4</title></circle></a><a href="/setts/s12/ly4w2r19n8k1n3k2n2k3n2k26lb4~x2/"><circle cx="194.4" cy="67.5" r="4" fill="#3465a4"><title>Aberdeen Forever</title></circle></a><a href="/setts/s12/lr5k4r4dg5r38k10db2k2db2k2dg22ly5~x2/"><circle cx="200.3" cy="88.4" r="4" fill="#3465a4"><title>Boyd</title></circle></a><circle cx="210.2" cy="75.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/r20w6r100db15k10db15k40ly5g54r15k5r15k6w8/

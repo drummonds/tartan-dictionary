@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Holland, Tartan of (Fashion)](/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/)|
-|![Holland, Tartan of (Fashion) example sett](/setts/s13/db15w2db9db10db2db10r8db2r8lo6r2lo19w3~x2/sett.png)|
+| [Holland, Tartan of (Fashion)](/setts/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/)|
+|![Holland, Tartan of (Fashion) example sett](/setts/s13/dbi15w2dbi9db10dbi2db10r8db2r8lo6r2lo19w3~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan MacAllum"
-date: 2023-03-18
+redirect: "/families/macallum-of-berwick/"
 ---
-## Families
-
-- [MacAllum of Berwick](/families/macallum-of-berwick/)
-
+Clan MacAllum is recorded as the single family [MacAllum of Berwick](/families/macallum-of-berwick/) — redirecting there.

@@ -1,8 +1,5 @@
 ---
 title: "Clan North"
-date: 2023-03-18
+redirect: "/families/north-of-scotland-tartan-army/"
 ---
-## Families
-
-- [North of Scotland Tartan Army](/families/north-of-scotland-tartan-army/)
-
+Clan North is recorded as the single family [North of Scotland Tartan Army](/families/north-of-scotland-tartan-army/) — redirecting there.

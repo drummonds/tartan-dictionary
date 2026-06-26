@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [All Ireland Green](/setts/s13/g6g2r2g30lb2g4lb2dg2lb1dg20lb1g2r4~x2/)|
-|![All Ireland Green example sett](/setts/s13/g6g2r2g30lb2g4lb2dg2lb1dg20lb1g2r4~x2/sett.png)|
+| [All Ireland Green](/setts/s13/gi6g2r2gi30lb2g4lb2dg2lb1dg20lb1g2r4~x2/)|
+|![All Ireland Green example sett](/setts/s13/gi6g2r2gi30lb2g4lb2dg2lb1dg20lb1g2r4~x2/sett.png)|

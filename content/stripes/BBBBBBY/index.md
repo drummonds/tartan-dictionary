@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brigid Mhairi (Personal)](/setts/s7/db2t11dp19db1dp19dp4lo2~x2/)|
-|![Brigid Mhairi (Personal) example sett](/setts/s7/db2t11dp19db1dp19dp4lo2~x2/sett.png)|
-| [Vonarb, Alfred (Personal)](/setts/s7/t6dt3n10db2dt2dt45lr2~x2/)|
-|![Vonarb, Alfred (Personal) example sett](/setts/s7/t6dt3n10db2dt2dt45lr2~x2/sett.png)|
+| [Brigid Mhairi (Personal)](/setts/s7/db2t11dp19db1dp19dpi4lo2~x2/)|
+|![Brigid Mhairi (Personal) example sett](/setts/s7/db2t11dp19db1dp19dpi4lo2~x2/sett.png)|
+| [Vonarb, Alfred (Personal)](/setts/s7/t6dti3n10db2dti2dt45lr2~x2/)|
+|![Vonarb, Alfred (Personal) example sett](/setts/s7/t6dti3n10db2dti2dt45lr2~x2/sett.png)|

@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [12 stripe tartan](/stripes/stripes12/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2547/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2547
+
 ## Thread count
 DB/8 LN8 DB4 P4 DB36 P4 DB4 N26 DB2 N26 G2 DB/5
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.5" cy="125.5" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.3" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="222.9" cy="146.5" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/"><circle cx="230.3" cy="131.5" r="4" fill="#3465a4"><title>Cochrane Azure</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="259.1" cy="154.5" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="273.9" cy="122.6" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="276.1" cy="114.1" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.3" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="192.1" cy="122.7" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="238.0" cy="130.4" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><circle cx="255.8" cy="128.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db8w8db4p4db36p4db4y26db2y26g2db5/"><circle cx="239.0" cy="126.3" r="4" fill="#3465a4"><title>Historic Scotland</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.0" cy="131.0" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s11/r5lp2db24lr2db2lr2db6lr8r6lr8ly4~x2/"><circle cx="222.3" cy="147.3" r="4" fill="#3465a4"><title>Tasmania (District)</title></circle></a><a href="/setts/s15/t27r4t3r2t4r2t3r4t14k14r2db14r4db4ly3~x2/"><circle cx="229.7" cy="132.2" r="4" fill="#3465a4"><title>Cochrane Azure</title></circle></a><a href="/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/"><circle cx="258.5" cy="155.3" r="4" fill="#3465a4"><title>Keogh (Name)</title></circle></a><a href="/setts/s9/t14lb1t3lo2t3lb1t4db24r3~x4/"><circle cx="273.4" cy="123.2" r="4" fill="#3465a4"><title>Musselburgh</title></circle></a><a href="/setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/"><circle cx="275.4" cy="114.7" r="4" fill="#3465a4"><title>MDF (Personal)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="283.8" cy="111.6" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s14/db14k2g3k2g3k2db12r4db10r3db10r4lb28r4~x2/"><circle cx="191.6" cy="123.5" r="4" fill="#3465a4"><title>Wcwm 1138</title></circle></a><a href="/setts/s9/t4lo2t34db10lr4db4dp4db23w3~x2/"><circle cx="237.5" cy="131.0" r="4" fill="#3465a4"><title>Heirloom Blue Alba (Fashion)</title></circle></a><circle cx="255.3" cy="129.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/

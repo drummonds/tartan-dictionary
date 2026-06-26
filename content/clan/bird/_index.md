@@ -1,8 +1,5 @@
 ---
 title: "Clan Bird"
-date: 2023-03-18
+redirect: "/families/bird-of-paradise/"
 ---
-## Families
-
-- [Bird of Paradise](/families/bird-of-paradise/)
-
+Clan Bird is recorded as the single family [Bird of Paradise](/families/bird-of-paradise/) — redirecting there.

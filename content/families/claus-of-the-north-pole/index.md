@@ -2,7 +2,7 @@
 title: "Claus of the North Pole"
 date: 2023-03-18
 ---
-A family of [Clan Claus](/clan/claus/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “the North Pole”](https://www.trove.scot/search?page_type=Designations+Decisions&q=the+North+Pole&viewmode=grid)
 

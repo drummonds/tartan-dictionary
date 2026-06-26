@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Poulter, Green (Corporate)](/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/)|
-|![Poulter, Green (Corporate) example sett](/setts/s13/ly25k4ly4k4ly4k23y23ly4y23k23ly23k4ly4~x2/sett.png)|
+| [Poulter, Green (Corporate)](/setts/s13/lyi25k4lyi4k4lyi4k23y23ly4y23k23lyi23k4lyi4~x2/)|
+|![Poulter, Green (Corporate) example sett](/setts/s13/lyi25k4lyi4k4lyi4k23y23ly4y23k23lyi23k4lyi4~x2/sett.png)|

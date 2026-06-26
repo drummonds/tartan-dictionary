@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5794/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5794
+
 ## Thread count
 DB/4 W4 DB42 DY6 DB8 Ra6 DB6 R8 G36 B8 W/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="155.1" cy="106.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/"><circle cx="144.9" cy="106.7" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/"><circle cx="173.6" cy="94.4" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/"><circle cx="151.7" cy="141.1" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.3" cy="107.8" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.4" cy="138.3" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.4" cy="140.4" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.5" cy="96.1" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="141.3" cy="103.2" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/"><circle cx="102.0" cy="118.7" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><circle cx="153.7" cy="114.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db21w2lo3w2lo2w2k12w2g6db15r2ly4~x2/"><circle cx="154.5" cy="107.5" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s12/db21w2y3w2y2w2k12w2g6db15r2ly4~x2/"><circle cx="144.4" cy="107.6" r="4" fill="#3465a4"><title>Robitaille, Jean-Francois (Personal)</title></circle></a><a href="/setts/s13/g12db3y3w2y3db3g5k8db31t5db8w4r6~x2/"><circle cx="173.1" cy="95.0" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s10/o3t18r2t18g3dt8k20g2k5lo3~x2/"><circle cx="151.3" cy="141.9" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><a href="/setts/s9/dg32lb3p3lb3dg2k20db17r3ly4~x2/"><circle cx="135.0" cy="108.6" r="4" fill="#3465a4"><title>Colorado (District)</title></circle></a><a href="/setts/s10/db6r4db24lb3k6g18lo4g2lo2g4~x2/"><circle cx="154.2" cy="139.2" r="4" fill="#3465a4"><title>Greene</title></circle></a><a href="/setts/s11/db50k10db6k10db6dg5lp5dg5p8dg23w5~x2/"><circle cx="192.2" cy="141.2" r="4" fill="#3465a4"><title>Scottish Hockey Union (Sports)</title></circle></a><a href="/setts/s13/g12db3o3w2o3db3g5k8db31t5db8w4r6~x2/"><circle cx="178.0" cy="96.7" r="4" fill="#3465a4"><title>Twenty First Century</title></circle></a><a href="/setts/s12/db24ly4y4p4db24r4w3k18w9r4k3w2~x2/"><circle cx="140.7" cy="104.0" r="4" fill="#3465a4"><title>Queen Mary, RMS</title></circle></a><a href="/setts/s10/ly4k7dg3k27db10g4t24r3t24lb4~x2/"><circle cx="101.7" cy="119.6" r="4" fill="#3465a4"><title>Royal Air Force Lossiemouth</title></circle></a><circle cx="153.4" cy="115.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/db2w2db21lo3db4r3db3m4g18b4w2~x2/

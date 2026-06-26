@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7315/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7315
+
 ## Thread count
 Na/3 N2 Na18 B9 Na18 N2 Na18 K9 Na18 N/2
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="400.8" cy="174.1" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="299.2" cy="192.4" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s7/t11ly5k1ly2r1ly2t11~x12/"><circle cx="367.0" cy="191.1" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/setts/s7/db1w4r1w1ly1w4db1~x12/"><circle cx="309.2" cy="220.2" r="4" fill="#3465a4"><title>Justus dress</title></circle></a><a href="/setts/s6/w11t20ly3t8ly3t10~x2/"><circle cx="364.9" cy="257.3" r="4" fill="#3465a4"><title>Lucard, Stphane (Personal))</title></circle></a><a href="/setts/s14/w5r2w12g17w12r2w12r2w12g17w12r2w5p2~x4/"><circle cx="272.2" cy="169.6" r="4" fill="#3465a4"><title>Milne Green (Dance)</title></circle></a><a href="/setts/s7/b1lr4r1lr1lo1lr4b1~x12/"><circle cx="343.4" cy="242.3" r="4" fill="#3465a4"><title>Justus Dress (Personal)</title></circle></a><a href="/setts/s8/w12dg2w12r17w12dg2w5b2~x4/"><circle cx="299.4" cy="182.3" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/setts/s12/g13dy7g13dy2g13dy2g13dy2w3ly4w3g4~x2/"><circle cx="363.1" cy="220.3" r="4" fill="#3465a4"><title>McGrane (2014)</title></circle></a><a href="/setts/s9/r1o6k1o1k2o1k1o6lo1~x8/"><circle cx="369.9" cy="204.1" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><circle cx="394.1" cy="193.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w20k2w20lo5k3w3lo4k2/"><circle cx="399.2" cy="174.7" r="4" fill="#3465a4"><title>Guzzo Dress (Personal)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="297.8" cy="193.1" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s7/t11ly5k1ly2r1ly2t11~x12/"><circle cx="365.9" cy="191.8" r="4" fill="#3465a4"><title>Carlisle</title></circle></a><a href="/setts/s7/db1w4r1w1ly1w4db1~x12/"><circle cx="307.9" cy="221.2" r="4" fill="#3465a4"><title>Justus dress</title></circle></a><a href="/setts/s6/w11t20ly3t8ly3t10~x2/"><circle cx="363.9" cy="258.3" r="4" fill="#3465a4"><title>Lucard, Stphane (Personal))</title></circle></a><a href="/setts/s14/w5r2w12g17w12r2w12r2w12g17w12r2w5p2~x4/"><circle cx="271.0" cy="170.2" r="4" fill="#3465a4"><title>Milne Green (Dance)</title></circle></a><a href="/setts/s7/b1lr4r1lr1lo1lr4b1~x12/"><circle cx="342.3" cy="243.2" r="4" fill="#3465a4"><title>Justus Dress (Personal)</title></circle></a><a href="/setts/s8/w12dg2w12r17w12dg2w5b2~x4/"><circle cx="297.9" cy="183.0" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/setts/s12/g13dy7g13dy2g13dy2g13dy2w3ly4w3g4~x2/"><circle cx="362.3" cy="220.9" r="4" fill="#3465a4"><title>McGrane (2014)</title></circle></a><a href="/setts/s9/r1o6k1o1k2o1k1o6lo1~x8/"><circle cx="368.9" cy="204.9" r="4" fill="#3465a4"><title>Mowdowny (Fashion)</title></circle></a><circle cx="392.7" cy="194.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/lr3lb2lr18t9lr18lb2lr18k9lr18lb2/

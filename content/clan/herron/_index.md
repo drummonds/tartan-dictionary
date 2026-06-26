@@ -1,8 +1,5 @@
 ---
 title: "Clan Herron"
-date: 2023-03-18
+redirect: "/families/herron-of-ulster/"
 ---
-## Families
-
-- [Herron of Ulster](/families/herron-of-ulster/)
-
+Clan Herron is recorded as the single family [Herron of Ulster](/families/herron-of-ulster/) — redirecting there.

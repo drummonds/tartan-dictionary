@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Gravesend Grammar School (Corp)](/setts/s11/db8g5db72db72m5db16m5db72db72g5db8/)|
-|![Gravesend Grammar School (Corp) example sett](/setts/s11/db8g5db72db72m5db16m5db72db72g5db8/sett.png)|
+| [Gravesend Grammar School (Corp)](/setts/s11/db8g5db72dbi72m5dbi16m5dbi72db72g5db8/)|
+|![Gravesend Grammar School (Corp) example sett](/setts/s11/db8g5db72dbi72m5dbi16m5dbi72db72g5db8/sett.png)|

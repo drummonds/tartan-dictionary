@@ -32,9 +32,9 @@ It is a 14 stripe tartan.
 |![Bruce Old Clan Tartan Tartan Number: 876. Earliest known date: 1797 An order dated 1797 in the Wilson's of Bannockburn papers requests '50 Ells Bruce sett tartan'. As no distinction is made between 'old' and 'new' we assume that the 'new' sett, which has much in common with this one, had not been introduced. (Reduced in proportion for illustration.) See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s14/r45dp4r4g48r4dp4r4dp15r4dp4r40g4r4g30/sett.png)|
 | [Bruce, Old](/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/)|
 |![Bruce, Old example sett](/setts/s14/r45db4r4g48r4db4r4db15r4db4r40g4r4g30/sett.png)|
-| [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/)|
-|![MacColl example sett](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/sett.png)|
 | [MacColl](/tartans/r12db1r1g8r2db1r1db3r1db1r12g1r1g4/)|
 |![MacColl example sett](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g4~x2/sett.png)|
+| [MacColl](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/)|
+|![MacColl example sett](/setts/s14/r12db1r1dg8r2db1r1db3r1db1r12dg1r1dg4~x2/sett.png)|
 | [MacDonald of Aird & Valley (Clan?)](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/)|
 |![MacDonald of Aird & Valley (Clan?) example sett](/setts/s14/r12db1r1g8r2db1r1db3r1db1r12g1r1g8~x4/sett.png)|

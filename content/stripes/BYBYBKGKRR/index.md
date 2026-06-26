@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Coleburn (Corporate)](/setts/s10/n24lo2n4lo1n3k3dg1k50r1r3~x2/)|
-|![Coleburn (Corporate) example sett](/setts/s10/n24lo2n4lo1n3k3dg1k50r1r3~x2/sett.png)|
+| [Coleburn (Corporate)](/setts/s10/n24lo2n4lo1n3k3dg1k50r1ri3~x2/)|
+|![Coleburn (Corporate) example sett](/setts/s10/n24lo2n4lo1n3k3dg1k50r1ri3~x2/sett.png)|

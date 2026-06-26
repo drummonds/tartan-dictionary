@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [All Ireland Blue (Fashion)](/setts/s16/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4~x2/)|
-|![All Ireland Blue (Fashion) example sett](/setts/s16/b6lb2db2b30g2b2lo2g4lo2g2lo1g18lo1lb2db2lo4~x2/sett.png)|
+| [All Ireland Blue (Fashion)](/setts/s16/b6lb2db2b30gi2b2lo2g4lo2gi2lo1gi18lo1lb2db2lo4~x2/)|
+|![All Ireland Blue (Fashion) example sett](/setts/s16/b6lb2db2b30gi2b2lo2g4lo2gi2lo1gi18lo1lb2db2lo4~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 21 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Abergaveny (Fashion)](/setts/s21/k36lb8lb33k4lb6lb8lb24k12lb4lb4lb6lb4k4lb48lb4k4k4lb6lb16k6k12/)|
-|![Abergaveny (Fashion) example sett](/setts/s21/k36lb8lb33k4lb6lb8lb24k12lb4lb4lb6lb4k4lb48lb4k4k4lb6lb16k6k12/sett.png)|
+| [Abergaveny (Fashion)](/setts/s21/k36lb8lb33k4lbi6lb8lbi24k12lbi4lbi4lb6lbi4k4lb48lbi4k4k4lb6lb16k6k12/)|
+|![Abergaveny (Fashion) example sett](/setts/s21/k36lb8lb33k4lbi6lb8lbi24k12lbi4lbi4lb6lbi4k4lb48lbi4k4k4lb6lb16k6k12/sett.png)|

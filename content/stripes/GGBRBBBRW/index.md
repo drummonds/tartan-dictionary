@@ -24,5 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNiven](/setts/s9/g18g2db5r45db3db18db3r5w2/)|
-|![MacNiven example sett](/setts/s9/g18g2db5r45db3db18db3r5w2/sett.png)|
+| [MacNiven](/setts/s9/g18gi2dbi5r45db3dbi18db3r5w2/)|
+|![MacNiven example sett](/setts/s9/g18gi2dbi5r45db3dbi18db3r5w2/sett.png)|
+| [MacNiven Family Tartan Tartan Number: 752. Earliest known date: 1986 Based in part on the MacNaughton of which the MacNivens are a Sept. The name in Mr Cannonito's family was spelt, MacKniffen. Other members of the family have dropped the 'Mac' since arriving in America in 1650. This clan tartan was accredited by the Scottish Tartans Society in 1988. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/gi18g2db5r45dbi3db18dbi3r5w2/)|
+|![MacNiven Family Tartan Tartan Number: 752. Earliest known date: 1986 Based in part on the MacNaughton of which the MacNivens are a Sept. The name in Mr Cannonito's family was spelt, MacKniffen. Other members of the family have dropped the 'Mac' since arriving in America in 1650. This clan tartan was accredited by the Scottish Tartans Society in 1988. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/gi18g2db5r45dbi3db18dbi3r5w2/sett.png)|

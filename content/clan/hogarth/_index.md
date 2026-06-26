@@ -1,8 +1,5 @@
 ---
 title: "Clan Hogarth"
-date: 2023-03-18
+redirect: "/families/hogarth-of-firhill/"
 ---
-## Families
-
-- [Hogarth of Firhill](/families/hogarth-of-firhill/)
-
+Clan Hogarth is recorded as the single family [Hogarth of Firhill](/families/hogarth-of-firhill/) — redirecting there.

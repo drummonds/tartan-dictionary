@@ -2,7 +2,7 @@
 title: "Genet of An Gwylvos"
 date: 2023-03-18
 ---
-A family of [Clan Genet](/clan/genet/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “An Gwylvos”](https://www.trove.scot/search?page_type=Designations+Decisions&q=An+Gwylvos&viewmode=grid)
 

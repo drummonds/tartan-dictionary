@@ -1,8 +1,5 @@
 ---
 title: "Clan Hill"
-date: 2023-03-18
+redirect: "/families/hill-of-banchory-primary/"
 ---
-## Families
-
-- [Hill of Banchory Primary](/families/hill-of-banchory-primary/)
-
+Clan Hill is recorded as the single family [Hill of Banchory Primary](/families/hill-of-banchory-primary/) — redirecting there.

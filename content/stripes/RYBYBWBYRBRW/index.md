@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewart - Pr Ch Ed (Royal)](/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/)|
-|![Stewart - Pr Ch Ed (Royal) example sett](/setts/s12/r14lg4dt6ly1dt2w2dt2lg12r6dt2r2w1~x4/sett.png)|
+| [Stewart - Pr Ch Ed (Royal)](/setts/s12/r14lg4dt6ly1dt2w2dt2lgi12r6dt2r2w1~x4/)|
+|![Stewart - Pr Ch Ed (Royal) example sett](/setts/s12/r14lg4dt6ly1dt2w2dt2lgi12r6dt2r2w1~x4/sett.png)|

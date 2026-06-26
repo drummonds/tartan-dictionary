@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Glen Burns (WCWM - 1)](/setts/s20/o10k1o7n4o7n1o7n1o7n4o6k1o6n4o7n1o2n1o7n7~x4/)|
-|![Glen Burns (WCWM - 1) example sett](/setts/s20/o10k1o7n4o7n1o7n1o7n4o6k1o6n4o7n1o2n1o7n7~x4/sett.png)|
+| [Glen Burns (WCWM - 1)](/setts/s20/o10k1o7n4oi7n1oi7n1oi7n4o6k1o6n4oi7n1oi2n1oi7n7~x4/)|
+|![Glen Burns (WCWM - 1) example sett](/setts/s20/o10k1o7n4oi7n1oi7n1oi7n4o6k1o6n4oi7n1oi2n1oi7n7~x4/sett.png)|

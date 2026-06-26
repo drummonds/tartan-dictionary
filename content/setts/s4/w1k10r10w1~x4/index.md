@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7188/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7188
+
 ## Thread count
 W/4 K40 R40 W/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="305.8" cy="242.6" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="301.7" cy="227.1" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s4/w1r8k8ly1~x4/"><circle cx="239.7" cy="217.6" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/setts/s5/r3k25r25k10lb3~x2/"><circle cx="317.5" cy="237.3" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="287.9" cy="227.7" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="258.6" cy="228.6" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s5/dg24r3dg16r33w4/"><circle cx="308.3" cy="231.1" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/setts/s4/w1r8k8ly1~x2/"><circle cx="231.3" cy="217.9" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="289.6" cy="205.7" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><circle cx="278.6" cy="222.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k1r8k8ly1~x6/"><circle cx="304.9" cy="243.9" r="4" fill="#3465a4"><title>Wallace</title></circle></a><a href="/setts/s4/k1r8k8ly1~x4/"><circle cx="304.9" cy="243.9" r="4" fill="#3465a4"><title>Wallace (Clan)</title></circle></a><a href="/setts/s5/k18r4k18r32w3~x2/"><circle cx="300.8" cy="228.4" r="4" fill="#3465a4"><title>Munro (Black and Red)</title></circle></a><a href="/setts/s4/w1r8k8ly1~x4/"><circle cx="238.8" cy="218.9" r="4" fill="#3465a4"><title>Connel (Clan)</title></circle></a><a href="/setts/s5/r3k25r25k10lb3~x2/"><circle cx="316.6" cy="238.5" r="4" fill="#3465a4"><title>Bodog.com</title></circle></a><a href="/setts/s6/k3r15k11ly2k4r3~x2/"><circle cx="287.0" cy="229.0" r="4" fill="#3465a4"><title>Brodie (Clan)</title></circle></a><a href="/setts/s4/db1r8k8lo1~x4/"><circle cx="257.9" cy="229.9" r="4" fill="#3465a4"><title>Skinner (Name)</title></circle></a><a href="/setts/s5/dg24r3dg16r33w4/"><circle cx="307.5" cy="232.2" r="4" fill="#3465a4"><title>Unidentified Plaid #3</title></circle></a><a href="/setts/s4/w1r8k8ly1~x2/"><circle cx="230.5" cy="219.3" r="4" fill="#3465a4"><title>Connel</title></circle></a><a href="/setts/s4/r80k52w7o12/"><circle cx="288.5" cy="206.8" r="4" fill="#3465a4"><title>Oklahoma State University (Corporate</title></circle></a><circle cx="277.6" cy="223.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/w1k10r10w1~x4/

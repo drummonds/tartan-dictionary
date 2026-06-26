@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Puccini's Madama Butterfly](/setts/s16/r6w1r1k15r1w2k1ly5w25w5k1m5k1w5k1ly5~x2/)|
-|![Puccini's Madama Butterfly example sett](/setts/s16/r6w1r1k15r1w2k1ly5w25w5k1m5k1w5k1ly5~x2/sett.png)|
+| [Puccini's Madama Butterfly](/setts/s16/r6w1r1k15r1w2k1ly5w25wi5k1m5k1w5k1ly5~x2/)|
+|![Puccini's Madama Butterfly example sett](/setts/s16/r6w1r1k15r1w2k1ly5w25wi5k1m5k1w5k1ly5~x2/sett.png)|

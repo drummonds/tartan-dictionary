@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sakura (Japanese Four Seasons)](/setts/s14/lp6w2lp25dy2w9lg2lg4lg2w9lg2lg15dy2lg2dy4~x2/)|
-|![Sakura (Japanese Four Seasons) example sett](/setts/s14/lp6w2lp25dy2w9lg2lg4lg2w9lg2lg15dy2lg2dy4~x2/sett.png)|
+| [Sakura (Japanese Four Seasons)](/setts/s14/lp6w2lp25dy2w9lgi2lg4lgi2w9lgi2lg15dy2lg2dy4~x2/)|
+|![Sakura (Japanese Four Seasons) example sett](/setts/s14/lp6w2lp25dy2w9lgi2lg4lgi2w9lgi2lg15dy2lg2dy4~x2/sett.png)|

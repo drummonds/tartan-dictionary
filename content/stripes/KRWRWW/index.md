@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Thermos Un-named (aretefact)](/setts/s6/k6r20w2r9w3lb2~x2/)|
-|![Thermos Un-named (aretefact) example sett](/setts/s6/k6r20w2r9w3lb2~x2/sett.png)|
+| [Thermos Un-named (aretefact)](/setts/s6/k6r20w2ri9w3lb2~x2/)|
+|![Thermos Un-named (aretefact) example sett](/setts/s6/k6r20w2ri9w3lb2~x2/sett.png)|

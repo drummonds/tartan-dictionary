@@ -8,7 +8,7 @@ A family of [Clan MacKerrell](/clan/mackerrell/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s12/db28db49ly3db49db28w4db28db49r3db49db28w4~x2/"><img src="/setts/s12/db28db49ly3db49db28w4db28db49r3db49db28w4~x2/sett.png" alt="MacKerrell, of Hillhouse hunting" width="240"><br>MacKerrell, of Hillhouse hunting</a>
+<a class="tartan" href="/setts/s12/db28dbi49ly3dbi49db28w4db28dbi49r3dbi49db28w4~x2/"><img src="/setts/s12/db28dbi49ly3dbi49db28w4db28dbi49r3dbi49db28w4~x2/sett.png" alt="MacKerrell, of Hillhouse hunting" width="240"><br>MacKerrell, of Hillhouse hunting</a>
 
 ## Other tartans
 

@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacCandlish Arisaid Red](/setts/s11/lb3k1r12k1r1k2r1k6lb12k1lo1~x4/)|
-|![MacCandlish Arisaid Red example sett](/setts/s11/lb3k1r12k1r1k2r1k6lb12k1lo1~x4/sett.png)|
+| [MacCandlish Arisaid Red](/setts/s11/lbi3k1r12k1r1k2r1k6lb12k1lo1~x4/)|
+|![MacCandlish Arisaid Red example sett](/setts/s11/lbi3k1r12k1r1k2r1k6lb12k1lo1~x4/sett.png)|
 | [McCandlish Arisaid, Red (Name)](/setts/s11/lb3k1r12k1r1k2r1k6w12k1lo1~x4/)|
 |![McCandlish Arisaid, Red (Name) example sett](/setts/s11/lb3k1r12k1r1k2r1k6w12k1lo1~x4/sett.png)|

@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2357/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2357
+
 ## Thread count
 K/6 N2 G42 K4 DR6 N/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k5w4r15g70k4w5~x2/"><circle cx="406.3" cy="153.2" r="4" fill="#3465a4"><title>Tahrir - Liberation (Fashion)</title></circle></a><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="351.9" cy="179.7" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s7/g8w4g50k12g4k15lo5~x2/"><circle cx="338.6" cy="176.7" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="424.7" cy="132.9" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s7/g30k2w3k1w4t6w2~x4/"><circle cx="381.5" cy="130.4" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="309.7" cy="166.2" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="373.7" cy="191.9" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s5/r1k2g16k2ly1~x2/"><circle cx="432.7" cy="174.8" r="4" fill="#3465a4"><title>Skene, or Tribe of Mar</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="472.2" cy="144.1" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="411.5" cy="150.2" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><circle cx="387.5" cy="153.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k5w4r15g70k4w5~x2/"><circle cx="405.1" cy="153.5" r="4" fill="#3465a4"><title>Tahrir - Liberation (Fashion)</title></circle></a><a href="/setts/s7/k3lb1g15g6k2dr3lb2~x2/"><circle cx="351.1" cy="180.2" r="4" fill="#3465a4"><title>Leach Hunting</title></circle></a><a href="/setts/s7/g8w4g50k12g4k15lo5~x2/"><circle cx="337.8" cy="177.2" r="4" fill="#3465a4"><title>Instakilt, Green (Fashion)</title></circle></a><a href="/setts/s8/g78db13ly6r3ly5g6db9ly6~x2/"><circle cx="423.8" cy="133.0" r="4" fill="#3465a4"><title>Walterstrm (2014))</title></circle></a><a href="/setts/s7/g30k2w3k1w4t6w2~x4/"><circle cx="380.6" cy="130.6" r="4" fill="#3465a4"><title>Madras 2 (Fashion)</title></circle></a><a href="/setts/s6/w12k3g50w3k13lo6~x2/"><circle cx="308.9" cy="166.8" r="4" fill="#3465a4"><title>Limerick County Crest (Fashion)</title></circle></a><a href="/setts/s6/r8g12w5k11g42k3~x2/"><circle cx="372.8" cy="192.5" r="4" fill="#3465a4"><title>Sir Billi (Corporate)</title></circle></a><a href="/setts/s5/r1k2g16k2ly1~x2/"><circle cx="431.7" cy="175.2" r="4" fill="#3465a4"><title>Skene, or Tribe of Mar</title></circle></a><a href="/setts/s8/g25w1dg2w1g6k2w2dg3~x2/"><circle cx="471.3" cy="144.1" r="4" fill="#3465a4"><title>Marshall University</title></circle></a><a href="/setts/s6/db6w3r3g55k10r3~x4/"><circle cx="410.7" cy="150.4" r="4" fill="#3465a4"><title>Military Medical Memorial (USA)</title></circle></a><circle cx="386.6" cy="154.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k3lb1g21k2dr3lb2~x2/

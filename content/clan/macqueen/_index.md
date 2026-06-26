@@ -1,8 +1,5 @@
 ---
 title: "Clan MacQueen"
-date: 2023-03-18
+redirect: "/families/macqueen-of-dalmagarry/"
 ---
-## Families
-
-- [MacQueen of Dalmagarry](/families/macqueen-of-dalmagarry/)
-
+Clan MacQueen is recorded as the single family [MacQueen of Dalmagarry](/families/macqueen-of-dalmagarry/) — redirecting there.

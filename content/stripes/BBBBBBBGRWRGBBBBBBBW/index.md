@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Inverclyde](/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/)|
-|![Inverclyde example sett](/setts/s20/db5db2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9db2db5w3~x2/sett.png)|
+| [Inverclyde](/setts/s20/db5dbi2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9dbi2db5w3~x2/)|
+|![Inverclyde example sett](/setts/s20/db5dbi2db9n10t2n4t2g10r33w2r33g10t2n4t2n10db9dbi2db5w3~x2/sett.png)|

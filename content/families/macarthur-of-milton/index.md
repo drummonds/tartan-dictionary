@@ -1,10 +1,10 @@
 ---
-title: "MacArthur of Milton"
+title: "MacArthur of Milton,"
 date: 2023-03-18
 ---
-A family of [Clan MacArthur](/clan/macarthur/).
+*Single family clan, so not under clans.*
 
-**Trove of Scotland:** [search “Milton”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Milton&viewmode=grid)
+**Trove of Scotland:** [search “Milton,”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Milton%2C&viewmode=grid)
 
 ## Tartan
 

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Peter](/setts/s10/lo3db25db4db4db4db4db25g4dp4o2~x2/)|
-|![Blue Peter example sett](/setts/s10/lo3db25db4db4db4db4db25g4dp4o2~x2/sett.png)|
+| [Blue Peter](/setts/s10/lo3db25dbi4db4dbi4db4dbi25g4dp4o2~x2/)|
+|![Blue Peter example sett](/setts/s10/lo3db25dbi4db4dbi4db4dbi25g4dp4o2~x2/sett.png)|

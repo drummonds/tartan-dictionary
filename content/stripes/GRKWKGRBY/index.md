@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stirling, University of](/setts/s9/dg90r1k10w6k4dg6r10db62ly8/)|
-|![Stirling, University of example sett](/setts/s9/dg90r1k10w6k4dg6r10db62ly8/sett.png)|
 | [Stirling, University of](/setts/s9/g90r1k10w6k4g6r10db62ly8/)|
 |![Stirling, University of example sett](/setts/s9/g90r1k10w6k4g6r10db62ly8/sett.png)|
+| [Stirling, University of](/setts/s9/dg90r1k10w6k4dg6r10db62ly8/)|
+|![Stirling, University of example sett](/setts/s9/dg90r1k10w6k4dg6r10db62ly8/sett.png)|

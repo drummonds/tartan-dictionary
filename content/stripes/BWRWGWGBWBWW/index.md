@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Summerwood](/setts/s12/b76w3r4w3dg4w3dg8b20lt20b3lt8w10/)|
-|![Summerwood example sett](/setts/s12/b76w3r4w3dg4w3dg8b20lt20b3lt8w10/sett.png)|
+| [Summerwood](/setts/s12/b76w3r4w3dg4w3dgi8b20lt20b3lt8w10/)|
+|![Summerwood example sett](/setts/s12/b76w3r4w3dg4w3dgi8b20lt20b3lt8w10/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Arundel County (District)](/setts/s8/k2k5k4k1k4g16k3g2~x4/)|
-|![Arundel County (District) example sett](/setts/s8/k2k5k4k1k4g16k3g2~x4/sett.png)|
+| [Arundel County (District)](/setts/s8/k2k5ki4k1ki4g16ki3g2~x4/)|
+|![Arundel County (District) example sett](/setts/s8/k2k5ki4k1ki4g16ki3g2~x4/sett.png)|

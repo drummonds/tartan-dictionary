@@ -1,8 +1,5 @@
 ---
 title: "Clan Rhys"
-date: 2023-03-18
+redirect: "/families/rhys-of-wales/"
 ---
-## Families
-
-- [Rhys of Wales](/families/rhys-of-wales/)
-
+Clan Rhys is recorded as the single family [Rhys of Wales](/families/rhys-of-wales/) — redirecting there.

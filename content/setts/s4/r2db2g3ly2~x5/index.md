@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8100/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8100](https://www.tartanregister.gov.uk/tartanDetails?ref=8100)
+- Scottish Tartans Authority (ITI): 8100
+
 ## Thread count
 R/10 DB10 G15 Y/10
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly15r7k12ly12k12dy12r7~x2/"><circle cx="24.2" cy="300.6" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/db18t18lo28dt13~x2/"><circle cx="54.8" cy="329.7" r="4" fill="#3465a4"><title>Gold Country (California)</title></circle></a><a href="/setts/s7/ly15r7k12ly12k12o12r7~x2/"><circle cx="14.7" cy="297.0" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.3" cy="302.6" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.3" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s4/db18b18lo28n13~x2/"><circle cx="78.5" cy="346.9" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/setts/s4/do12k8t15w8~x2/"><circle cx="24.5" cy="332.5" r="4" fill="#3465a4"><title>Equity Vision Ltd</title></circle></a><a href="/setts/s7/r4ly3g4ly4b4ly4g4~x2/"><circle cx="23.8" cy="366.0" r="4" fill="#3465a4"><title>Lochwood Estate Check</title></circle></a><a href="/setts/s6/dg8k8dg8ly6k3ly6~x2/"><circle cx="90.8" cy="319.7" r="4" fill="#3465a4"><title>Hage-West (Personal)</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.8" cy="297.5" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><circle cx="14.0" cy="357.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/ly15r7k12ly12k12dy12r7~x2/"><circle cx="23.7" cy="302.6" r="4" fill="#3465a4"><title>Duffus Lord... Portrait Tartan Tartan Number: 1661. Earliest known date: 1705 The hose in the portrait of Lord Duffus (1705). Reconstructed and woven by Scottish Tartans Society. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s4/db18t18lo28dt13~x2/"><circle cx="54.5" cy="331.8" r="4" fill="#3465a4"><title>Gold Country (California)</title></circle></a><a href="/setts/s7/ly15r7k12ly12k12o12r7~x2/"><circle cx="14.2" cy="299.1" r="4" fill="#3465a4"><title>Duffus, Lord</title></circle></a><a href="/setts/s7/lo11m6k10lo10k10dy10m4~x2/"><circle cx="62.0" cy="304.5" r="4" fill="#3465a4"><title>Duffus Hose, Lord</title></circle></a><a href="/setts/s3/lo5db5k3~x4/"><circle cx="94.2" cy="366.0" r="4" fill="#3465a4"><title>Kazakhstan Relic (Artefact)</title></circle></a><a href="/setts/s4/db18b18lo28n13~x2/"><circle cx="78.4" cy="348.9" r="4" fill="#3465a4"><title>Gold Country (District)</title></circle></a><a href="/setts/s4/do12k8t15w8~x2/"><circle cx="24.3" cy="334.8" r="4" fill="#3465a4"><title>Equity Vision Ltd</title></circle></a><a href="/setts/s7/r4ly3g4ly4b4ly4g4~x2/"><circle cx="23.6" cy="366.0" r="4" fill="#3465a4"><title>Lochwood Estate Check</title></circle></a><a href="/setts/s6/dg8k8dg8ly6k3ly6~x2/"><circle cx="90.4" cy="321.7" r="4" fill="#3465a4"><title>Hage-West (Personal)</title></circle></a><a href="/setts/s7/k13dy28lo13dy28k18w18k13~x2/"><circle cx="83.4" cy="299.4" r="4" fill="#3465a4"><title>Boxer Beauty</title></circle></a><circle cx="14.0" cy="359.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/r2db2g3ly2~x5/

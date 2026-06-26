@@ -1,8 +1,5 @@
 ---
 title: "Clan Ramsay"
-date: 2023-03-18
+redirect: "/families/ramsay-of-dalhousie/"
 ---
-## Families
-
-- [Ramsay of Dalhousie](/families/ramsay-of-dalhousie/)
-
+Clan Ramsay is recorded as the single family [Ramsay of Dalhousie](/families/ramsay-of-dalhousie/) — redirecting there.

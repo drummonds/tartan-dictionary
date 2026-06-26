@@ -1,8 +1,5 @@
 ---
 title: "Clan Zinnen"
-date: 2023-03-18
+redirect: "/families/zinnen-of-scene/"
 ---
-## Families
-
-- [Zinnen of Scene](/families/zinnen-of-scene/)
-
+Clan Zinnen is recorded as the single family [Zinnen of Scene](/families/zinnen-of-scene/) — redirecting there.

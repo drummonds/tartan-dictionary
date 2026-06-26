@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raytheon](/setts/s8/k14w2k3y14w6r14k2r3~x2/)|
-|![Raytheon example sett](/setts/s8/k14w2k3y14w6r14k2r3~x2/sett.png)|
+| [Raytheon](/setts/s8/k14w2k3y14wi6r14k2r3~x2/)|
+|![Raytheon example sett](/setts/s8/k14w2k3y14wi6r14k2r3~x2/sett.png)|

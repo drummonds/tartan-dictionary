@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3746/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3746
+
 ## Thread count
 N/16 R8 B56 DB56 LN/8
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.3" cy="214.5" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="186.1" cy="222.9" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s5/w3dt2db15t15r2~x4/"><circle cx="203.2" cy="218.5" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/setts/s8/t16db3t3o3t3db10r12w4~x2/"><circle cx="124.6" cy="203.5" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/setts/s6/db13ly2r4g2t8w2~x6/"><circle cx="136.9" cy="188.9" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/setts/s5/y16r8b57db56lb8/"><circle cx="177.2" cy="220.1" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.8" cy="207.5" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s6/w2k1m10k6b12lo2~x2/"><circle cx="164.2" cy="188.5" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="173.1" cy="231.0" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.5" cy="170.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><circle cx="161.2" cy="211.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2db12k5t16w2~x4/"><circle cx="182.0" cy="215.8" r="4" fill="#3465a4"><title>RSCDS Australia? (Corporate)</title></circle></a><a href="/setts/s5/r15w10db48t32r6~x2/"><circle cx="185.6" cy="224.3" r="4" fill="#3465a4"><title>Lands of Liberty (Fashion)</title></circle></a><a href="/setts/s5/w3dt2db15t15r2~x4/"><circle cx="203.0" cy="219.7" r="4" fill="#3465a4"><title>SABA</title></circle></a><a href="/setts/s8/t16db3t3o3t3db10r12w4~x2/"><circle cx="124.3" cy="204.8" r="4" fill="#3465a4"><title>Greer (Name?)</title></circle></a><a href="/setts/s6/db13ly2r4g2t8w2~x6/"><circle cx="136.5" cy="190.1" r="4" fill="#3465a4"><title>Meh Dundee</title></circle></a><a href="/setts/s5/y16r8b57db56lb8/"><circle cx="177.0" cy="221.4" r="4" fill="#3465a4"><title>Bryson (1988)</title></circle></a><a href="/setts/s6/db2b9m1db9dg9w2~x4/"><circle cx="126.7" cy="208.9" r="4" fill="#3465a4"><title>American Express</title></circle></a><a href="/setts/s6/w2k1m10k6b12lo2~x2/"><circle cx="163.9" cy="189.6" r="4" fill="#3465a4"><title>Soroptimist International (Corporate</title></circle></a><a href="/setts/s5/k4t3dp11dg14w2~x2/"><circle cx="172.9" cy="232.3" r="4" fill="#3465a4"><title>Wellington No 229</title></circle></a><a href="/setts/s7/r2t2r2t21lg11k17lb2~x2/"><circle cx="169.2" cy="171.4" r="4" fill="#3465a4"><title>Loch Ness (Fashion)</title></circle></a><circle cx="160.8" cy="213.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/lr2r1t7db7lb1~x8/

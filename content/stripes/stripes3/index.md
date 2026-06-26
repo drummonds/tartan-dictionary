@@ -3,21 +3,21 @@ title: 3 stripes tartan setts
 date: 2023-03-18
 weight: 3
 ---
-118 setts across 111 tartans with 3 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+118 setts across 114 tartans with 3 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 
 <ul class="stripe-summary">
 <li><a class="count" href="/stripes/bgr/"><strong>BGR</strong> · 10 setts · 9 tartans</a><div class="samples"><a class="pat" href="/stripes/bgr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGR</span></a></div></li>
-<li><a class="count" href="/stripes/kgr/"><strong>KGR</strong> · 8 setts · 8 tartans</a><div class="samples"><a class="pat" href="/stripes/kgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGR</span></a></div></li>
-<li><a class="count" href="/stripes/bgk/"><strong>BGK</strong> · 7 setts · 6 tartans</a><div class="samples"><a class="pat" href="/stripes/bgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BGK</span></a></div></li>
+<li><a class="count" href="/stripes/kgr/"><strong>KGR</strong> · 8 setts · 7 tartans</a><div class="samples"><a class="pat" href="/stripes/kgr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">KGR</span></a></div></li>
+<li><a class="count" href="/stripes/bgk/"><strong>BGK</strong> · 7 setts · 7 tartans</a><div class="samples"><a class="pat" href="/stripes/bgk/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="seq">BGK</span></a></div></li>
 <li><a class="count" href="/stripes/kby/"><strong>KBY</strong> · 7 setts · 7 tartans</a><div class="samples"><a class="pat" href="/stripes/kby/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KBY</span></a></div></li>
-<li><a class="count" href="/stripes/brg/"><strong>BRG</strong> · 5 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/brg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRG</span></a></div></li>
+<li><a class="count" href="/stripes/brg/"><strong>BRG</strong> · 5 setts · 5 tartans</a><div class="samples"><a class="pat" href="/stripes/brg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BRG</span></a></div></li>
 <li><a class="count" href="/stripes/bgy/"><strong>BGY</strong> · 4 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/bgy/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">BGY</span></a></div></li>
 <li><a class="count" href="/stripes/gkr/"><strong>GKR</strong> · 4 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/gkr/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="seq">GKR</span></a></div></li>
 <li><a class="count" href="/stripes/kwr/"><strong>KWR</strong> · 4 setts · 4 tartans</a><div class="samples"><a class="pat" href="/stripes/kwr/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">KWR</span></a></div></li>
 <li><a class="count" href="/stripes/bkg/"><strong>BKG</strong> · 3 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/bkg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BKG</span></a></div></li>
-<li><a class="count" href="/stripes/gby/"><strong>GBY</strong> · 3 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gby/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GBY</span></a></div></li>
+<li><a class="count" href="/stripes/gby/"><strong>GBY</strong> · 3 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/gby/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GBY</span></a></div></li>
 <li><a class="count" href="/stripes/gry/"><strong>GRY</strong> · 3 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/gry/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GRY</span></a></div></li>
-<li><a class="count" href="/stripes/kgy/"><strong>KGY</strong> · 3 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/kgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KGY</span></a></div></li>
+<li><a class="count" href="/stripes/kgy/"><strong>KGY</strong> · 3 setts · 3 tartans</a><div class="samples"><a class="pat" href="/stripes/kgy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KGY</span></a></div></li>
 <li><a class="count" href="/stripes/rgr/"><strong>RGR</strong> · 3 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/rgr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">RGR</span></a></div></li>
 <li><a class="count" href="/stripes/bbb/"><strong>BBB</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/bbb/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="seq">BBB</span></a></div></li>
 <li><a class="count" href="/stripes/bbg/"><strong>BBG</strong> · 2 setts · 2 tartans</a><div class="samples"><a class="pat" href="/stripes/bbg/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="seq">BBG</span></a></div></li>
@@ -225,7 +225,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Glenmorangie Check Corporate Tartan Tartan Number: 1663. Earliest known date: 1988 Accredited by the Scottish Tartans Society in 1988. Glenmorangie is a well known malt whisky. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/dr1dr2r1~x10/) | house-of-tartan |
+| 0.14 | [Glenmorangie Check Corporate Tartan Tartan Number: 1663. Earliest known date: 1988 Accredited by the Scottish Tartans Society in 1988. Glenmorangie is a well known malt whisky. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s3/dr1dri2r1~x10/) | house-of-tartan |
 | 0.17 | [Stakis Hotels (Corporate)](/setts/s3/t9db14r1~x4/) | tartans-authority |
 
 ### BKR
@@ -334,7 +334,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [Masai Shuka 19 (Artefact)](/setts/s3/b10r10r3~x2/) | tartans-authority |
+| 0.08 | [Masai Shuka 19 (Artefact)](/setts/s3/b10r10ri3~x2/) | tartans-authority |
 
 ### BRW
 <a class="pat" href="/stripes/brw/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">BRW</span></a>
@@ -390,7 +390,7 @@ weight: 3
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Glenmorangie Check](/setts/s3/dy1dy2r1~x10/) | register-of-tartans |
+| 0.13 | [Glenmorangie Check](/setts/s3/dy1dyi2r1~x10/) | register-of-tartans |
 
 ### GGY
 <a class="pat" href="/stripes/ggy/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">GGY</span></a>

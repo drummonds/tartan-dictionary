@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNaughton Htg](/setts/s9/dg1r1dg22dy21dg12r11dg22r1dg1~x2/)|
-|![MacNaughton Htg example sett](/setts/s9/dg1r1dg22dy21dg12r11dg22r1dg1~x2/sett.png)|
+| [MacNaughton Htg](/setts/s9/dg1r1dgi22dy21dg12r11dgi22r1dg1~x2/)|
+|![MacNaughton Htg example sett](/setts/s9/dg1r1dgi22dy21dg12r11dgi22r1dg1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Florence (Fashion)](/setts/s13/o32dp8o1dp1w1o1w1o1o1dp1o1o4dp1~x4/)|
-|![Florence (Fashion) example sett](/setts/s13/o32dp8o1dp1w1o1w1o1o1dp1o1o4dp1~x4/sett.png)|
+| [Florence (Fashion)](/setts/s13/oii32dp8oii1dp1w1oii1w1o1oii1dp1oi1oii4dp1~x4/)|
+|![Florence (Fashion) example sett](/setts/s13/oii32dp8oii1dp1w1oii1w1o1oii1dp1oi1oii4dp1~x4/sett.png)|

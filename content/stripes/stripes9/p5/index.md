@@ -3,8 +3,57 @@ title: 9 stripes tartan setts (page 5)
 date: 2023-03-18
 weight: 9
 ---
-1,223 setts across 1,156 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+1,229 setts across 1,200 tartans with 9 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes9/p4/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <a href="/stripes/stripes9/p3/">3</a> <a href="/stripes/stripes9/p4/">4</a> <strong>5</strong> </nav>
+
+### WWBWBWKWY
+<a class="pat" href="/stripes/wwbwbwkwy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WWBWBWKWY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.11 | [Royal College of Midwives](/setts/s9/ly5lb3k1lb6n11lb3b3lb43w3~x2/) | register-of-tartans |
+
+### WWGKWKBWY
+<a class="pat" href="/stripes/wwgkwkbwy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WWGKWKBWY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Hek Family (Sunningdale, Berwick on Tweed)](/setts/s9/ly1lt2n15k2lt2k2g12w2lt1~x2/) | register-of-tartans |
+
+### WYBBBBBBY
+<a class="pat" href="/stripes/wybbbbbby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYBBBBBBY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Blue Knights, The](/setts/s9/w3lg15dbi6db2dbi1db2dbi1db21ly2~x2/) | register-of-tartans |
+
+### WYGKYKBKY
+<a class="pat" href="/stripes/wygkykbky/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYGKYKBKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.07 | [MacManus (Estimated threadcount)](/setts/s9/w3ly2g8k2ly3k2db15k1ly2~x4/) | register-of-tartans |
+
+### WYGYKYBGY
+<a class="pat" href="/stripes/wygykybgy/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYGYKYBGY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.14 | [State Seal of Kansas (Fashion)](/setts/s9/lo5g23b21loi30k10loi4g4loi16lb3~x2/) | tartans-authority |
+
+### WYGYKYBKY
+<a class="pat" href="/stripes/wygykybky/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYGYKYBKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [MacManus](/setts/s9/w3ly2g8ly2k3ly2n15k1ly2~x4/) | tartans-authority |
+
+### WYKWKWYKY
+<a class="pat" href="/stripes/wykwkwyky/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYKWKWYKY</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.13 | [Moonlight Glen (Fashion)](/setts/s9/w3lr1k3w10k10w6lr4k40lr3~x2/) | tartans-authority |
 
 ### WYWYBBYBY
 <a class="pat" href="/stripes/wywybbyby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WYWYBBYBY</span></a>
@@ -60,14 +109,14 @@ weight: 9
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.18 | [Highland Village](/setts/s9/ly2do1o10o12do10ly6o10do1ly2~x4/) | register-of-tartans |
+| 0.18 | [Highland Village](/setts/s9/ly2do1oi10o12do10ly6oi10do1ly2~x4/) | register-of-tartans |
 
 ### YBYBGBYWY
 <a class="pat" href="/stripes/ybybgbywy/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YBYBGBYWY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [WestJet](/setts/s9/ly3lb6lg20dt5g3dt15ly3dt3lg3~x2/) | register-of-tartans |
+| 0.14 | [WestJet](/setts/s9/lyi3lb6lg20dt5g3dt15ly3dt3lg3~x2/) | register-of-tartans |
 
 ### YGBBBBBWY
 <a class="pat" href="/stripes/ygbbbbbwy/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YGBBBBBWY</span></a>
@@ -144,14 +193,14 @@ weight: 9
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Arbroath Smokie](/setts/s9/lo1r45dt23w1dt6r2lo1r2lo1~x2/) | register-of-tartans |
+| 0.11 | [Arbroath Smokie](/setts/s9/lo1ri45dt23w1dt6r2lo1r2lo1~x2/) | register-of-tartans |
 
 ### YRRRRYRRY
 <a class="pat" href="/stripes/yrrrryrry/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YRRRRYRRY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Unidentified, Sett](/setts/s9/lr2o1r10o12o10lr6r10o1lr2~x2/) | weddslist |
+| 0.13 | [Unidentified, Sett](/setts/s9/lr2oi1r10o12oi10lr6r10oi1lr2~x2/) | weddslist |
 
 ### YRYRYYYYY
 <a class="pat" href="/stripes/yryryyyyy/"><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">YRYRYYYYY</span></a>
@@ -165,6 +214,6 @@ weight: 9
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Wedding Day (Fashion)](/setts/s9/lo4w1dp48r2r3r2dp3w1lo4~x2/) | tartans-authority |
+| 0.11 | [Wedding Day (Fashion)](/setts/s9/lo4w1dp48r2ri3r2dp3w1lo4~x2/) | tartans-authority |
 
 <nav class="pager"><a href="/stripes/stripes9/p4/">‹ prev</a> <a href="/stripes/stripes9/">1</a> <a href="/stripes/stripes9/p2/">2</a> <a href="/stripes/stripes9/p3/">3</a> <a href="/stripes/stripes9/p4/">4</a> <strong>5</strong> </nav>

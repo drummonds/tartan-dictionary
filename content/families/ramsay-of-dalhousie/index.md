@@ -2,7 +2,7 @@
 title: "Ramsay of Dalhousie"
 date: 2023-03-18
 ---
-A family of [Clan Ramsay](/clan/ramsay/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Dalhousie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dalhousie&viewmode=grid)
 

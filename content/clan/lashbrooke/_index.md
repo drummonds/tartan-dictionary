@@ -1,8 +1,5 @@
 ---
 title: "Clan Lashbrooke"
-date: 2023-03-18
+redirect: "/families/lashbrooke-of-barrowfield/"
 ---
-## Families
-
-- [Lashbrooke of Barrowfield](/families/lashbrooke-of-barrowfield/)
-
+Clan Lashbrooke is recorded as the single family [Lashbrooke of Barrowfield](/families/lashbrooke-of-barrowfield/) — redirecting there.

@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Culloden Worn by Pr Charles](/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/)|
-|![Culloden Worn by Pr Charles example sett](/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dy50w2~x2/sett.png)|
+| [Culloden Worn by Pr Charles](/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dyi50w2~x2/)|
+|![Culloden Worn by Pr Charles example sett](/setts/s15/b17dg15ly5w2dg8dp6w2db8dy32r18w2r8w2dyi50w2~x2/sett.png)|

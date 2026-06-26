@@ -2,7 +2,7 @@
 title: "Fuller of Hopewell"
 date: 2023-03-18
 ---
-A family of [Clan Fuller](/clan/fuller/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Hopewell”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Hopewell&viewmode=grid)
 

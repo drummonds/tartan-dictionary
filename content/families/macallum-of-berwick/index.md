@@ -2,7 +2,7 @@
 title: "MacAllum of Berwick"
 date: 2023-03-18
 ---
-A family of [Clan MacAllum](/clan/macallum/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Berwick”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Berwick&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dundee Pink Variation](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/)|
-|![Dundee Pink Variation example sett](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lb7lb2dp6lb6~x2/sett.png)|
+| [Dundee Pink Variation](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lbi7lb2dp6lb6~x2/)|
+|![Dundee Pink Variation example sett](/setts/s14/m42r2k15r2dg22lo4lb2dp2lb2lo4lbi7lb2dp6lb6~x2/sett.png)|

@@ -12,9 +12,9 @@ background: /bg/clans.png
 - [Kelly](/clan/kelly/) — clan
 - [Kelly of Sleat](/families/kelly-of-sleat/)
 - [Kendle](/setts/s6/r5db58lb4t6ly4k4~x2/)
-- [Kennedy Dress](/setts/s32/g12b3k2b3k2b3k2b3w12dp2g2dp2w4g2w4k2w4g2w4dp2g2dp2w12b3k2b3k2b3k2b3g12r3~x2/)
-- [Keogh](/setts/s10/r4b18r4t3r4k12r3b24k2ly3~x2/)
-- [Keogh Hunting](/setts/s13/g11dg1g1dg1g1dg8g8dg1g8dg8g8g1g1~x4/)
+- [Kennedy Dress](/setts/s32/gi12b3k2b3k2b3k2b3w12dp2gi2dp2w4g2w4k2w4g2w4dp2gi2dp2w12b3k2b3k2b3k2b3gi12r3~x2/)
+- [Keogh](/setts/s8/g29k4gi6lo4gi28loi28k1lb5~x2/)
+- [Keogh Hunting](/setts/s13/gi11dg1gi1dg1gi1dg8g8dgi1g8dg8gi8g1gi1~x4/)
 - [Kerr](/clan/kerr/) — clan
 - [Kerr of Ardgowan](/families/kerr-of-ardgowan/)
 - [Kerr of Ardgowan Arisaid](/families/kerr-of-ardgowan-arisaid/)
@@ -23,7 +23,7 @@ background: /bg/clans.png
 ## Ki
 
 - [Kieck](/setts/s13/t6k2w3k2t6k4lb9k2r2k46lb2k2t6~x2/)
-- [Kildrummie](/setts/s7/db8ly4w2b25o25db2r5~x2/)
+- [Kildrummie](/setts/s7/dt8ly4w2db25dy25dbi2r5~x2/)
 - [Killin](/setts/s15/w2r20k4r9k26r2k6r2k26r4k4r4k4r18lo2~x2/)
 - [Kincaid](/clan/kincaid/) — clan
 - [Kincaid of Kincaid](/families/kincaid-of-kincaid/)
@@ -32,7 +32,7 @@ background: /bg/clans.png
 
 ## Kn
 
-- [Knox #1](/setts/s24/db10lb3lb2lo2db18db3lo2lo4db18db13lb2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/)
+- [Knox #1](/setts/s24/db10lbi3lb2lo2db18db3lo2lo4db18db13lbi2lo2r11dt12lo2dp2g2g13r2lo4g4g3k2lb10~x2/)
 
 ## Kr
 

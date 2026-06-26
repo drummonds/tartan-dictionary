@@ -3,25 +3,25 @@ title: "Families & clans — L"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-80 clans and families beginning with L. [Back to the A–Z](/families/).
+83 clans and families beginning with L. [Back to the A–Z](/families/).
 
 ## La
 
 - [Laing](/clan/laing/) — clan
 - [Laing of Archiestown](/families/laing-of-archiestown/)
 - [Laing of Archiestown Clan/Family](/families/laing-of-archiestown-clan-family/)
-- [Laird](/setts/s9/k53g5k5dp13db5dp5db5dp5k5~x2/)
+- [Laird](/setts/s9/k75g2k4dp10db1dp4db1dp4k4~x2/)
 - [Lambert Dark Night](/setts/s14/k34dg10k5r2k8o2w3o2k8r2k5dg10k28t3~x2/)
 - [Lambert Dress](/setts/s14/t34dg10t5r2k8o2w3o2k8r2t5dg10t28k3~x2/)
 - [Lambert Greer](/setts/s8/k3r34dg10r5t2k8o2w3~x2/)
 - [Lambert Hunting](/setts/s14/o34dg10o5r2k8t2w3t2k8r2o5dg10o28k3~x2/)
 - [Lambert Kai](/setts/s8/k3dg34t10dg5r2k8o2w3~x2/)
 - [Lamont](/setts/s25/db9k3db3k3db3k12g12w3g12k12db12k3db3k3db12k12g12w3g12k12db3k3db3k3db5~x4/)
-- [Lamquet](/setts/s22/db16k16g2db2g2db2g16db2g2db2g2db16ly8k2db2k2ly8k16db16k2r5k2~x2/)
-- [Lander](/setts/s15/lo18do3lo3do3lo3do16y16r2ly2r2y16do16lo17do3lo3~x2/)
+- [Lamquet](/setts/s22/dt16k16dg2k2dg2k2dg16k2dg2k2dg2k16ly8k2dt2k2ly8k16dt16k2r5k2~x2/)
+- [Lander](/setts/s15/k18dy3k3dy3k3dy16dg16r1ly1r1dg16dy16k17dy3k3~x2/)
 - [Lang](/clan/lang/) — clan
 - [Lang of Sherbrooke](/families/lang-of-sherbrooke/)
-- [Langerman](/setts/s16/db1y2db1y3dg6db1y6db2r5r13do23r1do1r1do2r1~x2/)
+- [Langerman](/setts/s16/db1y2db1y3dg6db1y6db2r5ri13do23r1do1r1do2r1~x2/)
 - [Langermann](/setts/s16/dt1y2dt1y3g6dt1y6dt2lo5r13dy23lo1dy1lo1dy2lo1~x2/)
 - [Lapsley, The Tom](/setts/s8/db35g10t10k10db23ly1db3r2~x2/)
 - [Lashbrooke](/clan/lashbrooke/) — clan
@@ -32,7 +32,7 @@ background: /bg/clans.png
 - [Lawrence](/clan/lawrence/) — clan
 - [Lawrence of Broughty Ferry](/families/lawrence-of-broughty-ferry/)
 - [Lawrence of Broughty Ferry (Corporat](/families/lawrence-of-broughty-ferry-corporat/)
-- [Layton](/setts/s8/g4r3g24k1w7k1g24ly3~x2/)
+- [Layton](/setts/s8/gi4r3gi24k1w7k1g24ly3~x2/)
 
 ## Le
 
@@ -57,9 +57,11 @@ background: /bg/clans.png
 ## Li
 
 - [Liddell](/setts/s11/w2k1t22r1t3r1t8k22ly2k3ly2~x2/)
+- [Lieuwen](/setts/s11/dp10db1dp2db1lg1db1lg2lp2lg1k1ly2~x10/)
 - [Lindley-Highfield](/setts/s7/dg7dp3w1g2dg1r2dp1~x8/)
+- [Lindley-Highfield of Ballumbie Castle](/setts/s7/g7p3w1lg2g1lp2p1~x8/)
 - [Lindsay Dress](/setts/s9/w29db2w2db2w2db14m31db2m3~x2/)
-- [Lister](/setts/s7/dy8lr29dy8lo3dy8lr8lo3~x2/)
+- [Lister](/setts/s7/dy8o29dy8ly3dy8o8ly3~x2/)
 - [Little](/clan/little/) — clan
 - [Little of Morton Rig](/families/little-of-morton-rig/)
 - [Little of Morton Rig Family/Clan](/families/little-of-morton-rig-family-clan/)
@@ -74,8 +76,8 @@ background: /bg/clans.png
 
 - [Llewellen](/clan/llewellen/) — clan
 - [Llewellen of Wales](/families/llewellen-of-wales/)
-- [Lloyd](/clan/lloyd/) — clan
-- [Lloyd of Astargus](/families/lloyd-of-astargus/)
+- [LLoyd](/clan/lloyd/) — clan
+- [LLoyd of Astargus](/families/lloyd-of-astargus/)
 - [Lloyd of Dolobran](/families/lloyd-of-dolobran/)
 
 ## Lo
@@ -83,7 +85,7 @@ background: /bg/clans.png
 - [Lochcarron](/clan/lochcarron/) — clan
 - [Lochcarron of Scotland](/families/lochcarron-of-scotland/)
 - [Lochcarron of Scotland Diamond Jubilee](/families/lochcarron-of-scotland-diamond-jubilee/)
-- [Lock in Northumberland](/setts/s8/dr90k1k2t10k5r2k2t2~x2/)
+- [Lock in Northumberland](/setts/s8/ri90lr1k2lb10k5r2lr2lb2~x2/)
 - [Locky](/setts/s10/r3w2r2db2r2db24k28r2k3ly1~x2/)
 - [Logan](/setts/s21/r10db6r3db3r3db28k22g28r2k2ly4k2r2g28k22db28r3db3r3db6r5~x2/)
 - [Logan Rogers](/setts/s10/db2r2db2w1db8k8dg8r2dg2ly2~x2/)
@@ -94,12 +96,13 @@ background: /bg/clans.png
 - [Lopez-Gasparotto](/setts/s7/r1o5k5db1k1db6ly1~x8/)
 - [Louise](/clan/louise/) — clan
 - [Louise of Lorne](/families/louise-of-lorne/)
-- [Lovell](/setts/s8/lo2k2db14db4k5r2lo5r1~x4/)
+- [Lovell](/setts/s8/ly2k2dbi14db4k5r2ly5r1~x4/)
 
 ## Lu
 
 - [Lugo](/setts/s4/r10dg4lo1~x8/)
-- [Lumsden,](/clan/lumsden/) — clan
-- [Lumsden, of Clova](/families/lumsden-of-clova/)
+- [Lumsden](/clan/lumsden/) — clan
+- [Lumsden of Clova](/families/lumsden-of-clova/)
+- [Lumsden of Kintore](/families/lumsden-of-kintore/)
 - [Lundie](/setts/s21/r4b2dt5y2dt2y2dt2y13dt2y2dt2y2dt5lo2dt3w2y6r5b3dt4w2~x2/)
 

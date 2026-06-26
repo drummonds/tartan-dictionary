@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Boy, The (Fashion)](/setts/s7/db1g7db7db2w6db1w1~x4/)|
-|![Blue Boy, The (Fashion) example sett](/setts/s7/db1g7db7db2w6db1w1~x4/sett.png)|
+| [Blue Boy, The (Fashion)](/setts/s7/dbi1g7dbi7db2w6dbi1w1~x4/)|
+|![Blue Boy, The (Fashion) example sett](/setts/s7/dbi1g7dbi7db2w6dbi1w1~x4/sett.png)|

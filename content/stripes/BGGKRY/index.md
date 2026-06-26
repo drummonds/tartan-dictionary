@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Zimmermann, Martin (Personal)](/setts/s6/db3dg19dg29k11r4ly2~x2/)|
-|![Zimmermann, Martin (Personal) example sett](/setts/s6/db3dg19dg29k11r4ly2~x2/sett.png)|
+| [Zimmermann, Martin (Personal)](/setts/s6/db3dgi19dg29k11r4ly2~x2/)|
+|![Zimmermann, Martin (Personal) example sett](/setts/s6/db3dgi19dg29k11r4ly2~x2/sett.png)|

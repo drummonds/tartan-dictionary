@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh and Lothian Tourist Board](/setts/s7/k40db8o3db6k3db6r4~x2/)|
-|![Edinburgh and Lothian Tourist Board example sett](/setts/s7/k40db8o3db6k3db6r4~x2/sett.png)|
+| [Edinburgh and Lothian Tourist Board](/setts/s7/k40db8o3db6ki3db6r4~x2/)|
+|![Edinburgh and Lothian Tourist Board example sett](/setts/s7/k40db8o3db6ki3db6r4~x2/sett.png)|

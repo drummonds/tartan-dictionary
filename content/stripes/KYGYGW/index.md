@@ -24,5 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shepherd, Derek (Piping)](/setts/s6/k5ly2dy7ly18dy2w2~x4/)|
-|![Shepherd, Derek (Piping) example sett](/setts/s6/k5ly2dy7ly18dy2w2~x4/sett.png)|
+| [Shepherd Piping (Personal)](/setts/s6/k5lyi2dy7ly18dy2w2~x4/)|
+|![Shepherd Piping (Personal) example sett](/setts/s6/k5lyi2dy7ly18dy2w2~x4/sett.png)|
+| [Shepherd, Derek (Piping)](/setts/s6/k5ly2dy7lyi18dy2w2~x4/)|
+|![Shepherd, Derek (Piping) example sett](/setts/s6/k5ly2dy7lyi18dy2w2~x4/sett.png)|

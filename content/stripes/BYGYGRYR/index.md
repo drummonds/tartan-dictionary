@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Alegre-Wood (Personal)](/setts/s8/r80lo2r6dy12lo1dy1lo2b2~x2/)|
-|![Alegre-Wood (Personal) example sett](/setts/s8/r80lo2r6dy12lo1dy1lo2b2~x2/sett.png)|
+| [Alegre-Wood (Personal)](/setts/s8/r80lo2r6dy12loi1dy1loi2b2~x2/)|
+|![Alegre-Wood (Personal) example sett](/setts/s8/r80lo2r6dy12loi1dy1loi2b2~x2/sett.png)|

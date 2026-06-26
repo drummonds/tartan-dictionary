@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11078/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11078](https://www.tartanregister.gov.uk/tartanDetails?ref=11078)
+- Scottish Tartans Authority (ITI): 11078
+
 ## Thread count
 B/60 G9 R7 Y12 G33 Y33 B/26
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3w25g16w3n25w3~x2/"><circle cx="180.6" cy="199.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s7/lb47g6b13dy20g6b6g28~x2/"><circle cx="165.9" cy="213.9" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/setts/s6/b2g13b11y4w9b2~x2/"><circle cx="131.5" cy="233.2" r="4" fill="#3465a4"><title>Loch Leven</title></circle></a><a href="/setts/s6/r3w8db4g14r4db2~x2/"><circle cx="151.1" cy="216.1" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/setts/s8/p26g6k8g3k8g30w3g3~x2/"><circle cx="223.9" cy="178.7" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/setts/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><circle cx="224.2" cy="184.8" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="215.1" cy="178.4" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.9" cy="189.6" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="115.3" cy="187.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s4/p6lg15g15w2~x2/"><circle cx="162.8" cy="245.3" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><circle cx="208.7" cy="216.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/k3w25g16w3n25w3~x2/"><circle cx="179.9" cy="200.4" r="4" fill="#3465a4"><title>Birnham, Blue (Dance)</title></circle></a><a href="/setts/s7/lb47g6b13dy20g6b6g28~x2/"><circle cx="165.6" cy="215.0" r="4" fill="#3465a4"><title>State Seal of North Carolina (Fash.)</title></circle></a><a href="/setts/s6/b2g13b11y4w9b2~x2/"><circle cx="131.2" cy="234.4" r="4" fill="#3465a4"><title>Loch Leven</title></circle></a><a href="/setts/s6/r3w8db4g14r4db2~x2/"><circle cx="150.5" cy="217.3" r="4" fill="#3465a4"><title>MacIntosh, dress</title></circle></a><a href="/setts/s8/p26g6k8g3k8g30w3g3~x2/"><circle cx="223.2" cy="179.6" r="4" fill="#3465a4"><title>Riley (Personal)</title></circle></a><a href="/setts/s8/r1dg1lp1lb7dg7lp1dg1lp1~x6/"><circle cx="223.5" cy="185.6" r="4" fill="#3465a4"><title>Beck-McSorley</title></circle></a><a href="/setts/s10/ly14db5g25db5w2g11db7w5g6ly5~x2/"><circle cx="214.5" cy="179.2" r="4" fill="#3465a4"><title>Kerry County Crest (Fashion)</title></circle></a><a href="/setts/s7/w5r3w26g21w3g8ly3~x2/"><circle cx="262.0" cy="190.4" r="4" fill="#3465a4"><title>MacPherson Dress Blue (Dance) #2</title></circle></a><a href="/setts/s9/g8r1g4dy2w4t3w1t3w4~x8/"><circle cx="114.7" cy="188.9" r="4" fill="#3465a4"><title>Gaelic College of St.Anns</title></circle></a><a href="/setts/s4/p6lg15g15w2~x2/"><circle cx="162.2" cy="246.5" r="4" fill="#3465a4"><title>Thistle and Kudzu Scottish Society</title></circle></a><circle cx="208.1" cy="217.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/t60g9r7ly12g33ly33t26/

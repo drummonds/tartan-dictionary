@@ -2,7 +2,7 @@
 title: "Daughter of Mull"
 date: 2023-03-18
 ---
-A family of [Clan Daughter](/clan/daughter/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Mull”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Mull&viewmode=grid)
 

@@ -1,8 +1,5 @@
 ---
 title: "Clan Carson"
-date: 2023-03-18
+redirect: "/families/carson-of-rusco/"
 ---
-## Families
-
-- [Carson of Rusco](/families/carson-of-rusco/)
-
+Clan Carson is recorded as the single family [Carson of Rusco](/families/carson-of-rusco/) — redirecting there.

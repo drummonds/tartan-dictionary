@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Beatrice, Princess.. (hunting)](/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/)|
-|![Beatrice, Princess.. (hunting) example sett](/setts/s14/g10g5g5g5g60g13g10db67g5k5g5k5g13ly10/sett.png)|
+| [Beatrice, Princess.. (hunting)](/setts/s14/gi10gi5g5gi5g60gi13g10db67g5k5g5k5g13ly10/)|
+|![Beatrice, Princess.. (hunting) example sett](/setts/s14/gi10gi5g5gi5g60gi13g10db67g5k5g5k5g13ly10/sett.png)|

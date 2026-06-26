@@ -24,6 +24,12 @@ This cloth is also recorded under:
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1231
+
 ## Thread count
 K/72 W8 K12 W2 K2 W2 K2 W16 K8 W2 K/12
 ![Sett](sett.png)
@@ -39,8 +45,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="480.8" cy="137.5" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.3" cy="148.0" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="530.8" cy="120.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="528.5" cy="131.9" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="614.4" cy="94.2" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="479.5" cy="149.5" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="526.3" cy="141.9" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="534.4" cy="71.1" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="527.6" cy="81.6" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="452.1" cy="140.1" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><circle cx="537.2" cy="125.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/k43w4k6w2k3w2k3w9k5w3k3w3~x2/"><circle cx="479.8" cy="138.0" r="4" fill="#3465a4"><title>Stuart/Stewart Mourning</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="547.2" cy="148.4" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="529.6" cy="120.4" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s8/k44r2w10r3k6r1w2k18~x2/"><circle cx="527.3" cy="132.2" r="4" fill="#3465a4"><title>Mull Rugby Club</title></circle></a><a href="/setts/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/"><circle cx="613.1" cy="94.2" r="4" fill="#3465a4"><title>Heolnezva ha Materi (Fashion)</title></circle></a><a href="/setts/s8/k32w4k2w4k4w2k1w6~x2/"><circle cx="478.5" cy="150.2" r="4" fill="#3465a4"><title>Menzies</title></circle></a><a href="/setts/s8/k20w1k1w3k1r1k1w1~x4/"><circle cx="525.2" cy="142.4" r="4" fill="#3465a4"><title>Volkswagen Black Trim (Fashion)</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="533.2" cy="71.2" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="526.4" cy="81.7" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/setts/s8/k36w4k3w4k6w2k1w12~x4/"><circle cx="450.9" cy="140.7" r="4" fill="#3465a4"><title>Menzies (1938)</title></circle></a><circle cx="536.0" cy="125.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/

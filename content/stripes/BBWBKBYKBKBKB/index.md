@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Silverton Family (Basingstoke)](/setts/s13/db4t1w1t1k29db3ly1k4db20k2db1k3db3~x2/)|
-|![Silverton Family (Basingstoke) example sett](/setts/s13/db4t1w1t1k29db3ly1k4db20k2db1k3db3~x2/sett.png)|
+| [Silverton Family (Basingstoke)](/setts/s13/dbi4t1w1t1k29dbi3ly1k4dbi20k2db1k3dbi3~x2/)|
+|![Silverton Family (Basingstoke) example sett](/setts/s13/dbi4t1w1t1k29dbi3ly1k4dbi20k2db1k3dbi3~x2/sett.png)|

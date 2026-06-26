@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacPherson Dress Red](/setts/s7/w4r2w25r21w3r8ly3~x2/)|
-|![MacPherson Dress Red example sett](/setts/s7/w4r2w25r21w3r8ly3~x2/sett.png)|
+| [MacPherson Dress Red](/setts/s7/w4ri2w25r21w3r8ly3~x2/)|
+|![MacPherson Dress Red example sett](/setts/s7/w4ri2w25r21w3r8ly3~x2/sett.png)|

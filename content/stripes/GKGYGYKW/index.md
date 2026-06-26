@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Keogh (Name?)](/setts/s8/g29k4g6lo4g28lo28k1lb5~x2/)|
-|![Keogh (Name?) example sett](/setts/s8/g29k4g6lo4g28lo28k1lb5~x2/sett.png)|
+| [Keogh (Name?)](/setts/s8/g29k4gi6lo4gi28loi28k1lb5~x2/)|
+|![Keogh (Name?) example sett](/setts/s8/g29k4gi6lo4gi28loi28k1lb5~x2/sett.png)|

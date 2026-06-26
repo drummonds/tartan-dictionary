@@ -2,7 +2,7 @@
 title: "Kincaid of Kincaid"
 date: 2023-03-18
 ---
-A family of [Clan Kincaid](/clan/kincaid/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Kincaid”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Kincaid&viewmode=grid)
 

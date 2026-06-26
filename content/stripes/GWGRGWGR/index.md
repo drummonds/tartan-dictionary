@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNab WI1](/setts/s8/r24dg2lb1dg1r24/)|
-|![MacNab WI1 example sett](/setts/s8/r24dg2lb1dg1r24/sett.png)|
+| [MacNab WI1](/setts/s8/r24dg2lb1dg1ri24/)|
+|![MacNab WI1 example sett](/setts/s8/r24dg2lb1dg1ri24/sett.png)|

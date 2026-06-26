@@ -8,13 +8,12 @@ A family of [Clan Stewart](/clan/stewart/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s14/dg6r2dg2r18db9r3dg3r3db9r3dg24r2dg2r4~x2/"><img src="/setts/s14/dg6r2dg2r18db9r3dg3r3db9r3dg24r2dg2r4~x2/sett.png" alt="Stuart/Stewart of Urrard" width="240"><br>Stuart/Stewart of Urrard</a>
+<a class="tartan" href="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><img src="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png" alt="Stewart of Urrard (Clan?)" width="240"><br>Stewart of Urrard (Clan?)</a>
 
 ## Other tartans
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><img src="/setts/s26/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png" alt="Stewart of Killiecrankie" width="140"><br>Stewart of Killiecrankie</a></li>
 <li><a class="tartan" href="/setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/"><img src="/setts/s14/g6r2g2r18db9r3g3r3db9r3g24r2g2r4~x2/sett.png" alt="Stewart of Urrard" width="140"><br>Stewart of Urrard</a></li>
-<li><a class="tartan" href="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/"><img src="/setts/s14/g6r2g2r18dp9r3g3r3dp9r3g24r2g2r4~x2/sett.png" alt="Stewart of Urrard (Clan?)" width="140"><br>Stewart of Urrard (Clan?)</a></li>
 </ul>
 

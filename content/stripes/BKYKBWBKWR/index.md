@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ambulance Victoria](/setts/s10/db73k9ly3k5db13w3t7k5w7r16/)|
-|![Ambulance Victoria example sett](/setts/s10/db73k9ly3k5db13w3t7k5w7r16/sett.png)|
-| [Ambulance Victoria (Corporate)](/setts/s10/b73k9lo3k5b13w3t7k5w7r16/)|
-|![Ambulance Victoria (Corporate) example sett](/setts/s10/b73k9lo3k5b13w3t7k5w7r16/sett.png)|
+| [Ambulance Victoria](/setts/s10/db73k9ly3k5dbi13w3t7k5w7r16/)|
+|![Ambulance Victoria example sett](/setts/s10/db73k9ly3k5dbi13w3t7k5w7r16/sett.png)|
+| [Ambulance Victoria (Corporate)](/setts/s10/b73k9lo3k5bi13w3t7k5w7r16/)|
+|![Ambulance Victoria (Corporate) example sett](/setts/s10/b73k9lo3k5bi13w3t7k5w7r16/sett.png)|

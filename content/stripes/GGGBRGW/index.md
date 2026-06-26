@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Nicolson of Taransay (Personal)](/setts/s7/w6g10r22db16g2g4g5~x2/)|
-|![Nicolson of Taransay (Personal) example sett](/setts/s7/w6g10r22db16g2g4g5~x2/sett.png)|
+| [Nicolson of Taransay (Personal)](/setts/s7/w6gi10r22db16g2g4g5~x2/)|
+|![Nicolson of Taransay (Personal) example sett](/setts/s7/w6gi10r22db16g2g4g5~x2/sett.png)|

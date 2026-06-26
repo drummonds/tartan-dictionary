@@ -24,8 +24,8 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hughes](/setts/s7/dg20dg14db9ly2db9k1w2~x4/)|
-|![Hughes example sett](/setts/s7/dg20dg14db9ly2db9k1w2~x4/sett.png)|
+| [Hughes](/setts/s7/dgi20dg14db9ly2db9k1w2~x4/)|
+|![Hughes example sett](/setts/s7/dgi20dg14db9ly2db9k1w2~x4/sett.png)|
 | [Hughes](/setts/s7/g20dg14db9ly2db9k1w2~x4/)|
 |![Hughes example sett](/setts/s7/g20dg14db9ly2db9k1w2~x4/sett.png)|
 | [Hughes (Inverbervie) (Personal)](/setts/s7/g36dg24b18ly4b18k2w5~x2/)|

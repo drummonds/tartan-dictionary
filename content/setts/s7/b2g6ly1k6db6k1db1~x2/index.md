@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Hogarth, of Firhill
-
 ## Thread count
 B/4 G12 Y2 K12 Ba12 K2 Ba/2
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.9" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.4" cy="223.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/w3db14k12g12k2ly3~x2/"><circle cx="78.0" cy="212.1" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.8" cy="192.2" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/r2db8k8w1g8k1~x2/"><circle cx="107.6" cy="206.5" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.7" cy="199.0" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><a href="/setts/s7/r4g16k16db4g3db12ly2~x2/"><circle cx="109.6" cy="200.9" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/setts/s8/db4lg2db10k12dg10lb3dg2lb4~x2/"><circle cx="58.2" cy="210.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s6/r1k1g6k6db6lb1~x4/"><circle cx="103.0" cy="222.6" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="83.2" cy="209.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.8" cy="218.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.3" cy="225.4" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/w3db14k12g12k2ly3~x2/"><circle cx="77.8" cy="213.5" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s7/r2g8w1k8db8k1db1~x4/"><circle cx="110.6" cy="193.5" r="4" fill="#3465a4"><title>Colquhoun</title></circle></a><a href="/setts/s6/r2db8k8w1g8k1~x2/"><circle cx="107.5" cy="207.9" r="4" fill="#3465a4"><title>Leslie, hunting</title></circle></a><a href="/setts/s7/g17ly2k14r2db9r2db10~x2/"><circle cx="116.5" cy="200.3" r="4" fill="#3465a4"><title>MacDonald, (Flora.. )</title></circle></a><a href="/setts/s7/r4g16k16db4g3db12ly2~x2/"><circle cx="109.4" cy="202.2" r="4" fill="#3465a4"><title>Junior Chamber International</title></circle></a><a href="/setts/s8/db4lg2db10k12dg10lb3dg2lb4~x2/"><circle cx="58.2" cy="212.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s6/r1k1g6k6db6lb1~x4/"><circle cx="103.1" cy="224.2" r="4" fill="#3465a4"><title>Gaines Center for the Humanities</title></circle></a><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.6" cy="220.7" r="4" fill="#3465a4"><title>Cooke</title></circle></a><circle cx="83.1" cy="211.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/b2g6ly1k6db6k1db1~x2/

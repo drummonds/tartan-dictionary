@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [ShadowHalls](/setts/s15/dt1dt8k8dt8dg1dt4k11dt1k1dt1k1dt1k11dt4dt1~x4/)|
-|![ShadowHalls example sett](/setts/s15/dt1dt8k8dt8dg1dt4k11dt1k1dt1k1dt1k11dt4dt1~x4/sett.png)|
+| [ShadowHalls](/setts/s15/dti1dt4k11dt1k1dt1k1dti1k11dtii4dg1dtii8k8dt8dtii1~x4/)|
+|![ShadowHalls example sett](/setts/s15/dti1dt4k11dt1k1dt1k1dti1k11dtii4dg1dtii8k8dt8dtii1~x4/sett.png)|

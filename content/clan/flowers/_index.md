@@ -1,8 +1,5 @@
 ---
 title: "Clan Flowers"
-date: 2023-03-18
+redirect: "/families/flowers-of-the-forest-the/"
 ---
-## Families
-
-- [Flowers of the Forest, The](/families/flowers-of-the-forest-the/)
-
+Clan Flowers is recorded as the single family [Flowers of the Forest, The](/families/flowers-of-the-forest-the/) — redirecting there.

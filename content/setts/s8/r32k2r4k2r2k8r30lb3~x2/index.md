@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2073/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2073
+
 ## Thread count
 DR/64 K4 DR8 K4 DR4 K16 DR60 N/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/"><circle cx="534.5" cy="148.8" r="4" fill="#3465a4"><title>Chicago, University of</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="507.9" cy="156.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="488.6" cy="155.4" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="508.5" cy="180.1" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="549.4" cy="195.6" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="491.9" cy="143.1" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="547.0" cy="133.1" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/setts/s5/dr27w3dr6w2g3~x4/"><circle cx="517.8" cy="192.9" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/setts/s5/r75k15r4k15r4~x2/"><circle cx="539.8" cy="193.4" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><circle cx="564.6" cy="175.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r30k8r2k2r4k2r32k2r4k2r2k8r30lb3~x2/"><circle cx="533.1" cy="149.2" r="4" fill="#3465a4"><title>Chicago, University of</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2~x2/"><circle cx="506.4" cy="156.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lr2/"><circle cx="506.4" cy="156.9" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s7/r18g1k5g1k1g1r9~x2/"><circle cx="486.9" cy="156.0" r="4" fill="#3465a4"><title>Duke of Sussex</title></circle></a><a href="/setts/s7/m18g1k5g1k1g1m9~x2/"><circle cx="507.3" cy="180.7" r="4" fill="#3465a4"><title>Inverness, Augustus</title></circle></a><a href="/setts/s5/r27w3r6w2dg3~x4/"><circle cx="547.8" cy="196.1" r="4" fill="#3465a4"><title>Martin, Robert N (Personal)</title></circle></a><a href="/setts/s9/dg2r28db6r5db2r2db2r11lb2/"><circle cx="490.3" cy="143.5" r="4" fill="#3465a4"><title>Rose</title></circle></a><a href="/setts/s9/k2r35db6r5db2r2db2r14w2~x2/"><circle cx="545.2" cy="133.3" r="4" fill="#3465a4"><title>Rose of Kilravock (Personal)</title></circle></a><a href="/setts/s5/dr27w3dr6w2g3~x4/"><circle cx="516.4" cy="193.6" r="4" fill="#3465a4"><title>Martin Family, Robert N (Personal)</title></circle></a><a href="/setts/s5/r75k15r4k15r4~x2/"><circle cx="538.1" cy="194.0" r="4" fill="#3465a4"><title>Masai Shuka 07 (Artefact)</title></circle></a><circle cx="563.1" cy="175.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/r32k2r4k2r2k8r30lb3~x2/

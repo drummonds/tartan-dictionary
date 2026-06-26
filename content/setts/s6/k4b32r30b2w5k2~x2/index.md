@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7277/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7277
+
 ## Thread count
 K/8 B64 R60 B4 LN10 K/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="277.4" cy="178.6" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="308.4" cy="166.9" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="280.6" cy="194.5" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="329.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s9/db16w2db3ly4db3w2db10r35db4~x2/"><circle cx="301.5" cy="134.6" r="4" fill="#3465a4"><title>Mercer Personal Tartan Tartan Number: 3019. Earliest known date: 2004 Sent to House of Tartan by the owner. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="291.6" cy="154.1" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s9/db24w3db4ly6db4w3db15r52db6/"><circle cx="296.7" cy="132.2" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.9" cy="181.2" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s5/db30w4lo1w4r30~x4/"><circle cx="301.6" cy="150.5" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/setts/s6/db9r1db2r1r4w1~x12/"><circle cx="285.6" cy="201.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><circle cx="284.9" cy="162.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/g3r2db22r22db2w3~x2/"><circle cx="276.5" cy="179.6" r="4" fill="#3465a4"><title>Galloway Red</title></circle></a><a href="/setts/s6/dg2r1db16r16db1ly2~x2/"><circle cx="307.5" cy="167.7" r="4" fill="#3465a4"><title>Galloway Dress (Yellow Line)</title></circle></a><a href="/setts/s5/ly3dg8o20dp30ly2~x2/"><circle cx="279.8" cy="195.4" r="4" fill="#3465a4"><title>Wicks (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x4/"><circle cx="328.3" cy="183.0" r="4" fill="#3465a4"><title>Robinson Dress (Pendleton) #1</title></circle></a><a href="/setts/s9/db16w2db3ly4db3w2db10r35db4~x2/"><circle cx="300.6" cy="135.3" r="4" fill="#3465a4"><title>Mercer Personal Tartan Tartan Number: 3019. Earliest known date: 2004 Sent to House of Tartan by the owner. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s7/r15n3w10n7dp40w3dp6~x2/"><circle cx="290.5" cy="155.0" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s9/db24w3db4ly6db4w3db15r52db6/"><circle cx="295.7" cy="133.0" r="4" fill="#3465a4"><title>Mercer, James (Personal)</title></circle></a><a href="/setts/s6/k1r7k1r7db16g1~x2/"><circle cx="324.1" cy="182.1" r="4" fill="#3465a4"><title>Robinson, dress</title></circle></a><a href="/setts/s5/db30w4lo1w4r30~x4/"><circle cx="300.6" cy="151.3" r="4" fill="#3465a4"><title>Philippine Heritage</title></circle></a><a href="/setts/s6/db9r1db2r1r4w1~x12/"><circle cx="285.0" cy="202.3" r="4" fill="#3465a4"><title>McIntosh, Georgina (Personal)</title></circle></a><circle cx="284.0" cy="163.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k4b32r30b2w5k2~x2/

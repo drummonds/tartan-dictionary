@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGran (Personal)](/setts/s26/dp3g3g32dp2g4dp4g3g10dp2r2w1g1r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/)|
-|![McGran (Personal) example sett](/setts/s26/dp3g3g32dp2g4dp4g3g10dp2r2w1g1r3g1w1r2dp2g10g3dp4g4dp2g32g3dp3lo2~x2/sett.png)|
+| [McGran (Personal)](/setts/s26/dp3g3gi32dp2gi4dp4gi3g10dp2r2w1g1r3g1w1r2dp2g10gi3dp4gi4dp2gi32g3dp3lo2~x2/)|
+|![McGran (Personal) example sett](/setts/s26/dp3g3gi32dp2gi4dp4gi3g10dp2r2w1g1r3g1w1r2dp2g10gi3dp4gi4dp2gi32g3dp3lo2~x2/sett.png)|

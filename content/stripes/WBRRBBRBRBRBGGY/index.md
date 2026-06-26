@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [British Airways (Corporate)](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/)|
-|![British Airways (Corporate) example sett](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20r2r1db2w1~x2/sett.png)|
+| [British Airways (Corporate)](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20ri2r1db2w1~x2/)|
+|![British Airways (Corporate) example sett](/setts/s15/ly2y2dg20t2r2t2r10t2r2t2db20ri2r1db2w1~x2/sett.png)|

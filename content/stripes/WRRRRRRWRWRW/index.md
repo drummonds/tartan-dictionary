@@ -24,9 +24,9 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Menzies #3](/setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/)|
-|![Menzies #3 example sett](/setts/s12/w4r1w2r3w24r5r3r1r1r1r20w2~x2/sett.png)|
+| [Menzies #3](/setts/s12/w4r1w2r3w24ri5r3ri1r1ri1r20w2~x2/)|
+|![Menzies #3 example sett](/setts/s12/w4r1w2r3w24ri5r3ri1r1ri1r20w2~x2/sett.png)|
 | [Menzies Dress, Cerise (Dance)](/setts/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/)|
 |![Menzies Dress, Cerise (Dance) example sett](/setts/s12/w4m1w2m3w24r5m3r1m1r1m20w2~x2/sett.png)|
-| [Menzies VS](/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/)|
-|![Menzies VS example sett](/setts/s12/lb4r1lb2r3lb24r6r2r1r1r1r20lb2/sett.png)|
+| [Menzies VS](/setts/s12/lb4r1lb2r3lb24ri6r2ri1r1ri1r20lb2/)|
+|![Menzies VS example sett](/setts/s12/lb4r1lb2r3lb24ri6r2ri1r1ri1r20lb2/sett.png)|

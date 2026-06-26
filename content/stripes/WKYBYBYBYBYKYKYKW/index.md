@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Cornish Pascoe, The](/setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/)|
-|![Cornish Pascoe, The example sett](/setts/s17/w2k32lr5dt3lr2dt3lr2dt3lr1dt6ly3k2ly1k3ly2k2w1~x2/sett.png)|
+| [Cornish Pascoe, The](/setts/s17/w2ki32lr5dt3lr2dt3lr2dt3lr1dt6ly3ki2ly1k3ly2ki2w1~x2/)|
+|![Cornish Pascoe, The example sett](/setts/s17/w2ki32lr5dt3lr2dt3lr2dt3lr1dt6ly3ki2ly1k3ly2ki2w1~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St Andrews Bay](/setts/s7/lo30w4lo20g20k20lo3k6~x2/)|
-|![St Andrews Bay example sett](/setts/s7/lo30w4lo20g20k20lo3k6~x2/sett.png)|
+| [St Andrews Bay](/setts/s7/loi30w4loi20g20k20lo3k6~x2/)|
+|![St Andrews Bay example sett](/setts/s7/loi30w4loi20g20k20lo3k6~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Grelloch (Fashion)](/setts/s6/r2k1r12r12t1m2~x4/)|
-|![Grelloch (Fashion) example sett](/setts/s6/r2k1r12r12t1m2~x4/sett.png)|
+| [Grelloch (Fashion)](/setts/s6/r2k1r12ri12t1m2~x4/)|
+|![Grelloch (Fashion) example sett](/setts/s6/r2k1r12ri12t1m2~x4/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Daughter"
-date: 2023-03-18
+redirect: "/families/daughter-of-mull/"
 ---
-## Families
-
-- [Daughter of Mull](/families/daughter-of-mull/)
-
+Clan Daughter is recorded as the single family [Daughter of Mull](/families/daughter-of-mull/) — redirecting there.

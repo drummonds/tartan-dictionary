@@ -2,7 +2,7 @@
 title: "Peter of Lee"
 date: 2023-03-18
 ---
-A family of [Clan Peter](/clan/peter/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Lee”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Lee&viewmode=grid)
 

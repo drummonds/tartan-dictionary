@@ -1,8 +1,5 @@
 ---
 title: "Clan Bailies"
-date: 2023-03-18
+redirect: "/families/bailies-of-bennachie/"
 ---
-## Families
-
-- [Bailies of Bennachie](/families/bailies-of-bennachie/)
-
+Clan Bailies is recorded as the single family [Bailies of Bennachie](/families/bailies-of-bennachie/) — redirecting there.

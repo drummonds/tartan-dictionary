@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Whitson #2
-
 ## Thread count
 LN/8 K2 G36 K34 B26 R2 B6 R/2
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3r1g18k20r1db18t1g2~x4/"><circle cx="189.6" cy="143.5" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.3" cy="141.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.3" cy="167.3" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.8" cy="160.3" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s6/r1g14k14r2db14t1~x2/"><circle cx="141.9" cy="181.7" r="4" fill="#3465a4"><title>Wilson's, No 221</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.6" cy="117.7" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.2" cy="122.9" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s7/w1r2db16k14g15k3ly1~x2/"><circle cx="135.0" cy="148.1" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><circle cx="143.4" cy="144.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g3r1g18k20r1db18t1g2~x4/"><circle cx="189.4" cy="144.4" r="4" fill="#3465a4"><title>Lochaber</title></circle></a><a href="/setts/s10/r7db2g5db2k24db2g10db28g10w3~x2/"><circle cx="149.0" cy="142.9" r="4" fill="#3465a4"><title>Colgan, USA, Robert James</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="157.9" cy="135.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="145.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s7/k2r1g15k15db15ly1k2~x2/"><circle cx="178.1" cy="168.4" r="4" fill="#3465a4"><title>MacCaskill</title></circle></a><a href="/setts/s10/r7db2g5db18g10db2k24db2g10ly3~x2/"><circle cx="118.7" cy="161.4" r="4" fill="#3465a4"><title>Offally</title></circle></a><a href="/setts/s6/r1g14k14r2db14t1~x2/"><circle cx="141.8" cy="182.8" r="4" fill="#3465a4"><title>Wilson's, No 221</title></circle></a><a href="/setts/s9/w4k1g19ly1k19db13r2db4r2~x2/"><circle cx="120.4" cy="118.5" r="4" fill="#3465a4"><title>Whitson</title></circle></a><a href="/setts/s9/dy3k3dy3k18n28w1g22k2dy2~x2/"><circle cx="190.0" cy="123.6" r="4" fill="#3465a4"><title>Black Gold</title></circle></a><a href="/setts/s7/w1r2db16k14g15k3ly1~x2/"><circle cx="134.8" cy="149.0" r="4" fill="#3465a4"><title>MacNeil 7</title></circle></a><circle cx="143.1" cy="145.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w4k1g18k17db13r1db3r1~x2/

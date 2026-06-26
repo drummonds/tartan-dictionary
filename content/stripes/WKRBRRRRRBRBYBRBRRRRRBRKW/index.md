@@ -24,5 +24,5 @@ It is a 25 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fitzgerald Dress (Name)](/setts/s25/w2k1r3db3r3r3r12r3r3db3r6db19ly3db19r3db3r3r3r12r3r3db3r3k1w2~x2/)|
-|![Fitzgerald Dress (Name) example sett](/setts/s25/w2k1r3db3r3r3r12r3r3db3r6db19ly3db19r3db3r3r3r12r3r3db3r3k1w2~x2/sett.png)|
+| [Fitzgerald Dress (Name)](/setts/s25/w2k1r3db3r3ri3r12ri3r3db3r6db19ly3db19r3db3r3ri3r12ri3r3db3r3k1w2~x2/)|
+|![Fitzgerald Dress (Name) example sett](/setts/s25/w2k1r3db3r3ri3r12ri3r3db3r6db19ly3db19r3db3r3ri3r12ri3r3db3r3k1w2~x2/sett.png)|

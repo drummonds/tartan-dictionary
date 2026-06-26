@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/)|
-|![Bell Rock Lighthouse 200th Aniversar example sett](/setts/s10/w5lb7db4lb2db25k13r1k2r4r3~x2/sett.png)|
+| [Bell Rock Lighthouse 200th Aniversar](/setts/s10/w5lb7db4lb2db25k13ri1k2ri4r3~x2/)|
+|![Bell Rock Lighthouse 200th Aniversar example sett](/setts/s10/w5lb7db4lb2db25k13ri1k2ri4r3~x2/sett.png)|

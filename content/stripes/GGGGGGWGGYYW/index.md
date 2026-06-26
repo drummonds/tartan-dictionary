@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Springbok (Fashion)](/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/)|
-|![Springbok (Fashion) example sett](/setts/s12/dg3g2dg40g2dg4g8w1g4dg2lo4ly4w2~x2/sett.png)|
+| [Springbok (Fashion)](/setts/s12/dg3gi2dg40g2dg4g8w1gi4dg2lo4ly4w2~x2/)|
+|![Springbok (Fashion) example sett](/setts/s12/dg3gi2dg40g2dg4g8w1gi4dg2lo4ly4w2~x2/sett.png)|

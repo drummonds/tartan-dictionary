@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McGill (Personal)](/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/)|
-|![McGill (Personal) example sett](/setts/s13/g2w10g3lo4g3lo4g24w2g4w4g1lo4g1~x2/sett.png)|
+| [McGill (Personal)](/setts/s13/g2w10g3loi4g3loi4g24w2g4w4g1lo4g1~x2/)|
+|![McGill (Personal) example sett](/setts/s13/g2w10g3loi4g3loi4g24w2g4w4g1lo4g1~x2/sett.png)|

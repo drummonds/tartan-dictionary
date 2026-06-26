@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heather Mead (Personal)](/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/)|
-|![Heather Mead (Personal) example sett](/setts/s8/m13dg16dg4dp4dg4dp34lo1dp1~x2/sett.png)|
+| [Heather Mead (Personal)](/setts/s8/m13dg16dgi4dp4dgi4dp34lo1dp1~x2/)|
+|![Heather Mead (Personal) example sett](/setts/s8/m13dg16dgi4dp4dgi4dp34lo1dp1~x2/sett.png)|

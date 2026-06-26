@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacNab](/setts/s26/r1g6r6r6r1r6r6g1r1g1r1g1r1g6r1g1r1g1r6r6r1r6r6g6r1g1~x8/)|
-|![MacNab example sett](/setts/s26/r1g6r6r6r1r6r6g1r1g1r1g1r1g6r1g1r1g1r6r6r1r6r6g6r1g1~x8/sett.png)|
+| [MacNab](/setts/s26/ri1g6ri6r6ri1r6ri6g1ri1g1ri1g1ri1g6ri1g1ri1g1ri6r6ri1r6ri6g6ri1g1~x8/)|
+|![MacNab example sett](/setts/s26/ri1g6ri6r6ri1r6ri6g1ri1g1ri1g1ri1g6ri1g1ri1g1ri6r6ri1r6ri6g6ri1g1~x8/sett.png)|

@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Genet, Edmond Charles 'Citizen' (Personal)](/setts/s7/r4k9dg9k40r2k2w2~x2/)|
-|![Genet, Edmond Charles 'Citizen' (Personal) example sett](/setts/s7/r4k9dg9k40r2k2w2~x2/sett.png)|
+| [Genet, Edmond Charles 'Citizen' (Personal)](/setts/s7/r4ki9dg9k40r2k2w2~x2/)|
+|![Genet, Edmond Charles 'Citizen' (Personal) example sett](/setts/s7/r4ki9dg9k40r2k2w2~x2/sett.png)|

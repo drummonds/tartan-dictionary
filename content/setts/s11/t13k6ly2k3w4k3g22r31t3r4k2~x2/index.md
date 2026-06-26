@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [11 stripe tartan](/stripes/stripes11/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacLean of Duart #4
-
 ## Thread count
 B/26 K12 Y4 K6 LN8 K6 G44 R62 B6 R8 K/4
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="159.2" cy="94.4" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="161.0" cy="101.2" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="143.3" cy="100.3" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="178.6" cy="101.4" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="172.4" cy="79.5" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="118.1" cy="75.2" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.8" cy="106.9" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="122.0" cy="78.7" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/"><circle cx="176.7" cy="82.2" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="139.3" cy="110.4" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><circle cx="146.9" cy="97.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/t16k12ly4k4w6k4g32r50t6r8k3/"><circle cx="158.4" cy="95.0" r="4" fill="#3465a4"><title>MacLean of Duart 3</title></circle></a><a href="/setts/s11/t13k6ly2k3w4k3dg22r31t3r4k2~x2/"><circle cx="160.3" cy="101.8" r="4" fill="#3465a4"><title>MacLean of Duart #4</title></circle></a><a href="/setts/s12/db4lb1k3ly1dg1lb1k1dg8r12lb1r2k1~x2/"><circle cx="142.6" cy="101.0" r="4" fill="#3465a4"><title>MacLean</title></circle></a><a href="/setts/s11/t16k12ly4k4w6k4dg32r50t6r8k3/"><circle cx="177.9" cy="101.9" r="4" fill="#3465a4"><title>Maclean of Duart (Wilsons) (Clan)</title></circle></a><a href="/setts/s12/k8r2k3ly2k2w3k2y12o22r2o2k1~x2/"><circle cx="171.7" cy="80.1" r="4" fill="#3465a4"><title>O'Keefe</title></circle></a><a href="/setts/s13/dg1r16w1db2w2k4w2k4w2db2w1dg16t1~x4/"><circle cx="117.4" cy="75.8" r="4" fill="#3465a4"><title>Gibbs/Gibson</title></circle></a><a href="/setts/s12/r14t4k6ly1k2w2k2g12r6k2r2w1~x2/"><circle cx="144.0" cy="107.6" r="4" fill="#3465a4"><title>Stewart, Prince Charles Edward</title></circle></a><a href="/setts/s13/lo6w4k3t14w3r34k34w4t3lo8w3g4k2~x2/"><circle cx="121.3" cy="79.3" r="4" fill="#3465a4"><title>Nazarian (Personal)</title></circle></a><a href="/setts/s12/ly4w2r16o8k1o3k2o2k3o2k22lb4~x2/"><circle cx="175.9" cy="82.7" r="4" fill="#3465a4"><title>Aberdeen Forever (District)</title></circle></a><a href="/setts/s11/r8t7k8ly2k1ly1g19k1r8t3r8~x2/"><circle cx="138.6" cy="111.1" r="4" fill="#3465a4"><title>Unnamed No 1</title></circle></a><circle cx="146.2" cy="97.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/t13k6ly2k3w4k3g22r31t3r4k2~x2/

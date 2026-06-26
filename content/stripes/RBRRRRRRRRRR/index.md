@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ferguson Red, George (Personal)](/setts/s12/r8dr48r6r48r3r6r6r4r8r2r22r8/)|
-|![Ferguson Red, George (Personal) example sett](/setts/s12/r8dr48r6r48r3r6r6r4r8r2r22r8/sett.png)|
+| [Ferguson Red, George (Personal)](/setts/s12/ri8riii22r2riii8r4riii6r6riii3r48riii6dr48rii8/)|
+|![Ferguson Red, George (Personal) example sett](/setts/s12/ri8riii22r2riii8r4riii6r6riii3r48riii6dr48rii8/sett.png)|

@@ -24,5 +24,5 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North West, Mounted Police](/setts/s16/r39r3w2g14w2ly4r4r2r4ly4w2t12r6r6ly7w2~x2/)|
-|![North West, Mounted Police example sett](/setts/s16/r39r3w2g14w2ly4r4r2r4ly4w2t12r6r6ly7w2~x2/sett.png)|
+| [North West, Mounted Police](/setts/s16/r39ri3w2g14w2ly4r4ri2r4ly4w2t12ri6r6ly7w2~x2/)|
+|![North West, Mounted Police example sett](/setts/s16/r39ri3w2g14w2ly4r4ri2r4ly4w2t12ri6r6ly7w2~x2/sett.png)|

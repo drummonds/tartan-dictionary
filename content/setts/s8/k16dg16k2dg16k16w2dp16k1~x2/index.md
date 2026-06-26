@@ -9,13 +9,6 @@ Sourced from register-of-tartans.  It is a [8 stripe tartan](/stripes/stripes8/)
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4237
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unidentified #36
-- Unnamed No 33
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -42,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k3db5k23ly2k11g22~x2/"><circle cx="238.5" cy="231.6" r="4" fill="#3465a4"><title>Mowat (Clans Originaux)</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.5" cy="229.4" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.7" cy="216.6" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s7/db26k1db2k18ly2g16k16~x2/"><circle cx="286.9" cy="198.7" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/r2g12k12g1db12g2~x2/"><circle cx="216.6" cy="230.6" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="224.8" cy="213.8" r="4" fill="#3465a4"><title>Swallow Hotels (Corporate)</title></circle></a><a href="/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/"><circle cx="202.9" cy="234.3" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.4" cy="224.6" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.1" cy="212.5" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s7/r4k4db24k24g24k2r3~x2/"><circle cx="220.5" cy="218.1" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><circle cx="249.2" cy="222.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db24k3db5k23ly2k11g22~x2/"><circle cx="238.5" cy="232.7" r="4" fill="#3465a4"><title>Mowat (Clans Originaux)</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.6" cy="230.6" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><a href="/setts/s7/k4db16k12g12r1g2k2~x2/"><circle cx="248.8" cy="217.5" r="4" fill="#3465a4"><title>Dundas #2</title></circle></a><a href="/setts/s7/db26k1db2k18ly2g16k16~x2/"><circle cx="286.8" cy="199.6" r="4" fill="#3465a4"><title>Mowat</title></circle></a><a href="/setts/s6/r2g12k12g1db12g2~x2/"><circle cx="216.6" cy="231.8" r="4" fill="#3465a4"><title>Gunn</title></circle></a><a href="/setts/s9/k4g21k10r2k10db21k4db4k4~x2/"><circle cx="224.8" cy="214.9" r="4" fill="#3465a4"><title>Swallow Hotels (Corporate)</title></circle></a><a href="/setts/s10/k3db17k20dg18w4dg18k20db18k2db2~x2/"><circle cx="203.1" cy="235.4" r="4" fill="#3465a4"><title>Argyll Campbell</title></circle></a><a href="/setts/s10/g27k21db12k4db40k4db12k21g27w4~x2/"><circle cx="197.4" cy="225.7" r="4" fill="#3465a4"><title>Granger/Grainger (Personal)</title></circle></a><a href="/setts/s11/g2db12r1k12g12k2g12k12r1db12g1~x4/"><circle cx="208.2" cy="213.4" r="4" fill="#3465a4"><title>Ferguson</title></circle></a><a href="/setts/s7/r4k4db24k24g24k2r3~x2/"><circle cx="220.5" cy="219.1" r="4" fill="#3465a4"><title>Black Watch (Coarse Kilt)</title></circle></a><circle cx="249.1" cy="223.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/k16dg16k2dg16k16w2dp16k1~x2/

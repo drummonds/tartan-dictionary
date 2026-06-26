@@ -24,7 +24,7 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Murray of Abercairney](/setts/s9/t3y1k1r12r1g9r1y1t3~x2/)|
-|![Murray of Abercairney example sett](/setts/s9/t3y1k1r12r1g9r1y1t3~x2/sett.png)|
-| [Murray of Abercairney (Personal)](/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/)|
-|![Murray of Abercairney (Personal) example sett](/setts/s9/t3y1k1r12r1dg9r1y1t3~x2/sett.png)|
+| [Murray of Abercairney](/setts/s9/t3y1k1ri12r1g9r1y1t3~x2/)|
+|![Murray of Abercairney example sett](/setts/s9/t3y1k1ri12r1g9r1y1t3~x2/sett.png)|
+| [Murray of Abercairney (Personal)](/setts/s9/t3y1k1r12ri1dg9ri1y1t3~x2/)|
+|![Murray of Abercairney (Personal) example sett](/setts/s9/t3y1k1r12ri1dg9ri1y1t3~x2/sett.png)|

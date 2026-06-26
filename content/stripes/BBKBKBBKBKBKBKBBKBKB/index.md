@@ -24,5 +24,5 @@ It is a 20 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indigo Blue](/setts/s20/t5k1t1k1t5db18k1db4k1db9k1db4k1db18t5k1t1k1t5db4~x2/)|
-|![Indigo Blue example sett](/setts/s20/t5k1t1k1t5db18k1db4k1db9k1db4k1db18t5k1t1k1t5db4~x2/sett.png)|
+| [Indigo Blue](/setts/s20/t5k1t1k1t5db18k1dbi4k1db9k1dbi4k1db18t5k1t1k1t5db4~x2/)|
+|![Indigo Blue example sett](/setts/s20/t5k1t1k1t5db18k1dbi4k1db9k1dbi4k1db18t5k1t1k1t5db4~x2/sett.png)|

@@ -24,10 +24,10 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Colquhoun](/setts/s7/r2g8w1k8db8k1db1~x4/)|
-|![Colquhoun example sett](/setts/s7/r2g8w1k8db8k1db1~x4/sett.png)|
 | [Colquhoun](/setts/s7/p6k3p21k23w3g24r3~x2/)|
 |![Colquhoun example sett](/setts/s7/p6k3p21k23w3g24r3~x2/sett.png)|
+| [Colquhoun](/setts/s7/r2g8w1k8db8k1db1~x4/)|
+|![Colquhoun example sett](/setts/s7/r2g8w1k8db8k1db1~x4/sett.png)|
 | [Colquhoun #2](/setts/s7/r2g8w1k8b8k1b1~x6/)|
 |![Colquhoun #2 example sett](/setts/s7/r2g8w1k8b8k1b1~x6/sett.png)|
 | [Colquhoun #3](/setts/s7/dp6k3dp21k23w3dg24r3~x2/)|

@@ -9,10 +9,10 @@ background: /bg/clans.png
 
 - [Inkster](/setts/s8/db31ly4g68w4db31r2k6r2~x2/)
 - [Inman](/setts/s7/r2dg24k2dg12lo6k1r2~x2/)
+- [Innes](/clan/innes/) — clan
+- [Innes of Cowie](/families/innes-of-cowie/)
 - [Innes of Learney](/families/innes-of-learney/)
 - [Innes of Learney Htg](/families/innes-of-learney-htg/)
-- [Innes,](/clan/innes/) — clan
-- [Innes, of Cowie](/families/innes-of-cowie/)
 
 ## Ir
 

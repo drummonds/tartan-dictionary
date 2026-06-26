@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3632/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3632
+
 ## Thread count
 DBa/80 K2 DB8 K4 DBa16 DB/48
 ![Sett](sett.png)

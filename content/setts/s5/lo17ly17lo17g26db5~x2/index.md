@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10933/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10933](https://www.tartanregister.gov.uk/tartanDetails?ref=10933)
+- Scottish Tartans Authority (ITI): 10933
+
 ## Thread count
 O/34 Y34 O34 G52 DB/10
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="98.1" cy="245.9" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/setts/s5/lo17ly17o17g26b5~x2/"><circle cx="66.7" cy="253.4" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/setts/s4/g9o7w7r1~x4/"><circle cx="149.5" cy="246.7" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.5" cy="277.0" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s4/o20w13ly24k3~x2/"><circle cx="183.1" cy="249.8" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="92.0" cy="242.2" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s6/g23r23w9r23g23w9~x2/"><circle cx="137.5" cy="302.8" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn.</title></circle></a><a href="/setts/s6/r14k3r14g13db8g13~x2/"><circle cx="165.2" cy="281.6" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/setts/s7/r6k2g12lo8r5k2g3~x4/"><circle cx="148.9" cy="224.4" r="4" fill="#3465a4"><title>Londonderry</title></circle></a><a href="/setts/s4/g3ly6dg4g2~x2/"><circle cx="121.7" cy="316.3" r="4" fill="#3465a4"><title>Pilgrims (Bedford)</title></circle></a><circle cx="145.9" cy="273.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/db7o8g15ly6y3~x10/"><circle cx="97.6" cy="247.1" r="4" fill="#3465a4"><title>Unidentified, Silk Plaid</title></circle></a><a href="/setts/s5/lo17ly17o17g26b5~x2/"><circle cx="66.1" cy="254.7" r="4" fill="#3465a4"><title>Wild Mustard Dreams</title></circle></a><a href="/setts/s4/g9o7w7r1~x4/"><circle cx="148.9" cy="248.0" r="4" fill="#3465a4"><title>MacKinnon, dress</title></circle></a><a href="/setts/s4/t2r4g5ly1~x4/"><circle cx="177.0" cy="278.4" r="4" fill="#3465a4"><title>Wilson's No.203</title></circle></a><a href="/setts/s4/o20w13ly24k3~x2/"><circle cx="182.3" cy="250.9" r="4" fill="#3465a4"><title>Spirit of Riverside (Corporate)</title></circle></a><a href="/setts/s5/db7o8dg15ly6lo3~x10/"><circle cx="91.5" cy="243.6" r="4" fill="#3465a4"><title>Unidentified Silk Plaid</title></circle></a><a href="/setts/s6/g23r23w9r23g23w9~x2/"><circle cx="136.7" cy="304.5" r="4" fill="#3465a4"><title>Omani Regiment 2nd Pipe Sqn.</title></circle></a><a href="/setts/s6/r14k3r14g13db8g13~x2/"><circle cx="164.7" cy="283.1" r="4" fill="#3465a4"><title>Tulsa</title></circle></a><a href="/setts/s7/r6k2g12lo8r5k2g3~x4/"><circle cx="148.3" cy="225.6" r="4" fill="#3465a4"><title>Londonderry</title></circle></a><a href="/setts/s4/g3ly6dg4g2~x2/"><circle cx="121.1" cy="318.0" r="4" fill="#3465a4"><title>Pilgrims (Bedford)</title></circle></a><circle cx="145.2" cy="274.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/lo17ly17lo17g26db5~x2/

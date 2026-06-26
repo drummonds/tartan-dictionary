@@ -24,7 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Noble (South Africa) (Personal)](/setts/s10/ly4ly3dg2k6dg4w1dg12k10dg2dg3~x2/)|
-|![Noble (South Africa) (Personal) example sett](/setts/s10/ly4ly3dg2k6dg4w1dg12k10dg2dg3~x2/sett.png)|
-| [Noble (South Africa) (Personal)](/setts/s10/ly4ly3dg2k6g4w1dg12k10g2dg3~x2/)|
-|![Noble (South Africa) (Personal) example sett](/setts/s10/ly4ly3dg2k6g4w1dg12k10g2dg3~x2/sett.png)|
+| [Noble (South Africa) (Personal)](/setts/s10/lyi4ly3dg2k6dgi4w1dg12k10dgi2dg3~x2/)|
+|![Noble (South Africa) (Personal) example sett](/setts/s10/lyi4ly3dg2k6dgi4w1dg12k10dgi2dg3~x2/sett.png)|
+| [Noble (South Africa) (Personal)](/setts/s10/lyi4ly3dg2k6g4w1dg12k10g2dg3~x2/)|
+|![Noble (South Africa) (Personal) example sett](/setts/s10/lyi4ly3dg2k6g4w1dg12k10g2dg3~x2/sett.png)|

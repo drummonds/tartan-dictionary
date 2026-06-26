@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3376/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3376
+
 ## Thread count
 R/114 G42 R16 G16 K2 W/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="428.4" cy="137.8" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="422.0" cy="134.2" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="422.3" cy="138.7" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="426.0" cy="139.6" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="448.2" cy="108.8" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s6/r40w2db2w2r1ly20~x2/"><circle cx="409.3" cy="104.2" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/setts/s4/r32dg8lb4ly1/"><circle cx="490.6" cy="155.4" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="437.9" cy="103.4" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s9/r4g24r6g4r4g6r44g1w4~x2/"><circle cx="449.0" cy="121.8" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/setts/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="499.3" cy="103.2" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="478.8" cy="120.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/r41g19r7g8k1w3~x2/"><circle cx="427.1" cy="138.0" r="4" fill="#3465a4"><title>MacGregor #4</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1w2~x2/"><circle cx="420.6" cy="134.5" r="4" fill="#3465a4"><title>MacGregor #3</title></circle></a><a href="/setts/s6/r36g18r4g6k1w2~x2/"><circle cx="420.9" cy="138.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s6/r36dg18r4dg6k1lb2/"><circle cx="424.7" cy="139.9" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36b3lo2k1~x2/"><circle cx="446.7" cy="108.8" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s6/r40w2db2w2r1ly20~x2/"><circle cx="407.7" cy="104.4" r="4" fill="#3465a4"><title>National Defense</title></circle></a><a href="/setts/s4/r32dg8lb4ly1/"><circle cx="488.9" cy="155.7" r="4" fill="#3465a4"><title>MacLaine of Lochbuie</title></circle></a><a href="/setts/s8/lo5r6k5r6lo36db3lo2k1~x2/"><circle cx="436.3" cy="103.4" r="4" fill="#3465a4"><title>Lermontov Bicentenary</title></circle></a><a href="/setts/s9/r4g24r6g4r4g6r44g1w4~x2/"><circle cx="447.6" cy="122.0" r="4" fill="#3465a4"><title>Baluch Regiment</title></circle></a><a href="/setts/s11/r96g24r10g12k1w4k1g12r10g24r48~x2/"><circle cx="497.8" cy="103.1" r="4" fill="#3465a4"><title>MacGregor</title></circle></a><circle cx="477.2" cy="120.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/r57g21r8g8k1w3~x2/

@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones (Welsh Name)](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/)|
-|![Jones (Welsh Name) example sett](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dg4/sett.png)|
+| [Jones (Welsh Name)](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dgi4/)|
+|![Jones (Welsh Name) example sett](/setts/s10/db6t3db3t15dg7db7dg5db17dg46dgi4/sett.png)|

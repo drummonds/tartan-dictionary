@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [North Dakota State University (Corp.](/setts/s6/lo11g5lo10g4g26lo4~x2/)|
-|![North Dakota State University (Corp. example sett](/setts/s6/lo11g5lo10g4g26lo4~x2/sett.png)|
-| [North Dakota State University Bison](/setts/s6/ly11g5ly10g4g26ly4~x2/)|
-|![North Dakota State University Bison example sett](/setts/s6/ly11g5ly10g4g26ly4~x2/sett.png)|
+| [North Dakota State University (Corp.](/setts/s6/lo11gi5lo10g4gi26lo4~x2/)|
+|![North Dakota State University (Corp. example sett](/setts/s6/lo11gi5lo10g4gi26lo4~x2/sett.png)|
+| [North Dakota State University Bison](/setts/s6/ly11gi5ly10g4gi26ly4~x2/)|
+|![North Dakota State University Bison example sett](/setts/s6/ly11gi5ly10g4gi26ly4~x2/sett.png)|

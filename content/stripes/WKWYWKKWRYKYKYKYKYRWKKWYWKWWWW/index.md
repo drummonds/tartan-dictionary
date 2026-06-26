@@ -24,5 +24,5 @@ It is a 30 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Znaimer (Canada)](/setts/s30/lt8w21lt8w7k2w3ly3w3k6k6w2r8ly3k3ly3k3ly3k3ly3k3ly3r8w2k6k6w3ly3w3k2w7~x2/)|
-|![Znaimer (Canada) example sett](/setts/s30/lt8w21lt8w7k2w3ly3w3k6k6w2r8ly3k3ly3k3ly3k3ly3k3ly3r8w2k6k6w3ly3w3k2w7~x2/sett.png)|
+| [Znaimer (Canada)](/setts/s30/lt8w21lt8w7ki2w3ly3w3k6ki6w2r8ly3k3ly3k3ly3k3ly3k3ly3r8w2k6ki6w3ly3w3ki2w7~x2/)|
+|![Znaimer (Canada) example sett](/setts/s30/lt8w21lt8w7ki2w3ly3w3k6ki6w2r8ly3k3ly3k3ly3k3ly3k3ly3r8w2k6ki6w3ly3w3ki2w7~x2/sett.png)|

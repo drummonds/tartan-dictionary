@@ -1,8 +1,5 @@
 ---
-title: "Clan MacAn"
-date: 2023-03-18
+title: "Clan Macan"
+redirect: "/families/macan-of-lurgyvallan/"
 ---
-## Families
-
-- [MacAn of Lurgyvallan](/families/macan-of-lurgyvallan/)
-
+Clan Macan is recorded as the single family [Macan of Lurgyvallan](/families/macan-of-lurgyvallan/) — redirecting there.

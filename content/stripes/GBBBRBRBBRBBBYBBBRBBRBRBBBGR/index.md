@@ -24,5 +24,5 @@ It is a 28 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Cathedral](/setts/s28/r4g1db22db2dp2r1dp2r4db1dp10r2db20dp1db2ly2~x2/)|
-|![Highland Cathedral example sett](/setts/s28/r4g1db22db2dp2r1dp2r4db1dp10r2db20dp1db2ly2~x2/sett.png)|
+| [Highland Cathedral](/setts/s28/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/)|
+|![Highland Cathedral example sett](/setts/s28/r4g1db22dbi2dp2r1dp2r4dbi1dp10r2dbi20dp1dbi2ly2~x2/sett.png)|

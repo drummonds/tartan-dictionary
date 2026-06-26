@@ -24,7 +24,7 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Taiwan Scottish](/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/)|
-|![Taiwan Scottish example sett](/setts/s14/r13w2r13k3r13dg21n3k18n9k2n2k2n15w2~x2/sett.png)|
-| [Tawain Scottish (Commemorative)](/setts/s14/r13w2r13k3r13g21db3k18db9k2db2k2db15w2~x2/)|
-|![Tawain Scottish (Commemorative) example sett](/setts/s14/r13w2r13k3r13g21db3k18db9k2db2k2db15w2~x2/sett.png)|
+| [Taiwan Scottish](/setts/s14/r13w2r13k3ri13dg21n3k18n9k2n2k2n15w2~x2/)|
+|![Taiwan Scottish example sett](/setts/s14/r13w2r13k3ri13dg21n3k18n9k2n2k2n15w2~x2/sett.png)|
+| [Tawain Scottish (Commemorative)](/setts/s14/r13w2r13k3ri13g21db3k18db9k2db2k2db15w2~x2/)|
+|![Tawain Scottish (Commemorative) example sett](/setts/s14/r13w2r13k3ri13g21db3k18db9k2db2k2db15w2~x2/sett.png)|

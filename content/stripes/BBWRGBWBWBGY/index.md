@@ -24,10 +24,10 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Fredericton](/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/)|
-|![Fredericton example sett](/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/sett.png)|
 | [Fredericton](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/)|
 |![Fredericton example sett](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1p1~x2/sett.png)|
+| [Fredericton](/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/)|
+|![Fredericton example sett](/setts/s12/p3t1w9r6g5t2w2t2w2t2g12ly2~x2/sett.png)|
 | [Fredericton #1](/setts/s12/dp3t1w9r6dg5t2w2t2w2t2dg12ly2~x4/)|
 |![Fredericton #1 example sett](/setts/s12/dp3t1w9r6dg5t2w2t2w2t2dg12ly2~x4/sett.png)|
 | [Fredericton #2](/setts/s12/ly2g16t2w2t2w2t6g7r2w1t1dp1~x6/)|

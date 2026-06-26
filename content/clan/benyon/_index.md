@@ -1,8 +1,5 @@
 ---
 title: "Clan Benyon"
-date: 2023-03-18
+redirect: "/families/benyon-of-wales/"
 ---
-## Families
-
-- [Benyon of Wales](/families/benyon-of-wales/)
-
+Clan Benyon is recorded as the single family [Benyon of Wales](/families/benyon-of-wales/) — redirecting there.

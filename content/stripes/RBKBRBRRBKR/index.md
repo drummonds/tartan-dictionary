@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Brodie, Graeme (Personal)](/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/)|
-|![Brodie, Graeme (Personal) example sett](/setts/s11/o2do2k37do3r2do3r1r4do4k19r1~x2/sett.png)|
+| [Brodie, Graeme (Personal)](/setts/s11/o2do2k37do3ri2do3r1ri4do4k19ri1~x2/)|
+|![Brodie, Graeme (Personal) example sett](/setts/s11/o2do2k37do3ri2do3r1ri4do4k19ri1~x2/sett.png)|

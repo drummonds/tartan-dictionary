@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [14 stripe tartan](/stripes/stripes14/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4121/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4121
+
 ## Thread count
 DB/30 K4 DB4 K4 DB4 K28 G36 K2 DY4 K2 G36 K28 DB36 DR/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lr3~x2/"><circle cx="177.3" cy="155.0" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lb3~x2/"><circle cx="165.8" cy="149.4" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lb2k1dg12k12db12k1r2/"><circle cx="169.0" cy="163.0" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="138.7" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="169.4" cy="175.7" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1lb2~x2/"><circle cx="157.1" cy="169.5" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/setts/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="164.9" cy="172.8" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/"><circle cx="184.1" cy="170.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/"><circle cx="184.1" cy="170.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="151.0" cy="149.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><circle cx="181.1" cy="148.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lr3~x2/"><circle cx="177.4" cy="155.9" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg16k1r3k1dg16k12db12k1lb3~x2/"><circle cx="165.8" cy="150.3" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lb2k1dg12k12db12k1r2/"><circle cx="169.2" cy="164.1" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="139.6" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s13/lr2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="169.5" cy="176.8" r="4" fill="#3465a4"><title>Campbell of Loudon</title></circle></a><a href="/setts/s13/ly2k1dg12k12db12k1db2k1db12k12dg12k1lb2~x2/"><circle cx="157.3" cy="170.6" r="4" fill="#3465a4"><title>Campbell Loudon</title></circle></a><a href="/setts/s13/r2k1dg12k12db12k1db2k1db12k12dg12k1ly2~x2/"><circle cx="165.1" cy="173.8" r="4" fill="#3465a4"><title>MacEwan</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2~x2/"><circle cx="184.3" cy="171.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s15/db12k2db2k2db2k12dg12k1lr2k1dg12k12db12k1r2/"><circle cx="184.3" cy="171.6" r="4" fill="#3465a4"><title>MacKenzie</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="151.0" cy="150.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><circle cx="181.2" cy="149.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/db15k2db2k2db2k14dg18k1lo2k1dg18k14db18r2~x2/

@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [New World Irish](/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/)|
-|![New World Irish example sett](/setts/s11/w9g2g2w3g18w2k2w1k19g33lo2~x2/sett.png)|
+| [New World Irish](/setts/s11/w9gi2g2w3g18w2k2w1k19gi33lo2~x2/)|
+|![New World Irish example sett](/setts/s11/w9gi2g2w3g18w2k2w1k19gi33lo2~x2/sett.png)|

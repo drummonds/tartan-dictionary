@@ -14,4 +14,4 @@ weight: 69
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Collinet (Personal)](/setts/s69/lo102r6y6r6lr6r6g6r6g6r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r1r8g4lr4/) | tartans-authority |
+| 0.13 | [Collinet (Personal)](/setts/s69/lo102r6y6r6lr6r6g6r6g6rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1r1rii1ri8g4l-h0881789bbe8a8367/) | tartans-authority |

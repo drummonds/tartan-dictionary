@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Satisfashion Argyll](/setts/s18/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/)|
-|![Satisfashion Argyll example sett](/setts/s18/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/sett.png)|
+| [Satisfashion Argyll](/setts/s18/do5lo1y27loi9r6do5lo1loi23do3loi5~x2/)|
+|![Satisfashion Argyll example sett](/setts/s18/do5lo1y27loi9r6do5lo1loi23do3loi5~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Papalia, Special Dress](/setts/s6/o4w2r2r34w37k2~x2/)|
-|![Papalia, Special Dress example sett](/setts/s6/o4w2r2r34w37k2~x2/sett.png)|
+| [Papalia, Special Dress](/setts/s6/o4w2ri2r34w37k2~x2/)|
+|![Papalia, Special Dress example sett](/setts/s6/o4w2ri2r34w37k2~x2/sett.png)|

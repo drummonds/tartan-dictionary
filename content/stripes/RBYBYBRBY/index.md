@@ -26,5 +26,7 @@ It is a 9 stripe tartan.
 |---------------|
 | [Bracken](/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/)|
 |![Bracken example sett](/setts/s9/ly5db9r3db5ly2db4ly26t3r4~x2/sett.png)|
-| [Bracken](/setts/s9/ly20db27r6db15ly8db11ly78db10r12/)|
-|![Bracken example sett](/setts/s9/ly20db27r6db15ly8db11ly78db10r12/sett.png)|
+| [Bracken](/setts/s9/ly20dbi27r6dbi15ly8dbi11ly78db10r12/)|
+|![Bracken example sett](/setts/s9/ly20dbi27r6dbi15ly8dbi11ly78db10r12/sett.png)|
+| [Braken Tartan Tartan Number: 1449. Earliest known date: pre 1992 Originally spelt 'Braken'. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s9/ly20db27r6db15ly8db11ly78dbi10r12/)|
+|![Braken Tartan Tartan Number: 1449. Earliest known date: pre 1992 Originally spelt 'Braken'. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s9/ly20db27r6db15ly8db11ly78dbi10r12/sett.png)|

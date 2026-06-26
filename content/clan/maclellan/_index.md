@@ -1,8 +1,5 @@
 ---
 title: "Clan MacLellan"
-date: 2023-03-18
+redirect: "/families/maclellan-of-gartbreck/"
 ---
-## Families
-
-- [MacLellan of Gartbreck](/families/maclellan-of-gartbreck/)
-
+Clan MacLellan is recorded as the single family [MacLellan of Gartbreck](/families/maclellan-of-gartbreck/) — redirecting there.

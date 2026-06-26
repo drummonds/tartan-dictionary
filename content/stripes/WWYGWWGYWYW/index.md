@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bouguet, Adrian (Personal)](/setts/s11/lb14lb9lo4g3lb3lb14g3lo4lb14lo2w3~x2/)|
-|![Bouguet, Adrian (Personal) example sett](/setts/s11/lb14lb9lo4g3lb3lb14g3lo4lb14lo2w3~x2/sett.png)|
+| [Bouguet, Adrian (Personal)](/setts/s11/lb14lbii9lo4g3lbi3lb14g3lo4lb14lo2w3~x2/)|
+|![Bouguet, Adrian (Personal) example sett](/setts/s11/lb14lbii9lo4g3lbi3lb14g3lo4lb14lo2w3~x2/sett.png)|

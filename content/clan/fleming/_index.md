@@ -1,8 +1,5 @@
 ---
 title: "Clan Fleming"
-date: 2023-03-18
+redirect: "/families/fleming-of-castle-carrick/"
 ---
-## Families
-
-- [Fleming of Castle Carrick](/families/fleming-of-castle-carrick/)
-
+Clan Fleming is recorded as the single family [Fleming of Castle Carrick](/families/fleming-of-castle-carrick/) — redirecting there.

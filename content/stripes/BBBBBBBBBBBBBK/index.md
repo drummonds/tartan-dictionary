@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Benedictus Blue (Personal)](/setts/s14/k16b6db12db4p4db4db35db40db4db4db4db6p4p6/)|
-|![Benedictus Blue (Personal) example sett](/setts/s14/k16b6db12db4p4db4db35db40db4db4db4db6p4p6/sett.png)|
+| [Benedictus Blue (Personal)](/setts/s14/k16b6dbi12db4pi4db4dbi35db40dbi4db4dbi4db6pi4p6/)|
+|![Benedictus Blue (Personal) example sett](/setts/s14/k16b6dbi12db4pi4db4dbi35db40dbi4db4dbi4db6pi4p6/sett.png)|

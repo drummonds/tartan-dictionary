@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wagga Wagga (District)](/setts/s11/g16k6g16g32k2dy7ly2dy7ly2dy7b13/)|
-|![Wagga Wagga (District) example sett](/setts/s11/g16k6g16g32k2dy7ly2dy7ly2dy7b13/sett.png)|
+| [Wagga Wagga (District)](/setts/s11/gi16k6gi16g32k2dy7ly2dy7ly2dy7b13/)|
+|![Wagga Wagga (District) example sett](/setts/s11/gi16k6gi16g32k2dy7ly2dy7ly2dy7b13/sett.png)|

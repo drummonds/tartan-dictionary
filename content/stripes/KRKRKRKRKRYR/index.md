@@ -24,7 +24,7 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Malt, The](/setts/s12/k20r2k4r2k19r17k10r10k6r5ly2r2~x2/)|
-|![Malt, The example sett](/setts/s12/k20r2k4r2k19r17k10r10k6r5ly2r2~x2/sett.png)|
+| [Malt, The](/setts/s12/k20r2k4r2k19ri17k10ri10k6ri5ly2ri2~x2/)|
+|![Malt, The example sett](/setts/s12/k20r2k4r2k19ri17k10ri10k6ri5ly2ri2~x2/sett.png)|
 | [Malt, The (Corporate)](/setts/s12/k20r2k4r2k19o17k10o10k6o5ly2o2~x2/)|
 |![Malt, The (Corporate) example sett](/setts/s12/k20r2k4r2k19o17k10o10k6o5ly2o2~x2/sett.png)|

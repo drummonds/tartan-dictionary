@@ -2,7 +2,7 @@
 title: "Skene of Cromar"
 date: 2023-03-18
 ---
-A family of [Clan Skene](/clan/skene/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Cromar”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Cromar&viewmode=grid)
 

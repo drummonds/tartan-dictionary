@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ellis (Personal)](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/)|
-|![Ellis (Personal) example sett](/setts/s9/w2k1g4r2g2r4g5k1ly2~x6/sett.png)|
+| [Ellis (Personal)](/setts/s9/w2k1gi4r2gi2r4g5k1ly2~x6/)|
+|![Ellis (Personal) example sett](/setts/s9/w2k1gi4r2gi2r4g5k1ly2~x6/sett.png)|

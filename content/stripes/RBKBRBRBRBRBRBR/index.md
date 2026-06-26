@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ettrick (Fashion)](/setts/s15/o4n12k12n4o18n1o1n1o2n1o2n1o4n1o4~x4/)|
-|![Ettrick (Fashion) example sett](/setts/s15/o4n12k12n4o18n1o1n1o2n1o2n1o4n1o4~x4/sett.png)|
+| [Ettrick (Fashion)](/setts/s15/o4n12k12n4oi18n1o1n1oi2n1o2n1oi4n1o4~x4/)|
+|![Ettrick (Fashion) example sett](/setts/s15/o4n12k12n4oi18n1o1n1oi2n1o2n1oi4n1o4~x4/sett.png)|

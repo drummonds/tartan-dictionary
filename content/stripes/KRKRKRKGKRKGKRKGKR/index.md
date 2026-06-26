@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bumbee #2 (Fashion)](/setts/s18/r10k1dy1k1r1k1dy10k1r1k1dy1k1r10k1r1k1r1k1~x4/)|
-|![Bumbee #2 (Fashion) example sett](/setts/s18/r10k1dy1k1r1k1dy10k1r1k1dy1k1r10k1r1k1r1k1~x4/sett.png)|
+| [Bumbee #2 (Fashion)](/setts/s18/r10k1dy1k1r1k1dy10k1ri1k1dy1k1ri10k1r1k1ri1k1~x4/)|
+|![Bumbee #2 (Fashion) example sett](/setts/s18/r10k1dy1k1r1k1dy10k1ri1k1dy1k1ri10k1r1k1ri1k1~x4/sett.png)|

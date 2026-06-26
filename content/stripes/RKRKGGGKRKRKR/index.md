@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Watch (Fashion) #3](/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/)|
-|![Red Watch (Fashion) #3 example sett](/setts/s13/o26k2o3k2o3k16y18y4y18k16o18k2o3~x2/sett.png)|
+| [Red Watch (Fashion) #3](/setts/s13/o26k2o3k2o3k16y18yi4y18k16o18k2o3~x2/)|
+|![Red Watch (Fashion) #3 example sett](/setts/s13/o26k2o3k2o3k16y18yi4y18k16o18k2o3~x2/sett.png)|

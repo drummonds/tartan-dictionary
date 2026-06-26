@@ -2,7 +2,7 @@
 title: "Douglas of Roxburgh"
 date: 2023-03-18
 ---
-A family of [Clan Douglas](/clan/douglas/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Roxburgh”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Roxburgh&viewmode=grid)
 

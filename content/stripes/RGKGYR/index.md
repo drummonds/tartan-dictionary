@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shawn Jones Afghan Memorial, The](/setts/s6/r12g4k8dy3ly62r8~x2/)|
-|![Shawn Jones Afghan Memorial, The example sett](/setts/s6/r12g4k8dy3ly62r8~x2/sett.png)|
+| [Shawn Jones Afghan Memorial, The](/setts/s6/r12g4k8dy3ly62ri8~x2/)|
+|![Shawn Jones Afghan Memorial, The example sett](/setts/s6/r12g4k8dy3ly62ri8~x2/sett.png)|

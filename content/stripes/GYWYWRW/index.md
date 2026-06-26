@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Whisky Kilt (Fashion)](/setts/s7/w168r2w2lo2w2lo3g26~x2/)|
-|![Whisky Kilt (Fashion) example sett](/setts/s7/w168r2w2lo2w2lo3g26~x2/sett.png)|
+| [Whisky Kilt (Fashion)](/setts/s7/w168r2w2lo2w2loi3g26~x2/)|
+|![Whisky Kilt (Fashion) example sett](/setts/s7/w168r2w2lo2w2loi3g26~x2/sett.png)|

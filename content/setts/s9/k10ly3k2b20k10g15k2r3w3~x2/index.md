@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10265/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10265](https://www.tartanregister.gov.uk/tartanDetails?ref=10265)
+- Scottish Tartans Authority (ITI): 10265
+
 ## Thread count
 K/20 Y6 K4 B40 K20 G30 K4 R6 LN/6
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.4" cy="169.5" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/"><circle cx="142.0" cy="137.0" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.5" cy="134.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s8/db34w5db5r5db5dr26g33o6~x2/"><circle cx="119.3" cy="179.1" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8lo1g2~x4/"><circle cx="152.8" cy="153.2" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.7" cy="167.4" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.8" cy="160.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.7" cy="158.2" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.9" cy="152.6" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="102.1" cy="143.1" r="4" fill="#3465a4"><title>Paisley</title></circle></a><circle cx="115.4" cy="159.5" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/k6dg14t2r3t2k16ly2b16dg16r3~x2/"><circle cx="113.2" cy="170.5" r="4" fill="#3465a4"><title>Unidentified #37</title></circle></a><a href="/setts/s9/r2k1lo2g3lo4g3db12k1lb2~x4/"><circle cx="141.6" cy="137.8" r="4" fill="#3465a4"><title>Federated Women's Institutes of</title></circle></a><a href="/setts/s9/t3k2r3g20k24db20r3k2ly3~x2/"><circle cx="120.2" cy="135.4" r="4" fill="#3465a4"><title>Loch Awe</title></circle></a><a href="/setts/s8/db34w5db5r5db5dr26g33o6~x2/"><circle cx="119.1" cy="180.3" r="4" fill="#3465a4"><title>Blairmore</title></circle></a><a href="/setts/s8/db2r1db10w1y4g8lo1g2~x4/"><circle cx="152.4" cy="154.2" r="4" fill="#3465a4"><title>Ayrshire (District)</title></circle></a><a href="/setts/s7/w2r2db16k14g15r2ly2~x2/"><circle cx="84.5" cy="168.6" r="4" fill="#3465a4"><title>Council of Scottish Clans &amp; Ass. (Co</title></circle></a><a href="/setts/s12/db7w3g3db18lo3k15lo3g17r6g3r2g7~x2/"><circle cx="106.7" cy="161.1" r="4" fill="#3465a4"><title>Drennan</title></circle></a><a href="/setts/s9/g2dp2g10k6r2k6t10k1lb2~x2/"><circle cx="76.5" cy="159.3" r="4" fill="#3465a4"><title>Birch (Personal) (Estimated threadcount)</title></circle></a><a href="/setts/s9/k10ly3k2db20k10g15k2r3w3~x2/"><circle cx="97.7" cy="153.7" r="4" fill="#3465a4"><title>McCuaig (Glenelg and the Western Isles)</title></circle></a><a href="/setts/s12/db7w2g3db18ly2k15ly2g17r5g3r2g7~x2/"><circle cx="101.8" cy="144.0" r="4" fill="#3465a4"><title>Paisley</title></circle></a><circle cx="115.2" cy="160.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/k10ly3k2b20k10g15k2r3w3~x2/

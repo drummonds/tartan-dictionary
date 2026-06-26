@@ -1,8 +1,5 @@
 ---
 title: "Clan West"
-date: 2023-03-18
+redirect: "/families/west-of-wells/"
 ---
-## Families
-
-- [West of Wells](/families/west-of-wells/)
-
+Clan West is recorded as the single family [West of Wells](/families/west-of-wells/) — redirecting there.

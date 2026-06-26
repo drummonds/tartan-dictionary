@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Fire (Corporate)](/setts/s7/ly2dy4r4n21w1n1r1~x4/)|
-|![Edinburgh Fire (Corporate) example sett](/setts/s7/ly2dy4r4n21w1n1r1~x4/sett.png)|
+| [Edinburgh Fire (Corporate)](/setts/s7/ly2dy4r4n21w1n1ri1~x4/)|
+|![Edinburgh Fire (Corporate) example sett](/setts/s7/ly2dy4r4n21w1n1ri1~x4/sett.png)|

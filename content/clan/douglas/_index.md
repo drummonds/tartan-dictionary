@@ -1,8 +1,5 @@
 ---
 title: "Clan Douglas"
-date: 2023-03-18
+redirect: "/families/douglas-of-roxburgh/"
 ---
-## Families
-
-- [Douglas of Roxburgh](/families/douglas-of-roxburgh/)
-
+Clan Douglas is recorded as the single family [Douglas of Roxburgh](/families/douglas-of-roxburgh/) — redirecting there.

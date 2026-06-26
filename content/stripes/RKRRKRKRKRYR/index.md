@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sweetheart, The](/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/)|
-|![Sweetheart, The example sett](/setts/s12/r6k7r45m14k10o4k3m6k20m23lr5m6/sett.png)|
+| [Sweetheart, The](/setts/s12/r6k7r45mi14k10o4k3m6k20mi23lr5mi6/)|
+|![Sweetheart, The example sett](/setts/s12/r6k7r45mi14k10o4k3m6k20mi23lr5mi6/sett.png)|

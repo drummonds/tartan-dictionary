@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tomomi](/setts/s6/w5w15r40lo4g2lr2~x2/)|
-|![Tomomi example sett](/setts/s6/w5w15r40lo4g2lr2~x2/sett.png)|
+| [Tomomi](/setts/s6/w5wi15r40lo4g2lr2~x2/)|
+|![Tomomi example sett](/setts/s6/w5wi15r40lo4g2lr2~x2/sett.png)|

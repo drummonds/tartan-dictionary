@@ -28,8 +28,8 @@ It is a 5 stripe tartan.
 |![Gallaecia (Unofficial) (District) example sett](/setts/s5/db24t13db4t4w2~x2/sett.png)|
 | [Gallaecia - Galicia National](/setts/s5/db24n13db4n4w2~x2/)|
 |![Gallaecia - Galicia National example sett](/setts/s5/db24n13db4n4w2~x2/sett.png)|
-| [Gilt Edge (Corporate)](/setts/s5/db3db2t31db34w2~x2/)|
-|![Gilt Edge (Corporate) example sett](/setts/s5/db3db2t31db34w2~x2/sett.png)|
+| [Gilt Edge (Corporate)](/setts/s5/db3dbi2t31db34w2~x2/)|
+|![Gilt Edge (Corporate) example sett](/setts/s5/db3dbi2t31db34w2~x2/sett.png)|
 | [GulfMark](/setts/s5/dt72b6dt12b17w6~x2/)|
 |![GulfMark example sett](/setts/s5/dt72b6dt12b17w6~x2/sett.png)|
 | [Gulfmark (Corporate)](/setts/s5/db72t6db12t17w6~x2/)|

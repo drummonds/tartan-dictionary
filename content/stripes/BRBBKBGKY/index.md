@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Incorporation of Weavers (Glasgow)](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/)|
-|![Incorporation of Weavers (Glasgow) example sett](/setts/s9/db3o3db36db7k3db6g5k1ly3~x2/sett.png)|
+| [Incorporation of Weavers (Glasgow)](/setts/s9/db3o3db36dbi7k3dbi6g5k1ly3~x2/)|
+|![Incorporation of Weavers (Glasgow) example sett](/setts/s9/db3o3db36dbi7k3dbi6g5k1ly3~x2/sett.png)|

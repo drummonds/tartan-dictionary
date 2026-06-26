@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aberdeenshire Home Colours](/setts/s7/t19lo12r4ly8o4g6g16~x2/)|
-|![Aberdeenshire Home Colours example sett](/setts/s7/t19lo12r4ly8o4g6g16~x2/sett.png)|
+| [Aberdeenshire Home Colours](/setts/s7/t19lo12r4ly8o4gi6g16~x2/)|
+|![Aberdeenshire Home Colours example sett](/setts/s7/t19lo12r4ly8o4gi6g16~x2/sett.png)|

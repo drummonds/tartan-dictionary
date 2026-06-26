@@ -1,8 +1,5 @@
 ---
 title: "Clan Castellari"
-date: 2023-03-18
+redirect: "/families/castellari-of-lochaber-lairds-pers/"
 ---
-## Families
-
-- [Castellari of Lochaber Lairds (Pers](/families/castellari-of-lochaber-lairds-pers/)
-
+Clan Castellari is recorded as the single family [Castellari of Lochaber Lairds (Pers](/families/castellari-of-lochaber-lairds-pers/) — redirecting there.

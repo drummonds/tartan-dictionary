@@ -26,5 +26,5 @@ It is a 9 stripe tartan.
 |---------------|
 | [Kleto, Susan (Personal)](/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/)|
 |![Kleto, Susan (Personal) example sett](/setts/s9/w1dt16lo1r3lo1dg6y2dg6w1~x2/sett.png)|
-| [Kleto, Susan (Personal)](/setts/s9/w1db16ly1r3ly1g6g2g6w1~x2/)|
-|![Kleto, Susan (Personal) example sett](/setts/s9/w1db16ly1r3ly1g6g2g6w1~x2/sett.png)|
+| [Kleto, Susan (Personal)](/setts/s9/w1db16ly1r3ly1gi6g2gi6w1~x2/)|
+|![Kleto, Susan (Personal) example sett](/setts/s9/w1db16ly1r3ly1gi6g2gi6w1~x2/sett.png)|

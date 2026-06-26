@@ -2,7 +2,7 @@
 title: "Benyon of Wales"
 date: 2023-03-18
 ---
-A family of [Clan Benyon](/clan/benyon/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Wales”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Wales&viewmode=grid)
 

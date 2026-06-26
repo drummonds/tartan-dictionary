@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highlands Country Club](/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/)|
-|![Highlands Country Club example sett](/setts/s12/db15lb11lb2lb1lb1g4lb1lb1lb2lb11db15g5~x4/sett.png)|
+| [Highlands Country Club](/setts/s12/db15lbi11lb2lbi1lb1g4lb1lbi1lb2lbi11db15g5~x4/)|
+|![Highlands Country Club example sett](/setts/s12/db15lbi11lb2lbi1lb1g4lb1lbi1lb2lbi11db15g5~x4/sett.png)|

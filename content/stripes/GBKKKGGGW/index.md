@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Tombow 21st School Memorial](/setts/s9/dy4db3k18k3k2g18dy3g2lb2~x4/)|
-|![Tombow 21st School Memorial example sett](/setts/s9/dy4db3k18k3k2g18dy3g2lb2~x4/sett.png)|
+| [Tombow 21st School Memorial](/setts/s9/dy4db3ki18k3ki2g18dy3g2lb2~x4/)|
+|![Tombow 21st School Memorial example sett](/setts/s9/dy4db3ki18k3ki2g18dy3g2lb2~x4/sett.png)|

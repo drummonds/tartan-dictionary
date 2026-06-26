@@ -24,5 +24,5 @@ It is a 31 stripe tartan.
 
 | Tartans |
 |---------------|
-| [McLosek (Personal)](/setts/s31/lr8k1lr2k1lr2k8dp8t2dp1k2t2dp8k8lr8k2lr1k2lr8k8dp8t1dp2k1dp2t1lr8k8lr2k2lr1k2~x2/)|
-|![McLosek (Personal) example sett](/setts/s31/lr8k1lr2k1lr2k8dp8t2dp1k2t2dp8k8lr8k2lr1k2lr8k8dp8t1dp2k1dp2t1lr8k8lr2k2lr1k2~x2/sett.png)|
+| [McLosek (Personal)](/setts/s31/lr8k1lri2k1lr2k8dp8t2dp1k2t2dp8k8lr8k2lri1k2lr8k8dp8t1dp2k1dp2t1lr8k8lr2k2lri1k2~x2/)|
+|![McLosek (Personal) example sett](/setts/s31/lr8k1lri2k1lr2k8dp8t2dp1k2t2dp8k8lr8k2lri1k2lr8k8dp8t1dp2k1dp2t1lr8k8lr2k2lri1k2~x2/sett.png)|

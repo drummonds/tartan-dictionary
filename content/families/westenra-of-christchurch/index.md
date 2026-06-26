@@ -2,7 +2,7 @@
 title: "Westenra of Christchurch"
 date: 2023-03-18
 ---
-A family of [Clan Westenra](/clan/westenra/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Christchurch”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Christchurch&viewmode=grid)
 

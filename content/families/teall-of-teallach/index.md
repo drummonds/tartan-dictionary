@@ -2,7 +2,7 @@
 title: "Teall of Teallach"
 date: 2023-03-18
 ---
-A family of [Clan Teall](/clan/teall/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Teallach”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Teallach&viewmode=grid)
 

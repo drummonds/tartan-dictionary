@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Marie Curie Fields of Hope](/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/)|
-|![Marie Curie Fields of Hope example sett](/setts/s9/g16ly2g4ly2g5k14g28ly2g7~x2/sett.png)|
+| [Marie Curie Fields of Hope](/setts/s9/gi16ly2gi4ly2gi5k14g28ly2g7~x2/)|
+|![Marie Curie Fields of Hope example sett](/setts/s9/gi16ly2gi4ly2gi5k14g28ly2g7~x2/sett.png)|

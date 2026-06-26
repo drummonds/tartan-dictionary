@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh & Lothian T.B. (Corporate)](/setts/s7/db40db8lo3db6k3db6r4~x2/)|
-|![Edinburgh & Lothian T.B. (Corporate) example sett](/setts/s7/db40db8lo3db6k3db6r4~x2/sett.png)|
+| [Edinburgh & Lothian T.B. (Corporate)](/setts/s7/dbi40db8lo3db6k3db6r4~x2/)|
+|![Edinburgh & Lothian T.B. (Corporate) example sett](/setts/s7/dbi40db8lo3db6k3db6r4~x2/sett.png)|
 | [Milne-Murtaugh (Personal)](/setts/s7/r5t2k30n26ly2n2db4~x2/)|
 |![Milne-Murtaugh (Personal) example sett](/setts/s7/r5t2k30n26ly2n2db4~x2/sett.png)|

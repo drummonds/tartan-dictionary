@@ -2,7 +2,7 @@
 title: "Bright of Garth"
 date: 2023-03-18
 ---
-A family of [Clan Bright](/clan/bright/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Garth”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Garth&viewmode=grid)
 

@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [12 stripe tartan](/stripes/stripes12/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacDonald #5
-
 ## Thread count
 G/24 R4 G4 R10 G54 K58 R4 B52 R10 B4 R4 B/24
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.4" cy="151.8" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.9" cy="147.8" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.7" cy="172.1" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.7" cy="141.5" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.6" cy="156.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.9" cy="151.2" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.8" cy="177.6" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="143.0" cy="126.8" r="4" fill="#3465a4"><title>MacDonald of Clanranald 1</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="158.2" cy="134.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s8/r7g3r2g33k31db31k3db3/"><circle cx="179.2" cy="169.9" r="4" fill="#3465a4"><title>Baird</title></circle></a><circle cx="164.8" cy="152.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/db16r2db2r5db29r2k31g29r5g2r2g16~x2/"><circle cx="172.2" cy="152.7" r="4" fill="#3465a4"><title>MacDonald 5</title></circle></a><a href="/setts/s12/db17r2db2r6db32r2k34g32r6g2r2g17~x2/"><circle cx="174.7" cy="148.7" r="4" fill="#3465a4"><title>MacDonald 4</title></circle></a><a href="/setts/s12/db8r1db2r3db12r1k12g12r3g2r1g8~x2/"><circle cx="154.5" cy="173.2" r="4" fill="#3465a4"><title>MacDonald 8</title></circle></a><a href="/setts/s11/r3g16k12db34k12g2k2g2k2g7r3~x2/"><circle cx="187.4" cy="142.4" r="4" fill="#3465a4"><title>Rangers F.C.</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44g44ly4g5ly8/"><circle cx="185.4" cy="157.3" r="4" fill="#3465a4"><title>Gordon 3</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1g14ly1k8db8k1db1~x2/"><circle cx="181.8" cy="152.1" r="4" fill="#3465a4"><title>Campbell of Breadalbane</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21g23r5g23k20db19r5~x2/"><circle cx="146.7" cy="178.8" r="4" fill="#3465a4"><title>Murray of Atholl</title></circle></a><a href="/setts/s13/db16r2db2r7db31r2k32w3g31r7g2r2g16~x2/"><circle cx="142.8" cy="127.6" r="4" fill="#3465a4"><title>MacDonald of Clanranald 1</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w2~x2/"><circle cx="157.9" cy="135.2" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s8/r7g3r2g33k31db31k3db3/"><circle cx="179.0" cy="171.0" r="4" fill="#3465a4"><title>Baird</title></circle></a><circle cx="164.5" cy="153.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/db12r2db2r5db26r2k29g27r5g2r2g12~x2/

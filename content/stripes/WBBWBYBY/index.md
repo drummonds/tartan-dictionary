@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Monaghan County Crest (Fashion)](/setts/s8/lo15db2lr8db21w2db21db6w7~x2/)|
-|![Monaghan County Crest (Fashion) example sett](/setts/s8/lo15db2lr8db21w2db21db6w7~x2/sett.png)|
+| [Monaghan County Crest (Fashion)](/setts/s8/lo15db2lr8dbi21w2db21dbi6w7~x2/)|
+|![Monaghan County Crest (Fashion) example sett](/setts/s8/lo15db2lr8dbi21w2db21dbi6w7~x2/sett.png)|

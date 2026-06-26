@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Wyckoff (Commemorative)](/setts/s8/lb70b5lb3r5lb3w5b3r5~x2/)|
-|![Wyckoff (Commemorative) example sett](/setts/s8/lb70b5lb3r5lb3w5b3r5~x2/sett.png)|
+| [Wyckoff (Commemorative)](/setts/s8/lb70b5lb3ri5lb3w5b3r5~x2/)|
+|![Wyckoff (Commemorative) example sett](/setts/s8/lb70b5lb3ri5lb3w5b3r5~x2/sett.png)|

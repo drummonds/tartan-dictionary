@@ -38,10 +38,10 @@ It is a 6 stripe tartan.
 |![Lovat or Fraser #2 example sett](/setts/s6/r80dp19r8dg36r10dp2~x2/sett.png)|
 | [Lovat, or Fraser](/setts/s6/r80p19r8g36r10p2~x2/)|
 |![Lovat, or Fraser example sett](/setts/s6/r80p19r8g36r10p2~x2/sett.png)|
-| [MacKintosh](/tartans/r24db6r3dg12r4db1/)|
-|![MacKintosh example sett](/setts/s6/r24db6r3dg12r4db1/sett.png)|
 | [MacKintosh](/setts/s6/r70db20r10g40r10db3/)|
 |![MacKintosh example sett](/setts/s6/r70db20r10g40r10db3/sett.png)|
+| [MacKintosh](/tartans/r24db6r3dg12r4db1/)|
+|![MacKintosh example sett](/setts/s6/r24db6r3dg12r4db1/sett.png)|
 | [MacKintosh #2](/setts/s6/r68db18r9dg34r9db3~x2/)|
 |![MacKintosh #2 example sett](/setts/s6/r68db18r9dg34r9db3~x2/sett.png)|
 | [MacKintosh #3](/setts/s6/r48db2r3dg28r4db2~x2/)|

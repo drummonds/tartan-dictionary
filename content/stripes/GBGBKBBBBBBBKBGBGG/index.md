@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jones Hunting](/setts/s18/g24dp4g3dp8k3t8dp2t2dp4t2dp2t8k3dp8g3dp4g24g2~x2/)|
-|![Jones Hunting example sett](/setts/s18/g24dp4g3dp8k3t8dp2t2dp4t2dp2t8k3dp8g3dp4g24g2~x2/sett.png)|
+| [Jones Hunting](/setts/s18/gi24dp4gi3dp8k3t8dp2t2dp4t2dp2t8k3dp8gi3dp4gi24g2~x2/)|
+|![Jones Hunting example sett](/setts/s18/gi24dp4gi3dp8k3t8dp2t2dp4t2dp2t8k3dp8gi3dp4gi24g2~x2/sett.png)|

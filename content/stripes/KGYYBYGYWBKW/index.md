@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Idaho (Fashion)](/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/)|
-|![State Seal of Idaho (Fashion) example sett](/setts/s12/lb4k1b33lb4lo15g4lo3b4lo15lo2g30k2~x2/sett.png)|
+| [State Seal of Idaho (Fashion)](/setts/s12/lb4k1b33lb4loi15g4loi3b4loi15lo2g30k2~x2/)|
+|![State Seal of Idaho (Fashion) example sett](/setts/s12/lb4k1b33lb4loi15g4loi3b4loi15lo2g30k2~x2/sett.png)|

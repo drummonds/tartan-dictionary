@@ -2,7 +2,7 @@
 title: "Couper of Gogar"
 date: 2023-03-18
 ---
-A family of [Clan Couper](/clan/couper/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Gogar”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Gogar&viewmode=grid)
 

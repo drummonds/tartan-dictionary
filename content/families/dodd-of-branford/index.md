@@ -2,7 +2,7 @@
 title: "Dodd of Branford"
 date: 2023-03-18
 ---
-A family of [Clan Dodd](/clan/dodd/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Branford”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Branford&viewmode=grid)
 

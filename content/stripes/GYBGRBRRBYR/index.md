@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scotland (Personal)](/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/)|
-|![Scotland (Personal) example sett](/setts/s11/r3ly1dp1r20r2dp9r2g20dp1ly1g3~x2/sett.png)|
+| [Scotland (Personal)](/setts/s11/r3ly1dp1r20ri2dp9ri2g20dp1ly1g3~x2/)|
+|![Scotland (Personal) example sett](/setts/s11/r3ly1dp1r20ri2dp9ri2g20dp1ly1g3~x2/sett.png)|

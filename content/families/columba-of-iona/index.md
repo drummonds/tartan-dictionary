@@ -2,7 +2,7 @@
 title: "Columba of Iona"
 date: 2023-03-18
 ---
-A family of [Clan Columba](/clan/columba/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Iona”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Iona&viewmode=grid)
 

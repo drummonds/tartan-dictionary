@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3138
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Nicolson
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="276.1" cy="175.4" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/setts/s13/k2r8g2r8g13r1k7lb1k7r8g2r8k2~x4/"><circle cx="241.9" cy="172.3" r="4" fill="#3465a4"><title>Nicolson (Lochcarron)</title></circle></a><a href="/setts/s11/k2r8dg2r8k8db1k4r2dg12r8dg2~x2/"><circle cx="229.2" cy="181.4" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="271.4" cy="174.6" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/setts/s11/k2r8g2r8k8b1k4r2g12r8g2~x4/"><circle cx="230.9" cy="184.4" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="259.1" cy="200.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/k10r12g3r12k2r12g3r12g20r2k8t2/"><circle cx="227.1" cy="176.8" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="258.9" cy="171.1" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="286.1" cy="194.9" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="281.5" cy="188.7" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><circle cx="248.2" cy="182.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/r2db1r10k4r2dg8r2dg8r7k1r2db1~x2/"><circle cx="275.2" cy="176.2" r="4" fill="#3465a4"><title>MacQuarrie Ancient</title></circle></a><a href="/setts/s13/k2r8g2r8g13r1k7lb1k7r8g2r8k2~x4/"><circle cx="241.1" cy="173.2" r="4" fill="#3465a4"><title>Nicolson (Lochcarron)</title></circle></a><a href="/setts/s11/k2r8dg2r8k8db1k4r2dg12r8dg2~x2/"><circle cx="228.5" cy="182.4" r="4" fill="#3465a4"><title>MacNicol/Nicolson (W &amp; A Smith)</title></circle></a><a href="/setts/s11/r8g2r8k8db1k3r2g15r8k2r6~x4/"><circle cx="270.5" cy="175.4" r="4" fill="#3465a4"><title>MacNicol/Nicolson (Inverness Tweed Mill Co Ltd)</title></circle></a><a href="/setts/s11/k2r8g2r8k8b1k4r2g12r8g2~x4/"><circle cx="230.2" cy="185.4" r="4" fill="#3465a4"><title>MacNicol Dress (Clan) (Smiths)</title></circle></a><a href="/setts/s9/r12g2r4g4k15t4r4t2r12~x2/"><circle cx="258.2" cy="201.2" r="4" fill="#3465a4"><title>Alexander - 1985 (Name)</title></circle></a><a href="/setts/s12/k10r12g3r12k2r12g3r12g20r2k8t2/"><circle cx="226.3" cy="177.8" r="4" fill="#3465a4"><title>Nicolson</title></circle></a><a href="/setts/s12/r2db1r10k4r2g8r2g8r7k1r2db1~x2/"><circle cx="258.0" cy="172.0" r="4" fill="#3465a4"><title>MacQuarrie, Ancient</title></circle></a><a href="/setts/s9/g5w2g8r9k3r4k3r17g3~x2/"><circle cx="285.1" cy="195.8" r="4" fill="#3465a4"><title>Morrison</title></circle></a><a href="/setts/s9/dg9lb4dg15r17k5r7k5r32dg5/"><circle cx="280.4" cy="189.7" r="4" fill="#3465a4"><title>Morrison LC</title></circle></a><circle cx="247.4" cy="183.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/k10r12dg3r12k2r12dg3r12dg20r2k8t2/

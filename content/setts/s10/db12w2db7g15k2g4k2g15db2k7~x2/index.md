@@ -9,11 +9,11 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2583/
 
-## Also known as
+## Register references
 
-This cloth is also recorded under:
+External register numbers recorded for this tartan.
 
-- Smeaton #2
+- Scottish Tartans Authority (ITI): 2583
 
 ## Thread count
 DB/24 LN4 DB14 G30 K4 G8 K4 G30 DB4 K/14
@@ -30,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="272.1" cy="207.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="272.1" cy="207.4" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/setts/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="256.1" cy="215.9" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.6" cy="205.5" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s9/db22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="217.2" cy="209.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/setts/s8/b5k1g3k1b3k1g10r3~x2/"><circle cx="258.6" cy="214.9" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/"><circle cx="306.9" cy="225.6" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9~x2/"><circle cx="267.9" cy="223.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="266.8" cy="203.1" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s6/g3db1g8db7k3ly1~x2/"><circle cx="248.8" cy="247.4" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><circle cx="248.9" cy="226.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="271.9" cy="208.2" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="271.9" cy="208.2" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/setts/s8/db6k1g3k1db3k1g10r3~x2/"><circle cx="255.9" cy="216.8" r="4" fill="#3465a4"><title>AIton - 1979 (Clan)</title></circle></a><a href="/setts/s10/db19g7db7t2g20k9g6k4g10w3~x2/"><circle cx="224.4" cy="206.4" r="4" fill="#3465a4"><title>O'Connell, William (Name)</title></circle></a><a href="/setts/s9/db22g4k4g14lb3g4lb3g4k3~x2/"><circle cx="217.0" cy="210.0" r="4" fill="#3465a4"><title>Graden (Personal)</title></circle></a><a href="/setts/s8/b5k1g3k1b3k1g10r3~x2/"><circle cx="258.4" cy="215.7" r="4" fill="#3465a4"><title>Ayrton 1979 No. 2 (Personal)</title></circle></a><a href="/setts/s11/r1g8db2g2db6g1db6g2db2g8ly1~x4/"><circle cx="306.6" cy="226.5" r="4" fill="#3465a4"><title>Bruce of Crionaich (Personal)</title></circle></a><a href="/setts/s10/k20t2k6g16dp4k9~x2/"><circle cx="267.8" cy="224.4" r="4" fill="#3465a4"><title>Wilson's No.167</title></circle></a><a href="/setts/s9/g14w1g7k7db2k2db2k2db7~x4/"><circle cx="266.7" cy="203.9" r="4" fill="#3465a4"><title>Abercrombie</title></circle></a><a href="/setts/s6/g3db1g8db7k3ly1~x2/"><circle cx="248.7" cy="248.5" r="4" fill="#3465a4"><title>Trafalgar (Fashion)</title></circle></a><circle cx="248.8" cy="227.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db12w2db7g15k2g4k2g15db2k7~x2/

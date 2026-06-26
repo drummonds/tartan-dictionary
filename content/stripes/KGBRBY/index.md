@@ -24,7 +24,7 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Carmichael](/setts/s6/k5g32db32r3db3ly3~x2/)|
-|![Carmichael example sett](/setts/s6/k5g32db32r3db3ly3~x2/sett.png)|
 | [Carmichael](/setts/s6/k3g36db28r2db2ly3~x2/)|
 |![Carmichael example sett](/setts/s6/k3g36db28r2db2ly3~x2/sett.png)|
+| [Carmichael](/setts/s6/k5g32db32r3db3ly3~x2/)|
+|![Carmichael example sett](/setts/s6/k5g32db32r3db3ly3~x2/sett.png)|

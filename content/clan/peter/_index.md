@@ -1,8 +1,5 @@
 ---
 title: "Clan Peter"
-date: 2023-03-18
+redirect: "/families/peter-of-lee/"
 ---
-## Families
-
-- [Peter of Lee](/families/peter-of-lee/)
-
+Clan Peter is recorded as the single family [Peter of Lee](/families/peter-of-lee/) — redirecting there.

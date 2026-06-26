@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Muir Homes](/setts/s11/db66k20db7y4db5y4db5y4db7k2lr6/)|
-|![Muir Homes example sett](/setts/s11/db66k20db7y4db5y4db5y4db7k2lr6/sett.png)|
+| [Muir Homes](/setts/s11/db66k20dbi7y4dbi5y4dbi5y4dbi7k2lr6/)|
+|![Muir Homes example sett](/setts/s11/db66k20dbi7y4dbi5y4dbi5y4dbi7k2lr6/sett.png)|

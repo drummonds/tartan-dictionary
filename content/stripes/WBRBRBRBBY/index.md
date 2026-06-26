@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [X Marks the Scot](/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/)|
-|![X Marks the Scot example sett](/setts/s10/w6db32o3db3o1db3o2db4db1ly2~x2/sett.png)|
+| [X Marks the Scot](/setts/s10/w6db32o3db3o1db3o2dbi4db1ly2~x2/)|
+|![X Marks the Scot example sett](/setts/s10/w6db32o3db3o1db3o2dbi4db1ly2~x2/sett.png)|

@@ -2,7 +2,7 @@
 title: "Jewell of Kernow"
 date: 2023-03-18
 ---
-A family of [Clan Jewell](/clan/jewell/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Kernow”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Kernow&viewmode=grid)
 

@@ -1,8 +1,5 @@
 ---
 title: "Clan Irvine"
-date: 2023-03-18
+redirect: "/families/irvine-of-drum/"
 ---
-## Families
-
-- [Irvine of Drum](/families/irvine-of-drum/)
-
+Clan Irvine is recorded as the single family [Irvine of Drum](/families/irvine-of-drum/) — redirecting there.

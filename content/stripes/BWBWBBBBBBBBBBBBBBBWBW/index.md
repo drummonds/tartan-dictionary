@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Sky](/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/)|
-|![Highland Sky example sett](/setts/s22/n43dt2n2n1dt11n2dt2n1lb1n20lb4n7~x2/sett.png)|
+| [Highland Sky](/setts/s22/n43dti2n2n1dt11n2dti2n1lb1n20lbi4n7~x2/)|
+|![Highland Sky example sett](/setts/s22/n43dti2n2n1dt11n2dti2n1lb1n20lbi4n7~x2/sett.png)|

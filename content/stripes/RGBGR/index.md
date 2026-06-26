@@ -30,5 +30,5 @@ It is a 5 stripe tartan.
 |![Loton (Personal) example sett](/setts/s5/r6dg2db2dg17r2~x4/sett.png)|
 | [MacNab (Smith)](/setts/s5/r24g2t1g1m24~x4/)|
 |![MacNab (Smith) example sett](/setts/s5/r24g2t1g1m24~x4/sett.png)|
-| [MacNab 4](/setts/s5/r24g2t1g1r24~x2/)|
-|![MacNab 4 example sett](/setts/s5/r24g2t1g1r24~x2/sett.png)|
+| [MacNab 4](/setts/s5/r24g2t1g1ri24~x2/)|
+|![MacNab 4 example sett](/setts/s5/r24g2t1g1ri24~x2/sett.png)|

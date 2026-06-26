@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Blue Castlefield](/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/)|
-|![Blue Castlefield example sett](/setts/s12/lr3k15k10o10k1g5k1o10k10g8k1k2~x2/sett.png)|
+| [Blue Castlefield](/setts/s12/lr3k15ki10o10k1g5k1oi10k10g8k1ki2~x2/)|
+|![Blue Castlefield example sett](/setts/s12/lr3k15ki10o10k1g5k1oi10k10g8k1ki2~x2/sett.png)|

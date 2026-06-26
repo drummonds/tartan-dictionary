@@ -18,6 +18,12 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/768/
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 768
+
 ## Thread count
 G/48 K4 DB6 K4 DB16 R/4
 ![Sett](sett.png)
@@ -37,8 +43,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="343.8" cy="189.0" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/"><circle cx="342.6" cy="188.7" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="340.2" cy="226.0" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/setts/s7/dt16g4dt3g3lo2g24r2~x2/"><circle cx="383.9" cy="221.1" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/setts/s8/g2k3ly1k3g2db8g16k1~x4/"><circle cx="338.0" cy="188.9" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24ly3r2~x2/"><circle cx="330.5" cy="180.5" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="341.3" cy="187.0" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32w4~x2/"><circle cx="323.4" cy="225.9" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/dg46k18dg6k13r4k4w4~x2/"><circle cx="344.1" cy="209.7" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="379.1" cy="223.9" r="4" fill="#3465a4"><title>Hector James</title></circle></a><circle cx="369.8" cy="208.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/g40r3g4r3g12db32lo4r3~x2/"><circle cx="343.4" cy="189.5" r="4" fill="#3465a4"><title>US Marine Corps</title></circle></a><a href="/setts/s8/dg40r3dg4r3dg12db32ly4r3~x2/"><circle cx="342.1" cy="189.3" r="4" fill="#3465a4"><title>U.S. Marine Corps (Military?)</title></circle></a><a href="/setts/s5/g12lo1db8k1db1~x4/"><circle cx="339.9" cy="226.8" r="4" fill="#3465a4"><title>Rowan (Personal)</title></circle></a><a href="/setts/s7/dt16g4dt3g3lo2g24r2~x2/"><circle cx="383.6" cy="221.6" r="4" fill="#3465a4"><title>St Andrews Links</title></circle></a><a href="/setts/s8/g2k3ly1k3g2db8g16k1~x4/"><circle cx="337.6" cy="189.5" r="4" fill="#3465a4"><title>Harley (Leslie), Robert</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24ly3r2~x2/"><circle cx="330.0" cy="181.0" r="4" fill="#3465a4"><title>Leatherneck U.S.Marine Corps Corporate Tartan Tartan Number: 975. Earliest known date: 1986 Designed by Madam Leask and the Scottish Tartans Society Accredited in 1981. See products available Copyright © Blair Urquhart, Comrie, 2015</title></circle></a><a href="/setts/s8/g28r2g2r2g8db24y3r2~x2/"><circle cx="340.8" cy="187.5" r="4" fill="#3465a4"><title>Leatherneck, U.S.Marine Corps</title></circle></a><a href="/setts/s6/dg4db12r3db12dg32w4~x2/"><circle cx="323.1" cy="226.7" r="4" fill="#3465a4"><title>MacIntyre</title></circle></a><a href="/setts/s7/dg46k18dg6k13r4k4w4~x2/"><circle cx="343.8" cy="210.5" r="4" fill="#3465a4"><title>Page</title></circle></a><a href="/setts/s5/r2g5db27g11o2~x2/"><circle cx="378.7" cy="224.5" r="4" fill="#3465a4"><title>Hector James</title></circle></a><circle cx="369.4" cy="209.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/g24k2db3k2db8r2~x2/

@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [7 stripe tartan](/stripes/stripes7/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2224/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2224
+
 ## Thread count
 DR/40 DB60 G8 DB8 LN4 DB4 LN/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="340.1" cy="187.2" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s6/w2db15r3g3r3db1~x8/"><circle cx="342.0" cy="176.6" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/setts/s6/w2db35k9w3k9ly2~x2/"><circle cx="349.8" cy="171.5" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.5" cy="182.2" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s6/lb9k16dg10k22dp67lo4/"><circle cx="292.6" cy="166.0" r="4" fill="#3465a4"><title>Widows Sons Scotland (MRA)</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="350.5" cy="172.9" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s9/k38t2m24w2k16m6t2k3t5~x2/"><circle cx="339.6" cy="150.1" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.8" cy="146.2" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.9" cy="198.5" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><a href="/setts/s6/lb12dg16k12dg24dp75lo4/"><circle cx="292.3" cy="161.6" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="340.3" cy="169.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/r10db4r6db30k10db5w2~x2/"><circle cx="339.5" cy="188.1" r="4" fill="#3465a4"><title>Heritage of Wales (Fashion)</title></circle></a><a href="/setts/s6/w2db15r3g3r3db1~x8/"><circle cx="341.2" cy="177.4" r="4" fill="#3465a4"><title>Lothian Buses (Corporate?)</title></circle></a><a href="/setts/s6/w2db35k9w3k9ly2~x2/"><circle cx="349.3" cy="172.4" r="4" fill="#3465a4"><title>Hannah (Personal)</title></circle></a><a href="/setts/s8/db30r2db2r4db9k26w2k4~x2/"><circle cx="334.1" cy="183.0" r="4" fill="#3465a4"><title>Murdoch Celebration (Personal)</title></circle></a><a href="/setts/s6/lb9k16dg10k22dp67lo4/"><circle cx="292.1" cy="166.9" r="4" fill="#3465a4"><title>Widows Sons Scotland (MRA)</title></circle></a><a href="/setts/s7/db2ly1db18g7r7db1g1~x2/"><circle cx="349.9" cy="173.6" r="4" fill="#3465a4"><title>Unnamed C20th - USA</title></circle></a><a href="/setts/s9/k38t2m24w2k16m6t2k3t5~x2/"><circle cx="338.9" cy="150.9" r="4" fill="#3465a4"><title>Universal Scientific Indust (Corp.)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.1" cy="146.9" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s8/k21db8r4db2r2db23k4w2~x2/"><circle cx="308.6" cy="199.4" r="4" fill="#3465a4"><title>Murdoch Clebration (Personal)</title></circle></a><a href="/setts/s6/lb12dg16k12dg24dp75lo4/"><circle cx="291.7" cy="162.5" r="4" fill="#3465a4"><title>Widows Sons Scotland Dress</title></circle></a><circle cx="339.6" cy="170.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s7/r10db15g2db2w1db1w1~x4/

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Scottish Funereal Association](/setts/s8/k12db1k2db1k1db4dg1k1~x4/)|
-|![Scottish Funereal Association example sett](/setts/s8/k12db1k2db1k1db4dg1k1~x4/sett.png)|
+| [Scottish Funereal Association](/setts/s8/k12db1k2dbi1k1dbi4dg1k1~x4/)|
+|![Scottish Funereal Association example sett](/setts/s8/k12db1k2dbi1k1dbi4dg1k1~x4/sett.png)|

@@ -3,7 +3,7 @@ title: 4 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 4
 ---
-422 setts across 393 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+422 setts across 404 tartans with 4 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes4/">‹ prev</a> <a href="/stripes/stripes4/">1</a> <strong>2</strong> </nav>
 
 ### WBBY
@@ -62,7 +62,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.14 | [Green Alaskan](/setts/s4/dg41y26y19n19~x2/) | register-of-tartans |
+| 0.14 | [Green Alaskan](/setts/s4/dg41y26yi19n19~x2/) | register-of-tartans |
 
 ### BGGR
 <a class="pat" href="/stripes/bggr/"><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="seq">BGGR</span></a>
@@ -405,7 +405,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Feddinch Club, St Andrews Limited, The](/setts/s4/dg43k14k14r2~x2/) | register-of-tartans |
+| 0.17 | [Feddinch Club, St Andrews Limited, The](/setts/s4/dg43k14ki14r2~x2/) | register-of-tartans |
 
 ### GKRK
 <a class="pat" href="/stripes/gkrk/"><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="seq">GKRK</span></a>
@@ -496,7 +496,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [City of London](/setts/s4/k5n24w24k5~x2/) | register-of-tartans |
+| 0.12 | [City of London](/setts/s4/k5w24n24ki5~x2/) | register-of-tartans |
 
 ### KBWY
 <a class="pat" href="/stripes/kbwy/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">KBWY</span></a>
@@ -531,7 +531,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Wesley Owen 2010 (Personal)](/setts/s4/k61g10g20w4~x2/) | tartans-authority |
+| 0.11 | [Wesley Owen 2010 (Personal)](/setts/s4/k61gi10g20w4~x2/) | tartans-authority |
 
 ### KGKW
 <a class="pat" href="/stripes/kgkw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KGKW</span></a>
@@ -559,7 +559,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.17 | [Maryville College](/setts/s4/k13r40o13o8~x2/) | register-of-tartans |
+| 0.17 | [Maryville College](/setts/s4/k13r40o13oi8~x2/) | register-of-tartans |
 
 ### KWBW
 <a class="pat" href="/stripes/kwbw/"><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">KWBW</span></a>
@@ -615,7 +615,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Mackaw](/setts/s4/r2db35db35ly1~x2/) | register-of-tartans |
+| 0.12 | [Mackaw](/setts/s4/r2dbi35db35ly1~x2/) | register-of-tartans |
 
 ### RBGY
 <a class="pat" href="/stripes/rbgy/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RBGY</span></a>
@@ -706,7 +706,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [McPeek (Fictitious clan)](/setts/s4/r63k8k8ly5~x2/) | register-of-tartans |
+| 0.11 | [McPeek (Fictitious clan)](/setts/s4/r63ki8k8ly5~x2/) | register-of-tartans |
 
 ### RKRW
 <a class="pat" href="/stripes/rkrw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKRW</span></a>
@@ -734,7 +734,7 @@ weight: 4
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Loch Garth](/setts/s4/o12o6o2ly1~x4/) | weddslist |
+| 0.11 | [Loch Garth](/setts/s4/oi12o6oi2ly1~x4/) | weddslist |
 
 ### RRWR
 <a class="pat" href="/stripes/rrwr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="seq">RRWR</span></a>

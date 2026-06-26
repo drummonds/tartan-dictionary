@@ -24,5 +24,5 @@ It is a 36 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Saskatchewan (CIDD 28105)](/setts/s36/g50g16g8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40g12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/)|
-|![Saskatchewan (CIDD 28105) example sett](/setts/s36/g50g16g8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40g12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/sett.png)|
+| [Saskatchewan (CIDD 28105)](/setts/s36/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/)|
+|![Saskatchewan (CIDD 28105) example sett](/setts/s36/gi50g16gi8w8g1w1g1w1g1w1g1w1g1w1g1w1g20w40gi12w24ly8g1ly1g1ly1g1ly1g1ly1g1ly1g1ly1g28ly6w4/sett.png)|

@@ -24,7 +24,7 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Ancient Universal (Fashion?)](/setts/s8/y12dg2y2dg2y2dy8y8dy1~x2/)|
-|![Ancient Universal (Fashion?) example sett](/setts/s8/y12dg2y2dg2y2dy8y8dy1~x2/sett.png)|
-| [Semper](/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/)|
-|![Semper example sett](/setts/s8/g16dg1y4dg41y1dg6g2dg2~x2/sett.png)|
+| [Ancient Universal (Fashion?)](/setts/s8/yi12dg2yi2dg2yi2dy8y8dy1~x2/)|
+|![Ancient Universal (Fashion?) example sett](/setts/s8/yi12dg2yi2dg2yi2dy8y8dy1~x2/sett.png)|
+| [Semper](/setts/s8/gi16dg1y4dg41y1dg6g2dg2~x2/)|
+|![Semper example sett](/setts/s8/gi16dg1y4dg41y1dg6g2dg2~x2/sett.png)|

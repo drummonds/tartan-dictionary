@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [13 stripe tartan](/stripes/stripes13
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2353
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacDonald of Clanranald #2
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.7" cy="151.0" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="175.5" cy="154.0" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="182.0" cy="150.1" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="178.1" cy="160.7" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12w1k12r1db12r3db2r1db8~x2/"><circle cx="172.3" cy="166.2" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/"><circle cx="203.5" cy="131.4" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.1" cy="156.4" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.2" cy="144.1" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/"><circle cx="171.3" cy="141.9" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4lb1~x2/"><circle cx="177.7" cy="164.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry - 1914 (Clan)</title></circle></a><circle cx="182.1" cy="145.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dg16k5dg4k8dg44k40dg4db52r10db4r4db10w6/"><circle cx="183.6" cy="151.7" r="4" fill="#3465a4"><title>MacNeil of Colonsay (Highland Society of London)</title></circle></a><a href="/setts/s13/dg13r2dg2r6dg25ly2k27r2db25r6db2r2db13~x2/"><circle cx="175.5" cy="154.7" r="4" fill="#3465a4"><title>Unnamed C20th - Unregistered Error</title></circle></a><a href="/setts/s11/db16r5db30r2k33g30r5g2r2g7w4/"><circle cx="181.9" cy="150.9" r="4" fill="#3465a4"><title>MacDonell of Glengarry #3</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12dg12r3dg2r1dg4w1~x2/"><circle cx="178.0" cy="161.5" r="4" fill="#3465a4"><title>MacDonell of Glengarry</title></circle></a><a href="/setts/s13/dg8r1dg2r3dg12w1k12r1db12r3db2r1db8~x2/"><circle cx="172.2" cy="167.0" r="4" fill="#3465a4"><title>MacDonald of Clanranald</title></circle></a><a href="/setts/s14/db20r2db2r5db30r2k32w2dg30r5dg4r2dg4w2/"><circle cx="203.3" cy="132.1" r="4" fill="#3465a4"><title>MacDonald of Clanranald #5</title></circle></a><a href="/setts/s11/g8r1g1r3g16k16r1db16r3db8ly2~x2/"><circle cx="175.0" cy="157.2" r="4" fill="#3465a4"><title>Cameron of Erracht (Clan)</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12dg16r1k1ly2~x2/"><circle cx="177.0" cy="144.8" r="4" fill="#3465a4"><title>MacLennan</title></circle></a><a href="/setts/s11/r6db3r2db2r2db16k12g16r1k1ly2~x2/"><circle cx="171.0" cy="142.7" r="4" fill="#3465a4"><title>Logan #7</title></circle></a><a href="/setts/s13/db8r1db2r3db12r1k12g12r3g2r1g4lb1~x2/"><circle cx="177.6" cy="165.3" r="4" fill="#3465a4"><title>MacDonell of Glengarry - 1914 (Clan)</title></circle></a><circle cx="182.0" cy="146.0" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg16r2dg2r7dg31w3k32r2db31r7db2r2db16~x2/

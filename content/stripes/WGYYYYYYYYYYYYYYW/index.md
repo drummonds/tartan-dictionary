@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Green Thistle](/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/)|
-|![Green Thistle example sett](/setts/s17/w3dg15lr12ly1lr1ly1lr1ly1lr1ly1lr1ly1lr1ly3ly3ly15w3~x2/sett.png)|
+| [Green Thistle](/setts/s17/w3dg15lr12lyi1lr1lyi1lr1lyi1lr1lyi1lr1lyi1lr1lyi3ly3lyi15w3~x2/)|
+|![Green Thistle example sett](/setts/s17/w3dg15lr12lyi1lr1lyi1lr1lyi1lr1lyi1lr1lyi1lr1lyi3ly3lyi15w3~x2/sett.png)|

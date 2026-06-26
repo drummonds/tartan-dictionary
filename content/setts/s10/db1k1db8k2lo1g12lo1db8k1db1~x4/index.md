@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2067/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2067
+
 ## Thread count
 DB/4 K4 DB32 K8 DY4 G48 DY4 DB32 K4 DB/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g24k2db3k2db8r2~x2/"><circle cx="284.8" cy="184.8" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.5" cy="198.4" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/dr2db4g12db3dr6t2db24dr2db2g2~x2/"><circle cx="348.4" cy="189.2" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><a href="/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="271.2" cy="185.8" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/setts/s10/g25db10dy3db2dy2db6~x2/"><circle cx="313.7" cy="205.8" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/setts/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="334.1" cy="197.7" r="4" fill="#3465a4"><title>Kinross (Fashion)</title></circle></a><a href="/setts/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="273.5" cy="195.7" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/setts/s13/b24k2b2k2b2k10g5dp3g5k10b11k2b4~x2/"><circle cx="282.6" cy="175.9" r="4" fill="#3465a4"><title>Blanton</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="301.2" cy="172.8" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s8/g47r3g6db35lo3~x2/"><circle cx="326.3" cy="189.7" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="300.4" cy="185.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/g24k2db3k2db8r2~x2/"><circle cx="284.7" cy="185.4" r="4" fill="#3465a4"><title>Shaw</title></circle></a><a href="/setts/s10/g8r3g3r5g26db7t3db28r3db6~x2/"><circle cx="271.3" cy="199.2" r="4" fill="#3465a4"><title>Stewart of Appin Htg (error)</title></circle></a><a href="/setts/s10/dr2db4g12db3dr6t2db24dr2db2g2~x2/"><circle cx="348.2" cy="189.8" r="4" fill="#3465a4"><title>Wicklow</title></circle></a><a href="/setts/s13/k6g3k3g28db4g4db10g4db4g4db24g5w3~x2/"><circle cx="271.0" cy="186.6" r="4" fill="#3465a4"><title>Marthas Vineyard (District)</title></circle></a><a href="/setts/s10/g25db10dy3db2dy2db6~x2/"><circle cx="313.6" cy="206.6" r="4" fill="#3465a4"><title>Inkster</title></circle></a><a href="/setts/s8/dg20db2g6db2dg4db27lo2db8~x2/"><circle cx="333.9" cy="198.5" r="4" fill="#3465a4"><title>Kinross (Fashion)</title></circle></a><a href="/setts/s9/g20k2g2k2g2k8db24dp3db3~x2/"><circle cx="273.5" cy="196.4" r="4" fill="#3465a4"><title>MacHarg, Iain</title></circle></a><a href="/setts/s13/b24k2b2k2b2k10g5dp3g5k10b11k2b4~x2/"><circle cx="282.3" cy="176.7" r="4" fill="#3465a4"><title>Blanton</title></circle></a><a href="/setts/s10/r2db12w1db1g1r1g7db1g12w1~x4/"><circle cx="300.8" cy="173.4" r="4" fill="#3465a4"><title>Tennessee State (US State)</title></circle></a><a href="/setts/s8/g47r3g6db35lo3~x2/"><circle cx="326.0" cy="190.5" r="4" fill="#3465a4"><title>Gracie</title></circle></a><circle cx="300.2" cy="186.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db1k1db8k2lo1g12lo1db8k1db1~x4/

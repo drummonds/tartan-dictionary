@@ -1,8 +1,5 @@
 ---
 title: "Clan Waters"
-date: 2023-03-18
+redirect: "/families/waters-of-georgian-bay/"
 ---
-## Families
-
-- [Waters of Georgian Bay](/families/waters-of-georgian-bay/)
-
+Clan Waters is recorded as the single family [Waters of Georgian Bay](/families/waters-of-georgian-bay/) — redirecting there.

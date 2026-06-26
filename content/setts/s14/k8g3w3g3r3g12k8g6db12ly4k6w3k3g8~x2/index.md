@@ -25,6 +25,12 @@ This cloth is also recorded under:
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 825
+
 ## Thread count
 K/16 G6 W6 G6 R6 G24 K16 G12 DB24 Y8 K12 W6 K6 G/16
 ![Sett](sett.png)
@@ -40,8 +46,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/"><circle cx="76.5" cy="202.7" r="4" fill="#3465a4"><title>Graham-Maila (Personal)</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.6" cy="176.7" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.4" cy="194.6" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/"><circle cx="46.4" cy="171.1" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4~x2/"><circle cx="123.4" cy="205.2" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="55.8" cy="197.3" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="50.1" cy="170.0" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.3" cy="193.6" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s26/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/"><circle cx="35.3" cy="167.1" r="4" fill="#3465a4"><title>Scott (Green)</title></circle></a><a href="/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/"><circle cx="14.0" cy="170.5" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><circle cx="56.1" cy="198.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/db5k3r4g9w2g9k9g9w2g9k9ly7k3~x2/"><circle cx="76.2" cy="204.0" r="4" fill="#3465a4"><title>Graham-Maila (Personal)</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.4" cy="177.7" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s11/db6r2db6ly3g6k1g2lb2g2k1g6~x2/"><circle cx="123.1" cy="195.7" r="4" fill="#3465a4"><title>Presbyterian Synod (US) (Corporate)</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1lo2db1r3lo1r3~x4/"><circle cx="46.1" cy="172.3" r="4" fill="#3465a4"><title>Festival Celtique de Québec</title></circle></a><a href="/setts/s14/g5r4g19k10g8w4db18r4~x2/"><circle cx="123.2" cy="206.4" r="4" fill="#3465a4"><title>CSCA</title></circle></a><a href="/setts/s18/db8o3db3o3db3o3db4g4k3g3k3g3k3g13r8g4db3k6~x2/"><circle cx="55.7" cy="198.6" r="4" fill="#3465a4"><title>Glasgow, Celtic Society</title></circle></a><a href="/setts/s14/g5k1g5k1db5w1db5g2w1ly2db1r3ly1r3~x4/"><circle cx="49.8" cy="171.2" r="4" fill="#3465a4"><title>Festival Celtique de Qubecc</title></circle></a><a href="/setts/s12/g8ly2k6g11r2dt12k12r2k6ly2k4r3~x2/"><circle cx="111.1" cy="194.8" r="4" fill="#3465a4"><title>Mandela Commemorative</title></circle></a><a href="/setts/s26/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/"><circle cx="35.1" cy="168.3" r="4" fill="#3465a4"><title>Scott (Green)</title></circle></a><a href="/setts/s16/g4w2r2t3db3do2db2do2g2do2g3do2g8do6w8t2~x2/"><circle cx="14.0" cy="171.8" r="4" fill="#3465a4"><title>Missouri Dress (Proposed) (District)</title></circle></a><circle cx="55.9" cy="199.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/k8g3w3g3r3g12k8g6db12ly4k6w3k3g8~x2/

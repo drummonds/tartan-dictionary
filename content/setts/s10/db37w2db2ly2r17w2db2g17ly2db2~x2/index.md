@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [10 stripe tartan](/stripes/stripes10/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8347/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8347](https://www.tartanregister.gov.uk/tartanDetails?ref=8347)
+- Scottish Tartans Authority (ITI): 8347
+
 ## Thread count
 DB/74 LN4 DB4 Y4 R34 LN4 DB4 G34 Y4 DB/4
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.8" cy="108.0" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/"><circle cx="265.1" cy="110.6" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.5" cy="130.3" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="284.3" cy="111.1" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s10/o38k4w4k4n10k4n10k4w2dp3~x2/"><circle cx="250.5" cy="119.1" r="4" fill="#3465a4"><title>Penman Grey (Personal)</title></circle></a><a href="/setts/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="211.3" cy="117.4" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="309.0" cy="117.1" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="243.3" cy="77.5" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="210.0" cy="129.1" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.8" cy="128.7" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><circle cx="276.1" cy="114.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/dt48t12lo3w3lo3r11dt5r2lo7w2~x2/"><circle cx="312.1" cy="108.4" r="4" fill="#3465a4"><title>Holyrood Golden Jubilee II (Commemo)</title></circle></a><a href="/setts/s11/dt31lr4n2r2n2lr6n2w4n2lr8dt2~x2/"><circle cx="264.4" cy="111.1" r="4" fill="#3465a4"><title>Rogue Attitude</title></circle></a><a href="/setts/s10/ly6db3k3db36k10lr18db6k2g4k3~x2/"><circle cx="248.0" cy="131.0" r="4" fill="#3465a4"><title>Dinwiddie Hunting (Name)</title></circle></a><a href="/setts/s12/db6r2db2r4db24g11r4g2r2g3k1ly2~x2/"><circle cx="283.8" cy="111.6" r="4" fill="#3465a4"><title>Law of Heather Athol (Personal)</title></circle></a><a href="/setts/s10/o38k4w4k4n10k4n10k4w2dp3~x2/"><circle cx="249.9" cy="119.5" r="4" fill="#3465a4"><title>Penman Grey (Personal)</title></circle></a><a href="/setts/s11/r1db1r8w1k2db16k2w1g8db1g1~x2/"><circle cx="210.8" cy="118.1" r="4" fill="#3465a4"><title>MacMichael</title></circle></a><a href="/setts/s11/w4dp40g2dp2g2dp2g2dp3g16db15m3~x2/"><circle cx="308.5" cy="117.6" r="4" fill="#3465a4"><title>Solway Spirit (District)</title></circle></a><a href="/setts/s12/db40ly4k3w2k3w2k3dg10r6k2r4w2~x2/"><circle cx="242.7" cy="77.9" r="4" fill="#3465a4"><title>MacBeth #2</title></circle></a><a href="/setts/s11/o14k2db3k1ly2k1db3k14db3k1w1~x2/"><circle cx="209.6" cy="129.9" r="4" fill="#3465a4"><title>McGuffey (School)</title></circle></a><a href="/setts/s12/db8w8db4dp4db36dp4db4o26db2o26g2db5/"><circle cx="255.3" cy="129.3" r="4" fill="#3465a4"><title>Historic Scotland (1998) (Corporate)</title></circle></a><circle cx="275.4" cy="114.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/db37w2db2ly2r17w2db2g17ly2db2~x2/

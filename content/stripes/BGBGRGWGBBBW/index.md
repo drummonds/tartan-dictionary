@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana Hunting, Lady](/setts/s12/do22g2do4g1r1g1lb1g6dt3do1dt2lb1~x4/)|
-|![Diana Hunting, Lady example sett](/setts/s12/do22g2do4g1r1g1lb1g6dt3do1dt2lb1~x4/sett.png)|
+| [Diana Hunting, Lady](/setts/s12/doi22g2doi4gi1r1gi1lb1gi6dt3do1dt2lb1~x4/)|
+|![Diana Hunting, Lady example sett](/setts/s12/doi22g2doi4gi1r1gi1lb1gi6dt3do1dt2lb1~x4/sett.png)|

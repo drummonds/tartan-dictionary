@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Orman (Personal)](/setts/s9/k10k3k3k32dg1k1dg1k2n2~x2/)|
-|![Orman (Personal) example sett](/setts/s9/k10k3k3k32dg1k1dg1k2n2~x2/sett.png)|
+| [Orman (Personal)](/setts/s9/ki10k3ki3k32dg1k1dg1k2n2~x2/)|
+|![Orman (Personal) example sett](/setts/s9/ki10k3ki3k32dg1k1dg1k2n2~x2/sett.png)|

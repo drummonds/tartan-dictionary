@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5200/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5200
+
 ## Thread count
 LT/16 G8 DB32 G8 K28 LT28 DB8 B/6
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.8" cy="219.3" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="104.3" cy="242.5" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="120.2" cy="206.3" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s8/dg3lb2k3dg8k8db8r2db3/"><circle cx="66.2" cy="244.9" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="57.1" cy="245.0" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/b2g6ly1k6db6k1db1~x2/"><circle cx="83.2" cy="209.8" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.4" cy="223.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s8/db4lg2db10k12dg10lb3dg2lb4~x2/"><circle cx="58.2" cy="210.5" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.2" cy="225.7" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="89.3" cy="233.9" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><circle cx="84.5" cy="224.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/k6b2db12g8r5k2g3~x4/"><circle cx="81.6" cy="220.7" r="4" fill="#3465a4"><title>Cooke</title></circle></a><a href="/setts/s8/k3w2k3g8k8db8r2db3~x2/"><circle cx="104.3" cy="244.1" r="4" fill="#3465a4"><title>Davidson, Double</title></circle></a><a href="/setts/s9/db10r7db31k25g23k8db7k8ly5~x2/"><circle cx="120.0" cy="207.7" r="4" fill="#3465a4"><title>MacCallum, of Berwick</title></circle></a><a href="/setts/s8/dg3lb2k3dg8k8db8r2db3/"><circle cx="66.4" cy="246.6" r="4" fill="#3465a4"><title>Davidson Double</title></circle></a><a href="/setts/s6/t3g8k9db7r2db2~x2/"><circle cx="57.1" cy="246.7" r="4" fill="#3465a4"><title>Wellington, or Waterloo</title></circle></a><a href="/setts/s7/b2g6ly1k6db6k1db1~x2/"><circle cx="83.1" cy="211.3" r="4" fill="#3465a4"><title>Hogarth, of Firhill</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.3" cy="225.4" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s8/db4lg2db10k12dg10lb3dg2lb4~x2/"><circle cx="58.2" cy="212.0" r="4" fill="#3465a4"><title>Business Air</title></circle></a><a href="/setts/s6/dp2g6k2db6k1r2~x4/"><circle cx="94.1" cy="227.1" r="4" fill="#3465a4"><title>MacCaughan, or MacEachain</title></circle></a><a href="/setts/s9/r1k2dg4k1dg1k2db3k1w1~x6/"><circle cx="89.3" cy="235.5" r="4" fill="#3465a4"><title>MacKean dress</title></circle></a><circle cx="84.5" cy="225.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/o8g4db16g4k14o14db4b3~x2/

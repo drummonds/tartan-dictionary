@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galway County, Crest Range](/setts/s9/n10db5db15k3db15k5r25k3w4~x2/)|
-|![Galway County, Crest Range example sett](/setts/s9/n10db5db15k3db15k5r25k3w4~x2/sett.png)|
+| [Galway County, Crest Range](/setts/s9/n10dbi5db15k3db15k5r25k3w4~x2/)|
+|![Galway County, Crest Range example sett](/setts/s9/n10dbi5db15k3db15k5r25k3w4~x2/sett.png)|

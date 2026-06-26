@@ -1,8 +1,5 @@
 ---
 title: "Clan Haus"
-date: 2023-03-18
+redirect: "/families/haus-of-rvr/"
 ---
-## Families
-
-- [Haus of RvR](/families/haus-of-rvr/)
-
+Clan Haus is recorded as the single family [Haus of RvR](/families/haus-of-rvr/) — redirecting there.

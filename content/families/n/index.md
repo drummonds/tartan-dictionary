@@ -31,7 +31,7 @@ background: /bg/clans.png
 
 ## No
 
-- [Norris](/setts/s6/g6b1g7w1b7r1~x4/)
+- [Norris](/setts/s6/k2w1g5r1t18r2~x2/)
 - [Norris Htg](/setts/s6/k2w1o8r1t28r2~x2/)
 - [North](/clan/north/) — clan
 - [North of Scotland Tartan Army](/families/north-of-scotland-tartan-army/)

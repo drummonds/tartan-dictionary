@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Black Forest](/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/)|
-|![Black Forest example sett](/setts/s12/k20o4k20o2o2o7k2o2o2o7o2o2~x4/sett.png)|
+| [Black Forest](/setts/s12/k20oi4k20o2oi2o7k2oi2o2oi7o2oi2~x4/)|
+|![Black Forest example sett](/setts/s12/k20oi4k20o2oi2o7k2oi2o2oi7o2oi2~x4/sett.png)|

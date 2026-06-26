@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [16 stripe tartan](/stripes/stripes16
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=4320
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Unnamed, No 3
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r2k2r5t5k1t1k1t5g6ly1g6r6w1r1k1r1~x2/"><circle cx="71.8" cy="144.9" r="4" fill="#3465a4"><title>Unnamed, No 3</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.7" cy="140.8" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.9" cy="141.3" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.8" cy="142.0" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s14/k14ly3g18r15w2r3w2dp14~x2/"><circle cx="90.8" cy="127.3" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="125.3" cy="140.6" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/"><circle cx="113.2" cy="155.5" r="4" fill="#3465a4"><title>MacGuire</title></circle></a><a href="/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/"><circle cx="30.7" cy="152.2" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="121.3" cy="134.4" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s14/k1ly1k1g6k6r6db1r1db1r6k6g6k1t1~x4/"><circle cx="106.9" cy="160.3" r="4" fill="#3465a4"><title>Rossi (Personal)</title></circle></a><circle cx="85.2" cy="149.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s16/r2k2r5t5k1t1k1t5g6ly1g6r6w1r1k1r1~x2/"><circle cx="71.3" cy="145.9" r="4" fill="#3465a4"><title>Unnamed, No 3</title></circle></a><a href="/setts/s14/r9t8k2t2k2t8k16ly3dg18r10k3r10w2r5~x2/"><circle cx="97.2" cy="141.7" r="4" fill="#3465a4"><title>Caledonia - 1819 (Wilsons') No.155</title></circle></a><a href="/setts/s15/r18t5r18g24ly3k19t10k3t3k3t10r18w4k5r5~x2/"><circle cx="117.3" cy="142.2" r="4" fill="#3465a4"><title>MacPherson #5</title></circle></a><a href="/setts/s15/r6db1r6dg8ly1k6db4k1db2k1db4r4w1k1r1~x2/"><circle cx="107.3" cy="142.9" r="4" fill="#3465a4"><title>MacPherson #6</title></circle></a><a href="/setts/s14/k14ly3g18r15w2r3w2dp14~x2/"><circle cx="90.2" cy="128.2" r="4" fill="#3465a4"><title>Wilson's No.083</title></circle></a><a href="/setts/s15/r14t3r12g16ly2k11t7k2t2k2t7r12w3k3r4~x2/"><circle cx="124.6" cy="141.5" r="4" fill="#3465a4"><title>Kidd</title></circle></a><a href="/setts/s14/w5k3g15r3db6r15b3r3b3r3db3r15g15k3~x2/"><circle cx="112.6" cy="156.5" r="4" fill="#3465a4"><title>MacGuire</title></circle></a><a href="/setts/s16/db3dg1k3db3k3dg1db3dg1r6w1r6db4ly5db1ly5dg1~x4/"><circle cx="30.2" cy="153.4" r="4" fill="#3465a4"><title>Buchanan Incorrect</title></circle></a><a href="/setts/s13/g8k1ly1r1w1db8k1r4k1r4k1r4k1~x2/"><circle cx="120.8" cy="135.3" r="4" fill="#3465a4"><title>Norwich No.158</title></circle></a><a href="/setts/s14/k1ly1k1g6k6r6db1r1db1r6k6g6k1t1~x4/"><circle cx="106.6" cy="161.3" r="4" fill="#3465a4"><title>Rossi (Personal)</title></circle></a><circle cx="84.7" cy="150.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s16/r2k2r5t5k1t1k1t5dg6ly1dg6r6w1r1k1r1~x2/

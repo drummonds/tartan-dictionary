@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Watkins (Welsh Name)](/setts/s19/db2b2g5b4g10g15b10db12b6db4b6db12b10g18b2g2g18g1db2/)|
-|![Watkins (Welsh Name) example sett](/setts/s19/db2b2g5b4g10g15b10db12b6db4b6db12b10g18b2g2g18g1db2/sett.png)|
+| [Watkins (Welsh Name)](/setts/s19/db2b2gi5b4gi10g15b10db12b6db4b6db12b10g18b2gi2g18gi1db2/)|
+|![Watkins (Welsh Name) example sett](/setts/s19/db2b2gi5b4gi10g15b10db12b6db4b6db12b10g18b2gi2g18gi1db2/sett.png)|

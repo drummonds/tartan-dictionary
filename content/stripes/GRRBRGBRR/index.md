@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Diana Princess of Wales](/setts/s9/dg5r1r4db2r20dg12db16r4r1~x2/)|
-|![Diana Princess of Wales example sett](/setts/s9/dg5r1r4db2r20dg12db16r4r1~x2/sett.png)|
+| [Diana Princess of Wales](/setts/s9/dg5r1ri4db2ri20dg12db16ri4r1~x2/)|
+|![Diana Princess of Wales example sett](/setts/s9/dg5r1ri4db2ri20dg12db16ri4r1~x2/sett.png)|

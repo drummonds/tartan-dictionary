@@ -1,8 +1,5 @@
 ---
 title: "Clan Teall"
-date: 2023-03-18
+redirect: "/families/teall-of-teallach/"
 ---
-## Families
-
-- [Teall of Teallach](/families/teall-of-teallach/)
-
+Clan Teall is recorded as the single family [Teall of Teallach](/families/teall-of-teallach/) — redirecting there.

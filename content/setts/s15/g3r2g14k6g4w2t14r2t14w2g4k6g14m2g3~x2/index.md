@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [15 stripe tartan](/stripes/stripes15/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/4106/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 4106
+
 ## Thread count
 G/6 R4 G28 K12 G8 LN4 B28 R4 B28 LN4 G8 K12 G28 P4 G/6
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/"><circle cx="161.4" cy="164.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="180.2" cy="149.3" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s14/g8dg2w2dg6ly2db14g4dg16g16r2g5w2g4dg7/"><circle cx="149.6" cy="167.9" r="4" fill="#3465a4"><title>Scott, hunting special</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.6" cy="176.7" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="187.0" cy="152.7" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s21/r4b2dt5g2dt2g2dt2g13dt2g2dt2g2dt5ly2dt3w2g6r5b3dt4w2~x2/"><circle cx="111.0" cy="157.9" r="4" fill="#3465a4"><title>Lundie (Personal)</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.2" cy="166.8" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/"><circle cx="217.8" cy="170.2" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s16/g16y2dp13t2k6ly2g16t2k12~x2/"><circle cx="149.3" cy="157.8" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="189.2" cy="200.3" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><circle cx="162.5" cy="162.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g10w2g10k3db12r3db12g15w2db3k2g3ly3~x2/"><circle cx="161.0" cy="165.0" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s16/g17t3r3t3k19w2g17r4g17w2k19t3r3t3g17db8~x2/"><circle cx="179.9" cy="150.0" r="4" fill="#3465a4"><title>Wilson's No.033 #2</title></circle></a><a href="/setts/s14/g8dg2w2dg6ly2db14g4dg16g16r2g5w2g4dg7/"><circle cx="149.4" cy="168.7" r="4" fill="#3465a4"><title>Scott, hunting special</title></circle></a><a href="/setts/s14/db6r2db6ly3g6k1g2lb2g2k1g6k1g2lb2~x2/"><circle cx="109.4" cy="177.7" r="4" fill="#3465a4"><title>Presbyterian Synod of Living Waters (USA)</title></circle></a><a href="/setts/s16/g17t3r3t3k19ly2g17r4g17ly2k19t3r3t3g17db8~x2/"><circle cx="186.7" cy="153.4" r="4" fill="#3465a4"><title>Wilson's No.033</title></circle></a><a href="/setts/s21/r4b2dt5g2dt2g2dt2g13dt2g2dt2g2dt5ly2dt3w2g6r5b3dt4w2~x2/"><circle cx="110.9" cy="158.7" r="4" fill="#3465a4"><title>Lundie (Personal)</title></circle></a><a href="/setts/s18/g14t2r3t2k16ly2t16g16r3g16t16ly2k16t2r3t2g14k6~x2/"><circle cx="146.0" cy="167.7" r="4" fill="#3465a4"><title>Norwich No.038</title></circle></a><a href="/setts/s13/g11lr2g12k3t15r3t15g19lr2t3k2t3lo3~x2/"><circle cx="217.6" cy="170.8" r="4" fill="#3465a4"><title>Greylock</title></circle></a><a href="/setts/s16/g16y2dp13t2k6ly2g16t2k12~x2/"><circle cx="149.1" cy="158.6" r="4" fill="#3465a4"><title>Wilson's No.225</title></circle></a><a href="/setts/s12/y3g12k5g2k5y2r2y2k5g12w2y3~x2/"><circle cx="188.9" cy="201.2" r="4" fill="#3465a4"><title>Wilcox, Yu, Cruikshank Reunion</title></circle></a><circle cx="162.2" cy="163.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s15/g3r2g14k6g4w2t14r2t14w2g4k6g14m2g3~x2/

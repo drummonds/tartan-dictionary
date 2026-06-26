@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Shiach (Personal)](/setts/s8/g45k4r2g4r2k4n21r5~x2/)|
-|![Shiach (Personal) example sett](/setts/s8/g45k4r2g4r2k4n21r5~x2/sett.png)|
+| [Shiach (Personal)](/setts/s8/g45k4ri2g4ri2k4n21r5~x2/)|
+|![Shiach (Personal) example sett](/setts/s8/g45k4ri2g4ri2k4n21r5~x2/sett.png)|

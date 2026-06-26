@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10492/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10492](https://www.tartanregister.gov.uk/tartanDetails?ref=10492)
+- Scottish Tartans Authority (ITI): 10492
+
 ## Thread count
 K/160 LN2 K12 LN4 K10 LN6 K8 LN8 K6 LN10 K4 LN12 K/2
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="537.2" cy="125.0" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="610.8" cy="116.0" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="581.0" cy="124.8" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="534.4" cy="71.1" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="527.6" cy="81.6" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="548.3" cy="148.0" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.3" cy="119.4" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/"><circle cx="568.2" cy="66.5" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="530.8" cy="120.2" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/"><circle cx="606.3" cy="82.8" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><circle cx="614.4" cy="94.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s11/k36w4k6w1k1w1k1w8k4w1k6~x2/"><circle cx="536.0" cy="125.4" r="4" fill="#3465a4"><title>Royal Stewart B &amp; W (Universal?)</title></circle></a><a href="/setts/s8/k198lb9k17t13lb9k4lb13k4/"><circle cx="609.6" cy="116.1" r="4" fill="#3465a4"><title>London Fog Black (Fashion)</title></circle></a><a href="/setts/s12/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="580.0" cy="125.1" r="4" fill="#3465a4"><title>Scott</title></circle></a><a href="/setts/s17/k20w1lp2k4w1lp3k4w1lp4k4w1lp5k3w1k54w1lp6~x2/"><circle cx="533.2" cy="71.2" r="4" fill="#3465a4"><title>Purdy Black (Illinois)</title></circle></a><a href="/setts/s22/k31w2k4w1k1w1k1w1k1w1k3w3~x4/"><circle cx="526.4" cy="81.7" r="4" fill="#3465a4"><title>Scott (Black and White)</title></circle></a><a href="/setts/s7/k75lb6k5lb18k2lb2k3~x2/"><circle cx="547.2" cy="148.4" r="4" fill="#3465a4"><title>Bargain Booze</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="607.0" cy="119.6" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><a href="/setts/s13/k61w1k1r2k1w1k16w1r4k2r6k1ly4~x2/"><circle cx="566.9" cy="66.4" r="4" fill="#3465a4"><title>Coeur D'Alene Firefighters Richard Gaines Memorial</title></circle></a><a href="/setts/s8/k38lo1w7lo1k4lo2k3lo2~x2/"><circle cx="529.6" cy="120.4" r="4" fill="#3465a4"><title>Erck, Georges van (Personal),</title></circle></a><a href="/setts/s10/k85r6k1w3k3w3k1r6k6lo1~x2/"><circle cx="605.0" cy="82.7" r="4" fill="#3465a4"><title>Ambassador</title></circle></a><circle cx="613.1" cy="94.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/k80w1k6w2k5w3k4w4k3w5k2w6k1~x2/

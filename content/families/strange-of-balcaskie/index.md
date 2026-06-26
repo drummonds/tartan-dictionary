@@ -2,7 +2,7 @@
 title: "Strange of Balcaskie"
 date: 2023-03-18
 ---
-A family of [Clan Strange](/clan/strange/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Balcaskie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Balcaskie&viewmode=grid)
 

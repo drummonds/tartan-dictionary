@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Satisfashion Argyll (Corporate)](/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/)|
-|![Satisfashion Argyll (Corporate) example sett](/setts/s10/do5lo1y27lo9r6do5lo1lo23do3lo5~x2/sett.png)|
+| [Satisfashion Argyll (Corporate)](/setts/s10/do5lo1y27loi9r6do5lo1loi23do3loi5~x2/)|
+|![Satisfashion Argyll (Corporate) example sett](/setts/s10/do5lo1y27loi9r6do5lo1loi23do3loi5~x2/sett.png)|

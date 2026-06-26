@@ -2,7 +2,7 @@
 title: "Reid of Straloch"
 date: 2023-03-18
 ---
-A family of [Clan Reid](/clan/reid/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Straloch”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Straloch&viewmode=grid)
 

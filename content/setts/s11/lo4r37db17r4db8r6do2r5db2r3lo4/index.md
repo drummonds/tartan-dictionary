@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [11 stripe tartan](/stripes/stripes11/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/5733/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5733
+
 ## Thread count
 LT/4 R37 DB17 R4 DB8 R6 DR2 R5 DB2 R3 LT/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/"><circle cx="372.8" cy="130.4" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="366.1" cy="144.7" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="337.4" cy="133.8" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="400.5" cy="130.5" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="390.1" cy="102.3" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/"><circle cx="380.5" cy="134.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass (Clan)</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="373.1" cy="125.5" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="374.6" cy="119.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/"><circle cx="369.8" cy="138.0" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/setts/s8/r2k3ly1k3r2db8r16k1~x4/"><circle cx="333.3" cy="151.0" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><circle cx="389.8" cy="132.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r7w2r36db6dg3db3dg3db3dg12r4~x2/"><circle cx="371.6" cy="130.9" r="4" fill="#3465a4"><title>Chisholm of Strathglass</title></circle></a><a href="/setts/s11/g4r34dt20r4dt8r6db2r5dt2r3g4/"><circle cx="365.1" cy="145.1" r="4" fill="#3465a4"><title>Hughes (Welsh Name)</title></circle></a><a href="/setts/s13/db4r1db1r18db10r1dg1r6dg10r6w1r4db1~x2/"><circle cx="336.4" cy="134.2" r="4" fill="#3465a4"><title>Cameron of Locheil</title></circle></a><a href="/setts/s10/dg2r2db1r24t1db6r3dg12r4db1~x2/"><circle cx="399.3" cy="130.7" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s12/r23g3ly1g3r2db18r2w1g3r2db2r23~x2/"><circle cx="388.9" cy="102.5" r="4" fill="#3465a4"><title>Mair (Personal)</title></circle></a><a href="/setts/s10/r7w2r36b6g3b3g3b3g12r4~x2/"><circle cx="379.3" cy="135.3" r="4" fill="#3465a4"><title>Chisholm of Strathglass (Clan)</title></circle></a><a href="/setts/s10/r6lb1r24dp6dg2dp1dg2dp1dg12r1/"><circle cx="372.0" cy="125.8" r="4" fill="#3465a4"><title>Chisholm D</title></circle></a><a href="/setts/s10/dg2r2db1r24lb1db6r3dg12r4db1/"><circle cx="373.4" cy="120.1" r="4" fill="#3465a4"><title>MacDonell of Keppoch</title></circle></a><a href="/setts/s10/r6lo2r32lo15r2lo3r2lo6w3db4~x2/"><circle cx="368.5" cy="138.4" r="4" fill="#3465a4"><title>Virginia Tech</title></circle></a><a href="/setts/s8/r2k3ly1k3r2db8r16k1~x4/"><circle cx="332.2" cy="151.7" r="4" fill="#3465a4"><title>Leslie Red (VS) (Clan)</title></circle></a><circle cx="388.6" cy="132.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s11/lo4r37db17r4db8r6do2r5db2r3lo4/

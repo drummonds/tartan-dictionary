@@ -2,7 +2,7 @@
 title: "Cowan of Inveresk"
 date: 2023-03-18
 ---
-A family of [Clan Cowan](/clan/cowan/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Inveresk”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Inveresk&viewmode=grid)
 

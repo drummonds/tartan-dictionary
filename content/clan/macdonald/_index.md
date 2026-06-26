@@ -13,6 +13,7 @@ date: 2023-03-18
 - [MacDonald of Clanranald D](/families/macdonald-of-clanranald-d/)
 - [MacDonald of Denovan](/families/macdonald-of-denovan/)
 - [MacDonald of Glenaladale](/families/macdonald-of-glenaladale/)
+- [MacDonald of Glencoe](/families/macdonald-of-glencoe/)
 - [MacDonald of Glencoe Artifact](/families/macdonald-of-glencoe-artifact/)
 - [MacDonald of Kingsburgh](/families/macdonald-of-kingsburgh/)
 - [MacDonald of Kingsburgh -1746](/families/macdonald-of-kingsburgh-1746/)
@@ -23,5 +24,4 @@ date: 2023-03-18
 - [MacDonald of Staffa](/families/macdonald-of-staffa/)
 - [MacDonald of The Isles](/families/macdonald-of-the-isles/)
 - [MacDonald of Vallay](/families/macdonald-of-vallay/)
-- [MacDonald, of Glencoe](/families/macdonald-of-glencoe/)
 

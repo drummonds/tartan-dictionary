@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/500/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 500
+
 ## Thread count
 DB/92 W4 DB4 W4 DB32 G88 R4 DB/12
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="371.2" cy="174.9" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.4" cy="186.6" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="355.6" cy="175.0" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/setts/s10/k1b17k17b1r1b1k17b17k1w1~x4/"><circle cx="315.6" cy="163.9" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.7" cy="160.7" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.8" cy="146.2" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s9/db40g3db2g12k2g2ly2g2k3~x2/"><circle cx="398.0" cy="139.4" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/setts/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="353.2" cy="169.0" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/setts/s8/g47r3g6db35lo3~x2/"><circle cx="326.3" cy="189.7" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/setts/s6/r1b1k17b17k1w1~x4/"><circle cx="316.0" cy="172.5" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><circle cx="375.1" cy="157.8" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/g23db3k8db4g4db56ly8/"><circle cx="370.8" cy="175.5" r="4" fill="#3465a4"><title>Tern House</title></circle></a><a href="/setts/s6/k1ly2k3n12k18w1~x2/"><circle cx="366.0" cy="187.5" r="4" fill="#3465a4"><title>Jon's Theme</title></circle></a><a href="/setts/s6/k30b40ly3b5w2b6~x2/"><circle cx="354.9" cy="175.7" r="4" fill="#3465a4"><title>Micron</title></circle></a><a href="/setts/s10/k1b17k17b1r1b1k17b17k1w1~x4/"><circle cx="315.2" cy="164.7" r="4" fill="#3465a4"><title>Sorbie</title></circle></a><a href="/setts/s8/k36r3k3r3k9b36g3b2~x2/"><circle cx="318.2" cy="161.4" r="4" fill="#3465a4"><title>Home (Clan)</title></circle></a><a href="/setts/s8/db42r2y16r2db6r2y8lo3~x2/"><circle cx="365.1" cy="146.9" r="4" fill="#3465a4"><title>Prince George's Police Pipe Band</title></circle></a><a href="/setts/s9/db40g3db2g12k2g2ly2g2k3~x2/"><circle cx="397.4" cy="139.8" r="4" fill="#3465a4"><title>Oliver, hunting</title></circle></a><a href="/setts/s10/db26dg6db26r2dg26w1r6db2r6db13~x2/"><circle cx="352.8" cy="169.7" r="4" fill="#3465a4"><title>Unidentified Plaid 9</title></circle></a><a href="/setts/s8/g47r3g6db35lo3~x2/"><circle cx="326.0" cy="190.5" r="4" fill="#3465a4"><title>Gracie</title></circle></a><a href="/setts/s6/r1b1k17b17k1w1~x4/"><circle cx="315.5" cy="173.3" r="4" fill="#3465a4"><title>Sorbie (Name)</title></circle></a><circle cx="374.5" cy="158.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db23w1db1w1db8g22r1db3~x4/

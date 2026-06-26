@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [GOLF (Wonderland Publications)](/setts/s15/k15dp2k1dr1n1k15dr1k2k15n1k15dp4k2n1k15~x2/)|
-|![GOLF (Wonderland Publications) example sett](/setts/s15/k15dp2k1dr1n1k15dr1k2k15n1k15dp4k2n1k15~x2/sett.png)|
+| [GOLF (Wonderland Publications)](/setts/s15/ki15dp2k1dr1n1ki15dr1k2ki15n1ki15dp4k2n1ki15~x2/)|
+|![GOLF (Wonderland Publications) example sett](/setts/s15/ki15dp2k1dr1n1ki15dr1k2ki15n1ki15dp4k2n1ki15~x2/sett.png)|

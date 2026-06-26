@@ -9,6 +9,16 @@ Sourced from house-of-tartan.  It is a [4 stripe tartan](/stripes/stripes4/).
 
 Original link http://www.house-of-tartan.scotland.net/house/TartanViewjs.asp?colr=Def&tnam=1251
 
+## Also known as
+
+This cloth is also recorded under:
+
+- MacFarlane B & W
+- MacFarlane B/W or Lendrum
+- MacFarlane, Lendrum Black and White
+- Wallace Dress
+- Wallace dress
+
 ## Thread count
 K/14 LN12 K2 LN/12
 ![Sett](sett.png)
@@ -28,8 +38,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k7w6k1~x4/"><circle cx="287.8" cy="277.3" r="4" fill="#3465a4"><title>Lendrum (B&amp;W)</title></circle></a><a href="/setts/s4/k7lb6k1/"><circle cx="293.2" cy="286.5" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="313.1" cy="233.7" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s6/k7w6k1w6~x4/"><circle cx="323.4" cy="248.0" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/setts/s4/k7lr6k1~x2/"><circle cx="300.3" cy="292.9" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7lr6k1/"><circle cx="300.3" cy="292.9" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="284.4" cy="248.4" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="320.2" cy="229.4" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="299.8" cy="231.1" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s6/db11r4ly9db4ly2db11~x2/"><circle cx="293.6" cy="265.2" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><circle cx="293.1" cy="281.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s4/k7w6k1~x4/"><circle cx="286.7" cy="278.8" r="4" fill="#3465a4"><title>Lendrum (B&amp;W)</title></circle></a><a href="/setts/s4/k7lb6k1/"><circle cx="292.3" cy="288.1" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s5/w14k2w14k19w2~x2/"><circle cx="311.9" cy="234.9" r="4" fill="#3465a4"><title>MacLeod Black &amp; White</title></circle></a><a href="/setts/s6/k7w6k1w6~x4/"><circle cx="322.1" cy="249.3" r="4" fill="#3465a4"><title>Wallace Dress</title></circle></a><a href="/setts/s4/k7lr6k1~x2/"><circle cx="299.5" cy="294.5" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k7lr6k1/"><circle cx="299.5" cy="294.5" r="4" fill="#3465a4"><title>MacFarlane VS</title></circle></a><a href="/setts/s4/k22w3k3w22~x2/"><circle cx="283.5" cy="249.8" r="4" fill="#3465a4"><title>MacPhee (Black and White)</title></circle></a><a href="/setts/s5/w8k1w8k12w1~x2/"><circle cx="319.2" cy="230.6" r="4" fill="#3465a4"><title>MacLeod, Black &amp; White</title></circle></a><a href="/setts/s7/w2k1w6k6w2k1w1~x2/"><circle cx="298.8" cy="232.3" r="4" fill="#3465a4"><title>Scott (Abbreviated)</title></circle></a><a href="/setts/s6/db11r4ly9db4ly2db11~x2/"><circle cx="292.8" cy="266.5" r="4" fill="#3465a4"><title>Unidentified Sample</title></circle></a><circle cx="292.1" cy="283.4" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s4/k7w6k1~x2/

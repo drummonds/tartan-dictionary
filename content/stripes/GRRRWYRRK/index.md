@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Australian Donkey (Corporate)](/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/)|
-|![Australian Donkey (Corporate) example sett](/setts/s9/k4o13r3lr7w3o25r2o3dy4~x2/sett.png)|
+| [Australian Donkey (Corporate)](/setts/s9/k4oi13ri3lr7w3o25r2o3dy4~x2/)|
+|![Australian Donkey (Corporate) example sett](/setts/s9/k4oi13ri3lr7w3o25r2o3dy4~x2/sett.png)|

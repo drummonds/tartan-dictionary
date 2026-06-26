@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/1884/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 1884
+
 ## Thread count
 DO/84 K35 N3 G35 K3 Y/10
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="260.8" cy="131.6" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="249.9" cy="133.5" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="252.7" cy="161.5" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s8/k54lr6k6lr6o20lo40k6ly3/"><circle cx="229.2" cy="131.4" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/setts/s6/ly4k1dg16k16r1w3~x2/"><circle cx="212.8" cy="162.7" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="322.3" cy="141.5" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="235.4" cy="170.5" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s6/lo16k7w1g7k1ly3~x4/"><circle cx="216.0" cy="162.8" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s8/k3g2k21w11g1y21g2y3~x2/"><circle cx="198.4" cy="130.7" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="253.1" cy="169.2" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="263.3" cy="133.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s6/o84k35w3g35k3ly10/"><circle cx="259.9" cy="132.2" r="4" fill="#3465a4"><title>Brandon (Manitoba)</title></circle></a><a href="/setts/s6/y83k35w3g35k3ly10/"><circle cx="249.1" cy="134.0" r="4" fill="#3465a4"><title>Brandon, Manitoba</title></circle></a><a href="/setts/s6/dy30ly5t10k10w2k2~x2/"><circle cx="251.9" cy="162.2" r="4" fill="#3465a4"><title>Bryan Wedding (Personal)</title></circle></a><a href="/setts/s8/k54lr6k6lr6o20lo40k6ly3/"><circle cx="228.4" cy="132.1" r="4" fill="#3465a4"><title>Clyde Valley HOG</title></circle></a><a href="/setts/s6/ly4k1dg16k16r1w3~x2/"><circle cx="212.3" cy="163.6" r="4" fill="#3465a4"><title>MacLamroc</title></circle></a><a href="/setts/s7/g3r16w4k6g28r1g3~x2/"><circle cx="321.3" cy="141.9" r="4" fill="#3465a4"><title>Pollock</title></circle></a><a href="/setts/s6/k6r2g17r16k1t2~x2/"><circle cx="234.6" cy="171.4" r="4" fill="#3465a4"><title>Unidentified 12</title></circle></a><a href="/setts/s6/lo16k7w1g7k1ly3~x4/"><circle cx="215.3" cy="163.5" r="4" fill="#3465a4"><title>Hamilton of Brandon (Fashion)</title></circle></a><a href="/setts/s8/k3g2k21w11g1y21g2y3~x2/"><circle cx="197.7" cy="131.5" r="4" fill="#3465a4"><title>Dalveen (Fashion)</title></circle></a><a href="/setts/s6/r10w2k10w10dy35k5~x2/"><circle cx="252.3" cy="170.0" r="4" fill="#3465a4"><title>Loch Ness</title></circle></a><circle cx="262.5" cy="133.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/o84k35lr3g35k3ly10/

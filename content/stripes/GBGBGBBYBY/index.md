@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Caisteal Leòdhais](/setts/s10/y4t3y18dt14y2dt2dp18lo1dp2lo3~x2/)|
-|![Caisteal Leòdhais example sett](/setts/s10/y4t3y18dt14y2dt2dp18lo1dp2lo3~x2/sett.png)|
+| [Caisteal Leòdhais](/setts/s10/yi4t3yi18dt14y2dt2dp18lo1dp2lo3~x2/)|
+|![Caisteal Leòdhais example sett](/setts/s10/yi4t3yi18dt14y2dt2dp18lo1dp2lo3~x2/sett.png)|

@@ -9,22 +9,22 @@ background: /bg/clans.png
 
 - [Taggart](/setts/s19/r4dg5k1r2k1dg6db5r2k4r2k2r2db4n35k1r2k1n4r3~x2/)
 - [Tainsh](/setts/s6/k62r9w7lt6ly3g6~x2/)
-- [Taplin](/setts/s11/r52k2r5dg3r5k5r5ly3r5k2r52~x2/)
+- [Taplin](/setts/s11/r52k2r5g3r5k5r5ly3r5k2r52~x2/)
 
 ## Te
 
 - [Teall](/clan/teall/) — clan
 - [Teall of Teallach](/families/teall-of-teallach/)
-- [Telfer](/setts/s9/g9ly2g6r35db6lb1r20db5lb2~x2/)
+- [Telfer](/setts/s9/g9ly2g6r35db6lb1ri20db5lb2~x2/)
 - [Telfer Green](/setts/s8/g7lo2g5dg37db6r16db5b2~x2/)
 - [Tennent](/setts/s8/r1k7g7k7db7k7r1w1~x4/)
-- [Teylu Coleman](/setts/s5/ly3dt17n9k25lb3~x2/)
+- [Teylu Coleman](/setts/s5/w3k25do9dp17ly3~x2/)
 
 ## Th
 
 - [Thain Dress](/setts/s13/ly22w1ly2w2k2w1k14w1k2w2k2w1k14~x4/)
-- [Thayer USA](/setts/s6/r5db25w5db3dg25db3~x2/)
-- [The Trew 40th](/setts/s15/r4k3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/)
+- [Thayer USA](/setts/s6/r5db25w5db3g25db3~x2/)
+- [The Trew 40th](/setts/s15/r4ki3k11dt3db3dt30k1w4k1dt3k3dt3k3dt12r2~x2/)
 - [Thirkill](/setts/s9/w4k2r15k2r5y7dg7k2ly4~x2/)
 - [Thomas](/clan/thomas/) — clan
 - [Thomas of Craigie](/families/thomas-of-craigie/)
@@ -34,7 +34,7 @@ background: /bg/clans.png
 
 ## Ti
 
-- [Timmins](/setts/s10/r4db2dp14db12ly1t32db12t14db2g4~x2/)
+- [Timmins](/setts/s10/r4k2dp14k12lo1t32k12t14k2g4~x2/)
 - [Tindal](/setts/s11/r3k2g18k18db3k3db3k3db18ly2w3~x2/)
 
 ## To
@@ -43,7 +43,7 @@ background: /bg/clans.png
 
 ## Tr
 
-- [Triplett, Jack Arnold](/setts/s4/w35n12r2n2~x2/)
+- [Triplett, Jack Arnold](/setts/s4/w14b5r1t1~x8/)
 
 ## Tu
 

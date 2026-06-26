@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [State Seal of Wyoming (Fashion)](/setts/s11/k49dy15lb2dy6g6dy16lo3lo23dy9lo2b9~x2/)|
-|![State Seal of Wyoming (Fashion) example sett](/setts/s11/k49dy15lb2dy6g6dy16lo3lo23dy9lo2b9~x2/sett.png)|
+| [State Seal of Wyoming (Fashion)](/setts/s11/k49dy15lb2dy6g6dy16lo3loi23dy9lo2b9~x2/)|
+|![State Seal of Wyoming (Fashion) example sett](/setts/s11/k49dy15lb2dy6g6dy16lo3loi23dy9lo2b9~x2/sett.png)|

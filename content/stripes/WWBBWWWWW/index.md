@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Queensferry High School: Ferry Fling](/setts/s9/lb5w3lb7lb5lb27b8db43w3lb3/)|
-|![Queensferry High School: Ferry Fling example sett](/setts/s9/lb5w3lb7lb5lb27b8db43w3lb3/sett.png)|
+| [Queensferry High School: Ferry Fling](/setts/s9/lbi5w3lb7lbi5lb27b8db43wi3lb3/)|
+|![Queensferry High School: Ferry Fling example sett](/setts/s9/lbi5w3lb7lbi5lb27b8db43wi3lb3/sett.png)|

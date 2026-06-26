@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [13 stripe tartan](/stripes/stripes13/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Campbell, Red
-
 ## Thread count
 R/6 K2 G42 K38 B38 K6 B6 K6 B38 K38 G42 K2 LN/6
 ![Sett](sett.png)
@@ -30,8 +24,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.5" cy="131.8" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.3" cy="145.0" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.9" cy="131.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="156.0" cy="150.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.8" cy="128.7" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.4" cy="115.5" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="138.1" cy="154.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="138.7" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="151.0" cy="149.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/"><circle cx="158.6" cy="122.5" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><circle cx="157.5" cy="135.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/db12k2db2k2db2k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="144.3" cy="132.7" r="4" fill="#3465a4"><title>Robertson of Kindeace</title></circle></a><a href="/setts/s11/t3g3k4g14k4g3k14db18r1db4r2~x2/"><circle cx="148.1" cy="145.9" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s15/db16k2db2k2db2k12g12ly2k2ly2g12k16db16k1w3~x2/"><circle cx="146.7" cy="132.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s11/db9k9db9r2k18w1g12r2g4r2g4~x2/"><circle cx="155.7" cy="151.0" r="4" fill="#3465a4"><title>Newman</title></circle></a><a href="/setts/s11/db28k12g16k1r2k1g16k12db12k1w3~x2/"><circle cx="192.5" cy="129.5" r="4" fill="#3465a4"><title>Robertson, hunting</title></circle></a><a href="/setts/s17/db22k3db3k3db3k15r2g19k1t3k1g19r2k15db19k3db3~x2/"><circle cx="178.2" cy="116.2" r="4" fill="#3465a4"><title>Sempill</title></circle></a><a href="/setts/s13/r2k1g12k12db12k1db2k1db12k12g12k1ly2~x2/"><circle cx="137.9" cy="155.8" r="4" fill="#3465a4"><title>MacEwen / MacEwan</title></circle></a><a href="/setts/s13/lt3dg3k4dg14k4dg3k14db18lo1db4lo2db4lo1~x2/"><circle cx="161.7" cy="139.6" r="4" fill="#3465a4"><title>Clerke of Ulva</title></circle></a><a href="/setts/s11/lt3dg3k4dg14k4dg3k14db18lo1db4lo2~x2/"><circle cx="151.0" cy="150.7" r="4" fill="#3465a4"><title>Clark of Ulva (Clan)</title></circle></a><a href="/setts/s13/w2db10g3db2g3k18g10ly1g3ly2g2k2ly2~x2/"><circle cx="158.4" cy="123.2" r="4" fill="#3465a4"><title>O'Doherty (Glasgow) (Personal)</title></circle></a><circle cx="157.3" cy="136.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r3k1g21k19db19k3db3k3db19k19g21k1w3~x2/

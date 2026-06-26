@@ -1,8 +1,5 @@
 ---
 title: "Clan Lewis"
-date: 2023-03-18
+redirect: "/families/lewis-of-wales/"
 ---
-## Families
-
-- [Lewis of Wales](/families/lewis-of-wales/)
-
+Clan Lewis is recorded as the single family [Lewis of Wales](/families/lewis-of-wales/) — redirecting there.

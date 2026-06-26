@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [19 stripe tartan](/stripes/stripes19
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2399
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacDougall #6
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="243.6" cy="128.0" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="204.3" cy="142.2" r="4" fill="#3465a4"><title>MacDougal 5</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="206.9" cy="158.7" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.6" cy="155.8" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="215.6" cy="149.5" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s14/p3r4g3db3r7g17r3db5g4r21g7p3r6w3~x2/"><circle cx="210.3" cy="162.7" r="4" fill="#3465a4"><title>MacKinnon 10</title></circle></a><a href="/setts/s15/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4~x2/"><circle cx="211.0" cy="135.9" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/setts/s14/t2r3dg2db2r6dg16r2db4dg2r16dg8t2r4w2~x2/"><circle cx="215.6" cy="150.6" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="194.3" cy="163.3" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s13/db2r11dg2r11dg21r2k9t2db11r11dg2r11db2~x2/"><circle cx="215.3" cy="156.7" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><circle cx="210.1" cy="141.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s18/g3w1g6r2dp2r1k2r10g1r2~x8/"><circle cx="242.7" cy="128.5" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s19/k1r4g8r2g1r2db4r2w1r1w1r2g4r3g4r1k1r8w1~x2/"><circle cx="203.5" cy="142.9" r="4" fill="#3465a4"><title>MacDougal 5</title></circle></a><a href="/setts/s14/dp3r4dg3db3r7dg17r3db5dg4r21dg7dp3r6w3~x2/"><circle cx="206.1" cy="159.6" r="4" fill="#3465a4"><title>MacKinnon #3</title></circle></a><a href="/setts/s14/k4r3dg2db2r6dg15r2db4dg2r15dg7k2r4w2~x2/"><circle cx="192.0" cy="156.7" r="4" fill="#3465a4"><title>MacKinnon #5</title></circle></a><a href="/setts/s14/dp2r3dg2db2r6dg16r2db4dg2r16dg8dp2r4w2~x2/"><circle cx="214.8" cy="150.3" r="4" fill="#3465a4"><title>MacKinnon #8</title></circle></a><a href="/setts/s14/p3r4g3db3r7g17r3db5g4r21g7p3r6w3~x2/"><circle cx="209.6" cy="163.5" r="4" fill="#3465a4"><title>MacKinnon 10</title></circle></a><a href="/setts/s15/k4r4w4r28b4r4g25r4b25r4b4r28w4r4k4~x2/"><circle cx="210.1" cy="136.6" r="4" fill="#3465a4"><title>Fitzgerald Red</title></circle></a><a href="/setts/s14/t2r3dg2db2r6dg16r2db4dg2r16dg8t2r4w2~x2/"><circle cx="214.9" cy="151.3" r="4" fill="#3465a4"><title>MacKinnon #2</title></circle></a><a href="/setts/s12/r16k2r9g12lo2g10b3k2b3k2b3r10~x2/"><circle cx="193.4" cy="164.2" r="4" fill="#3465a4"><title>Highland Spring (1985)</title></circle></a><a href="/setts/s13/db2r11dg2r11dg21r2k9t2db11r11dg2r11db2~x2/"><circle cx="214.5" cy="157.5" r="4" fill="#3465a4"><title>Nicolson/MacNicol</title></circle></a><circle cx="209.2" cy="142.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s19/k1r4dg8r2dg1r2db4r2w1r1w1r2dg4r3dg4r1k1r8w1~x2/

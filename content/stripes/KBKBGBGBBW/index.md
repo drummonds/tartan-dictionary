@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Dugan (Personal)](/setts/s10/k10n4k34db3g3db3g3db26n2lb3~x2/)|
-|![Dugan (Personal) example sett](/setts/s10/k10n4k34db3g3db3g3db26n2lb3~x2/sett.png)|
+| [Dugan (Personal)](/setts/s10/k10n4k34db3g3db3g3db26ni2lb3~x2/)|
+|![Dugan (Personal) example sett](/setts/s10/k10n4k34db3g3db3g3db26ni2lb3~x2/sett.png)|

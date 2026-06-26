@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [10 stripe tartan](/stripes/stripes10/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Chisholm #2
-
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -38,8 +32,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="340.8" cy="103.0" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="368.6" cy="88.7" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="331.5" cy="102.7" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="369.1" cy="88.6" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="343.7" cy="106.6" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="364.7" cy="123.0" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="329.8" cy="104.7" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/"><circle cx="350.0" cy="115.8" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s9/k2r1g8r3g3r14ly1r1w2~x2/"><circle cx="300.1" cy="135.2" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><circle cx="335.6" cy="104.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/r6w1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="339.6" cy="103.3" r="4" fill="#3465a4"><title>Chisholm #2</title></circle></a><a href="/setts/s10/g6w1g12r4db4r2k4r32g1r2~x2/"><circle cx="367.3" cy="88.9" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6lb1r24db6dg2k1dg2k1dg12r1/"><circle cx="330.4" cy="103.1" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/dg6lb1dg12r4db4r2k4r32dg1r2~x2/"><circle cx="367.8" cy="88.8" r="4" fill="#3465a4"><title>Seton</title></circle></a><a href="/setts/s10/r6ly1r24g6db2k1db2k1db12r1~x2/"><circle cx="342.6" cy="106.9" r="4" fill="#3465a4"><title>MacEdward</title></circle></a><a href="/setts/s10/r6w1r24db6g2db1g2db1g12r1~x2/"><circle cx="363.6" cy="123.3" r="4" fill="#3465a4"><title>Chisholm</title></circle></a><a href="/setts/s10/lb6r5lb9db2b3db2o36r2o4r2~x2/"><circle cx="328.6" cy="105.0" r="4" fill="#3465a4"><title>Outpost Club</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1~x2/"><circle cx="349.1" cy="116.1" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s10/r6lr1r24db6dg2k1dg2k1dg12r1/"><circle cx="349.1" cy="116.1" r="4" fill="#3465a4"><title>Chisholm VS</title></circle></a><a href="/setts/s9/k2r1g8r3g3r14ly1r1w2~x2/"><circle cx="298.9" cy="135.7" r="4" fill="#3465a4"><title>Melieres, Michel (Personal)</title></circle></a><circle cx="334.4" cy="104.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s10/r6w1r24db6g2k1g2k1g12r1~x2/

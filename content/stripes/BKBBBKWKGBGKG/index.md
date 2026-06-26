@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Redgate (Connecticut) #2](/setts/s13/dg1k4dg6dr3dg6k10w1k10n9dr3n9k5n1~x2/)|
-|![Redgate (Connecticut) #2 example sett](/setts/s13/dg1k4dg6dr3dg6k10w1k10n9dr3n9k5n1~x2/sett.png)|
+| [Redgate (Connecticut) #2](/setts/s13/dg1k4dg6dr3dg6ki10w1ki10n9dr3n9k5n1~x2/)|
+|![Redgate (Connecticut) #2 example sett](/setts/s13/dg1k4dg6dr3dg6ki10w1ki10n9dr3n9k5n1~x2/sett.png)|

@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2566/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2566
+
 ## Thread count
 DB/16 LN4 DB22 LN26 DB60 LN26 R22 DB/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/"><circle cx="258.4" cy="167.2" r="4" fill="#3465a4"><title>Jubilation</title></circle></a><a href="/setts/s7/k1w3db2w4db8w1db1~x6/"><circle cx="280.5" cy="208.6" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="279.3" cy="189.9" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/"><circle cx="286.3" cy="141.9" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/setts/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="290.1" cy="157.4" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/setts/s7/k15n3w10n7dp40w3dp6~x2/"><circle cx="270.4" cy="160.6" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="194.0" cy="170.6" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s6/w8k16w2db2w1k1~x4/"><circle cx="325.8" cy="175.5" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="288.4" cy="200.2" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/"><circle cx="343.7" cy="130.0" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><circle cx="288.4" cy="188.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/r11w13db30w13db11w2db8w2db11w13db30w13r11db2~x2/"><circle cx="257.7" cy="168.3" r="4" fill="#3465a4"><title>Jubilation</title></circle></a><a href="/setts/s7/k1w3db2w4db8w1db1~x6/"><circle cx="279.7" cy="209.8" r="4" fill="#3465a4"><title>Queen Margaret University (Corporate</title></circle></a><a href="/setts/s6/db8w3db28w32k3w4~x2/"><circle cx="278.4" cy="191.0" r="4" fill="#3465a4"><title>Ailsa, Navy (Dance)</title></circle></a><a href="/setts/s11/db2w2r2w2r2db2r2db12ly1db2w2~x4/"><circle cx="285.3" cy="142.8" r="4" fill="#3465a4"><title>Good Morning America (Corporate)</title></circle></a><a href="/setts/s10/db5r2db5w7db32w7r13db3r13w2~x2/"><circle cx="289.2" cy="158.3" r="4" fill="#3465a4"><title>America (Eagle version)</title></circle></a><a href="/setts/s7/k15n3w10n7dp40w3dp6~x2/"><circle cx="269.7" cy="161.7" r="4" fill="#3465a4"><title>Loughborough Sport</title></circle></a><a href="/setts/s10/db11k4w5k1r3k1w5k4db11r1~x4/"><circle cx="193.4" cy="171.7" r="4" fill="#3465a4"><title>Hydro-Electric</title></circle></a><a href="/setts/s6/w8k16w2db2w1k1~x4/"><circle cx="325.0" cy="176.5" r="4" fill="#3465a4"><title>Ikelman No 1</title></circle></a><a href="/setts/s5/db10g4w27db40r4~x2/"><circle cx="287.5" cy="201.3" r="4" fill="#3465a4"><title>Turnbull Dress, Bruce (Personal)</title></circle></a><a href="/setts/s12/w24db12w1db2w2db2w1db12dt3db4dt3db20~x2/"><circle cx="342.7" cy="130.7" r="4" fill="#3465a4"><title>Costa, David (Personal)</title></circle></a><circle cx="287.6" cy="189.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/db8w2db11w13db30w13r11db2~x2/

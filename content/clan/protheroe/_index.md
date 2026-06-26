@@ -1,8 +1,5 @@
 ---
 title: "Clan Protheroe"
-date: 2023-03-18
+redirect: "/families/protheroe-of-wales/"
 ---
-## Families
-
-- [Protheroe of Wales](/families/protheroe-of-wales/)
-
+Clan Protheroe is recorded as the single family [Protheroe of Wales](/families/protheroe-of-wales/) — redirecting there.

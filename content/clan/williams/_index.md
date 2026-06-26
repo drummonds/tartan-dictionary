@@ -1,8 +1,5 @@
 ---
 title: "Clan Williams"
-date: 2023-03-18
+redirect: "/families/williams-of-wales/"
 ---
-## Families
-
-- [Williams of Wales](/families/williams-of-wales/)
-
+Clan Williams is recorded as the single family [Williams of Wales](/families/williams-of-wales/) — redirecting there.

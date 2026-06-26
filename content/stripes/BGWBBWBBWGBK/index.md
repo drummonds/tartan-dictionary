@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weisfeld](/setts/s12/k6db3g28w1db28db2w3~x2/)|
-|![Weisfeld example sett](/setts/s12/k6db3g28w1db28db2w3~x2/sett.png)|
+| [Weisfeld](/setts/s12/k6dbi3g28w1db28dbi2w3~x2/)|
+|![Weisfeld example sett](/setts/s12/k6dbi3g28w1db28dbi2w3~x2/sett.png)|

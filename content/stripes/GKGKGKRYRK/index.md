@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bomb Disposal](/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/)|
-|![Bomb Disposal example sett](/setts/s10/k28r3lo2r3k13dg28k1dg3k1dg16~x2/sett.png)|
+| [Bomb Disposal](/setts/s10/ki28r3lo2r3ki13dg28k1dg3k1dg16~x2/)|
+|![Bomb Disposal example sett](/setts/s10/ki28r3lo2r3ki13dg28k1dg3k1dg16~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Roberts"
-date: 2023-03-18
+redirect: "/families/roberts-of-wales/"
 ---
-## Families
-
-- [Roberts of Wales](/families/roberts-of-wales/)
-
+Clan Roberts is recorded as the single family [Roberts of Wales](/families/roberts-of-wales/) — redirecting there.

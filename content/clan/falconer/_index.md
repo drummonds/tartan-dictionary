@@ -1,8 +1,5 @@
 ---
 title: "Clan Falconer"
-date: 2023-03-18
+redirect: "/families/falconer-of-labhdal/"
 ---
-## Families
-
-- [Falconer of Labhdal](/families/falconer-of-labhdal/)
-
+Clan Falconer is recorded as the single family [Falconer of Labhdal](/families/falconer-of-labhdal/) — redirecting there.

@@ -2,7 +2,7 @@
 title: "Cawte of Middlebanknock"
 date: 2023-03-18
 ---
-A family of [Clan Cawte](/clan/cawte/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Middlebanknock”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Middlebanknock&viewmode=grid)
 

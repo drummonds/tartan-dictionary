@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [ENABLE Scotland](/setts/s13/g3dp3dt2dt14g16dp18dt2dp3dt14dt4ly3o1dt2~x2/)|
-|![ENABLE Scotland example sett](/setts/s13/g3dp3dt2dt14g16dp18dt2dp3dt14dt4ly3o1dt2~x2/sett.png)|
+| [ENABLE Scotland](/setts/s13/g3dp3dti2dt14g16dp18dti2dp3dti14dt4ly3o1dti2~x2/)|
+|![ENABLE Scotland example sett](/setts/s13/g3dp3dti2dt14g16dp18dti2dp3dti14dt4ly3o1dti2~x2/sett.png)|

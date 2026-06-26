@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Camenisch Enveglan Family (Personal)](/setts/s10/dg28dg6dt4dg6dg5dp4dg5dt11k1w2~x2/)|
-|![Camenisch Enveglan Family (Personal) example sett](/setts/s10/dg28dg6dt4dg6dg5dp4dg5dt11k1w2~x2/sett.png)|
+| [Camenisch Enveglan Family (Personal)](/setts/s10/dgi28dg6dt4dg6dgi5dp4dgi5dt11k1w2~x2/)|
+|![Camenisch Enveglan Family (Personal) example sett](/setts/s10/dgi28dg6dt4dg6dgi5dp4dgi5dt11k1w2~x2/sett.png)|

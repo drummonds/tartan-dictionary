@@ -2,7 +2,7 @@
 title: "Glen of Daviot"
 date: 2023-03-18
 ---
-A family of [Clan Glen](/clan/glen/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Daviot”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Daviot&viewmode=grid)
 

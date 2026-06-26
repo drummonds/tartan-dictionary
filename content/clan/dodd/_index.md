@@ -1,8 +1,5 @@
 ---
 title: "Clan Dodd"
-date: 2023-03-18
+redirect: "/families/dodd-of-branford/"
 ---
-## Families
-
-- [Dodd of Branford](/families/dodd-of-branford/)
-
+Clan Dodd is recorded as the single family [Dodd of Branford](/families/dodd-of-branford/) — redirecting there.

@@ -3,22 +3,22 @@ title: "Families & clans — A"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-34 clans and families beginning with A. [Back to the A–Z](/families/).
+35 clans and families beginning with A. [Back to the A–Z](/families/).
 
 ## A
 
-- [A J Gallacher](/setts/s25/g3w1b4w1b3w2b3w2b2w3b2w3b1w4r20r1r1r1r1r7k3b1k1b1g2~x2/)
+- [A J Gallacher](/setts/s25/g3w1b4w1b3w2b3w2b2w3b2w3b1w4ri20r1ri1r1ri1r7k3b1k1b1g2~x2/)
 
 ## Ab
 
 - [Abel](/setts/s14/db22g22w6db4ly7g20db24k20r2lr24k6lr24r2k20~x2/)
-- [Abercrombie](/setts/s9/g14w1g7k7db2k2db2k2db7~x4/)
+- [Abercrombie](/setts/s9/db7k2db2k2db2k7g7w1g7~x4/)
 - [Abernethy](/setts/s7/lo1dg14r1y14r28db14lo1~x2/)
 
 ## Ad
 
-- [Adair](/setts/s13/t16db2t2db2t2db16db16ly3db16db16t16db2t2~x2/)
-- [Adams](/setts/s11/r4g4k2g17do5g5do17g6lb1db22r2~x2/)
+- [Adair](/setts/s13/t16db2t2db2t2db16dbi16ly3dbi16db16t16db2t2~x2/)
+- [Adams](/setts/s11/r4g4k2g15do5g5do15g6w1db19r2~x2/)
 
 ## Ag
 
@@ -36,9 +36,9 @@ background: /bg/clans.png
 - [Alexander of Menstry](/families/alexander-of-menstry/)
 - [Alexander of Menstry Htg](/families/alexander-of-menstry-htg/)
 - [Alison / Allison](/setts/s14/db3k3db12k18dg14k2dg14k8ly2k8t4r4k2w3~x2/)
-- [Allen](/setts/s10/g8w1g1r1g4k4db8k1db1k1~x4/)
+- [Allen](/setts/s21/g2r2g12k4n11r2n11k4n2k9n2k9n2k4n11ly2n11k4g12r2g2~x2/)
 - [Allen Htg](/setts/s25/t22r1lo4t4lo1t1lo1t1lo1t1lo1t1lo1t1lo1t1lo1t1lo1t1lo1t1lo9dy24db2~x4/)
-- [Allison](/setts/s14/db2k2db16k15ly2g16k2g16w2k17db4r6k3ly2~x2/)
+- [Allison](/setts/s14/db3k2db12k18dg14k2dg14k8ly2k8t4r4k2w3~x2/)
 - [Alvis](/clan/alvis/) — clan
 - [Alvis of Lee](/families/alvis-of-lee/)
 
@@ -49,12 +49,13 @@ background: /bg/clans.png
 - [Anderson of Kinnedar,](/families/anderson-of-kinnedar/)
 - [Anderson of Kinneddar](/families/anderson-of-kinneddar/)
 - [Anderson of Kinnedear](/families/anderson-of-kinnedear/)
-- [Angotta](/setts/s13/lo6db1lo1db1lo1db5lo2db5lo4db2r1db40r1~x2/)
+- [Angotta](/setts/s13/ly6db1ly1db1ly1db5ly2db5ly4db2r1db40r1~x2/)
 - [Angove, the Black Swan](/setts/s15/db18dp2k2db2dp2k1db2k8g1ly1g6k8db14k2g2~x2/)
 
 ## Ar
 
-- [Arnold](/setts/s43/k4k1lo2k1k5k1k2k2k2k4k2k2k2k1k5r1k4k20dp3k4k4k1w2k1k4k4dp3k20k4r1k5k1k2k2k2k4k2k2k2k1k5k1lo2~x2/)
+- [Arizona Jones](/setts/s10/g18k1r9k12r9k1g18k1n6g1~x2/)
+- [Arnold](/setts/s43/k4ki1lo2ki1k5ki1k2ki2k2ki4k2ki2k2ki1k5r1k4ki20dp3ki4k4ki1w2ki1k4ki4dp3ki20k4r1k5ki1k2ki2k2ki4k2ki2k2ki1k5ki1lo2~x2/)
 
 ## As
 

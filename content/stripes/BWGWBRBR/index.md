@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Raith Rovers F.C.](/setts/s8/db6w2g2w3db24r1db35r2~x2/)|
-|![Raith Rovers F.C. example sett](/setts/s8/db6w2g2w3db24r1db35r2~x2/sett.png)|
+| [Raith Rovers F.C.](/setts/s8/dbi6w2g2w3dbi24r1db35r2~x2/)|
+|![Raith Rovers F.C. example sett](/setts/s8/dbi6w2g2w3dbi24r1db35r2~x2/sett.png)|

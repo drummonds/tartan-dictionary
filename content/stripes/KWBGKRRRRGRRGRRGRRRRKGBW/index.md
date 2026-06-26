@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrews Grand](/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/)|
-|![St. Andrews Grand example sett](/setts/s24/g4r1r1dg2r1r1r1r1k12g18db23w2k3~x2/sett.png)|
+| [St. Andrews Grand](/setts/s24/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2/)|
+|![St. Andrews Grand example sett](/setts/s24/g4r1ri1dg2r1ri1r1ri1k12g18db23w2k3~x2/sett.png)|

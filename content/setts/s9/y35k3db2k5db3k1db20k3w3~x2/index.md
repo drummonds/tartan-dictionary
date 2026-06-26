@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8475/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8475](https://www.tartanregister.gov.uk/tartanDetails?ref=8475)
+- Scottish Tartans Authority (ITI): 8475
+
 ## Thread count
 G/70 K6 B4 K10 B6 K2 B40 K6 LN/6
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="306.7" cy="149.7" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s9/b10k6g42k2g1k2r1k24r2~x2/"><circle cx="336.5" cy="118.8" r="4" fill="#3465a4"><title>Black Thistle</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.5" cy="164.4" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/"><circle cx="326.7" cy="158.2" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.6" cy="119.2" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/setts/s10/r3db12k1db1k1db2k12g30k1g2~x2/"><circle cx="340.2" cy="139.1" r="4" fill="#3465a4"><title>Armstrong</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.4" cy="93.6" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s10/dp4g6dt4g28lb4g6dt6db46dt1lb4~x2/"><circle cx="293.6" cy="108.0" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/setts/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="367.6" cy="141.2" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><circle cx="332.0" cy="130.7" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/r6db2r1db8r3db16g28w2g4~x2/"><circle cx="306.2" cy="150.2" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s9/b10k6g42k2g1k2r1k24r2~x2/"><circle cx="336.0" cy="119.1" r="4" fill="#3465a4"><title>Black Thistle</title></circle></a><a href="/setts/s9/r6db2r1db16r3db16dg28w2dg4~x2/"><circle cx="316.2" cy="164.9" r="4" fill="#3465a4"><title>George (Personal)</title></circle></a><a href="/setts/s9/dt44y8dt8y22lr4y4lr11y2w2~x2/"><circle cx="326.1" cy="158.7" r="4" fill="#3465a4"><title>Titanium</title></circle></a><a href="/setts/s12/k9o2k2n2o18n2k2r1k1k19n33r2~x2/"><circle cx="291.2" cy="119.6" r="4" fill="#3465a4"><title>Pride of Scotland Silver</title></circle></a><a href="/setts/s10/r3db12k1db1k1db2k12g30k1g2~x2/"><circle cx="339.9" cy="139.4" r="4" fill="#3465a4"><title>Armstrong</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.4" cy="116.8" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s11/db60k15g10r2g10r2g10r2g10k1ly4~x2/"><circle cx="327.0" cy="93.8" r="4" fill="#3465a4"><title>Muir/Moore</title></circle></a><a href="/setts/s10/dp4g6dt4g28lb4g6dt6db46dt1lb4~x2/"><circle cx="293.3" cy="108.3" r="4" fill="#3465a4"><title>State Seal of Connecticut (Fashion)</title></circle></a><a href="/setts/s8/db2g2ly1g30db20r2db2r2~x2/"><circle cx="367.0" cy="141.6" r="4" fill="#3465a4"><title>Gretna Green</title></circle></a><circle cx="331.5" cy="131.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/y35k3db2k5db3k1db20k3w3~x2/

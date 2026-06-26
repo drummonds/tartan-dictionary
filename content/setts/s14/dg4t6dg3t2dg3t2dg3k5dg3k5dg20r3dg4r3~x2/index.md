@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [14 stripe tartan](/stripes/stripes14
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=3560
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Ross, hunting
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/"><circle cx="316.6" cy="221.8" r="4" fill="#3465a4"><title>Moncrieff of Atholl</title></circle></a><a href="/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/"><circle cx="343.0" cy="195.3" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="285.0" cy="198.4" r="4" fill="#3465a4"><title>Smeaton (Wedding) #2</title></circle></a><a href="/setts/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/"><circle cx="346.9" cy="225.5" r="4" fill="#3465a4"><title>Salvation Army Hunting</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="272.1" cy="207.4" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="272.1" cy="207.4" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/setts/s14/dg2g4dg2g1dg1g1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="396.9" cy="183.4" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/"><circle cx="335.5" cy="174.5" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/"><circle cx="321.7" cy="211.6" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.8" cy="176.0" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><circle cx="332.3" cy="191.9" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/g9k1g2k2g2db7g9r2g9db9g7k1r3~x4/"><circle cx="316.3" cy="222.6" r="4" fill="#3465a4"><title>Moncrieff of Atholl</title></circle></a><a href="/setts/s13/k10g2k2db2g14lo1g14db2k10g4k2g2k2~x2/"><circle cx="342.8" cy="195.8" r="4" fill="#3465a4"><title>Sawicki, Peter (Personal)</title></circle></a><a href="/setts/s18/db12w2db7g15k2g4k2g15db2k7~x2/"><circle cx="284.7" cy="199.2" r="4" fill="#3465a4"><title>Smeaton (Wedding) #2</title></circle></a><a href="/setts/s12/dg8k1ly2k1dg8db4dg8k1ly2k1dg8db5~x4/"><circle cx="346.5" cy="226.2" r="4" fill="#3465a4"><title>Salvation Army Hunting</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x2/"><circle cx="271.9" cy="208.2" r="4" fill="#3465a4"><title>Davidson</title></circle></a><a href="/setts/s11/r1k6g1k1g8k1g8db1g1db6r1~x4/"><circle cx="271.9" cy="208.2" r="4" fill="#3465a4"><title>Davidson - 1842 (Clan)</title></circle></a><a href="/setts/s14/dg2g4dg2g1dg1g1dg3k2dg2k2dg12r1dg2r1~x2/"><circle cx="396.5" cy="183.8" r="4" fill="#3465a4"><title>Ross Hunting</title></circle></a><a href="/setts/s12/g3db3g3db24g3db3g3lo2g18r2g18lo2~x2/"><circle cx="335.0" cy="175.2" r="4" fill="#3465a4"><title>Greenways Marketing Intl</title></circle></a><a href="/setts/s14/k8ly1k4dg1k4w1k4dg1k1dg6k1dg6k1dg1~x4/"><circle cx="321.4" cy="212.4" r="4" fill="#3465a4"><title>MacAlpine</title></circle></a><a href="/setts/s10/r4g4k2g31k10ly3g5k11g6k3~x2/"><circle cx="349.3" cy="176.6" r="4" fill="#3465a4"><title>MacArthur-Fox Green</title></circle></a><circle cx="332.0" cy="192.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s14/dg4t6dg3t2dg3t2dg3k5dg3k5dg20r3dg4r3~x2/

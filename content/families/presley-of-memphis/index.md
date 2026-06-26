@@ -8,5 +8,5 @@ A family of [Clan Presley](/clan/presley/).
 
 ## Tartan
 
-<a class="tartan" href="/setts/s8/r4w4db4w21r1db42w1ly4~x2/"><img src="/setts/s8/r4w4db4w21r1db42w1ly4~x2/sett.png" alt="Presley of Memphis" width="240"><br>Presley of Memphis</a>
+<a class="tartan" href="/setts/s8/r4w4db4w21ri1db42w1ly4~x2/"><img src="/setts/s8/r4w4db4w21ri1db42w1ly4~x2/sett.png" alt="Presley of Memphis" width="240"><br>Presley of Memphis</a>
 

@@ -14,5 +14,6 @@ A family of [Clan Grant](/clan/grant/).
 
 <ul class="tartan-grid">
 <li><a class="tartan" href="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/"><img src="/setts/s13/r1g1r32db32r8g1r1g1r8g32r32g1r1~x2/sett.png" alt="Grant of Rothiemurchus" width="140"><br>Grant of Rothiemurchus</a></li>
+<li><a class="tartan" href="/setts/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/"><img src="/setts/s13/r4db2r2db2r56db16r4g1r4g36r3g1r4~x2/sett.png" alt="Grant of Rothiemurchus" width="140"><br>Grant of Rothiemurchus</a></li>
 </ul>
 

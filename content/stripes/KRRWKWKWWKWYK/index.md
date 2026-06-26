@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Un-named (USA Bedheads)](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/)|
-|![Un-named (USA Bedheads) example sett](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2r7r15k3~x2/sett.png)|
+| [Un-named (USA Bedheads)](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2ri7r15k3~x2/)|
+|![Un-named (USA Bedheads) example sett](/setts/s13/k4lg9lb30k2lb4w5k2w2k1w2ri7r15k3~x2/sett.png)|

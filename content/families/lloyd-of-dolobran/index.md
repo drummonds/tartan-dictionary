@@ -2,7 +2,7 @@
 title: "Lloyd of Dolobran"
 date: 2023-03-18
 ---
-A family of [Clan Lloyd](/clan/lloyd/).
+A family of [Clan LLoyd](/clan/lloyd/).
 
 **Trove of Scotland:** [search “Dolobran”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Dolobran&viewmode=grid)
 

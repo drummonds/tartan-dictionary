@@ -26,5 +26,5 @@ It is a 7 stripe tartan.
 |---------------|
 | [McKnight #2 (Personal)](/setts/s7/t4ly1r28db24k5t5k3~x4/)|
 |![McKnight #2 (Personal) example sett](/setts/s7/t4ly1r28db24k5t5k3~x4/sett.png)|
-| [McKnight (Personal)](/setts/s7/db4ly1r28db25k10db5k3~x2/)|
-|![McKnight (Personal) example sett](/setts/s7/db4ly1r28db25k10db5k3~x2/sett.png)|
+| [McKnight (Personal)](/setts/s7/dbi4ly1r28db25k10dbi5k3~x2/)|
+|![McKnight (Personal) example sett](/setts/s7/dbi4ly1r28db25k10dbi5k3~x2/sett.png)|

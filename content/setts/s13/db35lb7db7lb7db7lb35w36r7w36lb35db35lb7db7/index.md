@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11242/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11242](https://www.tartanregister.gov.uk/tartanDetails?ref=11242)
+- Scottish Tartans Authority (ITI): 11242
+
 ## Thread count
 DB/35 LB7 DB7 LB7 DB7 LB35 W36 R7 W36 LB35 DB35 LB7 DB/7
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/"><circle cx="105.4" cy="181.6" r="4" fill="#3465a4"><title>Poulter Sonic</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="123.5" cy="178.8" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2/"><circle cx="111.5" cy="161.5" r="4" fill="#3465a4"><title>Strathclyde (Official)</title></circle></a><a href="/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/"><circle cx="141.2" cy="174.8" r="4" fill="#3465a4"><title>Black and White, Colourway</title></circle></a><a href="/setts/s13/w35dp7w7dp7w7dp35dt36ly7dt36dp35w35dp7w7/"><circle cx="106.5" cy="180.2" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="121.4" cy="165.0" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s8/ly8db4t23w3db22w25db3w6~x2/"><circle cx="130.6" cy="178.8" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="130.5" cy="172.0" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.6" cy="178.2" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="119.4" cy="200.1" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><circle cx="103.2" cy="184.0" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/dt69lb14dt13lb14dt13lb69w72r13w72lb69dt68lb14dt13/"><circle cx="104.8" cy="182.8" r="4" fill="#3465a4"><title>Poulter Sonic</title></circle></a><a href="/setts/s13/db25lg8db8lg8db8lg46w46lb8w46lg46db46lg8db8/"><circle cx="122.9" cy="180.0" r="4" fill="#3465a4"><title>Poulter SG 104 (Fashion)</title></circle></a><a href="/setts/s12/lb16w2db16w15k2w2k2w15db16w2lb16k2~x2/"><circle cx="110.9" cy="162.7" r="4" fill="#3465a4"><title>Strathclyde (Official)</title></circle></a><a href="/setts/s15/w20o3w20o3w9o12w3o15db3o6db19w3db5r4db19~x2/"><circle cx="140.6" cy="175.9" r="4" fill="#3465a4"><title>Black and White, Colourway</title></circle></a><a href="/setts/s13/w35dp7w7dp7w7dp35dt36ly7dt36dp35w35dp7w7/"><circle cx="105.8" cy="181.6" r="4" fill="#3465a4"><title>Poulter Tron</title></circle></a><a href="/setts/s15/w20dy3w20dy3w9dy12w3dy15db3dy6db19w3db5r4db19~x2/"><circle cx="120.7" cy="166.2" r="4" fill="#3465a4"><title>Black and White Colourway</title></circle></a><a href="/setts/s8/ly8db4t23w3db22w25db3w6~x2/"><circle cx="129.9" cy="179.9" r="4" fill="#3465a4"><title>Culloden, Blue Dress (Dance)</title></circle></a><a href="/setts/s13/lb25dp4lb4dp4lb4dp23lr23w4lr23dp23lb23dp4lb4~x2/"><circle cx="129.7" cy="173.2" r="4" fill="#3465a4"><title>Poulter, Pink (Corporate)</title></circle></a><a href="/setts/s12/b15w13dy6b2dy2r2dy2b2dy6w13b15r3~x4/"><circle cx="170.0" cy="179.2" r="4" fill="#3465a4"><title>Thompson (Pendleton)</title></circle></a><a href="/setts/s10/lb7k2w2k2w2k2lb7t4k10w2~x4/"><circle cx="118.9" cy="201.5" r="4" fill="#3465a4"><title>Investors Group</title></circle></a><circle cx="102.6" cy="185.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/db35lb7db7lb7db7lb35w36r7w36lb35db35lb7db7/

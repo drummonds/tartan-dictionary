@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Asman, Day Tan (Name)](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/)|
-|![Asman, Day Tan (Name) example sett](/setts/s11/y2k1y9lo3lb1k3lb1r3lo9lo1lo2~x4/sett.png)|
+| [Asman, Day Tan (Name)](/setts/s11/y2k1y9loi3lb1k3lb1r3loi9lo1loi2~x4/)|
+|![Asman, Day Tan (Name) example sett](/setts/s11/y2k1y9loi3lb1k3lb1r3loi9lo1loi2~x4/sett.png)|

@@ -42,8 +42,8 @@ It is a 6 stripe tartan.
 |![Macintosh, Charles Rennie (Commem) example sett](/setts/s6/k5n5k9db5k5db5~x2/sett.png)|
 | [Pride of the Forth](/setts/s6/k3n23k3n3k20t3~x2/)|
 |![Pride of the Forth example sett](/setts/s6/k3n23k3n3k20t3~x2/sett.png)|
-| [Scottish Express International](/setts/s6/k6db50k29b6k29db6/)|
-|![Scottish Express International example sett](/setts/s6/k6db50k29b6k29db6/sett.png)|
+| [Scottish Express International](/setts/s6/ki6db50k29b6k29db6/)|
+|![Scottish Express International example sett](/setts/s6/ki6db50k29b6k29db6/sett.png)|
 | [Silver Mist (Corporate)](/setts/s6/k13n2k13n31k1n1~x4/)|
 |![Silver Mist (Corporate) example sett](/setts/s6/k13n2k13n31k1n1~x4/sett.png)|
 | [Slanj, Grey (Corporate)](/setts/s6/k3n25k3n3k21n3~x2/)|

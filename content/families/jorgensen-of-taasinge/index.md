@@ -2,7 +2,7 @@
 title: "Jorgensen of Taasinge"
 date: 2023-03-18
 ---
-A family of [Clan Jorgensen](/clan/jorgensen/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Taasinge”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Taasinge&viewmode=grid)
 

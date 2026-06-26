@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/)|
-|![Jong Nederland Born Union (Corp) example sett](/setts/s10/r2w1r1w13t12ly2k2t2k1ly1~x4/sett.png)|
+| [Jong Nederland Born Union (Corp)](/setts/s10/r2w1r1w13t12lyi2k2t2k1ly1~x4/)|
+|![Jong Nederland Born Union (Corp) example sett](/setts/s10/r2w1r1w13t12lyi2k2t2k1ly1~x4/sett.png)|

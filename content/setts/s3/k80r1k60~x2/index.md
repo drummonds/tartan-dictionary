@@ -22,7 +22,8 @@ Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194
 
 External register numbers recorded for this tartan.
 
-- Scottish Register of Tartans: [10194](https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=10194)
+- Scottish Register of Tartans: [10194](https://www.tartanregister.gov.uk/tartanDetails?ref=10194)
+- Scottish Tartans Authority (ITI): 10194
 
 ## Thread count
 K/160 DR2 K/120
@@ -39,12 +40,12 @@ K/160 DR2 K/120
 
 The nearest existing variants by ΔTartan distance, with this tartan at the top so the swatches line up against it.
 
-<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k80r1k60~x2">Bodog</a> <a class="nn-out" href="/setts/s3/k80r1k60~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s3/k80r1k60~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.20</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=k20n1~x6">Black Shadow (Fashion)</a> <a class="nn-out" href="/setts/s2/k20n1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k20n1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">4.65</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=dg20r1dg4~x3">Castle Fraser Check</a> <a class="nn-out" href="/setts/s3/dg20r1dg4~x3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/dg20r1dg4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
+<div class="nn-table"><div class="nn-h nn-dt">ΔTartan</div><div class="nn-h nn-name">Tartan</div><div class="nn-h nn-sw">Sett</div><div class="nn-dt nn-base">—</div><div class="nn-name nn-base"><a href="/ttd/edit/#slug=k80r1k60~x2">Bodog</a> <a class="nn-out" href="/setts/s3/k80r1k60~x2/" title="open its dictionary page">↗</a></div><div class="nn-sw nn-base"><img class="nn-swatch" src="/setts/s3/k80r1k60~x2/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">3.19</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=k20n1~x6">Black Shadow (Fashion)</a> <a class="nn-out" href="/setts/s2/k20n1~x6/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s2/k20n1~x6/sett.png" alt="sett" loading="lazy" style="width:320px"></div><div class="nn-dt nn-far2">4.63</div><div class="nn-name nn-far2"><a href="/ttd/edit/#slug=dg20r1dg4~x3">Castle Fraser Check</a> <a class="nn-out" href="/setts/s3/dg20r1dg4~x3/" title="open its dictionary page">↗</a></div><div class="nn-sw"><img class="nn-swatch" src="/setts/s3/dg20r1dg4~x3/sett.png" alt="sett" loading="lazy" style="width:320px"></div></div>
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k20n1~x6/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><a href="/setts/s3/dg20r1dg4~x3/"><circle cx="626.0" cy="326.5" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><circle cx="626.0" cy="363.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s2/k20n1~x6/"><circle cx="626.0" cy="366.0" r="4" fill="#3465a4"><title>Black Shadow (Fashion)</title></circle></a><a href="/setts/s3/dg20r1dg4~x3/"><circle cx="626.0" cy="326.5" r="4" fill="#3465a4"><title>Castle Fraser Check</title></circle></a><circle cx="626.0" cy="363.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s3/k80r1k60~x2/

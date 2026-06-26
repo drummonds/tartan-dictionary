@@ -2,7 +2,7 @@
 title: "Ashers of Nairn"
 date: 2023-03-18
 ---
-A family of [Clan Ashers](/clan/ashers/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Nairn”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Nairn&viewmode=grid)
 

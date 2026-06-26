@@ -24,5 +24,5 @@ It is a 22 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Williams #2](/setts/s22/y46y4do6o3do3y3do3dt10y8do3y6y3~x2/)|
-|![Williams #2 example sett](/setts/s22/y46y4do6o3do3y3do3dt10y8do3y6y3~x2/sett.png)|
+| [Williams #2](/setts/s22/yi46yi4do6o3do3y3do3dt10yi8do3yi6y3~x2/)|
+|![Williams #2 example sett](/setts/s22/yi46yi4do6o3do3y3do3dt10yi8do3yi6y3~x2/sett.png)|

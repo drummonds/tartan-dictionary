@@ -1,8 +1,5 @@
 ---
 title: "Clan Cowan"
-date: 2023-03-18
+redirect: "/families/cowan-of-inveresk/"
 ---
-## Families
-
-- [Cowan of Inveresk](/families/cowan-of-inveresk/)
-
+Clan Cowan is recorded as the single family [Cowan of Inveresk](/families/cowan-of-inveresk/) — redirecting there.

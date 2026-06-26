@@ -10,5 +10,5 @@ date: 2023-03-18
 
 ## Families
 
-- [MacDougall, of MacDougall](/families/macdougall-of-macdougall/)
+- [MacDougall of MacDougall](/families/macdougall-of-macdougall/)
 

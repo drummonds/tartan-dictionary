@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Edinburgh Crystal](/setts/s5/k61w4k11db5m5~x2/)|
-|![Edinburgh Crystal example sett](/setts/s5/k61w4k11db5m5~x2/sett.png)|
+| [Edinburgh Crystal](/setts/s5/ki61w4k11db5m5~x2/)|
+|![Edinburgh Crystal example sett](/setts/s5/ki61w4k11db5m5~x2/sett.png)|
 | [Greystone (Burberry Grey)](/setts/s5/k3lb3k3n10r1~x6/)|
 |![Greystone (Burberry Grey) example sett](/setts/s5/k3lb3k3n10r1~x6/sett.png)|

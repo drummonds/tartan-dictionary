@@ -2,7 +2,7 @@
 title: "Ayrton of Laoch"
 date: 2023-03-18
 ---
-A family of [Clan Ayrton](/clan/ayrton/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Laoch”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Laoch&viewmode=grid)
 

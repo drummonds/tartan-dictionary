@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Haus of RvR](/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/)|
-|![Haus of RvR example sett](/setts/s11/db13w2db13k3db13k21lo3k18db9k2db2~x2/sett.png)|
+| [Haus of RvR](/setts/s11/dbi13w2dbi13k3db13k21lo3k18dbi9k2dbi2~x2/)|
+|![Haus of RvR example sett](/setts/s11/dbi13w2dbi13k3db13k21lo3k18dbi9k2dbi2~x2/sett.png)|

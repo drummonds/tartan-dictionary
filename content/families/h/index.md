@@ -3,13 +3,13 @@ title: "Families & clans — H"
 date: 2023-03-18
 background: /bg/clans.png
 ---
-89 clans and families beginning with H. [Back to the A–Z](/families/).
+84 clans and families beginning with H. [Back to the A–Z](/families/).
 
 ## Ha
 
 - [Haddrell](/setts/s7/r2b4y18n2y2n41w2~x2/)
 - [Haig](/clan/haig/) — clan
-- [Halcrow Howell](/setts/s9/db4t3db6k2db12g2db2g24lb2~x2/)
+- [Halcrow Howell](/setts/s9/db4t3db6k2dbi12g2dbi2g24lb2~x2/)
 - [Halliday](/setts/s15/g1w1k1w1k1w1k1w1k1w1g1w1k1w1m1~x8/)
 - [Hamilton](/clan/hamilton/) — clan
 - [Hamilton of Brandon](/families/hamilton-of-brandon/)
@@ -27,13 +27,10 @@ background: /bg/clans.png
 - [Harazeen](/setts/s8/r2g1w1k1~x20/)
 - [Harbison](/setts/s4/g21db34r14w6~x2/)
 - [Hardie](/setts/s6/m4dg9w2dg24dt37r3~x2/)
-- [Harding](/setts/s8/dg30dt2n7r14n7r7w1dt14~x2/)
-- [Harkness Dress](/setts/s10/b10r2w2r16g6r1g2r1g3r6~x4/)
-- [Harkness Htg](/setts/s10/g10n2w2n16g6ly2g4r2g3n6~x4/)
+- [Harding](/setts/s14/dg30dt2n7r14n7r7w1dt14~x2/)
 - [Harkness Hunting](/setts/s10/dg21db4w4db32dg12ly4dg8r4dg6db12/)
 - [Harley , Robert](/setts/s8/dg2k3ly1k3dg2db8dg16k1~x4/)
 - [Harmon](/clan/harmon/) — clan
-- [Harmon Dress](/setts/s18/k2lb6ly2lb2ly2lb19n2dg2n2lb2r4k2r11dg2r2dg2r6ly2~x2/)
 - [Harmon of Plenderleith](/families/harmon-of-plenderleith/)
 - [Harry/Parry](/setts/s10/k6o3k3o15r7k7r5k17r46o4/)
 - [Hart](/clan/hart/) — clan
@@ -43,7 +40,7 @@ background: /bg/clans.png
 - [Haughey](/setts/s5/do5r21lo21w2db1~x2/)
 - [Haus](/clan/haus/) — clan
 - [Haus of RvR](/families/haus-of-rvr/)
-- [Haut Family](/setts/s6/dt46dp15k12n8g8dp8~x2/)
+- [Haut Family](/setts/s6/dt46dpi15k12n8g8dp8~x2/)
 - [Hawes](/setts/s10/w2do3g5k50g4do3w2t3k2ly2~x2/)
 - [Hawks](/setts/s10/w2do3g5k50g4do3w2db3k2ly2~x2/)
 - [Hay](/setts/s23/k12r4ly4k8r66g8r1ly1r8g60w3k60r3dp60r8ly3r3dp8r66k8ly4r4k6~x2/)
@@ -70,24 +67,23 @@ background: /bg/clans.png
 ## Hi
 
 - [Hickey](/setts/s15/g3k1g1r12g1r1g1k4g1t2g15k1g1k1g3~x4/)
-- [Highfield Hunting](/setts/s11/db10k2g2r2g2k2do2k2dy4k1y2~x4/)
 - [Hill](/clan/hill/) — clan
 - [Hill of Banchory Primary](/families/hill-of-banchory-primary/)
 - [Hirstwood](/setts/s4/lo28r24dg55dp19~x2/)
-- [Hislop](/setts/s8/w4k2t18g18k18w3k18r3~x2/)
+- [Hislop](/setts/s8/w4k2t18g18k18wi3k18r3~x2/)
 - [Hislop Hunting](/setts/s11/r2k8ly2k7ly1k1w3k2g9db8r2~x2/)
-- [Hitchens, William Henry](/setts/s14/r4k2r2k2r2k2r8k6r2g2k9g2k21w4~x2/)
+- [Hitchens, William Henry](/setts/s14/r4ki2r2ki2r2ki2ri8ki6ri2g2k9g2ki21w4~x2/)
 
 ## Ho
 
 - [Hoban](/setts/s9/ly3lp9k3lp4k9g15k9db11w2~x4/)
 - [Hoffman Texas German](/setts/s7/k23r27db3r5w3k14ly6~x2/)
-- [Hogan](/setts/s4/g10w7ly41k7~x2/)
+- [Hogan](/setts/s13/dg49r3w2ly1o3dg19w2ly1dg5r3w2ly1o3~x2/)
 - [Hogarth](/clan/hogarth/) — clan
 - [Hogarth of Firhill](/families/hogarth-of-firhill/)
 - [Hogg Dress](/setts/s9/t34r3t8db4t8k24g34k2w6/)
-- [Holroyd, John (Personal](/setts/s12/w3g7db2g5db8db3ly3db3g3db12t21ly3~x2/)
-- [Hopkins](/setts/s12/dt5k2dt2k2dt2db5k2db1o1db1k10dt3~x4/)
+- [Holroyd, John (Personal](/setts/s12/w3g7db2g5dbi8db3ly3db3g3db12t21ly3~x2/)
+- [Hopkins](/setts/s5/r36k18r4k7w2~x2/)
 - [Hovington](/setts/s13/k2w1lo6r6w1k2lb2do3lb2k1lb2g3lb2~x2/)
 - [Howell](/clan/howell/) — clan
 - [Howell of Wales](/families/howell-of-wales/)
@@ -95,7 +91,7 @@ background: /bg/clans.png
 
 ## Hu
 
-- [Hubbard](/setts/s9/dt5r19dt2y8r3y18dt2y9dt2~x2/)
+- [Hubbard](/setts/s9/dt5r19dti2y8r3y18dti2y9dti2~x2/)
 - [Hughes](/clan/hughes/) — clan
 - [Hughes of Wales](/families/hughes-of-wales/)
 - [Hume or Home](/setts/s9/k3dg3k20r2k2r2db20dg3db3~x2/)
@@ -109,6 +105,5 @@ background: /bg/clans.png
 
 ## Hy
 
-- [Hyndman](/setts/s14/b4r2b3r4b8g4ly2g2k2b6r4b2r2w2~x4/)
 - [Hyslop Hunting](/setts/s18/g4r2g24k2g2k6g2k6g2k2g3lo1db3k2db1k2db3g2~x2/)
 

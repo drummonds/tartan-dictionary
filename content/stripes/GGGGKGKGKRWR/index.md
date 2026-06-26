@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Iona](/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dg3dg3dg4~x2/)|
-|![Iona example sett](/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dg3dg3dg4~x2/sett.png)|
+| [Iona](/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2/)|
+|![Iona example sett](/setts/s12/r8lb2r22k10dg6k6dg10k6dg10dgi3dg3dgi4~x2/sett.png)|

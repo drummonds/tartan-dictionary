@@ -1,8 +1,5 @@
 ---
 title: "Clan Bartlett"
-date: 2023-03-18
+redirect: "/families/bartlett-of-el-paso/"
 ---
-## Families
-
-- [Bartlett of El Paso](/families/bartlett-of-el-paso/)
-
+Clan Bartlett is recorded as the single family [Bartlett of El Paso](/families/bartlett-of-el-paso/) — redirecting there.

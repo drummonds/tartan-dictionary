@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Davies of Wales](/setts/s24/k3db30k2db4k2db30k3g30k3db30k2t2k2db30k3g30k3db30k2db4k2db30k3g3/)|
-|![Davies of Wales example sett](/setts/s24/k3db30k2db4k2db30k3g30k3db30k2t2k2db30k3g30k3db30k2db4k2db30k3g3/sett.png)|
+| [Davies of Wales](/setts/s24/k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2k2db30k3gi30k3dbi30k2dbi4k2dbi30k3g3/)|
+|![Davies of Wales example sett](/setts/s24/k3dbi30k2dbi4k2dbi30k3gi30k3db30k2t2k2db30k3gi30k3dbi30k2dbi4k2dbi30k3g3/sett.png)|

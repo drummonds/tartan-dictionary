@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rosie (Personal)](/setts/s12/dt30r3k2lb2k2r3dt24r2dt2r2dt2r6~x2/)|
-|![Rosie (Personal) example sett](/setts/s12/dt30r3k2lb2k2r3dt24r2dt2r2dt2r6~x2/sett.png)|
+| [Rosie (Personal)](/setts/s12/dt30r3k2lb2k2r3dt24ri2dt2ri2dt2ri6~x2/)|
+|![Rosie (Personal) example sett](/setts/s12/dt30r3k2lb2k2r3dt24ri2dt2ri2dt2ri6~x2/sett.png)|

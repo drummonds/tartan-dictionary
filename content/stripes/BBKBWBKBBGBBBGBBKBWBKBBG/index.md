@@ -24,5 +24,5 @@ It is a 24 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Heart of Scotland (Milne)](/setts/s24/dp17dp3g3dp3dp4k18db17w4db17k18dp18dp3g3~x2/)|
-|![Heart of Scotland (Milne) example sett](/setts/s24/dp17dp3g3dp3dp4k18db17w4db17k18dp18dp3g3~x2/sett.png)|
+| [Heart of Scotland (Milne)](/setts/s24/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/)|
+|![Heart of Scotland (Milne) example sett](/setts/s24/dpi17dp3g3dp3dpi4k18db17w4db17k18dpi18dp3g3~x2/sett.png)|

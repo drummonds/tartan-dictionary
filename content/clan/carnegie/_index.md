@@ -1,8 +1,5 @@
 ---
 title: "Clan Carnegie"
-date: 2023-03-18
+redirect: "/families/carnegie-of-skibo/"
 ---
-## Families
-
-- [Carnegie of Skibo](/families/carnegie-of-skibo/)
-
+Clan Carnegie is recorded as the single family [Carnegie of Skibo](/families/carnegie-of-skibo/) — redirecting there.

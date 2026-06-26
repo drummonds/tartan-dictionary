@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [(3) Laing](/setts/s15/db1k6db2k8db2k2db52r2db2ly8db2ly6db2ly2r1~x2/)|
-|![(3) Laing example sett](/setts/s15/db1k6db2k8db2k2db52r2db2ly8db2ly6db2ly2r1~x2/sett.png)|
+| [(3) Laing](/setts/s15/db1k6db2k8db2ki2db52r2db2ly8db2ly6db2ly2r1~x2/)|
+|![(3) Laing example sett](/setts/s15/db1k6db2k8db2ki2db52r2db2ly8db2ly6db2ly2r1~x2/sett.png)|

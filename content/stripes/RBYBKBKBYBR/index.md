@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Rangers Football Club Dress](/setts/s11/r2db6lr2db2k9db30k9db5lr4db2r2~x2/)|
-|![Rangers Football Club Dress example sett](/setts/s11/r2db6lr2db2k9db30k9db5lr4db2r2~x2/sett.png)|
+| [Rangers Football Club Dress](/setts/s11/r2db6lr2db2k9dbi30k9db5lr4db2r2~x2/)|
+|![Rangers Football Club Dress example sett](/setts/s11/r2db6lr2db2k9dbi30k9db5lr4db2r2~x2/sett.png)|

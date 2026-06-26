@@ -1,8 +1,5 @@
 ---
 title: "Clan MacBean"
-date: 2023-03-18
+redirect: "/families/macbean-of-tomatin/"
 ---
-## Families
-
-- [MacBean of Tomatin](/families/macbean-of-tomatin/)
-
+Clan MacBean is recorded as the single family [MacBean of Tomatin](/families/macbean-of-tomatin/) — redirecting there.

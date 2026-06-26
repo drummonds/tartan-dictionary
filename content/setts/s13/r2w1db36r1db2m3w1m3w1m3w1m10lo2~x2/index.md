@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/8809/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [8809](https://www.tartanregister.gov.uk/tartanDetails?ref=8809)
+- Scottish Tartans Authority (ITI): 8809
+
 ## Thread count
 DY/4 R20 W2 R6 W2 R6 W2 R6 DB4 Ra2 DB72 W2 Ra/4
 ![Sett](sett.png)
@@ -24,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="346.8" cy="68.5" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="371.5" cy="92.5" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="359.5" cy="90.0" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><circle cx="384.2" cy="70.2" r="4" fill="#3465a4"><title>Arran (Strathmore)</title></circle></a><a href="/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/"><circle cx="400.2" cy="69.0" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/setts/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/"><circle cx="397.3" cy="95.9" r="4" fill="#3465a4"><title>Leslie (J Cant)</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="353.7" cy="77.1" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="420.5" cy="44.4" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/setts/s8/g5ly2dp40w1db15w1db1w1~x2/"><circle cx="416.1" cy="94.8" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="364.1" cy="85.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><circle cx="385.5" cy="64.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s14/w2dp2y3ly5y13dp2y2dp2y2dp33m2dp1y4w1~x2/"><circle cx="345.9" cy="68.8" r="4" fill="#3465a4"><title>Scottish Bakers</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="370.7" cy="92.8" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s11/dp52y14o2g3dp2g3y6lb6g2lb6dp2~x2/"><circle cx="358.6" cy="90.3" r="4" fill="#3465a4"><title>Nance (2002)</title></circle></a><a href="/setts/s14/dp60g4dp4g4dp4k14r2k5r3k3r4k2r5w3~x2/"><circle cx="383.2" cy="70.4" r="4" fill="#3465a4"><title>Arran (Strathmore)</title></circle></a><a href="/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/"><circle cx="399.1" cy="69.1" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/setts/s13/db50r2k3ly2k3r2k3ly2k3r2db3r12k2~x2/"><circle cx="396.5" cy="96.2" r="4" fill="#3465a4"><title>Leslie (J Cant)</title></circle></a><a href="/setts/s10/dp60lo2dp10k9lb2k2b2k2y28lo3~x2/"><circle cx="352.8" cy="77.3" r="4" fill="#3465a4"><title>Wcwm 9275-1510-5</title></circle></a><a href="/setts/s14/w2db40lb1db2r4db1g1db1r8w1r2w1r2w2~x2/"><circle cx="419.4" cy="44.5" r="4" fill="#3465a4"><title>St. Andrew's Soc. of Singapore (Corp</title></circle></a><a href="/setts/s8/g5ly2dp40w1db15w1db1w1~x2/"><circle cx="415.2" cy="95.0" r="4" fill="#3465a4"><title>Jackson (Personal)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="363.2" cy="86.0" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><circle cx="384.6" cy="64.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/r2w1db36r1db2m3w1m3w1m3w1m10lo2~x2/

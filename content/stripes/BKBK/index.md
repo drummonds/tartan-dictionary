@@ -24,8 +24,8 @@ It is a 4 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Algarve (Fashion)](/setts/s4/k1db1~x20/)|
-|![Algarve (Fashion) example sett](/setts/s4/k1db1~x20/sett.png)|
+| [Algarve (Fashion)](/setts/s4/ki1db1k1db1~x20/)|
+|![Algarve (Fashion) example sett](/setts/s4/ki1db1k1db1~x20/sett.png)|
 | [Auchincloss (Personal)](/setts/s4/k34db13k7db14~x2/)|
 |![Auchincloss (Personal) example sett](/setts/s4/k34db13k7db14~x2/sett.png)|
 | [Leonard Hunting (Name)](/setts/s4/k30dp5k10dp9~x4/)|

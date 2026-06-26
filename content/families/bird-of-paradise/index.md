@@ -2,7 +2,7 @@
 title: "Bird of Paradise"
 date: 2023-03-18
 ---
-A family of [Clan Bird](/clan/bird/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Paradise”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Paradise&viewmode=grid)
 

@@ -1,8 +1,5 @@
 ---
 title: "Clan Sullivan"
-date: 2023-03-18
+redirect: "/families/sullivan-of-braemar/"
 ---
-## Families
-
-- [Sullivan of Braemar](/families/sullivan-of-braemar/)
-
+Clan Sullivan is recorded as the single family [Sullivan of Braemar](/families/sullivan-of-braemar/) — redirecting there.

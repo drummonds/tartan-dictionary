@@ -2,7 +2,7 @@
 title: "MacLagan of Glenquiech"
 date: 2023-03-18
 ---
-A family of [Clan MacLagan](/clan/maclagan/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Glenquiech”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glenquiech&viewmode=grid)
 

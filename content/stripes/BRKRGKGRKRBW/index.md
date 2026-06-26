@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Souza Nery (Personal)](/setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/)|
-|![Souza Nery (Personal) example sett](/setts/s12/db37r3k17r3g22k4g22r3k17r3db37w3~x2/sett.png)|
+| [Souza Nery (Personal)](/setts/s12/db37r3ki17r3g22k4g22r3ki17r3db37w3~x2/)|
+|![Souza Nery (Personal) example sett](/setts/s12/db37r3ki17r3g22k4g22r3ki17r3db37w3~x2/sett.png)|

@@ -2,7 +2,7 @@
 title: "Firth of Tay"
 date: 2023-03-18
 ---
-A family of [Clan Firth](/clan/firth/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Tay”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Tay&viewmode=grid)
 

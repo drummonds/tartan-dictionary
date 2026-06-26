@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/3175/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 3175
+
 ## Thread count
 O/16 K100 N30 DG12 N12 DB6 N12 O/4
 ![Sett](sett.png)
@@ -28,8 +34,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.5" cy="110.0" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/"><circle cx="271.8" cy="113.8" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.9" cy="116.5" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.7" cy="140.3" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s8/k76dt11k3ly6k3dt13k11o76/"><circle cx="298.7" cy="139.4" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><a href="/setts/s6/r6dt4w2g27dt37ly2~x2/"><circle cx="301.7" cy="159.2" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.8" cy="87.8" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s8/r4k32dg18k1w2k1dg4m4~x2/"><circle cx="340.1" cy="130.4" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s8/b9w2dg30o6r2o2r2o6~x2/"><circle cx="277.2" cy="144.8" r="4" fill="#3465a4"><title>Ware/Warr (Name)</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="313.0" cy="115.7" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><circle cx="297.3" cy="121.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="354.7" cy="110.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/w10db2w1db35dg10lo3dg10r4~x2/"><circle cx="271.2" cy="114.4" r="4" fill="#3465a4"><title>Sandelin #2 (Personal)</title></circle></a><a href="/setts/s9/w3dt1k14dt2k1g6k1dt30lo3~x2/"><circle cx="332.4" cy="116.8" r="4" fill="#3465a4"><title>Bro-Kerne</title></circle></a><a href="/setts/s10/k4dt16k3dt3k32lo7k3r10k2w4~x2/"><circle cx="264.1" cy="141.1" r="4" fill="#3465a4"><title>Model T Ford (Corporate)</title></circle></a><a href="/setts/s8/k76dt11k3ly6k3dt13k11o76/"><circle cx="298.1" cy="140.1" r="4" fill="#3465a4"><title>Kunbi</title></circle></a><a href="/setts/s6/r6dt4w2g27dt37ly2~x2/"><circle cx="301.0" cy="159.8" r="4" fill="#3465a4"><title>Highlands of Durham (Corporate)</title></circle></a><a href="/setts/s9/r8lg9dp3ly1dp1ly2dp2k32dp3~x2/"><circle cx="291.0" cy="88.2" r="4" fill="#3465a4"><title>Gedling, Peter (Personal)</title></circle></a><a href="/setts/s8/r4k32dg18k1w2k1dg4m4~x2/"><circle cx="339.7" cy="130.8" r="4" fill="#3465a4"><title>Hot Boontjie</title></circle></a><a href="/setts/s8/b9w2dg30o6r2o2r2o6~x2/"><circle cx="276.6" cy="145.4" r="4" fill="#3465a4"><title>Ware/Warr (Name)</title></circle></a><a href="/setts/s8/db64k11r2k4r2k4g32y4~x2/"><circle cx="312.4" cy="116.1" r="4" fill="#3465a4"><title>Sinclair-Brown</title></circle></a><circle cx="296.7" cy="121.8" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/lo8k50o15dg6o6db3o6lo2~x2/

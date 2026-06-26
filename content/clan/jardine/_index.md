@@ -1,8 +1,5 @@
 ---
-title: "Clan Jardine,"
-date: 2023-03-18
+title: "Clan Jardine"
+redirect: "/families/jardine-of-castlemilk/"
 ---
-## Families
-
-- [Jardine, of Castlemilk](/families/jardine-of-castlemilk/)
-
+Clan Jardine is recorded as the single family [Jardine of Castlemilk](/families/jardine-of-castlemilk/) — redirecting there.

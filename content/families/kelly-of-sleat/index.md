@@ -2,7 +2,7 @@
 title: "Kelly of Sleat"
 date: 2023-03-18
 ---
-A family of [Clan Kelly](/clan/kelly/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Sleat”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Sleat&viewmode=grid)
 

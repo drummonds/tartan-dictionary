@@ -2,7 +2,7 @@
 title: "Raymond of Doune"
 date: 2023-03-18
 ---
-A family of [Clan Raymond](/clan/raymond/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Doune”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Doune&viewmode=grid)
 

@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Highland Storm (Fashion)](/setts/s13/n43k2n2k1n1k11n2k2n1t1n20lb4n7~x2/)|
-|![Highland Storm (Fashion) example sett](/setts/s13/n43k2n2k1n1k11n2k2n1t1n20lb4n7~x2/sett.png)|
+| [Highland Storm (Fashion)](/setts/s13/n43k2n2ki1n1k11n2ki2n1t1n20lb4n7~x2/)|
+|![Highland Storm (Fashion) example sett](/setts/s13/n43k2n2ki1n1k11n2ki2n1t1n20lb4n7~x2/sett.png)|

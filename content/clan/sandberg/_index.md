@@ -1,8 +1,5 @@
 ---
 title: "Clan Sandberg"
-date: 2023-03-18
+redirect: "/families/sandberg-of-greenock/"
 ---
-## Families
-
-- [Sandberg of Greenock](/families/sandberg-of-greenock/)
-
+Clan Sandberg is recorded as the single family [Sandberg of Greenock](/families/sandberg-of-greenock/) — redirecting there.

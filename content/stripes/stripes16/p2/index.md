@@ -3,15 +3,22 @@ title: 16 stripes tartan setts (page 2)
 date: 2023-03-18
 weight: 16
 ---
-351 setts across 336 tartans with 16 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
+352 setts across 347 tartans with 16 stripes, grouped by colour-sequence pattern. Patterns with fewer than 40 setts are listed in full below; busier ones link to their own page. Each variant shows ΔT — its mean distance (OKLab ΔE) from the pattern's base colours — nearest first.
 <nav class="pager"><a href="/stripes/stripes16/">‹ prev</a> <a href="/stripes/stripes16/">1</a> <strong>2</strong> </nav>
+
+### RGWGWYRKRYGWKRYW
+<a class="pat" href="/stripes/rgwgwyrkrygwkryw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RGWGWYRKRYGWKRYW</span></a>
+
+| ΔT | Tartan | Source |
+|---|---|---|
+| 0.08 | [Clan Chattan](/setts/s16/r60dg2lb1dg15lb2ly3r3k1r3ly3y2lb16k4r4ly6lb2/) | weddslist |
 
 ### RKBBBBBKGKGBGBGY
 <a class="pat" href="/stripes/rkbbbbbkgkgbgbgy/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RKBBBBBKGKGBGBGY</span></a>
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.08 | [MacWatts (Personal)](/setts/s16/ly4g7dp2g2dp12g2k2g1k12db2db12db2db2db7k2r3~x2/) | tartans-authority |
+| 0.08 | [MacWatts (Personal)](/setts/s16/ly4g7dp2g2dp12g2k2g1k12dbi2db12dbi2db2dbi7k2r3~x2/) | tartans-authority |
 
 ### RKBKYKBYBWKBKRKY
 <a class="pat" href="/stripes/rkbkykbybwkbkrky/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RKBKYKBYBWKBKRKY</span></a>
@@ -32,7 +39,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [(5) Ruxton hunting](/setts/s16/m16k1m8db2k1db16k3m1k1m15db4m2k3m1k1m16~x2/) | weddslist |
+| 0.11 | [(5) Ruxton hunting](/setts/s16/m16k1m8db2ki1db16k3m1k1m15db4m2k3m1k1m16~x2/) | weddslist |
 
 ### RKRGRKRGRKRGRKRR
 <a class="pat" href="/stripes/rkrgrkrgrkrgrkrr/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="seq">RKRGRKRGRKRGRKRR</span></a>
@@ -46,7 +53,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.11 | [Mehrtens (Personal)](/setts/s16/w4dt4r18o4r1o36k1o4k6r2k6r6k2r6k4r2~x2/) | register-of-tartans |
+| 0.11 | [Mehrtens (Personal)](/setts/s16/w4dt4r18o4r1o36ki1o4ki6r2ki6r6ki2r6k4r2~x2/) | register-of-tartans |
 
 ### RKWBWYRKRYWBKRYW
 <a class="pat" href="/stripes/rkwbwyrkrywbkryw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWBWYRKRYWBKRYW</span></a>
@@ -60,7 +67,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Chattan, Clan](/setts/s16/r120k4w2g32w4k7r7k2r7k7w4t32k8r8k12w4/) | register-of-tartans |
+| 0.09 | [Chattan, Clan](/setts/s16/r120ki4w2g32w4k7r7ki2r7k7w4t32ki8r8k12w4/) | register-of-tartans |
 
 ### RKWGWYRKRYWGKRYW
 <a class="pat" href="/stripes/rkwgwyrkrywgkryw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWGWYRKRYWGKRYW</span></a>
@@ -81,7 +88,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.12 | [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25r5k1r5k1lb5k1r5~x2/) | tartans-authority |
+| 0.12 | [Puccini (Fashion)](/setts/s16/r6lb1r1k15r1lb2k1lo5lb25ri5k1r5k1lb5k1ri5~x2/) | tartans-authority |
 
 ### RKWKWKWBWGWGWGYW
 <a class="pat" href="/stripes/rkwkwkwbwgwgwgyw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#008B2A"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RKWKWKWBWGWGWGYW</span></a>
@@ -95,7 +102,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.13 | [Borders (Personal)](/setts/s16/w2k15n7lr7k1r1k1lr7k1w7k7n7lr7w1k1r1~x2/) | tartans-authority |
+| 0.13 | [Borders (Personal)](/setts/s16/w2k15n7lri7k1r1k1lr7k1w7k7n7lri7w1k1r1~x2/) | tartans-authority |
 
 ### RRBWBWBWBWBWBWBY
 <a class="pat" href="/stripes/rrbwbwbwbwbwbwby/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RRBWBWBWBWBWBWBY</span></a>
@@ -116,7 +123,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [North West, Mounted Police](/setts/s16/r39r3w2g14w2ly4r4r2r4ly4w2t12r6r6ly7w2~x2/) | weddslist |
+| 0.09 | [North West, Mounted Police](/setts/s16/r39ri3w2g14w2ly4r4ri2r4ly4w2t12ri6r6ly7w2~x2/) | weddslist |
 
 ### RRWRWRRRWRWBYKBW
 <a class="pat" href="/stripes/rrwrwrrrwrwbykbw/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="seq">RRWRWRRRWRWBYKBW</span></a>
@@ -165,7 +172,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.09 | [Puccini's Madama Butterfly](/setts/s16/r6w1r1k15r1w2k1ly5w25w5k1m5k1w5k1ly5~x2/) | register-of-tartans |
+| 0.09 | [Puccini's Madama Butterfly](/setts/s16/r6w1r1k15r1w2k1ly5w25wi5k1m5k1w5k1ly5~x2/) | register-of-tartans |
 
 ### RWRWRKWBWKRWRWRY
 <a class="pat" href="/stripes/rwrwrkwbwkrwrwry/"><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#000000"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#D60020"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">RWRWRKWBWKRWRWRY</span></a>
@@ -242,7 +249,7 @@ weight: 16
 
 | ΔT | Tartan | Source |
 |---|---|---|
-| 0.10 | [Ryder Cup 2014 (Corporate)](/setts/s16/w3db21db8t1db4t1db3t2db2t2db1t3db1t12db5ly3~x2/) | tartans-authority |
+| 0.10 | [Ryder Cup 2014 (Corporate)](/setts/s16/w3db21dbii8t1dbii4t1dbii3t2dbii2t2dbii1t3dbii1t12dbi5ly3~x2/) | tartans-authority |
 
 ### WBBWBWBWBWBWBWBY
 <a class="pat" href="/stripes/wbbwbwbwbwbwbwby/"><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#F7F7F7"></span><span class="blk" style="background:#082077"></span><span class="blk" style="background:#DCBC32"></span><span class="seq">WBBWBWBWBWBWBWBY</span></a>

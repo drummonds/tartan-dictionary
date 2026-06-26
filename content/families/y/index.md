@@ -16,6 +16,6 @@ background: /bg/clans.png
 
 ## Yo
 
-- [Yorston](/setts/s10/db109t12r4w4db5ly4g5k4r4t18/)
+- [Yorston](/setts/s10/db109lb12r4w4db5ly4g5k4r4lb18/)
 - [Young in Australia](/setts/s4/w81dg6lo8dg8~x2/)
 

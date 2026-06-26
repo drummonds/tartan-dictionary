@@ -24,7 +24,7 @@ It is a 16 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacDougall #9](/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/)|
-|![MacDougall #9 example sett](/setts/s16/r6r4r2r3dg34r3r2r4r2r3dp8t2r40r4r2r6~x2/sett.png)|
-| [MacDougall 4](/setts/s16/r6r4r2r3g34r3r2r4r2r3p8t2r40r4r2r6~x2/)|
-|![MacDougall 4 example sett](/setts/s16/r6r4r2r3g34r3r2r4r2r3p8t2r40r4r2r6~x2/sett.png)|
+| [MacDougall #9](/setts/s16/r6rii4ri2r3dg34rii3ri2r4ri2rii3dp8t2r40rii4ri2r6~x2/)|
+|![MacDougall #9 example sett](/setts/s16/r6rii4ri2r3dg34rii3ri2r4ri2rii3dp8t2r40rii4ri2r6~x2/sett.png)|
+| [MacDougall 4](/setts/s16/ri6rii4r2ri3g34rii3r2ri4r2rii3p8t2ri40rii4r2ri6~x2/)|
+|![MacDougall 4 example sett](/setts/s16/ri6rii4r2ri3g34rii3r2ri4r2rii3p8t2ri40rii4r2ri6~x2/sett.png)|

@@ -1,8 +1,5 @@
 ---
 title: "Clan Griffith"
-date: 2023-03-18
+redirect: "/families/griffith-of-wales/"
 ---
-## Families
-
-- [Griffith of Wales](/families/griffith-of-wales/)
-
+Clan Griffith is recorded as the single family [Griffith of Wales](/families/griffith-of-wales/) — redirecting there.

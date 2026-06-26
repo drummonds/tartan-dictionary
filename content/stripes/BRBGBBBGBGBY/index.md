@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Andrew's Soc. of Philadelphia (C](/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/)|
-|![St. Andrew's Soc. of Philadelphia (C example sett](/setts/s12/db3r1db12dg2db2db4db2dg2db2dg9db1lo2~x4/sett.png)|
+| [St. Andrew's Soc. of Philadelphia (C](/setts/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1lo2~x4/)|
+|![St. Andrew's Soc. of Philadelphia (C example sett](/setts/s12/db3r1dbi12dg2dbi2db4dbi2dg2dbi2dg9db1lo2~x4/sett.png)|

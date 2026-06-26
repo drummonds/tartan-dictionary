@@ -2,7 +2,7 @@
 title: "Duncan of Sketraw"
 date: 2023-03-18
 ---
-A family of [Clan Duncan](/clan/duncan/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Sketraw”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Sketraw&viewmode=grid)
 

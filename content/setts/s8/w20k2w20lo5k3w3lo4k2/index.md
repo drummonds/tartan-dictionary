@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [8 stripe tartan](/stripes/stripes8/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/10560/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [10560](https://www.tartanregister.gov.uk/tartanDetails?ref=10560)
+- Scottish Tartans Authority (ITI): 10560
+
 ## Thread count
 LN/20 K2 LN20 O5 K3 LN3 O4 K/2
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w20k2w20ly5k3w3ly4k2/"><circle cx="386.0" cy="164.9" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/setts/s6/w93o6w13db35w12o6/"><circle cx="407.4" cy="156.0" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/k7w3k7w45r3w3r3~x2/"><circle cx="420.2" cy="133.7" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/setts/s10/lr3lb2lr18t9lr18lb2lr18k9lr18lb2/"><circle cx="394.1" cy="193.4" r="4" fill="#3465a4"><title>London Fog Camel 2 (Fashion)</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="317.5" cy="191.9" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s6/w93lr6w13b35w12lr6/"><circle cx="423.4" cy="162.3" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="304.5" cy="161.6" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="299.2" cy="192.4" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s8/w12dg2w12r17w12dg2w5b2~x4/"><circle cx="299.4" cy="182.3" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/setts/s4/w81dg6lo8dg8~x2/"><circle cx="497.4" cy="183.8" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><circle cx="400.8" cy="174.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/w20k2w20ly5k3w3ly4k2/"><circle cx="384.3" cy="165.4" r="4" fill="#3465a4"><title>Guzzo Dress (Montreal, Canada) (Personal)</title></circle></a><a href="/setts/s6/w93o6w13db35w12o6/"><circle cx="405.8" cy="156.6" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/k7w3k7w45r3w3r3~x2/"><circle cx="418.5" cy="134.1" r="4" fill="#3465a4"><title>White Stripes (Corporate)</title></circle></a><a href="/setts/s10/lr3lb2lr18t9lr18lb2lr18k9lr18lb2/"><circle cx="392.7" cy="194.0" r="4" fill="#3465a4"><title>London Fog Camel 2 (Fashion)</title></circle></a><a href="/setts/s8/r14w35k4w35r14w8r14w8~x2/"><circle cx="315.9" cy="192.9" r="4" fill="#3465a4"><title>Clayton Dress (Dance)</title></circle></a><a href="/setts/s6/w93lr6w13b35w12lr6/"><circle cx="421.8" cy="162.7" r="4" fill="#3465a4"><title>Butties</title></circle></a><a href="/setts/s7/w24g2w8db5ly4db5ly4~x2/"><circle cx="303.2" cy="162.2" r="4" fill="#3465a4"><title>Clackson Arisaid (Name?)</title></circle></a><a href="/setts/s8/w12r2w12g17w12r2w5p2~x4/"><circle cx="297.8" cy="193.1" r="4" fill="#3465a4"><title>Milne, Green (Dance)</title></circle></a><a href="/setts/s8/w12dg2w12r17w12dg2w5b2~x4/"><circle cx="297.9" cy="183.0" r="4" fill="#3465a4"><title>Milne (Personal)</title></circle></a><a href="/setts/s4/w81dg6lo8dg8~x2/"><circle cx="495.6" cy="184.1" r="4" fill="#3465a4"><title>Young in Australia</title></circle></a><circle cx="399.2" cy="174.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s8/w20k2w20lo5k3w3lo4k2/

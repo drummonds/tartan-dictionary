@@ -9,12 +9,6 @@ Sourced from weddslist.  It is a [5 stripe tartan](/stripes/stripes5/).
 
 Original link http://www.weddslist.com/cgi-bin/tartans/pg.pl?source=sts
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Davidson of Tulloch #2
-
 ## Thread count
 R/4 B24 K12 G24 LN/4
 ![Sett](sett.png)
@@ -34,8 +28,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2db10k5g12w2~x2/"><circle cx="119.5" cy="224.9" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.4" cy="223.9" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.9" cy="217.1" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/w3b14k12g12k2ly3~x4/"><circle cx="86.5" cy="215.4" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/setts/s6/w3db14k12g12k2ly3~x2/"><circle cx="78.0" cy="212.1" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s6/k2ly1g6k6db6w1~x4/"><circle cx="100.9" cy="223.2" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s5/r2db16k11g19ly2~x2/"><circle cx="136.0" cy="206.3" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.6" cy="229.3" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.5" cy="236.1" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.9" cy="213.5" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><circle cx="111.2" cy="229.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s5/r2db10k5g12w2~x2/"><circle cx="119.2" cy="226.2" r="4" fill="#3465a4"><title>Davidson of Tulloch</title></circle></a><a href="/setts/s6/lr4g17k17db17r3db3~x2/"><circle cx="93.3" cy="225.4" r="4" fill="#3465a4"><title>Royal Highland</title></circle></a><a href="/setts/s6/db1r1db6k6g6w1~x2/"><circle cx="101.8" cy="218.6" r="4" fill="#3465a4"><title>Wellington</title></circle></a><a href="/setts/s6/w3b14k12g12k2ly3~x4/"><circle cx="86.4" cy="216.8" r="4" fill="#3465a4"><title>MacNeil of Barra (Clan)</title></circle></a><a href="/setts/s6/w3db14k12g12k2ly3~x2/"><circle cx="77.8" cy="213.5" r="4" fill="#3465a4"><title>MacNeil 6</title></circle></a><a href="/setts/s6/k2ly1g6k6db6w1~x4/"><circle cx="100.8" cy="224.7" r="4" fill="#3465a4"><title>Dyce</title></circle></a><a href="/setts/s5/r2db16k11g19ly2~x2/"><circle cx="135.7" cy="207.5" r="4" fill="#3465a4"><title>Sanix Modern</title></circle></a><a href="/setts/s6/k4g16k14ly3db16r4~x2/"><circle cx="77.5" cy="230.9" r="4" fill="#3465a4"><title>Birse</title></circle></a><a href="/setts/s6/r4g11k11g2db11y3~x4/"><circle cx="73.4" cy="237.6" r="4" fill="#3465a4"><title>Casely</title></circle></a><a href="/setts/s5/k4t3p11g14ly2~x2/"><circle cx="147.5" cy="214.8" r="4" fill="#3465a4"><title>Wellington, No 122</title></circle></a><circle cx="111.0" cy="231.1" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s5/r1db6k3g6w1~x4/

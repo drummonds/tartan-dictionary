@@ -2,7 +2,7 @@
 title: "Cian of Ely"
 date: 2023-03-18
 ---
-A family of [Clan Cian](/clan/cian/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Ely”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Ely&viewmode=grid)
 

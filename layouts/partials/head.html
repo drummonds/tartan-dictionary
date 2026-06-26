@@ -1,6 +1,12 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  {{- with .Params.redirect }}
+  {{/* A degenerate page (e.g. a stub clan that is just a single family) redirects to the page that
+       holds the data; the generator sets front-matter `redirect: /path/`. */}}
+  <meta http-equiv="refresh" content="0; url={{ . | relURL }}">
+  <link rel="canonical" href="{{ . | relURL }}">
+  {{- end }}
    <!-- MermaidJS (if enabled in front matter) -->
   {{ if (.Params.mermaid) }}
   <script async src="https://unpkg.com/mermaid@latest/dist/mermaid.min.js"></script>
@@ -17,7 +23,9 @@
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hint.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/dictionary.css">
   <link rel="stylesheet" href="{{ .Site.BaseURL }}css/print.css">
+  {{- if not .Params.redirect }}
   <link rel="canonical" href="{{ .Permalink }}">
+  {{- end }}
   <link rel="alternate" type="application/rss+xml" href="{{ with .OutputFormats.Get "RSS" }}{{ .RelPermalink }}{{ end }}" title="{{ .Site.Title }}">
   <!-- Font Awesome -->
   <!-- <link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet"> -->

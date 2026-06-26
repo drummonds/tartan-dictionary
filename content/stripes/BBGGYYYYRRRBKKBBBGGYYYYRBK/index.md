@@ -24,5 +24,5 @@ It is a 26 stripe tartan.
 
 | Tartans |
 |---------------|
-| [(1) Trithart](/setts/s26/k79dt1o1lo1ly1ly1lg1g1g1b1b1dp1k10k7dp4m4r4o4lo4ly4ly4lg4g4g4b4b4/)|
-|![(1) Trithart example sett](/setts/s26/k79dt1o1lo1ly1ly1lg1g1g1b1b1dp1k10k7dp4m4r4o4lo4ly4ly4lg4g4g4b4b4/sett.png)|
+| [(1) Trithart](/setts/s26/k79dt1o1lo1ly1lyi1lg1gi1g1b1bi1dp1k10ki7dp4m4r4o4lo4ly4lyi4lg4gi4g4b4bi4/)|
+|![(1) Trithart example sett](/setts/s26/k79dt1o1lo1ly1lyi1lg1gi1g1b1bi1dp1k10ki7dp4m4r4o4lo4ly4lyi4lg4gi4g4b4bi4/sett.png)|

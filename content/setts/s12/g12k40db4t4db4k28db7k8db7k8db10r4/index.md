@@ -17,6 +17,12 @@ Original link http://www.tartansauthority.com/tartan-ferret/display/5737/
 </ul>
 </details>
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 5737
+
 ## Thread count
 G/12 K40 DB4 B4 DB4 K28 DB7 K8 DB7 K8 DB10 R/4
 ![Sett](sett.png)
@@ -32,8 +38,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k1db8k7n8y1n4k11b1k1db1k1db1k11db4b1~x4/"><circle cx="293.7" cy="180.6" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/setts/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/"><circle cx="339.6" cy="214.6" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/"><circle cx="405.6" cy="188.8" r="4" fill="#3465a4"><title>Pride (Wales)</title></circle></a><a href="/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/"><circle cx="362.1" cy="200.6" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/"><circle cx="331.0" cy="173.0" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/"><circle cx="375.9" cy="189.9" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/setts/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/"><circle cx="333.8" cy="223.1" r="4" fill="#3465a4"><title>MacLachlan, Green Dress (Fashion)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.7" cy="201.1" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s11/dt8k3dt26k11t3dt8r4dt8t3k2w3~x2/"><circle cx="350.8" cy="182.6" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><a href="/setts/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/"><circle cx="339.5" cy="172.5" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><circle cx="367.1" cy="202.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s15/k1db8k7n8y1n4k11b1k1db1k1db1k11db4b1~x4/"><circle cx="293.6" cy="181.3" r="4" fill="#3465a4"><title>Shadow Halls</title></circle></a><a href="/setts/s11/k3r2k12db8k2db4k2db4k12db22ly3~x2/"><circle cx="339.5" cy="215.4" r="4" fill="#3465a4"><title>Caledonian Dragon (Corporate)</title></circle></a><a href="/setts/s22/k40db4t4db4k28db7k8db7k8db10r4db10k8db7k8db7k28db4t4db4k40g12/"><circle cx="405.5" cy="189.2" r="4" fill="#3465a4"><title>Pride (Wales)</title></circle></a><a href="/setts/s15/n4r12n4k14n36r3n36k14n4r12n4r12k14n36lo3~x2/"><circle cx="361.9" cy="201.1" r="4" fill="#3465a4"><title>Cornwall</title></circle></a><a href="/setts/s14/db3k3db21dg29k2dg4r4dg4k2dg29db21k3db3ly3~x2/"><circle cx="331.0" cy="173.4" r="4" fill="#3465a4"><title>Peter of Lee (Chief) (Personal)</title></circle></a><a href="/setts/s10/r4dt4k2dt31k10ly3dt5k11dt6k3~x2/"><circle cx="375.6" cy="190.5" r="4" fill="#3465a4"><title>MacArthur Fox Green (Personal)</title></circle></a><a href="/setts/s13/g16k2g2k2g2db16db16r3db16db16g16k2g2~x2/"><circle cx="333.6" cy="223.9" r="4" fill="#3465a4"><title>MacLachlan, Green Dress (Fashion)</title></circle></a><a href="/setts/s14/dg11db1k1dg2k12ly1k12dg2k2dg11k2dg2k12ly1~x4/"><circle cx="368.5" cy="201.7" r="4" fill="#3465a4"><title>Hopetoun Rejected design</title></circle></a><a href="/setts/s11/dt8k3dt26k11t3dt8r4dt8t3k2w3~x2/"><circle cx="350.5" cy="183.3" r="4" fill="#3465a4"><title>Dublin Lie-ins (Corporate)</title></circle></a><a href="/setts/s11/k4n4k4n18k9r2k9lg1n18t2k3~x2/"><circle cx="339.1" cy="173.0" r="4" fill="#3465a4"><title>Moggach (Strathspey)</title></circle></a><circle cx="367.0" cy="202.7" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/g12k40db4t4db4k28db7k8db7k8db10r4/

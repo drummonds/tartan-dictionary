@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [12 stripe tartan](/stripes/stripes12
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2338
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacDonald #5
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -37,8 +31,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/"><circle cx="223.4" cy="176.6" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/"><circle cx="225.3" cy="172.2" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="170.0" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="214.9" cy="183.5" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.8" cy="179.2" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.4" cy="178.3" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/"><circle cx="207.6" cy="180.0" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/setts/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="204.0" cy="170.1" r="4" fill="#3465a4"><title>Stewart of Appin (Clan)</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/"><circle cx="209.0" cy="208.1" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><a href="/setts/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="227.1" cy="160.9" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><circle cx="213.2" cy="175.4" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s12/dg16r2dg2r5dg29k31r2db29r5db2r2db16~x2/"><circle cx="223.4" cy="177.4" r="4" fill="#3465a4"><title>MacDonald #3</title></circle></a><a href="/setts/s12/dg17r2dg2r6dg32k34r2db32r6db2r2db17~x2/"><circle cx="225.2" cy="173.0" r="4" fill="#3465a4"><title>MacDonald #4</title></circle></a><a href="/setts/s12/db17r2db2r5db29r2k31g29r5g2r2g17~x2/"><circle cx="210.3" cy="170.8" r="4" fill="#3465a4"><title>MacDonald</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5dg47ly5k27db25k4db4~x2/"><circle cx="215.0" cy="184.3" r="4" fill="#3465a4"><title>Campbell of Breadalbane #2</title></circle></a><a href="/setts/s13/db8k1db1k1db1k8ly1dg14ly1k8db8k1db1~x2/"><circle cx="238.9" cy="179.9" r="4" fill="#3465a4"><title>Black from Cumnock (Personal)</title></circle></a><a href="/setts/s10/db56k6db6k6db6k44dg44ly4dg5ly8/"><circle cx="230.3" cy="179.1" r="4" fill="#3465a4"><title>Gordon #2</title></circle></a><a href="/setts/s13/db26k4db4k4db4k27ly5g47ly5k27db25k4db4~x2/"><circle cx="207.6" cy="180.9" r="4" fill="#3465a4"><title>Campbell of Breadalbane (Military)</title></circle></a><a href="/setts/s17/db12k1g2k1g2k1db12r2k12r1k12r2g12k1db2k1g12~x2/"><circle cx="204.0" cy="170.9" r="4" fill="#3465a4"><title>Stewart of Appin (Clan)</title></circle></a><a href="/setts/s12/db25k2db2k2db2k21dg23r5dg23k20db19r5~x2/"><circle cx="209.1" cy="209.0" r="4" fill="#3465a4"><title>Murray of Atholl #2</title></circle></a><a href="/setts/s16/g13k2g2k2g2k12dp16k1g2k1dp16k12g12k1ly2dp1~x2/"><circle cx="227.0" cy="161.7" r="4" fill="#3465a4"><title>Kettles, Ryan &amp; Alan (Personal)</title></circle></a><circle cx="213.2" cy="176.2" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s12/dg12r2dg2r5dg27k29r2db26r5db2r2db12~x2/

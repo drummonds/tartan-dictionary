@@ -1,8 +1,5 @@
 ---
 title: "Clan Boxell"
-date: 2023-03-18
+redirect: "/families/boxell-of-west-niddry-baron/"
 ---
-## Families
-
-- [Boxell of West Niddry, Baron](/families/boxell-of-west-niddry-baron/)
-
+Clan Boxell is recorded as the single family [Boxell of West Niddry, Baron](/families/boxell-of-west-niddry-baron/) — redirecting there.

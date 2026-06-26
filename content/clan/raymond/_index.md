@@ -1,8 +1,5 @@
 ---
 title: "Clan Raymond"
-date: 2023-03-18
+redirect: "/families/raymond-of-doune/"
 ---
-## Families
-
-- [Raymond of Doune](/families/raymond-of-doune/)
-
+Clan Raymond is recorded as the single family [Raymond of Doune](/families/raymond-of-doune/) — redirecting there.

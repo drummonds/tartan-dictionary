@@ -1,8 +1,5 @@
 ---
 title: "Clan Rose"
-date: 2023-03-18
+redirect: "/families/rose-of-kilravock/"
 ---
-## Families
-
-- [Rose of Kilravock](/families/rose-of-kilravock/)
-
+Clan Rose is recorded as the single family [Rose of Kilravock](/families/rose-of-kilravock/) — redirecting there.

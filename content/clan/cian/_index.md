@@ -1,8 +1,5 @@
 ---
 title: "Clan Cian"
-date: 2023-03-18
+redirect: "/families/cian-of-ely/"
 ---
-## Families
-
-- [Cian of Ely](/families/cian-of-ely/)
-
+Clan Cian is recorded as the single family [Cian of Ely](/families/cian-of-ely/) — redirecting there.

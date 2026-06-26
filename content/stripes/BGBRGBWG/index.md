@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Fife (Corporate)](/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/)|
-|![Spirit of Fife (Corporate) example sett](/setts/s8/dg10w2dt3g2m14dt26dg2dt6~x2/sett.png)|
+| [Spirit of Fife (Corporate)](/setts/s8/dg10w2dt3g2m14dti26dg2dti6~x2/)|
+|![Spirit of Fife (Corporate) example sett](/setts/s8/dg10w2dt3g2m14dti26dg2dti6~x2/sett.png)|

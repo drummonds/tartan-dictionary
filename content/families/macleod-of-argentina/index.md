@@ -1,5 +1,5 @@
 ---
-title: "MacLeod of Argentina"
+title: "MacLeod, of Argentina"
 date: 2023-03-18
 ---
 A family of [Clan MacLeod](/clan/macleod/).

@@ -24,5 +24,5 @@ It is a 66 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Unidentified Cant #03](/setts/s66/db3db4w1db4db3w1db26w1db5r3w1r3db5w1db26w1db3db4w1db4db3w1dg8dg5y5w1db4db3w1y4w1db3db4w1y5dg5dg8w1db3db4w1db4db3w1db26w1db5r3w1r3db5w1db26w1db3db4w1db4db3w1r14r6w1r10r14w1~x2/)|
-|![Unidentified Cant #03 example sett](/setts/s66/db3db4w1db4db3w1db26w1db5r3w1r3db5w1db26w1db3db4w1db4db3w1dg8dg5y5w1db4db3w1y4w1db3db4w1y5dg5dg8w1db3db4w1db4db3w1db26w1db5r3w1r3db5w1db26w1db3db4w1db4db3w1r14r6w1r10r14w1~x2/sett.png)|
+| [Unidentified Cant #03](/setts/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5y5w1dbi4db3w1y4w1db3dbi4w1y5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2/)|
+|![Unidentified Cant #03 example sett](/setts/s66/dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1dg8dgi5y5w1dbi4db3w1y4w1db3dbi4w1y5dgi5dg8w1dbi3db4w1db4dbi3w1dbi26w1dbi5r3w1r3dbi5w1dbi26w1dbi3db4w1db4dbi3w1r14ri6w1ri10r14w1~x2/sett.png)|

@@ -24,5 +24,7 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Bruce of Kinnaird](/setts/s10/r24g22k2w6k2ly2k15t6r6w2~x2/)|
-|![Bruce of Kinnaird example sett](/setts/s10/r24g22k2w6k2ly2k15t6r6w2~x2/sett.png)|
+| [Bruce of Kinnaird](/setts/s10/ri24g22k2w6k2ly2k15t6r6w2~x2/)|
+|![Bruce of Kinnaird example sett](/setts/s10/ri24g22k2w6k2ly2k15t6r6w2~x2/sett.png)|
+| [Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015](/setts/s10/r24g22k2w6k2ly2k15t6ri6w2~x2/)|
+|![Bruce of Kinnaird Clan Tartan Tartan Number: 1483. Earliest known date: 18th Century Authorized by Lord Bruce of Kinnaird around 1953. See products available Copyright © Blair Urquhart, Comrie, 2015 example sett](/setts/s10/r24g22k2w6k2ly2k15t6ri6w2~x2/sett.png)|

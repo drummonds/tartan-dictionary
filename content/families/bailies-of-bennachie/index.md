@@ -2,13 +2,13 @@
 title: "Bailies of Bennachie"
 date: 2023-03-18
 ---
-A family of [Clan Bailies](/clan/bailies/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Bennachie”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Bennachie&viewmode=grid)
 
 ## Tartan
 
-<a class="tartan" href="/setts/s7/g27r2g4r15db26k2db6~x2/"><img src="/setts/s7/g27r2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie" width="240"><br>Bailies of Bennachie</a>
+<a class="tartan" href="/setts/s7/g27ri2g4r15db26k2db6~x2/"><img src="/setts/s7/g27ri2g4r15db26k2db6~x2/sett.png" alt="Bailies of Bennachie" width="240"><br>Bailies of Bennachie</a>
 
 ## Other tartans
 

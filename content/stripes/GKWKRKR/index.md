@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Aviemore Highland (Corporate)](/setts/s7/dg40k3w1k5r1k2r10~x2/)|
-|![Aviemore Highland (Corporate) example sett](/setts/s7/dg40k3w1k5r1k2r10~x2/sett.png)|
+| [Aviemore Highland (Corporate)](/setts/s7/dg40k3w1k5r1k2ri10~x2/)|
+|![Aviemore Highland (Corporate) example sett](/setts/s7/dg40k3w1k5r1k2ri10~x2/sett.png)|

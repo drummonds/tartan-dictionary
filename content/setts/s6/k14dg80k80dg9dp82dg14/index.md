@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [6 stripe tartan](/stripes/stripes6/)
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=2504
 
-## Also known as
-
-This cloth is also recorded under:
-
-- MacKay, Plaid
-
 ## Register references
 
 External register numbers recorded for this tartan.
@@ -41,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k2db18k18g18k3r2~x2/"><circle cx="219.3" cy="238.9" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/setts/s7/k2g10k9db9r1k1db2~x2/"><circle cx="221.3" cy="231.7" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/setts/s6/k3dg17ly2k18dp17dg3~x2/"><circle cx="204.3" cy="239.3" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/setts/s6/k3db14r2k14g14k3~x2/"><circle cx="214.2" cy="260.7" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/setts/s6/n6k6n21k16db36ly4/"><circle cx="233.0" cy="240.3" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s7/g8t1g1k6dp6k1dp3~x4/"><circle cx="203.2" cy="241.8" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.4" cy="272.4" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/setts/s6/k4g23k23g2db23g4~x2/"><circle cx="244.7" cy="255.3" r="4" fill="#3465a4"><title>MacKay (Logan)</title></circle></a><a href="/setts/s6/k4g25k24r3db24g4~x2/"><circle cx="204.4" cy="248.3" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.5" cy="229.4" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><circle cx="258.1" cy="267.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s7/db6k2db18k18g18k3r2~x2/"><circle cx="219.4" cy="240.0" r="4" fill="#3465a4"><title>Renfrew</title></circle></a><a href="/setts/s7/k2g10k9db9r1k1db2~x2/"><circle cx="221.4" cy="232.8" r="4" fill="#3465a4"><title>Reid and Taylor</title></circle></a><a href="/setts/s6/k3dg17ly2k18dp17dg3~x2/"><circle cx="204.3" cy="240.5" r="4" fill="#3465a4"><title>Wilson's No.100</title></circle></a><a href="/setts/s6/k3db14r2k14g14k3~x2/"><circle cx="214.3" cy="262.0" r="4" fill="#3465a4"><title>Gallamore</title></circle></a><a href="/setts/s6/n6k6n21k16db36ly4/"><circle cx="233.0" cy="241.5" r="4" fill="#3465a4"><title>Bareback (Corporate)</title></circle></a><a href="/setts/s7/g8t1g1k6dp6k1dp3~x4/"><circle cx="203.2" cy="243.0" r="4" fill="#3465a4"><title>Unnamed 19th Century Plaid</title></circle></a><a href="/setts/s6/db2k2db12k8dg11r2~x2/"><circle cx="217.6" cy="273.6" r="4" fill="#3465a4"><title>Murray #3</title></circle></a><a href="/setts/s6/k4g23k23g2db23g4~x2/"><circle cx="244.9" cy="256.5" r="4" fill="#3465a4"><title>MacKay (Logan)</title></circle></a><a href="/setts/s6/k4g25k24r3db24g4~x2/"><circle cx="204.5" cy="249.5" r="4" fill="#3465a4"><title>Ferguson of Balquhidder #2</title></circle></a><a href="/setts/s7/k7g22k22db6r2db15r2~x2/"><circle cx="218.6" cy="230.6" r="4" fill="#3465a4"><title>National Galleries of Scotland</title></circle></a><circle cx="258.2" cy="268.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k14dg80k80dg9dp82dg14/

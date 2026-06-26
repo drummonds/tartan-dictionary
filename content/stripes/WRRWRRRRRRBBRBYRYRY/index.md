@@ -24,5 +24,5 @@ It is a 19 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Red Lichtie](/setts/s19/w3r2r1w1r9r1r2r2r1r27dt1t2r1dt11lo1r2lo1r2lo1~x2/)|
-|![Red Lichtie example sett](/setts/s19/w3r2r1w1r9r1r2r2r1r27dt1t2r1dt11lo1r2lo1r2lo1~x2/sett.png)|
+| [Red Lichtie](/setts/s19/w3r2ri1w1r9ri1r2ri2r1ri27dt1t2ri1dt11lo1ri2lo1ri2lo1~x2/)|
+|![Red Lichtie example sett](/setts/s19/w3r2ri1w1r9ri1r2ri2r1ri27dt1t2ri1dt11lo1ri2lo1ri2lo1~x2/sett.png)|

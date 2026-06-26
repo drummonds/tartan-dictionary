@@ -24,7 +24,7 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Hueg (Formal) (Personal)](/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/)|
-|![Hueg (Formal) (Personal) example sett](/setts/s11/r4w4r5b4r12g4r12g8b13dt3b4~x2/sett.png)|
-| [Hueg (Munich) Formal (Personal)](/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/)|
-|![Hueg (Munich) Formal (Personal) example sett](/setts/s11/r4w4r5t4r12dg4r12dg8t13dp3t4~x2/sett.png)|
+| [Hueg (Formal) (Personal)](/setts/s11/r4w4r5b4r12gi4r12g8b13dt3b4~x2/)|
+|![Hueg (Formal) (Personal) example sett](/setts/s11/r4w4r5b4r12gi4r12g8b13dt3b4~x2/sett.png)|
+| [Hueg (Munich) Formal (Personal)](/setts/s11/r4w4r5t4r12dgi4r12dg8t13dp3t4~x2/)|
+|![Hueg (Munich) Formal (Personal) example sett](/setts/s11/r4w4r5t4r12dgi4r12dg8t13dp3t4~x2/sett.png)|

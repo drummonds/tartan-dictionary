@@ -1,8 +1,5 @@
 ---
 title: "Clan Glens"
-date: 2023-03-18
+redirect: "/families/glens-of-corbie/"
 ---
-## Families
-
-- [Glens of Corbie](/families/glens-of-corbie/)
-
+Clan Glens is recorded as the single family [Glens of Corbie](/families/glens-of-corbie/) — redirecting there.

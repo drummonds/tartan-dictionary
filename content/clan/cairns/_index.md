@@ -1,8 +1,5 @@
 ---
 title: "Clan Cairns"
-date: 2023-03-18
+redirect: "/families/cairns-of-finavon/"
 ---
-## Families
-
-- [Cairns of Finavon](/families/cairns-of-finavon/)
-
+Clan Cairns is recorded as the single family [Cairns of Finavon](/families/cairns-of-finavon/) — redirecting there.

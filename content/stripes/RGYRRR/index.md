@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Roseate Sunrise](/setts/s6/r26r5m12ly1g1r3~x2/)|
-|![Roseate Sunrise example sett](/setts/s6/r26r5m12ly1g1r3~x2/sett.png)|
+| [Roseate Sunrise](/setts/s6/rii26ri5m12ly1g1r3~x2/)|
+|![Roseate Sunrise example sett](/setts/s6/rii26ri5m12ly1g1r3~x2/sett.png)|

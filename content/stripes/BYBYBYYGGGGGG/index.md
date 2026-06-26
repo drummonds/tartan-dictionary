@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Macallan (1980s) (Corporate)](/setts/s13/g16g3g4g6g24g2lo24lo3b24lo6b4lo3b16~x2/)|
-|![Macallan (1980s) (Corporate) example sett](/setts/s13/g16g3g4g6g24g2lo24lo3b24lo6b4lo3b16~x2/sett.png)|
+| [Macallan (1980s) (Corporate)](/setts/s13/g16gi3g4gi6g24gi2lo24lo3b24lo6b4lo3b16~x2/)|
+|![Macallan (1980s) (Corporate) example sett](/setts/s13/g16gi3g4gi6g24gi2lo24lo3b24lo6b4lo3b16~x2/sett.png)|

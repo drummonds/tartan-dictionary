@@ -24,5 +24,5 @@ It is a 14 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Berwick-upon-Tweed (symmetric)](/setts/s14/r9r5dg2r4dg2r5n38k5dg2k4dg2k5r8lb4~x2/)|
-|![Berwick-upon-Tweed (symmetric) example sett](/setts/s14/r9r5dg2r4dg2r5n38k5dg2k4dg2k5r8lb4~x2/sett.png)|
+| [Berwick-upon-Tweed (symmetric)](/setts/s14/ri9r5dg2r4dg2r5n38k5dg2k4dg2k5ri8lb4~x2/)|
+|![Berwick-upon-Tweed (symmetric) example sett](/setts/s14/ri9r5dg2r4dg2r5n38k5dg2k4dg2k5ri8lb4~x2/sett.png)|

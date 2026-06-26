@@ -24,5 +24,5 @@ It is a 6 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacGregor Dress Burgundy (Dance)](/setts/s6/w52r22w6r8k1r3~x2/)|
-|![MacGregor Dress Burgundy (Dance) example sett](/setts/s6/w52r22w6r8k1r3~x2/sett.png)|
+| [MacGregor Dress Burgundy (Dance)](/setts/s6/w52ri22w6ri8k1r3~x2/)|
+|![MacGregor Dress Burgundy (Dance) example sett](/setts/s6/w52ri22w6ri8k1r3~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Stewarton](/setts/s8/k2y5b7b7b7lp6o5g2~x2/)|
-|![Stewarton example sett](/setts/s8/k2y5b7b7b7lp6o5g2~x2/sett.png)|
+| [Stewarton](/setts/s8/k2y5b7bi7b7lp6o5g2~x2/)|
+|![Stewarton example sett](/setts/s8/k2y5b7bi7b7lp6o5g2~x2/sett.png)|

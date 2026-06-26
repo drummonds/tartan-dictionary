@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Kildrummie](/setts/s7/db8ly4w2b25o25db2r5~x2/)|
-|![Kildrummie example sett](/setts/s7/db8ly4w2b25o25db2r5~x2/sett.png)|
+| [Kildrummie](/setts/s7/db8ly4w2b25o25dbi2r5~x2/)|
+|![Kildrummie example sett](/setts/s7/db8ly4w2b25o25dbi2r5~x2/sett.png)|

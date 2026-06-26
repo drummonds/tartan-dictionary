@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prince David](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/)|
-|![Prince David example sett](/setts/s15/lo4g1o21g18o2g3o2g18o21lo2g1g3lo2g1g3~x2/sett.png)|
+| [Prince David](/setts/s15/lo4gi1o21g18o2g3o2g18o21lo2gi1g3lo2gi1g3~x2/)|
+|![Prince David example sett](/setts/s15/lo4gi1o21g18o2g3o2g18o21lo2gi1g3lo2gi1g3~x2/sett.png)|

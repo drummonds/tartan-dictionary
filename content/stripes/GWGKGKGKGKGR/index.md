@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Urquhart (White Line)](/setts/s12/g4w2g24k3g3k3g8k24g48k3g3r2~x2/)|
-|![Urquhart (White Line) example sett](/setts/s12/g4w2g24k3g3k3g8k24g48k3g3r2~x2/sett.png)|
+| [Urquhart (White Line)](/setts/s12/g4w2g24k3g3k3g8k24gi48k3gi3r2~x2/)|
+|![Urquhart (White Line) example sett](/setts/s12/g4w2g24k3g3k3g8k24gi48k3gi3r2~x2/sett.png)|

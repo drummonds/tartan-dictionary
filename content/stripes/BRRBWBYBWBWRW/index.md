@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Warden](/setts/s13/w4r1w5db1w3db5ly1db2w1db2o8r16db2~x4/)|
-|![Warden example sett](/setts/s13/w4r1w5db1w3db5ly1db2w1db2o8r16db2~x4/sett.png)|
+| [Warden](/setts/s13/w4r1w5db1w3dbi5ly1dbi2w1dbi2o8r16db2~x4/)|
+|![Warden example sett](/setts/s13/w4r1w5db1w3dbi5ly1dbi2w1dbi2o8r16db2~x4/sett.png)|

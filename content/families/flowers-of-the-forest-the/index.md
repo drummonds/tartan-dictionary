@@ -2,7 +2,7 @@
 title: "Flowers of the Forest, The"
 date: 2023-03-18
 ---
-A family of [Clan Flowers](/clan/flowers/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “the Forest, The”](https://www.trove.scot/search?page_type=Designations+Decisions&q=the+Forest%2C+The&viewmode=grid)
 

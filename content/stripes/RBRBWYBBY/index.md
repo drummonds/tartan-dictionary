@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Down, County](/setts/s9/o64dr9o11dr4lb2lo2n5dr2lo13~x2/)|
-|![Down, County example sett](/setts/s9/o64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png)|
+| [Down, County](/setts/s9/oi64dr9o11dr4lb2lo2n5dr2lo13~x2/)|
+|![Down, County example sett](/setts/s9/oi64dr9o11dr4lb2lo2n5dr2lo13~x2/sett.png)|

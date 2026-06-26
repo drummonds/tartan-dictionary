@@ -24,7 +24,7 @@ It is a 5 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Skibo](/setts/s5/r2g23db11db22r2~x2/)|
-|![Skibo example sett](/setts/s5/r2g23db11db22r2~x2/sett.png)|
+| [Skibo](/setts/s5/r2g23dbi11db22r2~x2/)|
+|![Skibo example sett](/setts/s5/r2g23dbi11db22r2~x2/sett.png)|
 | [Skibo (Corporate)](/setts/s5/r2y23db11b22r2~x2/)|
 |![Skibo (Corporate) example sett](/setts/s5/r2y23db11b22r2~x2/sett.png)|

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [MacIver Family (Personal)](/setts/s12/dt32y3dt3y3dt3y26y26y3y26y26dt24y3~x2/)|
-|![MacIver Family (Personal) example sett](/setts/s12/dt32y3dt3y3dt3y26y26y3y26y26dt24y3~x2/sett.png)|
+| [MacIver Family (Personal)](/setts/s12/dt32y3dt3y3dt3y26yi26y3yi26y26dt24y3~x2/)|
+|![MacIver Family (Personal) example sett](/setts/s12/dt32y3dt3y3dt3y26yi26y3yi26y26dt24y3~x2/sett.png)|

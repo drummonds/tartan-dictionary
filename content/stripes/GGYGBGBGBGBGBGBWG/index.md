@@ -24,5 +24,5 @@ It is a 17 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Prickly Thistle](/setts/s17/y3y15ly3y3n1y1n1y1n1y1n1y1n1y1n12w15y3~x2/)|
-|![Prickly Thistle example sett](/setts/s17/y3y15ly3y3n1y1n1y1n1y1n1y1n1y1n12w15y3~x2/sett.png)|
+| [Prickly Thistle](/setts/s17/yi3y15ly3y3n1y1n1y1n1y1n1y1n1y1n12w15yi3~x2/)|
+|![Prickly Thistle example sett](/setts/s17/yi3y15ly3y3n1y1n1y1n1y1n1y1n1y1n12w15yi3~x2/sett.png)|

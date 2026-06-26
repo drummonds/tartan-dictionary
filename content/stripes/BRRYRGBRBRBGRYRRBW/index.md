@@ -24,5 +24,5 @@ It is a 18 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Guild, The](/setts/s18/db20r1r3lr1r30dg5db8r1db8r1db8dg5r30lr1r3r1db20w2~x2/)|
-|![Guild, The example sett](/setts/s18/db20r1r3lr1r30dg5db8r1db8r1db8dg5r30lr1r3r1db20w2~x2/sett.png)|
+| [Guild, The](/setts/s18/db20r1ri3lr1ri30dg5db8r1db8r1db8dg5ri30lr1ri3r1db20w2~x2/)|
+|![Guild, The example sett](/setts/s18/db20r1ri3lr1ri30dg5db8r1db8r1db8dg5ri30lr1ri3r1db20w2~x2/sett.png)|

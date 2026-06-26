@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Galvez-Brown](/setts/s7/db36ly5r12r9dp5w12ly7~x2/)|
-|![Galvez-Brown example sett](/setts/s7/db36ly5r12r9dp5w12ly7~x2/sett.png)|
-| [Galvez-Brown (Personal)](/setts/s7/dt36lo5r12r9dp5w12lo7~x2/)|
-|![Galvez-Brown (Personal) example sett](/setts/s7/dt36lo5r12r9dp5w12lo7~x2/sett.png)|
+| [Galvez-Brown](/setts/s7/db36ly5r12ri9dp5w12ly7~x2/)|
+|![Galvez-Brown example sett](/setts/s7/db36ly5r12ri9dp5w12ly7~x2/sett.png)|
+| [Galvez-Brown (Personal)](/setts/s7/dt36lo5ri12r9dp5w12lo7~x2/)|
+|![Galvez-Brown (Personal) example sett](/setts/s7/dt36lo5ri12r9dp5w12lo7~x2/sett.png)|

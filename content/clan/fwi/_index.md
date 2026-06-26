@@ -1,8 +1,5 @@
 ---
 title: "Clan FWI"
-date: 2023-03-18
+redirect: "/families/fwi-of-ontario/"
 ---
-## Families
-
-- [FWI of Ontario](/families/fwi-of-ontario/)
-
+Clan FWI is recorded as the single family [FWI of Ontario](/families/fwi-of-ontario/) — redirecting there.

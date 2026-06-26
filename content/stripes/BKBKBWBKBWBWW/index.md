@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Life Goes on Foundation](/setts/s13/p12k4p5k4p32lb5p5k10p5lb5p5lb18w4/)|
-|![Life Goes on Foundation example sett](/setts/s13/p12k4p5k4p32lb5p5k10p5lb5p5lb18w4/sett.png)|
+| [Life Goes on Foundation](/setts/s13/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4/)|
+|![Life Goes on Foundation example sett](/setts/s13/p12k4p5k4p32lb5p5k10p5lbi5p5lbi18w4/sett.png)|

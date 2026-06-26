@@ -2,7 +2,7 @@
 title: "Pilette of Kinnear"
 date: 2023-03-18
 ---
-A family of [Clan Pilette](/clan/pilette/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Kinnear”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Kinnear&viewmode=grid)
 

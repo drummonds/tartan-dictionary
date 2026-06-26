@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [13 stripe tartan](/stripes/stripes13/)
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/2164/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 2164
+
 ## Thread count
 G/4 R64 W4 DB8 W8 Y16 W8 Y16 W8 DB8 W4 G64 B/4
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="121.1" cy="76.4" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="130.5" cy="79.0" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="137.4" cy="79.0" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.8" cy="76.9" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.9" cy="84.6" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/"><circle cx="119.1" cy="95.9" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="87.2" cy="95.4" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="84.4" cy="92.4" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/"><circle cx="130.3" cy="100.0" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="77.3" cy="92.3" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><circle cx="123.4" cy="71.2" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s13/t3g31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="120.4" cy="76.9" r="4" fill="#3465a4"><title>Buchanan 8</title></circle></a><a href="/setts/s13/t3dg31k2t4k2ly8k2ly8k2t4k2r31w3~x2/"><circle cx="129.8" cy="79.5" r="4" fill="#3465a4"><title>Buchanan #2</title></circle></a><a href="/setts/s13/w2r16k1t2k1ly4k1ly4k1t2k1g16t1~x4/"><circle cx="136.7" cy="79.5" r="4" fill="#3465a4"><title>Buchanan</title></circle></a><a href="/setts/s13/t2dg16k1t2k1ly4k1ly4k1t2k1r16w2~x4/"><circle cx="125.1" cy="77.5" r="4" fill="#3465a4"><title>Buchanan (Logan)</title></circle></a><a href="/setts/s11/w2r16k1t2k1ly4k1t2k1g16t1~x2/"><circle cx="153.2" cy="85.1" r="4" fill="#3465a4"><title>Baxter of Balgavies</title></circle></a><a href="/setts/s11/r30ly30db5w5g5k5g3db3k3w3ly3~x2/"><circle cx="118.1" cy="96.5" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/t4dg25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="86.6" cy="96.1" r="4" fill="#3465a4"><title>Buchanan #4</title></circle></a><a href="/setts/s13/t2g12k1t2k1ly3k1ly3k1t2k1r12w2~x2/"><circle cx="83.8" cy="93.1" r="4" fill="#3465a4"><title>Buchanan 1</title></circle></a><a href="/setts/s11/r30lo30t5w5g5k5g3t3k3w3lo3~x2/"><circle cx="129.4" cy="100.6" r="4" fill="#3465a4"><title>Aguilar Gorrondona Family (Personal)</title></circle></a><a href="/setts/s13/t4g25k2t4k2ly8k3ly8k2t4k2r25w4~x2/"><circle cx="76.6" cy="93.0" r="4" fill="#3465a4"><title>Buchanan 9</title></circle></a><circle cx="122.5" cy="71.6" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s13/dg1r16w1db2w2ly4w2ly4w2db2w1dg16t1~x4/

@@ -24,5 +24,5 @@ It is a 12 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Lethbridge, City of](/setts/s12/g20r1g10ly2t3k1w2ly10r1g10t2k1~x2/)|
-|![Lethbridge, City of example sett](/setts/s12/g20r1g10ly2t3k1w2ly10r1g10t2k1~x2/sett.png)|
+| [Lethbridge, City of](/setts/s12/g20ri1g10ly2t3k1w2ly10r1g10t2k1~x2/)|
+|![Lethbridge, City of example sett](/setts/s12/g20ri1g10ly2t3k1w2ly10r1g10t2k1~x2/sett.png)|

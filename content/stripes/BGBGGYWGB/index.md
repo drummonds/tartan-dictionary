@@ -24,5 +24,5 @@ It is a 9 stripe tartan.
 
 | Tartans |
 |---------------|
-| [St. Columba (two greens) (Corporate)](/setts/s9/db20y1w1lo3y4g10n4y1dp4~x2/)|
-|![St. Columba (two greens) (Corporate) example sett](/setts/s9/db20y1w1lo3y4g10n4y1dp4~x2/sett.png)|
+| [St. Columba (two greens) (Corporate)](/setts/s9/db20yi1w1lo3y4g10n4yi1dp4~x2/)|
+|![St. Columba (two greens) (Corporate) example sett](/setts/s9/db20yi1w1lo3y4g10n4yi1dp4~x2/sett.png)|

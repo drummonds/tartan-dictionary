@@ -2,7 +2,7 @@
 title: "Bartlett of El Paso"
 date: 2023-03-18
 ---
-A family of [Clan Bartlett](/clan/bartlett/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “El Paso”](https://www.trove.scot/search?page_type=Designations+Decisions&q=El+Paso&viewmode=grid)
 

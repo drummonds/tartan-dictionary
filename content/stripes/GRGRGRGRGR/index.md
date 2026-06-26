@@ -34,9 +34,9 @@ It is a 10 stripe tartan.
 |![Donachie of Brockloch (Clan) example sett](/setts/s10/r24dg2r2dg20r25dg2r2dg2r2dg20~x2/sett.png)|
 | [Hilton Hotel Hong Kong (Corporate)](/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/)|
 |![Hilton Hotel Hong Kong (Corporate) example sett](/setts/s10/m4g10m2g2m24g2m2g16m2g1~x2/sett.png)|
-| [Livingstone](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/)|
-|![Livingstone example sett](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/sett.png)|
 | [Livingstone](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/)|
 |![Livingstone example sett](/setts/s10/g14r4g2r2g2r4g19r30g2r9~x2/sett.png)|
+| [Livingstone](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/)|
+|![Livingstone example sett](/setts/s10/dg14r4dg2r2dg2r4dg19r30dg2r9~x2/sett.png)|
 | [Nithsdale](/setts/s10/dg10r2y2r6y16r1y2r1y3r6~x4/)|
 |![Nithsdale example sett](/setts/s10/dg10r2y2r6y16r1y2r1y3r6~x4/sett.png)|

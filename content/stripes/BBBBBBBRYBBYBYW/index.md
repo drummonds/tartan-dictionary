@@ -24,5 +24,5 @@ It is a 15 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Strathdon](/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/)|
-|![Strathdon example sett](/setts/s15/w3lo8dp2lo8dp11dp2lo4o4dp27dp1dp2dp2dp2dp13dp2~x2/sett.png)|
+| [Strathdon](/setts/s15/w3lo8dpi2lo8dp11dpi2lo4o4dpi27dp1dpi2dp2dpi2dp13dpi2~x2/)|
+|![Strathdon example sett](/setts/s15/w3lo8dpi2lo8dp11dpi2lo4o4dpi27dp1dpi2dp2dpi2dp13dpi2~x2/sett.png)|

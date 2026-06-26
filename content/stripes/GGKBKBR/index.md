@@ -26,5 +26,5 @@ It is a 7 stripe tartan.
 |---------------|
 | [Bennett, John Paul (Personal)](/setts/s7/r4n38k4n6k41dg62y4/)|
 |![Bennett, John Paul (Personal) example sett](/setts/s7/r4n38k4n6k41dg62y4/sett.png)|
-| [Heritage (Corporate)](/setts/s7/r5db8k5db24k24y24y5~x2/)|
-|![Heritage (Corporate) example sett](/setts/s7/r5db8k5db24k24y24y5~x2/sett.png)|
+| [Heritage (Corporate)](/setts/s7/r5db8k5db24k24yi24y5~x2/)|
+|![Heritage (Corporate) example sett](/setts/s7/r5db8k5db24k24yi24y5~x2/sett.png)|

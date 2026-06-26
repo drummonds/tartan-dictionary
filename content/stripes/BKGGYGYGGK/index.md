@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [U.S. Army](/setts/s10/k17y4g51ly3g4ly3g51y4k17db6~x2/)|
-|![U.S. Army example sett](/setts/s10/k17y4g51ly3g4ly3g51y4k17db6~x2/sett.png)|
+| [U.S. Army](/setts/s10/k17y4gi51ly3g4ly3gi51y4k17db6~x2/)|
+|![U.S. Army example sett](/setts/s10/k17y4gi51ly3g4ly3gi51y4k17db6~x2/sett.png)|

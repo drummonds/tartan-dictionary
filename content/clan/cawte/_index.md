@@ -1,8 +1,5 @@
 ---
 title: "Clan Cawte"
-date: 2023-03-18
+redirect: "/families/cawte-of-middlebanknock/"
 ---
-## Families
-
-- [Cawte of Middlebanknock](/families/cawte-of-middlebanknock/)
-
+Clan Cawte is recorded as the single family [Cawte of Middlebanknock](/families/cawte-of-middlebanknock/) — redirecting there.

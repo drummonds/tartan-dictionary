@@ -2,7 +2,7 @@
 title: "Chafee of Glenmary"
 date: 2023-03-18
 ---
-A family of [Clan Chafee](/clan/chafee/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Glenmary”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Glenmary&viewmode=grid)
 

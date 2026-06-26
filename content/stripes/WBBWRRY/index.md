@@ -24,5 +24,5 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Isle of Jura](/setts/s7/lb18t18db10w3o15o3ly8~x2/)|
-|![Isle of Jura example sett](/setts/s7/lb18t18db10w3o15o3ly8~x2/sett.png)|
+| [Isle of Jura](/setts/s7/lb18t18db10w3o15oi3ly8~x2/)|
+|![Isle of Jura example sett](/setts/s7/lb18t18db10w3o15oi3ly8~x2/sett.png)|

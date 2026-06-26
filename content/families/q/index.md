@@ -11,5 +11,5 @@ background: /bg/clans.png
 - [Quigley](/clan/quigley/) — clan
 - [Quigley of Knockcroghery](/families/quigley-of-knockcroghery/)
 - [Quigley of Knockcroghery Htg](/families/quigley-of-knockcroghery-htg/)
-- [Quinn](/setts/s12/r20g5r5g30ly8g10k10g30r5g5r20g20~x2/)
+- [Quinn](/setts/s12/r20gi5r5gi30ly8g10k10gi30r5gi5r20g20~x2/)
 

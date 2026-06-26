@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Pompili, Antonio and Alessandro (Personal)](/setts/s10/k80r1dt25w1dt3r2dt3w1dt25lt1~x2/)|
-|![Pompili, Antonio and Alessandro (Personal) example sett](/setts/s10/k80r1dt25w1dt3r2dt3w1dt25lt1~x2/sett.png)|
+| [Pompili, Antonio and Alessandro (Personal)](/setts/s10/k80ri1dt25w1dt3r2dt3w1dt25lt1~x2/)|
+|![Pompili, Antonio and Alessandro (Personal) example sett](/setts/s10/k80ri1dt25w1dt3r2dt3w1dt25lt1~x2/sett.png)|

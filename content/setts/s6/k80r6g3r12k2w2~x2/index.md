@@ -9,6 +9,13 @@ Sourced from tartans-authority.  It is a [6 stripe tartan](/stripes/stripes6/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/11271/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Register of Tartans: [11271](https://www.tartanregister.gov.uk/tartanDetails?ref=11271)
+- Scottish Tartans Authority (ITI): 11271
+
 ## Thread count
 K/160 R12 G6 R24 K4 W/4
 ![Sett](sett.png)
@@ -28,8 +35,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k60r3k15r3lb2r5b3r2~x2/"><circle cx="568.1" cy="133.5" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s6/k80r6dg3r12k2w2~x2/"><circle cx="582.9" cy="141.6" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="589.2" cy="131.6" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="580.0" cy="140.0" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="539.6" cy="118.1" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/setts/s10/k64r1k4r1k6r7w2r7k6t2~x2/"><circle cx="586.8" cy="98.4" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="539.9" cy="149.2" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/"><circle cx="581.8" cy="104.6" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="521.9" cy="156.1" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="608.3" cy="119.4" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><circle cx="557.6" cy="131.3" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s8/k60r3k15r3lb2r5b3r2~x2/"><circle cx="567.0" cy="133.7" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s6/k80r6dg3r12k2w2~x2/"><circle cx="581.8" cy="141.7" r="4" fill="#3465a4"><title>Dellen</title></circle></a><a href="/setts/s6/k83g4r4g10k1w3~x2/"><circle cx="588.2" cy="131.7" r="4" fill="#3465a4"><title>Perratt (Personal)</title></circle></a><a href="/setts/s8/k60r3k15r3lb2r5db3r2~x2/"><circle cx="578.9" cy="140.1" r="4" fill="#3465a4"><title>Whitaker (2014)</title></circle></a><a href="/setts/s8/b10lb2k2b1k6lb1k45lo2~x2/"><circle cx="538.7" cy="118.2" r="4" fill="#3465a4"><title>Marine Harvest Scotland (Corporate)</title></circle></a><a href="/setts/s10/k64r1k4r1k6r7w2r7k6t2~x2/"><circle cx="585.6" cy="98.4" r="4" fill="#3465a4"><title>Noordermeer (Personal)</title></circle></a><a href="/setts/s8/k59r3k6r3k8r15k2ly3~x2/"><circle cx="538.9" cy="149.5" r="4" fill="#3465a4"><title>Royal Army PTC Assoc. (Military)</title></circle></a><a href="/setts/s10/w2k2dp8k10dp8k64w2k8ly1k1~x2/"><circle cx="580.8" cy="104.6" r="4" fill="#3465a4"><title>Payne of Wallins Creek (Personal)</title></circle></a><a href="/setts/s8/k2w1k2r6k6r3k28w2~x2/"><circle cx="520.9" cy="156.6" r="4" fill="#3465a4"><title>Brockton</title></circle></a><a href="/setts/s8/k94r3k6r3k8r15k2ly3~x2/"><circle cx="607.0" cy="119.6" r="4" fill="#3465a4"><title>Royal Army Physical Training Corps Association (Scotland)</title></circle></a><circle cx="556.5" cy="131.5" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s6/k80r6g3r12k2w2~x2/

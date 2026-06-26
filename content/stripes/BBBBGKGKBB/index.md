@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Spirit of Alva (Fashion)](/setts/s10/db6dp10dp4dp11dg20k4dg8k21db47db2/)|
-|![Spirit of Alva (Fashion) example sett](/setts/s10/db6dp10dp4dp11dg20k4dg8k21db47db2/sett.png)|
+| [Spirit of Alva (Fashion)](/setts/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2/)|
+|![Spirit of Alva (Fashion) example sett](/setts/s10/dbi6dpi10dp4dpi11dg20k4dg8k21db47dbi2/sett.png)|

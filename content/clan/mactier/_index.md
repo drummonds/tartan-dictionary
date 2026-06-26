@@ -1,8 +1,5 @@
 ---
 title: "Clan MacTier"
-date: 2023-03-18
+redirect: "/families/mactier-of-durris/"
 ---
-## Families
-
-- [MacTier of Durris](/families/mactier-of-durris/)
-
+Clan MacTier is recorded as the single family [MacTier of Durris](/families/mactier-of-durris/) — redirecting there.

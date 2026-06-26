@@ -24,5 +24,5 @@ It is a 8 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Indiana #2](/setts/s8/db50ly4db3ly4db8k2db12w5~x2/)|
-|![Indiana #2 example sett](/setts/s8/db50ly4db3ly4db8k2db12w5~x2/sett.png)|
+| [Indiana #2](/setts/s8/db50ly4db3ly4db8k2dbi12w5~x2/)|
+|![Indiana #2 example sett](/setts/s8/db50ly4db3ly4db8k2dbi12w5~x2/sett.png)|

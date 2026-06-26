@@ -24,5 +24,5 @@ It is a 11 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Sunart, Pink (Dance)](/setts/s11/dp3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2/)|
-|![Sunart, Pink (Dance) example sett](/setts/s11/dp3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2/sett.png)|
+| [Sunart, Pink (Dance)](/setts/s11/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2/)|
+|![Sunart, Pink (Dance) example sett](/setts/s11/dpi3dp1r20dp20w2dp2w2dp2w32dp1lp3~x2/sett.png)|

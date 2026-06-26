@@ -9,6 +9,12 @@ Sourced from tartans-authority.  It is a [9 stripe tartan](/stripes/stripes9/).
 
 Original link http://www.tartansauthority.com/tartan-ferret/display/7254/
 
+## Register references
+
+External register numbers recorded for this tartan.
+
+- Scottish Tartans Authority (ITI): 7254
+
 ## Thread count
 LN/4 DB4 LN2 DB80 R6 Y2 R20 G20 R/2
 ![Sett](sett.png)
@@ -24,8 +30,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/"><circle cx="400.2" cy="69.0" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="371.5" cy="92.5" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="355.0" cy="96.4" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s8/r2w1r5g5lo1g10db40ly2~x2/"><circle cx="381.3" cy="89.0" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="364.1" cy="85.7" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/setts/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="387.6" cy="106.6" r="4" fill="#3465a4"><title>William Glen &amp; Son (Corporate)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="355.5" cy="110.0" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="433.3" cy="115.1" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="362.6" cy="98.6" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/"><circle cx="378.2" cy="106.8" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="386.7" cy="89.1" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s10/db58w2db1w1db6g3r3g6r24ly3~x2/"><circle cx="399.1" cy="69.1" r="4" fill="#3465a4"><title>Chinese Scottish (Corporate)</title></circle></a><a href="/setts/s11/db74r6k12ly3k3w3r16db8k3r4w3~x2/"><circle cx="370.7" cy="92.8" r="4" fill="#3465a4"><title>Suffolk County Police (Corporate)</title></circle></a><a href="/setts/s9/db12w1db2k3r15k1ly2k39r2~x2/"><circle cx="354.3" cy="96.7" r="4" fill="#3465a4"><title>Superstition Fire Honor Guard Pipes</title></circle></a><a href="/setts/s8/r2w1r5g5lo1g10db40ly2~x2/"><circle cx="380.5" cy="89.1" r="4" fill="#3465a4"><title>St. Andrew Quebec City (Corporate)</title></circle></a><a href="/setts/s9/w3b2w2b40r3ly1r10g10r1~x2/"><circle cx="363.2" cy="86.0" r="4" fill="#3465a4"><title>Russian Scottish</title></circle></a><a href="/setts/s11/r6k3n4k10n5lb2k2n31w1n2w2~x2/"><circle cx="386.7" cy="106.8" r="4" fill="#3465a4"><title>William Glen &amp; Son (Corporate)</title></circle></a><a href="/setts/s8/r6k1w4k4n15r1k35o2~x2/"><circle cx="354.7" cy="110.4" r="4" fill="#3465a4"><title>Distripress (Corporate)</title></circle></a><a href="/setts/s8/db57k1r12db1g12r14db1r2~x2/"><circle cx="432.4" cy="115.4" r="4" fill="#3465a4"><title>McBrayer Blue (Personal)</title></circle></a><a href="/setts/s8/r35w8k85o6k4o14k2dp4/"><circle cx="361.8" cy="99.0" r="4" fill="#3465a4"><title>MacEvil (Corporate)</title></circle></a><a href="/setts/s11/r6k3n4k10n5t2k2n31w1n2w2~x2/"><circle cx="377.5" cy="107.0" r="4" fill="#3465a4"><title>William Glen and Son</title></circle></a><circle cx="385.9" cy="89.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/w2db2w1db40r3ly1r10g10r1~x2/

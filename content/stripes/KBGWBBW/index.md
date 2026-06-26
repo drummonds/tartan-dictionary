@@ -24,7 +24,7 @@ It is a 7 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Weisfeld](/setts/s7/k6db3dg28w1db28db2w3~x2/)|
-|![Weisfeld example sett](/setts/s7/k6db3dg28w1db28db2w3~x2/sett.png)|
-| [Weisfeld (Name)](/setts/s7/k6db3g28w1db28db2w3~x2/)|
-|![Weisfeld (Name) example sett](/setts/s7/k6db3g28w1db28db2w3~x2/sett.png)|
+| [Weisfeld](/setts/s7/k6db3dg28w1dbi28db2w3~x2/)|
+|![Weisfeld example sett](/setts/s7/k6db3dg28w1dbi28db2w3~x2/sett.png)|
+| [Weisfeld (Name)](/setts/s7/k6dbi3g28w1db28dbi2w3~x2/)|
+|![Weisfeld (Name) example sett](/setts/s7/k6dbi3g28w1db28dbi2w3~x2/sett.png)|

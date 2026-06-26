@@ -2,7 +2,7 @@
 title: "Lang of Sherbrooke"
 date: 2023-03-18
 ---
-A family of [Clan Lang](/clan/lang/).
+*Single family clan, so not under clans.*
 
 **Trove of Scotland:** [search “Sherbrooke”](https://www.trove.scot/search?page_type=Designations+Decisions&q=Sherbrooke&viewmode=grid)
 

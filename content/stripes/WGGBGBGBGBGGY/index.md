@@ -24,5 +24,5 @@ It is a 13 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crosby (Personal)](/setts/s13/lo1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lb1~x6/)|
-|![Crosby (Personal) example sett](/setts/s13/lo1dg6dg2p2dg2dr6dg1dr6dg2p2dg2dg6lb1~x6/sett.png)|
+| [Crosby (Personal)](/setts/s13/lo1dg6dgi2p2dgi2dr6dgi1dr6dgi2p2dgi2dg6lb1~x6/)|
+|![Crosby (Personal) example sett](/setts/s13/lo1dg6dgi2p2dgi2dr6dgi1dr6dgi2p2dgi2dg6lb1~x6/sett.png)|

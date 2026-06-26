@@ -24,5 +24,5 @@ It is a 10 stripe tartan.
 
 | Tartans |
 |---------------|
-| [Crookdake-Cheng (Personal)](/setts/s10/r2db24lb6k6g6k4g2k2g2k1~x2/)|
-|![Crookdake-Cheng (Personal) example sett](/setts/s10/r2db24lb6k6g6k4g2k2g2k1~x2/sett.png)|
+| [Crookdake-Cheng (Personal)](/setts/s10/r2db24lb6k6g6ki4g2ki2g2ki1~x2/)|
+|![Crookdake-Cheng (Personal) example sett](/setts/s10/r2db24lb6k6g6ki4g2ki2g2ki1~x2/sett.png)|

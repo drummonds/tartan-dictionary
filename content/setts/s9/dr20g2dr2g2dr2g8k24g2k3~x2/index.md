@@ -9,12 +9,6 @@ Sourced from register-of-tartans.  It is a [9 stripe tartan](/stripes/stripes9/)
 
 Original link https://www.tartanregister.gov.uk/tartanDetails.aspx?ref=564
 
-## Also known as
-
-This cloth is also recorded under:
-
-- Carlow, County
-
 <details class="attestations">
 <summary>2 attestations — the source records this cloth was collapsed from (oldest owns this page)</summary>
 <ul>
@@ -46,8 +40,8 @@ The nearest existing variants by ΔTartan distance, with this tartan at the top 
 
 ## Neighbour map
 
-Every grey dot is one of 14299 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
+Every grey dot is one of 14359 variants placed by the first two principal components of the ΔTartan feature space (44% of its variance). Red is this tartan; blue dots are its nearest — click one to open its page.
 
-<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.1" cy="230.4" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.6" cy="211.1" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/"><circle cx="336.5" cy="248.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="319.8" cy="227.2" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/"><circle cx="342.1" cy="251.2" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/setts/s9/k12g1k1g1k1r5k10g1k2~x4/"><circle cx="291.4" cy="206.2" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="316.2" cy="195.4" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.2" cy="204.2" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.1" cy="203.0" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><circle cx="340.6" cy="224.6" r="5" fill="#c00000"/></svg>
+<svg viewBox="0 0 640 380" role="img" style="max-width:100%;height:auto;border:1px solid #e0e0e0;border-radius:4px;display:block" xmlns="http://www.w3.org/2000/svg"><image href="/nn/cloud.v1.png" width="640" height="380"/><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3~x2/"><circle cx="351.3" cy="231.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8dr24db2dr3/"><circle cx="351.3" cy="231.0" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8r24db2r3~x2/"><circle cx="324.4" cy="211.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg24dt3dg3dt3dg3dt9m24dg3m4~x2/"><circle cx="336.5" cy="248.7" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg12k11dg1k1dg1db10dg1k1dg1~x4/"><circle cx="319.9" cy="227.9" r="4" fill="#3465a4"><title>Herron from Ulster (Personal)</title></circle></a><a href="/setts/s9/dg24db3dg3db3dg3db9m24dg3m4~x2/"><circle cx="342.1" cy="251.9" r="4" fill="#3465a4"><title>Lindsay (Chisholm Red)</title></circle></a><a href="/setts/s9/k12g1k1g1k1r5k10g1k2~x4/"><circle cx="291.5" cy="206.9" r="4" fill="#3465a4"><title>Lindsay (Crimson version) (Clan?)</title></circle></a><a href="/setts/s10/k2r26n26k2n3k2n3k14r2k2~x2/"><circle cx="315.9" cy="196.0" r="4" fill="#3465a4"><title>Wcwm 1527</title></circle></a><a href="/setts/s9/dg20db2dg2db2dg2db8o24db2o3/"><circle cx="305.0" cy="204.9" r="4" fill="#3465a4"><title>Lindsay</title></circle></a><a href="/setts/s9/dg28r12dg4k20lo2k3lo2k3dg7~x2/"><circle cx="319.0" cy="203.7" r="4" fill="#3465a4"><title>Cork, County (District)</title></circle></a><circle cx="340.7" cy="225.3" r="5" fill="#c00000"/></svg>
 
 ID: /setts/s9/dr20g2dr2g2dr2g8k24g2k3~x2/
